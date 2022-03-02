@@ -1,0 +1,2702 @@
+<!DOCTYPE html>
+<head lang="ru">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    
+    
+    <meta name="cmsmagazine" content="3901c0456ab266b944f03bf4c4fdbb1f" />
+    <meta name='yandex-verification' content='74026eb7bb005950' />
+    <meta name="yandex-verification" content="64c9c8bc4fd7cf6f" />
+    <meta name="google-site-verification" content="4fd2I33yn-TbSLRq5G9PLiuOyTv79Kee5Wd-1GZyAOM" />
+    
+
+
+
+        <title>Мониторинг транспорта | Автоматизация вашего бизнеса | Тахографы | Компания TN-Group в Тамбове </title>
+    
+
+
+        <meta name="description" content="Комплексные IT-решений для автоматизации бизнеса в сфере транспорта и логистики, сельского хозяйства и видеомониторинга от компании TN-Group в Тамбове. Узнать подробности можно на сайте или по телефону ☎ 8-800-4444-002">
+    
+
+
+        <meta name="keywords" content="TN Group мониторинг транспорта Тамбов">
+    
+
+
+
+
+    <base href="/" />
+    <link rel="icon" type="image/png" href="/favicon.ico" />
+    
+
+
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180643801-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180643801-1');
+</script>
+
+
+  <!-- BEGIN JIVOSITE CODE {literal} -->
+   
+   <!-- {/literal} END JIVOSITE CODE -->
+   
+   
+
+
+
+        
+        <meta name="yandex-verification" content="4a9ed5b6002607f2" />
+        
+    <link rel="alternate" hreflang="ru" href="https://tn-group.net/" />
+    <link rel="alternate" hreflang="en" href="https://tn-group.net/en/" />
+    
+    
+    <meta property="og:type" content=""/>
+    <meta property='og:image' content='/themes/tg/images/logo-blue.png'/>
+    <meta property='og:title' content='TN - Group. Мониторинг транспорта | Автоматизация вашего бизнеса | Тахографы в Тамбове'/>
+    <meta property="og:url" content="/"/>
+
+    
+    
+    <link rel="stylesheet" href="/assets/components/minifyx/cache/styles_619e01808a.min.css" type="text/css" />
+    <link rel="stylesheet" href="/themes/tg/dist/css/uikit.styles.min.css" />
+<link rel="stylesheet" href="/assets/components/ms2gallery/css/web/default.css" type="text/css" />
+<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css" />
+<script src="https://www.google.com/recaptcha/api.js?onload=ReCaptchaCallbackV3&render=6Ld6n9sZAAAAAN4b9jZyBER9laAMJNtJuoqBckNM" async></script>
+</head>
+<body class="lang_ru template_1 page_1">
+
+
+    <header class="uk-header">
+    <div class="uk-header-top">
+        <div class="uk-container uk-padding-small">
+            <div class="uk-navbar uk-flex-wrap">
+                <div class="uk-navbar-left uk-width-5-6@m uk-flex-between">
+                    
+                    <div class="uk-flex uk-width-1 uk-width-auto@s uk-flex-between uk-flex-1">
+                        <a class="uk-navbar-item uk-logo" href="/">
+                            <img src="/themes/tg/images/logo-blue.png" alt="логотип blue" style="padding-bottom: 15px;">
+                        </a>
+                        <ul class="uk-navbar-nav uk-hidden@m">
+                            <a class="uk-navbar-toggle" uk-navbar-toggle-icon uk-toggle="target: #mobile-navbar"></a>
+                        </ul>
+                    </div>
+                    
+                    <div class="uk-navbar-item uk-visible@s" style="display: none;">
+                        <!-- <a class="uk-link-reset" href="/en/">EN</a> -->
+                        <span>Регион:</span> <a href="#" uk-toggle="target: #popupCity" style="">Тамбов</a>
+                    </div>
+                    
+                    <div class="uk-flex uk-width-1 uk-width-auto@s uk-flex-wrap uk-flex-between">
+                        <div class="uk-navbar-item uk-margin-auto uk-width-1-1">
+                            <div class="uk-width-1-1 uk-text-center">
+                                <span onclick="ym(25220264, 'reachGoal', 'click_telephone'); return true;" class="click-phone uk-display-block uk-navbar-item-tel">8-800-4444-002</span>
+                                <a onclick="ym(25220264, 'reachGoal', 'open_telephone'); return true;" href="#" class="header-callback uk-display-block uk-link-muted uk-text-danger uk-visible@s" uk-toggle="target: #mainCallback" style="display:none!important;">Заказать обратный звонок</a>  
+                                <button onclick="ym(25220264, 'reachGoal', 'open_telephone'); return true;" style="border: 1px solid #cd1d1b" class="header-callback uk-button uk-button-default uk-button-small uk-text-danger uk-margin-small-top uk-width-1-1 uk-hidden@s" uk-toggle="target: #mainCallback">Позвоните мне!</button>                        <!-- This is the modal -->
+                                <div id="mainCallback" uk-modal>
+                                    <div class="uk-modal-dialog uk-modal-body">
+                                        <div class="uk-modal-title">Заказать звонок</div><br>
+                                        
+                                        <form id="telephone" class="ajax_form main_callback" action="" method="post">
+    <input type="hidden" name="nospam" value="" />
+    <fieldset class="uk-fieldset">
+
+        <!--<legend class="uk-legend">Заказать</legend>-->
+
+        <div class="uk-margin">
+            <input class="uk-input" type="text" placeholder="Имя *" name="name" value="">
+            <span class="error_name uk-text-small"></span>
+        </div>
+        <div class="uk-margin">
+            <input class="uk-input" type="text" placeholder="Телефон *" name="phone" value="">
+            <span class="error_phone uk-text-small"></span>
+        </div>
+        <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid uk-text-small">
+            <input class="uk-hidden" type="text" value="" name="personal">
+            <label><input class="uk-checkbox" type="checkbox" name="personal" value="personal" checked> Я согласен на обработку персональных данных</label>
+            <span class="error_personal uk-text-small"></span>
+        </div>
+        
+
+    <span class="error_g-recaptcha-response error"></span>
+    <input type="hidden" name="g-recaptcha-response">
+
+
+        <button class="uk-button uk-button-danger uk-width-1-1 uk-text-large">Заказать</button>
+        
+    	
+
+    </fieldset>
+
+	<input type="hidden" name="af_action" value="be021564600a7767edb2e17c215b0f8c" />
+</form>
+                                        <button class="uk-modal-close-default" type="button" uk-close></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="uk-navbar-item uk-visible@m">
+                        <a onclick="ym(25220264, 'reachGoal', 'open_telephone'); return true;" href="#" class="header-callback uk-button uk-button-danger" uk-toggle="target: #mainCallback" style="padding: 0 15px;">Позвоните мне!</a>
+                    </div>
+                    
+                    <div class="uk-navbar-item uk-visible@m">
+                        <a href="/blog/novosti-kompanii/pyatyie-i-zolotyie-–-tn-group-v-rejtinge-wialon-top-50-global-2020/" target="_blank">
+                            <img src="/assets/images/wialontop5global.png" alt="Wialon TOP 50 GLOBAL">
+                         </a>
+                    </div>
+                    
+                    
+                
+                    
+                    
+                </div>
+                <div class="uk-navbar-right uk-width-1-5@m uk-flex-right uk-visible@m">
+                    <div class="uk-width-1-1 uk-width-1-3@s uk-hidden@m">
+                        <div>
+                            <form action="search/" method="get" class="uk-flex" style="min-width: 280px;font-size: 14px;">
+                                <input class="uk-input" type="text" placeholder="Поиск" name="search">
+                                <button style="width: 40px; padding: 0 10px;" type="submit" class="uk-button-primary uk-flex-none" uk-search-icon></button>
+                            </form>
+                        </div>
+                        <div>
+                            <a href="#" style="font-size: 16px;"><span uk-icon="icon: user-circle"></span> <span class="uk-margin-small-left">Личный кабинет</span></a>
+                        </div>
+                    </div>
+                    <div class="uk-navbar-item uk-navbar-item-buttons uk-width-auto@s uk-flex uk-margin" style="white-space: nowrap;">
+                            <!-- <div class="uk-width-2-3">Регион: <a href="#" uk-toggle="target: #popupCity" style="">Тамбов</a></div> -->
+                        <div class="uk-width-2-3"><a href="#" class="uk-button" uk-toggle="target: #popupServices" style="">Вход в систему</a></div>
+                        <div class="uk-width-2-3"><a href="#" class="uk-button header-call-test" style=""  uk-toggle="target: #modal-orrderr">Заказать тест</a></div>
+                    </div>
+                </div>
+                
+<div id="popupCity" uk-modal>
+    <div class="uk-modal-dialog uk-modal-body">
+        <div class="uk-modal-title">Выберите ваш регион</div><br>
+        <div>
+                <a href="https://volgograd.tn-group.net/">Волгоград</a><br>
+                <a href="https://rostov-na-donu.tn-group.net/">Ростов-на-Дону (Аксай)</a><br>
+                <a href="https://orel.tn-group.net/">Орел</a><br>
+                <a href="https://lipetsk.tn-group.net/">Липецк</a><br>
+                <a href="https://voronezh.tn-group.net/">Воронеж</a><br>
+                <a href="https://penza.tn-group.net/">Пенза</a><br>
+                <a href="https://kursk.tn-group.net/">Курск</a><br>
+                <a href="https://bryansk.tn-group.net/">Брянск</a><br>
+                <a href="https://belgorod.tn-group.net/">Белгород</a><br>
+                <a href="https://krasnodar.tn-group.net/">Краснодар</a><br>
+                <a href="https://stavropol.tn-group.net/">Ставрополь</a><br>
+                <a href="https://ryazan.tn-group.net/">Рязань</a><br>
+                <a href="https://saransk.tn-group.net/">Саранск</a><br>
+                
+                
+                <a href="https://tn-group.net/">Тамбов</a><br>
+                
+                
+                
+        </div>
+        <button class="uk-modal-close-default" type="button" uk-close></button>
+    </div>
+</div>
+
+                <div class="uk-navbar-item uk-visible@s" style="padding: 0">
+                    <div><span style="display: block;">Регион:</span> <a href="#" uk-toggle="target: #popupCity" style="">Тамбов</a></div>
+                    <!-- <a class="uk-link-reset" href="/en/">EN</a> -->
+                </div>
+        </div>
+        </div>
+        <div style="background: #E6E6E6; top: 70px;" id="mobile-navbar" class="uk-padding-small uk-width-1-1 uk-position-absolute uk-position-z-index mobile_menu" hidden>
+            <ul class="uk-nav uk-nav-default"><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="/kompaniya/"  >О компании</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/"  >О нас</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/nasha-komanda/"  >Наша команда</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/licenzii/"  >Лицензии и сертификаты</a>
+    
+</li><li class="">
+    
+    <a class="" href="kompaniya/kejsyi/"  >Кейсы</a>
+    
+</li><li class="">
+    
+    <a class="" href="kompaniya/otzyvy/"  >Отзывы</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/vakansii/"  >Вакансии</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/"  >Решения</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/"  >Системы GPS/ГЛОНАСС мониторинга транспорта</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/ustanovka/"  >Установка ГЛОНАСС</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/kontrol-rashoda-topliva/"  >Контроль расхода топлива</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/integracziya-sistemyi-monitoringa-s-toplivnyimi-kartami/"  >Интеграция системы мониторинга с топливными картами</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/snyatie-dannyh-s-can-shiny/"  >Подключение трекера к CAN шине</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/era-glonass-postanovlenie-2216/"  >ЭРА-ГЛОНАСС по ПП № 2216</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/"  >Подключение к РНИС</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/avtorizaciya/"  >Авторизация в РНИС</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/vnesenie-transportnyh-sredstv/"  >Внесение транспортных средств в РНИС</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/nastrojka-peredachi-dannyh/"  >Настройка передачи данных в РНИС</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/"  >Тахография</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/"  >Установка тахографов</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-kamaz/"  >На КАМАЗ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-zil/"  >На ЗИЛ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-gazel/"  >На газель</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-avtobus/"  >На автобус</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/bez-skzi/"  >Без СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/s-blokom-skzi/"  >С блоком СКЗИ</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/"  >Изготовление карт водителя для тахографа</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/skzi/"  >СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/vdo-bez-skzi/"  >Без СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/razblokirovka/"  >Разблокировка карты </a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/kalibrovka/"  >Калибровка тахографов</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/remont-obsluzhivanie/"  >Ремонт тахографов</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/zamena-bloka-skzi/"  >Замена блока СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/podklyuchenie-spidometra/"  >Подключение спидометра</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/aktivaciya-bloka-skzi/"  >Активация блока СКЗИ</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/"  >Видеомониторинг транспорта</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/avtobusy-maloy-vmestimosti/"  >Автобус малой вместимости</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/avtobusy-bolshoy-vmestimosti/"  >Автобус большой вместимости</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/benzovozy/"  >Бензовоз</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/iq-freeze/"  >Контроль перевозки грузов IQFreeze</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-parallelnogo-vozhdeniya/"  >Системы параллельного вождения</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/meteostancii/"  >Метеостанции</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/bespilotnye-sistemy/"  >Беспилотные системы</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/"  >Программное обеспечение</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/tron-toplivo/"  >TRON:Топливо</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/kontrol-gotovoy-produkcii/"  >TRON: Урожай</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/wialon/"  >Wialon - система мониторинга</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/hecterra-wialon/"  >Hecterra - платформа для контроля сельхозработ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/fleet-run/"  >FleetRun - контроль техобслуживания</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/agroanalitika/"  >Система управления агрохолдингом Агроаналитика</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/erp-sistema-upravleniya-vyiezdnyimi-sotrudnikami/"  >ERP-система управления выездными сотрудниками</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/"  >Оборудование</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    
+    <a class="" href="catalog/gps-glonass-trekery/"  >Спутниковые GPS/ГЛОНАСС трекеры</a>
+    
+</li><li class="">
+    
+    <a class="" href="catalog/datchiki-urovnya-topliva/"  >Датчики уровня топлива</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/"  >Тахографы</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/bez-skzi/"  >Без СКЗИ</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/bez-skzi/stoneridge/"  >Stoneridge</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/blok-skzi/"  >Блок СКЗИ</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/"  >СКЗИ</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/atol-drive-smart/"  >АТОЛ Drive Smart</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/merkuriy-ta001-skzi/"  >Меркурий ТА-001</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/atol-drive-5/"  >АТОЛ Drive-5</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/vdo-dtco-3283/"  >VDO DTCO 3283</a>
+    
+</li></ul></div>
+</li></ul></div>
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="tehpodderzhka/"  >Техническая поддержка</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="blog/"  >Новости</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="mobileMenuBack">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.3109 0.106299C6.48679 0.106299 6.66339 0.173294 6.79815 0.308374C7.06728 0.577508 7.06728 1.01304 6.79815 1.28217L2.0269 6.0531L6.79815 10.8244C7.06728 11.0935 7.06728 11.5294 6.79815 11.7981C6.52902 12.0673 6.0931 12.0673 5.82403 11.7981L0.566235 6.54035C0.297101 6.27122 0.297101 5.8353 0.566235 5.56656L5.82403 0.308438C5.95834 0.173679 6.13462 0.106299 6.3109 0.106299Z" fill="#03254A"/>
+</svg>
+ Назад</li><li class="">
+    
+    <a class="" href="blog/stati/"  >Статьи</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/video/"  >Видео</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-kompanii/"  >Новости компании</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-tahografiya/"  >Тахография</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-videonablyudenie/"  >Видеонаблюдение</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-sputnikoviy-monitoring/"  >Мониторинг транспорта</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/internet-veshhej/"  >Интернет вещей</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kontaktyi/"  >Контакты</a>
+    
+</li></ul>
+            <script>
+                /*$('.mobile_menu .parent_arrow').click(function() {
+                    $(this).parent().children('.uk-navbar-dropdown').show();
+                });
+                $('.mobile_menu .mobileMenuBack').click(function() {
+                    $(this).closest('.uk-navbar-dropdown').hide();
+                });*/
+            </script>
+            
+            <span>Регион:</span> <a href="#" uk-toggle="target: #popupCity" style="">Тамбов</a>
+            <!-- <a class="uk-link-reset uk-text-small" href="/en/">English version</a> -->
+            
+            <span onclick="ym(25220264, 'reachGoal', 'click_telephone'); return true;" class="click-phone uk-display-block uk-text-bold">8-800-4444-002</span>
+            
+            <button onclick="ym(25220264, 'reachGoal', 'open_telephone'); return true;" style="border: 1px solid #cd1d1b" class="header-callback uk-button uk-button-default uk-button-small uk-text-danger uk-margin-small-top uk-width-1-1 uk-hidden@s" uk-toggle="target: #mainCallback">Позвоните мне!</button>
+            
+            <a href="#[-~4]]" class="uk-button uk-button-danger uk-width-1-1 uk-margin" uk-toggle="target: #modal-orrderr">Заказать</a>
+
+            <div>
+                <form action="search/" method="get" class="uk-flex" style="min-width: 280px;font-size: 14px;">
+                    <input class="uk-input" type="text" placeholder="Поиск" name="search">
+                    <button style="width: 40px; padding: 0 10px;" type="submit" class="uk-button-primary uk-flex-none" uk-search-icon></button>
+                </form>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#" uk-toggle="target: #popupAccounts" style="font-size: 16px;"><span uk-icon="icon: user-circle"></span> <span class="uk-margin-small-left">Личный кабинет</span></a>
+            </div>
+            <div class="uk-navbar-item-buttons uk-width-auto@s uk-flex uk-margin">
+                <a href="#" class="uk-button uk-button-small" uk-toggle="target: #popupServices">Вход в систему</a>
+                <div id="popupServices" uk-modal>
+                    <div class="uk-modal-dialog uk-modal-body">
+                        <div class="uk-modal-title">Вход в систему</div><br>
+                        <div>
+                            <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="http://local.tn-group.net/">Wialon Local 1</a><br>
+                            <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="http://gps.tn-group.net/">Wialon Local 2</a><br>
+                            <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="https://hosting.wialon.com/">Wialon Hosting</a><br>
+                            <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="http://pro.tn-group.net">Wialon PRO</a><br>
+                            <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="http://fms.smartagro.ru/">АгроАналитика</a><br>
+                        </div>
+                        <button class="uk-modal-close-default" type="button" uk-close></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="uk-navbar-wrapper uk-visible@m" style="background-color: #17598d;">
+        <div class="uk-container">
+            <nav class="uk-navbar-container uk-navbar-transparent uk-margin" uk-navbar="mode: hover">
+                <div class="nav-overlay uk-navbar-left" style="flex: 1;">
+                    
+
+                    
+                            <ul class="uk-navbar-nav" style="width: 100%;justify-content: space-around;"><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="/kompaniya/"  >О компании</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/"  >О нас</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/nasha-komanda/"  >Наша команда</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/licenzii/"  >Лицензии и сертификаты</a>
+    
+</li><li class="">
+    
+    <a class="" href="kompaniya/kejsyi/"  >Кейсы</a>
+    
+</li><li class="">
+    
+    <a class="" href="kompaniya/otzyvy/"  >Отзывы</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kompaniya/vakansii/"  >Вакансии</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/"  >Решения</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/"  >Системы GPS/ГЛОНАСС мониторинга транспорта</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/ustanovka/"  >Установка ГЛОНАСС</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/kontrol-rashoda-topliva/"  >Контроль расхода топлива</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/integracziya-sistemyi-monitoringa-s-toplivnyimi-kartami/"  >Интеграция системы мониторинга с топливными картами</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-sputnikovoy-navigacii-gps-glonass/snyatie-dannyh-s-can-shiny/"  >Подключение трекера к CAN шине</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/era-glonass-postanovlenie-2216/"  >ЭРА-ГЛОНАСС по ПП № 2216</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/"  >Подключение к РНИС</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/avtorizaciya/"  >Авторизация в РНИС</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/vnesenie-transportnyh-sredstv/"  >Внесение транспортных средств в РНИС</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/podklyuchenie-k-rnis/nastrojka-peredachi-dannyh/"  >Настройка передачи данных в РНИС</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/"  >Тахография</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/"  >Установка тахографов</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-kamaz/"  >На КАМАЗ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-zil/"  >На ЗИЛ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-gazel/"  >На газель</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/na-avtobus/"  >На автобус</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/bez-skzi/"  >Без СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/ustanovka/s-blokom-skzi/"  >С блоком СКЗИ</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/"  >Изготовление карт водителя для тахографа</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/skzi/"  >СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/vdo-bez-skzi/"  >Без СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/karty/razblokirovka/"  >Разблокировка карты </a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/kalibrovka/"  >Калибровка тахографов</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/remont-obsluzhivanie/"  >Ремонт тахографов</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/zamena-bloka-skzi/"  >Замена блока СКЗИ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/podklyuchenie-spidometra/"  >Подключение спидометра</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/tahografiya/aktivaciya-bloka-skzi/"  >Активация блока СКЗИ</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/"  >Видеомониторинг транспорта</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/avtobusy-maloy-vmestimosti/"  >Автобус малой вместимости</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/avtobusy-bolshoy-vmestimosti/"  >Автобус большой вместимости</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/videonablyudenie-na-transporte/benzovozy/"  >Бензовоз</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/iq-freeze/"  >Контроль перевозки грузов IQFreeze</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/sistemy-parallelnogo-vozhdeniya/"  >Системы параллельного вождения</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/meteostancii/"  >Метеостанции</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="napravleniya/bespilotnye-sistemy/"  >Беспилотные системы</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/"  >Программное обеспечение</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/tron-toplivo/"  >TRON:Топливо</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/kontrol-gotovoy-produkcii/"  >TRON: Урожай</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/wialon/"  >Wialon - система мониторинга</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/hecterra-wialon/"  >Hecterra - платформа для контроля сельхозработ</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/fleet-run/"  >FleetRun - контроль техобслуживания</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/agroanalitika/"  >Система управления агрохолдингом Агроаналитика</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="programmnoe-obespechenie/erp-sistema-upravleniya-vyiezdnyimi-sotrudnikami/"  >ERP-система управления выездными сотрудниками</a>
+    
+</li></ul></div>
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/"  >Оборудование</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    
+    <a class="" href="catalog/gps-glonass-trekery/"  >Спутниковые GPS/ГЛОНАСС трекеры</a>
+    
+</li><li class="">
+    
+    <a class="" href="catalog/datchiki-urovnya-topliva/"  >Датчики уровня топлива</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/"  >Тахографы</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/bez-skzi/"  >Без СКЗИ</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/bez-skzi/stoneridge/"  >Stoneridge</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/blok-skzi/"  >Блок СКЗИ</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/"  >СКЗИ</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/atol-drive-smart/"  >АТОЛ Drive Smart</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/merkuriy-ta001-skzi/"  >Меркурий ТА-001</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/atol-drive-5/"  >АТОЛ Drive-5</a>
+    
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="catalog/tahography/s-blokom-skzi/vdo-dtco-3283/"  >VDO DTCO 3283</a>
+    
+</li></ul></div>
+</li></ul></div>
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="tehpodderzhka/"  >Техническая поддержка</a>
+    
+</li><li class="parent">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="blog/"  >Новости</a>
+    <div class="uk-navbar-dropdown"><ul class="uk-nav uk-navbar-dropdown-nav"><li class="">
+    
+    <a class="" href="blog/stati/"  >Статьи</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/video/"  >Видео</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-kompanii/"  >Новости компании</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-tahografiya/"  >Тахография</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-videonablyudenie/"  >Видеонаблюдение</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/novosti-sputnikoviy-monitoring/"  >Мониторинг транспорта</a>
+    
+</li><li class="">
+    
+    <a class="" href="blog/internet-veshhej/"  >Интернет вещей</a>
+    
+</li></ul></div>
+</li><li class="">
+    <span class="parent_arrow">
+<svg width="7" height="12" viewBox="0 0 7 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.689102 0.106299C0.513209 0.106299 0.33661 0.173294 0.20185 0.308374C-0.0672834 0.577508 -0.0672834 1.01304 0.20185 1.28217L4.9731 6.0531L0.20185 10.8244C-0.0672834 11.0935 -0.0672834 11.5294 0.20185 11.7981C0.470984 12.0673 0.906898 12.0673 1.17597 11.7981L6.43376 6.54035C6.7029 6.27122 6.7029 5.8353 6.43376 5.56656L1.17597 0.308438C1.04166 0.173679 0.86538 0.106299 0.689102 0.106299Z" fill="#03254A"/>
+</svg>
+</span>
+    <a class="" href="kontaktyi/"  >Контакты</a>
+    
+</li></ul>
+                        
+
+                </div>
+                <div class="nav-overlay uk-navbar-right">
+                    <ul class="uk-navbar-nav">
+                        <li><a style="width:50px" class="uk-navbar-toggle" href="#" uk-toggle="target: .nav-overlay; animation: uk-animation-fade"><span uk-icon="icon: search"></span></a></li>
+                        <li class="uk-active"><a style="width1:50px" href="#" uk-toggle="target: #popupAccounts"><span uk-icon="icon: user-circle"></span>&nbsp;Личный кабинет</a></li>
+                        <div id="popupAccounts" uk-modal>
+                            <div class="uk-modal-dialog uk-modal-body">
+                                <div class="uk-modal-title">Личный кабинет</div><br>
+                                <div>
+                                    <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="https://tngroup.helpdeskeddy.com/">Обращение в ТП</a><br>
+                                    <a rel="nofollow" class="uk-button uk-button-primary uk-width-1-1 uk-margin-small" target="_blank" href="http://erp.mielta.ru/">Контроль заявок</a>
+                                </div>
+                                <button class="uk-modal-close-default" type="button" uk-close></button>
+                            </div>
+                        </div>
+                    </ul>
+                </div>
+                <form action="search/" method="get" class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+                    <div class="uk-navbar-item uk-width-expand uk-light">
+                        <div class="uk-search uk-search-navbar uk-width-1-1">
+                            <input class="uk-search-input" type="search" name="search" placeholder="Введите фразу для поиска..." autofocus>
+                        </div>
+                    </div>
+                    <a class="uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+                    <div class="uk-navbar-nav">
+                        <li>
+                            <button type="submit" class="uk-button uk-button-nav uk-button-danger uk-search-icon-flip uk-search-icon-white" uk-search-icon></button>
+                        </li>
+                    </div>
+                </form>
+            </nav>
+        </div>
+    </div>
+</header>
+
+
+
+
+
+    
+
+
+
+    <!--<div>
+    <div>
+        <img src="/themes/tg/images/bitmap.jpg" alt="">
+    </div>
+</div>-->
+
+<section class="slider">
+    <div class="slider__block">
+        <ul class="slides">
+           
+            
+           
+           
+            
+            
+            
+            <li style="background-image: url(/assets/images/slider/15000.jpg);" itemscope itemtype="https://schema.org/ImageObject">
+                <div class="container">
+                    <div class="row">
+                        <div class="slider__block__content col-xs-12"><span class="b">ЕЖЕДНЕВНО ОБСЛУЖИВАЕМ 20 000 ОБЪЕКТОВ</span>
+
+                            <p style="background: rgba(0,0,0, .7);">Ежедневная техническая поддержка клиентов</p></div>
+                    </div>
+                </div>
+                <img src="/assets/images/slider/15000.jpg" itemprop="contentUrl" alt="TN-GROUP-5">
+                    <span itemprop="description" style="display:none";>TN-GROUP-3</span>
+            </li>
+            <li style="background-image: url(/assets/images/slider/snizhaem-rashody.jpg);" itemscope itemtype="https://schema.org/ImageObject">
+                <div class="container">
+                    <div class="row">
+                        <div class="slider__block__content col-xs-12"><span class="b">СНИЖАЕМ ВАШИ РАСХОДЫ НА 30%</span>
+
+                            <p style="background: rgba(0,0,0, .7);">Сокращаем издержки с помощью систем спутникового мониторинга</p></div>
+                    </div>
+                </div>
+                <img src="/assets/images/slider/snizhaem-rashody.jpg" itemprop="contentUrl" alt="TN-GROUP-6">
+                    <span itemprop="description" style="display:none";>TN-GROUP-4</span>
+            </li>
+            
+            
+        </ul>
+    </div>
+</section>
+
+
+
+    <div class="uk-section uk-section-problems">
+        <div class="uk-container">
+        <h1 style="text-align:center;">Системы мониторинга транспорта от TN-Group</h1>
+            <div class="uk-section-title"></div>
+            
+            <p>Хотите всегда знать, где находится ваш транспорт? Сократить расходы на топливо до 35%, а расходы на содержание автопарка до 40%? Исключить факты накрутки, «левые рейсы» и вывести управление автопарком на новый уровень эффективности? </p>
+            <p> Воспользуйтесь комплексными решениями от TN-Group!</p>
+            <p>TN-Group – это федеральный интегратор комплексных IT-решений для автоматизации бизнеса в сфере транспорта и логистики, сельского хозяйства и умного ЖКХ. Компания является золотым партнером Wialon и лидером в ЦФО, ЮФО и Поволжье в области спутникового мониторинга. </p>
+            <p>Мы разрабатываем и внедряем комплексные решения в области телематики и спутникового мониторинга, включающих оборудование и интегрированное с ним программное обеспечение. </p>
+        </div>
+    </div>
+    <div class="uk-section uk-section-promo">
+	<div class="uk-grid-collapse uk-child-width-1-1@s uk-child-width-1-2@m promo-list" uk-grid>
+        <div class="uk-transition-toggle">
+	<div class="promo-item" style="background-image: url('themes/tg/images/wialon.jpg');">
+		<div class="uk-transition-fade uk-overlay uk-overlay-primary uk-position-cover"></div>
+		<div class="uk-overlay uk-light uk-position-bottom">
+			<h3 class="uk-heading-line-bottom uk-text-bold uk-text-uppercase">Wialon - система мониторинга</h3>
+			<p class="promo-item-text"></p>
+			<p class="uk-transition-slide-bottom promo-item-buttons"><a href="programmnoe-obespechenie/wialon/" class="uk-button uk-button-wide uk-button-danger">Подробнее</a></p>
+		</div>
+	</div>
+</div>
+<div class="uk-transition-toggle">
+	<div class="promo-item" style="background-image: url('assets/templates/tn/dist/images/kgp/slide-kgp.jpg');">
+		<div class="uk-transition-fade uk-overlay uk-overlay-primary uk-position-cover"></div>
+		<div class="uk-overlay uk-light uk-position-bottom">
+			<h3 class="uk-heading-line-bottom uk-text-bold uk-text-uppercase">TRON: Урожай</h3>
+			<p class="promo-item-text"></p>
+			<p class="uk-transition-slide-bottom promo-item-buttons"><a href="programmnoe-obespechenie/kontrol-gotovoy-produkcii/" class="uk-button uk-button-wide uk-button-danger">Подробнее</a></p>
+		</div>
+	</div>
+</div>
+<div class="uk-transition-toggle">
+	<div class="promo-item" style="background-image: url('assets/images/Rectangle.jpg');">
+		<div class="uk-transition-fade uk-overlay uk-overlay-primary uk-position-cover"></div>
+		<div class="uk-overlay uk-light uk-position-bottom">
+			<h3 class="uk-heading-line-bottom uk-text-bold uk-text-uppercase">FleetRun - контроль техобслуживания</h3>
+			<p class="promo-item-text"></p>
+			<p class="uk-transition-slide-bottom promo-item-buttons"><a href="programmnoe-obespechenie/fleet-run/" class="uk-button uk-button-wide uk-button-danger">Подробнее</a></p>
+		</div>
+	</div>
+</div>
+<div class="uk-transition-toggle">
+	<div class="promo-item" style="background-image: url('/assets/templates/tn/dist/images/TRON/b-tron-toplivo1.jpg');">
+		<div class="uk-transition-fade uk-overlay uk-overlay-primary uk-position-cover"></div>
+		<div class="uk-overlay uk-light uk-position-bottom">
+			<h3 class="uk-heading-line-bottom uk-text-bold uk-text-uppercase">TRON:Топливо</h3>
+			<p class="promo-item-text"></p>
+			<p class="uk-transition-slide-bottom promo-item-buttons"><a href="programmnoe-obespechenie/tron-toplivo/" class="uk-button uk-button-wide uk-button-danger">Подробнее</a></p>
+		</div>
+	</div>
+</div>
+    </div>
+</div>
+    
+
+    
+    
+    <div class="uk-section uk-section-problems">
+    <div class="uk-container">
+        <h3 class="uk-section-title">Проблемы, которые мы решаем</h3>
+        <div class="uk-child-width-1-1@s uk-child-width-1-2@m uk-child-width-1-3@l" uk-grid>
+            <div>
+                <div class="uk-padding-small uk-text-center" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="uk-border-circle" src="/themes/tg/images/problems-01.png" itemprop="contentUrl" alt="Повышенный расход топлива">
+                    <p itemprop="description">Повышенный расход топлива</p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-padding-small uk-text-center" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="uk-border-circle" src="/themes/tg/images/problems-02.png" itemprop="contentUrl" alt="Накрутка пробега ТС">
+                    <p itemprop="description">Накрутка пробега ТС</p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-padding-small uk-text-center" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="uk-border-circle" src="/themes/tg/images/problems-03.png" itemprop="contentUrl" alt="Нарушения трудовой дисциплины">
+                    <p itemprop="description">Нарушения трудовой дисциплины</p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-padding-small uk-text-center" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="uk-border-circle" src="/themes/tg/images/problems-04.png" itemprop="contentUrl" alt="Повышение затрат на содержание и обслуживание ТС">
+                    <p itemprop="description">Повышение затрат на содержание и обслуживание ТС</p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-padding-small uk-text-center" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="uk-border-circle" src="/themes/tg/images/problems-05.png" itemprop="contentUrl" alt="Срыв сроков поставки грузов">
+                    <p itemprop="description">Срыв сроков поставки грузов</p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-padding-small uk-text-center" itemscope itemtype="https://schema.org/ImageObject">
+                    <img class="uk-border-circle" src="/themes/tg/images/problems-06.png" itemprop="contentUrl" alt="Несоблюдение условий транспортировки грузов">
+                    <p itemprop="description">Несоблюдение условий транспортировки грузов</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    
+    <div class="uk-section uk-section-solutions uk-background-cover uk-background-center-left uk-light" style="background-image: url('/themes/tg/images/kamaz.jpg');">
+    <div class="uk-container">
+        <h3 class="uk-section-title">Наши решения</h3>
+        <div class="uk-child-width-1-1@s uk-child-width-1-2@m uk-child-width-1-3@l uk-margin-large-top uk-section-solutions-list" uk-grid>
+            <div class="uk-section-solutions-item">
+                <div class="uk-padding-small uk-text-center">
+                    <div class="uk-section-solutions-item-icon" itemscope itemtype="https://schema.org/ImageObject"><img src="/themes/tg/images/icon-solutions-01.png" itemprop="contentUrl" alt="Оборудование">
+                        <span itemprop="description" style="display:none";>Оборудование</span>
+                    </div>
+                    <div class="uk-section-solutions-item-title">Оборудование</div>
+                    <div class="uk-section-solutions-item-text">
+                        <p>Полный комплекс аппаратных средств (трекеры, терминалы и&nbsp;дополнительные датчики)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-section-solutions-item">
+                <div class="uk-padding-small uk-text-center">
+                    <div class="uk-section-solutions-item-icon" itemscope itemtype="https://schema.org/ImageObject"><img src="/themes/tg/images/icon-solutions-02.png" itemprop="contentUrl" alt="Программное обеспечение">
+                        <span itemprop="description" style="display:none";>Программное обеспечение</span>
+                    </div>
+                    <div class="uk-section-solutions-item-title">Программное обеспечение</div>
+                    <div class="uk-section-solutions-item-text">
+                        <p>Многофункциональная система мониторинга транспорта, диспетчерские приложения</p>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-section-solutions-item">
+                <div class="uk-padding-small uk-text-center">
+                    <div class="uk-section-solutions-item-icon" itemscope itemtype="https://schema.org/ImageObject"><img src="/themes/tg/images/icon-solutions-03.png" itemprop="contentUrl" alt="Комплексный аудит">
+                        <span itemprop="description" style="display:none";>Комплексный аудит</span>
+                    </div>
+                    <div class="uk-section-solutions-item-title">Комплексный аудит</div>
+                    <div class="uk-section-solutions-item-text">
+                        <p>Рекомендации по&nbsp;оптимизации штата и&nbsp;созданию диспетчерской службы</p>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-section-solutions-item">
+                <div class="uk-padding-small uk-text-center">
+                    <div class="uk-section-solutions-item-icon" itemscope itemtype="https://schema.org/ImageObject"><img src="/themes/tg/images/icon-solutions-04.png" itemprop="contentUrl" alt="Обучение сотрудников">
+                        <span itemprop="description" style="display:none";>Обучение сотрудников</span>
+                    </div>
+                    <div class="uk-section-solutions-item-title">Обучение сотрудников</div>
+                    <div class="uk-section-solutions-item-text">
+                        <p>Трехступенчатая система обучения для ваших сотрудников</p>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-section-solutions-item">
+                <div class="uk-padding-small uk-text-center">
+                    <div class="uk-section-solutions-item-icon" itemscope itemtype="https://schema.org/ImageObject"><img src="/themes/tg/images/icon-solutions-05.png" itemprop="contentUrl" alt="Сопровождение проекта">
+                        <span itemprop="description" style="display:none";>Сопровождение проекта</span>
+                    </div>
+                    <div class="uk-section-solutions-item-title">Сопровождение проекта</div>
+                    <div class="uk-section-solutions-item-text">
+                        <p>Диспетчеризация, полное техническое сопровождение клиента, мониторинг, аналитика</p>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-section-solutions-item">
+                <div class="uk-padding-small uk-text-center">
+                    <div class="uk-section-solutions-item-icon" itemscope itemtype="https://schema.org/ImageObject"><img src="/themes/tg/images/icon-solutions-06.png" itemprop="contentUrl" alt="Интеграция систем">
+                        <span itemprop="description" style="display:none";>Интеграция систем</span>
+                    </div>
+                    <div class="uk-section-solutions-item-title">Интеграция систем</div>
+                    <div class="uk-section-solutions-item-text">
+                        <p>Интеграция с большинством современных информационных систем</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+    
+    <script>
+document.addEventListener('DOMContentLoaded', function () {
+    var result_fura, result_kamaz, result_tractor, result_auto, result_total;
+    const default_price_Bali = 1e6;
+    const default_price_House = 2e6;
+    const fura = {k_one: .4, k_two: .25, size: 0, run: 0};
+    const kamaz = {k_one: .4, k_two: .25, size: 0, run: 0};
+    const tractor = {k_one: .7, k_two: .3, size: 0, run: 0};
+    const auto = {k_one: .1, k_two: .2, size: 0, run: 0};
+    const calculator = document.querySelector('.calculator');
+    const calculator_result = document.querySelector('.calculator-result');
+    const total_bali = calculator_result.querySelector('#baliTotal');
+    const total_econom = calculator_result.querySelector('#economTotal');
+    const total_house = calculator_result.querySelector('#houseTotal');
+
+    calculator.addEventListener('input', function () {
+        const fura_size_value = calculator.querySelector('[name="fura__size"]').value;
+        const fura_run_value = calculator.querySelector('[name="fura__run"]').value;
+
+        const kamaz_size_value = calculator.querySelector('[name="kamaz__size"]').value;
+        const kamaz_run_value = calculator.querySelector('[name="kamaz__run"]').value;
+
+        const tractor_size_value = calculator.querySelector('[name="tractor__size"]').value;
+        const tractor_run_value = calculator.querySelector('[name="tractor__run"]').value;
+
+        const auto_size_value = calculator.querySelector('[name="auto__size"]').value;
+        const auto_run_value = calculator.querySelector('[name="auto__run"]').value;
+
+        result_fura = fura_size_value * fura_run_value * fura.k_one * 35 * fura.k_two;
+        result_kamaz = kamaz_size_value * kamaz_run_value * kamaz.k_one * 35 * kamaz.k_two;
+        result_tractor = tractor_size_value * tractor_run_value * tractor.k_one * 35 * tractor.k_two;
+        result_auto = auto_size_value * auto_run_value * auto.k_one * 35 * auto.k_two;
+        result_total = result_fura + result_kamaz + result_tractor + result_auto;
+        console.log('result_fura', result_fura);
+        console.log('result_kamaz', result_kamaz);
+        console.log('result_tractor', result_tractor);
+        console.log('result_auto', result_auto);
+        console.log('result_total', result_total);
+
+        total_bali.innerHTML = Math.round(result_total / default_price_Bali);
+        total_econom.innerHTML = Math.round(result_total);
+        total_house.innerHTML = Math.round(result_total / default_price_House);
+    });
+});
+</script>
+
+<style>
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.calc__desc {
+    text-align: center;
+    margin-bottom: 20px;
+}
+</style>
+
+<div class="uk-section uk-section-calc">
+    <div class="uk-container calculator">
+        <h3 class="uk-section-title">Рассчитать выгоду</h3>
+        <div class="calculator-container">
+            <div class="calc__desc">Выберите тип транспорта:</div>
+            <div class="uk-grid-small uk-flex-center" uk-switcher uk-grid>
+                <div itemscope itemtype="https://schema.org/ImageObject"><a href="#"><img src="/themes/tg/images/calc-gruz.jpg" itemprop="contentUrl" alt="Грузовой транспорт"></a>
+                  <meta itemprop="description" content="Грузовой транспорт" />
+                </div>
+                <div itemscope itemtype="https://schema.org/ImageObject" ><a href="#"><img src="/themes/tg/images/calc-kamaz.jpg" itemprop="contentUrl" alt="Грузовой транспорт"></a>
+                  <meta itemprop="description" content="Грузовой транспорт" />
+                </div>
+                <div itemscope itemtype="https://schema.org/ImageObject"><a href="#"><img src="/themes/tg/images/calc-traktor.jpg" itemprop="contentUrl" alt="Тракторы"></a>
+                  <meta itemprop="description" content="Тракторы" />
+                </div>
+                <div itemscope itemtype="https://schema.org/ImageObject"><a href="#"><img src="/themes/tg/images/calc-auto.jpg" itemprop="contentUrl" alt="Легковой транспорт"></a>
+                  <meta itemprop="description" content="Легковой транспорт" />
+                </div>
+            </div>
+            <div class="calc__desc">Укажите дополнительные данные:</div>
+            <div class="uk-switcher uk-margin">
+                <div>
+                    <div class="uk-child-width-1-2@s uk-switcher-gruz" uk-grid>
+                        <div>Объем автопарка: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="fura__size" placeholder="0"> единиц техники</div>
+                        <div>Расстояния пройденные техникой ежемесячно: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="fura__run" placeholder="0"> км</div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-child-width-1-2@s uk-switcher-kamaz" uk-grid>
+                        <div>Объем автопарка: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="kamaz__size" placeholder="0"> единиц техники</div>
+                        <div>Расстояния пройденные техникой ежемесячно: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="kamaz__run" placeholder="0"> км</div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-child-width-1-2@s uk-switcher-traktor" uk-grid>
+                        <div>Объем автопарка: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="tractor__size" placeholder="0"> единиц техники</div>
+                        <div>Площадь, обрабатываемая трактором ежемесячно: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="tractor__run" placeholder="0"> км</div>
+                    </div>
+                </div>
+                <div>
+                    <div class="uk-child-width-1-2@s uk-switcher-auto" uk-grid>
+                        <div>Объем автопарка: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="auto__size" placeholder="0"> единиц техники</div>
+                        <div>Расстояния пройденные техникой ежемесячно: <input type="number" min="0" class="uk-input uk-form-width-small uk-form-small uk-border-rounded uk-text-center" name="auto__run" placeholder="0"> км</div>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+    </div>
+    
+    <div class="uk-section calculator-result uk-background-cover uk-light" style="background-image: url('/themes/tg/images/calc-result.jpg');">
+        <div class="uk-container">
+            <div class="uk-child-width-1-3@s calculator-result-list" uk-grid>
+                <div>
+                    <div class="calculator-result-item" itemscope itemtype="https://schema.org/ImageObject">
+                        <p class="calculator-result-icon"><img src="/themes/tg/images/icon-island.png" itemprop="contentUrl" alt="лет беззаботной жизни на Бали"></p>
+                        <p class="calculator-result-total"><output id="baliTotal" name="baliTotal">0</output></p>
+                        <p class="calculator-result-text" itemprop="description">лет беззаботной <br>жизни на Бали</p>
+                    </div>
+                </div>
+                <div>
+                    <div class="calculator-result-item" itemscope itemtype="https://schema.org/ImageObject">
+                        <p class="calculator-result-icon"><img src="/themes/tg/images/icon-money.png" itemprop="contentUrl" alt="Общая сумма ежегодной экономии в рублях"></p>
+                        <p class="calculator-result-total"><output id="economTotal" name="economTotal">0</output></p>
+                        <p class="calculator-result-text" itemprop="description">Общая сумма ежегодной <br>экономии в рублях</p>
+                    </div>
+                </div>
+                <div>
+                    <div class="calculator-result-item" itemscope itemtype="https://schema.org/ImageObject">
+                        <p class="calculator-result-icon"><img src="/themes/tg/images/icon-apartaments.png" itemprop="contentUrl" alt="квартир в вашем городе"></p>
+                        <p class="calculator-result-total"><output id="houseTotal" name="houseTotal">0</output></p>
+                        <p class="calculator-result-text" itemprop="description">квартир в вашем <br>городе</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+    
+    
+    <div class="uk-section uk-section-results">
+  <div class="uk-container">
+    <h3 class="uk-section-title">Результаты наших клиентов</h3>
+    <div class="uk-child-width-1-3@s uk-flex-center uk-margin-medium-top results-list" uk-grid>
+      <div>
+        <div class="results-item uk-inline" itemscope itemtype="https://schema.org/ImageObject">
+          <img src="/themes/tg/images/rusagro.jpg" itemprop="contentUrl" alt="rusagro">
+          <div class="uk-overlay-primary uk-position-cover"></div>
+          <div class="uk-overlay uk-light uk-position-top-right">
+            <img src="/themes/tg/images/rusagro_logo.png" itemprop="contentUrl" alt="rusagro logo">
+          </div>
+          <div class="uk-overlay uk-light uk-position-bottom-left results-item-entry">
+            <p class="results-item-text" itemprop="description"><span class="b results-item-meta"><span class="results-item-count">30%</span></span> <span>снижения расходов</span></p>
+          </div>
+        </div>
+        <div class="results-item uk-inline uk-margin-top" itemscope itemtype="https://schema.org/ImageObject">
+          <img src="/themes/tg/images/rosneft.jpg" alt="rosneft">
+          <div class="uk-overlay-primary uk-position-cover"></div>
+          <div class="uk-overlay uk-light uk-position-top-right">
+            <img src="/themes/tg/images/rosneft_logo.png" itemprop="contentUrl" alt="rosneft logo">
+          </div>
+          <div class="uk-overlay uk-light uk-position-bottom-left results-item-entry">
+            <p class="results-item-text" itemprop="description"><span class="b results-item-meta"><span class="results-item-count">175</span> тонн</span> <span>экономия топлива</span></p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="results-item uk-inline" itemscope itemtype="https://schema.org/ImageObject">
+          <img src="/themes/tg/images/gazprom.jpg" alt="gazprom">
+          <div class="uk-overlay-primary uk-position-cover"></div>
+          <div class="uk-overlay uk-light uk-position-top-right">
+            <img src="/themes/tg/images/gazprom_logo.png" itemprop="contentUrl" alt="gazprom logo">
+          </div>
+          <div class="uk-overlay uk-light uk-position-bottom-left results-item-entry">
+            <p class="results-item-text" itemprop="description"><span class="b results-item-meta"><span class="results-item-count">500</span> тыс. рублей</span> <span>экономия топлива</span></p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="results-item uk-inline" itemscope itemtype="https://schema.org/ImageObject">
+          <img src="/themes/tg/images/magnit.jpg" itemprop="contentUrl" alt="magnit">
+          <div class="uk-overlay-primary uk-position-cover"></div>
+          <div class="uk-overlay uk-light uk-position-top-right">
+            <img src="/themes/tg/images/magnit_logo.png" itemprop="contentUrl" alt="magnit logo">
+          </div>
+          <div class="uk-overlay uk-light uk-position-bottom-left results-item-entry">
+            <p class="results-item-text" itemprop="description"><span class="b results-item-meta"><span class="results-item-count">25%</span></span> <span>повышение дисциплины водителей</span></p>
+          </div>
+        </div>
+        <div class="results-item uk-inline uk-margin-top" itemscope itemtype="https://schema.org/ImageObject">
+          <img src="/themes/tg/images/agroeco.jpg" alt="agroeco">
+          <div class="uk-overlay-primary uk-position-cover"></div>
+          <div class="uk-overlay uk-light uk-position-top-right">
+            <img src="/themes/tg/images/agroeco_logo.png" itemprop="contentUrl" alt="agroeco logo">
+          </div>
+          <div class="uk-overlay uk-light uk-position-bottom-left results-item-entry">
+            <p class="results-item-text" itemprop="description"><span class="b results-item-meta"><span class="results-item-count">100</span>тс</span> <span>оснащены TN-Group</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+    <div class="uk-section uk-section-testimonials uk-background-cover uk-light uk-overflow-hidden" style="background-image: url('/themes/tg/images/testimonials.jpg');">
+  <div uk-slider>
+    <div class="uk-container uk-position-relative">
+      <div class="uk-slider-container" itemscope itemtype="https://schema.org/ImageObject">
+        <ul class="uk-slider-items testimonials-list uk-child-width-1-1">
+          <li>
+            <div class="uk-panel testimonials-item">
+              <div class="testimonials-item-avatar uk-text-center">
+                <img src="/themes/tg/images/testimonials/V_N_Kanteev.png" itemprop="contentUrl" alt="В. Н. Кантеев">
+              </div>
+              <div class="uk-card uk-card-secondary uk-card-body uk-width-1-2@m uk-margin-auto uk-border-rounded">
+                <p class="testimonials-item-meta" itemprop="description">
+                  <span class="testimonials-item-name">В. Н. Кантеев</span>
+                  <span class="testimonials-item-pos">Генеральный директор ОАО «Газпром»</span>
+                </p>
+                <p class="testimonials-item-text">
+                  С 2015 года ОАО «Газпром» сотрудничает с ООО «ТН-ГРУПП». Для осуществления мониторинга за автотранспортом специалистами 
+                  был предоставлен доступ к системе Wialon. Хотим отметить высокую производительность предоставленного компанией ТН-ГРУПП продукта при любых нагрузках. 
+                  Специфика нашей компании предполагает мониторинг с отен транспортных средств в режиме онлайн, 
+                  в том числе автомобилей «Аварийной газовой службы». Также диспетчерской службой ежедневно генерируются различные типы отчетов: 
+                  по расходу, посещения геозон, пробегу и т. д.
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="uk-panel testimonials-item" itemscope itemtype="https://schema.org/ImageObject">
+              <div class="testimonials-item-avatar uk-text-center">
+                <img src="/themes/tg/images/testimonials/V_L_Volchihin.png" itemprop="contentUrl" alt="В.Л. Волчихин">
+              </div>
+              <div class="uk-card uk-card-secondary uk-card-body uk-width-1-2@m uk-margin-auto uk-border-rounded">
+                <p class="testimonials-item-meta" itemprop="description">
+                  <span class="testimonials-item-name">В.Л. Волчихин</span>
+                  <span class="testimonials-item-pos">Генеральный директор ЗАО "Тамбовнефтепродукт"</span>
+                </p>
+                <p class="testimonials-item-text">
+                  C 2011 года и по настоящее время между компаниями "ТН-ГРУПП" и ЗАО "Тамбовнефтепродукт" поддерживаются добрые партнерские отношения. 
+                  Это подтверждается реализацией проекта по мониторингу транспорта нашей компании на базе GPS/ГЛОНАСС-технологий.
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="uk-panel testimonials-item" itemscope itemtype="https://schema.org/ImageObject">
+              <div class="testimonials-item-avatar uk-text-center">
+                <img src="/themes/tg/images/testimonials/V_P_Papanov.png" itemprop="contentUrl" alt="В.П. Папанов">
+              </div>
+              <div class="uk-card uk-card-secondary uk-card-body uk-width-1-2@m uk-margin-auto uk-border-rounded">
+                <p class="testimonials-item-meta" itemprop="description">
+                  <span class="testimonials-item-name">В.П. Папанов</span>
+                  <span class="testimonials-item-pos">Генеральный директор ООО «Восход»</span>
+                </p>
+                <p class="testimonials-item-text">
+                  За время нашего сотрудничества с компанией «ТН-ГРУПП» зарекомендовала себя как надежный партнер, нацеленный на результат. 
+                  Благодаря оснащению нашего автопарка системами GPS/ГЛОНАСС мониторинга нам удалось добиться снижения расходов на ГСМ порядка 15%. 
+                  Повысился контроль транспортной системы предприятия и дисциплина водителей.
+                </p>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+  
+      <div class="uk-hidden@s uk-light">
+        <a class="uk-position-center-left uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+        <a class="uk-position-center-right uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
+      </div>
+ 
+      <div class="uk-visible@s uk-light">
+        <a class="uk-position-center-left-out uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+        <a class="uk-position-center-right-out uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
+      </div>
+  
+    </div>
+  
+    <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
+  
+  </div>
+</div>
+    
+    <!--<div class="uk-section uk-section-muted uk-section-digitalCompany" >
+	<div class="uk-container">
+		<h3 class="uk-section-title">О компании в цифрах</h3>
+		<div class="uk-child-width-1-3@s digitalCompany-list" uk-grid data-wow-offset="100" data-type="odometer">
+			<div>
+				<div class="digitalCompany-item odometor__col">
+					<p class="digitalCompany-item-count" ><span class="odometor__col__target" data-value="11">11</span> лет</p>
+					<p class="digitalCompany-item-text">успешной работы</p>
+				</div>
+			</div>
+			<div>
+				<div clas="digitalCompany-item">
+					<p class="digitalCompany-item-count"><span>150</span></p>
+					<p class="digitalCompany-item-text">высококвалифицированных сотрудников</p>
+				</div>
+			</div>
+			<div>
+				<div class="digitalCompany-item">
+					<p class="digitalCompany-item-count"><span>15</span></p>
+					<p class="digitalCompany-item-text">регионов по всей России</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>-->
+<section data-wow-offset="100" data-type="odometer" class="odometor wool fadeIn">
+    		<h3 class="uk-section-title">О компании в цифрах</h3>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 odometor__col">
+                    <div><span data-value="11"
+                            class="b odometor__col__target">11</span><span>лет</span><span>Успешной работы</span></div>
+                </div>
+                <div class="col-sm-4 odometor__col">
+                    <div><span data-value="150" class="b odometor__col__target">150</span><span></span><span>высококвалифицированных сотрудников</span>
+                    </div>
+                </div>
+                <div class="col-sm-4 odometor__col">
+                    <div><span data-value="15"
+                            class="b odometor__col__target">15</span><span></span><span>регионов по всей России</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+        <div class="uk-section uk-section-newsCompany">
+	<div class="uk-container">
+		<h3 class="uk-section-title">Новости</h3>
+		<div class="uk-child-width-1-2@s newsCompany-list" uk-grid>
+			<div>
+	<div class="uk-card uk-card-small uk-card-hover newsCompany-item"  itemscope itemtype="https://schema.org/ImageObject">
+		<div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/integracia-vezdehod.e8f7007ff420924a28f8f7c0e9bad0a0.png" itemprop="contentUrl" alt="TN-Group интегрирует ВЕЗДЕХОД в Wialon"></div>
+		<div class="uk-card-body">
+			<h3 class="uk-card-title" itemprop="description"><a href="blog/novosti-sputnikoviy-monitoring/tn-group-integriruet-vezdexod-v-wialon/">TN-Group интегрирует ВЕЗДЕХОД в Wialon</a></h3>
+			<p class="uk-card-meta">18.01.2022</p>
+			<p>TN-Group развивает функционал интеграции топливных карт в систему мониторинга транспорта, чтобы у автопарков было больше возможностей! Теперь в Wialon мы можем вывести отчет по заправкам по топливной карте ВЕЗДЕХОД.</p>
+		</div>
+	</div>
+</div>
+			<div>
+				<div class="uk-child-width-1-2@s" uk-grid>
+        			<div>
+	<div class="uk-card uk-card-default uk-card-small uk-card-hover newsCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+		<div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/Teltonika-Certificate.be6d05a4dbe697c472253ea9ef75f6ed.jpg" itemprop="contentUrl"  alt="TN-Group - VIP-партнер Teltonika"></div>
+		<div class="uk-card-body">
+			<h3 class="uk-card-title" itemprop="description"><a href="blog/novosti-kompanii/tn-group-vip-partner-teltonika/">TN-Group - VIP-партнер Teltonika</a></h3>
+			<p class="uk-card-meta">29.12.2021</p>
+			<p>TN-Group получает Certificate for successfully reaching  VIP SILVER partnership with ​Teltonika Telematics company.</p>
+		</div>
+	</div>
+</div>
+<div>
+	<div class="uk-card uk-card-default uk-card-small uk-card-hover newsCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+		<div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/sertificat-wialon1.fbc974a3292abc72e286d0f1452a36a9.png" itemprop="contentUrl"  alt="TN-Group - рекомендованный партнер Wialon"></div>
+		<div class="uk-card-body">
+			<h3 class="uk-card-title" itemprop="description"><a href="blog/novosti-kompanii/tn-group-rekomendovannyij-partner-wialon/">TN-Group - рекомендованный партнер Wialon</a></h3>
+			<p class="uk-card-meta">09.08.2021</p>
+			<p>TN-Group присвоен статус рекомендованного партнера Wialon. А это значит, что наша компания «отвечает всем требованиям по продвижению и технической поддержке системы мониторинга Wialon, а также по установке и обслуживанию телематического оборудования.»</p>
+		</div>
+	</div>
+</div>
+				</div>
+			</div>
+			<p class="uk-width-1-1 uk-text-center@s"><a href="blog/novosti-kompanii/" class="uk-button uk-button-wide uk-button-danger">Больше новостей</a></p>
+		</div>
+	</div>
+</div>
+        <div class="uk-section uk-section-muted uk-section-videoCompany">
+	<div class="uk-container">
+		<h3 class="uk-section-title">Видео</h3>
+		<div class="uk-child-width-1-2@s videoCompany-list" uk-grid>
+		    <div>
+				<div class="uk-card uk-card-small videoCompany-item">
+					<div class="uk-card-media-top">
+					    <a style="display:block;position:relative" class="uk-text-center" href~="blog/video/" href="#modal-media-video-327" uk-toggle>
+					        <!-- <iframe src="https://www.youtube.com/embed/-CF46-lgtHU?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="560" height="315" frameborder="0" allowfullscreen uk-responsive></iframe> -->
+					        <div style="background: url(https://i.ytimg.com/vi/-CF46-lgtHU/sddefault.jpg) center center no-repeat; min-height: 309px;background-size:cover;"></div>
+					        <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.2)"></div>
+					    </a>
+					</div>
+					<div class="uk-card-body uk-padding-remove-horizontal uk-padding-remove-bottom">
+						<h3 class="uk-card-title"><a href~="blog/video/" href="#modal-media-video-327" uk-toggle>Новогодний видеоролик TN-Group к 2022</a></h3>
+						<p class="uk-card-meta"></p>
+						<p>Новогодний клип на трек "ТАМБОВНАВИГАТОР" - special for TN-Group от группы Ze Fish.
+Команда TN-Group находит лучшие решения в сфере спутникового мониторинга транспорта для каждого - даже для Деда Мороза, которому нужно развозить подарки и контролировать оленей.
+</p>
+					</div>
+					<div id="modal-media-video-327" class="uk-flex-top" uk-modal>
+              <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
+                  <button class="uk-modal-close-outside" type="button" uk-close></button>
+                  <iframe src="https://www.youtube.com/embed/-CF46-lgtHU?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="996" height="560" frameborder="0" allowfullscreen uk-responsive uk-video></iframe>
+              </div>
+          </div>
+				</div>
+			</div>
+<div>
+				<div class="uk-card uk-card-small videoCompany-item">
+					<div class="uk-card-media-top">
+					    <a style="display:block;position:relative" class="uk-text-center" href~="blog/video/" href="#modal-media-video-314" uk-toggle>
+					        <!-- <iframe src="https://www.youtube.com/embed/Ku3Z_uBUlrQ?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="560" height="315" frameborder="0" allowfullscreen uk-responsive></iframe> -->
+					        <div style="background: url(https://i.ytimg.com/vi/Ku3Z_uBUlrQ/sddefault.jpg) center center no-repeat; min-height: 309px;background-size:cover;"></div>
+					        <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.2)"></div>
+					    </a>
+					</div>
+					<div class="uk-card-body uk-padding-remove-horizontal uk-padding-remove-bottom">
+						<h3 class="uk-card-title"><a href~="blog/video/" href="#modal-media-video-314" uk-toggle>Как повысить урожайность с помощью системы "TRON: Урожай"</a></h3>
+						<p class="uk-card-meta"></p>
+						<p>Приближается самый значимый период в деятельности агропредприятия, когда аграрии пожинают плоды своей работы – уборочная страда. А значит, сейчас самое время задуматься, насколько эффективно происходит процесс сбора урожая на ваших полях.
+
+И если вы понимаете, что приемка урожая по талону - ненадежный метод и ищите способ автоматизировать процесс уборки, построив цепочку от поля до хранилища, то Система «TRON: Урожай» создана именно для вас.</p>
+					</div>
+					<div id="modal-media-video-314" class="uk-flex-top" uk-modal>
+              <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
+                  <button class="uk-modal-close-outside" type="button" uk-close></button>
+                  <iframe src="https://www.youtube.com/embed/Ku3Z_uBUlrQ?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="996" height="560" frameborder="0" allowfullscreen uk-responsive uk-video></iframe>
+              </div>
+          </div>
+				</div>
+			</div>
+			<div>
+				<div class="uk-child-width-1-2@s" uk-grid>
+	    		    
+				</div>
+			</div>
+		</div>
+		<p class="uk-width-1-1 uk-text-center"><a href="blog/video/" class="uk-button uk-button-wide uk-button-danger">Больше видео</a></p>
+	</div>
+</div>
+        <div class="uk-section  uk-section-blogCompany uk-overflow-hidden">
+    <h3 class="uk-section-title">Блог</h3>
+    <div class="uk-margin-medium-top" uk-slider>
+        <div class="uk-container uk-position-relative">
+            <div class="uk-slider-container">
+                <ul class="uk-slider-items uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-grid">
+                    <li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/kfh-perederiy.cb823c9fe9fd530af217ab5d4673124a.jpg" itemprop="contentUrl"  alt="Как программный модуль TRON:Топливо сэкономил 4 тонны топлива в КФХ Передерий"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/kak-programmnyij-modul-tron-toplivo-sekonomil-4-tonnyi-topliva-v-kfx-perederij/">Как программный модуль TRON:Топливо сэкономил 4 тонны топлива в КФХ Передерий</a></h3>
+            <p class="uk-card-meta">29.11.2021 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p>ДО: расхождение по топливу от двух до четырех тонн в месяц при работающей системе мониторинга и исключении сливов. ПОСЛЕ: расхождение - ноль литров. Это результат интеграции программного модуля TRON: Топливо&#8230;</p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/economic-effect-rashod-topliva.cb823c9fe9fd530af217ab5d4673124a.jpg" itemprop="contentUrl"  alt="Рассчитываем экономический эффект от внедрения системы мониторинга транспорта - по расходу топлива"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/rasschityivaem-ekonomicheskij-effekt-ot-vnedreniya-sistemyi-monitoringa-transporta-po-rasxodu-topliva/">Рассчитываем экономический эффект от внедрения системы мониторинга транспорта - по расходу топлива</a></h3>
+            <p class="uk-card-meta">09.09.2021 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p>Доказано на практике, что внедрение системы мониторинга дает ощутимый экономический эффект: позволяет найти белые пятна и черные дыры в использовании топлива и значительно сократить его расход. Именно&#8230;</p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/propusk-rnis.cb823c9fe9fd530af217ab5d4673124a.jpg" itemprop="contentUrl"  alt="В Москву не ПРОПУСКают?"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/kak-oformit-propusk-na-proezd-gruzovika-po-moskve/">В Москву не ПРОПУСКают?</a></h3>
+            <p class="uk-card-meta">01.07.2021 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p>С 1 июля 2021 года вводятся дополнительные требования для передвижения грузового транспорта по Москве в границах МКАД. Разбираем, как оформить пропуск на проезд по столичным дорогам.</p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/tron-crop4.cb823c9fe9fd530af217ab5d4673124a.jpg" itemprop="contentUrl"  alt="Исчезает урожай? Система «TRON» поможет его спасти!"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/ischezaet-urozhaj-sistema-«tron»-pomozhet-ego-spasti!/">Исчезает урожай? Система «TRON» поможет его спасти!</a></h3>
+            <p class="uk-card-meta">16.06.2021 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p><p>Приближается самый значимый период в деятельности агропредприятия, когда аграрии пожинают плоды своей работы – уборочная страда. А значит, сейчас самое время задуматься, насколько эффективно происходит&#8230;</p></p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/spisyvaem-toplivo1.3a55feb57bb03cff22712dfa30d33565.jpg" itemprop="contentUrl"  alt="Списываем топливо правильно"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/spisyivaem-toplivo-pravilno/">Списываем топливо правильно</a></h3>
+            <p class="uk-card-meta">31.03.2020 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p><p>При использовании системы мониторинга транспорта предприятие экономит до 30% топлива. А правильное нормирование топлива поможет заранее избежать перерасхода на 15-20%.
+<p>Но как вести учет и списание&#8230;</p></p></p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/%D0%BA%D0%BE%D0%BC%D0%B1%D0%B0%D0%B9%D0%BD.2e7f79c255c8f6a1f22a499cc537da50.jpg" itemprop="contentUrl"  alt="Как оснастить комбайн: 7 работающих решений"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/kak-osnastit-kombajn-7-rabotayushhix-reshenij/">Как оснастить комбайн: 7 работающих решений</a></h3>
+            <p class="uk-card-meta">18.07.2019 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p><p>Современный зерноуборочный комбайн по своему устройству больше напоминает космический корабль, чем транспортное средство: консоли, системы точного земледелия, курсоуказатели и другие приборы вкупе выглядят&#8230;</p></p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/papanov.a594ec4a54b7b86010da4d6788afc870.jpg" itemprop="contentUrl"  alt="Байки бывалого интегратора или как вас обманывают ваши водители"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/bajki-byivalogo-integratora-ili-kak-vas-obmanyivayut-vashi-voditeli/">Байки бывалого интегратора или как вас обманывают ваши водители</a></h3>
+            <p class="uk-card-meta">17.09.2018 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p>Не секрет, что установка системы спутникового мониторинга позволяет значительно снизить затраты на топливо, исключить нецелевое использование транспорта и даже контролировать режим безопасного вождения&#8230;</p>
+        </div>
+    </div>
+</li>
+<li>
+    <div class="uk-card uk-card-default uk-card-small uk-card-hover uk-height-1-1 blogCompany-item" itemscope itemtype="https://schema.org/ImageObject">
+        <div class="uk-card-media-top"><img src="/assets/components/phpthumbof/cache/satellite.a8e65bfff6a98c4537c6866624194a1f.jpg" itemprop="contentUrl"  alt="8 лет на первой космической: TN-Group отмечает день рождения"></div>
+        <div class="uk-card-body">
+            <h3 class="uk-card-title" itemprop="description"><a href="blog/stati/8-let-na-pervoj-kosmicheskoj-tn-group-otmechaet-den-rozhdeniya/">8 лет на первой космической: TN-Group отмечает день рождения</a></h3>
+            <p class="uk-card-meta">30.08.2018 <span class="blogCompany-item-category uk-hidden">Рубрика: <a href="#">Новости компании</a></span></p>
+            <p>​Восемь лет прошло с тех пор, как трое вчерашних студентов запустили собственный стартап на рынке спутникового мониторинга. За это время перспективный проект из провинциального города превратился в группу&#8230;</p>
+        </div>
+    </div>
+</li>
+                </ul>
+            </div>
+            
+            <div class="uk-hidden@s">
+                <a class="uk-position-center-left uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+                <a class="uk-position-center-right uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
+            </div>
+            <div class="uk-visible@s">
+                <a class="uk-position-center-left-out uk-position-small" href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+                <a class="uk-position-center-right-out uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a>
+            </div>
+        </div>
+    </div>
+    <p class="uk-text-center"><a href="blog/" class="uk-button uk-button-wide uk-button-danger">Перейти в блог</a></p>
+</div>
+    
+
+    
+    
+    <div class="uk-section uk-section-feedback uk-background-cover demo uk-padding" style="background-image: url('/themes/tg/images/bg-form.jpg');">
+    <div class="uk-container">
+        <div class="uk-light">
+            <h3 class="uk-section-title">Мы готовы ответить на все ваши вопросы</h3>
+        </div>
+        <form id="vopros" class="uk-margin-medium-top ajax_form demoFormTpl" action="" method="post">
+    <fieldset class="uk-fieldset">
+
+        <div class="uk-margin uk-text-center">
+            <div class="uk-inline uk-width-medium@s">
+                <div style="position:relative;">
+                    <span class="uk-form-icon" uk-icon="icon: user"></span>
+                    <input class="uk-input" type="text" name="name" value="" placeholder="Ваше имя">
+                </div>
+                <span class="error_name"></span>
+            </div>
+        </div>
+
+        <div class="uk-margin uk-text-center">
+            <div class="uk-inline uk-width-medium@s">
+                <div style="position:relative;">
+                    <span class="uk-form-icon" uk-icon="icon: credit-card"></span>
+                    <input class="uk-input" type="text" name="company" value="" placeholder="Ваша компания">
+                </div>
+                <span class="error_company"></span>
+            </div>
+        </div>
+
+        <div class="uk-margin uk-text-center">
+            <div class="uk-inline uk-width-medium@s">
+                <div style="position:relative;">
+                    <span class="uk-form-icon" uk-icon="icon: phone"></span>
+                    <input class="uk-input" type="tel" name="phone" value="" placeholder="Телефон">
+                </div>
+                <span class="error_phone"></span>
+            </div>
+        </div>
+      <div class="uk-margin uk-text-center">
+            <div class="uk-inline uk-width-medium@s">
+                <div style="position:relative;">
+                    <span class="uk-form-icon" uk-icon="icon: mail"></span>
+                    <input class="uk-input" type="text" name="mail" value="" placeholder="E-mail">
+                </div>
+                <span class="error_phone"></span>
+            </div>
+        </div>
+        <div class="uk-margin uk-text-center">
+            <div class="uk-inline uk-width-medium@s">
+                <div style="position:relative;">
+                    <span class="uk-form-icon uk-icon"></span>
+                    <input class="uk-input" type="text" name="hear" value="" placeholder="Откуда вы узнали о нас?">
+                </div>
+                <span class="error_hear"></span>
+            </div>
+        </div>
+
+    </fieldset>
+
+    <span class="error_g-recaptcha-response error"></span>
+    <input type="hidden" name="g-recaptcha-response">
+
+    <div class="uk-margin uk-text-center">
+        <button class="uk-button uk-button-danger uk-button-wide" type="submit">Отправить</button>
+        
+    	
+    </div>
+
+	<input type="hidden" name="af_action" value="1c767613dec60a64acbc933f1b7a00d6" />
+</form>
+    </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+            <div id="modal-orrderr" class="uk-flex-top" uk-modal>
+            <div class="uk-modal-dialog uk-width-auto uk-margin-auto-vertical">
+                <button class="uk-modal-close-outside" type="button" uk-close></button>
+ <section class="uk-section">
+        <div class="uk-container">
+    
+            <div class="uk-modal-title">Заказать тест системы мониторинга</div>
+    
+            <div>
+        
+            <form id="zayavka_po" method="post" action="" class="ajax_form uk-form-stacked uk-width-xlarge uk-margin-auto order">
+    <input type="hidden" name="nospam" value="" />
+	
+	<div class="uk-margin">
+		<label class="uk-form-label" for="form-stacked-text">Имя</label>
+		<div class="uk-form-controls">
+			<input class="uk-input uk-width-1-1" id="form-stacked-text" type="text" placeholder="Имя *" name="name" value="">
+            <span class="error_name uk-text-small"></span>
+		</div>
+	</div>
+
+	<div class="uk-margin">
+		<label class="uk-form-label" for="form-stacked-text">Компания</label>
+		<div class="uk-form-controls">
+			<input class="uk-input uk-width-1-1" id="form-stacked-text" type="text" placeholder="Компания" name="company" value="">
+            <span class="error_company uk-text-small"></span>
+		</div>
+	</div>
+
+	<div class="uk-margin">
+		<label class="uk-form-label" for="form-stacked-text">Телефон</label>
+		<div class="uk-form-controls">
+			<input class="uk-input uk-width-1-1 telefunken" id="form-stacked-text" type="text" placeholder="Телефон" name="phone" value="">
+            <span class="error_phone uk-text-small"></span>
+		</div>
+	</div>
+
+	<div class="uk-margin">
+		<label class="uk-form-label" for="form-stacked-text">Комплексное решение на тест (выберите из списка)</label>
+		<div class="uk-form-controls">
+			<select class="uk-select" name="software" value="">
+			    
+    				<option value="">Выберите решение из списка</option>
+    				<option value="Аудит эффективности работы автопарка">Аудит эффективности работы автопарка</option>
+    				<option value="Тестовая диспетчеризация транспорта на Wialon">Тестовая диспетчеризация транспорта на Wialon</option>
+    				<option value="Тест системы контроля местоположения">Тест системы контроля местоположения</option>
+    				<option value="Тест системы контроля расхода топлива">Тест системы контроля расхода топлива</option>
+    				<option value="Демо-версия системы Wialon">Демо-версия системы Wialon</option>
+    				<option value="Демо-версия системы «Агроаналитика»">Демо-версия системы «Агроаналитика»</option>
+			    
+		    </select>
+            <span class="error_software uk-text-small"></span>
+		</div>
+	</div>
+
+	<div class="uk-margin">
+		<label class="uk-form-label" for="form-stacked-text">Размер автопарка</label>
+		<div class="uk-form-controls">
+			<select class="uk-select" name="fleet" value="">
+			    
+    				<option value="до 10 единиц">до 10 единиц</option>
+    				<option value="10-75 единиц">10-75 единиц</option>
+    				<option value="75-150 единиц">75-150 единиц</option>
+    				<option value="более 150 единиц">более 150 единиц</option>
+			    
+		    </select>
+            <span class="error_fleet uk-text-small"></span>
+		</div>
+	</div>
+
+	<div class="uk-margin">
+		<label class="uk-form-label" for="form-stacked-text">Комментарий</label>
+		<div class="uk-form-controls">
+			<textarea class="uk-textarea uk-width-1-1" rows="5" placeholder="(необязательно)" name="comment" value=""></textarea>
+            <span class="error_comment uk-text-small"></span>
+		</div>
+	</div>
+
+	<div class="uk-margin">
+	    <input class="uk-hidden" type="text" value="" name="personal">
+		<label><input class="uk-checkbox" type="checkbox" name="personal" value="personal" checked> Я согласен на обработку персональных данных</label>
+        <span class="error_personal uk-text-small"></span>
+	</div>
+	
+    <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid uk-text-small">
+
+    <span class="error_g-recaptcha-response error"></span>
+    <input type="hidden" name="g-recaptcha-response">
+
+    </div>
+
+	<div class="uk-margin">
+		<button class="uk-button uk-button-danger uk-width-1-1">Отправить заявку</button>
+        
+    	
+	</div>
+
+
+	<input type="hidden" name="af_action" value="96e9d88672fd14f149776b31c969f74d" />
+</form>
+    
+            </div>
+    
+        </div>
+    </section>
+
+
+</div></div>
+
+
+
+
+
+<footer class="uk-section uk-section-primary uk-footer wrapper-bottom" style="background-color:#17598d">
+  <div class="uk-container">
+    <div class="uk-grid-medium uk-footer-subscribe uk-flex-middle" uk-grid>
+      <div class="uk-width-2-3@m">
+        <p class="uk-footer-subscribe-text">Подпишитесь на обновления и новости TN-GROUP</p>
+      </div>
+      <div class="uk-width-1-3@m">
+        <form method="post" action="" id="rassylka" class="uk-search uk-width-1-1 ajax_form blog__form subscribeFooterFormTpl">
+    <input type="hidden" name="nospam" value="" />
+    <button type="submit" class="uk-button uk-button-danger uk-search-icon-flip uk-icon uk-search-icon" uk-icon="icon: mail"></button>
+    <input style="background: #fff; color: #000;" id="af_email" class="uk-input uk-width-1-1" type="email" name="footemail" value="" placeholder="Ваш e-mail">
+    <input type="hidden" name="nospamblank" value="" />
+
+    <span class="error_g-recaptcha-response error"></span>
+    <input type="hidden" name="g-recaptcha-response">
+
+    
+	
+
+	<input type="hidden" name="af_action" value="fa41f0ab71a53479aad58b9ce1abf201" />
+</form>
+        <script>
+            /*var text = 'Ваш e-mail';
+            $('#demoForm2__formSubscribe .uk-input').val(text);
+            $('#demoForm2__formSubscribe .uk-input').focus(function(){
+                $(this).val('');
+            });
+            $('#demoForm2__formSubscribe .uk-input').blur(function(){
+                $(this).val(text);
+            });*/
+        </script>
+      </div>
+    </div>
+
+    <div class="uk-grid-medium" uk-grid>
+      <div class="uk-width-1-3@m">
+        <ul class="uk-nav uk-nav-default">
+          <li class="uk-nav-header">TN-Group</li>
+          <li><a href="napravleniya/">Решения</a></li>
+          <li><a href="programmnoe-obespechenie/">Программное обеспечение</a></li>
+          <li><a href="tehpodderzhka/">Техническая поддержка</a></li>
+        </ul>
+        <ul class="uk-nav uk-nav-default">
+          <li class="uk-nav-header"><a class="uk-link-reset" href="/en/">EN</a></li>
+        </ul>
+      </div>
+      <div class="uk-width-1-3@m">
+        <ul class="uk-nav uk-nav-default">
+          <li class="uk-nav-header uk-invisible">&nbsp;</li>
+          <li><a href="kompaniya/">О компании</a></li>
+          <li><a href="blog/">Пресс-центр</a></li>
+          <li><a href="kontaktyi/">Контакты</a></li>
+          <li class="uk-invisible"><a href="#">&nbsp;</a></li>
+          <li><a href="/assets/documenty/politikaconf.rtf">Политика конфиденциальности</a></li>
+        </ul>
+      </div>
+      <div class="uk-width-1-3@m">
+        <ul class="uk-nav uk-nav-default">
+          <li class="uk-nav-header">Контакты</li>
+          <li class="uk-nav-phone">
+            <a onclick="ym(25220264, 'reachGoal', 'click_telephone'); return true;" href="tel:88004444002">8-800-4444-002</a>
+            Звонок из любого региона РФ бесплатный<br>
+            
+          </li>
+          <li>
+              <button onclick="ym(25220264, 'reachGoal', 'open_one_klick'); return true;" class="send-director uk-button uk-button-danger" uk-toggle="target: #footerDirector">Написать директору</button>
+    
+                <!-- This is the modal -->
+                <div id="footerDirector" uk-modal>
+                    <div class="uk-modal-dialog uk-modal-body">
+                        <div class="uk-modal-title">Написать директору</div><br>
+                        <form id="close_one_klick" class="ajax_form director_form" action="" method="post">
+    <input type="hidden" name="nospam" value="" />
+    <fieldset class="uk-fieldset">
+
+        <!--<legend class="uk-legend">Заказать</legend>-->
+
+        <div class="uk-margin">
+            <input class="uk-input" type="text" placeholder="Имя *" name="director_form_name" value="">
+            <span class="error_director_form_name uk-text-small"></span>
+        </div>
+        <div class="uk-margin">
+            <input class="uk-input" type="text" placeholder="Телефон *" name="director_form_phone" value="">
+            <span class="error_director_form_phone uk-text-small"></span>
+        </div>
+        <div class="uk-margin">
+            <textarea class="uk-textarea" rows="5" name="director_form_message" placeholder="Сообщение"></textarea>
+            <span class="error_director_form_message uk-text-small"></span>
+        </div>
+        <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid uk-text-small">
+            <input class="uk-hidden" type="text" value="" name="director_form_personal">
+            <label><input class="uk-checkbox" type="checkbox" name="director_form_personal" value="personal" checked> Я согласен на обработку персональных данных</label>
+            <span class="error_director_form_personal uk-text-small"></span>
+        </div>
+        
+        <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid uk-text-small">
+
+    <span class="error_g-recaptcha-response error"></span>
+    <input type="hidden" name="g-recaptcha-response">
+
+        </div>
+
+        
+        <button class="uk-button uk-button-danger uk-width-1-1 uk-text-large">Написать</button>
+        
+    	
+
+    </fieldset>
+
+	<input type="hidden" name="af_action" value="f3c43a8f77c666f4a8c5f219659fec17" />
+</form>
+                        <button class="uk-modal-close-default" type="button" uk-close></button>
+                    </div>
+                </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="uk-grid-medium" uk-grid>
+      <div class="uk-width-1-3@m">
+        <div class="uk-text-small">2021. TN-GROUP</div>
+      </div>
+      <div class="uk-width-1-3@m">
+        <div class="uk-text-small">
+          Следите за нами в соцсетях.<a class="uk-margin-small-left" target="_blank" rel="nofollow" href="https://www.facebook.com/tngroup.net/" uk-icon="icon: facebook; ratio: 1.3"></a><a class="uk-margin-small-left" target="_blank" rel="nofollow" href="https://www.instagram.com/tn_group_team/" uk-icon="icon: instagram; ratio: 1.3"></a><a class="uk-margin-left" target="_blank" rel="nofollow" href="https://vk.com/tngroup_tmb"><svg style="width: 26px; height: 26px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3333 1980" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" style="fill: #fff;"><path style="fill: #fff;" d="M3257 134c23-77 0-134-110-134h-365c-93 0-135 49-159 103 0 0-185 452-448 746-85 85-124 112-170 112-23 0-58-27-58-104V135c0-93-26-134-103-134h-573c-58 0-93 43-93 84 0 88 131 108 145 355v537c0 118-21 139-68 139-124 0-424-454-603-974C617 41 582 0 489 0H124C20 0-1 49-1 103c0 97 124 576 576 1209 301 433 726 667 1112 667 232 0 260-52 260-142v-327c0-104 22-125 95-125 54 0 147 27 363 236 247 247 288 358 427 358h365c104 0 156-52 126-155-33-102-151-251-308-427-85-100-212-209-251-263-54-70-39-100 0-162 0 0 444-626 491-838z"/></svg></a>
+        </div>
+      </div>
+      <div class="uk-width-1-3@m">
+        <div class="uk-text-small uk-text-right@m">
+          <a href="karta-sajta/">Карта сайта</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  
+  <div id="recaptcha-container00"></div>
+</footer>
+
+<button id="uk-totop" class="uk-icon-button uk-position-fixed uk-position-medium uk-position-bottom-right uk-hidden" uk-totop uk-scroll></button>
+
+<script>
+  function totop(ev){
+    if(window.pageYOffset > 400) {
+      document.getElementById("uk-totop").classList.remove("uk-hidden");
+    } else {
+      document.getElementById("uk-totop").classList.add("uk-hidden");
+    }
+  }
+  window.onscroll=totop;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer>
+<!--     <link rel="stylesheet" href="/assets/templates/tn/dist/css/style.css" type="text/css">
+<link rel="stylesheet" href="/assets/templates/tn/dist/css/dop.css" type="text/css">
+<link rel="stylesheet" href="/themes/tg/dist/css/uikit.styles.min.css" /> -->
+    
+<!--     <script src="/themes/tg/dist/js/uikit.min.js"></script>
+<script src="/themes/tg/dist/js/uikit-icons-styles.min.js"></script>
+<script src="/themes/tg/dist/js/jquery-3.4.1.min.js"></script>
+<script src="/assets/templates/tn/dist/js/app.compile.js"></script>
+<script src="/assets/templates/tn/dist/js/dop.js"></script> -->
+        
+    <!--<script src="//maps.api.2gis.ru/2.0/loader.js?pkg=full"></script>-->
+    <!--<script type="text/javascript" src="//cdn.callbackhunter.com/cbh.js?hunter_code=06f78a6119cd8d17c1117314bba63476" charset="UTF-8"></script>    -->
+
+  </footer>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(25220264, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/25220264" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '498867437603515');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=498867437603515&ev=PageView&noscript=1" alt="facebook"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script>
+    window._txq = window._txq || [];
+    var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//st.hybrid.ai/txsp.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);
+    _txq.push(['createPixel', '5e3146194d506e2174a33efe']);
+    _txq.push(['track', 'PageView']);
+</script>
+
+<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://cdn-ru.bitrix24.ru/b2483693/crm/site_button/loader_5_5ttrqw.js');
+</script>
+
+<script>
+    (function(w,d,u){
+        var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+        var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+    })(window,document,'https://cdn.bitrix24.ru/b2483693/crm/tag/call.tracker.js');
+    
+    
+    
+
+    
+</script>
+<script type="text/javascript" src="/assets/components/minifyx/cache/scripts_8c23d2d96d.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js" integrity="sha512-d4KkQohk+HswGs6A1d6Gak6Bb9rMWtxjOa0IiY49Q3TeFd5xAzjWXDCBW9RS7m86FQ4RzM2BdHmdJnnKRYknxw==" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function() {
+  
+    $('[name="phone"]').mask('+7 (999) 999-99-99');
+    $('[name="director_form_phone"]').mask('+7 (999) 999-99-99');
+
+});   
+    </script>
+<script type="text/javascript" src="/assets/components/ms2gallery/js/web/default.js"></script>
+<script type="text/javascript" src="/assets/components/ajaxform/js/default.js"></script>
+<script type="text/javascript">AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script>
+
+        <script>
+            var ReCaptchaCallbackV3 = function() {
+                grecaptcha.ready(function() {
+                    grecaptcha.reset = grecaptchaExecute;
+                    grecaptcha.reset();
+                });
+            };
+            function grecaptchaExecute() {
+                grecaptcha.execute("6Ld6n9sZAAAAAN4b9jZyBER9laAMJNtJuoqBckNM", { action: "ajaxform" }).then(function(token) {
+                    var fieldsToken = document.querySelectorAll("[name ='g-recaptcha-response']");
+                    Array.prototype.forEach.call(fieldsToken, function(el, i){
+                        el.value = token;
+                    });
+                });
+            };
+            // обновляем капчу каждую минуту
+            setInterval(function() {
+                grecaptcha.reset();
+            }, 60000);
+        </script>
+    
+</body>
+</html>

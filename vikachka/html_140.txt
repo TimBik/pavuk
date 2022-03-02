@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" >
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" >
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="ru-RU"
+	prefix="og: https://ogp.me/ns#" >
+<!--<![endif]-->
+
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://smartengines.ru/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="https://smartengines.ru/wp-content/themes/newsmart/js/html5.js"></script>
+	<![endif]-->
+<title>Smart Engines – безопасное распознавание документов</title>
+
+		<!-- All in One SEO 4.1.7 -->
+		<meta name="description" content="Smart Engines — ведущий разработчик технологий безопасного распознавания удостоверений личности, банковских карт, баркодов, деловых документов и других объектов." />
+		<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+		<link rel="canonical" href="https://smartengines.ru/" />
+		<meta property="og:locale" content="ru_RU" />
+		<meta property="og:site_name" content="Smart Engines" />
+		<meta property="og:type" content="activity" />
+		<meta property="og:title" content="Smart Engines – безопасное распознавание документов" />
+		<meta property="og:description" content="Smart Engines — ведущий разработчик технологий безопасного распознавания удостоверений личности, банковских карт, баркодов, деловых документов и других объектов." />
+		<meta property="og:url" content="https://smartengines.ru/" />
+		<meta property="og:image" content="https://smartengines.ru/wp-content/uploads/2020/05/logo_se_big.png" />
+		<meta property="og:image:secure_url" content="https://smartengines.ru/wp-content/uploads/2020/05/logo_se_big.png" />
+		<meta property="og:image:width" content="499" />
+		<meta property="og:image:height" content="126" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Smart Engines – безопасное распознавание документов" />
+		<meta name="twitter:description" content="Smart Engines — ведущий разработчик технологий безопасного распознавания удостоверений личности, банковских карт, баркодов, деловых документов и других объектов." />
+		<meta name="twitter:image" content="https://smartengines.ru/wp-content/uploads/2020/05/logo_se_big.png" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/smartengines.ru\/#website","url":"https:\/\/smartengines.ru\/","name":"Smart Engines","description":"\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0431\u0435\u0437 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u043c \u0441\u0435\u0440\u0432\u0438\u0441\u0430\u043c","inLanguage":"ru-RU","publisher":{"@id":"https:\/\/smartengines.ru\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/smartengines.ru\/?s={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"https:\/\/smartengines.ru\/#organization","name":"Smart Engines","url":"https:\/\/smartengines.ru\/"},{"@type":"BreadcrumbList","@id":"https:\/\/smartengines.ru\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/smartengines.ru\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/smartengines.ru\/","name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f","description":"Smart Engines \u2014 \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u044f \u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u0435\u043d\u0438\u0439 \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0438, \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0445 \u043a\u0430\u0440\u0442, \u0431\u0430\u0440\u043a\u043e\u0434\u043e\u0432, \u0434\u0435\u043b\u043e\u0432\u044b\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432.","url":"https:\/\/smartengines.ru\/"}}]},{"@type":"WebPage","@id":"https:\/\/smartengines.ru\/#webpage","url":"https:\/\/smartengines.ru\/","name":"Smart Engines \u2013 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0435 \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u0435 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432","description":"Smart Engines \u2014 \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u044f \u0443\u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u0435\u043d\u0438\u0439 \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0438, \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438\u0445 \u043a\u0430\u0440\u0442, \u0431\u0430\u0440\u043a\u043e\u0434\u043e\u0432, \u0434\u0435\u043b\u043e\u0432\u044b\u0445 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432.","inLanguage":"ru-RU","isPartOf":{"@id":"https:\/\/smartengines.ru\/#website"},"breadcrumb":{"@id":"https:\/\/smartengines.ru\/#breadcrumblist"},"datePublished":"2016-07-04T11:41:46+03:00","dateModified":"2022-01-14T12:48:54+03:00"}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Smart Engines &raquo; Лента" href="https://smartengines.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Smart Engines &raquo; Лента комментариев" href="https://smartengines.ru/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Smart Engines &raquo; Лента комментариев к &laquo;Применение наших технологий&raquo;" href="https://smartengines.ru/sample-page/feed/" />
+<link id='omgf-preload-0' rel='preload' href='https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-400.woff2' as='font' type='font/woff2' crossorigin />
+<link id='omgf-preload-1' rel='preload' href='https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-400.woff2' as='font' type='font/woff2' crossorigin />
+<link id='omgf-preload-2' rel='preload' href='https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-700.woff2' as='font' type='font/woff2' crossorigin />
+<link id='omgf-preload-3' rel='preload' href='https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-700.woff2' as='font' type='font/woff2' crossorigin />
+<link rel='stylesheet' id='wpacu-combined-css-head-1' href='https://smartengines.ru/wp-content/cache/asset-cleanup/css/head-3271506408f3e2944cceb4e8b60fc26d08fb4c32.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+/*!/wp-content/plugins/contact-form-7/includes/css/styles.css*/.wpcf7 .screen-reader-response{position:absolute;overflow:hidden;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;width:1px;margin:-1px;padding:0;border:0;word-wrap:normal!important}.wpcf7 form .wpcf7-response-output{margin:2em .5em 1em;padding:.2em 1em;border:2px solid #00a0d2}.wpcf7 form.init .wpcf7-response-output,.wpcf7 form.resetting .wpcf7-response-output,.wpcf7 form.submitting .wpcf7-response-output{display:none}.wpcf7 form.sent .wpcf7-response-output{border-color:#46b450}.wpcf7 form.failed .wpcf7-response-output,.wpcf7 form.aborted .wpcf7-response-output{border-color:#dc3232}.wpcf7 form.spam .wpcf7-response-output{border-color:#f56e28}.wpcf7 form.invalid .wpcf7-response-output,.wpcf7 form.unaccepted .wpcf7-response-output,.wpcf7 form.payment-required .wpcf7-response-output{border-color:#ffb900}.wpcf7-form-control-wrap{position:relative}.wpcf7-not-valid-tip{color:#dc3232;font-size:1em;font-weight:400;display:block}.use-floating-validation-tip .wpcf7-not-valid-tip{position:relative;top:-2ex;left:1em;z-index:100;border:1px solid #dc3232;background:#fff;padding:.2em .8em;width:24em}.wpcf7-list-item{display:inline-block;margin:0 0 0 1em}.wpcf7-list-item-label::before,.wpcf7-list-item-label::after{content:" "}.wpcf7-spinner{visibility:hidden;display:inline-block;background-color:#23282d;opacity:.75;width:24px;height:24px;border:none;border-radius:100%;padding:0;margin:0 24px;position:relative}form.submitting .wpcf7-spinner{visibility:visible}.wpcf7-spinner::before{content:'';position:absolute;background-color:#fbfbfc;top:4px;left:4px;width:6px;height:6px;border:none;border-radius:100%;transform-origin:8px 8px;animation-name:spin;animation-duration:1000ms;animation-timing-function:linear;animation-iteration-count:infinite}@media (prefers-reduced-motion:reduce){.wpcf7-spinner::before{animation-name:blink;animation-duration:2000ms}}@keyframes spin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}@keyframes blink{from{opacity:0}50%{opacity:1}to{opacity:0}}.wpcf7 input[type="file"]{cursor:pointer}.wpcf7 input[type="file"]:disabled{cursor:default}.wpcf7 .wpcf7-submit:disabled{cursor:not-allowed}.wpcf7 input[type="url"],.wpcf7 input[type="email"],.wpcf7 input[type="tel"]{direction:ltr}
+</style>
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+/*!/wp-content/plugins/wp-pagenavi/pagenavi-css.css*/.wp-pagenavi{clear:both}.wp-pagenavi a,.wp-pagenavi span{text-decoration:none;border:1px solid #BFBFBF;padding:3px 5px;margin:2px}.wp-pagenavi a:hover,.wp-pagenavi span.current{border-color:#000}.wp-pagenavi span.current{font-weight:700}
+</style>
+
+
+<style  type='text/css'  data-wpacu-inline-css-file='1'>
+/*!/wp-content/uploads/omgf/google_fonts/google_fonts.css*/@font-face{font-family:'PT Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-400.eot);src:url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-400.woff2) format('woff2'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-400.woff) format('woff'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-400.ttf) format('ttf'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-400.svg) format('svg')}@font-face{font-family:'PT Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-400.woff2) format('woff2'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-400.woff) format('woff'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-400.ttf) format('ttf'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-400.svg) format('svg')}@font-face{font-family:'PT Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-700.woff2) format('woff2'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-700.woff) format('woff'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-700.ttf) format('ttf'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-normal-700.svg) format('svg')}@font-face{font-family:'PT Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-700.woff2) format('woff2'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-700.woff) format('woff'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-700.ttf) format('ttf'),url(https://smartengines.ru/wp-content/uploads/omgf/google_fonts/pt-sans-italic-700.svg) format('svg')}
+</style>
+
+<script type='text/javascript' id='cookie-notice-front-js-extra'>
+/* <![CDATA[ */
+var cnArgs = {"ajaxUrl":"https:\/\/smartengines.ru\/wp-admin\/admin-ajax.php","nonce":"b0bd58c2ba","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+/* ]]> */
+</script>
+<script   async type='text/javascript' src='https://smartengines.ru/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.2.1' id='cookie-notice-front-js'></script>
+<link rel="https://api.w.org/" href="https://smartengines.ru/wp-json/" /><link rel="alternate" type="application/json" href="https://smartengines.ru/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://smartengines.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://smartengines.ru/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://smartengines.ru/' />
+<link rel="alternate" type="application/json+oembed" href="https://smartengines.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmartengines.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://smartengines.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsmartengines.ru%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!--<link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>-->
+<!--Bootstrap core CSS-->
+
+<!--Custom styles-->
+
+<!--[if lt IE 9]>
+<!-- <script src="js/ie8-responsive-file-warning.js"></script>-->
+ <![endif]-->
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media
+ queries -->
+<!--[if lt IE 9]>
+ <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+ <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+ <![endif]-->
+
+    
+    <script id='wpacu-combined-js-head-group-1' type='text/javascript' src='https://smartengines.ru/wp-content/cache/asset-cleanup/js/head-1c21dfbd58611d4588463a1c64ba8f4d894f56eb.js'></script>	<link rel="icon" href="/wp-content/themes/newsmart/img/icons/favicon.png" type="image/png">
+<link  type="image/png" sizes="120x120" rel="icon"  href="/wp-content/themes/newsmart/img/icons/favicon_120x120.ico">
+</head>
+<body id="main">
+<header>
+<!--menu begin-->
+ <nav id="large" class="navbar navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/"></a>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header_nav" aria-expanded="false">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      </div> <!-- navbar-header -->
+    
+<script type="text/javascript">
+jQuery(document).ready(function(){
+     jQuery('.navbar .dropdown a').click(function(e){  
+          e.preventDefault();
+          if (jQuery(this).parent().children('.sub-menu:first').is(':visible')) {
+               jQuery(this).parent().children('.sub-menu:first').hide();
+          } else {
+               jQuery(this).parent().children('.sub-menu:first').show();
+          }
+     });
+});
+</script>
+  
+<div class="collapse navbar-collapse" id="header_nav">
+	<ul class="nav navbar-nav navbar-right" style="margin-right: 50px;"><li id="nav-menu-item-302" class="main-menu-item  menu-item-even menu-item-depth-0 dropdown-toggle menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children"><a data-toggle="dropdown" href="https://smartengines.ru/solutions/" class="menu-link main-menu-link dropdown-toggle">ПРОДУКТЫ</a>
+<ul class="dropdown-menu ">
+	<li id="nav-menu-item-3167" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/smart-idreader/" class="menu-link sub-menu-link ">Smart ID Engine</a>
+	</li><li class="sub-menu"><ul class="sub-menu">
+		<li id="nav-menu-item-305" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-passportreader/" class="menu-link sub-menu-link ">Распознавание паспорта РФ</a></li>
+		<li id="nav-menu-item-3240" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-idreader-cis/" class="menu-link sub-menu-link ">Распознавание документов СНГ</a></li>
+		<li id="nav-menu-item-5528" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-zarubezhnyh-pasportov/" class="menu-link sub-menu-link ">Распознавание паспортов и виз 210 стран</a></li>
+		<li id="nav-menu-item-5529" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/inostrannye-udostoveryaushie-dokumenty/" class="menu-link sub-menu-link ">Распознавание ID карт 169 стран</a></li>
+		<li id="nav-menu-item-5530" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-voditelskih-prav/" class="menu-link sub-menu-link ">Распознавание водительских прав</a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-2027" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-document-forensics/" class="menu-link sub-menu-link ">Computation Document Forensic and Liveness</a></li>
+	<li id="nav-menu-item-5944" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/face-verification/" class="menu-link sub-menu-link ">Face Verification</a></li>
+	<li id="nav-menu-item-1972" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/intelligent-document-recognition/" class="menu-link sub-menu-link ">Smart Document Engine</a>
+	</li><li class="sub-menu"><ul class="sub-menu">
+		<li id="nav-menu-item-6471" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-dokumentov-i-schetov/" class="menu-link sub-menu-link ">Распознавание счетов, платежек и согласий</a></li>
+		<li id="nav-menu-item-6472" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-form-i-anket/" class="menu-link sub-menu-link ">Распознавание анкет и опросников</a></li>
+		<li id="nav-menu-item-6551" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-buhgalterskih-i-uchetnyh-dokumentov/" class="menu-link sub-menu-link ">Распознавание учетных документов</a></li>
+		<li id="nav-menu-item-6038" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/skanirovanie-dokumentov-na-smartfone/" class="menu-link sub-menu-link ">Сканирование документов на смартфоне</a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-4280" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/smart-code-engine/" class="menu-link sub-menu-link ">Smart Code Engine</a>
+	</li><li class="sub-menu"><ul class="sub-menu">
+		<li id="nav-menu-item-2996" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-cardreader/" class="menu-link sub-menu-link ">Распознавание банковских карт</a></li>
+		<li id="nav-menu-item-2257" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-barcodereader/" class="menu-link sub-menu-link ">Распознавание баркодов</a></li>
+		<li id="nav-menu-item-331" class="sub-menu-item sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-mrzreader/" class="menu-link sub-menu-link ">Распознавание MRZ</a></li>
+	</ul>
+</li>
+	<li id="nav-menu-item-4970" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-tomo-engine/" class="menu-link sub-menu-link ">Smart Tomo Engine</a></li>
+	<li id="nav-menu-item-3971" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/passport-scanners/" class="menu-link sub-menu-link ">Сканеры Smart Engines</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-6853" class="main-menu-item  menu-item-even menu-item-depth-0 dropdown-toggle menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a data-toggle="dropdown" href="https://smartengines.ru/platform/smart-engines-mobile-ocr-sdk/" class="menu-link main-menu-link dropdown-toggle">OCR SDK</a>
+<ul class="dropdown-menu ">
+	<li id="nav-menu-item-5771" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-mobile-ocr-sdk/" class="menu-link sub-menu-link ">Smart Engines Mobile OCR</a></li>
+	<li id="nav-menu-item-5770" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-web-ocr-sdk/" class="menu-link sub-menu-link ">Smart Engines Web OCR</a></li>
+	<li id="nav-menu-item-5877" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-desktop-ocr-sdk/" class="menu-link sub-menu-link ">Smart Engines Desktop OCR</a></li>
+	<li id="nav-menu-item-5772" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-server-ocr-sdk/" class="menu-link sub-menu-link ">Smart Engines Server OCR</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-5292" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/clients/" class="menu-link main-menu-link ">КЛИЕНТЫ</a></li>
+<li id="nav-menu-item-2221" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/science/" class="menu-link main-menu-link ">НАУКА</a></li>
+<li id="nav-menu-item-229" class="main-menu-item  menu-item-even menu-item-depth-0 dropdown-toggle menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a data-toggle="dropdown" href="https://smartengines.ru/about/" class="menu-link main-menu-link dropdown-toggle">О НАС</a>
+<ul class="dropdown-menu ">
+	<li id="nav-menu-item-5205" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/about/" class="menu-link sub-menu-link ">О компании</a></li>
+	<li id="nav-menu-item-4293" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/news/" class="menu-link sub-menu-link ">Новости</a></li>
+	<li id="nav-menu-item-4051" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/my-v-smi/" class="menu-link sub-menu-link ">Мы в СМИ</a></li>
+	<li id="nav-menu-item-4292" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/blog/" class="menu-link sub-menu-link ">Блог</a></li>
+	<li id="nav-menu-item-4295" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/career/" class="menu-link sub-menu-link ">Карьера</a></li>
+	<li id="nav-menu-item-3044" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/basic-solutions/" class="menu-link sub-menu-link ">Типовые решения</a></li>
+	<li id="nav-menu-item-283" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/custom-ocr/" class="menu-link sub-menu-link ">Computer Vision</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-1769" class="main-menu-item  menu-item-even menu-item-depth-0 text-uppercase menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/contacts/" class="menu-link main-menu-link text-uppercase">Контакты</a></li>
+<li id="nav-menu-item-1796" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://smartengines.com/" class="menu-link main-menu-link ">EN</a></li>
+</ul>
+<form action="https://smartengines.ru/" method="get" class="searchform clearfix form-inline" id="search_form">
+  <input type="search" placeholder="Search" class="s field form-control" name="s">
+	<button type="reset" class="btn btn-close"><span class="search_close"></span></button>
+	<button type="submit" value="Search"><span class="lupa"></span></button>
+</form>
+<!--<form action="https://smartengines.ru/" method="get" class="searchform clearfix">
+  <label class="assistive-text">
+    Искать  </label>
+  <input type="search" placeholder="Искать" class="s field" name="s">
+  <input type="submit" value="Искать" class="search-submit">
+</form>-->
+<!-- .search-form -->
+      </div> <!-- collapse navbar-collapse -->
+    </div> <!-- container  -->
+  </nav>
+
+  <nav id="medium" class="navbar navbar-default">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/"></a>
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header_nav_md" aria-expanded="false">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div class="pull-right">
+
+<ul class="nav navbar-nav navbar-right" style="margin-right: 50px;"><li id="menu-item-5286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5286"><a href="https://smartengines.ru/contacts/">Контакты</a></li>
+<li id="menu-item-1797" class="menu_medium_lang_btn menu-item menu-item-type-custom menu-item-object-custom menu-item-1797"><a target="_blank" rel="noopener" href="https://smartengines.com/">EN</a></li>
+</ul> <!-- navbar-right -->
+
+<form action="https://smartengines.ru/" method="get" class="searchform clearfix form-inline" id="search_form">
+  <input type="search" placeholder="Search" class="s field form-control" name="s">
+	<button type="reset" class="btn btn-close"><span class="search_close"></span></button>
+	<button type="submit" value="Search"><span class="lupa"></span></button>
+</form>
+<!--<form action="https://smartengines.ru/" method="get" class="searchform clearfix">
+  <label class="assistive-text">
+    Искать  </label>
+  <input type="search" placeholder="Искать" class="s field" name="s">
+  <input type="submit" value="Искать" class="search-submit">
+</form>-->
+<!-- .search-form -->
+
+        </div> <!-- pull-right -->
+      </div> <!-- navbar-header -->
+      <div class="collapse navbar-collapse" id="header_nav_md"> 
+
+<ul class="nav">
+				  <li class="li_product">ПРОДУКТЫ И&nbsp;РЕШЕНИЯ</li><li id="nav-menu-item-3165" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/smart-idreader/" class="menu-link main-menu-link ">Smart ID Engine</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-371" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-passportreader/" class="menu-link sub-menu-link ">Распознавание паспорта РФ</a></li>
+	<li id="nav-menu-item-3241" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-idreader-cis/" class="menu-link sub-menu-link ">Распознавание документов СНГ</a></li>
+	<li id="nav-menu-item-5525" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-zarubezhnyh-pasportov/" class="menu-link sub-menu-link ">Распознавание паспортов и виз 210 стран</a></li>
+	<li id="nav-menu-item-5526" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/inostrannye-udostoveryaushie-dokumenty/" class="menu-link sub-menu-link ">Распознавание ID карт 169 стран</a></li>
+	<li id="nav-menu-item-5527" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-voditelskih-prav/" class="menu-link sub-menu-link ">Распознавание водительских прав</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-2028" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-document-forensics/" class="menu-link main-menu-link ">Computation Document Forensic and Liveness</a></li>
+<li id="nav-menu-item-5942" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/face-verification/" class="menu-link main-menu-link ">Face Verification</a></li>
+<li id="nav-menu-item-1973" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/intelligent-document-recognition/" class="menu-link main-menu-link ">Smart Document Engine</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-6473" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-dokumentov-i-schetov/" class="menu-link sub-menu-link ">Распознавание счетов, платежек и согласий</a></li>
+	<li id="nav-menu-item-6474" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-form-i-anket/" class="menu-link sub-menu-link ">Распознавание анкет и опросников</a></li>
+	<li id="nav-menu-item-6552" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-buhgalterskih-i-uchetnyh-dokumentov/" class="menu-link sub-menu-link ">Распознавание учетных документов</a></li>
+	<li id="nav-menu-item-6039" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/skanirovanie-dokumentov-na-smartfone/" class="menu-link sub-menu-link ">Сканирование документов на смартфоне</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-4288" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/smart-code-engine/" class="menu-link main-menu-link ">Smart Code Engine</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-2997" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-cardreader/" class="menu-link sub-menu-link ">Распознавание банковских карт</a></li>
+	<li id="nav-menu-item-2258" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-barcodereader/" class="menu-link sub-menu-link ">Распознавание баркодов</a></li>
+	<li id="nav-menu-item-372" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-mrzreader/" class="menu-link sub-menu-link ">Распознавание MRZ</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-4971" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-tomo-engine/" class="menu-link main-menu-link ">Smart Tomo Engine</a></li>
+<li id="nav-menu-item-4013" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/passport-scanners/" class="menu-link main-menu-link ">Сканеры Smart Engines</a></li>
+<li id="nav-menu-item-5775" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-mobile-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Mobile OCR</a></li>
+<li id="nav-menu-item-5774" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-web-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Web OCR</a></li>
+<li id="nav-menu-item-5943" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-desktop-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Desktop OCR</a></li>
+<li id="nav-menu-item-5773" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-server-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Server OCR</a></li>
+<li><div class="divider"></div></li><li id="nav-menu-item-377" class=" text-uppercase menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/download/" class="menu-link main-menu-link text-uppercase">Скачать</a></li>
+<li id="nav-menu-item-5293" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/clients/" class="menu-link main-menu-link ">КЛИЕНТЫ</a></li>
+<li id="nav-menu-item-2222" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/science/" class="menu-link main-menu-link ">НАУКА</a></li>
+<li id="nav-menu-item-378" class=" text-uppercase menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/about/" class="menu-link main-menu-link text-uppercase">О нас</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-2601" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/news/" class="menu-link sub-menu-link ">Новости</a></li>
+	<li id="nav-menu-item-4052" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/my-v-smi/" class="menu-link sub-menu-link ">Мы в СМИ</a></li>
+	<li id="nav-menu-item-2616" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/blog/" class="menu-link sub-menu-link ">Блог</a></li>
+	<li id="nav-menu-item-2199" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/career/" class="menu-link sub-menu-link ">Карьера</a></li>
+	<li id="nav-menu-item-3043" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/basic-solutions/" class="menu-link sub-menu-link ">Типовые решения</a></li>
+	<li id="nav-menu-item-376" class=" text-nowrap menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/custom-ocr/" class="menu-link sub-menu-link text-nowrap">Computer Vision</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-2664" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/faqs/" class="menu-link main-menu-link ">FAQ</a></li>
+<li id="nav-menu-item-379" class=" text-uppercase menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/contacts/" class="menu-link main-menu-link text-uppercase">Контакты</a></li>
+<li id="nav-menu-item-1798" class=" menu_small_lang_btn menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://smartengines.com/" class="menu-link main-menu-link menu_small_lang_btn">EN</a></li>
+
+				  </ul>      </div> <!-- collapse navbar-collapse -->
+    </div> <!-- container  -->
+  </nav>
+
+<nav id="small" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"></a>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header_nav_sm" aria-expanded="false">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <div class="pull-right">
+<ul class="nav navbar-nav navbar-right"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5286"><a href="https://smartengines.ru/contacts/">Контакты</a></li>
+<li class="menu_medium_lang_btn menu-item menu-item-type-custom menu-item-object-custom menu-item-1797"><a target="_blank" rel="noopener" href="https://smartengines.com/">EN</a></li>
+
+				  </ul>
+      </div> <!-- pull-right -->
+    </div> <!-- navbar-header -->
+    <div class="collapse navbar-collapse" id="header_nav_sm"> 
+<ul class="nav">
+<form action="https://smartengines.ru/" method="get" class="searchform clearfix form-inline" id="search_form">
+  <input type="search" placeholder="Search" class="s field form-control" name="s">
+	<button type="reset" class="btn btn-close"><span class="search_close"></span></button>
+	<button type="submit" value="Search"><span class="lupa"></span></button>
+</form>
+        <li class="li_product">ПРОДУКТЫ И&nbsp;РЕШЕНИЯ</li>				  
+<li id="nav-menu-item-3165" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/smart-idreader/" class="menu-link main-menu-link ">Smart ID Engine</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-371" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-passportreader/" class="menu-link sub-menu-link ">Распознавание паспорта РФ</a></li>
+	<li id="nav-menu-item-3241" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-idreader-cis/" class="menu-link sub-menu-link ">Распознавание документов СНГ</a></li>
+	<li id="nav-menu-item-5525" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-zarubezhnyh-pasportov/" class="menu-link sub-menu-link ">Распознавание паспортов и виз 210 стран</a></li>
+	<li id="nav-menu-item-5526" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/inostrannye-udostoveryaushie-dokumenty/" class="menu-link sub-menu-link ">Распознавание ID карт 169 стран</a></li>
+	<li id="nav-menu-item-5527" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-voditelskih-prav/" class="menu-link sub-menu-link ">Распознавание водительских прав</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-2028" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-document-forensics/" class="menu-link main-menu-link ">Computation Document Forensic and Liveness</a></li>
+<li id="nav-menu-item-5942" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/face-verification/" class="menu-link main-menu-link ">Face Verification</a></li>
+<li id="nav-menu-item-1973" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/intelligent-document-recognition/" class="menu-link main-menu-link ">Smart Document Engine</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-6473" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-dokumentov-i-schetov/" class="menu-link sub-menu-link ">Распознавание счетов, платежек и согласий</a></li>
+	<li id="nav-menu-item-6474" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-form-i-anket/" class="menu-link sub-menu-link ">Распознавание анкет и опросников</a></li>
+	<li id="nav-menu-item-6552" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/raspoznavanie-buhgalterskih-i-uchetnyh-dokumentov/" class="menu-link sub-menu-link ">Распознавание учетных документов</a></li>
+	<li id="nav-menu-item-6039" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/skanirovanie-dokumentov-na-smartfone/" class="menu-link sub-menu-link ">Сканирование документов на смартфоне</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-4288" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/smart-code-engine/" class="menu-link main-menu-link ">Smart Code Engine</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-2997" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-cardreader/" class="menu-link sub-menu-link ">Распознавание банковских карт</a></li>
+	<li id="nav-menu-item-2258" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-barcodereader/" class="menu-link sub-menu-link ">Распознавание баркодов</a></li>
+	<li id="nav-menu-item-372" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-mrzreader/" class="menu-link sub-menu-link ">Распознавание MRZ</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-4971" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/smart-tomo-engine/" class="menu-link main-menu-link ">Smart Tomo Engine</a></li>
+<li id="nav-menu-item-4013" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/passport-scanners/" class="menu-link main-menu-link ">Сканеры Smart Engines</a></li>
+<li id="nav-menu-item-5775" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-mobile-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Mobile OCR</a></li>
+<li id="nav-menu-item-5774" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-web-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Web OCR</a></li>
+<li id="nav-menu-item-5943" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-desktop-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Desktop OCR</a></li>
+<li id="nav-menu-item-5773" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/platform/smart-engines-server-ocr-sdk/" class="menu-link main-menu-link ">Smart Engines Server OCR</a></li>
+<li><div class="divider"></div></li><li id="nav-menu-item-377" class=" text-uppercase menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/download/" class="menu-link main-menu-link text-uppercase">Скачать</a></li>
+<li id="nav-menu-item-5293" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/clients/" class="menu-link main-menu-link ">КЛИЕНТЫ</a></li>
+<li id="nav-menu-item-2222" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/science/" class="menu-link main-menu-link ">НАУКА</a></li>
+<li id="nav-menu-item-378" class=" text-uppercase menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://smartengines.ru/about/" class="menu-link main-menu-link text-uppercase">О нас</a>
+</li><li class="sub-menu"><ul>
+	<li id="nav-menu-item-2601" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/news/" class="menu-link sub-menu-link ">Новости</a></li>
+	<li id="nav-menu-item-4052" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/my-v-smi/" class="menu-link sub-menu-link ">Мы в СМИ</a></li>
+	<li id="nav-menu-item-2616" class=" menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://smartengines.ru/blog/" class="menu-link sub-menu-link ">Блог</a></li>
+	<li id="nav-menu-item-2199" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/career/" class="menu-link sub-menu-link ">Карьера</a></li>
+	<li id="nav-menu-item-3043" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/basic-solutions/" class="menu-link sub-menu-link ">Типовые решения</a></li>
+	<li id="nav-menu-item-376" class=" text-nowrap menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/custom-ocr/" class="menu-link sub-menu-link text-nowrap">Computer Vision</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-2664" class=" menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/faqs/" class="menu-link main-menu-link ">FAQ</a></li>
+<li id="nav-menu-item-379" class=" text-uppercase menu-item menu-item-type-post_type menu-item-object-page"><a href="https://smartengines.ru/contacts/" class="menu-link main-menu-link text-uppercase">Контакты</a></li>
+<li id="nav-menu-item-1798" class=" menu_small_lang_btn menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://smartengines.com/" class="menu-link main-menu-link menu_small_lang_btn">EN</a></li>
+
+				  </ul>    </div> <!-- collapse navbar-collapse -->
+  </div> <!-- container  -->
+</nav>
+<!--menu end-->
+<!--video include begin-->
+<div class="container video">
+    <div class="video-container">
+      <div class="gradient"></div>
+      <div class="embed-responsive embed-responsive-16by9"> 
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+
+	<video loop="loop" autoplay="" playsinline="" muted="" id="mejs_998_html5" preload="auto" src="/wp-content/uploads/2019/02/ru_main2019.mp4" class="embed-responsive-item">
+			<source type="video/mp4" src="/wp-content/uploads/2019/02/ru_main2019.mp4">
+	</video>
+
+        <div class="title">
+			<a class="start_video" href="#"><span class="play"></span></a>
+			<!-- <a class="pause_video" href="#"><span class="pause"></span></a> -->
+			<h1>Безопасное распознавание</h1>
+			<p>без передачи персональных&nbsp;данных сторонним сервисам и третьим лицам</p>
+			
+      </div> <!-- title -->
+
+   
+
+   
+
+    </div> <!-- embed-responsive -->
+    </div> <!-- video-container -->
+  </div><!--video include end-->
+</header>
+
+
+
+
+	
+<div class="container tech">
+<h2 class="text-center">Применение наших технологий</h2>
+<p><!-- 
+
+
+
+
+
+
+
+<section> --></p>
+<div class="row">
+<p><!-- .entry-header --></p>
+<div class="text-center col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-md-5 col-md-offset-1 col-lg-3 col-lg-offset-0">
+<section>
+<h3 class="text-uppercase"><a class="text-green" href="/smart-idreader/" rel="noopener noreferrer">Распознавание данных<br>паспорта РФ и 192 стран</a></h3>
+<p class="text-grey">водительских прав, ID карт, заграничных паспортов, виз, свидетельств, СТС, ПТС и других документов — смартфоном, планшетом, сервером, веб камерой, на видео, фотографиях/сканах, устойчивое к качеству изображений.</p>
+</section>
+</div>
+<div class="text-center col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-5 col-md-offset-0 col-lg-3 col-lg-offset-0">
+<section>
+<h3 class="text-uppercase"><a class="text-green" href="/smart-code-engine/" rel="noopener noreferrer">Извлечение данных и<br>распознавание «на лету»</a></h3>
+<p class="text-grey">MRZ (машиночитаемых зон документов), банковских карт, QR code, AZTEC и других баркодов с камеры смартфона в мобильных приложениях (on-device) и на фотографиях, без «прицеливания», в движении и в различных условиях освещения.<br>&nbsp;<br>&nbsp;</p>
+</section>
+</div>
+<div class="clearfix visible-md-block">&nbsp;</div>
+<div class="text-center col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-1 col-md-5 col-md-offset-1 col-lg-3 col-lg-offset-0">
+<section>
+<h3 class="text-uppercase"><a class="text-green" href="/intelligent-document-recognition/" rel="noopener noreferrer">Ввод данных<br>типовых документов</a></h3>
+<p class="text-grey">классификация, распознавание текста и извлечение данных из сканов и фотографий первичной отчетности, заявлений, опросников и анкет, типовых форм, форм строгой отчетности, платежных документов, договоров, уставных документов.</p>
+</section>
+</div>
+<div class="text-center col-xs-10 col-xs-offset-1 col-sm-5 col-sm-offset-0 col-md-5 col-md-offset-0 col-lg-3 col-lg-offset-0">
+<section>
+<h3 class="text-uppercase"><a class="text-green" href="/smart-tomo-engine/" rel="noopener noreferrer">Решение различных<br>задач распознавания</a></h3>
+<p class="text-grey">классификации документов, нечеткого поиска, обнаружения движения и объектов, компьютерной томографии в видеопотоке и на изображениях на базе собственной технологии GreenOCR<sup>®</sup>, компьютерного зрения и машинного обучения.</p>
+</section>
+</div>
+<p><!-- entry content clearfix --></p>
+</div>
+<p><!-- row --></p>
+<p><!-- </section>
+
+
+
+
+
+
+
+ --></p>
+</div>
+<p><!-- container --></p>
+<div class="platform" style="background-color: #def0b8;"><!--clients main logo begin-->
+<p>&nbsp;</p>
+<div class="container text-center">
+<h2 class="category-title text-uppercase">Наши клиенты</h2>
+<div class="row">
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="beeline client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="megafon client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="mts client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="gazprombank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="tinkoff client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="alfabankru client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="raif client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="pochtabank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="domrf client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="mkb client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="citibank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="rosbank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="alphastrah client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="renessans client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="sksoglasie client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="sovcombank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="lokobank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="vostbank client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="fpk client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="avtodor client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="kupibilet client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="mariyara client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="kari client-logo-div">&nbsp;</div>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="skbkontur client-logo-div">&nbsp;</div>
+</div>
+</div>
+</div>
+<p><!-- container --></p>
+</div>
+<p><!--solutions begin--><br><!--solutions begin--></p>
+<div class="container products">
+<h2 class="category-title  text-center text-uppercase">Продукты и решения</h2>
+<section>
+<div class="row ">
+<div class="col-xs-12 col-md-6 col-lg-6"><!--
+
+
+
+
+
+
+
+<div class="index_pic1"></div>
+
+
+
+
+
+
+
+-->
+<p>&nbsp;</p>
+<figure class="post-featured-image post-featured-image-cat7 text-center  align-self-center"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://smartengines.ru/wp-content/uploads/2021/04/index_pic1.png" sizes="(max-width: 500px) 100vw, 500px" srcset="https://smartengines.ru/wp-content/uploads/2021/04/index_pic1.png 500w, https://smartengines.ru/wp-content/uploads/2021/04/index_pic1-300x240.png 300w" alt="" width="500" height="400"></figure>
+<p><!-- .post-featured-image --></p>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<h3 class="entry-title">Распознавание документов, удостоверяющих личность</h3>
+<p>Распознавание данных удостоверяющих документов — паспорт РФ, заграничный паспорт РФ, водительское удостоверение, СТС, виза, свидетельство о рождении, СНИЛС и другие российские документы, а также более <a class="text-green" href="https://smartengines.com/supported-countries-documents/" target="_blank" rel="noopener">1834 типов документов</a> 210+ юрисдикций — мобильным телефоном, планшетом, сервером, веб камерой, на видео, фотографиях и сканах, устойчивое к качеству изображений и в реальных условиях.</p>
+<p><a class="btn btn-default" href="/smart-idreader/">Подробнее о Smart ID Engine </a><br><a class="btn btn-default" href="/smart-passportreader/">Распознавание паспорта РФ </a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<p><!-- row --></p>
+</section>
+<section>
+<div class="row">
+<div class="col-xs-12 col-md-6 col-lg-6  hidden-xs  hidden-sm">
+<h3 class="entry-title">Распознавание банковских карт, MRZ, штрихкодов (QR, AZTEC и др.)</h3>
+<p>Распознавание данных кодифицированных объектов «на лету» с камеры смартфона в мобильных приложениях (on-device) и на фотографиях: MRZ (машиночитаемых зон документов), всех видов банковских карт и баркодов , без необходимости «прицеливания», в движении и в различных условиях освещения.</p>
+<p><a class="btn btn-default" style="width: 306.88px; text-align: left;" href="/smart-code-engine/">Подробнее о Smart Code Engine</a><br><a class="btn btn-default" style="width: 306.88px; text-align: left;" href="/smart-mrzreader/">Распознавание MRZ</a><br><a class="btn btn-default" href="/smart-cardreader/">Распознавание банковских карт</a><br><a class="btn btn-default" style="width: 306.88px; text-align: left;" href="/smart-barcodereader/">Распознавание QR и AZTEC</a></p>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6"><!--
+
+
+
+
+
+
+
+<div class="index_pic2"></div>
+
+
+
+
+
+
+
+-->
+<p>&nbsp;</p>
+<figure class="post-featured-image post-featured-image-cat7 text-center  align-self-center"><img loading="lazy" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://smartengines.ru/wp-content/uploads/2021/04/index_pic2.png" sizes="(max-width: 500px) 100vw, 500px" srcset="https://smartengines.ru/wp-content/uploads/2021/04/index_pic2.png 500w, https://smartengines.ru/wp-content/uploads/2021/04/index_pic2-300x240.png 300w" alt="" width="500" height="400"></figure>
+<p><!-- .post-featured-image --></p>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6 hidden-md  hidden-lg">
+<h3 class="entry-title">Распознавание банковских карт, MRZ, штрихкодов (QR, AZTEC и др.)</h3>
+<p>Распознавание данных кодифицированных объектов «на лету» с камеры смартфона в мобильных приложениях (on-device) и на фотографиях: MRZ (машиночитаемых зон документов), всех видов банковских карт и баркодов , без необходимости «прицеливания», в движении и в различных условиях освещения.</p>
+<p><a class="btn btn-default" style="width: 306.88px; text-align: left;" href="/smart-code-engine/">Подробнее о Smart Code Engine</a><br><a class="btn btn-default" style="width: 306.88px; text-align: left;" href="/smart-mrzreader/">Распознавание MRZ</a><br><a class="btn btn-default" href="/smart-cardreader/">Распознавание банковских карт</a><br><a class="btn btn-default" style="width: 306.88px; text-align: left;" href="/smart-barcodereader/">Распознавание QR и AZTEC</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<p><!-- row --></p>
+</section>
+<section>
+<div class="row ">
+<div class="col-xs-12 col-md-6 col-lg-6"><!--
+
+
+
+
+
+
+
+<div class="index_pic3"></div>
+
+
+
+
+
+
+
+-->
+<p>&nbsp;</p>
+<figure class="post-featured-image post-featured-image-cat7 text-center  align-self-center"><img loading="lazy" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://smartengines.ru/wp-content/uploads/2021/04/index_pic3.png" sizes="(max-width: 500px) 100vw, 500px" srcset="https://smartengines.ru/wp-content/uploads/2021/04/index_pic3.png 500w, https://smartengines.ru/wp-content/uploads/2021/04/index_pic3-300x240.png 300w" alt="" width="500" height="400"></figure>
+<p><!-- .post-featured-image --></p>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6">
+<h3 class="entry-title">Извлечение данных типовых документов</h3>
+<p>Автоматическое распознавание и ввод данных типовых документов (бухгалтерская первичка, KYC-анкета, согласие на обработку персональных данных, заявление, справка 2-НДФЛ, бухгалтерский баланс, отчет о финансовых результатах, платежное поручение) на сканах и фотографиях, сделанных в естественных условиях съемки, с возможностью автоматической классификации документов, распознавания текстов реквизитов, проверки наличия печати и подписей, проверки комплектности.</p>
+<p><a class="btn btn-default" href="/intelligent-document-recognition/">Подробнее о Smart Document Engine</a><br><a class="btn btn-default" style="width: 331.00px; text-align: left;" href="/raspoznavanie-dokumentov-i-schetov/">Распознавание платежек и счетов</a><br><a class="btn btn-default" style="width: 331.00px; text-align: left;" href="/raspoznavanie-form-i-anket/">Распознавание анкет и опросников</a><br><a class="btn btn-default" style="width: 331.00px; text-align: left;" href="/raspoznavanie-buhgalterskih-i-uchetnyh-dokumentov/">Распознавание учетных документов</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<p><!-- row --></p>
+</section>
+<section>
+<div class="row">
+<div class="col-xs-12 col-md-6 col-lg-6  hidden-xs  hidden-sm">
+<h3 class="entry-title">Любые задачи по распознаванию изображений и видеопотока</h3>
+<p>Smart Engines осуществляет решение различных задач распознавания, нечеткого поиска, обнаружения движения и объектов, компьютерной томографии на базе собственной технологии GreenOCR®, компьютерного зрения и машинного обучения.</p>
+<p><a class="btn btn-default" style="width: 275.11px; text-align: left;" href="/custom-ocr/">Решения Computer Vision</a><br><a class="btn btn-default" href="/smart-tomo-engine/">Компьютерная томография</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6"><!--
+
+
+
+
+
+
+
+<div class="index_pic4"></div>
+
+
+
+
+
+
+
+-->
+<p>&nbsp;</p>
+<figure class="post-featured-image post-featured-image-cat7 text-center  align-self-center"><img loading="lazy" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://smartengines.ru/wp-content/uploads/2016/03/index_pic4.png" sizes="(max-width: 500px) 100vw, 500px" srcset="https://smartengines.ru/wp-content/uploads/2016/03/index_pic4.png 500w, https://smartengines.ru/wp-content/uploads/2016/03/index_pic4-300x240.png 300w" alt="" width="500" height="400"></figure>
+<p><!-- .post-featured-image --></p>
+</div>
+<div class="col-xs-12 col-md-6 col-lg-6 hidden-md  hidden-lg">
+<h3 class="entry-title">Любые задачи по распознаванию изображений и видеопотока</h3>
+<p>Smart Engines осуществляет решение различных задач распознавания, нечеткого поиска, обнаружения движения и объектов, компьютерной томографии на базе собственной технологии GreenOCR®, компьютерного зрения и машинного обучения.</p>
+<p><a class="btn btn-default" style="width: 275.11px; text-align: left;" href="/custom-ocr/">Решения Computer Vision</a><br><a class="btn btn-default" href="/smart-tomo-engine/">Компьютерная томография</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<p><!-- row --></p>
+</section>
+</div>
+<p><!-- container --><br><!--solutions end--></p>
+<p><!--solutions end--></p>
+<p><!--content_tech_in_actions begin--></p>
+<div class="jumbotron apps "><!--clients begin-->
+<p>&nbsp;</p>
+<div class="container">
+<div class="col-md-10 col-md-offset-1 text-center">
+<p class="form-title text-green mb-15"><strong>Проверьте качество нашей технологии</strong></p>
+<p class="text-for-green">Извлекайте данные паспортов, водительских прав и других удостоверений личности, а также MRZ, банковских карт, штрихкодов (QR, AZTEC и др.) и типовых документов на скан-копиях, фотографиях и в видеопотоке в режиме реального времени.</p>
+<div class="apps" style="margin-bottom: 30px;"><a href="https://apps.apple.com/us/app/smart-engines/id1593408182" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_click', { 'event_category': 'mobile_app_store', 'event_action':'app_store_click'});;"><span class="appstore"></span></a> <a href="https://play.google.com/store/apps/details?id=com.smartengines.se" target="_blank" rel="noopener noreferrer" onclick="gtag('event', 'store_click', { 'event_category': 'mobile_app_store', 'event_action':'app_store_click'});;"><span class="googleplay"></span></a></div>
+<p class="text-for-green"><a class="text-green" href="#f_order">Оставьте заявку</a>, чтобы получить триал версию SDK для iOS, Android, Linux и Windows.</p>
+<div class="apps" style="margin-bottom: 30px;height:1px;"></div>
+</div>
+</div>
+</div>
+<p><!-- jumbotron --><br><!--content_tech_in_actions end--></p>
+<div class="platform" style="padding: 0;"><!--platform logo begin-->
+<p>&nbsp;</p>
+<div class="container text-center">
+<h2 class="category-title text-uppercase">Платформы</h2>
+<div class="row">
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="ios">&nbsp;</div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="android">&nbsp;</div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="mac_os_x">&nbsp;</div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="win">&nbsp;</div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="linux">&nbsp;</div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0 col-md-4 col-lg-2">
+<div class="win_phone">&nbsp;</div>
+<p>&nbsp;</p>
+</div>
+</div>
+<p><!-- row --><br><!--platform logo end--></p>
+</div>
+<p><!-- container --></p>
+</div>
+<p><!-- order form begin --></p>
+    
+
+<!-- order form begin -->
+<!--form block begin-->
+<div class="jumbotron form">	
+	<div class="container form">
+		<div class="col-md-10 col-md-offset-1 text-center"><a name="f_order" id="f_order"></a>
+			<p class="form-title text-green"><strong>Заказать продукт</strong></p>
+			<p class="text-for-green text-center">Для заказа решений, получения подробной информации или триал версий<span class="hidden-xs"><br></span> заполните приведенную ниже форму, и мы обязательно с Вами свяжемся.</p>
+		</div> 
+	<!--form begin-->
+		<div class="col-md-12">
+			<div class="form-container">
+				<div role="form" class="wpcf7" id="wpcf7-f205-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f205-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="205" />
+<input type="hidden" name="_wpcf7_version" value="5.5.5" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f205-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="form-group">
+ <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="name" aria-required="true" aria-invalid="false" placeholder="Имя и фамилия*" /></span>
+</div>
+<div class="form-group">
+ <span id="wpcf7-621f3369860c1-wrapper" class="wpcf7-form-control-wrap email-639-wrap" style="display:none !important; visibility:hidden !important;"><label for="wpcf7-621f3369860c1-field" class="hp-message">Please leave this field empty.</label><input id="wpcf7-621f3369860c1-field"  class="wpcf7-form-control wpcf7-text" type="text" name="email-639" value="" size="40" tabindex="-1" autocomplete="new-password" /></span><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" id="email" aria-required="true" aria-invalid="false" placeholder="Корпоративный Email*" /></span>
+</div>
+<div class="form-group">
+ <span class="wpcf7-form-control-wrap your-phone"><input type="tel" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel form-control" id="phone" aria-invalid="false" placeholder="Телефон" /></span>
+</div>
+<div class="form-group">
+<span class="wpcf7-form-control-wrap textarea-251"><textarea name="textarea-251" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" id="message" aria-invalid="false" placeholder="Ваше сообщение"></textarea></span>
+</div>
+<div class="form-group text-for-green text-center">
+<label>Нажимая на кнопку отправить, Вы соглашаетесь на обработку данных<label>
+</div>
+<div class="text-center">
+<input type="submit" value="Отправить" class="wpcf7-form-control has-spinner wpcf7-submit btn btn-default" />
+</div>
+<p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="173"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>			</div> <!-- form-container -->
+<script type="text/javascript">
+  document.addEventListener('wpcf7mailsent', function sendMail(event) {
+      gtag('event', 'send', {
+        'event_category': 'zakatproduct_form',
+        'event_action': 'otpravit_button_click'
+      });
+      yaCounter41252704.reachGoal('any_form_send', {URL: document.location.href});
+//      console.log('работает');
+  }, false);
+</script>
+		</div>
+	</div> <!-- container -->
+</div> <!-- jumbotron -->
+<!--form block end-->
+<!-- order form end -->
+
+<!--news begin-->
+<!--clients begin-->
+<div class="container news">
+	<h2 class="category-title  text-center text-uppercase">Новости<span class="underline"></span></h2>
+<div class="row">
+<blockquote class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-6 col-lg-3 botnews">
+			<span class="text-grey">15.02.2022</span>
+		<p class="news-title"><a href="https://smartengines.ru/news/kliningovaya-kompaniya-ispolzuet-tehnologiyu-smart-id-engine-dlya-udobnogo-nayma-personala/" title="Клининговая компания использует технологию Smart ID Engine для удобного найма персонала">Клининговая компания использует технологию Smart ID Engine для удобного найма персонала</a></p>
+<!--<img width="670" height="300" src="https://smartengines.ru/wp-content/uploads/2022/02/smartengines_idalika_fb-670x300.png" class="attachment-featured size-featured wp-post-image" alt="Клининговая компания использует технологию Smart ID Engine для удобного найма персонала" loading="lazy" title="Клининговая компания использует технологию Smart ID Engine для удобного найма персонала" />  -->
+		<p>Компания Идалика, оказывающая клининговые услуги для объектов транспорта и недвижимости, внедрила технологию Smart Engines для безопасного распознавания документов, удостоверяющих личность, в свое мобильное приложение SMART 24. Модуль распознавания Smart ID Engine используется для автоматического ввода данных из документов при приеме на работу новых сотрудников. Идалика — компания, которая сотрудничает с&hellip; </p>
+	</blockquote>
+<blockquote class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-6 col-lg-3 botnews">
+			<span class="text-grey">07.02.2022</span>
+		<p class="news-title"><a href="https://smartengines.ru/news/klienty-alfa-banka-mogut-obnovit-dannye-pasporta-pryamo-v-mobilnom-prilozhenii/" title="Клиенты Альфа-Банка могут обновить данные паспорта прямо в мобильном приложении">Клиенты Альфа-Банка могут обновить данные паспорта прямо в мобильном приложении</a></p>
+<!--<img width="670" height="300" src="https://smartengines.ru/wp-content/uploads/2022/02/smartengines_alfabank_fb-670x300.png" class="attachment-featured size-featured wp-post-image" alt="Клиенты Альфа-Банка могут обновить данные паспорта прямо в мобильном приложении" loading="lazy" title="Клиенты Альфа-Банка могут обновить данные паспорта прямо в мобильном приложении" />  -->
+		<p>Альфа-Банк предложил клиентам возможность обновить паспортные данные прямо в мобильном приложении. Новая услуга позволяет актуализировать данные, если произошла замена документа при достижении 20 или 45 лет, утере паспорта или по другим причинам – для этого не нужно приходить в офис специально. Чтобы обновить данные, нужно открыть мобильное приложение банка, выбрать&hellip; </p>
+	</blockquote>
+	<div class="clearfix hidden-lg"></div>
+<blockquote class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-6 col-lg-3 botnews">
+			<span class="text-grey">26.01.2022</span>
+		<p class="news-title"><a href="https://smartengines.ru/news/smart-engines-razrabotala-pervuyu-sistemu-ii-dlya-raspoznavaniya-vseh-stranic-pasporta-rf/" title="Smart Engines разработала первую систему ИИ для распознавания всех страниц паспорта РФ">Smart Engines разработала первую систему ИИ для распознавания всех страниц паспорта РФ</a></p>
+<!--<img width="670" height="300" src="https://smartengines.ru/wp-content/uploads/2022/01/sie_pasrf-670x300.png" class="attachment-featured size-featured wp-post-image" alt="Smart Engines разработала первую систему ИИ для распознавания всех страниц паспорта РФ" loading="lazy" title="Smart Engines разработала первую систему ИИ для распознавания всех страниц паспорта РФ" />  -->
+		<p>Научно-исследовательская компания Smart Engines представила первую систему ИИ для автоматического распознавания всех страниц паспорта РФ. Она предназначена для безопасного ввода паспортных данных в процессах клиентского обслуживания, когда требуется расширенная или полная информация о документе. Ее применение позволит компаниям реализовать новый пользовательский опыт при открытии банковского счета, оформлении ипотеки, проведении сделок&hellip; </p>
+	</blockquote>
+<blockquote class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-6 col-lg-3 botnews">
+			<span class="text-grey">18.01.2022</span>
+		<p class="news-title"><a href="https://smartengines.ru/news/smart-engines-podvodit-itogi-kommercheskoy-i-nauchnoy-deyatelnosti-v-2021-godu/" title="Smart Engines подводит итоги коммерческой и научной деятельности в 2021 году">Smart Engines подводит итоги коммерческой и научной деятельности в 2021 году</a></p>
+<!--<img width="670" height="300" src="https://smartengines.ru/wp-content/uploads/2022/01/full_fb-670x300.png" class="attachment-featured size-featured wp-post-image" alt="Smart Engines подводит итоги коммерческой и научной деятельности в 2021 году" loading="lazy" title="Smart Engines подводит итоги коммерческой и научной деятельности в 2021 году" />  -->
+		<p>Российский разработчик технологий зеленого ИИ Smart Engines подводит итоги коммерческой и научной деятельности в 2021 году. В 2021 году компания Smart Engines продала ИИ для 113 миллионов безопасных распознаваний документов, решила последнюю фундаментальную задачу при распознавании паспорта РФ и создала CO2 нейтральную ИИ для OCR. Подробные итоги — в инфографике.&hellip; </p>
+	</blockquote>
+	<div class="clearfix hidden-lg"></div>
+<div class="text-center">
+    <a href="/news" class="btn btn-default">Все новости</a>
+</div>
+</div>
+</div>
+<!--clients end-->
+<!--news end-->
+
+</div>
+<footer>
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <div class="row">
+        <div class="navbar-header">
+		<!-- wp:html -->
+<table class="footer-logo-table">
+<tbody><tr>
+	<td><a href="/"><img src="/wp-content/themes/newsmart/img/icons/footer_logo1.svg" class="img-responsive"></a></td>
+	<td><a href="/kompaniya-smart-engines-stala-pervym-rossijskim-razrabotchikom-ii-prisoedinivshimsya-k-globalnomu-dogovoru-oon/" rel="noopener noreferrer"><img class="aligleft wp-image-4653 ungc" style="margin-left: 15px;" src="/wp-content/uploads/2021/03/ungc.png" alt=""></a></td>
+	<td><a href="https://sk.ru/" target="_blank" rel="noopener noreferrer nofollow"><img class="aligleft wp-image-4654 sk_residenten" style="margin-left: 15px;" src="/wp-content/uploads/2021/05/sk_residenten.jpg" alt=""></a></td>
+</tr>
+</tbody></table>
+<!-- /wp:html -->        </div> <!-- navbar-header -->
+        <div class="pull-right s_nets">
+		<!-- wp:html -->
+<a target="_blank" href="https://medium.com/@smartengines" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'Medium'});"><span class="medium_icon"></span></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCAhRdZxFYK0kmjnqdmNGePA" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'YouTube'});;"><span class="youtube_color"></span></a>
+<a target="_blank" href="https://vimeo.com/user146427669" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'Github'});;"><span class="vimeo_icon"></span></a>
+<a target="_blank" href="https://www.facebook.com/SmartEnginesRussia/" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'Facebook'});;"><span class="fb_color"></span></a>
+<a target="_blank" href="https://www.linkedin.com/company/smart-engines/" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'LinkedIn'});;"><span class="in_color"></span></a>
+<a target="_blank" href="//habr.com/ru/company/smartengines/" rel="noopener noreferrer nofollow"><span class="habr_color"></span></a>
+<a target="_blank" href="https://twitter.com/SmartEnginesLLC" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'Twitter'});;"><span class="twitter_icon"></span></a>
+<a target="_blank" href="https://www.instagram.com/smartengines/" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'Instagram'});;"><span class="inst_color"></span></a>
+<a target="_blank" href="https://github.com/SmartEngines" rel="noopener noreferrer nofollow" onclick="gtag('event', 'social_click', { 'event_category': 'Social', 'event_label':'Github'});;"><span class="github_icon"></span></a>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+	<ul class="nav navbar-nav navbar-right"><li id="menu-item-2904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2904"><a href="https://smartengines.ru/download/">Скачать</a></li>
+<li id="menu-item-2615" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2615"><a href="https://smartengines.ru/blog/">Блог</a></li>
+<li id="menu-item-2667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2667"><a href="https://smartengines.ru/faqs/">FAQ</a></li>
+<li id="menu-item-400" class="f_cont menu-item menu-item-type-post_type menu-item-object-page menu-item-400"><a href="https://smartengines.ru/contacts/">Контакты</a></li>
+
+			          <li class="text">Мы&nbsp;в&nbsp;соцсетях</li>
+				  </ul><!--<ul class="nav navbar-nav navbar-right">
+          <li><a href="../html/solutions.html">Продукты и&nbsp;решения</a></li>
+          <li class="f_down"><a href="../html/download.html">Скачать</a></li>
+          <li class="f_about"><a href="../html/about.html">О&nbsp;нас</a></li>
+          <li class="f_cont"><a href="../html/contacts.html">Контакты</a></li>
+
+        </ul>-->
+      </div> <!-- row -->
+      <div class="row">
+		<!-- wp:html -->
+<p class="new-text-grey">© 2016-2022 Smart Engines&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy-policy/" target="_blank" rel="noopener">Политика конфиденциальности</a><!--&nbsp;&nbsp;&nbsp;&nbsp;<a href="/terms-of-use/" target="_blank" rel="noopener">Terms of Use</a>--></p>
+<!-- /wp:html -->      </div> <!-- row -->
+    </div> <!-- container  -->
+  </nav>
+</footer>
+
+<!-- /container -->
+<!-- Bootstrap core JavaScript==================================================-
+ ->
+
+<!-- Placed at the end of the document so the pages load faster -->
+
+<!--Old theme-->
+<!--</div>-->
+<!-- .container -->
+<!--</div>-->
+<!-- #main -->
+
+
+<!--<footer id="colophon" class="clearfix">-->
+  <!--</footer>-->
+<!--</div>-->
+<!-- .wrapper -->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+<script id='wpacu-combined-js-body-group-1' type='text/javascript' src='https://smartengines.ru/wp-content/cache/asset-cleanup/js/body-23326104416a40aee305163b507a34cea33ce441.js'></script>
+		<!-- Cookie Notice plugin v2.2.1 by Hu-manity.co https://hu-manity.co/ -->
+		<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #fff;"><span id="cn-notice-text" class="cn-text-container">Сайт www.smartengines.ru использует файлы cookies и сервисы сбора технических данных посетителей для обеспечения работоспособности и улучшения качества обслуживания. Продолжая использовать наш сайт, вы автоматически соглашаетесь с использованием данных технологий. Кликните «Принять», чтобы согласиться с использованием «cookies» и больше не отображать это предупреждение.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button cn-button-custom button" aria-label="Принять">Принять</a></span><a href="javascript:void(0);" id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" aria-label="Принять"></a></div>
+			
+		</div>
+		<!-- / Cookie Notice plugin -->
+
+<!--<script type="text/javascript" src="/wp-content/themes/newsmart/js/backtotop.js"></script>-->
+
+<div class="popup_form_btn"></div>
+<div  class="form_popup wpcf7-display-none">
+    <div class="form_popup_overlay"></div>
+    <div  class="form_popup_container">
+        <div class="form_popup_close"></div>
+	<div class="jumbotron form" style="padding: 30px 0;">	
+		<div class="container form" >
+<!--			<div class="col-md-10 col-md-offset-1 text-center">-->
+			<div class="col-md-12 text-center">
+<!--				<p class="popup_form_title">Send request for quotation or more information about products.<br>Please fill out the form and we will contact you shortly.</p>-->
+			<p class="form-title text-green"><strong>Заказать продукт</strong></p>
+			<p class="text-for-green text-center">Для заказа решений, получения подробной информации или триал версий заполните приведенную ниже форму, и мы обязательно с Вами свяжемся.</p>
+			</div>
+<!--			<div class="col-md-12 col-lg-10 col-lg-offset-1">-->
+			<div class="col-md-12">
+				<div class="">
+			        		        <div role="form" class="wpcf7" id="wpcf7-f5542-o2" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f5542-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5542" />
+<input type="hidden" name="_wpcf7_version" value="5.5.5" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5542-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="form-group">
+ <span class="wpcf7-form-control-wrap your-popfio"><input type="text" name="your-popfio" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="popname" aria-required="true" aria-invalid="false" placeholder="Имя и фамилия*" /></span>
+</div>
+<div class="form-group">
+<span id="wpcf7-621f33698abdb-wrapper" class="wpcf7-form-control-wrap email-639-wrap" style="display:none !important; visibility:hidden !important;"><label for="wpcf7-621f33698abdb-field" class="hp-message">Please leave this field empty.</label><input id="wpcf7-621f33698abdb-field"  class="wpcf7-form-control wpcf7-text" type="text" name="email-639" value="" size="40" tabindex="-1" autocomplete="new-password" /></span><span class="wpcf7-form-control-wrap your-popemail"><input type="email" name="your-popemail" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Корпоративный Email*" /></span>
+</div>
+<div class="form-group">
+<span class="wpcf7-form-control-wrap tel-1091"><input type="tel" name="tel-1091" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel form-control" id="popphone" aria-invalid="false" placeholder="Телефон" /></span>
+</div>
+<div class="form-group">
+<span class="wpcf7-form-control-wrap your-popmessage"><textarea name="your-popmessage" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" id="popmessage" aria-invalid="false" placeholder="Ваше сообщение"></textarea></span>
+</div>
+<div class="form-group text-for-green text-center">
+<label>Нажимая на кнопку отправить, Вы соглашаетесь на обработку данных<label>
+</div>
+<p><!--
+<div class="form-group text-for-green ">
+<label>All the personal data is intended for internal use only, please see our <a href="/privacy-policy/" target='_blank' class="policylink-green">Privacy policy</a><label>
+</div>
+<p>--></p>
+<div class="text-center">
+<input type="submit" value="Отправить" class="wpcf7-form-control has-spinner wpcf7-submit btn btn-default" />
+</div>
+<p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_2" name="_wpcf7_ak_js" value="80"/><script>document.getElementById( "ak_js_2" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>				</div> <!-- form-container -->
+<script type="text/javascript">
+  document.addEventListener('wpcf7mailsent', function sendMail(event) {
+      gtag('event', 'send', {
+        'event_category': 'zakatproduct_form',
+        'event_action': 'otpravit_button_click'
+      });
+      yaCounter41252704.reachGoal('any_form_send', {URL: document.location.href});
+//      console.log('работает');
+  }, false);
+</script>
+			</div>
+		</div> <!-- container -->
+	</div> <!-- jumbotron -->
+    </div>
+</div>
+
+<div class="to_top_btn">
+    <svg style="height:16px; width: 16px; " xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792">
+        <path d="M1683 1331l-166 165q-19 19-45 19t-45-19l-531-531-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"></path>
+    </svg>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88268418-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-88268418-1');
+
+ setTimeout(function(){
+     gtag('event', location.pathname, {
+     'event_category': 'Посещение без отказа',
+  });
+ }, 15000);
+
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(41252704, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/41252704" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body></html>
+<!-- Cache served by Simple Cache - Last modified: Wed, 02 Mar 2022 09:05:45 GMT -->

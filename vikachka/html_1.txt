@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+
+<head>
+<title>Старая полка</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="Небольшой сборник софта за многие годы. Программы для Windows, DOS и браузера." />
+<meta name="Keywords" content="soft, скачать, C++, DOS, архив, головоломки, игры, download" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link rel="icon" href="favicon120x120.png" type="image/png" />
+</head>
+
+<body>
+<table class="tbl_main" align="center" cellpadding="0" cellspacing="0"><tr><td style="padding:0px">
+
+<h1>Программы | <a href="hintbook/index.html">Заметки</a> | <a href="links/index.html">Ссылки</a> | <a href="contacts.html">Контакты</a> | <a href="search/index.html">Поиск</a></h1>
+
+<div class="leaf">
+<div>
+<span class="yellow">Так вышло, что значительную часть свой жизни я посвятил программированию. Занимался многими проектами и задачами. То, что, как мне кажется, заслуживает публикации, размещаю на этом сайте.</span>
+</div>
+</div>
+
+<table style="width:100%" class="main" cellpadding="0px" cellspacing="0px">
+
+<tr><td colspan="7" class="between"></td></tr>
+
+<tr class="ln"><th style="width:10%"></th><th style="width:15%;text-align:left">Название</th><th style="width:35%">Описание</th><th style="width:8%"><img src="bar_sys.png" style="width:48px;height:48px" alt="Под" title="На чём работает" /></th><th style="width:8%"><img src="bar_video.png" style="width:48px;height:48px" alt="Видео" title="Видео" /></th><th style="width:8%"><img src="bar_com.png" style="width:48px;height:48px" alt="?!." title="Комментарии" /></th><th style="width:8%"><img src="bar_source.png" style="width:48px;height:48px" alt="Src" title="Исходники" /></th><th style="width:8%">Год</th></tr>
+
+<tr><td colspan="7" class="between"></td></tr>
+
+<tr class="row"><td><a href="WWW/Chess/pic.html"><img src="WWW/Chess/ico.jpg" alt="" /></a></td><td><a href="WWW/Chess/index.html">Шахматы</a></td><td>Игровой сервер</td><td class="for"><a href="https://e2-e4.org" target="_blank" title="Открыть"><img src="ff64.png" alt="" /></a></td><td class="plus"><a class="plus" href="WWW/Chess/video.html">&gt;</a></td><td class="minus"><a class="minus" href="contacts.html?about=Chess">0</a></td><td class="minus">-</td><td align="center">2007</td></tr>
+
+<tr class="row"><td><a href="CPP/Monk/pic.html"><img src="CPP/Monk/ico.png" alt="" /></a></td><td><a href="CPP/Monk/index.html">Monk</a></td><td>Игра в &quot;Шахматы&quot; на OpenGL</td><td class="for"><a href="CPP/Monk/monk.zip" title="Скачать 10,4 Мб"><img src="win.png" alt="" /></a></td><td class="plus"><a class="plus" href="CPP/Monk/video.html">&gt;</a></td><td class="plus"><a class="plus" href="CPP/Monk/comments.html">3</a></td><td class="plus"><a class="plus" href="CPP/Monk/src.html">+</a></td><td align="center">2011</td></tr>
+
+<tr class="row"><td><a href="CPP/Checkers/pic.html"><img src="CPP/Checkers/ico.png" alt="" /></a></td><td><a href="CPP/Checkers/index.html">Шашки</a></td><td>Игра в &quot;Шашки&quot; на OpenGL</td><td class="for"><a href="CPP/Checkers/checkers.zip" title="Скачать 8,42 Мб"><img src="win.png" alt="" /></a></td><td class="plus"><a class="plus" href="CPP/Checkers/video.html">&gt;</a></td><td class="minus"><a class="minus" href="contacts.html?about=CheckersGL">0</a></td><td class="plus"><a class="plus" href="CPP/Checkers/src.html">+</a></td><td align="center">2020</td></tr>
+
+<tr class="row"><td><a href="CPP/CornersGL/pic.html"><img src="CPP/CornersGL/ico.jpg" alt="" /></a></td><td><a href="CPP/CornersGL/index.html">CornersGL</a></td><td>Игра в &quot;Уголки&quot; на OpenGL</td><td class="for"><a href="CPP/CornersGL/cornersgl.zip" title="Скачать 11,4 Мб"><img src="win.png" alt="" /></a></td><td class="plus"><a class="plus" href="CPP/CornersGL/video.html">&gt;</a></td><td class="minus"><a class="minus" href="contacts.html?about=CornersGL">0</a></td><td class="plus"><a class="plus" href="CPP/CornersGL/src.html">+</a></td><td align="center">2019</td></tr>
+
+<tr class="row"><td><a href="CPP/Repaint/pic.html"><img src="CPP/Repaint/ico.gif" alt="" /></a></td><td><a href="CPP/Repaint/index.html">Repaint</a></td><td>&quot;Реверси&quot; на OpenGL</td><td class="for"><a href="CPP/Repaint/repaint.zip" title="Скачать 4,2 Мб"><img src="win.png" alt="" /></a></td><td class="plus"><a class="plus" href="CPP/Repaint/video.html">&gt;</a></td><td class="minus"><a class="minus" href="contacts.html?about=Repaint">0</a></td><td class="plus"><a class="plus" href="CPP/Repaint/src.html">+</a></td><td align="center">2018</td></tr>
+
+<tr class="row"><td><a href="CPP/LinesGL/pic.html"><img src="CPP/LinesGL/ico.png" alt="" /></a></td><td><a href="CPP/LinesGL/index.html">LinesGL</a></td><td>Составление цветных линий</td><td class="for"><a href="CPP/LinesGL/linesgl.zip" title="Скачать 7,1 Мб"><img src="win.png" alt="" /></a></td><td class="plus"><a class="plus" href="CPP/LinesGL/video.html">&gt;</a></td><td class="minus"><a class="minus" href="contacts.html?about=LinesGL">0</a></td><td class="plus"><a class="plus" href="CPP/LinesGL/src.html">+</a></td><td align="center">2021</td></tr>
+
+<tr class="row"><td><a href="WWW/FloodField/pic.html"><img src="WWW/FloodField/ico.gif" alt="" /></a></td><td><a href="WWW/FloodField/index.html">FloodField</a></td><td>Заполнить поле</td><td class="for"><a href="https://yandex.ru/games/play/97041" target="_blank" title="Открыть"><img src="ff64.png" alt="" /></a></td><td class="minus">-</td><td class="plus"><a class="plus" href="WWW/FloodField/comments.html">1</a></td><td class="minus">-</td><td align="center">2019</td></tr>
+
+<tr class="row"><td><a href="WWW/Reversi/pic.html"><img src="WWW/Reversi/ico.gif" alt="" /></a></td><td><a href="WWW/Reversi/index.html">Реверси</a></td><td>Переворачивание фишек</td><td class="for"><a href="https://yandex.ru/games/play/97595" target="_blank" title="Открыть"><img src="ff64.png" alt="" /></a></td><td class="minus">-</td><td class="minus"><a class="minus" href="contacts.html?about=Reversi">0</a></td><td class="minus">-</td><td align="center">2019</td></tr>
+
+<tr class="row"><td><a href="WWW/Corners/pic.html"><img src="WWW/Corners/ico.gif" alt="" /></a></td><td><a href="WWW/Corners/index.html">Уголки</a></td><td>Игра в &quot;Уголки&quot; на JavaScript</td><td class="for"><a href="https://yandex.ru/games/play/99549" target="_blank" title="Открыть"><img src="ff64.png" alt="" /></a></td><td class="minus">-</td><td class="plus"><a class="plus" href="WWW/Corners/comments.html">5</a></td><td class="minus">-</td><td align="center">2020</td></tr>
+
+<tr class="row"><td><a href="WWW/Checkers/pic.html"><img src="WWW/Checkers/ico.gif" alt="" /></a></td><td><a href="WWW/Checkers/index.html">Шашки</a></td><td>Игра в &quot;Шашки&quot; на JavaScript</td><td class="for"><a href="https://yandex.ru/games/play/101956" target="_blank" title="Открыть"><img src="ff64.png" alt="" /></a></td><td class="minus">-</td><td class="plus"><a class="plus" href="WWW/Checkers/comments.html">16</a></td><td class="minus">-</td><td align="center">2020</td></tr>
+
+<tr><td colspan="7" style="height:15px;padding:0px"></td></tr>
+
+<tr><td colspan="7" style="padding:0px;text-align:center">Страницы: первая, <a href="index-2.html">вторая</a>, <a href="index-3.html">третья</a></td></tr>
+
+<tr><td colspan="7" style="height:5px;padding:0px"></td></tr>
+
+</table>
+
+</td></tr></table>
+
+<table class="footer" align="center" cellpadding="0" cellspacing="0"><tr><td style="padding:0px">
+<table style="width:100%" align="center" cellpadding="0" cellspacing="0"><tr>
+<td class="f1" style="width:75%"></td>
+<td class="f2" style="width:25%"></td>
+</tr><tr>
+<td class="f3">
+<div style="margin-top:12px">
+<a href="https://downlink.ru" title="Каталог софта и игр со ссылками на сайты создателей программ" target="_blank"><img src="downlink.png" style="width:600px;height:90px;border-radius:10px" class="banner" alt="" /></a>
+</div>
+</td>
+<td class="f3" align="center">
+
+<table cellspacing="0" cellpadding="0"><tr><td style="padding:0px;padding-right:5px">
+<a href="https://gamedev.ru/top/" target="_blank"><img src="https://gamedev.ru/top/img/?id=784" style="width:88px;height:31px;border:0px" alt="Топ Разработка игр" /></a>
+</td><td style="padding:0px">
+
+<!--LiveInternet counter--><script type="text/javascript">
+//<![CDATA[
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t29.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано количество просмотров и'+
+' посетителей" '+
+'border="0" width="88" height="120"><\/a>')
+//]]>
+</script><!--/LiveInternet-->
+
+</td></tr></table>
+
+</td>
+</tr></table>
+</td></tr></table>
+
+<script type="text/javascript">
+//<![CDATA[
+var ico="ff64.png";
+if(navigator.userAgent.indexOf("Chrome")!=-1)
+{
+ if(navigator.userAgent.toLowerCase().indexOf("opr")!=-1||navigator.userAgent.toLowerCase().indexOf('opera')!=-1)
+  ico="opera.png";
+ else if(navigator.userAgent.indexOf("YaBrowser")!=-1)
+  ico="ya.png";
+ else
+  ico="chrome.png";
+}
+else if(navigator.userAgent.toLowerCase().indexOf('safari')!=-1)
+ ico="safari.png";
+
+if(navigator.userAgent.indexOf('Trident')!=-1)
+ ico="ie.png";
+else if(navigator.userAgent.indexOf('Edge')!=-1)
+ ico="edge.png";
+//alert(navigator.userAgent);
+
+if(ico!="ff64.png")
+{
+ var el=document.getElementsByTagName('img'),i;
+ for(i=0;i<el.length;i++)
+ {
+  if(el[i].src.indexOf('ff64')!=-1)
+  {
+   el[i].src=ico;
+  }
+ }
+}
+//]]>
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,621 @@
+<!doctype html>
+<html lang="ru-RU" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+<!-- SEO от Rank Math - https://s.rankmath.com/home -->
+<title>Секреты программирования - Блог обо всем интересном и полезном в сети Internet и не только</title>
+<meta name="description" content="Блог обо всем интересном и полезном в сети Internet и не только"/>
+<meta name="robots" content="follow, index"/>
+<link rel="canonical" href="https://mvblog.ru" />
+<link rel="next" href="https://mvblog.ru/page/2" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Секреты программирования - Блог обо всем интересном и полезном в сети Internet и не только" />
+<meta property="og:description" content="Блог обо всем интересном и полезном в сети Internet и не только" />
+<meta property="og:url" content="https://mvblog.ru" />
+<meta property="og:site_name" content="Секреты программирования" />
+<meta property="og:image" content="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" />
+<meta property="og:image:secure_url" content="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" />
+<meta property="og:image:width" content="900" />
+<meta property="og:image:height" content="900" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Секреты программирования - Блог обо всем интересном и полезном в сети Internet и не только" />
+<meta name="twitter:description" content="Блог обо всем интересном и полезном в сети Internet и не только" />
+<meta name="twitter:image" content="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://mvblog.ru/#organization","name":"\u0421\u0435\u043a\u0440\u0435\u0442\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f","url":"https://mvblog.ru","logo":{"@type":"ImageObject","@id":"https://mvblog.ru/#logo","url":"https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg","caption":"\u0421\u0435\u043a\u0440\u0435\u0442\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f","inLanguage":"ru-RU","width":"900","height":"900"}},{"@type":"WebSite","@id":"https://mvblog.ru/#website","url":"https://mvblog.ru","name":"\u0421\u0435\u043a\u0440\u0435\u0442\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f","publisher":{"@id":"https://mvblog.ru/#organization"},"inLanguage":"ru-RU","potentialAction":{"@type":"SearchAction","target":"https://mvblog.ru/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://mvblog.ru#webpage","url":"https://mvblog.ru","name":"\u0421\u0435\u043a\u0440\u0435\u0442\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f - \u0411\u043b\u043e\u0433 \u043e\u0431\u043e \u0432\u0441\u0435\u043c \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u043e\u043c \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u043e\u043c \u0432 \u0441\u0435\u0442\u0438 Internet \u0438 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e","about":{"@id":"https://mvblog.ru/#organization"},"isPartOf":{"@id":"https://mvblog.ru/#website"},"inLanguage":"ru-RU"}]}</script>
+<!-- /Rank Math WordPress SEO плагин -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mvblog.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://mvblog.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1'  media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code>code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group:where(.has-background){padding:1.25em 2.375em}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 19.5px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36.5px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 22px;--wp--preset--font-size--huge: 49.5px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='google-fonts-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C400i%2C700&#038;subset=cyrillic&#038;display=swap&#038;ver=5.9.1'  media='all' />
+<link rel='stylesheet' id='reboot-style-css'  href='https://mvblog.ru/wp-content/themes/reboot/assets/css/style.min.css?ver=1.4.0'  media='all' />
+<script  src='https://mvblog.ru/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script  src='https://mvblog.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://mvblog.ru/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mvblog.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mvblog.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.1" />
+
+    <style>::selection, .card-slider__category, .card-slider-container .swiper-pagination-bullet-active, .post-card--grid .post-card__thumbnail:before, .post-card:not(.post-card--small) .post-card__thumbnail a:before, .post-card:not(.post-card--small) .post-card__category,  .post-box--high .post-box__category span, .post-box--wide .post-box__category span, .page-separator, .pagination .nav-links .page-numbers:not(.dots):not(.current):before, .btn, .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle, .comment-respond .form-submit input, .page-links__item{background-color:#137ff7}.entry-image--big .entry-image__body .post-card__category a, .home-text ul:not([class])>li:before, .page-content ul:not([class])>li:before, .taxonomy-description ul:not([class])>li:before, .widget-area .widget_categories ul.menu li a:before, .widget-area .widget_categories ul.menu li span:before, .widget-area .widget_categories>ul li a:before, .widget-area .widget_categories>ul li span:before, .widget-area .widget_nav_menu ul.menu li a:before, .widget-area .widget_nav_menu ul.menu li span:before, .widget-area .widget_nav_menu>ul li a:before, .widget-area .widget_nav_menu>ul li span:before, .page-links .page-numbers:not(.dots):not(.current):before, .page-links .post-page-numbers:not(.dots):not(.current):before, .pagination .nav-links .page-numbers:not(.dots):not(.current):before, .pagination .nav-links .post-page-numbers:not(.dots):not(.current):before, .entry-image--full .entry-image__body .post-card__category a, .entry-image--fullscreen .entry-image__body .post-card__category a, .entry-image--wide .entry-image__body .post-card__category a{background-color:#137ff7}.comment-respond input:focus, select:focus, textarea:focus, .post-card--grid.post-card--thumbnail-no, .post-card--standard:after, .post-card--related.post-card--thumbnail-no:hover, .spoiler-box, .btn-primary, .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle, .inp:focus, .entry-tag:focus, .entry-tag:hover, .search-screen .search-form .search-field:focus, .entry-content ul:not([class])>li:before, .text-content ul:not([class])>li:before, .entry-content blockquote,
+        .input:focus, input[type=color]:focus, input[type=date]:focus, input[type=datetime-local]:focus, input[type=datetime]:focus, input[type=email]:focus, input[type=month]:focus, input[type=number]:focus, input[type=password]:focus, input[type=range]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=text]:focus, input[type=time]:focus, input[type=url]:focus, input[type=week]:focus, select:focus, textarea:focus{border-color:#137ff7 !important}.post-card--grid a:hover, .post-card--small .post-card__category, .post-card__author:before, .post-card__comments:before, .post-card__date:before, .post-card__like:before, .post-card__views:before, .entry-author:before, .entry-date:before, .entry-time:before, .entry-views:before, .entry-content ol:not([class])>li:before, .text-content ol:not([class])>li:before, .entry-content blockquote:before, .spoiler-box__title:after, .search-icon:hover:before, .search-form .search-submit:hover:before, .star-rating-item.hover,
+        .comment-list .bypostauthor>.comment-body .comment-author:after,
+        .breadcrumb a, .breadcrumb span,
+        .search-screen .search-form .search-submit:before, 
+        .star-rating--score-1:not(.hover) .star-rating-item:nth-child(1),
+        .star-rating--score-2:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-2:not(.hover) .star-rating-item:nth-child(2),
+        .star-rating--score-3:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-3:not(.hover) .star-rating-item:nth-child(2), .star-rating--score-3:not(.hover) .star-rating-item:nth-child(3),
+        .star-rating--score-4:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-4:not(.hover) .star-rating-item:nth-child(2), .star-rating--score-4:not(.hover) .star-rating-item:nth-child(3), .star-rating--score-4:not(.hover) .star-rating-item:nth-child(4),
+        .star-rating--score-5:not(.hover) .star-rating-item:nth-child(1), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(2), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(3), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(4), .star-rating--score-5:not(.hover) .star-rating-item:nth-child(5){color:#137ff7}a:hover, a:focus, a:active, .spanlink:hover, .top-menu ul li>span:hover, .main-navigation ul li a:hover, .main-navigation ul li span:hover, .footer-navigation ul li a:hover, .footer-navigation ul li span:hover, .comment-reply-link:hover, .pseudo-link:hover, .child-categories ul li a:hover{color:#f713da}.top-menu>ul>li>a:before, .top-menu>ul>li>span:before{background:#f713da}.child-categories ul li a:hover, .post-box--no-thumb a:hover{border-color:#f713da}.post-box--card:hover{box-shadow: inset 0 0 0 1px #f713da}.post-box--card:hover{-webkit-box-shadow: inset 0 0 0 1px #f713da}.main-navigation, .footer-navigation, .footer-navigation .removed-link, .main-navigation .removed-link, .main-navigation ul li>a, .footer-navigation ul li>a{color:#ffffff}.main-navigation, .main-navigation ul li .sub-menu li, .main-navigation ul li.menu-item-has-children:before, .footer-navigation, .footer-navigation ul li .sub-menu li, .footer-navigation ul li.menu-item-has-children:before{background-color:#137ff7}</style>
+<link rel="icon" href="https://mvblog.ru/wp-content/uploads/2021/11/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://mvblog.ru/wp-content/uploads/2021/11/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mvblog.ru/wp-content/uploads/2021/11/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://mvblog.ru/wp-content/uploads/2021/11/cropped-icon-270x270.png" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6534736383194702"
+     crossorigin="anonymous"></script></head>
+
+<body class="home blog wp-embed-responsive sidebar-right">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+<div id="page" class="site">
+    <a class="skip-link screen-reader-text" href="#content">Перейти к содержанию</a>
+
+    <div class="search-screen-overlay js-search-screen-overlay"></div>
+    <div class="search-screen js-search-screen">
+        
+<form role="search" method="get" class="search-form" action="https://mvblog.ru/">
+    <label>
+        <span class="screen-reader-text">Search for:</span>
+        <input type="search" class="search-field" placeholder="Поиск..." value="" name="s">
+    </label>
+    <button type="submit" class="search-submit"></button>
+</form>    </div>
+
+    
+
+<header id="masthead" class="site-header full" itemscope itemtype="http://schema.org/WPHeader">
+    <div class="site-header-inner fixed">
+
+        <div class="humburger js-humburger"><span></span><span></span><span></span></div>
+
+        
+<div class="site-branding">
+
+    <div class="site-logotype"><img src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><div class="site-branding__body"><h1 class="site-title">Секреты программирования</h1><p class="site-description">Блог обо всем интересном и полезном в сети Internet и не только</p></div></div><!-- .site-branding -->                <div class="header-search">
+                    <span class="search-icon js-search-icon"></span>
+                </div>
+            
+    </div>
+</header><!-- #masthead -->
+
+
+    
+    
+    <nav id="site-navigation" class="main-navigation full">
+        <div class="main-navigation-inner fixed">
+            <div class="menu-osnovnaya-navigaciya-container"><ul id="header_menu" class="menu"><li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-13"><span class="removed-link">Главная страница</span></li>
+<li id="menu-item-592" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-592"><a href="https://mvblog.ru/programmirovanie-na-python">Программирование на Python</a>
+<ul class="sub-menu">
+	<li id="menu-item-654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-654"><a href="https://mvblog.ru/programmirovanie-na-python/sistemnye-instrumenty-parallelnogo-vypolneniya">Системные инструменты параллельного выполнения</a></li>
+	<li id="menu-item-655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-655"><a href="https://mvblog.ru/programmirovanie-na-python/graficheskie-interfejsy-polzovatelya">Графические интерфейсы пользователя</a></li>
+	<li id="menu-item-656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-656"><a href="https://mvblog.ru/programmirovanie-na-python/zakonchennye-sistemnye-programmy">Законченные системные программы</a></li>
+	<li id="menu-item-657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-657"><a href="https://mvblog.ru/programmirovanie-na-python/sistemnye-instrumenty">Системные инструменты</a></li>
+	<li id="menu-item-658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-658"><a href="https://mvblog.ru/programmirovanie-na-python/kontekst-vypolneniya-scenariev">Контекст выполнения сценариев</a></li>
+	<li id="menu-item-659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-659"><a href="https://mvblog.ru/programmirovanie-na-python/ekskursiya-po-tkinter-chast-1">Экскурсия по tkinter, часть 1</a></li>
+	<li id="menu-item-653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-653"><a href="https://mvblog.ru/programmirovanie-na-python/ekskursiya-po-tkinter-chast-2">Экскурсия по tkinter, часть 2</a></li>
+	<li id="menu-item-660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-660"><a href="https://mvblog.ru/programmirovanie-na-python/primery-zakonchennyx-programm-s-graficheskim-interfejsom">Примеры законченных программ с графическим интерфейсом</a></li>
+	<li id="menu-item-661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-661"><a href="https://mvblog.ru/programmirovanie-na-python/priemy-programmirovaniya-graficheskix-interfejsov">Приемы программирования графических интерфейсов</a></li>
+	<li id="menu-item-662" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-662"><a href="https://mvblog.ru/programmirovanie-na-python/instrumenty-dlya-raboty-s-fajlami-i-katalogami">Инструменты для работы с файлами и каталогами</a></li>
+	<li id="menu-item-663" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-663"><a href="https://mvblog.ru/programmirovanie-na-python/programmirovanie-na-python-kratkij-ocherk">«Программирование на Python»: краткий очерк</a></li>
+	<li id="menu-item-1574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1574"><a href="https://mvblog.ru/setevye-scenarii">Сетевые сценарии</a></li>
+	<li id="menu-item-1575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1575"><a href="https://mvblog.ru/scenarii-na-storone-klienta">Сценарии на стороне клиента</a></li>
+	<li id="menu-item-1576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1576"><a href="https://mvblog.ru/pochtovyj-klient-pymailgui-python">Почтовый клиент PyMailGUI Python</a></li>
+	<li id="menu-item-1577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1577"><a href="https://mvblog.ru/scenarii-na-storone-servera">Сценарии на стороне сервера</a></li>
+	<li id="menu-item-1578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1578"><a href="https://mvblog.ru/server-pymailcgi">Сервер PyMailCGI</a></li>
+	<li id="menu-item-1579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1579"><a href="https://mvblog.ru/bazy-dannyx-i-postoyannoe-xranenie">Базы данных и постоянное хранение</a></li>
+	<li id="menu-item-1580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1580"><a href="https://mvblog.ru/struktury-dannyx">Структуры данных</a></li>
+	<li id="menu-item-1581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1581"><a href="https://mvblog.ru/tekst-i-yazyk">Текст и язык</a></li>
+	<li id="menu-item-1582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1582"><a href="https://mvblog.ru/integraciya-python-c">Интеграция Python/C</a></li>
+	<li id="menu-item-1583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1583"><a href="https://mvblog.ru/zaklyuchenie-python-i-cikl-razrabotki">Заключение: Python и цикл разработки</a></li>
+</ul>
+</li>
+<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-98"><a href="https://mvblog.ru/stati">Статьи</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://mvblog.ru/obratnaya-svyaz">Контакты</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://mvblog.ru/karta-sajta">Карта сайта</a></li>
+</ul></div>        </div>
+    </nav><!-- #site-navigation -->
+
+    
+
+    <div class="mobile-menu-placeholder js-mobile-menu-placeholder"></div>
+    
+	
+    <div id="content" class="site-content fixed">
+
+        <div class="b-r b-r--before_site_content"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6534736383194702"
+     crossorigin="anonymous"></script>
+<!-- mvblog.ru- верх сайта -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6534736383194702"
+     data-ad-slot="1654051383"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+        <div class="site-content-inner">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+            
+<div class="post-cards">
+
+    
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/osnovnye-izmeneniya-v-pymailgui.html">
+				<img width="320" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/osnovnye-izmeneniya-v-pymailgui-320x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="osnovnye izmeneniya v pymailgui" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Почтовый клиент PyMailGUI Python</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/osnovnye-izmeneniya-v-pymailgui.html">Основные изменения в PyMailGUI</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">1</span></div><div class="post-card__description" itemprop="articleBody">Подобно текстовому редактору PyEdit из главы 11 программа PyMail- GUI служит отличным примером развития</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/osnovnye-izmeneniya-v-pymailgui.html" content="Основные изменения в PyMailGUI">
+    <meta itemprop="dateModified" content="2022-03-02">
+            <meta itemprop="datePublished" content="2022-03-02T07:13:34+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/com-i-dcom-v-windows.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/com-i-dcom-v-windows-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="com i dcom v windows" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Сетевые сценарии</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/com-i-dcom-v-windows.html">COM и DCOM в Windows</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">1</span></div><div class="post-card__description" itemprop="articleBody">Пакет PyWin32 позволяет сценариям на языке Python использовать модель COM в Windows для выполнения таких</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/com-i-dcom-v-windows.html" content="COM и DCOM в Windows">
+    <meta itemprop="dateModified" content="2022-03-02">
+            <meta itemprop="datePublished" content="2022-03-02T05:59:04+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/shablony-regulyarnyx-vyrazhenij-python.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/shablony-regulyarnyh-vyrazhenij-python-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="shablony regulyarnyh vyrazhenij python" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Текст и язык</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/shablony-regulyarnyx-vyrazhenij-python.html">Шаблоны регулярных выражений Python</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">3</span></div><div class="post-card__description" itemprop="articleBody">Строки регулярных выражений строятся путем конкатенации односимвольных форм регулярных выражений, представленных в табл.</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/shablony-regulyarnyx-vyrazhenij-python.html" content="Шаблоны регулярных выражений Python">
+    <meta itemprop="dateModified" content="2022-03-02">
+            <meta itemprop="datePublished" content="2022-03-02T02:55:18+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/obekty-sootvetstviya-python.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/obekty-sootvetstviya-python-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="obekty sootvetstviya python" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Текст и язык</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/obekty-sootvetstviya-python.html">Объекты соответствия Python</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">3</span></div><div class="post-card__description" itemprop="articleBody">Наконец, если функция или метод match или search обнаруживают совпадение, они возвращают объект соответствия</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/obekty-sootvetstviya-python.html" content="Объекты соответствия Python">
+    <meta itemprop="dateModified" content="2022-03-02">
+            <meta itemprop="datePublished" content="2022-03-02T02:30:58+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/instrumenty-sintaksicheskogo-analiza-xml-i-html.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/instrumenty-sintaksicheskogo-analiza-xml-i-html-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="instrumenty sintaksicheskogo analiza xml i html" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Сетевые сценарии</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/instrumenty-sintaksicheskogo-analiza-xml-i-html.html">Инструменты синтаксического анализа XML и HTML</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">2</span></div><div class="post-card__description" itemprop="articleBody">Хотя документы XML технически не привязаны к Интернету, тем не менее они часто используются на определенных</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/instrumenty-sintaksicheskogo-analiza-xml-i-html.html" content="Инструменты синтаксического анализа XML и HTML">
+    <meta itemprop="dateModified" content="2022-03-01">
+            <meta itemprop="datePublished" content="2022-03-01T23:13:20+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/obertyvanie-klassov-c-s-pomoshhyu-swig.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/obertyvanie-klassov-c-s-pomoshhju-swig-1-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="obertyvanie klassov c s pomoshhju swig 1" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Интеграция Python/C</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/obertyvanie-klassov-c-s-pomoshhyu-swig.html">Обертывание классов C++ с помощью SWIG</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">3</span></div><div class="post-card__description" itemprop="articleBody">До сих пор в этой главе мы имели дело с модулями расширений на C &#8212; простыми библиотеками функций.</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/obertyvanie-klassov-c-s-pomoshhyu-swig.html" content="Обертывание классов C++ с помощью SWIG">
+    <meta itemprop="dateModified" content="2022-03-01">
+            <meta itemprop="datePublished" content="2022-03-01T21:46:26+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/ispolzovanie-minimalnyx-adresov-url.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/ispolzovanie-minimalnyh-adresov-url-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="ispolzovanie minimalnyh adresov url" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Сценарии на стороне сервера</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/ispolzovanie-minimalnyx-adresov-url.html">Использование минимальных адресов URL</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">4</span></div><div class="post-card__description" itemprop="articleBody">Поскольку броузеры запоминают интернет-адрес предыдущей страницы, адреса URL, встроенные в HTML-файлы</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/ispolzovanie-minimalnyx-adresov-url.html" content="Использование минимальных адресов URL">
+    <meta itemprop="dateModified" content="2022-03-01">
+            <meta itemprop="datePublished" content="2022-03-01T18:19:07+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/java-i-net-jython-i-ironpy-thon.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/java-i-net-jython-i-ironpy-thon-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="java i net jython i ironpy thon" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Сетевые сценарии</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/java-i-net-jython-i-ironpy-thon.html">Java и. NET: Jython и IronPy thon</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">10</span></div><div class="post-card__description" itemprop="articleBody">Мы уже встречались с Jython и IronPython в начале главы 7, в контексте графических интерфейсов.</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/java-i-net-jython-i-ironpy-thon.html" content="Java и. NET: Jython и IronPy thon">
+    <meta itemprop="dateModified" content="2022-03-01">
+            <meta itemprop="datePublished" content="2022-03-01T13:03:26+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/vygruzka-na-server-dvoichnyj-i-tekstovyj-rezhimy.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/vygruzka-na-server-dvoichnyj-i-tekstovyj-rezhimy-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="vygruzka na server dvoichnyj i tekstovyj rezhimy" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Сценарии на стороне клиента</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/vygruzka-na-server-dvoichnyj-i-tekstovyj-rezhimy.html">Выгрузка на сервер: двоичный и текстовый режимы</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">1</span></div><div class="post-card__description" itemprop="articleBody">Этот сценарий может выполняться в Windows и Unix-подобных системах, поэтому текстовые файлы должны обрабатываться</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/vygruzka-na-server-dvoichnyj-i-tekstovyj-rezhimy.html" content="Выгрузка на сервер: двоичный и текстовый режимы">
+    <meta itemprop="dateModified" content="2022-03-01">
+            <meta itemprop="datePublished" content="2022-03-01T10:55:20+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+<div class="post-card post-card--horizontal w-animate" itemscope itemtype="http://schema.org/BlogPosting" data-animate-style="fadeinup">
+			<div class="post-card__thumbnail">
+			<a href="https://mvblog.ru/brokery-obektnyx-zaprosov-corba.html">
+				<img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/brokery-obektnyh-zaprosov-corba-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="brokery obektnyh zaprosov corba" itemprop="image" loading="lazy" decoding="async" />
+				                    <span itemprop="articleSection" class="post-card__category">Сетевые сценарии</span>                			</a>
+		</div>
+	
+	<div class="post-card__body">
+
+		<div class="post-card__title" itemprop="name"><span itemprop="headline"><a href="https://mvblog.ru/brokery-obektnyx-zaprosov-corba.html">Брокеры объектных запросов CORBA</a></span></div><div class="post-card__meta"><span class="post-card__comments">0</span><span class="post-card__views">3</span></div><div class="post-card__description" itemprop="articleBody">Более ранняя, но сопоставимая технология, CORBA &#8212; это архитектура программирования распределенных</div>
+	</div>
+
+                <meta itemprop="author" content="taganatkomp"/>
+        <meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://mvblog.ru/brokery-obektnyx-zaprosov-corba.html" content="Брокеры объектных запросов CORBA">
+    <meta itemprop="dateModified" content="2022-03-01">
+            <meta itemprop="datePublished" content="2022-03-01T10:12:13+03:00">
+        <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display: none;"><div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><img itemprop="url image" src="https://mvblog.ru/wp-content/uploads/2021/11/logo.jpg" alt="Секреты программирования"></div><meta itemprop="name" content="Секреты программирования"><meta itemprop="telephone" content="Секреты программирования"><meta itemprop="address" content="https://mvblog.ru"></div>
+    </div>
+</div>
+	<nav class="navigation pagination">
+		<div class="screen-reader-text">Навигация по записям</div>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://mvblog.ru/page/2">2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://mvblog.ru/page/63">63</a>
+<a class="next page-numbers" href="https://mvblog.ru/page/2">Далее</a></div>
+	</nav>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<aside id="secondary" class="widget-area" itemscope itemtype="http://schema.org/WPSideBar">
+    <div class="sticky-sidebar js-sticky-sidebar">
+
+        
+        <div id="block-3" class="widget widget_block"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6534736383194702"
+     crossorigin="anonymous"></script>
+<!-- mvblog.ru - виджет -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6534736383194702"
+     data-ad-slot="8546762798"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div id="wpshop_widget_articles-3" class="widget widget_wpshop_widget_articles"><div class="widget-articles">
+<article class="post-card post-card--vertical">
+            <div class="post-card__thumbnail">
+            <a href="https://mvblog.ru/alternativnye-realizacii-scenariev-adder-i-sorter.html">
+                <img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2021/12/alternativnye-realizacii-scenariev-adder-i-sorter-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="alternativnye realizacii scenariev adder i sorter" loading="lazy" decoding="async" />                <span class="post-card__category">Контекст выполнения сценариев</span>            </a>
+        </div>
+    
+    <div class="post-card__body">
+        <div class="post-card__title"><a href="https://mvblog.ru/alternativnye-realizacii-scenariev-adder-i-sorter.html">Альтернативные реализации сценариев adder и sorter</a></div>
+
+        <div class="post-card__description">
+            Если присмотреться, можно заметить, что сценарий sorter.        </div>
+
+                    <div class="post-card__meta">
+                <span class="post-card__comments">0</span>
+                <span class="post-card__views">1</span>            </div>
+            </div>
+</article>
+<article class="post-card post-card--vertical">
+            <div class="post-card__thumbnail">
+            <a href="https://mvblog.ru/nastrojka-parametrov-graficheskogo-elementa-i-zagolovka-okna.html">
+                <img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2021/12/nastrojka-parametrov-graficheskogo-elementa-i-zagolovka-okna-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="nastrojka parametrov graficheskogo elementa i zagolovka okna" loading="lazy" decoding="async" />                <span class="post-card__category">Графические интерфейсы пользователя</span>            </a>
+        </div>
+    
+    <div class="post-card__body">
+        <div class="post-card__title"><a href="https://mvblog.ru/nastrojka-parametrov-graficheskogo-elementa-i-zagolovka-okna.html">Настройка параметров графического элемента и заголовка окна</a></div>
+
+        <div class="post-card__description">
+            До сих пор мы сообщали библиотеке tkinter, что должно        </div>
+
+                    <div class="post-card__meta">
+                <span class="post-card__comments">0</span>
+                <span class="post-card__views">4</span>            </div>
+            </div>
+</article>
+<article class="post-card post-card--vertical">
+            <div class="post-card__thumbnail">
+            <a href="https://mvblog.ru/razlichnye-vsplyvayushhie-okna-obshhego-naznacheniya-messagecache-py.html">
+                <img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2022/01/razlichnye-vsplyvajushhie-okna-obshhego-naznacheniya-messagecache-py-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="razlichnye vsplyvajushhie okna obshhego naznacheniya messagecache py" loading="lazy" decoding="async" />                <span class="post-card__category">Почтовый клиент PyMailGUI Python</span>            </a>
+        </div>
+    
+    <div class="post-card__body">
+        <div class="post-card__title"><a href="https://mvblog.ru/razlichnye-vsplyvayushhie-okna-obshhego-naznacheniya-messagecache-py.html">Различные всплывающие окна общего назначения messagecache. py</a></div>
+
+        <div class="post-card__description">
+            Механизм кэширования, который следит за уже загруженными        </div>
+
+                    <div class="post-card__meta">
+                <span class="post-card__comments">0</span>
+                <span class="post-card__views">2</span>            </div>
+            </div>
+</article>
+<article class="post-card post-card--vertical">
+            <div class="post-card__thumbnail">
+            <a href="https://mvblog.ru/znakomstvo-s-razrabotkoj-sistemnyx-scenariev.html">
+                <img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2021/12/znakomstvo-s-razrabotkoj-sistemnyh-scenariev-335x220.png" class="attachment-reboot_small size-reboot_small wp-post-image" alt="znakomstvo s razrabotkoj sistemnyh scenariev" loading="lazy" decoding="async" />                <span class="post-card__category">Системные инструменты</span>            </a>
+        </div>
+    
+    <div class="post-card__body">
+        <div class="post-card__title"><a href="https://mvblog.ru/znakomstvo-s-razrabotkoj-sistemnyx-scenariev.html">Знакомство с разработкой системных сценариев</a></div>
+
+        <div class="post-card__description">
+            Исследование области системного программирования мы        </div>
+
+                    <div class="post-card__meta">
+                <span class="post-card__comments">0</span>
+                <span class="post-card__views">4</span>            </div>
+            </div>
+</article>
+<article class="post-card post-card--vertical">
+            <div class="post-card__thumbnail">
+            <a href="https://mvblog.ru/pravila-ispolzovaniya-yunikoda-soderzhimoe-fajlov-i-imena-fajlov.html">
+                <img width="335" height="220" src="https://mvblog.ru/wp-content/uploads/2021/12/pravila-ispolzovaniya-junikoda-soderzhimoe-fajlov-i-imena-fajlov-335x220.jpg" class="attachment-reboot_small size-reboot_small wp-post-image" alt="pravila ispolzovaniya junikoda soderzhimoe fajlov i imena fajlov" loading="lazy" decoding="async" />                <span class="post-card__category">Инструменты для работы с файлами и каталогами</span>            </a>
+        </div>
+    
+    <div class="post-card__body">
+        <div class="post-card__title"><a href="https://mvblog.ru/pravila-ispolzovaniya-yunikoda-soderzhimoe-fajlov-i-imena-fajlov.html">Правила использования Юникода: содержимое файлов и имена файлов</a></div>
+
+        <div class="post-card__description">
+            Важно помнить, что Юникод может выполнять применительно        </div>
+
+                    <div class="post-card__meta">
+                <span class="post-card__comments">0</span>
+                <span class="post-card__views">4</span>            </div>
+            </div>
+</article></div></div>
+        
+    </div>
+</aside><!-- #secondary -->
+
+
+    </div><!--.site-content-inner-->
+
+    
+</div><!--.site-content-->
+
+    
+    
+
+<div class="site-footer-container">
+
+    
+
+    <footer id="colophon" class="site-footer site-footer--style-gray full">
+        <div class="site-footer-inner fixed">
+
+            
+            
+<div class="footer-bottom">
+    <div class="footer-info">
+        © 2022  <a href="/"> Секреты программирования</a> - Информационный сайт.<br>
+Обращаем ваше внимание на то, что данный интернет-сайт носит исключительно информационный характер.
+Все торговые марки принадлежат их владельцам. Все права защищены.<br>
+<a href="/politika-konfidencialnosti"> Политика конфиденциальности</a>    </div>
+
+    <div class="footer-counters"><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(86596418, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/86596418" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 7495736,
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=7495736" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3236516", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3236516;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+<!-- hit.ua -->
+<a href='http://hit.ua/?x=27581' target='_blank'>
+<script language="javascript" type="text/javascript"><!--
+Cd=document;Cr="&"+Math.random();Cp="&s=1";
+Cd.cookie="b=b";if(Cd.cookie)Cp+="&c=1";
+Cp+="&t="+(new Date()).getTimezoneOffset();
+if(self!=top)Cp+="&f=1";
+//--></script>
+<script language="javascript1.1" type="text/javascript"><!--
+if(navigator.javaEnabled())Cp+="&j=1";
+//--></script>
+<script language="javascript1.2" type="text/javascript"><!--
+if(typeof(screen)!='undefined')Cp+="&w="+screen.width+"&h="+
+screen.height+"&d="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth);
+//--></script>
+<script language="javascript" type="text/javascript"><!--
+Cd.write("<img src='//c.hit.ua/hit?i=27581&g=0&x=4"+Cp+Cr+
+"&r="+escape(Cd.referrer)+"&u="+escape(window.location.href)+
+"' border='0' width='88' height='15' "+
+"alt='hit.ua: посетителей за сегодня' title='hit.ua: посетителей за сегодня'/>");
+//--></script>
+<noscript>
+<img src='//c.hit.ua/hit?i=27581&g=0&x=4' border='0' width='88' height='15' alt='hit.ua: посетителей за сегодня' title='hit.ua: посетителей за сегодня'/>
+</noscript></a>
+<!-- / hit.ua -->
+<!--begin of Bonbone-->
+<a href='http://bonbone.ru/' title='Популярный каталог ресурсов интернет'>
+<img src='http://bonbone.ru/bon.php?647559' width=88 height=31 border=0></a>
+<!--end of Bonbone-->
+</div></div>
+        </div>
+    </footer><!--.site-footer-->
+</div>
+
+
+            <button type="button" class="scrolltop js-scrolltop"></button>
+    
+</div><!-- #page -->
+
+<script type='text/javascript' id='reboot-scripts-js-extra'>
+/* <![CDATA[ */
+var settings_array = {"rating_text_average":"\u0441\u0440\u0435\u0434\u043d\u0435\u0435","rating_text_from":"\u0438\u0437","lightbox_display":"1","sidebar_fixed":"1"};
+var wps_ajax = {"url":"https:\/\/mvblog.ru\/wp-admin\/admin-ajax.php","nonce":"34fc569259"};
+/* ]]> */
+</script>
+<script  src='https://mvblog.ru/wp-content/themes/reboot/assets/js/all.min.js?ver=1.4.0' id='reboot-scripts-js'></script>
+
+
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 1.644 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-03-02 12:36:53 -->
+
+<!-- super cache -->

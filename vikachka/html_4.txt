@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ru">
+<head>
+<title>Купить лицензионный ключ активации Office, Windows. Цена</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<base href="https://active-keys.ru/" />
+<meta name="description" content="Купить лицензионный ключ активации (MS) microsoft - office, windows, server. Быстрая доставка электронного ключа. Хорошая цена. Скачивание оригинального софта." />
+<meta property="og:title" content="Купить лицензионный ключ активации Office, Windows. Цена" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://active-keys.ru/image/catalog/365/logoAK2.png" />
+<meta property="og:site_name" content="Active-keys.ru" />
+<meta name="theme-color" content="#e04e22" />
+<link href="https://active-keys.ru/image/catalog/Antivirus/favicon.png" rel="icon" />
+	<link href="catalog/view/theme/unishop2/fonts/montserrat/montserrat-regular.woff2" rel="preload" as="font" type="font/woff2" crossorigin />
+	<link href="catalog/view/theme/unishop2/fonts/montserrat/montserrat-medium.woff2" rel="preload" as="font" type="font/woff2" crossorigin />
+	<link href="catalog/view/theme/unishop2/fonts/fa-solid-900.woff2" rel="preload" as="font" type="font/woff2" crossorigin />
+	<link href="catalog/view/theme/unishop2/fonts/fa-regular-400.woff2" rel="preload" as="font" type="font/woff2" crossorigin />
+	<link href="catalog/view/theme/unishop2/stylesheet/merged.4dc25071bf.min.css?v=2.4.0.0" rel="preload" as="style" />
+	<link href="catalog/view/theme/unishop2/stylesheet/merged.4dc25071bf.min.css?v=2.4.0.0" rel="stylesheet" media="screen" />
+<script>const items_on_mobile = '2', module_on_mobile = 'grid', default_view = 'grid', default_mobile_view = 'grid';</script>
+	<link href="catalog/view/theme/unishop2/js/merged.b7b362296b.min.js" rel="preload" as="script" />
+	<script src="catalog/view/theme/unishop2/js/merged.b7b362296b.min.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49629041-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-49629041-2');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(49777261, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49777261" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 7511245,
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=7511245" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+<noscript><style>.uni-module__wrapper{opacity:1}</style></noscript>
+<script src="https://static.yandex.net/kassa/pay-in-parts/ui/v1/"></script>
+</head>
+<body >
+	<header>
+		<div id="top" class="top-menu">
+			<div class="container">
+				<div class="top-menu__links">
+									</div>
+				<div class="top-menu__buttons">
+											<div class="top-menu__wishlist status-2" data-products="">
+							<div class="btn-group">
+								<button class="top-menu__btn top-menu__wishlist-btn uni-href" data-href="https://active-keys.ru/index.php?route=account/wishlist"><i class="far fa-heart"></i><span class="top-menu__btn-text">Избранное</span><span class="top-menu__wishlist-total uni-badge">0</span></button>
+							</div>
+						</div>
+																<div class="top-menu__compare status-0" data-products="">
+							<div class="btn-group">
+								<button class="top-menu__btn top-menu__compare-btn uni-href" data-href="https://active-keys.ru/index.php?route=product/compare"><i class="top-menu__compare-icon fas fa-align-right"></i><span class="top-menu__btn-text">Сравнение</span><span class="top-menu__compare-total uni-badge">0</span></button>
+							</div>
+						</div>
+										 
+					
+					<div class="top-menu__account">
+						<div id="account" class="btn-group">
+							<button class="top-menu__btn dropdown-toggle" data-toggle="dropdown"><i class="far fa-user"></i><span class="top-menu__btn-text">Личный кабинет</span></button>
+							<ul class="dropdown-menu dropdown-menu-right">
+																	<li><a  href="https://active-keys.ru/index.php?route=account/login"><i class="fas fa-fw fa-sign-in-alt"></i>Авторизация</a></li>
+									<li><a onclick="uniRegisterOpen();"><i class="fas fa-fw fa-user-plus"></i>Регистрация</a></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="header-block row-flex">
+				<div class="header-block__item header-block__item-logo col-sm-6 col-md-3 col-lg-3 col-xxl-4">
+					<div id="logo" class="header-logo">
+																					<a href="https://active-keys.ru/"><img src="https://active-keys.ru/image/catalog/365/logoAK2.png" title="Active-keys.ru" alt="Active-keys.ru" width="1200" height="180" class="img-responsive" /></a>
+																		</div>
+				</div>
+				<div id="search" class="header-block__item header-block__item-search  hidden-xs hidden-sm">
+					<div class="header-search">
+	<div class="header-search__form">
+					<div class="header-search__category cat-id ">
+				<button type="button" class="header-search__category-btn dropdown-toggle" data-toggle="dropdown"><span class="header-search__category-span">Все категории</span></button>
+				<input type="hidden" name="filter_category_id" value="" />
+				<ul class="dropdown-menu">
+					<li class="header-search__category-li" data-id=""><a>Все категории</a></li>
+											<li class="header-search__category-li" data-id="64"><a>Ключи активации Office</a></li>
+											<li class="header-search__category-li" data-id="59"><a>Ключи активации Windows</a></li>
+											<li class="header-search__category-li" data-id="85"><a>Скидки и акции</a></li>
+											<li class="header-search__category-li" data-id="74"><a>Office + Windows - СКИДКИ</a></li>
+											<li class="header-search__category-li" data-id="69"><a>Visio, Project, Visual studio</a></li>
+											<li class="header-search__category-li" data-id="80"><a>Ключи Windows Server</a></li>
+											<li class="header-search__category-li" data-id="70"><a>Антивирусные программы</a></li>
+											<li class="header-search__category-li" data-id="84"><a>Online сервисы</a></li>
+											<li class="header-search__category-li" data-id="77"><a>Софт - ключи активации</a></li>
+											<li class="header-search__category-li" data-id="81"><a>Дополнительные услуги</a></li>
+											<li class="header-search__category-li" data-id="79"><a>Базы данных организаций</a></li>
+									</ul>
+			</div>
+				<input type="text" name="search" value="" placeholder="Поиск" aria-label="Search" class="header-search__input  form-control" />
+		<button type="button" class="search-btn-clear ">&times;</button>
+		<button type="button" class="header-search__btn search-btn"><i class="fa fa-search"></i></button>
+	</div>
+	<div class="live-search" style="display:none"><ul class="live-search__ul"><li class="loading"></li></ul></div>
+</div>
+				</div>
+				<div class="header-block__item header-block__item-telephone ">
+					<div class="header-phones has-addit">
+						<span class="header-phones__main  uni-href"  data-target="_blank" >Online чат на сайте</span>
+																			<i class="header-phones__show-phone dropdown-toggle fas fa-chevron-down" data-toggle="dropdown" data-target="header-phones__ul"></i>
+							<ul class="header-phones__ul dropdown-menu dropdown-menu-right">
+																																									<li class="header-phones__text"><hr style="margin-top:5px" />Приём заказов на сайте круглосуточно, без выходных</li>
+															</ul>
+																	</div>
+				</div>
+									<div class="header-block__item header-block__item-wishlist" >
+						<div class="header-wishlist uni-href" data-href="https://active-keys.ru/index.php?route=account/wishlist" title="Избранное"><i class="header-wishlist__icon far fa-heart"></i><span class="header-wishlist__total-items">0</span></div>
+					</div>
+												<div class="header-block__item header-block__item-cart"><div id="cart" class="header-cart" title="Корзина">
+	<div class="header-cart__btn dropdown-toggle" onclick="uniModalWindow('modal-cart', '', 'Корзина', $('header').find('.header-cart__dropdown').html())">
+		<i class="header-cart__icon fa fa-shopping-bag"></i>
+		<span id="cart-total" class="header-cart__total-items">0</span>
+	</div>
+	<div class="header-cart__dropdown">
+					<div class="header-cart__empty"><i class="header-cart__icon-empty fas fa-shopping-bag"></i><br />Ваша корзина пуста!</div>
+			</div>
+</div></div>
+			</div>
+		</div>
+		<div id="main-menu" class="container">
+			<div class="row">
+							<div class="menu-wrapper col-md-3 col-lg-3 col-xxl-4">
+		<nav id="menu" class="menu  menu1">
+			<div class="menu__header" data-toggle="collapse" data-target=".main-menu__collapse">
+				<i class="menu__header-icon fa fa-fw fa-bars hidden-xs hidden-sm"></i>
+				<span class="menu__header-title">КАТАЛОГ</span>
+				<i class="menu-close menu__header-icon fas fa-times visible-xs visible-sm"></i>
+			</div>
+			<ul class="menu__collapse collapse main-menu__collapse">
+									<li class="menu__level-1-li has-children">
+						<a class="menu__level-1-a  chevron " href="https://active-keys.ru/office">
+							<img src="image/catalog/officeactive.png" alt="Ключи активации Office" class="menu__level-1-img" />							Ключи активации Office
+						</a>
+																																										<span class="menu__pm menu__level-1-pm visible-xs visible-sm"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
+							<div class="menu__level-2  column-1">
+								
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/2021">Ключи Office 2021</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/2019">Ключи Office 2019</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/office2016">Ключи Office 2016</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/office2013">Ключи Office 2013</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/office2010">Ключи Office 2010</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/office365">Ключи Office 365</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/Mac-OS">Ключи Office MacOS</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/office/bind">С привязкой к аккаунту</a>
+																			</div>
+																							</div>
+											</li>
+																									<li class="menu__level-1-li has-children">
+						<a class="menu__level-1-a  chevron " href="https://active-keys.ru/Windows">
+							<img src="image/catalog/win.jpg" alt="Ключи активации Windows" class="menu__level-1-img" />							Ключи активации Windows
+						</a>
+																																										<span class="menu__pm menu__level-1-pm visible-xs visible-sm"><i class="fa fa-plus"></i><i class="fa fa-minus"></i></span>
+							<div class="menu__level-2  column-1">
+								
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/Windows/windows-11">Ключи Windows 11</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/Windows/windows10">Ключи Windows 10</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/Windows/windows8">Ключи Windows 8.1</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/Windows/windows7">Ключи Windows 7</a>
+																			</div>
+																	<div class="menu__level-2-ul  col-md-12">
+																				<a class="menu__level-2-a " href="https://active-keys.ru/Windows/xp">Ключи Windows xp</a>
+																			</div>
+																							</div>
+											</li>
+																									<li class="menu__level-1-li ">
+						<a class="menu__level-1-a " href="https://active-keys.ru/komplekt">
+							<i class="menu__level-1-icon fab fa-windows fa-fw"></i>							Office + Windows - СКИДКИ
+						</a>
+											</li>
+																									<li class="menu__level-1-li ">
+						<a class="menu__level-1-a " href="https://active-keys.ru/visio-project">
+							<i class="menu__level-1-icon fa fa-cubes fa-fw"></i>							Visio, Project, Visual studio
+						</a>
+											</li>
+																									<li class="menu__level-1-li ">
+						<a class="menu__level-1-a " href="https://active-keys.ru/windows-server">
+							<img src="image/catalog/Server/windows_server.png" alt="Ключи Windows Server" class="menu__level-1-img" />							Ключи Windows Server
+						</a>
+											</li>
+																									<li class="menu__level-1-li ">
+						<a class="menu__level-1-a " href="https://active-keys.ru/antivirus">
+							<i class="menu__level-1-icon fa fa-bug fa-fw"></i>							Антивирусные программы
+						</a>
+											</li>
+																									<li class="menu__level-1-li ">
+						<a class="menu__level-1-a " href="https://active-keys.ru/online">
+							<i class="menu__level-1-icon fa fa-play fa-fw"></i>							Online сервисы
+						</a>
+											</li>
+																									<li class="menu__level-1-li ">
+						<a class="menu__level-1-a " href="https://active-keys.ru/soft">
+							<i class="menu__level-1-icon fa fa-chalkboard-teacher fa-fw"></i>							Софт - ключи активации
+						</a>
+											</li>
+																							</ul>
+		</nav>
+	</div>
+	<div class="menu-open visible-xs visible-sm">
+		<i class="menu-open__icon fas fa-bars"></i>
+		<span class="menu-open__title show-on-mobile">КАТАЛОГ</span>
+	</div>
+				<div class="col-xs-12 col-md-9 col-lg-9 col-xxl-16 hidden-xs hidden-sm">
+			<nav id="menu2" class="menu menu2 menu-right">
+				<ul class="menu__collapse">
+											<li class="menu__level-1-li ">
+							<a class="menu__level-1-a " href="/f-a-q">
+																	<i class="menu__level-1-icon fas fa-asterisk fa-fw"></i>
+																Есть вопрос? - тут ответ
+							</a>
+													</li>
+											<li class="menu__level-1-li ">
+							<a class="menu__level-1-a " href="/index.php?route=information/contact">
+																	<i class="menu__level-1-icon fa fa-chalkboard-teacher fa-fw"></i>
+																Техподдержка
+							</a>
+													</li>
+									</ul>
+			</nav>
+		</div>
+		<script>uniMenuUpd('.menu2 .menu__collapse');</script>
+
+				<div id="search2" class="visible-xs visible-sm"></div>
+				<script>$('#search .header-search').clone().appendTo('#search2');</script>
+			</div>
+		</div>
+<script src="https://static.yandex.net/kassa/pay-in-parts/ui/v1/"></script>
+	</header>
+	<main>
+<div class="home-page container">
+	<div class="row">
+		
+									<div id="content" class="col-sm-12 col-md-9 col-lg-9 col-xxl-16">
+				<div class="content-top">
+					<div id="uni-slideshow-0" class="uni-slideshow row-flex hidden-xs">
+						<div class="uni-slideshow__item" style="min-height:270px">
+				<div class="uni-slideshow__image col-sm-6">
+					<a href="https://active-keys.ru/office/2021">
+					<img src="https://active-keys.ru/image/cache/catalog/365/banner122-430x270.jpg" alt="Office 2021 - НОВИНКА!" class="uni-slideshow__img img-responsive" width="430" height="270"  />
+					</a>
+				</div>
+									<div class="uni-slideshow__description col-sm-6">
+						<div class="uni-slideshow__title">Office 2021 - НОВИНКА!</div>
+						<div class="uni-slideshow__text">Новинка уходящего года. Microsoft Office 2021. Скачивание софта с официального сайта по прямой ссылке. Так-же в наличии ключи с привязкой к учётной записи. Версии professional plus, Home and Student</div>
+						<button class="uni-slideshow__btn uni-href btn btn-lg" data-href="https://active-keys.ru/office/2021">Перейти в каталог</button>
+					</div>
+							</div>
+					<div class="uni-slideshow__item" style="min-height:270px">
+				<div class="uni-slideshow__image col-sm-6">
+					<a href="https://active-keys.ru/Windows/Windows-11">
+					<img src="https://active-keys.ru/image/cache/catalog/365/banner123-430x270.jpg" alt="Windows 11 - НОВИНКА!" class="uni-slideshow__img img-responsive" width="430" height="270" loading="lazy" />
+					</a>
+				</div>
+									<div class="uni-slideshow__description col-sm-6">
+						<div class="uni-slideshow__title">Windows 11 - НОВИНКА!</div>
+						<div class="uni-slideshow__text">На нашем сайте вы можете приобрести ключи активации для microsoft windows 11. Скачивание оригинального образа с официального сайта. Возможность подучать на постоянной основе обновления системы</div>
+						<button class="uni-slideshow__btn uni-href btn btn-lg" data-href="https://active-keys.ru/Windows/Windows-11">Перейти в каталог</button>
+					</div>
+							</div>
+			</div>
+<script>
+var hide = true;
+
+if(!hide || hide && $(window).width() > 767) {
+	setTimeout(() => {			
+		if(!$('#column-left, #column-right').is(':visible')) $('.uni-slideshow__item').removeAttr('style');
+	}, 50);
+
+	$('#uni-slideshow-0').addClass('owl-carousel').owlCarousel({
+		items:1,
+		autoplay:true,
+		animateIn:'disabled',
+		animateOut:'bounceOutDown',
+		autoplayTimeout:15000,
+		autoplayHoverPause:true,
+		mouseDrag:true,
+		nav:true,
+		loop:true,
+		navText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
+	});
+}
+</script>
+			</div>
+
+		</div>
+			<aside id="column-right" class="col-sm-4 col-md-3 col-lg-3 col-xxl-4 hidden-xs hidden-sm">
+						<div id="banner-0" class="banner">
+					<div class="item text-center">
+									<a href="https://active-keys.ru/Windows" title="Каталог ключей Windows">
+						<img src="https://active-keys.ru/image/cache/catalog/Antivirus/windows_banner3-270x130.jpg" alt="Каталог ключей Windows" class="img-responsive" />
+						<div class="banner-label btn-primary">Каталог ключей Windows</div>
+					</a>
+							</div>
+			</div>
+	<script>
+		if($('#banner-0').is(':visible')) {
+			$('#banner-0').addClass('owl-carousel').owlCarousel({
+				items:1,
+				nav:false,
+				loop:true,
+				autoplay:true,
+				autoplayTimeout:3000,
+				autoplayHoverPause:true,
+				mouseDrag:false,
+				navText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
+			});
+		}
+	</script>
+
+						<div id="banner-1" class="banner">
+					<div class="item text-center">
+									<a href="https://active-keys.ru/office" title="Каталог ключей Office">
+						<img src="https://active-keys.ru/image/cache/catalog/Antivirus/office_bannerw-270x130.jpg" alt="Каталог ключей Office" class="img-responsive" />
+						<div class="banner-label btn-primary">Каталог ключей Office</div>
+					</a>
+							</div>
+			</div>
+	<script>
+		if($('#banner-1').is(':visible')) {
+			$('#banner-1').addClass('owl-carousel').owlCarousel({
+				items:1,
+				nav:false,
+				loop:true,
+				autoplay:true,
+				autoplayTimeout:3000,
+				autoplayHoverPause:true,
+				mouseDrag:false,
+				navText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
+			});
+		}
+	</script>
+
+			</aside>
+
+	</div>
+		<div class="content-bottom">
+					<div class="html-module">
+	<h1>Купить ключ активации</h1>
+<p><span style="font-size: 14.5px;">Покупка ключа для активации программного обеспечения - гарантирует эксплуатацию высококачественного продукта, не наносящего вреда компьютеру и не превращающегося в причину хищения персональных данных и стороннего взлома. Кроме того, только в этом случае разработчик готов обеспечить полноценную техническую поддержку и мобильное устранение всевозможных сбоев в работоспособности приложение или софта в кротчайшие сроки. Так же это даёт возможность пучения обновлений софта.</span></p>
+<h5>Пиратские или взломанные версии программ могут сильно навредить операционной системе и нарушить ее нормальное функционирование</h5>
+<p><span style="font-size: 14.5px;">Служба технического сопровождения оказывает помощь при решении каких-либо трудностей и дает компетентную консультацию по тем или иным функциям программного продукта. Кроме того, лицензированная версия содержит обилие важных возможностей и функций, необходимых для постоянного обновления и совершенствования системы, что гарантированно влияет на работоспособность и исключение программных сбоев и ошибок. Разработчики ПО, постоянно выпускают дополнения, ориентированные на исправление всевозможных ошибок. Но! полноценная их установка и загрузка обновлений - возможна лишь в том случае, когда пользователь устанавливает лицензированную систему.</span></p>
+</div>
+
+
+										<div class="home-banner row row-flex hidden-xs">
+					<div class="col-xs-12 col-sm-6 col-md-3 hidden-xs">
+									<div class="home-banner__item">
+													<i class="home-banner__icon fa fa-percent fa-fw"></i>
+								<div class="home-banner__text">
+					<div class="home-banner__text-1 ">Скидки после первой покупки</div>
+					Постоянные скидки! от 5 до 10%
+				</div>
+				</div>
+			</div>
+					<div class="col-xs-12 col-sm-6 col-md-3 hidden-xs">
+									<div class="home-banner__item">
+													<i class="home-banner__icon fa fa-credit-card fa-fw"></i>
+								<div class="home-banner__text">
+					<div class="home-banner__text-1 ">Удобная оплата заказа</div>
+					Через сервисы гаранты платежа
+				</div>
+				</div>
+			</div>
+					<div class="col-xs-12 col-sm-6 col-md-3 hidden-xs">
+									<div class="home-banner__item">
+													<i class="home-banner__icon fab fa-algolia fa-fw"></i>
+								<div class="home-banner__text">
+					<div class="home-banner__text-1 ">Доставка заказа</div>
+					Быстрая доставка на ваш e-mail
+				</div>
+				</div>
+			</div>
+					<div class="col-xs-12 col-sm-6 col-md-3 hidden-xs">
+									<div class="home-banner__item">
+													<i class="home-banner__icon fa fa-cloud-download-alt fa-fw"></i>
+								<div class="home-banner__text">
+					<div class="home-banner__text-1 ">Скачивание софта</div>
+					Оригинальные и чистые образы
+				</div>
+				</div>
+			</div>
+			</div>
+ 
+					<script type="text/javascript">
+	var uri = location.pathname + location.search;
+
+	var bootstrap_enabled = (typeof $().modal == 'function');
+    if (!bootstrap_enabled) {
+        $('head').append('<link rel="stylesheet" type="text/css" href="catalog/view/javascript/discountonleave/modal/dol_bootstrap.min.css" />');
+        $('head').append('<script type="text/javascript" src="catalog/view/javascript/discountonleave/modal/dol_bootstrap.min.js"><'+'/script>');
+    }
+
+	var prevY = -1;
+	var start_time = new Date();
+	var showed = false;
+	$(document).bind("mouseout", function(e) {
+		e.preventDefault();
+        e.stopPropagation();
+        if(prevY == -1) {
+            prevY = e.pageY;
+            return;    
+        }
+
+        var isShowed = $('#dol-custom-modal').data('showed'); // check if we showed the popup already
+
+		if ((e.pageY<prevY) && (e.pageY - $(window).scrollTop() <= 1) && (isShowed == 'undefined' || !isShowed)) {
+			$.ajax({
+				url: '//active-keys.ru/index.php?route=extension/module/discountonleave/getPopup',
+				type: 'GET',
+				data: {'uri' : uri},
+				dataType: 'json',
+				success: function (response) {
+					$('#dol-custom-modal').data("showed", true); // prevent future AJAX requests
+					
+					var dol_title = $('#dol-custom-modal .modal-title');
+					var dol_body = $('#dol-custom-modal .modal-body');
+					var dol_dialog = $('#dol-custom-modal .modal-dialog');
+
+					if(response.match) {
+						dol_title.html(response.title);
+						dol_body.html(response.content);
+						dol_dialog.css("width",response.width);
+						dol_dialog.css("height",response.height);
+						dol_dialog.css("position","fixed");
+						var marginTop = -response.height/2;
+						var marginLeft = -response.width/2;
+						dol_dialog.attr('id', 'dl-custom-popup-'+response.popup_id);
+						switch(response.position) {
+							case "0": 
+								dol_dialog.css("top",'50%');
+								dol_dialog.css("left",'50%');
+								dol_dialog.css("margin-top",marginTop);
+								dol_dialog.css("margin-left",marginLeft);
+								dol_dialog.addClass('animated bounceInDown');
+								break;
+							case "1": 
+								dol_dialog.css("top",'2%');
+								dol_dialog.css("left",'2%');
+								dol_dialog.addClass('animated bounceInLeft');
+								break;
+							case "2": 
+								dol_dialog.css("top",'2%');
+								dol_dialog.css("right",'2%');
+								dol_dialog.addClass('animated bounceInRight');
+								break;
+							case "3": 
+								dol_dialog.css("bottom",'2%');
+								dol_dialog.css("left",'2%');
+								dol_dialog.addClass('animated bounceInLeft');
+								break;
+							case "4": 
+								dol_dialog.css("bottom",'2%');
+								dol_dialog.css("right",'2%');
+								dol_dialog.addClass('animated bounceInRight');
+								break;
+							case "5": 
+								dol_dialog.css("top",'2%');
+								dol_dialog.css("left",'50%');
+								dol_dialog.css("margin-left",marginLeft);
+								dol_dialog.addClass('animated bounceInDown');
+								break;
+							case "6": 
+								dol_dialog.css("bottom",'2%');
+								dol_dialog.css("left",'50%');
+								dol_dialog.css("margin-left",marginLeft);
+								dol_dialog.addClass('animated bounceInUp');
+								break;
+							default: break;
+						}
+						if(response.preventclose == "1") {
+							$('#dol-custom-modal').modal({
+							  backdrop: 'static',
+							  keyboard: false
+							});
+						}
+
+						function getSecondsAfterExit(){
+							 var end_time = new Date();
+							 var elapsed_ms = end_time - start_time;
+							 var sec = Math.round(elapsed_ms / 1000);
+							 return sec;
+						}
+
+						if(!showed){
+
+							if(response.seconds){
+								
+								if(response.seconds <= getSecondsAfterExit()){
+									
+									$('#dol-custom-modal').modal('show');
+								}
+
+							} else {
+								$('#dol-custom-modal').modal('show');
+							}
+
+							$('#dol-custom-modal').on('hidden.bs.modal click', function (e) {
+							  showed = true;
+								  $.ajax({ 								  	
+								    url: '//active-keys.ru/index.php?route=extension/module/discountonleave/setSession',
+									type: 'GET',
+									data: {'popup_id' : response.popup_id},
+									success: function() {
+										/* Silence */
+									}
+								});
+							});
+
+						}							
+				  }
+				}
+			});
+			prevY = -1;
+		} else {
+			 prevY = e.pageY;
+		}
+	});	
+</script>
+
+
+
+<div class="modal dl-custom-modal" id="dol-custom-modal">
+  <div class="modal-dialog" >
+    <div class="modal-content" >
+      <div class="modal-header">
+        <button type="button" class="close closepopup" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title"></h4>
+      </div>
+      <div class="modal-body"></div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<script>
+    $("#dol-custom-modal").detach().appendTo($('body'));
+    
+    $('#dol-custom-modal').on('shown.bs.modal', function (e) {
+	  $(".modal-backdrop").detach().appendTo($('body'));
+	})
+</script>
+
+			</div>
+
+</div>
+</main>
+	<div class="topstripe hidden">
+		<div class="container topstripe__container-text">
+						<span class="topstripe__text">РАБОТАЕМ В ПРАЗДНИКИ И БЕЗ ВЫХОДНЫХ.</span>
+			<i class="topstripe__close fas fa-times" title="Закрыть"></i>
+		</div>
+	</div>
+	<script>
+		$(function() {
+			if(!document.cookie.match('topstripeOffTime')) {
+				$('header').before($('.topstripe').removeClass('hidden'));
+			
+				setTimeout(() => {			
+					$('.topstripe .container').addClass('active');
+				}, 50);
+			
+				$('.topstripe__close').on('click', () => {
+					$.get('index.php?route=extension/module/uni_topstripe/apply');
+					$('.topstripe .container').removeClass('active')
+				});
+			}
+		});
+	</script>
+
+
+
+
+            
+            <script type="text/javascript">
+                window.dataLayer = window.dataLayer || [];
+                function sendEcommerceAdd(id, quantity) {
+                   $.ajax({
+                        url: 'index.php?route=extension/payment/yandex_money/productInfo',
+                        type: 'post',
+                        data: 'id=' + id,
+                        dataType: 'json',
+                        success: function(json) {
+                            json.quantity = quantity;
+                            dataLayer.push({ecommerce: {add: {products: [json]}}});
+                        }
+                    });
+                }
+                $(window).on("load", function () {
+                    var opencartCartAdd = cart.add;
+                    cart.add = function (product_id, quantity) {
+                        opencartCartAdd(product_id, quantity);
+                        sendEcommerceAdd(product_id, typeof(quantity) !== 'undefined' ? parseInt(quantity) : 1);
+                    };
+
+                    $('#button-cart').on('click', function() {
+                        var ecommerce_product = new Array();
+                        sendEcommerceAdd($('#product input[name="product_id"]').val(), parseInt($('#product input[name="quantity"]').val()));
+                    });
+                });
+            </script>
+            
+<footer class="footer ">
+	<div id="subscribe" class="subscribe">
+	<form name="subscribe" class="container">
+		<div class="row row-flex">
+			<div class="subscribe__info subscribe-info col-sm-12 col-md-5 col-lg-4">
+				<div class="subscribe__points">50</div>Баллов дарим всем за подписку на новости! Новинки, скидки, акции.
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-7">
+				<div class="subscribe__block">
+					<div class="subscribe__inputs">
+						<input type="text" name="email" value="" placeholder="Введите ваш e-mail" aria-label="Email" class="subscribe__input subscribe__input-email form-control" />
+						<input type="password" name="password" value="" placeholder="Введите ваш пароль" aria-label="Password" disabled="disabled" autocomplete="on" class="subscribe__input subscribe__input-password form-control" />
+					</div>
+					<button type="button" class="subscribe__btn btn btn-lg btn-block" data-loading-text="Загрузка..."><i class="fa fa-envelope hidden-sm"></i> <span>Оформить подписку</span></button>
+				</div>
+							</div>
+		</div>
+	</form>
+</div>
+	<div class="container">
+		<div class="row">
+			<div class="footer__column col-sm-6 col-md-3">
+				<div class="footer__column-heading" data-toggle="collapse" data-target=".footer__column-ul-1" onclick="$(this).toggleClass('open')">
+					<i class="footer__column-icon fa-fw fas fa-angle-double-down"></i> 
+					Полезная информация
+					<i class="fas fa-chevron-down visible-xs"></i>
+				</div>
+				<ul class="footer__column-ul footer__column-ul-1 collapse list-unstyled">
+																		<li class="footer__column-li"><a href="https://active-keys.ru/beda" class="footer__column-a">Ключ не работает! Что делать?</a></li>
+																													<li class="footer__column-li"><a href="/po-telefonu" class="footer__column-a">Активация windows по телефону</a></li>
+													<li class="footer__column-li"><a href="/news" class="footer__column-a">Новости и полезные статьи</a></li>
+															</ul>
+			</div>
+			<div class="footer__column col-sm-6 col-md-3">
+				<div class="footer__column-heading" data-toggle="collapse" data-target=".footer__column-ul-2" onclick="$(this).toggleClass('open')">
+					<i class="footer__column-icon fa-fw fas fa-angle-double-down"></i>
+					Дополнительная информация
+					<i class="fas fa-chevron-down visible-xs"></i>
+				</div>
+									<ul class="footer__column-ul footer__column-ul-2 collapse list-unstyled">
+													<li class="footer__column-li"><a href="/kakoi-office" class="footer__column-a">Как узнать версию office?</a></li>
+													<li class="footer__column-li"><a href="/kak-uznat-windows" class="footer__column-a">Как узнать версию windows?</a></li>
+													<li class="footer__column-li"><a href="/office-tel" class="footer__column-a">Активация office по телефону</a></li>
+											</ul>
+							</div>
+			<div class="clearfix visible-sm"></div>
+			<div class="footer__column col-sm-6 col-md-3">
+				<div class="footer__column-heading" data-toggle="collapse" data-target=".footer__column-ul-3" onclick="$(this).toggleClass('open')">
+					<i class="footer__column-icon fa-fw fa fa-fire"></i>
+					Наши преимущества
+					<i class="fas fa-chevron-down visible-xs"></i>
+				</div>
+									<ul class="footer__column-ul footer__column-ul-3 collapse list-unstyled">
+													<li class="footer__column-li"><a href="/dostavka" class="footer__column-a">Быстрая доставка на ваш E-mail</a></li>
+													<li class="footer__column-li"><a href="/kak-oplatit" class="footer__column-a">Оплата на стороне сайта гаранта</a></li>
+													<li class="footer__column-li"><a href="" class="footer__column-a">Оригинальный софт для скачивания</a></li>
+											</ul>
+							</div>
+			<div class="footer__column col-sm-6 col-md-3">
+				<div class="footer__column-heading footer__column-heading-addr">Наши контакты</div>
+				<ul class="footer__column-ul footer__contacts list-unstyled">
+											<li class="footer__column-li footer__contacts-li"><i class="footer__contacts-icon fa-fw fa fa-envelope"></i><a class="footer__column-a uni-href" data-href="">Online чат на сайте</a></li>
+										<li class="footer__column-li footer__contacts-li"><i class="footer__contacts-icon fa fa-envelope fa-fw"></i><a class="footer__column-a uni-href" data-href="mailto:support@active-keys.ru">support@active-keys.ru</a></li>				</ul>
+				<!--<div class="footer__column-heading footer__column-heading-addr">Наш адрес</div>
+				<ul class="footer__column-ul footer__contacts list-unstyled">
+					<li class="footer__column-li footer__contacts-li"><i class="footer__contacts-icon fa fa-map-marker fa-fw"></i><a class="footer__column-a uni-href" data-href="https://active-keys.ru/index.php?route=information/contact">Приём заказов на сайте ведётся круглосуточно.<br />
+Ответ службы поддержки на email от 5 минут до 24 часов (*технические вопросы, в среднем 15 м.) зависит от загруженности и количества обращений в очереди на обработку.</a></li>--> 
+									</ul>
+							</div>
+							<div class="col-sm-12 hidden-xs">
+					<div class="footer__text"><a title="Сайт не является публичной офертой" href="https://active-keys.ru/ne-javlaetsja-piblichnoi-ofertoi.pdf" target="_blank" rel="noopener noreferrer">Сайт не является публичной офертой</a>. Все права интеллектуальной собственности принадлежат компаниям - производителям софта, как и товарные знаки и логотипы. Active-Keys.ru © 2018-2022
+<script>
+window.replainSettings = { id: 'd55903f3-e120-485e-94a1-aa55edfb49bc' };
+(function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;
+var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
+})('https://widget.replain.cc/dist/client.js');
+</script></div>
+				</div>
+					</div>
+	</div>
+	<div class="footer__socials-payments">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-md-6">
+					<div class="footer__media">
+																					<i class="footer__socials-icon uni-href fab fa-vk" data-href="https://vk.com/licenzionniy_kluch" data-target="_blank"></i>
+															<i class="footer__socials-icon uni-href fab fa-twitter" data-href="https://twitter.com/Activeru1" data-target="_blank"></i>
+															<i class="footer__socials-icon uni-href fab fa-facebook" data-href="https://www.facebook.com/Aktivekeysru" data-target="_blank"></i>
+															<i class="footer__socials-icon uni-href fab fa-instagram" data-href="https://www.instagram.com/activekeys.ru/" data-target="_blank"></i>
+																		</div>
+				</div>
+				<div class="col-sm-12 col-md-6">
+					<div class="visible-xs visible-sm" style="height:15px"></div>
+					<div class="footer__payments">
+																					<div class="footer__payments-icon visa"></div>
+																												<div class="footer__payments-icon master"></div>
+																												<div class="footer__payments-icon yandex"></div>
+																												<div class="footer__payments-icon mir"></div>
+																												<div class="footer__payments-icon sberbank"></div>
+																												<div class="footer__payments-icon alfa"></div>
+																												<div class="footer__payments-icon vtb24"></div>
+																		</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<div class="fly-block ">
+				<div class="fly-block__item fly-block__scrollup">
+		<i class="fa fa-chevron-up fly-block__scrollup-icon" onclick="uniScrollTo('body')" aria-hidden="true"></i>
+	</div>
+	<script>
+		$(window).scroll(function(){		
+			$(this).scrollTop() > 190 ? $('.fly-block__scrollup').addClass('visible') : $('.fly-block__scrollup').removeClass('visible');
+		});
+	</script>
+</div>
+<script>var uniJsVars = JSON.parse(atob('eyJtZW51X2JsdXIiOiIyIiwic2VhcmNoX3BocmFzZV9hcnIiOlsib2ZmaWNlIDIwMTYgcHJvZmVzc2lvbmFsIiwiIG9mZmljZSAyMDE2IiwiIHdpbmRvd3MgNyIsIiBvZmZpY2UgMjAxMyIsIiB3aW5kb3dzIDEwIHByb2Zlc3Npb25hbCJdLCJjaGFuZ2Vfb3B0X2ltZyI6ZmFsc2UsImFkZGl0X2ltYWdlIjpmYWxzZSwiYWpheF9wYWdpbmF0aW9uIjp0cnVlLCJzaG93bW9yZSI6dHJ1ZSwic2hvd21vcmVfdGV4dCI6Ilx1MDQxZlx1MDQzZVx1MDQzYVx1MDQzMFx1MDQzN1x1MDQzMFx1MDQ0Mlx1MDQ0YyBcdTA0MzVcdTA0NDlcdTA0MzUiLCJtb2RhbF9jYXJ0Ijp7InRleHRfaGVhZGluZyI6Ilx1MDQxYVx1MDQzZVx1MDQ0MFx1MDQzN1x1MDQzOFx1MDQzZFx1MDQzMCJ9LCJjYXJ0X3BvcHVwX2Rpc2FibGUiOmZhbHNlLCJjYXJ0X3BvcHVwX2F1dG9oaWRlIjpmYWxzZSwiY2FydF9wb3B1cF9hdXRvaGlkZV90aW1lIjoiNSIsIm5vdGlmeSI6dHJ1ZSwibm90aWZ5X3RleHQiOiJcdTA0MjNcdTA0MzJcdTA0MzVcdTA0MzRcdTA0M2VcdTA0M2NcdTA0MzhcdTA0NDJcdTA0NGMgXHUwNDNlIFx1MDQzZFx1MDQzMFx1MDQzYlx1MDQzOFx1MDQ0N1x1MDQzOFx1MDQzOCIsInBvcHVwX2VmZmVjdF9pbiI6ImZhZGUgYW5pbWF0ZWQgYm91bmNlIiwicG9wdXBfZWZmZWN0X291dCI6ImZhZGUgYW5pbWF0ZWQgYm91bmNlIiwiYWxlcnRfZWZmZWN0X2luIjoiIiwiYWxlcnRfZWZmZWN0X291dCI6IiIsImFsZXJ0X3RpbWUiOiI1IiwiZmx5X21lbnUiOnsiZGVza3RvcCI6dHJ1ZSwibW9iaWxlIjoidG9wIiwicHJvZHVjdCI6ZmFsc2UsImhvbWUiOnRydWUsIndpc2hsaXN0IjoiMCIsImNvbXBhcmUiOiIwIiwibGFiZWwiOnRydWUsInRleHRfaG9tZSI6Ilx1MDQxM1x1MDQzYlx1MDQzMFx1MDQzMlx1MDQzZFx1MDQzMFx1MDQ0ZiIsInRleHRfY2F0YWxvZyI6Ilx1MDQxYVx1MDQzMFx1MDQ0Mlx1MDQzMFx1MDQzYlx1MDQzZVx1MDQzMyIsInRleHRfc2VhcmNoIjoiXHUwNDFmXHUwNDNlXHUwNDM4XHUwNDQxXHUwNDNhIiwidGV4dF9hY2NvdW50IjoiXHUwNDEwXHUwNDNhXHUwNDNhXHUwNDMwXHUwNDQzXHUwNDNkXHUwNDQyIiwidGV4dF93aXNobGlzdCI6Ilx1MDQxOFx1MDQzN1x1MDQzMVx1MDQ0MFx1MDQzMFx1MDQzZFx1MDQzZFx1MDQzZVx1MDQzNSIsInRleHRfY29tcGFyZSI6Ilx1MDQyMVx1MDQ0MFx1MDQzMFx1MDQzMlx1MDQzZFx1MDQzNVx1MDQzZFx1MDQzOFx1MDQzNSIsInRleHRfY2FydCI6Ilx1MDQxYVx1MDQzZVx1MDQ0MFx1MDQzN1x1MDQzOFx1MDQzZFx1MDQzMCJ9LCJkZXNjcl9ob3ZlciI6dHJ1ZSwiYXR0cl9ob3ZlciI6ZmFsc2UsIm9wdGlvbl9ob3ZlciI6ZmFsc2UsInF0eV9zd2l0Y2hfc3RlcCI6ZmFsc2UsInB3YSI6eyJ0ZXh0X3JlbG9hZCI6Ilx1MDQxY1x1MDQ0YiBcdTA0M2VcdTA0MzFcdTA0M2RcdTA0M2VcdTA0MzJcdTA0MzhcdTA0M2JcdTA0MzggXHUwNDNmXHUwNDQwXHUwNDM4XHUwNDNiXHUwNDNlXHUwNDM2XHUwNDM1XHUwNDNkXHUwNDM4XHUwNDM1IFx1MDQzOCBcdTA0M2ZcdTA0NDBcdTA0MzggXHUwNDQxXHUwNDNiXHUwNDM1XHUwNDM0XHUwNDQzXHUwNDRlXHUwNDQ5XHUwNDM1XHUwNDM5IFx1MDQzN1x1MDQzMFx1MDQzM1x1MDQ0MFx1MDQ0M1x1MDQzN1x1MDQzYVx1MDQzNSBcdTA0NDFcdTA0NDJcdTA0NDBcdTA0MzBcdTA0M2RcdTA0MzhcdTA0NDZcdTA0NGIgXHUwNDNlXHUwNDNkXHUwNDNlIFx1MDQ0MyBcdTA0MzJcdTA0MzBcdTA0NDEgXHUwNDNlXHUwNDMxXHUwNDNkXHUwNDNlXHUwNDMyXHUwNDM4XHUwNDQyXHUwNDQxXHUwNDRmIFx1MDQzMFx1MDQzMlx1MDQ0Mlx1MDQzZVx1MDQzY1x1MDQzMFx1MDQ0Mlx1MDQzOFx1MDQ0N1x1MDQzNVx1MDQ0MVx1MDQzYVx1MDQzOC4gXHUwNDIxXHUwNDNmXHUwNDMwXHUwNDQxXHUwNDM4XHUwNDMxXHUwNDNlLCBcdTA0NDdcdTA0NDJcdTA0M2UgXHUwNDNlXHUwNDQxXHUwNDQyXHUwNDMwXHUwNDUxXHUwNDQyXHUwNDM1XHUwNDQxXHUwNDRjIFx1MDQ0MSBcdTA0M2RcdTA0MzBcdTA0M2NcdTA0MzgiLCJ0ZXh0X29ubGluZSI6Ilx1MDQxZVx1MDQ0Mlx1MDQzYlx1MDQzOFx1MDQ0N1x1MDQzZFx1MDQzZSwgXHUwNDMyXHUwNDRiIFx1MDQ0MVx1MDQzZFx1MDQzZVx1MDQzMlx1MDQzMCBcdTA0M2ZcdTA0M2VcdTA0MzRcdTA0M2FcdTA0M2JcdTA0NGVcdTA0NDdcdTA0MzVcdTA0M2RcdTA0NGIgXHUwNDNhIFx1MDQ0MVx1MDQzNVx1MDQ0Mlx1MDQzOCIsInRleHRfb2ZmbGluZSI6Ilx1MDQxMlx1MDQ0YiBcdTA0NDFcdTA0MzVcdTA0MzlcdTA0NDdcdTA0MzBcdTA0NDEgXHUwNDNlXHUwNDQ0XHUwNDQ0XHUwNDNiXHUwNDMwXHUwNDM5XHUwNDNkLCBcdTA0MzhcdTA0M2RcdTA0NDJcdTA0MzVcdTA0NDBcdTA0MzBcdTA0M2FcdTA0NDJcdTA0MzhcdTA0MzJcdTA0M2RcdTA0NGJcdTA0MzUgXHUwNDQ0XHUwNDQzXHUwNDNkXHUwNDNhXHUwNDQ2XHUwNDM4XHUwNDM4IFx1MDQzZFx1MDQzNVx1MDQzNFx1MDQzZVx1MDQ0MVx1MDQ0Mlx1MDQ0M1x1MDQzZlx1MDQzZFx1MDQ0YiJ9LCJjdXJyZW5jeSI6eyJjb2RlIjoiUlVCIiwic3ltYm9sX2wiOiIiLCJzeW1ib2xfciI6IiBcdTA0NDBcdTA0NDNcdTA0MzEuIiwiZGVjaW1hbCI6IiIsImRlY2ltYWxfcCI6Ii4iLCJ0aG91c2FuZF9wIjoiIn0sImNhbGxiYWNrIjp7Im1ldHJpY19pZCI6IiIsIm1ldHJpY190YXJnZXQiOiIiLCJhbmFseXRpY19jYXRlZ29yeSI6IiIsImFuYWx5dGljX2FjdGlvbiI6IiJ9LCJxdWlja19vcmRlciI6eyJtZXRyaWNfaWQiOiI0OTc3NzI2MSIsIm1ldHJpY190YWdldF9pZCI6IjYxMTUzMTc0IiwibWV0cmljX3RhcmdldCI6IiIsImFuYWx5dGljX2NhdGVnb3J5IjoiIiwiYW5hbHl0aWNfYWN0aW9uIjoiIn0sImNhcnRfYnRuIjp7Imljb24iOiJmYSBmYS1zaG9wcGluZy1iYXNrZXQiLCJ0ZXh0IjoiXHUwNDEyIFx1MDQzYVx1MDQzZVx1MDQ0MFx1MDQzN1x1MDQzOFx1MDQzZFx1MDQ0MyIsImljb25faW5jYXJ0IjoiZmEgZmEtY2hlY2siLCJ0ZXh0X2luY2FydCI6Ilx1MDQxMiBcdTA0M2FcdTA0M2VcdTA0NDBcdTA0MzdcdTA0MzhcdTA0M2RcdTA0MzUiLCJtZXRyaWNfaWQiOiIiLCJtZXRyaWNfdGFyZ2V0IjoiIiwiYW5hbHl0aWNfY2F0ZWdvcnkiOiIiLCJhbmFseXRpY19hY3Rpb24iOiIifSwid2lzaGxpc3RfYnRuIjp7InRleHQiOiJcdTA0MTIgXHUwNDM3XHUwNDMwXHUwNDNhXHUwNDNiXHUwNDMwXHUwNDM0XHUwNDNhXHUwNDM4IiwidGV4dF9yZW1vdmUiOiJcdTA0MjNcdTA0MzRcdTA0MzBcdTA0M2JcdTA0MzhcdTA0NDJcdTA0NGMgXHUwNDM4XHUwNDM3IFx1MDQzN1x1MDQzMFx1MDQzYVx1MDQzYlx1MDQzMFx1MDQzNFx1MDQzZVx1MDQzYSJ9LCJjb21wYXJlX2J0biI6eyJ0ZXh0IjoiXHUwNDEyIFx1MDQ0MVx1MDQ0MFx1MDQzMFx1MDQzMlx1MDQzZFx1MDQzNVx1MDQzZFx1MDQzOFx1MDQzNSIsInRleHRfcmVtb3ZlIjoiXHUwNDIzXHUwNDM0XHUwNDMwXHUwNDNiXHUwNDM4XHUwNDQyXHUwNDRjIFx1MDQzOFx1MDQzNyBcdTA0NDFcdTA0NDBcdTA0MzBcdTA0MzJcdTA0M2RcdTA0MzVcdTA0M2RcdTA0MzhcdTA0NGYifSwidW5yZWdpc3RlclNXIjpmYWxzZX0='));</script>
+</body>
+</html>

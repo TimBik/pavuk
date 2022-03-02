@@ -1,0 +1,2048 @@
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" class="">
+
+<head>
+
+<title> Программный комплекс «Слежение» - слежение за вагонами и контейнерами </title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="Description" content="ПК Слежение - программа управления вагонами предоставляет дислокацию вагонов и контейнеров и позволяет отследить вагон по номеру, рассчитать жд тариф, простои. Мы повышаем эффективность жд перевозок " />
+<meta name="keywords" content="МЦ-Сервис Инжиниринг, программный комплекс, Cлежение за вагонами, МЦ-Слежение, МЦ Этран, слежение за контейнерами, дислокация вагонов, где вагон, дислокация контейнеров, отслеживание вагона по номеру, найти вагон по номеру, управление перевозками жд, отслеживание грузовых вагонов, отслеживание жд контейнеров, система управления жд перевозками, расчет железнодорожного тарифа, расчет ж/д тарифа, " />
+
+<meta property="og:title" content=" Программный комплекс «Слежение» - слежение за вагонами и контейнерами " />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/" />
+<meta property="og:description" content="ПК Слежение - программа управления вагонами предоставляет дислокацию вагонов и контейнеров и позволяет отследить вагон по номеру, рассчитать жд тариф, простои. Мы повышаем эффективность жд перевозок " />
+<meta name="google-site-verification" content="NA8zJhPzv_9cGX5tvARSE1CEImWXKqgJ38czcMpPTq0" />
+<meta name="yandex-verification" content="c4faff5f9d65dd09" />
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54961210, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54961210" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-145918378-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145918378-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145918378-1');
+</script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+
+<link href="/css/template_ea_coverage_v2.css" type="text/css"  data-template-style="true" rel="stylesheet" />
+<link rel="stylesheet" href="/css/animate_v1.css">
+<link rel="stylesheet" href="/css/style_v1.css">
+<link rel="stylesheet" href="/js/pass/password_v1.css" type="text/css" />
+
+<link rel="icon" href="https://www.mc-service.ru/favicon.png" type="image/x-png" />
+
+<script type="text/javascript" src="/js/jquery-2.1.3.min.min_coverage_v1.js"></script> 
+<script type="text/javascript" src="/mc-admin/asset/js/js.form.enter_v1.js"></script>
+<script type="text/javascript" src="/js/js.form.search_v1.js"></script>
+
+<noindex>
+<script>
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://cdn-ru.bitrix24.ru/b17477354/crm/site_button/loader_2_pym9lb.js');
+</script>
+</noindex></head>
+
+
+
+<body class=" regionality_n mheader-v1 footer-v1 fill_bg_ title-v1 with_phones wheader_v12 in_index">
+
+<div class="fon_enter_user" id="fon_enter_user" style="display:none;"></div>
+    <div id="panel"></div>
+
+	<script>
+		var arPriorityOptions = ({
+			'THEME' : ({
+				'SCROLLTOTOP_TYPE' : 'RECT_COLOR',
+			})
+		});
+	</script>
+
+
+<style>
+#ya-site-form0 .ya-site-form__form .ya-site-form__input-text {
+  padding: 10px;
+}
+#ya-site-form0 .ya-site-form__submit_type_image {
+	background: none;
+	opacity: 0.5;
+	width: 17px;
+	height: 17px;
+	background-image: url(/img/svg/header_icons.svg);
+	background-position: -29px -22px;
+}
+</style>
+<div id="block-top-search">	
+	<section class="page-top maxwidth-theme ">	
+		<div class="row">
+			<div class="col-md-12">
+	<a class="block-top-auth_close" id="block-top-auth_close"></a>
+	<a class="block-top-auth_back" id="prev-auth"></a>
+	
+		<form method="POST" id="form_enter_site">
+			<div class="ya-site-form ya-site-form_inited_no" data-bem="{&quot;action&quot;:&quot;https://www.mc-service.ru/search&quot;,&quot;arrow&quot;:false,&quot;bg&quot;:&quot;transparent&quot;,&quot;fontsize&quot;:16,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по сайту&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:3,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2549804,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;italic&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:&quot;Поиск по сайту&quot;,&quot;input_placeholderColor&quot;:&quot;#666666&quot;,&quot;input_borderColor&quot;:&quot;#7f9db9&quot;}"><form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2549804"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script>
+		</form>
+			</div>
+		</div>
+	</section>
+</div>	
+	
+	
+
+
+
+
+
+	<!--menu osn-->	
+<div class="header_wrap visible-lg visible-md title-v1 index">		
+	<header class="header-v12 canfixed  block-phone sm">
+
+		<div class="logo_and_menu-row white">
+		
+		
+			<div class="maxwidth-theme clearfix">
+				<div class="logo-row">
+					<div class="row logo_and_menu">
+
+						<div class="logo-block col-md-5 col-sm-3">
+							<div class="burger pull-left" style="display:none">
+								<svg class="svg svg-burger" width="16" height="12" viewBox="0 0 16 12">
+									<path data-name="Rounded Rectangle 81 copy 4" class="cls-1" d="M872,958h-8a1,1,0,0,1-1-1h0a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1h0A1,1,0,0,1,872,958Zm6-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,953Zm0-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,948Z" transform="translate(-863 -946)"></path>
+								</svg>
+								<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+									<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+								</svg>
+							</div>
+							
+							<div class="logo pull-left">
+																	<img src="/img/logo_mc.png" alt="«МЦ-Сервис Инжиниринг»" title="«МЦ-Сервис Инжиниринг»" />
+															</div>
+							<div class="slogan">
+								<div class="top-description">
+									Слежение за вагонами и контейнерами
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-md-12_menu">
+							<div class="menu-only catalog_icons_Y icons_position_ view_type_LINE count_menu_wide_count_3 osn_1">
+	<nav class="mega-menu sliced">
+		<div class="table-menu">
+			<div class="marker-nav"></div>
+			<table>
+				<tr>
+					<td class="menu-item unvisible normal_dropdown dropdown  ">
+						<div class="wrap">
+							<a class="font_xs dark-color dropdown-toggle"  >
+								<span>Главная</span>
+							</a>
+							<span class="tail"></span>
+							<ul class="dropdown-menu">
+																											<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/company/" title="О компании">О компании</a>
+											</div>
+										</li>
+																																																																																							<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/company/clients" title="Клиенты">Клиенты</a>
+											</div>
+										</li>
+																																																																																							<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/company/partners" title="Партнеры">Партнеры</a>
+											</div>
+										</li>
+																																																																																							<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/company/reviews" title="Отзывы">Отзывы</a>
+											</div>
+										</li>
+																																																																						<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/news/" title="Новости">Новости</a>
+											</div>
+										</li>
+																								</ul>
+						</div>
+					</td>
+					<td class="menu-item unvisible normal_dropdown dropdown  ">
+						<div class="wrap">
+							<a class="font_xs dark-color dropdown-toggle"  href="/projects/" >
+							<span>Продукты</span>
+							</a>
+							<span class="tail"></span>
+							
+							<ul class="dropdown-menu">
+																																												<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/projects/mc-slejenie" title="МЦ-Слежение">МЦ-Слежение</a>
+											</div>
+										</li>
+																																																																																							<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/projects/mc-analytica" title="МЦ-Аналитика">МЦ-Аналитика</a>
+											</div>
+										</li>
+																																																																																																								<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/projects/mc-shluz" title="МЦ-Шлюз загрузки">МЦ-Шлюз загрузки</a>
+											</div>
+										</li>
+																																																																																																													</ul>
+						</div>
+					</td>
+					<td class="menu-item unvisible normal_dropdown dropdown  ">
+						<div class="wrap">
+							<a class="font_xs dark-color dropdown-toggle"  href="/solutions/" >
+								<span>Комплектации продуктов</span>
+							</a>
+							<span class="tail"></span>
+							<ul class="dropdown-menu">
+																											<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/solutions/transportnym-i-logisticheskim-kompaniyam" title="Транспортным и логистическим компаниям">Транспортным и логистическим компаниям</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/solutions/transportnym-podrazdeleniyam-kompanij" title="Транспортным подразделениям компаний">Транспортным подразделениям компаний</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/solutions/lizingovym-kompaniyam" title="Лизинговым компаниям">Лизинговым компаниям</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/solutions/remontnym-predpriyatiyam" title="Ремонтным предприятиям">Ремонтным предприятиям</a>
+											</div>
+										</li>
+																								</ul>
+						</div>
+					</td>
+					<td class="menu-item unvisible normal_dropdown dropdown  ">
+						<div class="wrap">
+							<a class="font_xs dark-color dropdown-toggle"  href="/uslugi/" >
+								<span>Сервисы и услуги</span>
+							</a>
+							<span class="tail"></span>
+							<ul class="dropdown-menu">
+																											<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/uslugi/predostavlenie-pk-mc-slezhenie" title="Предоставление ПК «МЦ-Слежение»">Предоставление ПК «МЦ-Слежение»</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/uslugi/podklyuchenie-k-istochnikam-informacii" title="Подключение к источникам информации">Подключение к источникам информации</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/uslugi/tekhnologicheskaya-podderzhka" title="Технологическая поддержка">Технологическая поддержка</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/uslugi/razrabotka-novyh-programmnyh-reshenij" title="Разработка новых программных решений">Разработка новых программных решений</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/uslugi/tekhnicheskaya-podderzhka" title="Техническая поддержка">Техническая поддержка</a>
+											</div>
+										</li>
+																																				<li class="item clearfix  ">
+											<div class="menu_body">
+												<a class="dark-color" href="/uslugi/optimizaciya-biznes-processov" title="Оптимизация бизнес-процессов">Оптимизация бизнес-процессов</a>
+											</div>
+										</li>
+																								</ul>
+						</div>
+					</td>
+					<td class="menu-item unvisible normal_dropdown">
+						<div class="wrap">
+							<a class="font_xs dark-color"  href="/company/contacts" >
+								<span>Контакты</span>
+							</a>
+						</div>
+					</td>
+										<td class="dropdown normal_dropdown js-dropdown nosave unvisible">
+						<div class="wrap">
+							<a class="dropdown-toggle more-items" href="#"></a>
+							<span class="tail"></span>
+							<ul class="dropdown-menu"></ul>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</nav>
+</div>						</div>
+						
+						<div class="right_wrap col-md-7 pull-right">
+							<div class="phone_wrap pull-right">
+								<div class="wrap_icon inner-table-block">
+									<div class="phone-block">
+									
+										<div class="inline-block">
+											<div class="phone">
+												<div class="wrap">
+													<div>
+														<svg class="svg svg-phone">
+														</svg>
+														<a href="tel:+74992644445" rel="nofollow">+7 (499) 264 44 45</a>
+													</div>
+													<div class="opening_hours">
+														<span>ПН-ПТ, 09:00-18:00</span>
+													</div>
+												</div>
+											</div>
+										</div>
+										
+										<div class="inline-block callback_wrap">
+											<a href="https://redmine.mc-service.ru" target="_blank" rel="nofollow"><span class="callback-block animate-load twosmallfont colored"
+														  >Портал поддержки
+											</span></a>
+										</div>
+										
+									</div>
+								</div>
+							</div>
+							<div class="right-icons pull-right">
+																<div class="pull-right show-fixed">
+									<div class="wrap_icon">
+										<button class="top-btn inline-search-show top-search">
+											<svg class="svg svg-search" width="17" height="17" viewBox="0 0 17 17" aria-hidden="true">
+											<path class="cls-1" d="M16.709,16.719a1,1,0,0,1-1.412,0l-3.256-3.287A7.475,7.475,0,1,1,15,7.5a7.433,7.433,0,0,1-1.549,4.518l3.258,3.289A1,1,0,0,1,16.709,16.719ZM7.5,2A5.5,5.5,0,1,0,13,7.5,5.5,5.5,0,0,0,7.5,2Z"></path>
+											</svg>
+											<span class="title">Поиск</span>
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+	
+			
+		</div>
+<script type="text/javascript">
+$(window).load(function(){
+	$('.logo_and_menu-row').css("position", "relative");
+});
+</script>
+		<div class="line-row visible-xs"></div>
+	</header>
+</div>
+<!--end menu osn-->
+	<!--menu mob-->		
+	<div id="mobileheader" class="visible-xs visible-sm">
+		<div class="mobileheader-v1">
+			<div class="burger pull-left">
+				<svg class="svg svg-burger" width="16" height="12" viewBox="0 0 16 12">
+					<path data-name="Rounded Rectangle 81 copy 4" class="cls-1" d="M872,958h-8a1,1,0,0,1-1-1h0a1,1,0,0,1,1-1h8a1,1,0,0,1,1,1h0A1,1,0,0,1,872,958Zm6-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,953Zm0-5H864a1,1,0,0,1,0-2h14A1,1,0,0,1,878,948Z" transform="translate(-863 -946)"></path>
+				</svg>
+				<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+					<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+				</svg>
+			</div>
+			
+			<div class="logo-block pull-left">
+				<div class="logo">
+											<img src="/img/logo_mc.png" alt="«МЦ-Сервис Инжиниринг»" title="«МЦ-Сервис Инжиниринг»" />
+									</div>
+			</div>
+	
+			<div class="right-icons pull-right">
+				<div class="pull-right">
+					<div class="wrap_icon wrap_basket"></div>
+				</div>
+								<div class="pull-right">
+					<div class="wrap_icon">
+						<button class="top-btn inline-search-show top-search">
+							<svg class="svg svg-search" width="17" height="17" viewBox="0 0 17 17" aria-hidden="true">
+								<path class="cls-1" d="M16.709,16.719a1,1,0,0,1-1.412,0l-3.256-3.287A7.475,7.475,0,1,1,15,7.5a7.433,7.433,0,0,1-1.549,4.518l3.258,3.289A1,1,0,0,1,16.709,16.719ZM7.5,2A5.5,5.5,0,1,0,13,7.5,5.5,5.5,0,0,0,7.5,2Z"></path>
+							</svg>
+							<span class="title"></span>
+						</button>
+					</div>
+				</div>		
+			</div>
+		</div>
+		
+		<div id="mobilemenu" class="leftside LIGHT">
+				
+			<div class="mobilemenu-v1 scroller menu_open_v_1">
+				<div class="wrap">
+					<div class="wrapper_rel">
+						<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+							<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+						</svg>
+						
+						<div class="logo">
+															<img src="/img/logo_mc.png" alt="«МЦ-Сервис Инжиниринг»" title="«МЦ-Сервис Инжиниринг»" />
+													</div>
+						
+						<div class="menu top">
+							<ul class="top">
+								<li>
+									<a class="dark-color parent" href="" title="Главная">
+										<span>Главная</span>
+										<span class="arrow">
+											<svg class="svg svg_triangle_right" width="3" height="5" viewBox="0 0 3 5">
+												<path data-name="Rectangle 323 copy 9" class="cls-1" d="M960,958v-5l3,2.514Z" transform="translate(-960 -953)"/>
+											</svg>
+										</span>
+									</a>
+									
+									<ul class="dropdown">
+										<li>
+											<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+												<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+											</svg>
+										</li>
+										<li class="menu_back">
+											<a href="" class="dark-color" rel="nofollow">
+												<svg class="svg svg-back" width="16" height="12" viewBox="0 0 16 12">
+													<path data-name="Rounded Rectangle 804" d="M998,953H986.4l3.313,3.286a1,1,0,0,1,0,1.414,0.99,0.99,0,0,1-1.407,0l-5.034-4.993a1,1,0,0,1,0-1.414l5.034-5.024a0.992,0.992,0,0,1,1.407,0,1.006,1.006,0,0,1,0,1.415L986.384,951H998A1,1,0,0,1,998,953Z" transform="translate(-983 -946)"></path>
+												</svg>
+												Назад
+											</a>
+										</li>
+										<li class="menu_title">
+											<a class="dark-color"  >Главная</a>
+										</li>
+																																	<li>
+													<a class="dark-color" href="/company/" title="О компании">
+													<span>О компании</span>
+													</a>
+												</li>
+																																																																																																											<li>
+													<a class="dark-color" href="/company/clients" title="Клиенты">
+													<span>Клиенты</span>
+													</a>
+												</li>
+																																																																																																											<li>
+													<a class="dark-color" href="/company/partners" title="Партнеры">
+													<span>Партнеры</span>
+													</a>
+												</li>
+																																																																																																											<li>
+													<a class="dark-color" href="/company/reviews" title="Отзывы">
+													<span>Отзывы</span>
+													</a>
+												</li>
+																																																																																						<li>
+													<a class="dark-color" href="/news/" title="Новости">
+													<span>Новости</span>
+													</a>
+												</li>
+																														</ul>
+								</li>
+								
+								<li>
+									<a class="dark-color parent" href="" title="Продукты">
+										<span>Продукты</span>
+										<span class="arrow">
+											<svg class="svg svg_triangle_right" width="3" height="5" viewBox="0 0 3 5">
+												<path data-name="Rectangle 323 copy 9" class="cls-1" d="M960,958v-5l3,2.514Z" transform="translate(-960 -953)"/>
+											</svg>
+										</span>
+									</a>
+									
+									<ul class="dropdown">
+										<li>
+											<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+												<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+											</svg>
+										</li>
+										<li class="menu_back">
+											<a href="" class="dark-color" rel="nofollow">
+												<svg class="svg svg-back" width="16" height="12" viewBox="0 0 16 12">
+													<path data-name="Rounded Rectangle 804" d="M998,953H986.4l3.313,3.286a1,1,0,0,1,0,1.414,0.99,0.99,0,0,1-1.407,0l-5.034-4.993a1,1,0,0,1,0-1.414l5.034-5.024a0.992,0.992,0,0,1,1.407,0,1.006,1.006,0,0,1,0,1.415L986.384,951H998A1,1,0,0,1,998,953Z" transform="translate(-983 -946)"></path>
+												</svg>
+												Назад
+											</a>
+										</li>
+										<li class="menu_title">
+											<a class="dark-color"  href="/projects/" >Продукты</a>
+										</li>
+																																																						<li>
+													<a class="dark-color" href="/projects/mc-slejenie" title="МЦ-Слежение">
+														<span>МЦ-Слежение</span>
+													</a>
+												</li>
+																																																																																																											<li>
+													<a class="dark-color" href="/projects/mc-analytica" title="МЦ-Аналитика">
+														<span>МЦ-Аналитика</span>
+													</a>
+												</li>
+																																																																																																																																<li>
+													<a class="dark-color" href="/projects/mc-shluz" title="МЦ-Шлюз загрузки">
+														<span>МЦ-Шлюз загрузки</span>
+													</a>
+												</li>
+																																																																																																																																							</ul>
+								</li>
+								
+								<li>
+									<a class="dark-color parent" href="" title="Комплектации продуктов">
+										<span>Комплектации продуктов</span>
+										<span class="arrow">
+											<svg class="svg svg_triangle_right" width="3" height="5" viewBox="0 0 3 5">
+												<path data-name="Rectangle 323 copy 9" class="cls-1" d="M960,958v-5l3,2.514Z" transform="translate(-960 -953)"/>
+											</svg>
+										</span>
+									</a>
+									
+									<ul class="dropdown">
+										<li>
+											<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+												<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+											</svg>
+										</li>
+										<li class="menu_back">
+											<a href="" class="dark-color" rel="nofollow">
+												<svg class="svg svg-back" width="16" height="12" viewBox="0 0 16 12">
+													<path data-name="Rounded Rectangle 804" d="M998,953H986.4l3.313,3.286a1,1,0,0,1,0,1.414,0.99,0.99,0,0,1-1.407,0l-5.034-4.993a1,1,0,0,1,0-1.414l5.034-5.024a0.992,0.992,0,0,1,1.407,0,1.006,1.006,0,0,1,0,1.415L986.384,951H998A1,1,0,0,1,998,953Z" transform="translate(-983 -946)"></path>
+												</svg>
+												Назад
+											</a>
+										</li>
+										<li class="menu_title">
+											<a class="dark-color"  href="/solutions/" >Комплектации продуктов</a>
+										</li>
+																																	<li>
+													<a class="dark-color" href="/solutions/transportnym-i-logisticheskim-kompaniyam" title="Транспортным и логистическим компаниям">
+														<span>Транспортным и логистическим компаниям</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/solutions/transportnym-podrazdeleniyam-kompanij" title="Транспортным подразделениям компаний">
+														<span>Транспортным подразделениям компаний</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/solutions/lizingovym-kompaniyam" title="Лизинговым компаниям">
+														<span>Лизинговым компаниям</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/solutions/remontnym-predpriyatiyam" title="Ремонтным предприятиям">
+														<span>Ремонтным предприятиям</span>
+													</a>
+												</li>
+																														</ul>
+								</li>
+								
+								<li>
+									<a class="dark-color parent" href="" title="Сервисы и услуги">
+										<span>Сервисы и услуги</span>
+										<span class="arrow">
+											<svg class="svg svg_triangle_right" width="3" height="5" viewBox="0 0 3 5">
+												<path data-name="Rectangle 323 copy 9" class="cls-1" d="M960,958v-5l3,2.514Z" transform="translate(-960 -953)"/>
+											</svg>
+										</span>
+									</a>
+									
+									<ul class="dropdown">
+										<li>
+											<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+												<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+											</svg>
+										</li>
+										<li class="menu_back">
+											<a href="" class="dark-color" rel="nofollow">
+												<svg class="svg svg-back" width="16" height="12" viewBox="0 0 16 12">
+													<path data-name="Rounded Rectangle 804" d="M998,953H986.4l3.313,3.286a1,1,0,0,1,0,1.414,0.99,0.99,0,0,1-1.407,0l-5.034-4.993a1,1,0,0,1,0-1.414l5.034-5.024a0.992,0.992,0,0,1,1.407,0,1.006,1.006,0,0,1,0,1.415L986.384,951H998A1,1,0,0,1,998,953Z" transform="translate(-983 -946)"></path>
+												</svg>
+												Назад
+											</a>
+										</li>
+										<li class="menu_title">
+											<a class="dark-color"  href="/uslugi/" >Сервисы и услуги</a>
+										</li>
+																																	<li>
+													<a class="dark-color" href="/uslugi/predostavlenie-pk-mc-slezhenie" title="Предоставление ПК «МЦ-Слежение»">
+														<span>Предоставление ПК «МЦ-Слежение»</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/uslugi/podklyuchenie-k-istochnikam-informacii" title="Подключение к источникам информации">
+														<span>Подключение к источникам информации</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/uslugi/tekhnologicheskaya-podderzhka" title="Технологическая поддержка">
+														<span>Технологическая поддержка</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/uslugi/razrabotka-novyh-programmnyh-reshenij" title="Разработка новых программных решений">
+														<span>Разработка новых программных решений</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/uslugi/tekhnicheskaya-podderzhka" title="Техническая поддержка">
+														<span>Техническая поддержка</span>
+													</a>
+												</li>
+																																												<li>
+													<a class="dark-color" href="/uslugi/optimizaciya-biznes-processov" title="Оптимизация бизнес-процессов">
+														<span>Оптимизация бизнес-процессов</span>
+													</a>
+												</li>
+																														</ul>
+								</li>
+								
+								<li>
+									<a class="dark-color"  href="/company/contacts"  title="Новости">
+										<span>Контакты</span>
+									</a>
+								</li>
+								
+								<li>
+									<a class="dark-color" href="https://redmine.mc-service.ru" target="_blank" title="Поддержка">
+										<span>Поддержка</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+						
+						<div class="actions"></div>
+						
+						<div class="contacts">
+							<div class="phones">
+								<ul>
+									<li>
+										<a href="tel:+74992644445" rel="nofollow" class="dark-color">
+											<i class="svg svg-phone"></i>
+											<span>+7 (499) 264 44 45</span>
+										</a>
+									</li>
+									<li class="opening_hours_mob">
+										<span>ПН-ПТ, 09:00-18:00</span>
+									</li>
+								</ul>
+							</div>
+
+							<div class="email">
+								<i class="svg svg-email"></i>
+								<a href="mailto:mcp@mc-service.ru" rel="nofollow">
+									<span>mcp@mc-service.ru</span>
+								</a>
+							</div>
+			
+							<div class="address">
+								<i class="svg svg-address"></i>
+								АО «МЦС ИНЖ»</br>г. Москва, 3-й Красносельский пер., 21с1, офис 519							</div>
+						</div>
+					
+						<div class="social-block">
+							<div class="social-icons">
+								<!-- noindex -->
+								<ul>
+									<li class="facebook">
+										<a href="https://www.facebook.com/MCserviceprogramm" target="_blank" rel="nofollow" title="Facebook">Facebook</a>
+									</li>
+									<li class="vk">
+										<a href="https://vk.com/public180272878" target="_blank" rel="nofollow" title="vkontakte">ВКонтакте</a>
+									</li>
+									<li class="instagram">
+										<a href="https://www.instagram.com/mcs_inzh/" target="_blank" rel="nofollow" title="Instagram">Instagram</a>
+									</li>
+																	</ul>
+								<!-- /noindex -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--end menu mob-->		
+<script>
+$(window).scroll(function(){
+	var $topMenu = $(window).scrollTop();
+		
+	if ($topMenu > 110) {
+		$('.header-v12').addClass('fixed');
+		//$('.logo_and_menu-row').addClass('fixed');
+	} else {
+		$('.header-v12').removeClass('fixed');
+		//$('.logo_and_menu-row').removeClass('fixed');
+	}
+});
+</script>
+
+	<div class="body index hover_">
+		<div class="body_media"></div>
+		
+			<div role="main" class="main banner-">
+<link rel="stylesheet" href="/mc-admin/services/include/assets/css/edit_modal.css" type="text/css">
+<script src="/mc-admin/services/include/assets/js/js.js"></script>
+<script src="/mc-admin/navli/include/assets/js/js.js"></script>
+
+
+<div class="select_tarif_overlay" style="display: none;">
+	<div class="select_tarif">
+		<a class="close"></a>
+		<form class="frmSelectTarif" method="post">
+		</form>
+	</div>
+</div>
+	<!--container-->
+	<div class="container ">
+		
+		<div class="drag-block container" data-class="BIG_BANNER_INDEX_drag" data-order="1">
+			
+						
+			<div class="banners-content">
+	<div class="maxwidth-banner main_banners" style="background: url('img/sl_main_2(2).png') 50% 50% no-repeat;">
+		<div class="row">
+			<div class="maxwidth-theme">
+				<div class="col-md-6 text animated delay06 duration08 item_block fadeInUp">
+					
+					<div class="hover_show_click">
+						<h1>
+							Автоматизируем бизнес-процессы железнодорожных грузоперевозчиков							</h1>
+											</div>
+					
+					<div class="intro-text hover_show_click">
+						<p>Слежение за вагонами и контейнерами онлайн</p>
+						 					</div>
+					
+					<script data-b24-form="click/16/c2imnq" data-skip-moving="true">
+						(function(w,d,u){
+						var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+						var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+						})(window,document,'https://cdn-ru.bitrix24.ru/b17477354/crm/form/loader_16.js');
+					</script>
+					<div class="buttons">
+						<a class="btn btn-default">
+							Записаться на презентацию
+						</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+			<div class="drag-block container" data-class="TOP_FLOAT_BANNERS_INDEX_drag" data-order="2">
+				
+				
+	<style>
+	#string .blick:after {
+		content: "";
+		position: absolute; 
+		top: 0; 
+		left: 0em;
+		width: 100%;
+		height: 100%;
+		background: linear-gradient(to left, rgba(255,255,255,.0), rgba(255,255,255,.8), rgba(255,255,255,.0)) no-repeat -2em 0%;
+		background-size: 2em 100%;
+		-moz-transform: skewX(-50deg);
+		-o-transform: skewX(-50deg);
+		-webkit-transform: skewX(-50deg);
+		transform: skewX(-50deg);
+	}
+	#string .blick.blink_on:after{
+		transition: 3.5s linear;
+		background-position: 130% 0%;
+	}
+	</style>
+
+<div id="fh5co-counter" class="fh5co-bg-section " >
+	<!--div class="fh5co-overlay"></div-->
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="col-md-12">
+				<div id="string" class="fh5co-hero-wrap">
+					<div class="fh5co-hero-intro text-center to-animate counter-animate blick">
+													<div class="col-md-4 text-center">
+								<!--span class="fh5co-counter-label">Более</span-->
+								<div class="hover_show_click tbl_row zindex">
+									<span class="fh5co-counter " data-from="20" >20</span>
+									<span class="fh5co-counter resp">+</span>
+																	</div>
+								<div class="hover_show_click tbl_row zindex">
+									<span class="fh5co-counter-label">лет на рынке</span>
+																	</div>
+							</div>
+													<div class="col-md-4 text-center">
+								<!--span class="fh5co-counter-label">Более</span-->
+								<div class="hover_show_click tbl_row zindex">
+									<span class="fh5co-counter " data-from="250" >250</span>
+									<span class="fh5co-counter resp">+</span>
+																	</div>
+								<div class="hover_show_click tbl_row zindex">
+									<span class="fh5co-counter-label">внедрений</span>
+																	</div>
+							</div>
+													<div class="col-md-4 text-center">
+								<!--span class="fh5co-counter-label">Более</span-->
+								<div class="hover_show_click tbl_row zindex">
+									<span class="fh5co-counter " data-from="500 000" >500 000</span>
+									<span class="fh5co-counter resp">+</span>
+																	</div>
+								<div class="hover_show_click tbl_row zindex">
+									<span class="fh5co-counter-label">вагонов на слежении</span>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+$(document).ready(function () {
+setInterval(function(){
+  $('#string .blick').addClass('blink_on');
+  setTimeout(function(){$('#string .blick').removeClass('blink_on')},3500);
+},4000)
+});
+</script>
+				
+				
+
+
+<div id="fh5co-products" class="color_fafafa" data-section="products">
+
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+				<div class="hover_show_click">
+					<h2 class="fh5co-lead animate-single product-animate-1">Наши продукты</h2>
+									</div>
+				<div class="hover_show_click">
+					<p class="fh5co-sub animate-single product-animate-2"></p>
+									</div>
+			</div>
+		
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a href="/projects/mc-slejenie" class="fh5co-figure to-animate image-popup fh5co_fix new_block_fh5co">
+						
+													<div class="fh5co-figure-lead">МЦ-Слежение</div>
+																			
+						<figure>
+							<img src="projects/images/first_block_r_mini.png" alt="" title="" class="img-responsive opcity_img">
+						</figure>
+						
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Автоматизация операций с вашими вагонами: дислокация, передислокация, заявки от клиентов, погрузки, ремонты, ТМЦ, взаиморасчеты с депо</p>
+													</div>
+						
+						
+						<div class="btn btn-default btn_about">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a href="/projects/mc-analytica" class="fh5co-figure to-animate image-popup fh5co_fix new_block_fh5co">
+						
+													<div class="fh5co-figure-lead">МЦ-Аналитика</div>
+																			
+						<figure>
+							<img src="projects/images/first_block_r_mini1.png" alt="" title="" class="img-responsive opcity_img">
+						</figure>
+						
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Гибкий инструмент для самостоятельного анализа показателей эффективности вашего бизнеса</p>
+													</div>
+						
+						
+						<div class="btn btn-default btn_about">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a href="/projects/mc-shluz" class="fh5co-figure to-animate image-popup fh5co_fix new_block_fh5co">
+						
+													<div class="fh5co-figure-lead">МЦ-Шлюз загрузки</div>
+																			
+						<figure>
+							<img src="projects/images/second_block_l_mini3.png" alt="" title="" class="img-responsive opcity_img">
+						</figure>
+						
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Автоматизация загрузки данных о вагонах из внешних систем (по принципу АСУ-АСУ): дислокация, пробег, ремонт, детали, паспорт. Подходит для вашей программы управления вагонами</p>
+													</div>
+						
+						
+						<div class="btn btn-default btn_about">Подробнее</div>
+
+					</a>
+					
+				</div>
+			
+			<div class="fh5co-spacer fh5co-spacer-sm"></div>
+
+					</div>
+	</div>
+   
+</div>				
+					
+
+
+
+
+
+
+
+<style>
+.block_bitrix24_call {
+	border: 4px solid #EB1B24;
+	position: relative;
+	width: 100%;
+	display: table;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	}
+.img_bitrix24_call {
+	width: 30%;
+	height: auto;
+    position: relative;
+    box-sizing: border-box;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	}
+.iteme_img_bitrix24_call {
+	width: 70%;
+    height: auto;
+    position: relative;
+    box-sizing: border-box;
+	}
+.txt_bitrix24_call {
+	margin-left: 40px;
+	max-width: 550px;
+	width: 100%;
+	height: auto;
+	text-align: left;
+	font-size: 26px;
+	line-height: 42px;
+	box-sizing: border-box;
+	display: table-cell;
+	vertical-align: middle;
+	}
+.btn_bitrix24_call {
+	margin-left: 40px;
+	max-width: 350px;
+	width: 100%;
+	height: auto;
+	text-align: left;
+	box-sizing: border-box;
+	display: table-cell;
+	vertical-align: middle;
+	}
+	
+@media (max-width: 1022px) {	
+	.iteme_img_bitrix24_call {
+		width: 90%;
+	}
+	.txt_bitrix24_call {
+		font-size: 23px;
+		line-height: 32px;
+	}
+}
+@media screen and (max-width: 979px) {
+	.img_bitrix24_call {
+		display: none;
+	}
+	.txt_bitrix24_call {
+		padding-left: 20px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.block_bitrix24_call {
+		float: left;
+		padding-top: 40px;
+	}
+	.img_bitrix24_call {
+		width: 20%;
+		display: table-cell;
+		vertical-align: middle;
+		float: left;
+	}
+	.txt_bitrix24_call {
+		max-width: 100%;
+		width: 80%;
+		margin-left: 0;
+		padding-top: 20px;
+		display: table-cell;
+		float: left;
+	}
+	.btn_bitrix24_call {
+		max-width: 100%;
+		width: 100%;
+		margin-left: 0;
+		text-align: center;
+		display: table;
+	}
+}
+@media screen and (max-width: 639px) {
+	.img_bitrix24_call {
+		display: none;
+	}
+	.txt_bitrix24_call {
+		max-width: 100%;
+		width: 100%;
+		padding-top: 0;
+	}
+}
+@media screen and (max-width: 479px) {
+	.block_bitrix24_call {
+		border: 2px solid #EB1B24;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.txt_bitrix24_call {
+		font-size: 18px;
+		line-height: 26px;
+	}
+}
+</style>
+		<div class="maxwidth-theme">
+			<div class="block_bitrix24_call">
+				<div class="img_bitrix24_call">
+					<img class='iteme_img_bitrix24_call' src='/include/imgBlockBitrix24Call/mc-slejenie.png' alt='МЦ-Слежение' title='МЦ-Слежение'>
+				</div>
+				<div class="txt_bitrix24_call">
+					<div class="mini hover_show_click">
+						Запишитесь на презентацию и получите бесплатный доступ к ПК «МЦ-Слежение» на 14 дней!											</div>
+				</div>
+				<div class="btn_bitrix24_call">
+					<script data-b24-form="inline/22/2ibml8" data-skip-moving="true">
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://cdn-ru.bitrix24.ru/b17477354/crm/form/loader_22.js');
+</script>				</div>
+			</div>
+		</div>
+				
+				<div class="maxwidth-theme">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center" style="width:80%;margin-top:50px;margin-bottom:0;">
+							<div class="hover_show_click">
+								<h2 class="fh5co-lead animate-single product-animate-1">О продуктах «МЦ-Слежение» и «МЦ-Аналитика»</h2>
+															</div>
+													</div>
+					</div>
+
+					<video controls poster="img/video_mc_poster.jpg" width="100%">
+					  <source src="img/video_mc.mp4" type="video/mp4">
+					  <object data="video.swf" type="application/x-shockwave-flash">
+						<param name="movie" value="video.swf">
+					  </object>
+					</video>
+				</div>
+				
+				 
+
+
+
+<div id="fh5co-products" data-section="products">
+
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+				<div class="hover_show_click">
+					<h2 class="fh5co-lead animate-single product-animate-1">Комплектации продуктов</h2>
+									</div>
+				<div class="hover_show_click">
+					<p class="fh5co-sub animate-single product-animate-2">Универсальность наших разработок удовлетворяет потребности самого взыскательного клиента. Многогранность системы позволяет найти решение для своего бизнеса перевозчикам, владельцам грузов и собственникам вагонов.</p>
+									</div>
+			</div>
+		
+							<div class="col-md-3 col-sm4-6 col-xs-6 col-xxs-12">
+					<a href="/solutions/transportnym-i-logisticheskim-kompaniyam" class="fh5co-figure to-animate image-popup fh5co_fix">
+						<figure>
+							<img src="img/img_for_clients_1.png" alt="Транспортным компаниям" title="Транспортным компаниям" class="img-responsive opcity_img">
+						</figure>
+						<div class="hover_show_click tbl_row">
+							<div class="fh5co-figure-lead">Транспортным и логистическим компаниям</div>
+													</div>
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Автоматизация компаний, управляющих вагонным парком. Отслеживание движения вагонов и контейнеров, автоматизация процессов взаимодействия с клиентами.</p>
+													</div>
+						
+						<div class="sp-fh5co-products">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm4-6 col-xs-6 col-xxs-12">
+					<a href="/solutions/transportnym-podrazdeleniyam-kompanij" class="fh5co-figure to-animate image-popup fh5co_fix">
+						<figure>
+							<img src="img/img_for_clients_2.png" alt="Грузоотправителям и Грузополучателям" title="Грузоотправителям и Грузополучателям" class="img-responsive opcity_img">
+						</figure>
+						<div class="hover_show_click tbl_row">
+							<div class="fh5co-figure-lead">Транспортным подразделениям компаний</div>
+													</div>
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Автоматизация управления перевозками и повышение эффективности работы подразделения как в процессе планирования, так и в процессе исполнения перевозок.</p>
+													</div>
+						
+						<div class="sp-fh5co-products">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm4-6 col-xs-6 col-xxs-12">
+					<a href="/solutions/lizingovym-kompaniyam" class="fh5co-figure to-animate image-popup fh5co_fix">
+						<figure>
+							<img src="img/img_for_clients_3.png" alt="Лизинговым компаниям" title="Лизинговым компаниям" class="img-responsive opcity_img">
+						</figure>
+						<div class="hover_show_click tbl_row">
+							<div class="fh5co-figure-lead">Лизинговым компаниям</div>
+													</div>
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Отслеживание дислокации и технического состояния вагонов. Выявление фактов нарушения лизинговых договоров. Анализ данных. Автоматизация процессов взаимодействия с клиентами.
+</p>
+													</div>
+						
+						<div class="sp-fh5co-products">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm4-6 col-xs-6 col-xxs-12">
+					<a href="/solutions/remontnym-predpriyatiyam" class="fh5co-figure to-animate image-popup fh5co_fix">
+						<figure>
+							<img src="img/img_for_clients_4.png" alt="Ремонтным предприятиям" title="Ремонтным предприятиям" class="img-responsive opcity_img">
+						</figure>
+						<div class="hover_show_click tbl_row">
+							<div class="fh5co-figure-lead">Ремонтным предприятиям</div>
+													</div>
+						<div class="hover_show_click tbl_row">
+							<p class="fh5co-figure-text">Прогнозирование загрузки и обеспечение четкой и слаженной работы депо. Повышение эффективности и улучшение финансовых показателей вагоноремонтного предприятия. </p>
+													</div>
+						
+						<div class="sp-fh5co-products">Подробнее</div>
+
+					</a>
+					
+				</div>
+			
+			
+					</div>
+	</div>
+   
+</div>				
+				 
+
+
+
+<div id="fh5co-features" data-section="features">
+
+	<div class="container">
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+				<div class="hover_show_click">
+					<h2 class="fh5co-lead to-animate">Наши преимущества</h2>
+									</div>
+				<div class="hover_show_click">	
+					<p class="fh5co-sub to-animate">Качественная автоматизация бизнес-процессов компании - это залог эффективности бизнеса и роста доходов.</b></p>
+									</div>
+			</div>
+			
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a class="fh5co-feature no-animate">
+						<span class="fh5co-feature-icon icon_advantage"><i class="icon_advantage_1" style="background-image: url(../img/icon/ico-1.png)"></i></span>
+						<div class="hover_show_click">
+							<div class="fh5co-feature-lead">Надежность решений</div>
+													</div>
+						<div class="hover_show_click">
+							<p class="fh5co-feature-text">Наша команда состоит из сертифицированных специалистов с  успешным опытом крупных промышленных внедрений. Благодаря богатому опыту мы, как никто другой, знаем цену ошибок, поэтому научились не допускать их.</p>
+													</div>
+					</a>
+				</div>
+				
+				<div class="clearfix visible-sm-block"></div>
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a class="fh5co-feature no-animate">
+						<span class="fh5co-feature-icon icon_advantage"><i class="icon_advantage_1" style="background-image: url(../img/icon/ico-2.png)"></i></span>
+						<div class="hover_show_click">
+							<div class="fh5co-feature-lead">Широкий профиль</div>
+													</div>
+						<div class="hover_show_click">
+							<p class="fh5co-feature-text">Мы разрабатываем самые сложные решения для автоматизации деятельности железнодорожных перевозчиков. Мы знаем, как правильно автоматизировать ваши бизнес-процессы и получить экономически целесообразное решение.</p>
+													</div>
+					</a>
+				</div>
+				
+				<div class="clearfix visible-sm-block"></div>
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a class="fh5co-feature no-animate">
+						<span class="fh5co-feature-icon icon_advantage"><i class="icon_advantage_1" style="background-image: url(../img/icon/ico-3.png)"></i></span>
+						<div class="hover_show_click">
+							<div class="fh5co-feature-lead">Гарантия качества</div>
+													</div>
+						<div class="hover_show_click">
+							<p class="fh5co-feature-text">Все наши решения прошли опытную эксплуатацию у самых требовательных клиентов. Приобретая наши продукты вы получаете качественное программное обеспечение и высококвалифицированную поддержку.</p>
+													</div>
+					</a>
+				</div>
+				
+				<div class="clearfix visible-sm-block"></div>
+						
+		</div>
+	</div>
+   </div>
+
+</div>				
+					
+
+
+
+
+
+
+
+<style>
+.block_bitrix24_call {
+	border: 4px solid #EB1B24;
+	position: relative;
+	width: 100%;
+	display: table;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	}
+.img_bitrix24_call {
+	width: 30%;
+	height: auto;
+    position: relative;
+    box-sizing: border-box;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	}
+.iteme_img_bitrix24_call {
+	width: 70%;
+    height: auto;
+    position: relative;
+    box-sizing: border-box;
+	}
+.txt_bitrix24_call {
+	margin-left: 40px;
+	max-width: 550px;
+	width: 100%;
+	height: auto;
+	text-align: left;
+	font-size: 26px;
+	line-height: 42px;
+	box-sizing: border-box;
+	display: table-cell;
+	vertical-align: middle;
+	}
+.btn_bitrix24_call {
+	margin-left: 40px;
+	max-width: 350px;
+	width: 100%;
+	height: auto;
+	text-align: left;
+	box-sizing: border-box;
+	display: table-cell;
+	vertical-align: middle;
+	}
+	
+@media (max-width: 1022px) {	
+	.iteme_img_bitrix24_call {
+		width: 90%;
+	}
+	.txt_bitrix24_call {
+		font-size: 23px;
+		line-height: 32px;
+	}
+}
+@media screen and (max-width: 979px) {
+	.img_bitrix24_call {
+		display: none;
+	}
+	.txt_bitrix24_call {
+		padding-left: 20px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.block_bitrix24_call {
+		float: left;
+		padding-top: 40px;
+	}
+	.img_bitrix24_call {
+		width: 20%;
+		display: table-cell;
+		vertical-align: middle;
+		float: left;
+	}
+	.txt_bitrix24_call {
+		max-width: 100%;
+		width: 80%;
+		margin-left: 0;
+		padding-top: 20px;
+		display: table-cell;
+		float: left;
+	}
+	.btn_bitrix24_call {
+		max-width: 100%;
+		width: 100%;
+		margin-left: 0;
+		text-align: center;
+		display: table;
+	}
+}
+@media screen and (max-width: 639px) {
+	.img_bitrix24_call {
+		display: none;
+	}
+	.txt_bitrix24_call {
+		max-width: 100%;
+		width: 100%;
+		padding-top: 0;
+	}
+}
+@media screen and (max-width: 479px) {
+	.block_bitrix24_call {
+		border: 2px solid #EB1B24;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+	.txt_bitrix24_call {
+		font-size: 18px;
+		line-height: 26px;
+	}
+}
+</style>
+		<div class="maxwidth-theme">
+			<div class="block_bitrix24_call">
+				<div class="img_bitrix24_call">
+					<img class='iteme_img_bitrix24_call' src='/include/imgBlockBitrix24Call/mc-slejenie.png' alt='МЦ-Слежение' title='МЦ-Аналитика'>
+				</div>
+				<div class="txt_bitrix24_call">
+					<div class="mini hover_show_click">
+						Отследите 10 вагонов бесплатно и попробуйте весь функционал системы!											</div>
+				</div>
+				<div class="btn_bitrix24_call">
+					<script data-b24-form="inline/24/6ixr65" data-skip-moving="true">
+(function(w,d,u){
+var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+})(window,document,'https://cdn-ru.bitrix24.ru/b17477354/crm/form/loader_24.js');
+</script>				</div>
+			</div>
+		</div>
+				
+				
+
+
+
+<div id="fh5co-products" class="color_fafafa offset_bottom" data-section="products">
+	<div class="maxwidth-theme">
+	
+		<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+			<div class="hover_show_click">
+				<h2 class="fh5co-lead animate-single product-animate-1">Наши сервисы и услуги</h2>
+							</div>
+			<div class="hover_show_click">
+				<p class="fh5co-sub animate-single product-animate-2"></p>
+							</div>
+		</div>
+	
+		<!--container tech-->
+												<div class="page_guide_help_show mnp_page"> 
+					<div class="content_page_about_project newTech">
+													<div class="block_white_about_project newTech">
+								<div class="img_white_about_project">
+																			<img class='iteme_img_white_about_project newTech' src='img/icon/icon_2.png' alt='' title=''>
+																	</div>
+								<div class="txt_white_about_project">
+																			<div class="hover_show_click">
+											<p class="title_newTech">Предоставление ПК «МЦ-Слежение»<p>
+																					</div>
+										<div class="mini hover_show_click">
+											<p class="text_newTech">Предлагаем варианты поставки комплекса для Заказчиков с вагонным парком любого масштаба.</p>
+																					</div>
+																															
+								</div>
+								<a href="/uslugi/predostavlenie-pk-mc-slezhenie">
+									<div class="btn btn-default btn_about btn_newTech">Подробнее</div>
+								</a>
+							</div>
+													<div class="block_white_about_project newTech">
+								<div class="img_white_about_project">
+																			<img class='iteme_img_white_about_project newTech' src='img/icon/icon_4.png' alt='' title=''>
+																	</div>
+								<div class="txt_white_about_project">
+																			<div class="hover_show_click">
+											<p class="title_newTech">Подключение к источникам информации<p>
+																					</div>
+										<div class="mini hover_show_click">
+											<p class="text_newTech">Производим интеграцию с системами ОАО "РЖД" и собственными источниками информации. </p>
+																					</div>
+																															
+								</div>
+								<a href="/uslugi/podklyuchenie-k-istochnikam-informacii">
+									<div class="btn btn-default btn_about btn_newTech">Подробнее</div>
+								</a>
+							</div>
+													<div class="block_white_about_project newTech">
+								<div class="img_white_about_project">
+																			<img class='iteme_img_white_about_project newTech' src='img/icon/icon_3.png' alt='' title=''>
+																	</div>
+								<div class="txt_white_about_project">
+																			<div class="hover_show_click">
+											<p class="title_newTech">Разработка новых программных решений<p>
+																					</div>
+										<div class="mini hover_show_click">
+											<p class="text_newTech">Разрабатываем программные продукты любой сложности для решения задач вашего бизнеса. </p>
+																					</div>
+																															
+								</div>
+								<a href="/uslugi/razrabotka-novyh-programmnyh-reshenij">
+									<div class="btn btn-default btn_about btn_newTech">Подробнее</div>
+								</a>
+							</div>
+						
+					</div>
+
+				</div> 					
+			<a href="/uslugi/">
+				<div class="btn btn-default btn_about btn_newTech_allWidth">Все сервисы и услуги</div>
+			</a>
+		
+				<!--end container tech-->
+		
+	</div>
+</div>				
+				<div class="drag-block container" data-class="NEWS_INDEX_drag" data-order="12">
+					<div class="ajax_reload"></div>
+				</div>
+				
+				 
+
+
+<!--container PARTNERS-->
+<div class="drag-block container" data-class="PARTNERS_INDEX_drag" data-order="13">
+	
+	<!--scroll container PARTNERS-->
+	<div class="item-views partners front blocks type_1 partners_scroll">
+		<div class="maxwidth-theme">
+			
+			<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+				<div class="hover_show_click">
+					<h2 class="fh5co-lead animate-single product-animate-1">Наши клиенты</h2>
+									</div>
+			</div>
+		
+			<div class="row">
+				<div class="col-md-12">
+										
+					<div class="flexslider unstyled row navigation-vcenter dark-nav" data-plugin-options='{"directionNav": true, "controlNav" :false, "animationLoop": true, "slideshow": false, "counts": [4, 3, 2, 1]}'>
+						<ul class="slides items">
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="https://npktrans.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/npk.png" alt="Новая перевозочная компания" title="Новая перевозочная компания" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="https://novotrans.com/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/nvt.png" alt="Новотранс" title="Новотранс" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="http://www.suek.ru" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/suek.png" alt="СУЭК" title="СУЭК" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="https://rntrans.rosneft.ru/about/Glance/OperationalStructure/Sbit/rntrans/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/rntrans.png" alt="РН-Транс" title="РН-Транс" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="http://www.tgk.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/tgk.png" alt="Трубная грузовая компания" title="Трубная грузовая компания" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="https://gtlk.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/gtlk.png" alt="ГТЛК" title="ГТЛК" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="http://veb-leasing.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/veb.png" alt="ВЭБ-лизинг" title="ВЭБ-лизинг" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="http://www.dvtg.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/dvtg.png" alt="ДВТГ" title="ДВТГ" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="https://impact-trans.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/impakt_trans.png" alt="ИМПАКТ-Транс" title="ИМПАКТ-Транс" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="https://www.ska.su/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/ska.png" alt="ТК СКА" title="Системы Консалтинга и Аутсорсинга" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="http://fintransgl.ru/" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/fintransgl.png" alt="Финтранс ГЛ" title="Финтранс ГЛ" />
+											</a>
+										</div>
+									</div>
+								</li>
+															<li class="item col-md-2 col-sm-4">
+									<div class="wrap" id="bx_565502798_72">
+										<div class="image">
+											<a href="http://tr-tech.ru" target="_blank">
+												<img class="img-responsive" src="/company/img/clients/tr_tech.png" alt="Транспортные Технологии" title="Транспортные Технологии" />
+											</a>
+										</div>
+									</div>
+								</li>
+													</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--end scroll container PARTNERS-->
+	
+</div>
+<!--end container PARTNERS-->				
+				
+
+
+<div id="fh5co-products" class="color_fafafa" data-section="products">
+
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+				<div class="hover_show_click">
+					<h2 class="fh5co-lead animate-single product-animate-1">Отзывы наших клиентов</h2>
+									</div>
+				<div class="hover_show_click">
+					<p class="fh5co-sub animate-single product-animate-2"></p>
+									</div>
+			</div>
+		
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a href="/company/reviews#ancor_5" class="fh5co-figure to-animate image-popup fh5co_fix new_block_fh5co">
+						
+													<div class="fh5co-figure-lead">Акционерное общество «РН-Транс»</div>
+																			
+						<figure>
+							<img src="company/img/clients/rntrans_128_128.png" alt="Отзыв РН-Транс о МЦ-Сервис Инжиниринг" title="Отзыв РН-Транс о МЦ-Сервис Инжиниринг" class="img-responsive opcity_img">
+						</figure>
+						
+													<p class="fh5co-figure-text">АО «МЦ-Сервис Инжиниринг» является деловым партнером АО «РН-Транс» с 2005 года. За прошедшее время компания успешно принимала участие в автоматизации производственных процессов, в настоящее время программный комплекс «МЦ-Слежение»...</p>
+																			
+						
+						<div class="btn btn-default btn_about">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a href="/company/reviews#ancor_2" class="fh5co-figure to-animate image-popup fh5co_fix new_block_fh5co">
+						
+													<div class="fh5co-figure-lead">АО Холдинговая компания «Новотранс»</div>
+																			
+						<figure>
+							<img src="company/img/clients/nvt_128_128.png" alt="Отзыв Новотранс о МЦ-Сервис Инжиниринг" title="Отзыв Новотранс о МЦ-Сервис Инжиниринг" class="img-responsive opcity_img">
+						</figure>
+						
+													<p class="fh5co-figure-text">Группа компаний Новотранс успешно сотрудничает с АО &laquo;МЦ-Сервис Инжиниринг&raquo;, в части автоматизации процесса управления ж.д. перевозками, с 2001 года. За время нашего сотрудничества компания зарекомендовала себя как надежный и квалифицированный партнер...</p>
+																			
+						
+						<div class="btn btn-default btn_about">Подробнее</div>
+
+					</a>
+					
+				</div>
+							<div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+					<a href="/company/reviews#ancor_1" class="fh5co-figure to-animate image-popup fh5co_fix new_block_fh5co">
+						
+													<div class="fh5co-figure-lead">ОАО «Новая перевозочная компания»</div>
+																			
+						<figure>
+							<img src="company/img/clients/npk_128_128.png" alt="Отзыв НПК о МЦ-Сервис Инжиниринг" title="Отзыв НПК о МЦ-Сервис Инжиниринг" class="img-responsive opcity_img">
+						</figure>
+						
+													<p class="fh5co-figure-text">АО «МЦ-Сервис Инжиниринг» является нашим партнером в области информационных технологий с 2010 года. Компания решает задачи по автоматизации производственной деятельности компаний-операторов подвижного состава, в том числе, в части взаиморасчётов...</p>
+																			
+						
+						<div class="btn btn-default btn_about">Подробнее</div>
+
+					</a>
+					
+				</div>
+			
+			<div class="fh5co-spacer fh5co-spacer-sm"></div>
+
+					</div>
+	</div>
+   
+</div>				
+				<div class="maxwidth-theme">
+					<noindex>
+<script data-b24-form="inline/8/0t98bm" data-skip-moving="true"> (function(w,d,u){ var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0); var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h); })(window,document,'https://cdn-ru.bitrix24.ru/b17477354/crm/form/loader_8.js'); </script>
+</noindex>				</div>
+		
+			</div>
+			
+		</div>
+		
+	</div>
+	<!--end container-->
+
+<!--footer-->
+<footer id="footer" class="footer-v1">
+	<div class="footer_top">
+		<div class="maxwidth-theme">
+			<div class="row">
+
+				<div class="col-md-2 col-sm-3">
+	
+	<div class="first_bottom_menu">
+		<div class="bottom-menu">
+			
+			<div class="items">
+				<div class="item">
+					<div class="title">
+						<a href="/projects/">Продукты</a>
+					</div>
+				</div>
+				
+				<div class="wrap">
+					<div class="item">
+						<div class="title">
+							<a href="/projects/mc-slejenie">МЦ-Слежение</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="title">
+							<a href="/projects/mc-analytica">МЦ-Аналитика</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="title">
+							<a href="/projects/mc-shluz">МЦ-Шлюз загрузки</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+</div>	
+				<div class="col-md-3 col-sm-3">
+	
+	<div class="second_bottom_menu">
+		<div class="bottom-menu">
+			
+			<div class="items">
+				<div class="item">
+					<div class="title">
+						<a href="/solutions/">Комплектации продуктов</a>
+					</div>
+				</div>
+				
+				<div class="wrap">
+																<div class="item">
+							<div class="title">
+								<a href="/solutions/transportnym-i-logisticheskim-kompaniyam">Транспортным и логистическим компаниям</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/solutions/transportnym-podrazdeleniyam-kompanij">Транспортным подразделениям компаний</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/solutions/lizingovym-kompaniyam">Лизинговым компаниям</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/solutions/remontnym-predpriyatiyam">Ремонтным предприятиям</a>
+							</div>
+						</div>
+														</div>
+				
+			</div>
+			
+		</div>
+	</div>
+	
+</div>				
+				<div class="col-md-3 col-sm-3">
+	
+	<div class="second_bottom_menu">
+		<div class="bottom-menu">
+			
+			<div class="items">
+				<div class="item">
+					<div class="title">
+						<a href="/uslugi/">Сервисы и услуги</a>
+					</div>
+				</div>
+				
+				<div class="wrap">
+																<div class="item">
+							<div class="title">
+								<a href="/uslugi/predostavlenie-pk-mc-slezhenie">Предоставление ПК «МЦ-Слежение»</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/uslugi/podklyuchenie-k-istochnikam-informacii">Подключение к источникам информации</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/uslugi/tekhnologicheskaya-podderzhka">Технологическая поддержка</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/uslugi/razrabotka-novyh-programmnyh-reshenij">Разработка новых программных решений</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/uslugi/tekhnicheskaya-podderzhka">Техническая поддержка</a>
+							</div>
+						</div>
+																					<div class="item">
+							<div class="title">
+								<a href="/uslugi/optimizaciya-biznes-processov">Оптимизация бизнес-процессов</a>
+							</div>
+						</div>
+														</div>
+				
+			</div>
+			
+		</div>
+	</div>
+	
+</div>				
+				<div class="col-md-2 col-sm-3">
+	
+	<div class="third_bottom_menu">
+		<div class="bottom-menu">
+			
+			<div class="items">
+				<div class="item">
+					<div class="title">
+						<a href="/company/">Компания</a>
+					</div>
+				</div>
+				
+				<div class="wrap">
+					<div class="item">
+						<div class="title">
+							<a href="/company/">О компании</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="title">
+							<a href="/company/clients">Клиенты</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="title">
+							<a href="/company/partners">Партнеры</a>
+						</div>
+					</div>
+					<div class="item">
+						<div class="title">
+							<a href="/company/reviews">Отзывы</a>
+						</div>
+					</div>
+										<div class="item">
+						<div class="title">
+							<a href="/news/">Новости</a>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+	</div>
+	
+</div>				
+				<div class="col-md-2 col-sm-3">
+	
+	<div class="fourth_bottom_menu">
+		<div class="bottom-menu second">
+			
+			<div class="items">
+				<div class="item">
+					<div class="title">
+						<a href="/company/contacts">Контакты</a>
+					</div>
+				</div>
+				<div class="item">
+					<div class="title">
+						<a href="https://redmine.mc-service.ru" rel="nofollow" target="_blank">Поддержка</a>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	
+</div>				
+								
+			</div>
+		</div>
+	</div>
+	
+	<div class="footer_middle contact-block">
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="info">
+				<div class="col-md-12 col-sm-12">
+					<div class="social-block">
+						<div class="contact_block_line">
+							<!-- noindex -->
+							<ul>
+								<li class="">
+									<div class="phone">
+										<div class="wrap">
+											<div>
+												<svg class="svg svg-phone white sm">
+												</svg>
+												<a href="tel:+74992644445" rel="nofollow">+7 (499) 264 44 45</a>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="">
+									<div class="email blocks">
+										<a href="mailto:mcp@mc-service.ru" rel="nofollow">
+											<span>mcp@mc-service.ru</span>
+										</a>
+									</div>
+								</li>
+								<li class="">
+									<div class="col-md-12 col-sm-12">
+										<div class="address blocks">
+											г. Москва, 3-й Красносельский пер., 21с1, офис 519										</div>
+									</div>
+								</li>
+							</ul>
+							<!-- /noindex -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	
+	<div class="footer_middle">
+		<div class="maxwidth-theme">
+			<div class="row">
+				<div class="col-md-12 col-sm-12">
+					<div class="social-block">
+						<div class="social-icons">
+							<!-- noindex -->
+							<ul>
+								<li class="facebook">
+									<a href="https://www.facebook.com/MCserviceprogramm" target="_blank" rel="nofollow" title="Facebook">Facebook</a>
+								</li>
+								<li class="vk">
+									<a href="https://vk.com/public180272878" target="_blank" rel="nofollow" title="vkontakte">ВКонтакте</a>
+								</li>
+								<li class="instagram">
+									<a href="https://www.instagram.com/mcs_inzh/" target="_blank" rel="nofollow" title="Instagram">Instagram</a>
+								</li>
+															</ul>
+							<!-- /noindex -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<div class="footer_bottom">
+	<div class="maxwidth-theme">
+		<div class="row">
+			<div class="link_block col-md-6 col-sm-6 pull-right">
+				<div class="pull-right">
+					<div class="confidentiality">
+						<a href="/company/licenses">Соглашение на обработку персональных данных</a></br>
+						<a href="/company/polices">Политика конфиденциальности</a>
+					</div>
+				</div>
+			</div>
+			<div class="copy-block col-md-6 col-sm-6 pull-left">
+				<div class="copy font_xs pull-left">
+					&copy; 2022 АО «МЦС ИНЖ». Все права защищены.
+				</div>
+				<div id="bx-composite-banner" class="pull-left"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</footer>
+<!--end footer-->
+
+
+<div class="bx_areas"></div>
+
+
+<div class="inline-search-block fixed with-close big">
+	<div class="maxwidth-theme">
+		<div class="search-wrapper">
+			<div id="title-search">
+				<form action="/search/" class="search">
+					<div class="search-input-div">
+						<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Найти" size="40" maxlength="50" autocomplete="off" />
+					</div>
+					<div class="search-button-div">
+						<button class="btn btn-search btn-default btn-lg" type="submit" name="s" value="Найти">Найти</button>
+						<span class="close-block inline-search-hide">
+							<span class="svg svg-close close-icons">
+								<svg class="svg svg-close" width="14" height="14" viewBox="0 0 14 14">
+									<path data-name="Rounded Rectangle 568 copy 16" class="cls-1" d="M1009.4,953l5.32,5.315a0.987,0.987,0,0,1,0,1.4,1,1,0,0,1-1.41,0L1008,954.4l-5.32,5.315a0.991,0.991,0,0,1-1.4-1.4L1006.6,953l-5.32-5.315a0.991,0.991,0,0,1,1.4-1.4l5.32,5.315,5.31-5.315a1,1,0,0,1,1.41,0,0.987,0.987,0,0,1,0,1.4Z" transform="translate(-1001 -946)"></path>
+								</svg>
+							</span>
+						</span>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript" src="/js/kernel_main_coverage_v1.js"></script> 
+
+
+<script type="text/javascript" src="/js/template_coverage/template_coverage_1_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_2_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_3_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_4_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_5_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_6_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_7_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_8_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_9_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_10_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_11_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_12_v1.js"></script>
+<script type="text/javascript" src="/js/template_coverage/template_coverage_v1.js"></script>
+
+
+<!-- noindex -->
+<div class="ajax_basket"></div>
+<!-- /noindex -->
+
+		
+		
+		</div>
+	</div>
+<script src="/js/pass/hideShowPassword_v1.js"></script>
+</body>
+</html>

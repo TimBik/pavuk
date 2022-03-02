@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+<title>Автоматизация ресторана и кафе: программы для кафе, баров, ресторанов - iiko.ru</title>
+<meta name="description" content="Компания iiko предлагает автоматизацию ресторанов, кафе, баров под ключ. Онлайн программа для учета и автоматизации деятельности ресторанов и кафе. Остались вопросы? Обращайтесь по телефону: iiko +7 (495) 215-22-00" />
+<meta name="keywords" content="айко автоматизация ресторана система управления для общепита программы по для ресторанов" />
+<base href="https://iiko.ru/" />
+<link rel="icon" type="image/x-icon" href="favicon.ico" />
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+	<link href="/assets/stylesheets/s.css?v=1611481591" rel="stylesheet" type="text/css" />
+<script src="/assets/javascripts/lib/modernizr.min.js?v=1527679738" type="text/javascript"></script>
+<script src="/assets/javascripts/lib/jquery-1.9.2.js?v=1445948329" type="text/javascript"></script>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="//api-maps.yandex.ru/2.1/?lang=ru_RU" async></script>
+<link rel="alternate" type="application/rss+xml" title="RSS-лента iiko — автоматизация ресторанов, баров, столовых" href="feed.rss">
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1243266835721468'); 
+fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+<meta name="facebook-domain-verification" content="0vfscz6mi9sam4pkyw03o2a3nu4flo" />
+<meta name="yandex-verification" content="3c838dbb96328548" />
+<meta name="google-site-verification" content="GZs1VyuEMiD8FtwN4LfmPbUbGA8zXO6yfCed-4qldzk" />
+<link href="/assets/stylesheets/fontsgoogleapis.css?v=1527680110" rel="stylesheet" type="text/css" />
+
+
+
+<!-- This site is optimized with the Sterc seoPro plugin 1.0.3 - http://www.sterc.nl/modx/seopro -->
+<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css" />
+</head>
+<body>
+    <div class="wrapperCookie" style="background:#eaeaea;position:fixed;bottom:0px;width:100%;z-index:100;">
+                <div class="holder">
+                        <div class="row">
+                                <div class="col-md-12" style="position:relative;padding:10px 0px;">
+                                        <p style="font-size:12px;padding-right:10%;line-height:1.5">Мы используем cookie-файлы, чтобы получать статистику, которая помогает показывать вам самые интересные и выгодные предложения. Вы можете отключить cookie-файлы в настройках. Продолжая пользоваться сайтом без изменения настроек, вы даете согласие на использование ваших cookie-файлов. Всегда рады видеть вас на нашем сайте!</p>
+                                        <a href="javascript://" style="position:absolute;top:15px;right:5px;padding:5px 25px;border:1px solid #000;border-radius:8px;text-transform:uppercase;">ok</a>
+                                </div>
+                        </div>
+                </div>
+        </div>
+<div class="wrapper" id="js__wrapper">
+    
+    <header class="header new-header">
+        <div class="holder">
+            <a class="logo" href="/">iiko</a>
+            
+            <div class="phone">
+                <p><a href="tel:+74952152200">+7 495 215 22 00</a></p>
+                
+                <p><a href="#" class="callback_link" id="header_callback_link">Заказать обратный звонок</a></p>
+            </div>
+            
+            <a class="button" href="https://form.iiko.ru/"><span class="button-in">Купить</span></a>
+        </div>
+        
+        <div class="menu" id="js__menu">
+          <div class="menu-block menu-block_left">
+            <a class="menu-item menu-item_6 " href="solutions"><span class="menu-item-in" title="Решения">Решения</span></a>
+            <ul class="menu-sub"><li class="first"><a href="solutions/avtomatizacia-dostavki" title="Доставка готовых блюд" >Доставка<br>готовых блюд</a></li>
+<li><a href="solutions/sistema-avtomatizacii-stolovoy" title="Столовая на предприятии или в бизнес-центре" >Корпоративное <br> питание</a></li>
+<li><a href="solutions/sistema-avtomatizacii-fast-fooda" title="Ресторан с быстрым обслуживанием" >Ресторан с быстрым <br>обслуживанием</a></li>
+<li><a href="solutions/iikorms-tableservice" title="Ресторан с обслуживанием у столиков" >Ресторан с обслу-<br>живанием у столов</a></li>
+<li><a href="solutions/sistema-avtomatizacii-café" title="Кафе, кофейня, фудтрак" >Кафе,<br>кофейня, бар</a></li>
+<li><a href="solutions/sistema-avtomatizacii-restorana" title="Управление сетью ресторанов" >Управление сетью<br>ресторанов</a></li>
+<li class="last"><a href="solutions/products/price" title="Продукты и цены" >Продукты<br/>и цены &rarr;</a></li>
+</ul>
+            <a class="menu-item menu-item_1 " href="solutions/products/price"><span class="menu-item-in" title="Цены">Цены</span></a>
+            <a class="menu-item menu-item_2 " href="support"><span class="menu-item-in" title="Поддержка">Поддержка</span></a>
+            <a class="menu-item menu-item_3 " href="about/about-us"><span class="menu-item-in" title="Компания">Компания</span></a>
+            <a class="menu-item menu-item_4 " href="contacts"><span class="menu-item-in" title="Контакты">Контакты</span></a>
+            <a class="menu-item menu-item_5 " href="clients"><span class="menu-item-in" title="Клиенты">Клиенты</span></a>
+            <a class="menu-item menu-item_7 " href="https://blog.iiko.ru/"><span class="menu-item-in" title="Блог">Блог</span></a>
+          </div>
+        </div>
+        
+        <a class="menu-link js__toggler" href="#js__menu"></a>
+    </header>
+    <div class="splash splash-slider js__crsl" data-slider-vert="1">
+    <div class="splash-slider-container js__crsl-items">
+        <div class="splash-slider-list js__crsl-list">
+		  <div class="splash-slider-item js__crsl-item" style="background-image: url(assets/images/data/new3.jpg); background-color: #ff4137;">
+  <div class="holder">
+	<div class="carouselItemDesc">
+		<div class="splash-icon">
+	  	<img alt="" src="assets/images/data/icon_splash.png">
+		</div>
+		<p class="h1 splash-title"><br>Начнем с техкарт</p>
+		<p class="splash-desc">Бесплатный инструмент для проработки и пересчета техкарт</p>
+		<a class="button " href="https://my.iiko.ru/iiko4free"><span class="button-in">Подробнее</span></a>
+		
+	</div>
+	<div class="carouselPromoVideo">
+	<iframe width="756" height="425" src="" style="border:0" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+<div class="splash-slider-item js__crsl-item" style="background-image: url(assets/images/bg_splash-0.jpg); background-color: #ff4137;">
+  <div class="holder">
+	<div class="carouselItemDesc">
+		<div class="splash-icon">
+	  	<img alt="" src="assets/images/data/icon_splash.png">
+		</div>
+		<p class="h1 splash-title"><br>Почему iiko?</p>
+		<p class="splash-desc">Чем iiko отличается от других<br>систем автоматизации</p>
+		
+		<a class="button " href="#showPromoVideo"><span class="button-in">Подробнее</span></a>
+		
+		
+	</div>
+	<div class="carouselPromoVideo">
+	<iframe width="756" height="425" src="https://www.youtube.com/embed/e-whsotiZaE" style="border:0" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+<div class="splash-slider-item js__crsl-item" style="background-image: url(assets/images/bg_splash-11.jpg); background-color: #ff4137;">
+  <div class="holder">
+	<div class="carouselItemDesc">
+		<div class="splash-icon">
+	  	<img alt="" src="assets/images/data/icon_splash.png">
+		</div>
+		<p class="h1 splash-title"><br>iikoDarkKitchen Start</p>
+		<p class="splash-desc">Все, что вам нужно для запуска сервиса по доставке еды</p>
+		<a class="button " href="https://form.iiko.ru/iikodarkkitchen-start"><span class="button-in">Подробнее</span></a>
+		
+	</div>
+	<div class="carouselPromoVideo">
+	<iframe width="756" height="425" src="" style="border:0" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+<div class="splash-slider-item js__crsl-item" style="background-image: url(assets/images/bg_splash-13.jpg); background-color: #ff4137;">
+  <div class="holder">
+	<div class="carouselItemDesc">
+		<div class="splash-icon">
+	  	<img alt="" src="assets/images/data/icon_splash.png">
+		</div>
+		<p class="h1 splash-title"><br>Магазин приложений для iiko</p>
+		<p class="splash-desc">Аналитика на устройствах iOS и Android, сервисы бронирования столиков и многое другое</p>
+		<a class="button " href="https://store.iiko.ru/"><span class="button-in">Подробнее</span></a>
+		
+	</div>
+	<div class="carouselPromoVideo">
+	<iframe width="756" height="425" src="" style="border:0" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+        </div>
+        <div class="splash-slider-dots-box">
+            <div class="splash-slider-dots js__crsl-dots">
+                <a class="splash-slider-dot-item js__crsl-dot is__active" href="#">1</a>
+                <a class="splash-slider-dot-item js__crsl-dot" href="#">2</a>
+                <a class="splash-slider-dot-item js__crsl-dot" href="#">3</a>
+                <a class="splash-slider-dot-item js__crsl-dot" href="#">4</a>
+           
+            </div>
+        </div>
+    </div>		
+</div>
+<div class="event">
+    <div class="event_date_cheker">
+        <div class="event-table">
+    	    <div class="event-date">
+    	        16 Февраля
+            </div>
+            <div class="event-desc">
+                <a href="about/news/kak-polzovatsya-shablonami-chekov-v-restorane.html" style="color:#555;font-weight: bold;">
+                    Как пользоваться шаблонами чеков в ресторане  &nbsp;>>>
+                </a>
+                
+            </div>
+	   </div>
+    </div>
+</div>
+
+<div class="sols">
+    <p class="h1">Решение для вашего бизнеса от 1 490 рублей в месяц</p>
+    <div class="holder">
+	    <div class="sols-list">
+	  <a class="sol" href="solutions/avtomatizacia-dostavki">
+  <i class="sol-icon"><img src="./assets/images/data/index-delivery.png" alt="Доставка готовых блюд" /></i>
+  <p class="sol-title">Доставка готовых блюд</p>
+  <p class="sol-desc">iiko помогает обеспечить четкое выполнение стандартов на всех участках бизнеса и организовать эффективную работу всех подразделений, экономя каждую секунду и не допуская ошибок.</p>
+</a>
+<a class="sol" href="solutions/sistema-avtomatizacii-stolovoy">
+  <i class="sol-icon"><img src="./assets/images/data/index-corporate.png" alt="Столовая на предприятии или в бизнес-центре" /></i>
+  <p class="sol-title">Столовая на предприятии или в бизнес-центре</p>
+  <p class="sol-desc">iiko поможет наладить эффективную работу столовой на предприятии или в бизнес-центре. К вашим услугам удобные инструменты для организации питания сотрудников: депозитные счета, учет денежных и продуктовых компенсаций и многое другое.</p>
+</a>
+<a class="sol" href="solutions/sistema-avtomatizacii-fast-fooda">
+  <i class="sol-icon"><img src="./assets/images/data/index-fastfood.png" alt="Ресторан с быстрым обслуживанием" /></i>
+  <p class="sol-title">Ресторан с быстрым обслуживанием</p>
+  <p class="sol-desc">С iiko вы сможете успешно сочетать в вашем ресторане высокую скорость обслуживания с индивидуальным подходом к каждому гостю. Система обеспечит точную и безошибочную работу персонала, а вы сможете полностью контролировать бизнес.</p>
+</a>
+<a class="sol" href="solutions/iikorms-tableservice">
+  <i class="sol-icon"><img src="./assets/images/data/index-table-serving.png" alt="Ресторан с обслуживанием у столиков" /></i>
+  <p class="sol-title">Ресторан с обслуживанием у столиков</p>
+  <p class="sol-desc">iiko помогает построить прозрачный бизнес, который приносит больше прибыли. Мотивированная команда, эффективная кухня, довольные гости – теперь вы можете уделять больше времени развитию компании</p>
+</a>
+<a class="sol" href="solutions/sistema-avtomatizacii-café">
+  <i class="sol-icon"><img src="./assets/images/data/index-bar.png" alt="Кафе, кофейня, фудтрак" /></i>
+  <p class="sol-title">Кафе, кофейня, фудтрак</p>
+  <p class="sol-desc">Если вы открываете небольшую кофейню с одной кассой, вам идеально подходит облачное решение iikoCloud Start. Чтобы окупить платеж за аренду программы, вам надо продать в день всего одну чашку кофе!</p>
+</a>
+<a class="sol" href="solutions/sistema-avtomatizacii-restorana">
+  <i class="sol-icon"><img src="./assets/images/data/index-chain.png" alt="Управление сетью ресторанов" /></i>
+  <p class="sol-title">Управление сетью ресторанов</p>
+  <p class="sol-desc">iiko позволяет управлять бизнесом любого размера – все данные о движении товаров и денег доступны в режиме онлайн даже для огромной сети с собственными фабриками-кухнями и несколькими сотнями ресторанов, включая заведения франчайзи.</p>
+</a>
+        </div>
+    </div>
+</div>
+<div class="distinctions">
+  <div class="holder">
+	<p class="h1">Чем iiko отличается от других систем автоматизации ресторанов?</p>
+
+	<div class="dist-item">
+    <p class="dist-item-img"><img src="assets/images/news/ai.png" alt="Технологии искусственного интеллекта"></p>
+    <p class="dist-item-title">Технологии искусственного интеллекта</p>
+    <p class="dist-item-desc">Для решения ваших ежедневных задач и планирования бизнеса в iiko используется искусственный интеллект. Теперь у вас будет еще больше времени для гостей и развития бизнеса!</p>
+</div>
+
+<div class="dist-item">
+    <p class="dist-item-img"><img src="assets/images/news/iiko-all-in-one.png" alt="Все инструменты управления рестораном из коробки"></p>
+    <p class="dist-item-title">Все инструменты управления рестораном «из коробки»</p>
+    <p class="dist-item-desc">iiko – единая система для управления продажами, складом, кухней, доставкой, персоналом, финансами, поставщиками, лояльностью гостей – всеми процессами в ресторане.</p>
+</div>
+
+<div class="dist-item">
+    <p class="dist-item-img"><img src="assets/images/news/iiko-online.png" alt="Информация о бизнесе в режиме онлайн"></p>
+    <p class="dist-item-title">Информация о бизнесе в режиме онлайн</p>
+    <p class="dist-item-desc">Поскольку все данные обрабатываются в единой системе, информация о выручке, себестоимости, остатках на складах, а также финансовые отчеты и все действия сотрудников видны в реальном времени.</p>
+</div>
+
+<div class="dist-item">
+    <p class="dist-item-img"><img src="assets/images/news/iiko-network.png" alt="Управление ресторанными сетями"></p>
+    <p class="dist-item-title">Управление ресторанными сетями</p>
+    <p class="dist-item-desc">С помощью iiko вы можете централизованно управлять политикой, стандартами, персоналом, закупками, производством и маркетингом вашей компании, а также регулировать деятельность франчайзи.</p>
+</div>
+
+<div class="dist-item">
+    <p class="dist-item-img"><img src="assets/images/news/iikoapi.png" alt="Возможность создания собственных приложений"></p>
+    <p class="dist-item-title">Возможность создания собственных приложений</p>
+    <p class="dist-item-desc">Благодаря iikoAPI вы можете легко подключить к системе дополнительные модули, в том числе и те, что разработаны специально для вас.</p>
+</div>
+
+<div class="dist-item">
+    <p class="dist-item-img"><img src="assets/images/news/iikocloud.png" alt="iiko может быть установлена как в облаке так и локально"></p>
+    <p class="dist-item-title">iiko может быть установлена как в «облаке», так и локально</p>
+    <p class="dist-item-desc">Вы можете выбрать для себя удобный формат использования системы и решить, будете ли вы инвестировать средства в приобретение лицензий или предпочтете аренду.</p>
+</div>
+	
+	<p class="h2">Попробуйте iiko, и вы удивитесь, что когда-то могли работать иначе! :)</p> 
+<p>
+    <a class="button" href="https://form.iiko.ru"><span class="button-in">Подключить iiko</span></a>
+</p>
+  </div>
+</div>
+
+
+<div class="section section_clients">
+  <div class="clients js__crsl">
+	<div class="clients-splash">
+	  <div class="holder">
+		<p class="counter-alive">43852</p>
+	    <p class="clients-countries">
+
+
+
+ресторана сейчас используют iiko в 51 стране мира</p>
+	    
+		<!--div class="clients-counter counter">
+		  <span class="counter-digit">2</span>
+		  <span class="counter-digit">4</span>
+		  <span class="counter-digit">5</span>
+		  <span class="counter-digit">0</span>
+		  <span class="counter-digit">0</span>
+		</div-->
+	  </div>
+	</div>
+	<div class="clients-wrapper js__crsl-items">
+	 
+	  <div class="clients-list-wrapper">
+		<div class="clients-list js__crsl-list">
+		  
+		  <div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/C5tN7paZUxQ" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/e9QMOSRFfwk" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/cQ9lXh1icmE" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/3xwTSYlHz2Y" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/U2JTkAgp8oI" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/0v4R50l3utA" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/aXzb1cVJ23w" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/75EaUntDrWU" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/H5HuLHWRmNk" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/IzaYAIKnkq0" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/aP6QX4lrGiU" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/rAqVIykyCF8" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/oE0iUcIyblo" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/5X5X3Z1SpFI" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/I0F6ZLkFATg" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/JjAsJllElHQ" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/MSmN0ZAof3g" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/z-XQ6T6HWT0" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/53cExxcEeKs" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/s2ULLXwCGGk" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/paWHhNPRl-w" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/GZX49D-Shak" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/lB90eyF0lNk" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/qeU1NAjkWHk" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/PHUr8jgdwI8" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/WwtPZLV8n_Q" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+<div class="client js__crsl-item">
+  <div class="holder">
+    <div class="opinionVideo">
+	    <iframe width="840" height="473" src="https://www.youtube.com/embed/v5CnPPJZH9A" style="border:0" allowfullscreen></iframe>
+	</div>
+
+  </div>
+</div>
+		  
+		</div>
+	  </div>
+	  <div class="clients-switcher">
+		<div class="clients-preview-list js__crsl-dots">
+		  <div class="clients-preview-list-in js__crsl-dots-in">
+			<a class="client-preview js__crsl-dot is__active" href="#">
+    <img src="assets/images/news/yobidoyobi.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/mnogo.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/lambic.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/speelo1.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/free.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/eatmarket.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/bm.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/kran.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/rt.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/7_papa-johns.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/8_profsouz.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/6_coffeelike.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/zames.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/cf.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/a_pravda.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/Coffee_bean.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/worlds.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/zurzum.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/BeerKot.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/zamania.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/tashir.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/myasoroob.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/news/cd.jpg" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/chest.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/dumdum.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/orang3.png" alt="" />
+</a>
+<a class="client-preview js__crsl-dot " href="#">
+    <img src="assets/images/data/clients/mgrillcafe.png" alt="" />
+</a>
+			
+		  </div>
+		</div>
+	  </div>
+	</div>
+
+  <div class="facts">
+  <div class="holder">
+	<h1 class="h1 facts-title">Компания «Айко»</h1>
+	<p class="facts-desc">У нас интересная работа, замечательные клиенты и отличная команда. Мы вместе делаем лучший в мире софт для автоматизации ресторанов.</p>
+	<div class="facts-list">
+
+		<div class="fact">
+    <p class="h2 fact-title"><strong class="fact-digit">280</strong>сотрудников</p>
+    <div class="fact-desc">работают в офисах iiko в Москве, Казани, Лондоне, Дубае, Милане</div>
+    <a class="button " href="about/job#job"><span class="button-in">Вакансии</span></a>
+</div>
+<div class="fact">
+    <p class="h2 fact-title"><strong class="fact-digit">43852</strong>
+
+
+
+ресторана</p>
+    <div class="fact-desc">сейчас работают с iiko в 51 стране мира</div>
+    <a class="button " href="clients"><span class="button-in">Кто они?</span></a>
+</div>
+<div class="fact">
+    <p class="h2 fact-title"><strong class="fact-digit">250+</strong>приложений</p>
+    <div class="fact-desc">создано нашими партнерами на платформе iiko</div>
+    <a class="button " href="http://api.iiko.ru"><span class="button-in">Создать приложение</span></a>
+</div>
+<div class="fact">
+    <p class="h2 fact-title"><strong class="fact-digit">15913</strong>ресторанов</p>
+    <div class="fact-desc">выбрали iiko для управления бизнесом <br> в 2021 году</div>
+    <a class="button " href=""><span class="button-in">Отзывы</span></a>
+</div>
+<div class="fact">
+    <p class="h2 fact-title"><strong class="fact-digit">2</strong>раза в месяц</p>
+    <div class="fact-desc">в iiko появляются обновления</div>
+    <a class="button " href="https://ru.iiko.help/articles/#!releasenotes/releasenotes"><span class="button-in">Новые возможности</span></a>
+</div>
+<div class="fact">
+    <p class="h2 fact-title"><strong class="fact-digit">400+</strong>партнеров</p>
+    <div class="fact-desc">распространяют продукты iiko в мире</div>
+    <a class="button " href="https://partners.iiko.ru"><span class="button-in">Стать партнером</span></a>
+</div>
+
+	</div>
+  </div>
+</div>
+
+  </div>
+</div>
+<div class="email-subscription">
+    <div class="holder">
+        <form action="//iiko.us9.list-manage.com/subscribe/post?u=d49a9986c53190742774cd91f&amp;id=53bce0466f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"  target="_blank" class="mailing">
+            <label for="mce-EMAIL">Подписывайтесь на наши новости</label>
+            <input name="EMAIL" class="mailing-input" placeholder="E-mail" type="text" id="mce-EMAIL">
+            <label class="mailing-checkbox" for="chkAgreement">
+                <input required="" name="agreement" class="form-checkbox" type="checkbox" value="да" id="chkAgreement"> Я даю согласие на <a class="" href="agreement.html" target="_blank">обработку своих персональных данных</a><br>
+<a href="/privacy.html" class="" target="_blank">Политика конфиденциальности</a>
+            </label>
+            <button class="button" type="submit" name="subscribe" id="mc-embedded-subscribe">
+                <span class="button-in">Подписаться</span>
+            </button>
+            
+    		<div id="mce-responses" class="clear">
+    			<div class="response" id="mce-error-response" style="display:none"></div>
+    			<div class="response" id="mce-success-response" style="display:none"></div>
+    		</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->					
+        </form>
+    </div>
+</div>
+    <footer class="footer">
+    <div class="footer-additional">
+        <div class="holder">
+            <div class="footer-link-section">
+                <p class="footer-link-section-main">
+                    <a href="solutions">Решения</a>
+                </p>
+                <ul>
+                    <li><a href="solutions/iikorms-tableservice">Ресторан с обслуживанием у столиков</a></li>
+                    <li><a href="solutions/sistema-avtomatizacii-fast-fooda">Ресторан с быстрым обслуживанием</a></li>
+                    <li><a href="solutions/sistema-avtomatizacii-café">Небольшое заведение</a></li>
+                    <li><a href="solutions/avtomatizacia-dostavki">Служба доставки</a></li>
+                    <li><a href="solutions/sistema-avtomatizacii-stolovoy">Корпоративное питание</a></li>
+                    <li><a href="solutions/sistema-avtomatizacii-restorana">Сеть ресторанов</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-link-section">
+                <p class="footer-link-section-main">
+                    <a href="solutions/products/">Цены</a>
+                </p>
+                <ul>
+                    <li><a href="solutions/products/">iiko</a></li>
+                    
+                    <li><a href="https://iiko.ru/assets/data/prices/iiko-pricelist-lifetime-2022.pdf">Прайс-лист</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-link-section">
+                <p class="footer-link-section-main">
+                    <a href="support">Поддержка</a>
+                </p>
+                <ul>
+                    <li><a href="https://ru.iiko.help">Документация iiko</a></li>
+                    <li><a href="support/learn-iiko/online-video-course.html">Обучающие видео и записи вебинаров</a></li>
+                    <li><a href="support/faq.html">ЧаВо</a></li>
+                    <li><a href="https://api.iiko.ru/">Интеграция приложений</a></li>                    
+                </ul>
+            </div>
+
+            <div class="footer-link-section">
+                <p class="footer-link-section-main">
+                    <a href="about/about-us">Компания</a>
+                </p>
+                <ul>
+                    <li><a href="about/news">Новости и мероприятия</a></li>
+                    <li><a href="about/about-us">О нас</a></li>
+                    <li><a href="about/team.html">Ключевые сотрудники</a></li>
+                    <li><a href="about/iiko-in-your-restaurant">Как мы работаем</a></li>
+                    <li><a href="https://hh.ru/employer/76650">Работа в iiko</a></li>                    
+                </ul>
+            </div>
+
+            <div class="footer-link-section">
+                <p class="footer-link-section-main">
+                    <a href="clients">Клиенты</a>
+                </p>
+                <ul>
+                    <li><a href="clients">Кто они?</a></li>
+                    <li><a href="">Отзывы об iiko</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-link-section">
+                <p class="footer-link-section-main">
+                    <a href="contacts">Контакты</a>
+                </p>
+                <ul>
+                    <li><a href="contacts">Связаться с iiko</a></li>
+                    <li><a href="https://partners.iiko.ru/">Для партнеров</a></li>
+                    <li><a href="https://api.iiko.ru/">Для разработчиков</a></li>                    
+                </ul>
+            </div>
+
+            
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <div class="holder">
+            <div class="footer-social">
+                <a class="fsocial-item fsocial-item_fb" href="https://www.facebook.com/iiko.russia" title="Facebook"></a>
+                <a class="fsocial-item fsocial-item_vk" href="http://vk.com/public37827654" title="Vk"></a>
+                <a class="fsocial-item fsocial-item_yt" href="https://www.youtube.com/user/iikoAds/featured" title="Youtube"></a>
+
+                <a class="fsocial-item fsocial-item_ig" href="https://www.instagram.com/iiko_russia/" title="Instagram"></a>
+
+            </div>
+            <div class="footer-copy">© 2022 Компания Айко</div>
+            <div class="footer-rekv"><a href="rekvizity" target="_blank">Реквизиты АО «Айко»</a></div>
+            <div class="footer-devby">
+                <a href="/privacy.html" target="_blank">Политика конфиденциальности</a>
+            </div>
+            <div class="footer-oferta">
+                <a href="oferta" target="_blank">Лицензионный договор–оферта</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RNPBF4');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(32568240, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32568240" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40144373-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40144373-1');
+</script>
+
+<script>
+    function sendFormEventForGoals(type)
+    {
+        switch (type) {
+            case 'feedback':
+                gtag('event', 'feedback', {'event_category': 'lead'});
+                yaCounter32568240.reachGoal('get_lead_contact');
+            break;
+            
+            case 'buy':
+                gtag('event', 'buy', {'event_category': 'lead'});
+                yaCounter32568240.reachGoal('get_lead_interest');
+            break;
+        }
+        return true;
+    }
+</script>
+
+</div>
+
+ <span>
+ 
+    </span>
+    
+	<div class="popup mfp-hide" id="feedback">
+		<div class="feedback">
+        <div class="holder">
+          <p class="h1 feedback-title">Свяжитесь с нами</p>
+          <div class="feedback-lead">Вы также можете получить информацию о решениях и продуктах iiko по телефону: <span class="feedback-phone">+7 (495) 215 22 00</span></div>
+
+
+
+          <form action="https://iiko.ru/" class="form ajax_form" method="post" name="feedbackAjax_1">
+		    <input type="hidden" name="resourceID" value="1">
+            <div class="form-row">
+              <label class="form-in">
+                <span class="form-label">Ваше имя<span class="error_name"></span></span>
+                <input name="name" class="form-input" type="text">
+              </label>
+              <label class="form-in">
+                <span class="form-label">Компания<span class="error_company"></span></span>
+                <input name="company" class="form-input" type="text">
+              </label>
+            </div>
+            <div class="form-row">
+              <label class="form-in">
+                <span class="form-label">E-mail<span class="error_email"></span></span>
+                <input name="email" class="form-input" type="text">
+              </label>
+              <label class="form-in">
+                <span class="form-label">Телефон<span class="error_phone"></span></span>
+                <input name="phone" class="form-input phone" type="phone">
+              </label>
+            </div>
+            <div class="form-row">
+              <label class="form-full">
+                <span class="form-label">Город<span class="error_city"></span></span>
+                <input name="city" class="form-input geoloc-city" type="text">
+              </label>
+            </div>			
+            <div class="form-row">
+              <label class="form-full">
+                <span class="form-label">Текст сообщения<span class="error_text"></span></span>
+                <textarea class="form-input" cols="30" id="text" name="text" rows="10"></textarea>
+              </label>
+            </div>
+
+            <div class="form-row">
+                <script src="//www.google.com/recaptcha/api.js"></script>
+                <div class="g-recaptcha" data-sitekey="6LeRikMUAAAAAPjcUhskXHJjV61iXHj-wdSmnTb7"></div>
+            </div>
+            
+            <div class="form-row">
+              <label class="form-full" for="chkAgreement">
+                  <input required name="agreement" class="form-checkbox" type="checkbox" value="да" id="chkAgreement" /> Я даю согласие на <a class="agreements_link" href="agreement.html" target="_blank">обработку своих персональных данных</a>
+              </label>
+            </div>
+            
+            <div class="form-row">
+                <a href="/privacy.html" class="privacy_link" target="_blank">Политика конфиденциальности</a>
+            </div>
+
+            <div class="form-row form-row_button">
+              <button class="button " type="submit" href="#"><span class="button-in">ОТПРАВИТЬ ЗАПРОС</span>
+              </button>
+            </div>
+          
+	<input type="hidden" name="af_action" value="54f87968a05089ac97c352d78e284182" />
+</form>
+        </div>
+      </div>
+    </div>
+
+
+
+<script>
+
+if (typeof ymaps != 'undefined') ymaps.ready(init);
+var point;
+function init() {
+    var geolocation = ymaps.geolocation;
+
+    // положение, вычисленное по ip пользователя и
+    geolocation.get({
+        provider: 'yandex',
+        mapStateAutoApply: true
+    }).then(function (result) {
+			// получили координаты
+          point = result.geoObjects.position; 
+			// ищем город и проставляем его в input #.geoloc-city
+		  doGeo(point);
+    });
+
+
+// Можно спросить у браузера, но это слишком точно, нам такое не надо //
+/*
+    geolocation.get({
+        provider: 'browser',
+        mapStateAutoApply: true
+    }).then(function (result) {
+         point = result.geoObjects.position;
+         doGeo(point);
+    });
+*/
+
+
+}
+
+function doGeo(point) {
+console.log(point);
+ymaps.geocode(point, {
+        kind: 'locality',
+        json:true,
+        results: 20
+    }).then(function (res) {
+            var city = res.GeoObjectCollection.featureMember[0].GeoObject.name;
+			var description = res.GeoObjectCollection.featureMember[0].GeoObject.description;
+            //console.log('Получили: '+ city + ',' +description);
+            $('.geoloc-city').val(city);
+			
+        });  
+}
+
+</script>
+<script src="/assets/javascripts/x.js?v=1563181836" type="text/javascript"></script>
+<script src="/assets/javascripts/jquery.maskedinput.min.js?v=1442336138" type="text/javascript"></script>
+
+
+<script>
+$(document).ready(function($){
+   $(".phone").mask("+9 (999) 999 99 99");
+});
+</script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyDDndXMqbsOIpxHWo2vwcsy8FOopB3NnmU"></script>
+<script src="/assets/javascripts/map.js?v=1572346837" type="text/javascript"></script>
+<script src="/assets/javascripts/contacts.js?v=1532952261" type="text/javascript"></script>
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RNPBF4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d49a9986c53190742774cd91f/33802bb564314e53123da47c2.js");</script>
+
+<script async defer src='https://iiko.push4site.com/sdk'></script>
+
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?169",t.onload=function(){VK.Retargeting.Init("VK-RTRG-1010718-fEl2K"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1010718-fEl2K" style="position:fixed; left:-999px;" alt=""/></noscript>
+<script type="text/javascript" src="/assets/components/ajaxform/js/default.js"></script>
+<script type="text/javascript">AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script>
+</body>
+</html>

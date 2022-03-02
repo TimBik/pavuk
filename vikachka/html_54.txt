@@ -1,0 +1,3336 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.2">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=cyrillic" rel="stylesheet">
+        <script type="text/javascript" src="/bitrix/templates/business_v1/js/jquery-2.1.4.js"></script>
+        <link rel="icon" href="https://www.izhsm.ru/favicon.svg" type="image/x-icon">
+<meta name="yandex-verification" content="53336109364a747e" />
+<meta name="google-site-verification" content="oAav59AR6BL7gHyq6TCcrTwM8I6gpEA-z0IVAt_74zA" />
+<meta name='wmail-verification' content='092dd6a5504dad76d724c7f643673e2c' />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="софт мастер, 1С:Франчайзи, Ижевск, купить 1С, поддержка 1С, 1с, онлайн, программы 1С, 1с в Ижевске, внедрение 1с, продажа 1с, бухгалтерия, 8.3" />
+<meta name="description" content="Сайт 1С:Франчайзи Софт Мастер (Ижевск), оказывающего полный спектр услуг по 1с: продажа 1С, внедрение и обновление 1с, поддержка и индивидуальное обучение." />
+<link href="/bitrix/css/main/bootstrap.min.css?1610443025121326" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/css/main/font-awesome.min.css?161044302523748" type="text/css"  rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&amp;subset=cyrillic,cyrillic-ext" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16369814402409" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?163948479423804" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/socialservices/css/ss.min.css?15912532914686" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/alexkova.bxready2/slick/slick.css?15484058281963" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/business_v1/default_4fa0e1a3c87e339f66a86727fbc58ac6/default_4fa0e1a3c87e339f66a86727fbc58ac6_v1.css?16461390631042" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/business_v1/template_348824aa1d1652f841edc4382a591388/template_348824aa1d1652f841edc4382a591388_v1.css?1646139573115799" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'pull_server_enabled':'N','pull_config_timestamp':'0','pull_guest_mode':'N','pull_guest_user_id':'0'});(window.BX||top.BX).message({'PULL_OLD_REVISION':'Для продолжения корректной работы с сайтом необходимо перезагрузить страницу.'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1639484794262092"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213527','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'71b18a9f10c2ffb030cf24d0e064fd86'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/protobuf.min.js?160404737076433"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/model.min.js?160404737014190"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_promise.min.js?16104430242490"></script>
+<script type="text/javascript" src="/bitrix/js/rest/client/rest.client.min.js?16040473929240"></script>
+<script type="text/javascript" src="/bitrix/js/pull/client/pull.client.min.js?163698145844687"></script>
+<script type="text/javascript" src="/bitrix/js/alexkova.bxready2/core.js?1548405828533"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?163948479462522"></script>
+<script type="text/javascript" src="/bitrix/js/socialservices/ss.js?15484058281419"></script>
+<script type="text/javascript" src="/bitrix/js/alexkova.bxready2/slick/slick.min.js?154840582840160"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/templates/business_v1/js/fancybox/jquery.fancybox.js','/bitrix/templates/business_v1/js/script.js','/bitrix/templates/business_v1/library/bootstrap/js/bootstrap.js','/bitrix/components/alexkova.business/menu/templates/bxr_mobile_v1/script.js','/bitrix/components/alexkova.business/search.title/script.js','/bitrix/components/bxready2/abmanager/templates/full-static/script.js','/bitrix/components/alexkova.business/menu/templates/version_v1/script.js','/bitrix/components/alexkova.business/menu.hover/templates/list/script.js','/bitrix/templates/business_v1/js/slick/slick.js','/bitrix/tools/bxready2/collection/bxr_elements/section.horizontal.v2/include/script.js','/bitrix/tools/bxready2/collection/bxr_elements/news.vertical.v1/include/script.js','/bitrix/components/alexkova.business/buttonUp/templates/.default/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/business_v1/js/fancybox/jquery.fancybox.css','/bitrix/templates/business_v1/sm_style.css','/bitrix/components/alexkova.business/menu/templates/bxr_mobile_v1/style.css','/bitrix/components/alexkova.business/form.iblock/templates/built_in/style.css','/bitrix/components/alexkova.business/iblock.element.add.form/templates/built_in/style.css','/bitrix/components/alexkova.business/search.title/templates/.default/style.css','/bitrix/components/bxready2/abmanager/templates/full-static/style.css','/bitrix/components/alexkova.business/menu/templates/line/style.css','/bitrix/templates/business_v1/components/bitrix/system.auth.form/context/style.css','/bitrix/components/alexkova.business/search.title/templates/button/style.css','/bitrix/components/alexkova.business/menu/templates/version_v1/style.css','/bitrix/components/alexkova.business/menu.hover/templates/classic/style.css','/bitrix/components/alexkova.business/menu.hover/templates/list/style.css','/bitrix/components/alexkova.business/panel.top.fixed.ajax/templates/.default/style.css','/bitrix/templates/business_v1/components/bitrix/system.pagenavigation/.default/style.css','/bitrix/components/alexkova.business/slider/templates/.default/style.css','/bitrix/templates/business_v1/js/slick/slick.css','/bitrix/components/bxready2/block.list/templates/.default/style.css','/bitrix/tools/bxready2/collection/bxr_elements/trigger.flat.horizontal.v1/include/style.css','/bitrix/components/alexkova.business/promo/templates/ribbon/bitrix/news.list/.default/style.css','/bitrix/components/alexkova.business/promo/templates/ribbon/bitrix/news.list/.default/include/css/approx.css','/bitrix/tools/bxready2/collection/bxr_elements/section.horizontal.v2/include/style.css','/bitrix/tools/bxready2/collection/bxr_elements/news.short.list.v1/include/style.css','/bitrix/tools/bxready2/collection/bxr_elements/news.vertical.v1/include/style.css','/bitrix/components/bitrix/system.show_message/templates/.default/style.css','/bitrix/tools/bxready2/collection/bxr_elements/image.v1/include/style.css','/bitrix/components/alexkova.business/buttonUp/templates/.default/style.css','/bitrix/templates/.default/components/bitrix/subscribe.form/business_horizontal1/style.css','/bitrix/components/alexkova.business/menu/templates/footer_cols/style.css','/bitrix/components/alexkova.business/form.iblock/templates/popup/style.css','/bitrix/components/alexkova.business/iblock.element.add.form/templates/popup/style.css','/bitrix/templates/business_v1/styles.css','/bitrix/templates/business_v1/template_styles.css','/bitrix/templates/business_v1/library/bootstrap/css/bootstrap_add.css','/bitrix/templates/business_v1/library/less/less.css','/bitrix/templates/business_v1/components/bitrix/system.auth.form/popup/style.css','/bitrix/templates/business_v1/components/bitrix/system.auth.form/popup_auth/style.css']);</script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+	<script>
+		BX.ready(function(){
+
+			window.BXReady.Business.showFormSuccess = function(formId, data){
+				data = '<div class="answer">' + data + '</div>'
+				$('#ajaxFormContainer_'+formId).html(data);
+			};
+
+			window.BXReady.Business.formRefresh = function (formId) {
+				window.BXReady.showAjaxShadow("#ajaxFormContainer_" + formId,"ajaxFormContainerShadow" + formId);
+				BX.ajax.submit(BX("iblockForm" + formId),function(data){
+					window.BXReady.closeAjaxShadow("ajaxFormContainerShadow" + formId);
+
+					dataInc = data.replace(/<div[^>]+>/gi, '');//strip_tags
+
+					if(dataInc.substr(0,7) === 'success')
+					{
+						window.BXReady.Business.showFormSuccess(formId,data.substr(7,data.lenght))
+						return false;
+					}
+					BX('ajaxFormContainer_' + formId).innerHTML = data;
+				});
+				return false;
+			};
+
+			$(document).on(
+				'show.bs.modal',
+				'.modal',
+				function(e){
+//					console.log(e.relatedTarget);
+                                        dataAttr = $(e.relatedTarget).data();
+                                        delete dataAttr.target;
+                                        delete dataAttr.toggle;
+//                                        console.log(dataAttr);
+					attr = $(this).attr('id');
+					formId =  $('#'+attr+' .modal-body').data('form');
+					bodyId = $('#'+attr+' .modal-body').attr('id');
+
+					$.ajax(
+						{
+							url: '/bitrix/components/alexkova.business/form.iblock/ajax/form.php',
+							data: 'FORM_ID='+formId+'&DATA='+JSON.stringify(dataAttr),
+							success: function(data){
+								$('#'+bodyId).html(data);
+							}
+						}
+					);
+				}
+			);
+		});
+	</script>
+
+
+
+<script type="text/javascript" src="/bitrix/js/alexkova.popupad/run_popup.js"></script>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/business_v1/template_c3ccef0a0802df86cb2c1ededeecda4c/template_c3ccef0a0802df86cb2c1ededeecda4c_v1.js?1646139573142465"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "9c7e8fa8eefb52e728a2560222164652"]); _ba.push(["host", "www.izhsm.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+		
+	
+			
+	<!---timeline-->
+	<link rel="stylesheet" href="/bitrix/templates/business_v1/timeline/css/style.css"> <!-- Resource style -->
+	<script src="/bitrix/templates/business_v1/timeline/js/modernizr.js"></script> <!-- Modernizr -->
+	<script src="/bitrix/templates/business_v1/timeline/js/jquery.mobile.custom.min.js"></script>
+	<script src="/bitrix/templates/business_v1/timeline/js/main.js"></script> <!-- Resource jQuery -->
+	<!---end_timeline-->
+	
+	<title>Софт Мастер - 1С в Ижевске - купить 1с, заказать внедрение 1С и онлайн-поддержку</title>
+</head>
+
+<body>
+<div class="_hidden-sm hidden-md hidden-lg">
+	<nav class="bxr-mobile-push-menu">
+	<div class="bxr-mobile-push-menu-header">
+		<a class="bxr-mobile-menu-button bxr-mobile-menu-button-home" data-target='home' href="/">
+			<span class="fa fa-home"></span>
+		</a>
+		<div class="bxr-mobile-menu-button bxr-mobile-menu-button-open" data-target='menu'>
+			<span class="fa fa-bars"></span>
+		</div>
+		<div class="bxr-mobile-menu-button bxr-mobile-menu-button-close" data-target='menu'>
+			<span class="fa fa-bars"></span>
+		</div>
+
+					<div class="bxr-mobile-menu-button bxr-mobile-menu-button-user pull-right" data-target='user'>
+				<span class="fa fa-user"></span>
+			</div>
+		
+					<div class="bxr-mobile-menu-button bxr-mobile-menu-button-contacts pull-right"  data-target='answer'>
+				<span class="fa fa-envelope"></span>
+			</div>
+		
+					<div class="bxr-mobile-menu-button bxr-mobile-menu-button-phone pull-right" data-target='phone'>
+				<span class="fa fa-phone"></span>
+			</div>
+		
+					<div class="bxr-mobile-menu-button bxr-mobile-menu-button-search pull-right" data-target='search'>
+				<span class="fa fa-search"></span>
+			</div>
+		
+
+
+
+
+	</div>
+
+			<div id="bxr-mobile-phone" class="bxr-mobile-slide">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 tb30">
+						<div class="col-xs-12">
+	<div class="bxr-mobile-contact-form">
+<p align="center"><a href="https://t.me/izhsm" target="_blank" title="Написать в Telegram">
+	<img src="/images/Telegram.png" width="30px" alt="Написать в Telegram"></a>
+<a href="https://wa.me/79658466967" target="_blank" title="Написать в WhatsApp">
+<img src="/images/WhatsApp.png" width="30px" alt="Написать в WhatsApp"></a>
+<a title="Написать в Viber" href="viber://chat?number=79658466967" target="_blank"><img src="/images/Viber.png" width="30px" alt="Написать в Viber" /></a></p>
+<br>
+<table class="twidth100">
+<tbody>
+<tr>
+<td class="twidth50"><b>Бесплатно по России</b></td>
+<td class="talign-right">8-800-301-89-90</td>
+</tr>
+</tbody>
+</table>
+	</div>
+	<div class="bxr-mobile-contact-form bxr-built-in-form">
+		<h2>Заявка на звонок</h2>
+		 
+<div id='ajaxFormContainer_44_1'>
+	<form id="iblockForm44_1" class='bxr-form-body' name="iblock_add" action="/bitrix/components/alexkova.business/form.iblock/ajax/form.php" method="post" enctype="multipart/form-data">
+	<input type="hidden" name="FORM_ID" value="44_1"/>
+			<input type="hidden" name="TARGET_URL" value="/bitrix/components/alexkova.business/form.iblock/ajax/form.php"/>
+		<input type="hidden" name="sessid" id="sessid" value="71b18a9f10c2ffb030cf24d0e064fd86" />											Как к вам обращаться<span class="starrequired">*</span>														<input type="text" name="PROPERTY[166][0]" size="25" value="" /><br /><br />								Телефон														<input type="text" name="PROPERTY[167][0]" size="25" value="" /><br /><br />								Комментарий												<textarea cols="30" rows="5" name="PROPERTY[168][0]"></textarea><br><br>
+											
+
+                        <!--'start_frame_cache_hv6GEn'-->                                                                
+			                        <!--'end_frame_cache_hv6GEn'-->
+							<br />
+				<label for="accept_form_44_1">
+					<input type="checkbox" name="accept_personal" value="yes" id="accept_form_44_1">
+					Согласны ли Вы на обработку персональных данных в соответствии с политикой конфиденциальности? [<a href="https://www.izhsm.ru/about/company/privacy.php" target="_blank">Политика конфиденциальности					</a>]
+
+				</label>
+						<div class="bxr-button-group text-center">
+
+
+	<button onclick="BXReady.Business.formRefresh('44_1');return false;" class="bxr-color bxr-color-button" id="submitForm_44">
+					<span class="fa fa-phone"></span>
+				Позвоните мне	</button>
+
+
+			</div>
+</form></div>
+
+	</div>
+</div>
+ <br>					</div>
+				</div>
+			</div>
+		</div>
+	
+			<div id="bxr-mobile-contacts" class="bxr-mobile-slide">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 tb20">
+						<div class="col-xs-12">
+	<div class="bxr-mobile-contact-form">
+            <table class="twidth100">
+		<tbody>
+		<tr>
+			<td class="twidth40">
+ <b>Адрес</b>
+			</td>
+			<td class="twidth60 talign-right">
+				 г. Ижевск. ул. К.Маркса, д 219А, оф.109
+			</td>
+		</tr>
+		<tr>
+			<td class="twidth40">
+ <b>График работы</b>
+			</td>
+			<td class="twidth60 talign-right">
+				 Пн-Пт с 9.30 до 17.30
+			</td>
+		</tr>
+		</tbody>
+		</table>
+	</div>
+	<div class="bxr-mobile-contact-form" id="bxr-mobile-contact-map">
+		 <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=o4ZOYTegYi55JKgnoKWIDWfDqJU7Jvxd&amp;width=800&amp;height=370&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>	</div>
+	<div class="bxr-mobile-contact-form bxr-built-in-form">
+		<h2>Задать вопрос</h2>
+		 
+<div id='ajaxFormContainer_45_2'>
+	<form id="iblockForm45_2" class='bxr-form-body' name="iblock_add" action="/bitrix/components/alexkova.business/form.iblock/ajax/form.php" method="post" enctype="multipart/form-data">
+	<input type="hidden" name="FORM_ID" value="45_2"/>
+			<input type="hidden" name="TARGET_URL" value="/bitrix/components/alexkova.business/form.iblock/ajax/form.php"/>
+		<input type="hidden" name="sessid" id="sessid_1" value="71b18a9f10c2ffb030cf24d0e064fd86" />											Ваше имя<span class="starrequired">*</span>														<input type="text" name="PROPERTY[169][0]" size="25" value="" /><br /><br />								Ваш email<span class="starrequired">*</span>														<input type="text" name="PROPERTY[170][0]" size="25" value="" /><br /><br />								Телефон для связи<span class="starrequired">*</span>														<input type="text" name="PROPERTY[171][0]" size="25" value="" /><br /><br />								Ваш вопрос, предложение												<textarea cols="30" rows="5" name="PROPERTY[172][0]"></textarea><br><br>
+											
+
+                        <!--'start_frame_cache_bri14u'-->                                                                
+			                        <!--'end_frame_cache_bri14u'-->
+							<br />
+				<label for="accept_form_45_2">
+					<input type="checkbox" name="accept_personal" value="yes" id="accept_form_45_2">
+					Согласны ли Вы на обработку персональных данных в соответствии с политикой конфиденциальности? [<a href="https://www.izhsm.ru/about/company/privacy.php" target="_blank">Политика конфиденциальности					</a>]
+
+				</label>
+						<div class="bxr-button-group text-center">
+
+
+	<button onclick="BXReady.Business.formRefresh('45_2');return false;" class="bxr-color bxr-color-button" id="submitForm_45">
+					<span class="fa fa-envelope"></span>
+				Написать сообщение	</button>
+
+
+			</div>
+</form></div>
+
+	</div>
+</div>
+ <br>					</div>
+				</div>
+			</div>
+		</div>
+	
+			<div id="bxr-mobile-search" class="bxr-mobile-slide">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 tb30">
+						<div id="title-search" class="bxr-searchtitle">
+	<form action="/search/">
+		<div class="bx-input-group">
+                    <input id="title-search-input" type="text" name="q" value="" autocomplete="off" class="bx-form-control" placeholder="Поиск по сайту"/>
+			<span class="bx-input-group-btn bxr-bg-hover-light">
+				<button class="btn bxr-btn-default bxr-color bxr-bg-hover-light fa fa-search" type="submit" name="s"></button>
+			</span>
+		</div>
+	</form>
+</div>
+<script>
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/',
+			'CONTAINER_ID': 'title-search',
+			'INPUT_ID': 'title-search-input',
+			'MIN_QUERY_LEN': 2
+		});
+	});
+</script>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+
+			<div id="bxr-mobile-user" class="bxr-mobile-slide">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 tb30">
+						<!--'start_frame_cache_bxr_login_frame'-->						<div class="bx_login_block  pull-right">
+	<span id="login-line">
+				<a class="bx_login_top_inline_link  bxr-color-button" href="javascript:void(0)" onclick="openAuthorizePopup()">
+				<span class="fa fa-sign-in"></span>
+				Войти			</a>
+				</span>
+</div>
+
+	<div id="bx_auth_popup_form" style="display:none;" class="bx_login_popup_form">
+	<div class="login_page action-form-t">
+	
+	<form name="system_auth_formPqgS8z" method="post" target="_top" action="/auth/" class="bx_auth_form">
+		<input type="hidden" name="AUTH_FORM" value="Y" />
+		<input type="hidden" name="TYPE" value="AUTH" />
+				<input type="hidden" name="backurl" value="/index.php" />
+				
+		<input placeholder="Логин" class="input_text_style" type="text" name="USER_LOGIN" maxlength="255" value="" />
+		<input placeholder="Пароль" class="input_text_style" type="password" name="USER_PASSWORD" maxlength="255" />
+
+				<div class="clear"></div>
+		<div class="containter">
+			<div class="span_2_of_4">
+									<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" checked/>
+					<label for="USER_REMEMBER">Запомнить меня</label>
+							</div>
+			<div class="span_2_of_4">
+									<noindex>
+						<a href="/auth?forgot_password=yes" rel="nofollow">Забыли пароль?</a>
+					</noindex>
+							</div>
+			<div class="span_4_of_4">
+				<input type="submit" name="Login" class="color-button" value="Войти" />
+			</div>
+			<div class="clear"></div>
+		</div>
+	</form>
+		
+<div class="bx-auth">
+	<form method="post" name="bx_auth_servicesuqYggsPk" target="_top" action="/index.php">
+					<div class="bx-auth-title">Войти как пользователь</div>
+			<div class="bx-auth-note">Вы можете войти на сайт, если вы зарегистрированы на одном из этих сервисов:</div>
+							<div class="bx-auth-services">
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('OpenID', 'uqYggsPk')" id="bx_auth_href_uqYggsPkOpenID"><i class="bx-ss-icon openid"></i><b>OpenID</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('MailRuOpenID', 'uqYggsPk')" id="bx_auth_href_uqYggsPkMailRuOpenID"><i class="bx-ss-icon openid-mail-ru"></i><b>Mail.Ru OpenID</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Livejournal', 'uqYggsPk')" id="bx_auth_href_uqYggsPkLivejournal"><i class="bx-ss-icon livejournal"></i><b>Livejournal</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Liveinternet', 'uqYggsPk')" id="bx_auth_href_uqYggsPkLiveinternet"><i class="bx-ss-icon liveinternet"></i><b>Liveinternet</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Blogger', 'uqYggsPk')" id="bx_auth_href_uqYggsPkBlogger"><i class="bx-ss-icon blogger"></i><b>Blogger</b></a></div>
+							</div>
+							<div class="bx-auth-line"></div>
+				<div class="bx-auth-service-form" id="bx_auth_servuqYggsPk" style="display:none">
+												<div id="bx_auth_serv_uqYggsPkOpenID" style="display:none">
+<span class="bx-ss-icon openid"></span>
+<span>OpenID:</span>
+<input type="text" name="OPENID_IDENTITY_OPENID" value="" size="30" />
+<input type="hidden" name="sessid" id="sessid_7" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_uqYggsPkMailRuOpenID" style="display:none">
+<span class="bx-ss-icon openid-mail-ru"></span>
+<input type="text" name="OPENID_IDENTITY_MAILRU" value="" size="20" />
+<span>@mail.ru</span>
+<input type="hidden" name="sessid" id="sessid_8" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_uqYggsPkLivejournal" style="display:none">
+<span class="bx-ss-icon livejournal"></span>
+<input type="text" name="OPENID_IDENTITY_LIVEJOURNAL" value="" size="20" />
+<span>.livejournal.com</span>
+<input type="hidden" name="sessid" id="sessid_9" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_uqYggsPkLiveinternet" style="display:none">
+<span class="bx-ss-icon liveinternet"></span>
+<span>liveinternet.ru/users/</span>
+<input type="text" name="OPENID_IDENTITY_LIVEINTERNET" value="" size="15" />
+<input type="hidden" name="sessid" id="sessid_10" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_uqYggsPkBlogger" style="display:none">
+<span class="bx-ss-icon blogger"></span>
+<input type="text" name="OPENID_IDENTITY_BLOGGER" value="" size="20" />
+<span>.blogspot.com</span>
+<input type="hidden" name="sessid" id="sessid_11" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+									</div>
+				<input type="hidden" name="auth_service_id" value="" />
+	</form>
+</div>
+
+</div>
+<script type="text/javascript">
+try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+</script>
+
+	</div>
+
+	<script>
+		function openAuthorizePopup()
+		{
+						var authPopup = BX.PopupWindowManager.create("AuthorizePopup", null, {
+				autoHide: true,
+				//	zIndex: 0,
+				offsetLeft: 0,
+				offsetTop: 0,
+				overlay : true,
+				draggable: {restrict:true},
+				closeByEsc: true,
+				closeIcon: { right : "12px", top : "10px"},
+				titleBar: {content: BX.create("span", {html: "<div>Войти на сайт</div>"})},
+				content: '<div style="width:500px;height:400px; text-align: center;"><span style="position:absolute;left:50%; top:50%"><img src="/bitrix/templates/business_v1/components/bitrix/system.auth.form/popup/images/wait.gif"/></span></div>',
+				events: {
+					onAfterPopupShow: function()
+					{
+						this.setContent(BX("bx_auth_popup_form"));
+					}
+				}
+			});
+
+			authPopup.show();
+		}
+	</script>
+						<!--'end_frame_cache_bxr_login_frame'-->					</div>
+				</div>
+			</div>
+		</div>
+	
+
+
+	<div class="bxr-mobile-push-menu-content">
+
+		<div id="bxr-mobile-menu-body">
+
+						<ul id="bxr-multilevel-menu" data-child="0">
+				<div class="title bxr-color">MENU</div>
+				
+			
+			
+						<li><a href="/index.php" class="root-item-selected">Главная</a></li>
+
+
+
+					
+					
+					
+			
+			
+				<div class="parent" data-parent="1" data-child="1">
+					О нас <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="1"  data-child="1">
+					<div class="child" data-parent="1">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/about/">О нас</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+				<div class="parent" data-parent="2" data-child="2">
+					О компании <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="2"  data-child="2">
+					<div class="child" data-parent="2">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/about/company/">О компании</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/company/licenses/" class="root-item">Сертификаты</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/company/requisites/" class="root-item">Реквизиты</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/company/employees/" class="root-item">Сотрудники</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/company/otsenka-truda/" class="root-item">Условия труда</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/company/vacancies/rabota-v-kompanii.php" class="root-item">Работа в компании</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/company/vacancies/" class="root-item">Вакансии</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+				<div class="parent" data-parent="9" data-child="9">
+					Обучение 1С <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="9"  data-child="9">
+					<div class="child" data-parent="9">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/edu/">Обучение 1С</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/edu/seminary-1s/" class="root-item">Мероприятия по 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/edu/video-courses/" class="root-item">Интернет-курсы 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/edu/reviews/" class="root-item">Отзывы по курсам</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+				<div class="parent" data-parent="13" data-child="13">
+					Медиа-центр <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="13"  data-child="13">
+					<div class="child" data-parent="13">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/media/">Медиа-центр</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/media/news/" class="root-item">Новости</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/media/actions/" class="root-item">Акции</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/media/articles/" class="root-item">Статьи</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/media/foto/" class="root-item">Фотогалерея</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/faq/" class="root-item">Вопрос-ответ</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+						<li><a href="/about/contacts/" class="root-item">Контакты</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/partners_and_clients/partners/" class="root-item">Партнеры</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/about/prices/" class="root-item">Прайс-листы</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+				<div class="parent" data-parent="22" data-child="22">
+					Поддержка <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="22"  data-child="22">
+					<div class="child" data-parent="22">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/support/">Поддержка</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/support/index.php" class="root-item">Cопровождение 1С удаленно</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/support/table.php" class="root-item">Варианты поддержки 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/support/1c.php" class="root-item">Официальная поддержка 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/support/connect.php" class="root-item">Заявка на 1С-Коннект</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/es/faq/" class="root-item">Вопросы из анкет ЕС</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/support/ok.php" class="root-item">Оценка качества</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+						<li><a href="/introduction/spisok_reshenii/" class="root-item">Внедрение</a></li>
+
+
+
+					
+					
+					
+			
+			
+				<div class="parent" data-parent="30" data-child="30">
+					Предложения <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="30"  data-child="30">
+					<div class="child" data-parent="30">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/offers/">Предложения</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/offers/bukhgalteru-byudzhetniku/" class="root-item">Бухгалтеру-бюджетнику</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/offers/bukhgalteru-khozraschetniku/" class="root-item">Бухгалтеру-хозрасчетнику</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/offers/nachinaushemu-predprinimatelu/" class="root-item">Начинающему предпринимателю</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/offers/sobstvenniku-biznesa/" class="root-item">Собственнику бизнеса</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/offers/rukovoditelyam-proektov-i-otdelov-it/" class="root-item">Руководителям проектов и отделов IT</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/offers/korporativnym-klientam/" class="root-item">Корпоративным клиентам</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+				<div class="parent" data-parent="37" data-child="37">
+					Сервисы <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="37"  data-child="37">
+					<div class="child" data-parent="37">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/services/">Сервисы</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/services/its/" class="root-item">Сервисы 1С:ИТС</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/services/sm/" class="root-item">Сервисы ИжСМ</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/program/actual/relizy-1s/" class="root-item">Актуальные релизы 1С</a></li>
+
+
+
+					
+					
+					
+							</ul>			
+			
+				<div class="parent" data-parent="41" data-child="41">
+					Программы <span class="direction fa fa-chevron-right"></span>
+				</div>
+				<ul data-parent="41"  data-child="41">
+					<div class="child" data-parent="41">
+						Назад <span class="direction fa fa-chevron-left"></span>
+					</div>
+					<div class="child-title">
+						<a href="/program/">Программы</a>
+					</div>
+
+
+					
+					
+					
+			
+			
+						<li><a href="/program/1c/" class="root-item">Программы 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/services/its/1s-predpriyatie-cherez-internet/" class="root-item">1С:Фреш</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/services/its/1s-grm/" class="root-item">1С:Готовое рабочее место</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/program/upgrade_1c.php" class="root-item">Апгрейд программ 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/program/pp-help.php" class="root-item">Помощь в выборе ПП</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/program/usb.php" class="root-item">Маркировка ключей 1С</a></li>
+
+
+
+					
+					
+					
+			
+			
+						<li><a href="/program/kleverens/" class="root-item">Программы Клеверенс</a></li>
+
+
+
+					
+					
+					
+											</ul>					
+				</ul>
+				
+
+
+
+		</div>
+	</div>
+
+</nav>
+
+
+
+</div>
+
+<!--'start_frame_cache_k7Xxik'-->
+<div class="rk-fullwidth rk-fullwidth-static  hidden-sm hidden-xs prm_bxr_top"><div class="rk-fullwidth-canvas">
+</div></div>
+<!--'end_frame_cache_k7Xxik'--><div class='bxr-top-panel bxr-top-panel-dark hidden-xs hidden-sm'>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-9">
+                    <ul class="bxr-topline-menu">
+                                    <li>
+                    <a href="/program/actual/relizy-1s/" class="bxr-font-color">Релизы 1С</a>
+                </li>
+                                                <li>
+                    <a href="/media/news/" class="bxr-font-color">Новости</a>
+                </li>
+                                                <li>
+                    <a href="/media/actions/" class="bxr-font-color">Акции</a>
+                </li>
+                                                <li>
+                    <a href="/about/prices/" class="bxr-font-color">Цены</a>
+                </li>
+                                                <li>
+                    <a href="/media/articles/" class="bxr-font-color">Статьи и обзоры</a>
+                </li>
+                                                <li>
+                    <a href="/faq/" class="bxr-font-color">Вопрос-ответ</a>
+                </li>
+                            <div class="clearfix"></div>
+    </ul>
+
+
+                            <div class="bx-share-social bx-share-social-light"><div class="bxr-socnet-wrap">
+    <a href="https://www.youtube.com/channel/UCjou3FAVPah-Pr88CAOI7IQ?view_as=subscriber" target="_blank" class="footer-socnet youtube"><i class="fa fa-youtube"></i></a>
+    <a href="https://vk.com/id189581109" target="_blank" class="footer-socnet vk"><i class="fa fa-vk"></i></a>
+     <a href="https://www.instagram.com/soft_master/" target="_blank" class="footer-socnet instagram"><i class="fa fa-instagram"></i></a>
+</div>&nbsp;&nbsp;</div>
+
+            </div>
+			<div class="col-md-3">
+                <div class="bx_login_block">
+	<span id="login-line">
+	<!--'start_frame_cache_login-line'-->
+			<a class="bx_login_top_inline_link mono" href="javascript:void(0)" onclick="openAuthorizePopup()">
+				<span class="fa fa-user"></span>
+				Вход			</a>/<!--'end_frame_cache_login-line'-->	</span>
+</div>
+
+	<div id="bx_auth_popup_form" style="display:none;" class="bx_login_popup_form">
+	<!--'start_frame_cache_mvT8hq'--><div class="login_page action-form-t">
+	
+	<form name="system_auth_formn1jost" method="post" target="_top" action="/auth/" class="bx_auth_form">
+		<input type="hidden" name="AUTH_FORM" value="Y" />
+		<input type="hidden" name="TYPE" value="AUTH" />
+				<input type="hidden" name="backurl" value="/index.php" />
+				
+		<input placeholder="Логин" class="input_text_style" type="text" name="USER_LOGIN" maxlength="255" value="" />
+		<input placeholder="Пароль" class="input_text_style" type="password" name="USER_PASSWORD" maxlength="255" />
+
+				<div class="clear"></div>
+		<div class="containter">
+			<div class="span_2_of_4">
+									<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" checked/>
+					<label for="USER_REMEMBER">Запомнить меня</label>
+							</div>
+			<div class="span_2_of_4">
+									<noindex>
+						<a href="/auth?forgot_password=yes" rel="nofollow">Забыли пароль?</a>
+					</noindex>
+							</div>
+			<div class="span_4_of_4">
+				<input type="submit" name="Login" class="color-button" value="Войти" />
+			</div>
+			<div class="clear"></div>
+		</div>
+	</form>
+		
+<div class="bx-auth">
+	<form method="post" name="bx_auth_serviceslmKh2AwU" target="_top" action="/index.php">
+					<div class="bx-auth-title">Войти как пользователь</div>
+			<div class="bx-auth-note">Вы можете войти на сайт, если вы зарегистрированы на одном из этих сервисов:</div>
+							<div class="bx-auth-services">
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('OpenID', 'lmKh2AwU')" id="bx_auth_href_lmKh2AwUOpenID"><i class="bx-ss-icon openid"></i><b>OpenID</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('MailRuOpenID', 'lmKh2AwU')" id="bx_auth_href_lmKh2AwUMailRuOpenID"><i class="bx-ss-icon openid-mail-ru"></i><b>Mail.Ru OpenID</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Livejournal', 'lmKh2AwU')" id="bx_auth_href_lmKh2AwULivejournal"><i class="bx-ss-icon livejournal"></i><b>Livejournal</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Liveinternet', 'lmKh2AwU')" id="bx_auth_href_lmKh2AwULiveinternet"><i class="bx-ss-icon liveinternet"></i><b>Liveinternet</b></a></div>
+									<div><a href="javascript:void(0)" onclick="BxShowAuthService('Blogger', 'lmKh2AwU')" id="bx_auth_href_lmKh2AwUBlogger"><i class="bx-ss-icon blogger"></i><b>Blogger</b></a></div>
+							</div>
+							<div class="bx-auth-line"></div>
+				<div class="bx-auth-service-form" id="bx_auth_servlmKh2AwU" style="display:none">
+												<div id="bx_auth_serv_lmKh2AwUOpenID" style="display:none">
+<span class="bx-ss-icon openid"></span>
+<span>OpenID:</span>
+<input type="text" name="OPENID_IDENTITY_OPENID" value="" size="30" />
+<input type="hidden" name="sessid" id="sessid_17" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_lmKh2AwUMailRuOpenID" style="display:none">
+<span class="bx-ss-icon openid-mail-ru"></span>
+<input type="text" name="OPENID_IDENTITY_MAILRU" value="" size="20" />
+<span>@mail.ru</span>
+<input type="hidden" name="sessid" id="sessid_18" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_lmKh2AwULivejournal" style="display:none">
+<span class="bx-ss-icon livejournal"></span>
+<input type="text" name="OPENID_IDENTITY_LIVEJOURNAL" value="" size="20" />
+<span>.livejournal.com</span>
+<input type="hidden" name="sessid" id="sessid_19" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_lmKh2AwULiveinternet" style="display:none">
+<span class="bx-ss-icon liveinternet"></span>
+<span>liveinternet.ru/users/</span>
+<input type="text" name="OPENID_IDENTITY_LIVEINTERNET" value="" size="15" />
+<input type="hidden" name="sessid" id="sessid_20" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+																<div id="bx_auth_serv_lmKh2AwUBlogger" style="display:none">
+<span class="bx-ss-icon blogger"></span>
+<input type="text" name="OPENID_IDENTITY_BLOGGER" value="" size="20" />
+<span>.blogspot.com</span>
+<input type="hidden" name="sessid" id="sessid_21" value="71b18a9f10c2ffb030cf24d0e064fd86" />
+<input type="hidden" name="auth_service_error" value="" />
+<input type="submit" class="button" name="" value="Войти" />
+</div>
+									</div>
+				<input type="hidden" name="auth_service_id" value="" />
+	</form>
+</div>
+
+</div>
+<script type="text/javascript">
+try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+</script>
+
+<!--'end_frame_cache_mvT8hq'-->	</div>
+
+	<script>
+		function openAuthorizePopup()
+		{
+						var authPopup = BX.PopupWindowManager.create("AuthorizePopup", null, {
+				autoHide: true,
+				//	zIndex: 0,
+				offsetLeft: 0,
+				offsetTop: 0,
+				overlay : true,
+				draggable: {restrict:true},
+				closeByEsc: true,
+				closeIcon: { right : "12px", top : "10px"},
+				titleBar: {content: BX.create("span", {html: "<div>Войти на сайт</div>"})},
+				content: '<div style="width:500px;height:400px; text-align: center;"><span style="position:absolute;left:50%; top:50%"><img src="/bitrix/templates/business_v1/components/bitrix/system.auth.form/context/images/wait.gif"/></span></div>',
+				events: {
+					onAfterPopupShow: function()
+					{
+						this.setContent(BX("bx_auth_popup_form"));
+					}
+				}
+			});
+
+			authPopup.show();
+		}
+	</script>
+
+ 	<div class="bxr-search-panel-button bxr-el-searchtitle-button">
+		<a name="bxr-search-button" class="bxr-search-button" id="button-title-search-topline"><span class="fa fa-search"></span></a>
+
+
+<div id="title-search-topline" class="bxr-searchtitle-button bx-searchtitle">
+	<form action="/search/">
+		<div class="bx-input-group">
+                    <input id="title-search-input-topline" type="text" name="q" value="" autocomplete="off" class="bx-form-control" placeholder="Поиск по сайту"/>
+			<span class="bx-input-group-btn">
+				<button class="btn bxr-btn-default bxr-color bxr-bg-hover-light fa fa-search" type="submit" name="s"></button>
+				<button class="btn bxr-btn-default bxr-color bxr-bg-hover-light fa fa-close" type="button" name="close" id='close-title-search-topline'></button>
+			</span>
+		</div>
+	</form>
+</div>
+
+
+
+	</div>
+<script>
+
+
+	BX.ready(function(){
+		new JCTitleSearch({
+			'AJAX_PAGE' : '/',
+			'CONTAINER_ID': 'title-search-topline',
+			'INPUT_ID': 'title-search-input-topline',
+			'MIN_QUERY_LEN': 2
+		});
+
+		$(document).on(
+			'click',
+			'#button-title-search-topline',
+			function(){
+				$('#title-search-topline').toggle();
+			}
+		);
+
+		$(document).on(
+			'click',
+			'#close-title-search-topline',
+			function(){
+				$('#title-search-topline').hide();
+			}
+		);
+	});
+
+
+</script>
+			</div>
+        </div>
+    </div>
+</div><div class="bxr-header bxr-header-v4 bxr-full-width bxr-container-headline">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center hidden-md  hidden-lg">
+                    <img  src="/images/logo2.png" alt="BXR Business" style="max-width:90%;">            </div>
+            <div class="col-sm-3 hidden-xs hidden-sm bxr-element-row-middle"><div class="bxr-element-col-middle">
+                <a href="/"><img src="/images/logo2.png" style="max-width:100%;" alt="Софт Мастер"></a>            </div></div>
+            <div class="col-sm-6 hidden-xs hidden-sm bxr-element-row-middle">
+               <div class="bxr-element-col-middle slogan-wrap">
+                    <b><a href="/es/">Зарегистрируйтесь на Единый онлайн-семинар 1С</a></b>
+<!--
+Онлайн-внедрение и сопровождение 1С
+<a href="/media/news/konkurs-its-21-22/">Стать участником конкурса "Лучший пользователь 1С:ИТС"</a>
+-->                </div>
+            </div>
+            <div class="col-sm-3 col-sm-offset- hidden-xs hidden-sm bxr-element-row-middle">
+                <div class="bxr-element-col-middle bxr-recall-btn-content-rigth">
+                    <span style="color: #8b8b8b;"><small>Бесплатно по России:</small></span><b><br>8-800-301-89-90</b><br>
+<small>Мы на связи: <a href="https://t.me/izhsm" target="_blank" title="Написать в Telegram">
+	<img src="/images/Telegram.png" width="25px" alt="Написать в Telegram"></a>
+<a href="https://wa.me/79658466967" target="_blank" title="Написать в WhatsApp">
+<img src="/images/WhatsApp.png" width="25px" alt="Написать в WhatsApp"></a>
+<a title="Написать в Viber" href="viber://chat?number=79658466967" target="_blank"><img src="/images/Viber.png" width="25px" alt="Написать в Viber" /></a></small>                    <span data-toggle="modal" data-target="#bxr-phone-popup" class="bxr-color bxr-bg-hover-light fa fa-phone open-answer-form bxr-recall-btn"></span>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+   
+</div>
+<div class="bxr-full-width">
+    <div class="bxr-full-width bxr-menuline hidden-xs hidden-sm">
+        <div class="bxr-v-line_menu bxr-dark-flat colored_dark"><div class="container bxr-built-menu-container">
+<div class="row">
+    <div class="col-sm-12"><nav>
+    <ul 
+        data-stretch="Y"
+        data-style-menu="dark"
+        data-style-menu-hover="dark"
+        class="bxr-flex-menu bxr-dark-flat bxr-top-menu bxr-ident-items-normal" >
+                        <li data-selected='1'  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list bxr-color-flat">
+                <a href="/index.php"><span class="bxr-ico-top-menu"><i class=' fa bxr-font-light fa-fw fa-home' ></i></span></a>
+                            </li>
+                                <li  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list ">
+                <a href="/about/"><span class="bxr-ico-top-menu"></span>О нас<span class="fa fa-angle-down"></span></a>
+                                                        <div data-bimgsrc="" data-bimg="left" data-lg="3" data-md="2" data-sm="1" data-xs="1" class="col-w-lg-9 col-w-md-9  bxr-list-hover-menu ">
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/about/company/"><img src='/upload/medialibrary/ec2/ec23e341279f6c2bf66b64f9a3be9e1e.png' alt='О компании'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/about/company/">О компании</a>
+	    </div>
+                            <div class="bxr-element-items">
+                                        <span class="bxr-children-color-hover"><a href="/about/company/licenses/">Сертификаты</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/about/company/requisites/">Реквизиты</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/about/company/employees/">Сотрудники</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/about/company/otsenka-truda/">Условия труда</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/about/company/vacancies/rabota-v-kompanii.php">Работа в компании</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/about/company/vacancies/">Вакансии</a></span>
+                                    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/edu/"><img src='/upload/medialibrary/0d8/0d82c952ea6f7d0267a63ac0db4df21e.png' alt='Обучение 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/edu/">Обучение 1С</a>
+	    </div>
+                            <div class="bxr-element-items">
+                                        <span class="bxr-children-color-hover"><a href="/edu/seminary-1s/">Мероприятия по 1С</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/edu/video-courses/">Интернет-курсы 1С</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/edu/reviews/">Отзывы по курсам</a></span>
+                                    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/media/"><img src='/upload/medialibrary/280/280abd41c299c4e26a5af02d9871f28a.png' alt='Медиа-центр'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/media/">Медиа-центр</a>
+	    </div>
+                            <div class="bxr-element-items">
+                                        <span class="bxr-children-color-hover"><a href="/media/news/">Новости</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/media/actions/">Акции</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/media/articles/">Статьи</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/media/foto/">Фотогалерея</a></span>
+                                        <span class="bxr-children-color-hover"><a href="/faq/">Вопрос-ответ</a></span>
+                                    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/about/contacts/"><img src='/upload/medialibrary/159/159d28861544ad8025ed0fd959bf0f2f.png' alt='Контакты'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/about/contacts/">Контакты</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/about/partners_and_clients/partners/"><img src='/upload/medialibrary/a25/a257a74688317f79e07c8039936a690e.png' alt='Партнеры'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/about/partners_and_clients/partners/">Партнеры</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/about/prices/"><img src='/upload/medialibrary/aad/aad1e2cb15ad4a1e0a238ed99e250c4d.png' alt='Прайс-листы'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/about/prices/">Прайс-листы</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+    </div>                            </li>
+                                <li  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list ">
+                <a href="/support/"><span class="bxr-ico-top-menu"></span>Поддержка<span class="fa fa-angle-down"></span></a>
+                                                        <div data-bimgsrc="" data-bimg="left" data-lg="3" data-md="2" data-sm="1" data-xs="1" class="col-w-lg-9 col-w-md-9  bxr-list-hover-menu ">
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/support/index.php"><img src='/upload/medialibrary/3ec/3ecc8b024e6b06244a40f166a6ce3af7.png' alt='Cопровождение 1С удаленно'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/support/index.php">Cопровождение 1С удаленно</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/support/table.php"><img src='/upload/medialibrary/b6b/b6b052d05d14d1cd203af5e5d6eab02e.png' alt='Варианты поддержки 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/support/table.php">Варианты поддержки 1С</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/support/1c.php"><img src='/upload/medialibrary/243/24332044a488520bea9535f2449d3f20.png' alt='Официальная поддержка 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/support/1c.php">Официальная поддержка 1С</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/support/connect.php"><img src='/upload/medialibrary/702/7025c2fc9462d2471410f2bf45c89f69.png' alt='Заявка на 1С-Коннект'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/support/connect.php">Заявка на 1С-Коннект</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/es/faq/"><img src='/upload/medialibrary/fff/fff1504c1f1ab06e920c3c765d06a038.png' alt='Вопросы из анкет ЕС'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/es/faq/">Вопросы из анкет ЕС</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/support/ok.php"><img src='/upload/medialibrary/141/141b5e3910fb1f519aad9b027d2c806c.png' alt='Оценка качества'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/support/ok.php">Оценка качества</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+    </div>                            </li>
+                                <li  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list ">
+                <a href="/introduction/spisok_reshenii/"><span class="bxr-ico-top-menu"></span>Внедрение</a>
+                            </li>
+                                <li  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list ">
+                <a href="/offers/"><span class="bxr-ico-top-menu"></span>Предложения<span class="fa fa-angle-down"></span></a>
+                                                        <div data-bimgsrc="" data-bimg="left" data-lg="3" data-md="2" data-sm="1" data-xs="1" class="col-w-lg-9 col-w-md-9  bxr-list-hover-menu ">
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/offers/bukhgalteru-byudzhetniku/"><img src='/upload/medialibrary/713/713ed13467b611067dc0c9d0e8a3b66f.png' alt='Бухгалтеру-бюджетнику'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/offers/bukhgalteru-byudzhetniku/">Бухгалтеру-бюджетнику</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/offers/bukhgalteru-khozraschetniku/"><img src='/upload/medialibrary/9cf/9cfac1d7a056be9e0ec53912c853de13.png' alt='Бухгалтеру-хозрасчетнику'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/offers/bukhgalteru-khozraschetniku/">Бухгалтеру-хозрасчетнику</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/offers/nachinaushemu-predprinimatelu/"><img src='/upload/medialibrary/510/510a0bc6124865c5eaf0e3cd6fef785a.png' alt='Начинающему предпринимателю'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/offers/nachinaushemu-predprinimatelu/">Начинающему предпринимателю</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/offers/sobstvenniku-biznesa/"><img src='/upload/medialibrary/dc7/dc7e477c2e05b47f03a615266cb3c0c9.png' alt='Собственнику бизнеса'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/offers/sobstvenniku-biznesa/">Собственнику бизнеса</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/offers/rukovoditelyam-proektov-i-otdelov-it/"><img src='/upload/medialibrary/303/3033ab1972831a05c5b928efb999edb6.png' alt='Руководителям проектов и отделов IT'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/offers/rukovoditelyam-proektov-i-otdelov-it/">Руководителям проектов и отделов IT</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/offers/korporativnym-klientam/"><img src='/upload/medialibrary/818/81890605ca8a68dc7adbb39c2f3ef050.png' alt='Корпоративным клиентам'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/offers/korporativnym-klientam/">Корпоративным клиентам</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+    </div>                            </li>
+                                <li  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list ">
+                <a href="/services/"><span class="bxr-ico-top-menu"></span>Сервисы<span class="fa fa-angle-down"></span></a>
+                                                        <div data-bimgsrc="" data-bimg="left" data-lg="3" data-md="2" data-sm="1" data-xs="1" class="col-w-lg-9 col-w-md-9  bxr-list-hover-menu ">
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/services/its/"><img src='/upload/medialibrary/243/24332044a488520bea9535f2449d3f20.png' alt='Сервисы 1С:ИТС'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/services/its/">Сервисы 1С:ИТС</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/services/sm/"><img src='/upload/medialibrary/fb3/fb3c5b590e2e4d5e4e558fe59b01fd2f.png' alt='Сервисы ИжСМ'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/services/sm/">Сервисы ИжСМ</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/program/actual/relizy-1s/"><img src='/upload/medialibrary/ccf/ccf0289c7f76103fea204d4efae931b5.png' alt='Актуальные релизы 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/program/actual/relizy-1s/">Актуальные релизы 1С</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+    </div>                            </li>
+                                <li  class="bxr-dark-flat bxr-bg-hover-flat bxr-li-top-menu-parent-list ">
+                <a href="/program/"><span class="bxr-ico-top-menu"></span>Программы<span class="fa fa-angle-down"></span></a>
+                                                        <div data-bimgsrc="" data-bimg="left" data-lg="3" data-md="2" data-sm="1" data-xs="1" class="col-w-lg-9 col-w-md-9  bxr-list-hover-menu ">
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/program/1c/"><img src='/upload/medialibrary/243/24332044a488520bea9535f2449d3f20.png' alt='Программы 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/program/1c/">Программы 1С</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/services/its/1s-predpriyatie-cherez-internet/"><img src='https://www.izhsm.ru/upload/medialibrary/e8a/e8ab310d3f4bf2edfb3b0f6fe7b741e3.png' alt='1С:Фреш'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/services/its/1s-predpriyatie-cherez-internet/">1С:Фреш</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/services/its/1s-grm/"><img src='/upload/medialibrary/e2e/3qbcqyttko4p5qifytj1d47ucofstmcv.png' alt='1С:Готовое рабочее место'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/services/its/1s-grm/">1С:Готовое рабочее место</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/program/upgrade_1c.php"><img src='/upload/medialibrary/463/46384decf90df774cc5b05853e9a7e12.png' alt='Апгрейд программ 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/program/upgrade_1c.php">Апгрейд программ 1С</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/program/pp-help.php"><img src='/upload/medialibrary/8e3/8e3ea41f7a8db474e8faaa1800a4315a.png' alt='Помощь в выборе ПП'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/program/pp-help.php">Помощь в выборе ПП</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/program/usb.php"><img src='/upload/medialibrary/e5b/e5b0fa623ed0a8b8b8c707217e176dec.png' alt='Маркировка ключей 1С'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/program/usb.php">Маркировка ключей 1С</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+        <div class="bxr-element-hover-menu">
+                <div class="bxr-element-image">            
+                                        <a href="/program/kleverens/"><img src='/upload/medialibrary/afe/afe83abaa971167448586a4787cb457a.png' alt='Программы Клеверенс'></a>
+            	</div>
+                <div class="bxr-element-content">
+            <div class="bxr-element-name bxr-children-color-hover">
+                                                <a href="/program/kleverens/">Программы Клеверенс</a>
+	    </div>
+               
+        </div>
+        <div class="bxr-clear"></div>
+    </div>
+    </div>                            </li>
+        
+            <li class="bxr-flex-menu-other other bxr-dark-flat bxr-bg-hover-flat">&nbsp;</li>
+                <div class="clearfix"></div>
+    </ul>
+</nav></div></div>        
+    </div></div>
+<div class="bxr-menu-search-line-container bxr-menu-search-line-container-color"><div class="container bxr-built-menu-container">
+    </div></div></div>
+</div>
+
+
+
+
+
+<script>
+        $("body").addClass("");
+	var panelTop = 99999999;
+
+	var mWidth = 960;
+
+	var isCreate = false;
+
+	BXReady.FixedPanel = {
+
+		init : function(siteID, templateID, templatePath, siteDir){
+
+			if (!BXReady.FixedPanel.isCreate){
+
+
+
+				params = JSON.stringify(
+					{
+						'site' : siteID,
+                        'template' : templateID,
+						'templatePath' : templatePath,
+                                    'siteDir' : siteDir
+					}
+				);
+				request = $.ajax({
+					url: "/bitrix/components/alexkova.business/panel.top.fixed.ajax/templates/.default/ajax.php",
+					data: {inv: params},
+					success: function(data){
+                                            $('#bxr-top-fixed-panel').html(data);
+                                            panelTop = $('#bxr-top-fixed-panel-anker').position().top;
+                                            $('#bxr-top-fixed-panel').trigger('BXReady.FixedPanel.onCreate');
+					}
+				});
+                                
+                                BXReady.FixedPanel.isCreate = true;
+			};
+		},
+
+		show: function(){
+			if ($('#bxr-top-fixed-panel').data('show') != '1'){
+
+                            $('#bxr-top-fixed-panel').fadeIn(200);
+                            $('#bxr-top-fixed-panel').data('show', '1');
+                            $('#bxr-top-fixed-panel').trigger('BXReady.FixedPanel.onShow');
+			}
+		},
+
+		hide: function(){
+			if ($('#bxr-top-fixed-panel').data('show') != '0'){
+				$('#bxr-top-fixed-panel').fadeOut(200);
+				$('#bxr-top-fixed-panel').data('show', '0');
+			}
+		}
+
+	};
+
+
+	$(document).scroll(function(){
+
+		if ($(window).width() < mWidth){
+			BXReady.FixedPanel.hide();
+			return;
+		}
+
+		if ($(document).scrollTop()>panelTop){
+			BXReady.FixedPanel.show();
+		}else{
+			BXReady.FixedPanel.hide();
+		}
+
+	});
+
+	$(window).resize(function(){
+		if ($(window).width() < mWidth){
+			BXReady.FixedPanel.hide();
+			return;
+		}
+	});
+
+</script>
+
+	<a name="bxr-top-fixed-panel-anker" id="bxr-top-fixed-panel-anker"></a>
+	<div id="bxr-top-fixed-panel"></div>
+	<script>BXReady.FixedPanel.init('s1','business_v1','/bitrix/templates/business_v1','/');</script>
+
+    <div class="tb30-bottom">
+	 <!--'start_frame_cache_5nYm6P'--><div class="bxr-slider col-md-12 col-sm-12 " accesskey="" style="position: relative">
+        <div class="container right" style="background: url('/upload/iblock/78b/78bd1ad5272171ad920b6c55a86d41ae.jpg');"><div class="row">
+                <div class="container">
+                                        <div class="col-md-6 col-sm-5 hidden-xs pull-right">
+                    <img class="img-responsive" alt="6 апреля Единый онлайн&nbsp;-&nbsp;семинар&nbsp;1С" src="/upload/iblock/aed/aed297a760e3bca42743b5c5c49814b3.png"  title="6 апреля Единый онлайн&nbsp;-&nbsp;семинар&nbsp;1С"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
+                </div>
+                <div class="col-md-6 col-sm-7 col-xs-12 slick-banner-content right">
+            <div class="bxr-table-cell">
+                                            <h2 style="color: #2d2d2d" >6 апреля Единый онлайн&nbsp;-&nbsp;семинар&nbsp;1С</h2>
+                                                                <p style="color: #414141">Об учете, налогах и автоматизации – из первых рук!<br>Выступают ведущие специалисты<br>ФНС, Минфина, ПФР и фирмы "1С"<br><span style="color: #ff0000;">Участие бесплатно!</span></p>
+                                            <div class="slick-buttons">
+                                                                                                    <div class="modern-card-buttons">
+                                                                                    <a target='_self' href="/es/" class="bxr-slider-button bxr-color-flat bxr-bg-hover-dark-flat">Программа онлайн-семинара</a>
+                                                                            </div>
+                                                                                                        <div class="modern-card-buttons">
+                                                                                    <a target='_self' href="https://es.1c.ru/register#66Bsj1O8QZ" class="bxr-slider-button bxr-color-flat bxr-bg-hover-dark-flat">Регистрация</a>
+                                                                            </div>
+                                                        </div>
+                </div></div>
+            </div>
+            </div></div>
+</div>
+<div class="clearfix"></div>
+    <script>
+    window.BXReady.Business.SlickSliderTop = {
+        init: function(){
+            var Slidevar = 0;
+            $('.bxr-slider').slick({
+                // asNavFor: '.bxr-main-slider-nav',
+                slidesToShow: 1,
+                // asNavFor: '.bxr-main-slider-nav'
+                dots: true,
+                arrow:false,
+                                fade: true,
+                                speed: 800,
+                                autoplaySpeed: 9500,
+                                autoplay: true,
+                nextArrow: '<button type="button" class="slick-next bxr-bg-hover-dark-flat"><i class="fa fa-angle-right"></i></button>',
+                prevArrow: '<button type="button" class="slick-prev bxr-bg-hover-dark-flat"><i class="fa fa-angle-left"></i></button>',
+            });
+            // var Slidespeed = /2;
+            var Slidespeed = 300;
+
+            $('.bxr-slider').on('beforeChange', function(event, slick, currentSlide, nextSlide){
+              var Item = $(".bxr-main-slider-nav li").eq(nextSlide),
+              ItemPosition = Item.height() * nextSlide,
+              ItemCount = slick.$slides.length - 1,
+              ItemBottom = 340 - (Item.height() * (nextSlide + 2));
+              if (nextSlide == ItemCount) {
+                ItemBottom = 340 - (Item.height() * (nextSlide + 1));
+              }
+              if (ItemBottom < 0) {
+                $(".bxr-main-slider-nav").animate({"top":ItemBottom},{duration: Slidespeed, specialEasing: {top: 'linear'}});
+              }else{
+                $(".bxr-main-slider-nav").animate({"top":0},{duration: Slidespeed, specialEasing: {top: 'linear'}});
+              }
+              Item.addClass("bxr-active");
+              Item.siblings().removeClass("bxr-active");
+              $(".bxr-line").animate({"top":ItemPosition}, {duration: Slidespeed, specialEasing: {top: 'linear'}});
+            });
+            $(".bxr-main-slider-nav li").on("click", function(event){
+              var ItemIndex = $(this).index()-1;
+              $('.bxr-slider').slick('slickGoTo', ItemIndex);
+            });
+            $('.bxr-slider').css("visibility", "visible");
+        }
+    }
+
+    $(document).ready(function(){
+        BXReady.Business.SlickSliderTop.init(
+        );
+    });
+</script>
+<!--'end_frame_cache_5nYm6P'-->
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			 
+
+
+
+
+
+	<div class="row bxr-list">
+
+				<div class="clearfix"></div>
+
+	
+						
+			
+			<div id="bx_3218110189_4029" class="t_2 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-trigger-v1" data-uid="2">
+	<div class="bxr-element-container">
+            <div class="bxr-element-image">
+                        <img src="/upload/iblock/ee2/ee23c492557131cc65be52d09263c09a.png" alt="Закажите обратный звонок! 8 (3412) 90-89-90">
+        </div>
+            <div class="bxr-element-name">
+                                                            Заказать <b>обратный <a href="javascript:void (0);" data-toggle="modal" data-target="#bxr-phone-popup">звонок!</a></b><br>8 (3412) 90-89-90                                                </div>
+	</div>
+</div>
+			</div>
+                                                       
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_3218110189_4030" class="t_2 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-trigger-v1" data-uid="2">
+	<div class="bxr-element-container">
+            <div class="bxr-element-image">
+                        <img src="/upload/iblock/df2/df2b2968d835398f0c05c5a33e3d59df.png" alt="Бесплатная помощь в выборе 1С">
+        </div>
+            <div class="bxr-element-name">
+                                                            Получить <b>бесплатную</b><br><a href="/program/pp-help.php">помощь в выборе 1С</a>                                                </div>
+	</div>
+</div>
+			</div>
+                                                       
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_3218110189_4028" class="t_2 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-trigger-v1" data-uid="2">
+	<div class="bxr-element-container">
+            <div class="bxr-element-image">
+                        <img src="/upload/iblock/ea1/ea1947ead2d52767104ac0e456d71224.png" alt="Цены на программы и услуги">
+        </div>
+            <div class="bxr-element-name">
+                                                            <a href="/about/prices/"><b>Купить программы 1С</b></a>,<br><a href="/support/"><b>Заказать поддержку 1С</b></a>                                                </div>
+	</div>
+</div>
+			</div>
+                                                       
+                                                            <div class="clearfix visible-md"></div>
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_3218110189_4031" class="t_2 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-trigger-v1" data-uid="2">
+	<div class="bxr-element-container">
+            <div class="bxr-element-image">
+                        <img src="/upload/iblock/57f/57fda3e57238373fe7bde466b4dd9b16.png" alt="Подключиться к 1С-Коннект">
+        </div>
+            <div class="bxr-element-name">
+                                                            Подключиться к <b><a href="/support/connect.php">1С-Коннект</a></b><br>для оперативной связи с нами!                                                </div>
+	</div>
+</div>
+			</div>
+                                                                                    <div class="clearfix visible-lg"></div>
+                               
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                			</div>
+
+
+		
+
+
+
+
+<div class="clearfix"></div>
+    		</div>
+	</div>
+</div>
+<div class="container tb20-bottom">
+	<div class="row">
+		<div class="col-xs-12">
+			 
+<div class="row bxr-promo-ribbon bxr-promo-block">
+
+                    <div id="bx_651765591_4077" 
+             class="bxr-promo-element col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="https://www.izhsm.ru/media/news/skidka-50-malomu-i-srednemu-biznesu-na-oblachnye-programmy-1s/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/cb8/5j9u1hpgejz88j7xkounq9ye1u3w7jkt.jpg)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    
+                            </div>
+    </a>
+</div>        </div>
+                    <div id="bx_651765591_4082" 
+             class="bxr-promo-element col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="/offers/nachinaushemu-predprinimatelu/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/82f/82f69dda347c32dd5aafc26a4b1de04f.jpg)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    <span class="bxr-promo-ribbon-name" 
+                          style='background-color:#fff;
+                                 color:#000;'
+                    >
+                            Начинающему предпринимателю                    </span><br>
+                                    
+                            </div>
+    </a>
+</div>        </div>
+                    <div id="bx_651765591_4078" 
+             class="bxr-promo-element col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="/offers/bukhgalteru-khozraschetniku/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/84d/84dad1df156abc6d7bc1a03468609276.jpg)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    <span class="bxr-promo-ribbon-name" 
+                          style='background-color:#fff;
+                                 color:#000;'
+                    >
+                            Бухгалтеру-хозрасчетнику                    </span><br>
+                                    
+                            </div>
+    </a>
+</div>        </div>
+                    <div id="bx_651765591_4083" 
+             class="bxr-promo-element col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="/offers/bukhgalteru-byudzhetniku/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/0bc/0bcbedba5219f3a2d5b95aa6aea58c1d.jpg)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    <span class="bxr-promo-ribbon-name" 
+                          style='background-color:#fff;
+                                 color:#000;'
+                    >
+                            Бухгалтеру-бюджетнику                    </span><br>
+                                    
+                            </div>
+    </a>
+</div>        </div>
+                    <div id="bx_651765591_4079" 
+             class="bxr-promo-element col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="/offers/sobstvenniku-biznesa/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/484/48426ef953228ec73ce42a4a80b20946.jpg)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    <span class="bxr-promo-ribbon-name" 
+                          style='background-color:#fff;
+                                 color:#000;'
+                    >
+                            Собственнику бизнеса                    </span><br>
+                                    
+                            </div>
+    </a>
+</div>        </div>
+                    <div id="bx_651765591_4081" 
+             class="bxr-promo-element col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="/offers/rukovoditelyam-proektov-i-otdelov-it/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/d02/d02d1472bbcef8c3349f4046a0d6f20f.jpg)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    <span class="bxr-promo-ribbon-name" 
+                          style='background-color:#fff;
+                                 color:#000;'
+                    >
+                            Руководителям проектов                    </span><br>
+                                    
+                            </div>
+    </a>
+</div>        </div>
+                    <div id="bx_651765591_4080" 
+             class="bxr-promo-element col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <div class="bxr-approx-element">
+    <a href="https://www.izhsm.ru/media/actions/privedi-druga/">
+            <div class="bxr-promo-image" 
+                 style="background-image:url(/upload/iblock/a83/wj6fxlxq1xdajymc3qu818me08ln7tl5.png)">
+            </div>
+            
+            <div class="bxr-promo-ribbon-info">
+                                    
+                            </div>
+    </a>
+</div>        </div>
+    
+</div>
+
+
+		</div>
+	</div>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="bxr-list">
+				<h2 class="tb20-bottom txtTrans">Программы 1С</h2>
+				<p class="tb30-bottom">
+					 Программы линейки "1С:Предприятие 8" и отраслевые решения.
+				</p>
+			</div>
+			 <div class="row">
+	<div class="col-md-6 col-xs-12">
+		
+<div class="bxr-section-horizontal-v2" data-uid="1" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/program/1c/tipovye-resheniya-na-platforme-1s-predpriyatie-8/">
+									<img src="/upload/resize_cache/iblock/5de/270_150_1/5de7fbed832193483478e997e4249090.gif" alt="Типовые решения &quot;1С:Предприятие 8&quot;">
+							</a>
+        </div>
+        <div class="bxr-element-content">
+            <div class="bxr-element-name">
+                <a href="/program/1c/tipovye-resheniya-na-platforme-1s-predpriyatie-8/">
+                    Типовые решения &quot;1С:Предприятие 8&quot;                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            <p>Предназначены для автоматизации типовых задач учета и управления предприятий. При разработке решений учитывались международные методики управления (MRP II, CRM, SCM, ERP, ERP II и др.) и реальные потребности предприятий, не укладывающиеся в стандартный набор функциональности этих методик.</p>                     </div>
+            
+                    </div>
+    </div>
+</div>
+
+	</div>
+	<div class="col-md-6 col-xs-12">
+		
+<div class="bxr-section-horizontal-v2" data-uid="1" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/program/1c/otraslevye-resheniya-na-platforme-1s-predpriyatie-8/">
+									<img src="/upload/resize_cache/iblock/fe6/270_150_1/fe649e75f298d3a16febb3b0f5597cd5.gif" alt="Отраслевые решения &quot;1С:Предприятие 8&quot;">
+							</a>
+        </div>
+        <div class="bxr-element-content">
+            <div class="bxr-element-name">
+                <a href="/program/1c/otraslevye-resheniya-na-platforme-1s-predpriyatie-8/">
+                    Отраслевые решения &quot;1С:Предприятие 8&quot;                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            <p>Отраслевые и специализированные решения "1С:Предприятие" нацелены на максимальное соответствие потребностям в автоматизации важных для предприятий бизнес-процессов и позволяют сокращать издержки при внедрениях продуктов за счет того, что поставляются в качестве готовых решений.</p>                    </div>
+            
+                    </div>
+    </div>
+</div>
+
+	</div>
+	<div class="col-md-6 col-xs-12">
+		
+<div class="bxr-section-horizontal-v2" data-uid="1" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/program/1c/1s-sovmestimo/">
+									<img src="/upload/resize_cache/iblock/d56/270_150_1/d563517b91e3b781b80f4c10aa21feb2.gif" alt="1С:Совместимо">
+							</a>
+        </div>
+        <div class="bxr-element-content">
+            <div class="bxr-element-name">
+                <a href="/program/1c/1s-sovmestimo/">
+                    1С:Совместимо                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            <p>Специализированные и отраслевые партнерские решения на платформе "1С:Предприятие 8" либо интегрирующиеся с "1С:Предприятие", прошедшие тщательное тестирование в фирме "1С" на корректность совместной работы и удобство применения с "1С:Предприятием".</p>                    </div>
+            
+                    </div>
+    </div>
+</div>
+
+	</div>
+	<div class="col-md-6 col-xs-12">
+		
+<div class="bxr-section-horizontal-v2" data-uid="1" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/program/1c/resheniya-soft-master/">
+									<img src="/upload/resize_cache/iblock/bcf/270_150_1/bcf72cff87d341e0ea183dfd9ba38afa.gif" alt="Решения &quot;Софт Мастер&quot;">
+							</a>
+        </div>
+        <div class="bxr-element-content">
+            <div class="bxr-element-name">
+                <a href="/program/1c/resheniya-soft-master/">
+                    Решения &quot;Софт Мастер&quot;                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            <p>Собственные решения компании "Софт Мастер" для автоматизации различных бизнес-процессов на предприятиях.</p>                    </div>
+            
+                    </div>
+    </div>
+</div>
+
+	</div>
+</div>
+
+		</div>
+	</div>
+</div>
+ <br>
+ <br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="bxr-list">
+				<h2 class="tb20-bottom txtTrans">Релизы программ 1С</h2>
+			</div>
+			 
+
+
+
+
+
+	<div class="row bxr-list">
+
+				<div class="clearfix"></div>
+
+	
+						
+			
+			<div id="bx_1373509569_20241" class="t_5 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="5">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">01.03.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/program/actual/relizy-1s/20241/">Бухгалтерия предприятия КОРП, редакция 2.0, релиз 2.0.67.23</a>
+                </div>
+	</div>
+</div>
+			</div>
+                                                       
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_1373509569_20240" class="t_5 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="5">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">01.03.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/program/actual/relizy-1s/20240/">Бухгалтерия предприятия, редакция 2.0, релиз 2.0.67.23</a>
+                </div>
+	</div>
+</div>
+			</div>
+                                                       
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_1373509569_20238" class="t_5 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="5">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">01.03.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/program/actual/relizy-1s/20238/">Розница базовая, редакция 2.3, релиз 2.3.10.61</a>
+                </div>
+	</div>
+</div>
+			</div>
+                                                       
+                                                            <div class="clearfix visible-md"></div>
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_1373509569_20237" class="t_5 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="5">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">01.03.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/program/actual/relizy-1s/20237/">Розница, редакция 2.3, релиз 2.3.10.61</a>
+                </div>
+	</div>
+</div>
+			</div>
+                                                                                    <div class="clearfix visible-lg"></div>
+                               
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                			</div>
+
+
+		
+
+
+
+
+<div class="clearfix"></div>
+    		</div>
+	</div>
+</div>
+ <br>
+ <br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="bxr-list">
+				<h2 class="tb20-bottom txtTrans">Внедренные решения</h2>
+				<p class="tb30-bottom">
+					 Результатом нашей работы является не просто запущенная в работу программа, а разработанный по нашей методике комплект документов: описанные бизнес-процессы, разработанные регламенты взаимодействия между подразделениями, инструкции пользователей. И четкое понимание того, как развиваться дальше.
+				</p>
+			</div>
+			 
+
+
+
+
+
+	<div class="row bxr-list">
+
+				<div class="clearfix"></div>
+
+	
+						
+			
+			<div id="bx_3485106786_4296" class="t_7 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 bxr-border-color bxr-border-color-hover" data-uid="7" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/introduction/ERP/4296/">
+									<img src="/upload/iblock/004/004fe3c526f7511f5a75d275d5ca8add.jpg" alt="Автоматизация деятельности ОАО &quot;Концерн &quot;Калашников&quot; на базе &quot;1С:Управление производственным предприятием 8&quot;">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/introduction/ERP/4296/">
+                    Автоматизация деятельности ОАО &quot;Концерн &quot;Калашников&quot; на базе &quot;1С:Управление производственным предприятием 8&quot;                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            Версия 1С:Предприятия: 8.2<br />
+Внедренное типовое решение: &nbsp;&nbsp;&nbsp;&nbsp;<br />
+1С:Машиностроение 8 КОРП<br />
+Отрасли: Машиностроение, приборостроение                    </div>
+                                            </div>
+    </div>
+</div>
+
+			</div>
+                                                       
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_3485106786_4311" class="t_7 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 bxr-border-color bxr-border-color-hover" data-uid="7" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/introduction/spisok_reshenii/4311/">
+									<img src="/upload/iblock/130/1305639c7bc92f2b7435273ce59cb949.jpg" alt="Автоматизация бухгалтерского учета на базе ПП &quot;1С:Бухгалтерия для бюджетных учреждений 8&quot; в Филиал-53 отряд ГУ &quot;ВО Минфина России&quot;">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/introduction/spisok_reshenii/4311/">
+                    Автоматизация бухгалтерского учета на базе ПП &quot;1С:Бухгалтерия для бюджетных учреждений 8&quot; в Филиал-53 отряд ГУ &quot;ВО Минфина России&quot;                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            Компоненты: 8.1; сетевая<br />
+Базовая конфигурация: Бухгалтерия бюджетного учреждения 8 1.0<br />
+Отрасль: Бюджетные организации                    </div>
+                                            </div>
+    </div>
+</div>
+
+			</div>
+                                                       
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_3485106786_7533" class="t_7 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 bxr-border-color bxr-border-color-hover" data-uid="7" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/introduction/spisok_reshenii/7533/">
+									<img src="/upload/iblock/465/46577f7eb6132dac5e9e08446a6547e2.jpg" alt="Автоматизация учета ООО &quot;ЭТЗ &quot;Вектор&quot; на базе ПП &quot;1С:Управление производственным предприятием 8&quot; ">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/introduction/spisok_reshenii/7533/">
+                    Автоматизация учета ООО &quot;ЭТЗ &quot;Вектор&quot; на базе ПП &quot;1С:Управление производственным предприятием 8&quot;                 </a>
+            </div>
+                                <div class="bxr-element-description">
+                            Компоненты: 8.2 ; для SQL<br />
+Базовая конфигурация: Управление производственным предприятием 8 1.3.4.1<br />
+Отрасли: Производство, ТЭК &gt;&gt; Машиностроение, приборостроение                    </div>
+                                            </div>
+    </div>
+</div>
+
+			</div>
+                                                       
+                                                            <div class="clearfix visible-md"></div>
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_3485106786_4373" class="t_7 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 bxr-border-color bxr-border-color-hover" data-uid="7" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/introduction/ERP/4373/">
+									<img src="/upload/iblock/c21/c2120112ecd837a83aa2346403f64009.jpg" alt="Автоматизация ООО &quot;ЗАВОД ЖБИ № 2&quot; на базе решения &quot;1С:ERP Управление предприятием 2&quot;">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/introduction/ERP/4373/">
+                    Автоматизация ООО &quot;ЗАВОД ЖБИ № 2&quot; на базе решения &quot;1С:ERP Управление предприятием 2&quot;                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            Компоненты: 8.3 ;<br />
+Внедренное типовое решение: 1С:Предприятие 8. ERP Управление предприятием 2<br />
+Отрасль: Производство, ТЭК &gt;&gt; Промышленность строительных материалов                     </div>
+                                            </div>
+    </div>
+</div>
+
+			</div>
+                                                                                    <div class="clearfix visible-lg"></div>
+                               
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                			</div>
+
+
+		
+
+
+
+
+<div class="clearfix"></div>
+    		</div>
+	</div>
+</div>
+ <br>
+ <br>
+ <!--<div class="container tb20-bottom">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="bxr-list">
+				<h2 class="tb20-bottom txtTrans">Отзывы наших клиентов</h2>
+				<p class="tb30-bottom">
+					 Поставка широкого спектра товаров и промышленного оборудования как для корпоративных клиентов так и для частных лиц. Профессионализм и ответственность ключевые преимущества нашей компании.
+				</p>
+			</div>
+			 
+
+
+
+
+<p><font class="errortext">Раздел не найден.</font></p><div class="clearfix"></div>
+    		</div>
+	</div>
+</div>
+ <br>-->
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="bxr-list">
+				<h2 class="tb20-bottom txtTrans">Новости</h2>
+			</div>
+			 
+
+
+
+
+
+	<div class="row bxr-list">
+
+				<div class="clearfix"></div>
+
+	
+		<div class="slick-list" id="sl_10">
+							
+			
+			<div id="bx_565502798_20239" class="t_10 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="10">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">01.03.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/media/news/s-1-iyulya-2022-goda-budet-dostupna-avtomatizirovannaya-usn/">С 1 июля 2022 года будет доступна автоматизированная УСН</a>
+                </div>
+	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_565502798_20226" class="t_10 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="10">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">28.02.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/media/news/top-5-novostey-1s-its-c-21-po-25-fevralya-2022/">ТОП-5 главных новостей ИС 1С:ИТС c 21 по 25 февраля 2022 года</a>
+                </div>
+	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_565502798_20210" class="t_10 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="10">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">28.02.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/media/news/relizy-1s-mobilnaya-kassa-3-14-i-1s-kassa-3-0-10/">Релизы &quot;1С:Мобильная касса&quot; 3.14 и &quot;1С:Касса&quot; 3.0.10</a>
+                </div>
+	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_565502798_20209" class="t_10 bxr-auto-height col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                            <div class="bxr-news-short-list-v1" data-uid="10">
+	<div class="bxr-element-container">
+                            <div class="bxr-element-date">
+                        <div class="bxr-color">25.02.2022</div>
+                </div>
+                        
+                <div class="bxr-element-name">
+                        <a class="bxr-gray-content" href="/media/news/aktsii-1s-fresh/">Акции 1С:Фреш для новых пользователей и пользователей базовых версий 1С:ИТС, желающих перейти в 1С:Фреш</a>
+                </div>
+	</div>
+</div>
+			</div>
+                        			</div>
+
+
+			</div>
+
+	<script>
+            function isTouchDevice() {
+              try {
+                document.createEvent('TouchEvent');
+                return true;
+              }
+              catch(e) {
+                return false;
+              }
+            }
+                            if (!isTouchDevice()) {
+                    prevBtn = '<button type="button" class="bxr-color-button slick-prev hidden-arrow"></button>';
+                    nextBtn = '<button type="button" class="bxr-color-button slick-next hidden-arrow"></button>';
+                }
+                                        if (isTouchDevice()) {
+                    prevBtn = '<button type="button" class="bxr-color-button slick-prev"></button>';
+                    nextBtn = '<button type="button" class="bxr-color-button slick-next"></button>';
+                }
+            		$('#sl_'+10).slick({
+                                                    dots: true,
+                        			infinite: true,   
+                                                    speed: 300,
+                                                                            autoplaySpeed: 2500,
+                                                			slidesToShow: 4,
+			slidesToScroll: 1,
+                                                prevArrow: prevBtn,
+                        nextArrow: nextBtn,
+			responsive: [
+				{
+					breakpoint: 1199,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 1
+					}
+				},
+				{
+					breakpoint: 991,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 1
+					}
+				},
+				{
+					breakpoint: 767,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				},
+			]
+		});
+
+		
+
+	</script>
+
+
+
+
+
+<div class="clearfix"></div>
+    		</div>
+	</div>
+</div>
+ <br>
+ <br>
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<div class="bxr-list">
+				<h2 class="tb20-bottom txtTrans">Статьи и обзоры</h2>
+			</div>
+			 
+
+
+
+
+
+	<div class="row bxr-list">
+
+				<div class="clearfix"></div>
+
+	
+						
+			
+			<div id="bx_1454625752_20107" class="t_12 bxr-auto-height col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 " data-uid="12" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/media/articles/insaydy/its-fevral-2022/">
+									<img src="/upload/iblock/579/otvk8onrpt3o9e12mj8frg88r2anqrie.jpg" alt="1С:ИТС февраль 2022. Пользователю на заметку">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/media/articles/insaydy/its-fevral-2022/">
+                    1С:ИТС февраль 2022. Пользователю на заметку                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            В этом выпуске 1С:ИТС: Какие лица обязаны сдавать декларацию 3-НДФЛ за&nbsp;2021&nbsp;год? Перерегистрировать ли онлайн-кассу с&nbsp;1&nbsp;марта&nbsp;2022&nbsp;года? Новые правила выдачи СИЗ и др.                    </div>
+                                        <div class="bxr-element-date">
+                    <div class="bxr-date-gray">
+                                                    03.02.2022                                                                                            </div>
+                </div>
+                                </div>
+    </div>
+</div>
+
+			</div>
+                                                       
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_1454625752_19976" class="t_12 bxr-auto-height col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 " data-uid="12" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/media/articles/insaydy/its-yanvar-2022/">
+									<img src="/upload/iblock/0fb/mp1jnwv4visxevagneotgxkdj8gog5qi.jpg" alt="1С:ИТС январь 2022. Пользователю на заметку">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/media/articles/insaydy/its-yanvar-2022/">
+                    1С:ИТС январь 2022. Пользователю на заметку                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            В этом выпуске 1С:ИТС: Новый порядок оформления листков нетрудоспособности с 2022г.; Электронный кадровой документооборот; Новый перечень северных регионов и др.                    </div>
+                                        <div class="bxr-element-date">
+                    <div class="bxr-date-gray">
+                                                    10.01.2022                                                                                            </div>
+                </div>
+                                </div>
+    </div>
+</div>
+
+			</div>
+                                                       
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_1454625752_19833" class="t_12 bxr-auto-height col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 " data-uid="12" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/media/articles/insaydy/its-dekabr-2021/">
+									<img src="/upload/iblock/254/y56qtabyze7do4zqoryq6nz747jzt3ow.jpg" alt="1С:ИТС декабрь 2021. Пользователю на заметку">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/media/articles/insaydy/its-dekabr-2021/">
+                    1С:ИТС декабрь 2021. Пользователю на заметку                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            В этом выпуске 1С:ИТС: ФНС России рассказала, как подавать уведомление о централизованной уплате НДФЛ с 2022 года; Введены новые коды доходов и вычетов для НДФЛ и др.                    </div>
+                                        <div class="bxr-element-date">
+                    <div class="bxr-date-gray">
+                                                    03.12.2021                                                                                            </div>
+                </div>
+                                </div>
+    </div>
+</div>
+
+			</div>
+                                                       
+                                                                                                                    <div class="clearfix visible-xs"></div>
+                                                                                					
+			
+			<div id="bx_1454625752_19727" class="t_12 bxr-auto-height col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            
+<div class="bxr-news-vertical-v1 " data-uid="12" data-resize="1">
+    <div class="bxr-section-container">
+        <div class="bxr-element-image">
+            <a href="/media/articles/insaydy/its-noyabr-2021/">
+									<img src="/upload/iblock/fc1/kwnlmyd129cvdoofq0bzs3pcphgozdue.jpg" alt="1С:ИТС ноябрь 2021. Пользователю на заметку">
+							</a>
+        </div>
+        <div class="bxr-element-content left">
+            <div class="bxr-element-name">
+                <a href="/media/articles/insaydy/its-noyabr-2021/">
+                    1С:ИТС ноябрь 2021. Пользователю на заметку                </a>
+            </div>
+                                <div class="bxr-element-description">
+                            В этом выпуске 1С:ИТС: В составе ежемесячной бюджетной отчетности за&nbsp;октябрь нужно представить справки (ф.&nbsp;0503125)﻿; Стало известно о величине МРОТ в 2022 году и др.                    </div>
+                                        <div class="bxr-element-date">
+                    <div class="bxr-date-gray">
+                                                    08.11.2021                                                                                            </div>
+                </div>
+                                </div>
+    </div>
+</div>
+
+			</div>
+                                                                                    <div class="clearfix visible-lg"></div>
+                               
+                                                            <div class="clearfix visible-md"></div>
+                                                                                        <div class="clearfix visible-sm"></div>
+                                                                                        <div class="clearfix visible-xs"></div>
+                                                                                			</div>
+
+
+		
+
+
+
+
+<div class="clearfix"></div>
+    		</div>
+	</div>
+</div>
+ <br>
+ <br>
+<div class="bxr-gray-ribbon-list tb20-bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="bxr-list">
+					<h2 class="tb20-bottom txtTrans">Нас рекомендуют</h2>
+				</div>
+				 
+
+
+
+
+
+	<div class="row bxr-list">
+
+				<div class="clearfix"></div>
+
+	
+		<div class="slick-list" id="sl_8">
+							
+			
+			<div id="bx_3322728009_18342" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/ooo-pk-ayk/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/2c9/999_60_1/2c93027bcdb3fbb989bce5ab2db905e3.jpg" alt="ООО &quot;ПК АЙК&quot;" title="ООО &quot;ПК АЙК&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_18943" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/zavod-stroitelnykh-lesov-soyuz/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/555/999_60_1/55510e700e043b0eb2fd2b6fd807f22a.jpg" alt="Завод строительных лесов &quot;СОЮЗ&quot;" title="Завод строительных лесов &quot;СОЮЗ&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4335" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/oao-avtodormostproekt/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/fc2/999_60_1/fc26fda577739d30534812ed27209469.jpg" alt="ОАО &quot;Автодормостпроект&quot;" title="ОАО &quot;Автодормостпроект&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4306" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/oao-kontsern-kalashnikov/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/a5d/999_60_1/a5d0fdcff4f5eb22c79e2cfb7a9c3cce.jpg" alt="ОАО &quot;Концерн &quot;Калашников&quot;" title="ОАО &quot;Концерн &quot;Калашников&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4352" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/ooo-tpk-vostok-resurs/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/aeb/999_60_1/aeb97e5e5b1a360c65fd4ae792b22fa1.png" alt="ООО ТПК &quot;Восток-ресурс&quot;" title="ООО ТПК &quot;Восток-ресурс&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4327" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/sp-zao-udol/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/f2e/999_60_1/f2e4ddc25ed2d1046ba4f6d5c8e28cbe.jpg" alt="СП ЗАО &quot;УДОЛ&quot;" title="СП ЗАО &quot;УДОЛ&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4376" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/ooo-khlebozavod-5/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/227/999_60_1/22712b061524392512b52ca60b7e5273.jpg" alt="ООО &quot;Хлебозавод №5&quot;" title="ООО &quot;Хлебозавод №5&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4325" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/agentstvo-investitsionnogo-razvitiya-udmurtskoy-respubliki/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/204/999_60_1/204f7d7e84b02ff7a209e43b5ba2211b.png" alt="Агентство инвестиционного развития Удмуртской Республики" title="Агентство инвестиционного развития Удмуртской Республики">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_7534" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/ooo-etz-vektor/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/2c1/999_60_1/2c1a052e72230c8ac5139edd7b077893.png" alt="ООО &quot;ЭТЗ &quot;Вектор&quot;" title="ООО &quot;ЭТЗ &quot;Вектор&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        					
+			
+			<div id="bx_3322728009_4340" class="t_8 bxr-auto-height col-lg-2 col-md-3 col-sm-4 col-xs-6">
+                            <div class="bxr-image-v1  bxr-grayscale    bxr-use-background  " data-uid="8">
+	<div class="bxr-element-container">
+		<div class="bxr-element-image" style="width:70%; height: 60px">
+                            <a href="/reviews/otzyvy-po-vnedreniyam/ooo-npts-regionkad/" class="" rel="" >
+                    <img style="max-height: 60px" src="/upload/resize_cache/iblock/822/999_60_1/822f6f825bbea32b095a5b9618cd0352.png" alt="ООО НПЦ &quot;Регионкад&quot;" title="ООО НПЦ &quot;Регионкад&quot;">
+                </a>
+            		</div>
+            	</div>
+</div>
+			</div>
+                        			</div>
+
+
+			</div>
+
+	<script>
+            function isTouchDevice() {
+              try {
+                document.createEvent('TouchEvent');
+                return true;
+              }
+              catch(e) {
+                return false;
+              }
+            }
+                            if (!isTouchDevice()) {
+                    prevBtn = '<button type="button" class="bxr-color-button slick-prev"></button>';
+                    nextBtn = '<button type="button" class="bxr-color-button slick-next"></button>';
+                }
+                                        if (isTouchDevice()) {
+                    prevBtn = '<button type="button" class="bxr-color-button slick-prev"></button>';
+                    nextBtn = '<button type="button" class="bxr-color-button slick-next"></button>';
+                }
+            		$('#sl_'+8).slick({
+                                                    dots: false,
+                        			infinite: true,   
+                                                    speed: 300,
+                                                                            autoplaySpeed: 2500,
+                                                			slidesToShow: 6,
+			slidesToScroll: 1,
+                                                prevArrow: prevBtn,
+                        nextArrow: nextBtn,
+			responsive: [
+				{
+					breakpoint: 1199,
+					settings: {
+						slidesToShow: 4,
+						slidesToScroll: 1
+					}
+				},
+				{
+					breakpoint: 991,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 1
+					}
+				},
+				{
+					breakpoint: 767,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 1
+					}
+				},
+			]
+		});
+
+		
+
+	</script>
+
+
+
+
+
+<div class="clearfix"></div>
+    			</div>
+		</div>
+	</div>
+</div>
+ <br><div class="bxr-content tb20-bottom">
+    <div class="container">
+        <div class="row">
+                            <div class="col-xs-12">
+            <h1>Софт Мастер - 1С в Ижевске - купить 1с, заказать внедрение 1С и онлайн-поддержку</h1>
+<div class="tb40-bottom">
+	<p>
+		<strong><a href="/services/sm/Podderzhka-54-FZ-v-resheniyakh-1S-Predpriyatie-8/"><img width="186" alt="Центр компетенции по 54-ФЗ" src="/images/files/54_fz_titul.png" height="60" align="right" border="0"></a>Компания Софт Мастер - официальный партнер фирмы 1С</strong>, аккредитованный по "1С-Отчетности", являющийся центром компетенции "1С" по 54-ФЗ и центром сетевой компетенции фирмы "1С" (1С-Fresh). Сервис-партнер фирмы "1С" по направлению Информационно-Технологического сопровождения (ИТС) программных продуктов 1С:Предприятие.
+	</p>
+	<p>
+		Мы специализируемся на оказании услуг по <a href="/services/sm/nastroika-i-vnedrenie-1s/">внедрению систем автоматизации на базе программных продуктов "1С"</a>, используя передовые технологии работы и накопленный опыт автоматизации компаний малого, среднего и крупного бизнеса. Обладаем <a href="/introduction/spisok_reshenii/">опытом внедрения и интеграции ERP-систем</a>, а также опытом крупных внедрений (свыше 300 рабочих мест).
+	</p>
+</div></div>
+</div>
+</div>
+</div>
+<div class="tb20-bottom">
+<!--'start_frame_cache_buyPA2'-->
+<div class="rk-fullwidth rk-fullwidth-static  hidden-sm hidden-xs prm_bxr_bottom"><div class="rk-fullwidth-canvas">
+</div></div>
+<!--'end_frame_cache_buyPA2'--></div>
+<button type="button" class="bxr-button-up right bxr-color-flat bxr-bg-hover-dark-flat" style="right:65px; bottom:85px;">
+    <i class="fa fa-angle-up"></i>
+</button>
+<script>
+    $(document).ready(function(){
+        window.BXReady.Business.buttonUp.init(
+            "150",
+            "150");
+    });
+</script>    <div class="bxr-gray-ribbon-list min">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 bxr-subscribe-fullscren">
+                    <div class="bxr-subscribe"  id="sender-subscribe">
+<!--'start_frame_cache_sender-subscribe'-->	<form role="form" method="post" action="/profile/subscribe/">
+            <input type="hidden" name="sessid" id="sessid_22" value="71b18a9f10c2ffb030cf24d0e064fd86" />            <input type="hidden" name="sender_subscription" value="add">
+            <div class="bxr-sender-subscribe-container horizontal container-fluid">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 col-xs-12 bxr-subscribe-motto">
+                        <div class="bxr-subscribe-text"><span class="bxr-ico-mail">
+                            <b>Подпишись на рассылку!</b><br>
+                           Новости, обзоры, акции</span>
+                        </div>
+                    </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-12 bxr-subscribe-rubrics">
+                                                            <div class="bxr-subscribe-desc">Выберите рассылку:</div>
+                                                        <div class="bxr_subscribe_checkbox_container"><ul>
+                                                                    <li>
+                                        <input type="checkbox" name="SENDER_SUBSCRIBE_RUB_ID[]" id="SENDER_SUBSCRIBE_RUB_ID_2" value="2" checked>
+                                        <label for="SENDER_SUBSCRIBE_RUB_ID_2">Новости, релизы</label>
+                                    </li>
+                                <div class="clearfix"></div>
+                                </ul>                                        
+                            </div>
+                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-12 bxr-input-group">
+                        <input class="bxr-form-control" type="email" name="SENDER_SUBSCRIBE_EMAIL" value="" title="Введите ваш e-mail" placeholder="Введите ваш e-mail">
+                    </div>
+                    <div class="col-md-2 col-xs-12 col-sm-6 bxr_subscribe_submit_container">
+                        <button id="bxr_subscribe_btn_IzufVt" class="bxr-color-button" value="79" tabindex="0">Подписаться</button>
+                    </div>
+                </div>
+            </div>
+	</form>
+<!--'end_frame_cache_sender-subscribe'--></div>                <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+<footer class="bxr-color-line footer-head-v0 footer-head-v1">
+    <div class="hidden-sm hidden-xs">
+        <div class="container footer-head">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 hidden-sm hidden-xs">
+                    <b>ОРГАНИЗАЦИЯМ</b>                </div>
+                <div class="col-lg-3 col-md-3 hidden-sm hidden-xs">
+                    <b>МЕДИА-ЦЕНТР</b>                </div>
+                <div class="col-lg-3 col-md-3 hidden-sm hidden-xs">
+                    <b>КЛИЕНТСКИЕ ССЫЛКИ</b>                </div>
+                <div class="col-lg-3 col-md-3 hidden-sm hidden-xs pull-right">
+                     <b>ОБРАТНАЯ СВЯЗЬ</b>                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row footerline">
+
+                <div class="hidden-lg hidden-md col-sm-12 col-xs-12 mobile-footer-menu-tumbl">
+                    <b>ОРГАНИЗАЦИЯМ</b>                    <i class="fa fa-chevron-down"></i>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 toggled-item">
+                    		<div class="col-lg- col-md- col-sm-12 col-xs-12 bxr-footer-col">
+					<ul class='first'>
+											<li><a href="/about/">О компании</a></li>
+			
+											<li><a href="/about/company/licenses/">Лицензии и сертификаты</a></li>
+			
+											<li><a href="/about/partners_and_clients/partners/">Наши партнеры</a></li>
+			
+											<li><a href="/program/pp-help.php">Помощь в выборе ПП</a></li>
+			
+											<li><a href="/es/">Единый семинар 1С</a></li>
+			
+			
+		</ul>
+			</div>
+	                </div>
+                <div class="hidden-lg hidden-md col-sm-12 col-xs-12 mobile-footer-menu-tumbl">
+                    <b>МЕДИА-ЦЕНТР</b>                    <i class="fa fa-chevron-down"></i>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 toggled-item">
+                    		<div class="col-lg- col-md- col-sm-12 col-xs-12 bxr-footer-col">
+					<ul class='first'>
+											<li><a href="/media/news/">Новости</a></li>
+			
+											<li><a href="/media/actions/">Акции</a></li>
+			
+											<li><a href="/media/articles/">Статьи и обзоры</a></li>
+			
+											<li><a href="/faq/">Вопрос-ответ</a></li>
+			
+											<li><a href="/edu/video-courses/">Интернет-курсы</a></li>
+			
+			
+		</ul>
+			</div>
+	                </div>
+                <div class="hidden-lg hidden-md col-sm-12 col-xs-12 mobile-footer-menu-tumbl">
+                    <b>КЛИЕНТСКИЕ ССЫЛКИ</b>                    <i class="fa fa-chevron-down"></i>
+            </div>
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 toggled-item">
+                  		<div class="col-lg- col-md- col-sm-12 col-xs-12 bxr-footer-col">
+					<ul class='first'>
+											<li><a href="/about/company/requisites/">Наши реквизиты</a></li>
+			
+											<li><a href="/about/prices/">Прайс-листы</a></li>
+			
+											<li><a href="/reviews/otzyvy-po-vnedreniyam/">Отзывы клиентов</a></li>
+			
+											<li><a href="/services/its/1s-predpriyatie-cherez-internet/">1С в облаке</a></li>
+			
+											<li><a href="/about/company/privacy.php">Политика конфиденциальности</a></li>
+			
+			
+		</ul>
+			</div>
+	                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 footer-about-company">
+                    г. Ижевск, ул. К. Маркса, 219А, оф. 309<br>
+ тел. +7 (3412) 90-89-90<br>
+ Бесплатно по России: <b>8 800 301-89-90</b><br>
+ <a href="mailto:izhsm@izhsm.ru">izhsm@izhsm.ru</a> <a href="https://t.me/izhsm" target="_blank" title="Написать в Telegram">
+	<img src="/images/Telegram.png" width="25px" alt="Написать в Telegram"></a>
+<a href="https://wa.me/79658466967" target="_blank" title="Написать в WhatsApp">
+<img src="/images/WhatsApp.png" width="25px" alt="Написать в WhatsApp"></a>
+<a title="Написать в Viber" href="viber://chat?number=79658466967" target="_blank"><img src="/images/Viber.png" width="25px" alt="Написать в Viber" /></a>                    <div class="bxr-socnet-wrap">
+    <a href="https://www.youtube.com/channel/UCjou3FAVPah-Pr88CAOI7IQ?view_as=subscriber" target="_blank" class="footer-socnet youtube"><i class="fa fa-youtube"></i></a>
+    <a href="https://vk.com/id189581109" target="_blank" class="footer-socnet vk"><i class="fa fa-vk"></i></a>
+     <a href="https://www.instagram.com/soft_master/" target="_blank" class="footer-socnet instagram"><i class="fa fa-instagram"></i></a>
+</div>                </div>
+        </div>
+    </div>
+    <div class="bxr-under-footer-v1 bxr-color-flat">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-2 col-md-3 col-sm-3 hidden-xs">
+            <a href="/"><img alt="Софт Мастер лого" src="/images/logosm_mask.png" class="bxr-logo" style="max-width:100%;"></a>        </div>
+        <div class="col-lg-5 col-md-6 col-sm-5 col-xs-12">
+            <ul class="bxr-links">
+    <li>
+        <a class="open-form" href="javascript:void (0);" data-toggle="modal" data-target="#bxr-feedback-popup">
+            <span>Задать вопрос</span>
+        </a>
+    </li>
+    <li>
+        <a class="open-form" href="javascript:void (0);" data-toggle="modal" data-target="#bxr-phone-popup">
+            <span>Заказать звонок</span>
+            <span class="fa fa-phone bxr-font-color-light"></span>
+        </a>        
+    </li>            
+</ul>
+<p><font color="yellow">Все указанные на сайте цены носят информационный характер<br>
+и не являются публичной офертой (ст. 437 ГК РФ).</font></p>            
+        </div>
+        <div class="col-lg-4 col-md-3 col-sm-4 col-xs-12 pull-right">
+          <ul class="bxr-links pull-right">
+              <li><span class="copyright">Софт Мастер - <a href="https://www.izhsm.ru" target="_top">1С в Ижевске</a> © 2022 г.</span></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+</div>    
+
+	<div class="modal" id="bxr-phone-popup" tabindex="-1" role="dialog" aria-labelledby="bxr-phone-popupLabel">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="bxr-phone-popupLabel">Заказать звонок</h4>
+				</div>
+				<div class="modal-body" id='ajaxFormContainer_44_3' data-form="44_3">
+					
+<div class="col-xs-12 request-product">
+        <div class="request-product-name">
+            </div>
+</div>
+<form id="iblockForm44_3" class='bxr-form-body' name="iblock_add" action="/bitrix/components/alexkova.business/form.iblock/ajax/form.php" method="post" enctype="multipart/form-data">
+	<input type="hidden" name="FORM_ID" value="44_3"/>
+			<input type="hidden" name="TARGET_URL" value="/bitrix/components/alexkova.business/form.iblock/ajax/form.php"/>
+		<input type="hidden" name="sessid" id="sessid_24" value="71b18a9f10c2ffb030cf24d0e064fd86" />						                                                                                                                            Как к вам обращаться<span class="starrequired">*</span></td>
+                                        						                                                                
+                                                                                                                                    <input type="text" name="PROPERTY[166][0]" size="25" value="" data-code="FIO"/>
+                                                                                                                                            <br /><br />
+                                                                                                                                                                                                    			                                                                                                                            Телефон</td>
+                                        						                                                                
+                                                                                                                                    <input type="text" name="PROPERTY[167][0]" size="25" value="" data-code="PHONE"/>
+                                                                                                                                            <br /><br />
+                                                                                                                                                                                                    			                                                                                                                            Комментарий</td>
+                                        												<textarea cols="30" rows="5" name="PROPERTY[168][0]"></textarea>
+											
+
+
+                        <!--'start_frame_cache_Fdwg8o'-->                                                                
+							<br/>
+				<br/>
+					Защита от автоматического заполнения						<input type="hidden" name="captcha_sid" value="0dc47c592c9daeba19179522fad4685a" />
+						<img src="/bitrix/tools/captcha.php?captcha_sid=0dc47c592c9daeba19179522fad4685a" width="180" height="40" alt="CAPTCHA" />
+				<br/>
+					Введите слово с картинки<span class="starrequired">*</span>:
+					<input type="text" name="captcha_word" maxlength="50" value="">
+				<br /><br />
+			                        <!--'end_frame_cache_Fdwg8o'-->							<br />
+				<label for="accept_form_44_3">
+					<input type="checkbox" name="accept_personal" value="yes" id="accept_form_44_3">
+					Согласны ли Вы на обработку персональных данных в соответствии с политикой конфиденциальности? [<a href="https://www.izhsm.ru/about/company/privacy.php" target="_blank">Политика конфиденциальности					</a>]
+
+				</label>
+			
+			<div class="bxr-button-group text-center">
+
+
+	<button onclick="BXReady.Business.formRefresh('44_3');return false;" class="bxr-color bxr-color-button" id="submitForm_44">
+				Отправить	</button>
+
+
+						</div>
+</form>
+<script>
+    $(function() {
+       $('textarea[data-code="USER_COMMENT_AREA"]').html(''); 
+       $('input[data-code="TRADE_ID_HIDDEN"]').val(''); 
+       $('input[data-code="TRADE_NAME_HIDDEN"]').val(''); 
+       $('input[data-code="TRADE_LINK_HIDDEN"]').val(''); 
+    });
+</script>				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="modal" id="bxr-feedback-popup" tabindex="-1" role="dialog" aria-labelledby="bxr-feedback-popupLabel">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="bxr-feedback-popupLabel">Обратная связь</h4>
+				</div>
+				<div class="modal-body" id='ajaxFormContainer_45_4' data-form="45_4">
+					
+<div class="col-xs-12 request-product">
+        <div class="request-product-name">
+            </div>
+</div>
+<form id="iblockForm45_4" class='bxr-form-body' name="iblock_add" action="/bitrix/components/alexkova.business/form.iblock/ajax/form.php" method="post" enctype="multipart/form-data">
+	<input type="hidden" name="FORM_ID" value="45_4"/>
+			<input type="hidden" name="TARGET_URL" value="/bitrix/components/alexkova.business/form.iblock/ajax/form.php"/>
+		<input type="hidden" name="sessid" id="sessid_25" value="71b18a9f10c2ffb030cf24d0e064fd86" />						                                                                                                                            Ваше имя<span class="starrequired">*</span></td>
+                                        						                                                                
+                                                                                                                                    <input type="text" name="PROPERTY[169][0]" size="25" value="" data-code="FIO"/>
+                                                                                                                                            <br /><br />
+                                                                                                                                                                                                    			                                                                                                                            Ваш email<span class="starrequired">*</span></td>
+                                        						                                                                
+                                                                                                                                    <input type="text" name="PROPERTY[170][0]" size="25" value="" data-code="EMAIL"/>
+                                                                                                                                            <br /><br />
+                                                                                                                                                                                                    			                                                                                                                            Телефон для связи<span class="starrequired">*</span></td>
+                                        						                                                                
+                                                                                                                                    <input type="text" name="PROPERTY[171][0]" size="25" value="" data-code="PHONE"/>
+                                                                                                                                            <br /><br />
+                                                                                                                                                                                                    			                                                                                                                            Ваш вопрос, предложение</td>
+                                        												<textarea cols="30" rows="5" name="PROPERTY[172][0]"></textarea>
+											
+
+
+                        <!--'start_frame_cache_Em2vw4'-->                                                                
+							<br/>
+				<br/>
+					Защита от автоматического заполнения						<input type="hidden" name="captcha_sid" value="03dad145271b14153685ca3b87849f03" />
+						<img src="/bitrix/tools/captcha.php?captcha_sid=03dad145271b14153685ca3b87849f03" width="180" height="40" alt="CAPTCHA" />
+				<br/>
+					Введите слово с картинки<span class="starrequired">*</span>:
+					<input type="text" name="captcha_word" maxlength="50" value="">
+				<br /><br />
+			                        <!--'end_frame_cache_Em2vw4'-->							<br />
+				<label for="accept_form_45_4">
+					<input type="checkbox" name="accept_personal" value="yes" id="accept_form_45_4">
+					Согласны ли Вы на обработку персональных данных в соответствии с политикой конфиденциальности? [<a href="https://www.izhsm.ru/about/company/privacy.php" target="_blank">Политика конфиденциальности					</a>]
+
+				</label>
+			
+			<div class="bxr-button-group text-center">
+
+
+	<button onclick="BXReady.Business.formRefresh('45_4');return false;" class="bxr-color bxr-color-button" id="submitForm_45">
+				Отправить	</button>
+
+
+						</div>
+</form>
+<script>
+    $(function() {
+       $('textarea[data-code="USER_COMMENT_AREA"]').html(''); 
+       $('input[data-code="TRADE_ID_HIDDEN"]').val(''); 
+       $('input[data-code="TRADE_NAME_HIDDEN"]').val(''); 
+       $('input[data-code="TRADE_LINK_HIDDEN"]').val(''); 
+    });
+</script>				</div>
+			</div>
+		</div>
+	</div>
+
+</footer>
+<!-- Yandex.Metrika -->
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var yaCounter784829 = new Ya.Metrika(784829); } catch(e){}
+</script>
+<noscript><div style="position:absolute"><img src="//mc.yandex.ru/watch/784829"  alt="" /></div></noscript>
+<!-- /Yandex.Metrika -->
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'EHHvrIL8Gl';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2985454", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="//top-fwz1.mail.ru/counter?id=2985454;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145122581-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145122581-1');
+</script>
+
+<!-- hit.ua -->
+<a href='http://hit.ua/?x=40137' target='_blank'>
+<script language="javascript" type="text/javascript"><!--
+Cd=document;Cr="&"+Math.random();Cp="&s=1";
+Cd.cookie="b=b";if(Cd.cookie)Cp+="&c=1";
+Cp+="&t="+(new Date()).getTimezoneOffset();
+if(self!=top)Cp+="&f=1";
+//--></script>
+<script language="javascript1.1" type="text/javascript"><!--
+if(navigator.javaEnabled())Cp+="&j=1";
+//--></script>
+<script language="javascript1.2" type="text/javascript"><!--
+if(typeof(screen)!='undefined')Cp+="&w="+screen.width+"&h="+
+screen.height+"&d="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth);
+//--></script>
+<script language="javascript" type="text/javascript"><!--
+Cd.write("<sc"+"ript src='//c.hit.ua/hit?i=40137&g=0&x=3"+Cp+Cr+
+"&r="+escape(Cd.referrer)+"&u="+escape(window.location.href)+"'></sc"+"ript>");
+//--></script>
+<noscript>
+<img src='//c.hit.ua/hit?i=40137&amp;g=0&amp;x=2' border='0'/>
+</noscript></a>
+<!-- / hit.ua -->
+
+
+</body>
+</html>

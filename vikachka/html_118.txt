@@ -1,0 +1,1336 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<base href="/" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<link rel="icon" type="image/png" sizes="70x70" href="/makeup/images/favicon1.png">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index,follow" />
+<link rel="canonical" href="https://express42.com/" />
+<meta name="copyright" content="moab.pro" />
+<title>Экспресс 42: Практики и технологии DevOps</title>
+<meta property="og:title" content="Экспресс 42: Практики и технологии DevOps" />
+<meta property="og:description" content="Консультанты по анализу, пилотированию и масштабированию DevOps практик и процессов непрерывной поставки ПО" />
+<meta name="description" content="Консультанты по анализу, пилотированию и масштабированию DevOps практик и процессов непрерывной поставки ПО" />
+<meta property="og:image" content="https://express42.com/upload/ogtw/logo_express42.png">
+<meta name="yandex-verification" content="01484dd994bd0e37" />
+<script>
+(function(w, d, s, h, id) {
+    w.roistatProjectId = id; w.roistatHost = h;
+    var p = d.location.protocol == "https:" ? "https://" : "http://";
+    var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init";
+    var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+})(window, document, 'script', 'cloud.roistat.com', 'edddd5f44c7e7eb2c18997524747f2ce');
+</script>
+<meta name="facebook-domain-verification" content="ks1p5ujsdowtgawp9u40buytzdkcrv" />
+<style>
+.b-bg-add-blue {background: #5885ff;} .b-bg-add-gray {background: #fafafa;} .b-bg-add-black {background: #000;} .b-font-Roboto-Light, .b-font-var-light, .b-top-header__menu li, .b-top-header__info-label, .b-welcome__content h2 {font-family: "Roboto";font-weight: 300;font-style: normal;} .b-font-Roboto-Regular, .b-font-var-regular, .b-g-button, button, input[type="submit"], input[type="reset"], input[type="button"] {font-family: "Roboto";font-weight: normal;font-style: normal;} .b-font-Roboto-Medium, .b-font-var-medium {font-family: "Roboto";font-weight: 500;font-style: normal;} .b-font-Roboto-Bold, .b-font-var-bold, .b-g-button.is-bold, button.is-bold, input[type="submit"].is-bold, input[type="reset"].is-bold, input[type="button"].is-bold, .b-h-immitate, h1, h2, h3, h4, h5, h6, b, strong, .b-top-header__info-a {font-family: "Roboto";font-weight: bold;font-style: normal;} .b-font-bold {font-weight: bold;} .b-font-italic {font-style: italic;} .b-push-left {float: left;} .b-push-right {float: right;} .b-clear-both:after {display: table;position: relative;content: "";clear: both;} .b-g-container {width: 1140px;margin: 0 auto;padding: 0 30px;} @media (max-width: 1200px) {.b-g-container {width: 992px;}} @media (max-width: 992px) {.b-g-container {width: 768px;}} @media (max-width: 768px) {.b-g-container {width: auto;}} .b-flex, .b-top-header .container, .b-top-header__menu {display: flex;flex-direction: row;justify-content: space-between;align-items: stretch;} h1::-moz-selection, h1 *::-moz-selection, h2::-moz-selection, h2 *::-moz-selection, h3::-moz-selection, h3 *::-moz-selection, h4::-moz-selection, h4 *::-moz-selection, h5::-moz-selection, h5 *::-moz-selection, h6::-moz-selection, h6 *::-moz-selection, .b-sell-title::-moz-selection, .b-sell-title *::-moz-selection {background: #f6562d;color: #fff;} h1::selection, h1 *::selection, h2::selection, h2 *::selection, h3::selection, h3 *::selection, h4::selection, h4 *::selection, h5::selection, h5 *::selection, h6::selection, h6 *::selection, .b-o-sell-title::selection, .b-o-sell-title *::selection {background: #f6562d;color: #fff;} ::-moz-selection {background: #5885ff;color: #fff;} ::selection {background: #5885ff;color: #fff;} html {-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;} body {margin: 0;} article, aside, footer, header, nav, section {display: block;} h1 {font-size: 2em;margin: .67em 0;} figcaption, figure, main {display: block;} figure {margin: 1em 40px;} hr {box-sizing: content-box;height: 0;overflow: visible;} pre {font-family: monospace,monospace;font-size: 1em;} a {background-color: transparent;-webkit-text-decoration-skip: objects;} abbr[title] {border-bottom: none;text-decoration: underline;text-decoration: underline dotted;} b, strong {font-weight: inherit;} b, strong {font-weight: bolder;} code, kbd, samp {font-family: monospace,monospace;font-size: 1em;} dfn {font-style: italic;} mark {background-color: #ff0;color: #000;} small {font-size: 80%;} sub, sup {font-size: 75%;line-height: 0;position: relative;vertical-align: baseline;} sub {bottom: -.25em;} sup {top: -.5em;} audio, video {display: inline-block;} audio:not([controls]) {display: none;height: 0;} img {border-style: none;} svg:not(:root) {overflow: hidden;} button, input, optgroup, select, textarea {font-family: sans-serif;font-size: 100%;line-height: 1.15;margin: 0;} button, input {overflow: visible;} button, select {text-transform: none;} button, html [type="button"], [type="reset"], [type="submit"] {-webkit-appearance: button;} button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-moz-focus-inner, [type="submit"]::-moz-focus-inner {border-style: none;padding: 0;} button:-moz-focusring, [type="button"]:-moz-focusring, [type="reset"]:-moz-focusring, [type="submit"]:-moz-focusring {outline: 1px dotted ButtonText;} fieldset {padding: .35em .75em .625em;} legend {box-sizing: border-box;color: inherit;display: table;max-width: 100%;padding: 0;white-space: normal;} progress {display: inline-block;vertical-align: baseline;} textarea {overflow: auto;} [type="checkbox"], [type="radio"] {box-sizing: border-box;padding: 0;} [type="number"]::-webkit-inner-spin-button, [type="number"]::-webkit-outer-spin-button {height: auto;} [type="search"] {-webkit-appearance: textfield;outline-offset: -2px;} [type="search"]::-webkit-search-cancel-button, [type="search"]::-webkit-search-decoration {-webkit-appearance: none;} ::-webkit-file-upload-button {-webkit-appearance: button;font: inherit;} details, menu {display: block;} summary {display: list-item;} canvas {display: inline-block;} template {display: none;} [hidden] {display: none;} .b-g-button, button, input[type="submit"], input[type="reset"], input[type="button"] {-o-transition: all .3s ease-in-out;-moz-transition: all .3s ease-in-out;-webkit-transition: all .3s ease-in-out;transition: all .3s ease-in-out;-o-appearance: none;-moz-appearance: none;-ms-appearance: none;-webkit-appearance: none;appearance: none;-o-border-radius: 3px;-moz-border-radius: 3px;-ms-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;-o-user-select: none;-moz-user-select: none;-ms-user-select: none;-webkit-user-select: none;user-select: none;display: inline-block;position: relative;cursor: pointer;outline: none;text-decoration: none;margin: 0;padding: 0 28px;border: 0;border: 1px solid #f6562d;width: auto;height: 57px;line-height: 57px;font-size: 1.0625rem;white-space: nowrap;background: #f6562d;color: #fff;text-align: center;box-shadow: 0px 11px 32px rgba(246,86,45,.38);} .b-g-button.jGrowl-close, button.jGrowl-close, input[type="submit"].jGrowl-close, input[type="reset"].jGrowl-close, input[type="button"].jGrowl-close {height: auto;line-height: auto;} .b-g-button:after, button:after, input[type="submit"]:after, input[type="reset"]:after, input[type="button"]:after {pointer-events: none;} .b-g-button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover {text-decoration: none;background: #f76a45;color: #fff;box-shadow: 0px 3px 6px rgba(246,86,45,.38);z-index: 100;-o-transform: scale(1.055);-moz-transform: scale(1.055);-ms-transform: scale(1.055);-webkit-transform: scale(1.055);transform: scale(1.055);} @media (max-width: 576px) {.b-g-button:hover, button:hover, input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover {-o-transform: scale(1);-moz-transform: scale(1);-ms-transform: scale(1);-webkit-transform: scale(1);transform: scale(1);}} .b-g-button:active, button:active, input[type="submit"]:active, input[type="reset"]:active, input[type="button"]:active {-o-transform: scale(1);-moz-transform: scale(1);-ms-transform: scale(1);-webkit-transform: scale(1);transform: scale(1);} .b-g-button.is-small, button.is-small, input[type="submit"].is-small, input[type="reset"].is-small, input[type="button"].is-small {height: 42px;line-height: 42px;padding: 0 14px;} .b-g-button.is-text-small, button.is-text-small, input[type="submit"].is-text-small, input[type="reset"].is-text-small, input[type="button"].is-text-small {font-size: .875rem;} .b-g-button.is-transparent, button.is-transparent, input[type="submit"].is-transparent, input[type="reset"].is-transparent, input[type="button"].is-transparent {background: transparent;color: #000;color: #5885ff;border-color: transparent;box-shadow: none;} .b-g-button.is-transparent:hover, button.is-transparent:hover, input[type="submit"].is-transparent:hover, input[type="reset"].is-transparent:hover, input[type="button"].is-transparent:hover {} .jGrowl-close {padding: 10px;font-size: 0;line-height: 0;} html, body {position: relative;} body {background: #fff;color: #041133;height: 100%;} html {height: 100%;font-family: "Roboto";font-weight: normal;font-style: normal;font-size: 16px;line-height: 19px;} @media (max-width: 768px) {html {font-size: 14px;}} @media (max-width: 576px) {html {font-size: 12px;}} html * {-o-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;} header, footer, section, aside, label, nav, main, figure, article, hgroup, figurecapture, div, form {display: block;position: relative;} iframe {border: 0;outline: 0;} img {-o-user-select: none;-moz-user-select: none;-ms-user-select: none;-webkit-user-select: none;user-select: none;} .b-h-immitate, h1, h2, h3, h4, h5, h6 {margin: 0;padding: 15px 0;color: #041133;text-align: center;line-height: 1.2;} @media (max-width: 576px) {.b-h-immitate br, h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {display: none;}} .b-h1, h1 {font-size: 3.4375em;line-height: 1.1;} .b-h2, h2 {font-size: 2.5em;} .b-h3, h3 {font-size: 1.5625em;} .b-h4, h4 {font-size: 1.25em;} .b-h5, h5 {font-size: 1.125em;} .b-h6, h6 {font-size: .875em;} i, em {font-style: italic;} hr {margin: 40px 0;height: 0;border: 0;border-top: 1px solid #fff;border-bottom: 1px solid #ccc;} a {-o-transition: color .3s ease-in-out;-moz-transition: color .3s ease-in-out;-webkit-transition: color .3s ease-in-out;transition: color .3s ease-in-out;color: #5885ff;text-decoration: underline;} a:hover {color: #f6562d;text-decoration: underline;} @-ms-viewport {width: device-width;} html {box-sizing: border-box;-ms-overflow-style: scrollbar;} *, *::before, *::after {box-sizing: inherit;} .container {width: 100%;padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto;} @media (min-width: 576px) {.container {max-width: 540px;}} @media (min-width: 768px) {.container {max-width: 720px;}} @media (min-width: 992px) {.container {max-width: 960px;}} @media (min-width: 1200px) {.container {max-width: 1140px;}} .container-fluid {width: 100%;padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto;} .row {display: flex;flex-wrap: wrap;margin-right: -15px;margin-left: -15px;} .no-gutters {margin-right: 0;margin-left: 0;} .no-gutters > .col, .no-gutters > [class*="col-"] {padding-right: 0;padding-left: 0;} .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto {position: relative;width: 100%;min-height: 1px;padding-right: 15px;padding-left: 15px;} .col {flex-basis: 0;flex-grow: 1;max-width: 100%;} .col-auto {flex: 0 0 auto;width: auto;max-width: none;} .col-1 {flex: 0 0 8.33333%;max-width: 8.33333%;} .col-2 {flex: 0 0 16.66667%;max-width: 16.66667%;} .col-3 {flex: 0 0 25%;max-width: 25%;} .col-4 {flex: 0 0 33.33333%;max-width: 33.33333%;} .col-5 {flex: 0 0 41.66667%;max-width: 41.66667%;} .col-6 {flex: 0 0 50%;max-width: 50%;} .col-7 {flex: 0 0 58.33333%;max-width: 58.33333%;} .col-8 {flex: 0 0 66.66667%;max-width: 66.66667%;} .col-9 {flex: 0 0 75%;max-width: 75%;} .col-10 {flex: 0 0 83.33333%;max-width: 83.33333%;} .col-11 {flex: 0 0 91.66667%;max-width: 91.66667%;} .col-12 {flex: 0 0 100%;max-width: 100%;} .order-first {order: -1;} .order-last {order: 13;} .order-0 {order: 0;} .order-1 {order: 1;} .order-2 {order: 2;} .order-3 {order: 3;} .order-4 {order: 4;} .order-5 {order: 5;} .order-6 {order: 6;} .order-7 {order: 7;} .order-8 {order: 8;} .order-9 {order: 9;} .order-10 {order: 10;} .order-11 {order: 11;} .order-12 {order: 12;} .offset-1 {margin-left: 8.33333%;} .offset-2 {margin-left: 16.66667%;} .offset-3 {margin-left: 25%;} .offset-4 {margin-left: 33.33333%;} .offset-5 {margin-left: 41.66667%;} .offset-6 {margin-left: 50%;} .offset-7 {margin-left: 58.33333%;} .offset-8 {margin-left: 66.66667%;} .offset-9 {margin-left: 75%;} .offset-10 {margin-left: 83.33333%;} .offset-11 {margin-left: 91.66667%;} @media (min-width: 576px) {.col-sm {flex-basis: 0;flex-grow: 1;max-width: 100%;} .col-sm-auto {flex: 0 0 auto;width: auto;max-width: none;} .col-sm-1 {flex: 0 0 8.33333%;max-width: 8.33333%;} .col-sm-2 {flex: 0 0 16.66667%;max-width: 16.66667%;} .col-sm-3 {flex: 0 0 25%;max-width: 25%;} .col-sm-4 {flex: 0 0 33.33333%;max-width: 33.33333%;} .col-sm-5 {flex: 0 0 41.66667%;max-width: 41.66667%;} .col-sm-6 {flex: 0 0 50%;max-width: 50%;} .col-sm-7 {flex: 0 0 58.33333%;max-width: 58.33333%;} .col-sm-8 {flex: 0 0 66.66667%;max-width: 66.66667%;} .col-sm-9 {flex: 0 0 75%;max-width: 75%;} .col-sm-10 {flex: 0 0 83.33333%;max-width: 83.33333%;} .col-sm-11 {flex: 0 0 91.66667%;max-width: 91.66667%;} .col-sm-12 {flex: 0 0 100%;max-width: 100%;} .order-sm-first {order: -1;} .order-sm-last {order: 13;} .order-sm-0 {order: 0;} .order-sm-1 {order: 1;} .order-sm-2 {order: 2;} .order-sm-3 {order: 3;} .order-sm-4 {order: 4;} .order-sm-5 {order: 5;} .order-sm-6 {order: 6;} .order-sm-7 {order: 7;} .order-sm-8 {order: 8;} .order-sm-9 {order: 9;} .order-sm-10 {order: 10;} .order-sm-11 {order: 11;} .order-sm-12 {order: 12;} .offset-sm-0 {margin-left: 0;} .offset-sm-1 {margin-left: 8.33333%;} .offset-sm-2 {margin-left: 16.66667%;} .offset-sm-3 {margin-left: 25%;} .offset-sm-4 {margin-left: 33.33333%;} .offset-sm-5 {margin-left: 41.66667%;} .offset-sm-6 {margin-left: 50%;} .offset-sm-7 {margin-left: 58.33333%;} .offset-sm-8 {margin-left: 66.66667%;} .offset-sm-9 {margin-left: 75%;} .offset-sm-10 {margin-left: 83.33333%;} .offset-sm-11 {margin-left: 91.66667%;}} @media (min-width: 768px) {.col-md {flex-basis: 0;flex-grow: 1;max-width: 100%;} .col-md-auto {flex: 0 0 auto;width: auto;max-width: none;} .col-md-1 {flex: 0 0 8.33333%;max-width: 8.33333%;} .col-md-2 {flex: 0 0 16.66667%;max-width: 16.66667%;} .col-md-3 {flex: 0 0 25%;max-width: 25%;} .col-md-4 {flex: 0 0 33.33333%;max-width: 33.33333%;} .col-md-5 {flex: 0 0 41.66667%;max-width: 41.66667%;} .col-md-6 {flex: 0 0 50%;max-width: 50%;} .col-md-7 {flex: 0 0 58.33333%;max-width: 58.33333%;} .col-md-8 {flex: 0 0 66.66667%;max-width: 66.66667%;} .col-md-9 {flex: 0 0 75%;max-width: 75%;} .col-md-10 {flex: 0 0 83.33333%;max-width: 83.33333%;} .col-md-11 {flex: 0 0 91.66667%;max-width: 91.66667%;} .col-md-12 {flex: 0 0 100%;max-width: 100%;} .order-md-first {order: -1;} .order-md-last {order: 13;} .order-md-0 {order: 0;} .order-md-1 {order: 1;} .order-md-2 {order: 2;} .order-md-3 {order: 3;} .order-md-4 {order: 4;} .order-md-5 {order: 5;} .order-md-6 {order: 6;} .order-md-7 {order: 7;} .order-md-8 {order: 8;} .order-md-9 {order: 9;} .order-md-10 {order: 10;} .order-md-11 {order: 11;} .order-md-12 {order: 12;} .offset-md-0 {margin-left: 0;} .offset-md-1 {margin-left: 8.33333%;} .offset-md-2 {margin-left: 16.66667%;} .offset-md-3 {margin-left: 25%;} .offset-md-4 {margin-left: 33.33333%;} .offset-md-5 {margin-left: 41.66667%;} .offset-md-6 {margin-left: 50%;} .offset-md-7 {margin-left: 58.33333%;} .offset-md-8 {margin-left: 66.66667%;} .offset-md-9 {margin-left: 75%;} .offset-md-10 {margin-left: 83.33333%;} .offset-md-11 {margin-left: 91.66667%;}} @media (min-width: 992px) {.col-lg {flex-basis: 0;flex-grow: 1;max-width: 100%;} .col-lg-auto {flex: 0 0 auto;width: auto;max-width: none;} .col-lg-1 {flex: 0 0 8.33333%;max-width: 8.33333%;} .col-lg-2 {flex: 0 0 16.66667%;max-width: 16.66667%;} .col-lg-3 {flex: 0 0 25%;max-width: 25%;} .col-lg-4 {flex: 0 0 33.33333%;max-width: 33.33333%;} .col-lg-5 {flex: 0 0 41.66667%;max-width: 41.66667%;} .col-lg-6 {flex: 0 0 50%;max-width: 50%;} .col-lg-7 {flex: 0 0 58.33333%;max-width: 58.33333%;} .col-lg-8 {flex: 0 0 66.66667%;max-width: 66.66667%;} .col-lg-9 {flex: 0 0 75%;max-width: 75%;} .col-lg-10 {flex: 0 0 83.33333%;max-width: 83.33333%;} .col-lg-11 {flex: 0 0 91.66667%;max-width: 91.66667%;} .col-lg-12 {flex: 0 0 100%;max-width: 100%;} .order-lg-first {order: -1;} .order-lg-last {order: 13;} .order-lg-0 {order: 0;} .order-lg-1 {order: 1;} .order-lg-2 {order: 2;} .order-lg-3 {order: 3;} .order-lg-4 {order: 4;} .order-lg-5 {order: 5;} .order-lg-6 {order: 6;} .order-lg-7 {order: 7;} .order-lg-8 {order: 8;} .order-lg-9 {order: 9;} .order-lg-10 {order: 10;} .order-lg-11 {order: 11;} .order-lg-12 {order: 12;} .offset-lg-0 {margin-left: 0;} .offset-lg-1 {margin-left: 8.33333%;} .offset-lg-2 {margin-left: 16.66667%;} .offset-lg-3 {margin-left: 25%;} .offset-lg-4 {margin-left: 33.33333%;} .offset-lg-5 {margin-left: 41.66667%;} .offset-lg-6 {margin-left: 50%;} .offset-lg-7 {margin-left: 58.33333%;} .offset-lg-8 {margin-left: 66.66667%;} .offset-lg-9 {margin-left: 75%;} .offset-lg-10 {margin-left: 83.33333%;} .offset-lg-11 {margin-left: 91.66667%;}} @media (min-width: 1200px) {.col-xl {flex-basis: 0;flex-grow: 1;max-width: 100%;} .col-xl-auto {flex: 0 0 auto;width: auto;max-width: none;} .col-xl-1 {flex: 0 0 8.33333%;max-width: 8.33333%;} .col-xl-2 {flex: 0 0 16.66667%;max-width: 16.66667%;} .col-xl-3 {flex: 0 0 25%;max-width: 25%;} .col-xl-4 {flex: 0 0 33.33333%;max-width: 33.33333%;} .col-xl-5 {flex: 0 0 41.66667%;max-width: 41.66667%;} .col-xl-6 {flex: 0 0 50%;max-width: 50%;} .col-xl-7 {flex: 0 0 58.33333%;max-width: 58.33333%;} .col-xl-8 {flex: 0 0 66.66667%;max-width: 66.66667%;} .col-xl-9 {flex: 0 0 75%;max-width: 75%;} .col-xl-10 {flex: 0 0 83.33333%;max-width: 83.33333%;} .col-xl-11 {flex: 0 0 91.66667%;max-width: 91.66667%;} .col-xl-12 {flex: 0 0 100%;max-width: 100%;} .order-xl-first {order: -1;} .order-xl-last {order: 13;} .order-xl-0 {order: 0;} .order-xl-1 {order: 1;} .order-xl-2 {order: 2;} .order-xl-3 {order: 3;} .order-xl-4 {order: 4;} .order-xl-5 {order: 5;} .order-xl-6 {order: 6;} .order-xl-7 {order: 7;} .order-xl-8 {order: 8;} .order-xl-9 {order: 9;} .order-xl-10 {order: 10;} .order-xl-11 {order: 11;} .order-xl-12 {order: 12;} .offset-xl-0 {margin-left: 0;} .offset-xl-1 {margin-left: 8.33333%;} .offset-xl-2 {margin-left: 16.66667%;} .offset-xl-3 {margin-left: 25%;} .offset-xl-4 {margin-left: 33.33333%;} .offset-xl-5 {margin-left: 41.66667%;} .offset-xl-6 {margin-left: 50%;} .offset-xl-7 {margin-left: 58.33333%;} .offset-xl-8 {margin-left: 66.66667%;} .offset-xl-9 {margin-left: 75%;} .offset-xl-10 {margin-left: 83.33333%;} .offset-xl-11 {margin-left: 91.66667%;}} .d-none {display: none !important;} .d-inline {display: inline !important;} .d-inline-block {display: inline-block !important;} .d-block {display: block !important;} .d-table {display: table !important;} .d-table-row {display: table-row !important;} .d-table-cell {display: table-cell !important;} .d-flex {display: flex !important;} .d-inline-flex {display: inline-flex !important;} @media (min-width: 576px) {.d-sm-none {display: none !important;} .d-sm-inline {display: inline !important;} .d-sm-inline-block {display: inline-block !important;} .d-sm-block {display: block !important;} .d-sm-table {display: table !important;} .d-sm-table-row {display: table-row !important;} .d-sm-table-cell {display: table-cell !important;} .d-sm-flex {display: flex !important;} .d-sm-inline-flex {display: inline-flex !important;}} @media (min-width: 768px) {.d-md-none {display: none !important;} .d-md-inline {display: inline !important;} .d-md-inline-block {display: inline-block !important;} .d-md-block {display: block !important;} .d-md-table {display: table !important;} .d-md-table-row {display: table-row !important;} .d-md-table-cell {display: table-cell !important;} .d-md-flex {display: flex !important;} .d-md-inline-flex {display: inline-flex !important;}} @media (min-width: 992px) {.d-lg-none {display: none !important;} .d-lg-inline {display: inline !important;} .d-lg-inline-block {display: inline-block !important;} .d-lg-block {display: block !important;} .d-lg-table {display: table !important;} .d-lg-table-row {display: table-row !important;} .d-lg-table-cell {display: table-cell !important;} .d-lg-flex {display: flex !important;} .d-lg-inline-flex {display: inline-flex !important;}} @media (min-width: 1200px) {.d-xl-none {display: none !important;} .d-xl-inline {display: inline !important;} .d-xl-inline-block {display: inline-block !important;} .d-xl-block {display: block !important;} .d-xl-table {display: table !important;} .d-xl-table-row {display: table-row !important;} .d-xl-table-cell {display: table-cell !important;} .d-xl-flex {display: flex !important;} .d-xl-inline-flex {display: inline-flex !important;}} @media print {.d-print-none {display: none !important;} .d-print-inline {display: inline !important;} .d-print-inline-block {display: inline-block !important;} .d-print-block {display: block !important;} .d-print-table {display: table !important;} .d-print-table-row {display: table-row !important;} .d-print-table-cell {display: table-cell !important;} .d-print-flex {display: flex !important;} .d-print-inline-flex {display: inline-flex !important;}} .flex-row {flex-direction: row !important;} .flex-column {flex-direction: column !important;} .flex-row-reverse {flex-direction: row-reverse !important;} .flex-column-reverse {flex-direction: column-reverse !important;} .flex-wrap {flex-wrap: wrap !important;} .flex-nowrap {flex-wrap: nowrap !important;} .flex-wrap-reverse {flex-wrap: wrap-reverse !important;} .justify-content-start {justify-content: flex-start !important;} .justify-content-end {justify-content: flex-end !important;} .justify-content-center {justify-content: center !important;} .justify-content-between {justify-content: space-between !important;} .justify-content-around {justify-content: space-around !important;} .align-items-start {align-items: flex-start !important;} .align-items-end {align-items: flex-end !important;} .align-items-center {align-items: center !important;} .align-items-baseline {align-items: baseline !important;} .align-items-stretch {align-items: stretch !important;} .align-content-start {align-content: flex-start !important;} .align-content-end {align-content: flex-end !important;} .align-content-center {align-content: center !important;} .align-content-between {align-content: space-between !important;} .align-content-around {align-content: space-around !important;} .align-content-stretch {align-content: stretch !important;} .align-self-auto {align-self: auto !important;} .align-self-start {align-self: flex-start !important;} .align-self-end {align-self: flex-end !important;} .align-self-center {align-self: center !important;} .align-self-baseline {align-self: baseline !important;} .align-self-stretch {align-self: stretch !important;} @media (min-width: 576px) {.flex-sm-row {flex-direction: row !important;} .flex-sm-column {flex-direction: column !important;} .flex-sm-row-reverse {flex-direction: row-reverse !important;} .flex-sm-column-reverse {flex-direction: column-reverse !important;} .flex-sm-wrap {flex-wrap: wrap !important;} .flex-sm-nowrap {flex-wrap: nowrap !important;} .flex-sm-wrap-reverse {flex-wrap: wrap-reverse !important;} .justify-content-sm-start {justify-content: flex-start !important;} .justify-content-sm-end {justify-content: flex-end !important;} .justify-content-sm-center {justify-content: center !important;} .justify-content-sm-between {justify-content: space-between !important;} .justify-content-sm-around {justify-content: space-around !important;} .align-items-sm-start {align-items: flex-start !important;} .align-items-sm-end {align-items: flex-end !important;} .align-items-sm-center {align-items: center !important;} .align-items-sm-baseline {align-items: baseline !important;} .align-items-sm-stretch {align-items: stretch !important;} .align-content-sm-start {align-content: flex-start !important;} .align-content-sm-end {align-content: flex-end !important;} .align-content-sm-center {align-content: center !important;} .align-content-sm-between {align-content: space-between !important;} .align-content-sm-around {align-content: space-around !important;} .align-content-sm-stretch {align-content: stretch !important;} .align-self-sm-auto {align-self: auto !important;} .align-self-sm-start {align-self: flex-start !important;} .align-self-sm-end {align-self: flex-end !important;} .align-self-sm-center {align-self: center !important;} .align-self-sm-baseline {align-self: baseline !important;} .align-self-sm-stretch {align-self: stretch !important;}} @media (min-width: 768px) {.flex-md-row {flex-direction: row !important;} .flex-md-column {flex-direction: column !important;} .flex-md-row-reverse {flex-direction: row-reverse !important;} .flex-md-column-reverse {flex-direction: column-reverse !important;} .flex-md-wrap {flex-wrap: wrap !important;} .flex-md-nowrap {flex-wrap: nowrap !important;} .flex-md-wrap-reverse {flex-wrap: wrap-reverse !important;} .justify-content-md-start {justify-content: flex-start !important;} .justify-content-md-end {justify-content: flex-end !important;} .justify-content-md-center {justify-content: center !important;} .justify-content-md-between {justify-content: space-between !important;} .justify-content-md-around {justify-content: space-around !important;} .align-items-md-start {align-items: flex-start !important;} .align-items-md-end {align-items: flex-end !important;} .align-items-md-center {align-items: center !important;} .align-items-md-baseline {align-items: baseline !important;} .align-items-md-stretch {align-items: stretch !important;} .align-content-md-start {align-content: flex-start !important;} .align-content-md-end {align-content: flex-end !important;} .align-content-md-center {align-content: center !important;} .align-content-md-between {align-content: space-between !important;} .align-content-md-around {align-content: space-around !important;} .align-content-md-stretch {align-content: stretch !important;} .align-self-md-auto {align-self: auto !important;} .align-self-md-start {align-self: flex-start !important;} .align-self-md-end {align-self: flex-end !important;} .align-self-md-center {align-self: center !important;} .align-self-md-baseline {align-self: baseline !important;} .align-self-md-stretch {align-self: stretch !important;}} @media (min-width: 992px) {.flex-lg-row {flex-direction: row !important;} .flex-lg-column {flex-direction: column !important;} .flex-lg-row-reverse {flex-direction: row-reverse !important;} .flex-lg-column-reverse {flex-direction: column-reverse !important;} .flex-lg-wrap {flex-wrap: wrap !important;} .flex-lg-nowrap {flex-wrap: nowrap !important;} .flex-lg-wrap-reverse {flex-wrap: wrap-reverse !important;} .justify-content-lg-start {justify-content: flex-start !important;} .justify-content-lg-end {justify-content: flex-end !important;} .justify-content-lg-center {justify-content: center !important;} .justify-content-lg-between {justify-content: space-between !important;} .justify-content-lg-around {justify-content: space-around !important;} .align-items-lg-start {align-items: flex-start !important;} .align-items-lg-end {align-items: flex-end !important;} .align-items-lg-center {align-items: center !important;} .align-items-lg-baseline {align-items: baseline !important;} .align-items-lg-stretch {align-items: stretch !important;} .align-content-lg-start {align-content: flex-start !important;} .align-content-lg-end {align-content: flex-end !important;} .align-content-lg-center {align-content: center !important;} .align-content-lg-between {align-content: space-between !important;} .align-content-lg-around {align-content: space-around !important;} .align-content-lg-stretch {align-content: stretch !important;} .align-self-lg-auto {align-self: auto !important;} .align-self-lg-start {align-self: flex-start !important;} .align-self-lg-end {align-self: flex-end !important;} .align-self-lg-center {align-self: center !important;} .align-self-lg-baseline {align-self: baseline !important;} .align-self-lg-stretch {align-self: stretch !important;}} @media (min-width: 1200px) {.flex-xl-row {flex-direction: row !important;} .flex-xl-column {flex-direction: column !important;} .flex-xl-row-reverse {flex-direction: row-reverse !important;} .flex-xl-column-reverse {flex-direction: column-reverse !important;} .flex-xl-wrap {flex-wrap: wrap !important;} .flex-xl-nowrap {flex-wrap: nowrap !important;} .flex-xl-wrap-reverse {flex-wrap: wrap-reverse !important;} .justify-content-xl-start {justify-content: flex-start !important;} .justify-content-xl-end {justify-content: flex-end !important;} .justify-content-xl-center {justify-content: center !important;} .justify-content-xl-between {justify-content: space-between !important;} .justify-content-xl-around {justify-content: space-around !important;} .align-items-xl-start {align-items: flex-start !important;} .align-items-xl-end {align-items: flex-end !important;} .align-items-xl-center {align-items: center !important;} .align-items-xl-baseline {align-items: baseline !important;} .align-items-xl-stretch {align-items: stretch !important;} .align-content-xl-start {align-content: flex-start !important;} .align-content-xl-end {align-content: flex-end !important;} .align-content-xl-center {align-content: center !important;} .align-content-xl-between {align-content: space-between !important;} .align-content-xl-around {align-content: space-around !important;} .align-content-xl-stretch {align-content: stretch !important;} .align-self-xl-auto {align-self: auto !important;} .align-self-xl-start {align-self: flex-start !important;} .align-self-xl-end {align-self: flex-end !important;} .align-self-xl-center {align-self: center !important;} .align-self-xl-baseline {align-self: baseline !important;} .align-self-xl-stretch {align-self: stretch !important;}} .icon-button {display: inline-block;position: relative;width: 11px;height: 11px;background: url("/makeup/images/button-arrow.svg") no-repeat;background-size: cover;} .b-top-header {z-index: 500;position: fixed;top: 0;left: 0;right: 0;background: #fff;box-shadow: 0px 7px 50px rgba(0,0,0,.12);} .b-top-header .container {align-items: center;height: 89px;z-index: 5;} @media (max-width: 992px) {.b-top-header .container {justify-content: flex-end;}} @media (max-width: 992px) {.b-top-header .container {height: 60px;}} .b-top-header__logo {display: block;position: relative;margin-right: 11px;} @media (max-width: 992px) {.b-top-header__logo {height: 50px;}} .b-top-header__logo img {max-width: 100%;max-height: 100%;} @media (max-width: 992px) {.b-top-header__logo {margin-right: auto;}} .b-top-header__menu {flex-wrap: wrap;align-items: center;justify-content: flex-start;list-style-type: none;margin: 0;padding: 0;height: 59px;} @media (max-width: 992px) {.b-top-header__menu {display: none;height: auto;}} .b-top-header__menu li {display: block;position: relative;font-size: .9375rem;} .b-top-header__menu li a {text-decoration: none;color: #041133;padding: 10px 15px;} .b-top-header__menu li a span {border-bottom: 1px solid transparent;-o-transition: all .3s ease-in-out;-moz-transition: all .3s ease-in-out;-webkit-transition: all .3s ease-in-out;transition: all .3s ease-in-out;} .b-top-header__menu li a:hover {color: #000;} .b-top-header__menu li a:hover span {border-bottom: 1px solid #000;} .b-top-header__mobile-menu .b-top-header__menu {display: block;text-align: center;} .b-top-header__mobile-menu .b-top-header__menu li a {display: block;position: relative;padding: 10px;} .b-top-header__info {margin: 0 7.5px;margin-top: -21px;} @media (max-width: 768px) {.b-top-header__info {display: none;}} @media (max-width: 992px) {.b-top-header__info {margin-top: -8px;}} .b-top-header__mobile-menu .b-top-header__info {display: none;margin: 0;padding: 10px;text-align: center;} @media (max-width: 768px) {.b-top-header__mobile-menu .b-top-header__info {display: block;}} .b-top-header__info-label {display: block;position: relative;color: #041133;font-size: .8125rem;} .b-top-header__info-a {color: #041133;text-decoration: none;white-space: nowrap;-o-transition: all .3s ease;-moz-transition: all .3s ease;-webkit-transition: all .3s ease;transition: all .3s ease;} .b-top-header__info-a:hover {color: #f6562d;text-decoration: none;} .b-top-header__button {margin-left: 9.5px;margin-top: -3px;} @media (max-width: 768px) {.b-top-header__button {display: none;}} .b-top-header__mobile-menu .b-top-header__button {display: none;margin: 0;padding: 10px;text-align: center;} @media (max-width: 768px) {.b-top-header__mobile-menu .b-top-header__button {display: block;}} .b-top-header__mobile-menu {display: none;background: #fcfcfc;border-bottom: 1px solid #e3e3e3;border-top: 1px solid #e3e3e3;} .b-top-header__mobile-menu-container {padding: 10px;max-height: 600px;overflow-y: scroll;} .b-top-header__mobile-button {display: none;float: right;height: 40px;width: 40px;margin-left: 20px;cursor: pointer;-o-border-radius: 3px;-moz-border-radius: 3px;-ms-border-radius: 3px;-webkit-border-radius: 3px;border-radius: 3px;border: 1px solid #d1d1d1;} @media (max-width: 992px) {.b-top-header__mobile-button {display: block;}} .b-top-header__mobile-button div {background: #7b7b7b;height: 3px;margin: 0 auto;width: 18px;min-width: 18px;margin-bottom: 3px;-o-border-radius: 4px;-moz-border-radius: 4px;-ms-border-radius: 4px;-webkit-border-radius: 4px;border-radius: 4px;-o-transition: all .3s ease-in-out;-moz-transition: all .3s ease-in-out;-webkit-transition: all .3s ease-in-out;transition: all .3s ease-in-out;} .b-top-header__mobile-button div:first-child {margin-top: 12px;} .b-top-header__mobile-button.is-active div {background: ligthen(#7b7b7b,10%);} .b-top-header__mobile-button.is-active div:first-child {-o-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-webkit-transform: rotate(45deg);transform: rotate(45deg);margin-top: 17px;} .b-top-header__mobile-button.is-active div:nth-child(2) {-o-opacity: 0;-moz-opacity: 0;-ms-opacity: 0;-webkit-opacity: 0;opacity: 0;} .b-top-header__mobile-button.is-active div:nth-child(3) {-o-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-ms-transform: rotate(-45deg);-webkit-transform: rotate(-45deg);transform: rotate(-45deg);margin-top: -12px;} .b-welcome, .b-welcome__content, .b-welcome .container {min-height: 100%;height: 100%;} @media (max-height: 470px) {.b-welcome, .b-welcome__content, .b-welcome .container {height: auto;min-height: 0;}} @media (max-width: 768px) {.b-welcome, .b-welcome__content, .b-welcome .container {height: auto;min-height: 0;}} .b-welcome.is-fix-h, .b-welcome__content.is-fix-h, .b-welcome .container.is-fix-h {height: auto;min-height: 0;} .b-welcome {background-image: url("/makeup/images/blocks/b1-1-1.svg"),url("/makeup/images/blocks/b1-1-2.svg");background-size: contain,auto;background-repeat: no-repeat,no-repeat;background-position: right bottom,left bottom;padding-top: 89px;} @media (max-width: 992px) {.b-welcome {padding-top: 60px;}} @media (max-width: 768px) {.b-welcome {background: #f8f5ff !important;}} .b-welcome__image {display: none;line-height: 0;text-align: right;} @media (max-width: 768px) {.b-welcome__image {display: block;}} .b-welcome__image img {max-width: 100%;} .b-welcome__content {padding: 20px 0;} .b-welcome__content h1 {text-align: left;} @media (max-width: 576px) {.b-welcome__content h1 {font-size: 2.8125rem;}} .b-welcome__content h2 {text-align: left;font-size: 1.875rem;} .b-welcome__buttons {margin-top: 60px;-o-user-select: none;-moz-user-select: none;-ms-user-select: none;-webkit-user-select: none;user-select: none;} @media (max-width: 576px) {.b-welcome__buttons {margin-top: 30px;padding-bottom: 30px;}} .js-is-second-load {-o-opacity: 0;-moz-opacity: 0;-ms-opacity: 0;-webkit-opacity: 0;opacity: 0;} @font-face {font-family: "Roboto";font-style: normal;font-weight: 300;src: url("/makeup/fonts/roboto-v20-cyrillic_latin-300.eot");src: local("Roboto Light"),local("Roboto-Light"),url("/makeup/fonts/roboto-v20-cyrillic_latin-300.eot?#iefix") format("embedded-opentype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-300.woff2") format("woff2"),url("/makeup/fonts/roboto-v20-cyrillic_latin-300.woff") format("woff"),url("/makeup/fonts/roboto-v20-cyrillic_latin-300.ttf") format("truetype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-300.svg#Roboto") format("svg");} @font-face {font-family: "Roboto";font-style: normal;font-weight: 400;src: url("/makeup/fonts/roboto-v20-cyrillic_latin-regular.eot");src: local("Roboto"),local("Roboto-Regular"),url("/makeup/fonts/roboto-v20-cyrillic_latin-regular.eot?#iefix") format("embedded-opentype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-regular.woff2") format("woff2"),url("/makeup/fonts/roboto-v20-cyrillic_latin-regular.woff") format("woff"),url("/makeup/fonts/roboto-v20-cyrillic_latin-regular.ttf") format("truetype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-regular.svg#Roboto") format("svg");} @font-face {font-family: "Roboto";font-style: normal;font-weight: 500;src: url("/makeup/fonts/roboto-v20-cyrillic_latin-500.eot");src: local("Roboto Medium"),local("Roboto-Medium"),url("/makeup/fonts/roboto-v20-cyrillic_latin-500.eot?#iefix") format("embedded-opentype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-500.woff2") format("woff2"),url("/makeup/fonts/roboto-v20-cyrillic_latin-500.woff") format("woff"),url("/makeup/fonts/roboto-v20-cyrillic_latin-500.ttf") format("truetype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-500.svg#Roboto") format("svg");} @font-face {font-family: "Roboto";font-style: normal;font-weight: 700;src: url("/makeup/fonts/roboto-v20-cyrillic_latin-700.eot");src: local("Roboto Bold"),local("Roboto-Bold"),url("/makeup/fonts/roboto-v20-cyrillic_latin-700.eot?#iefix") format("embedded-opentype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-700.woff2") format("woff2"),url("/makeup/fonts/roboto-v20-cyrillic_latin-700.woff") format("woff"),url("/makeup/fonts/roboto-v20-cyrillic_latin-700.ttf") format("truetype"),url("/makeup/fonts/roboto-v20-cyrillic_latin-700.svg#Roboto") format("svg");}
+table.starsmap thead { font-weight: bold; } table.starsmap td { border: 1px solid black; padding: 0px; margin: 0px; }
+</style>
+<link rel="apple-touch-icon" sizes="180x180" href="/makeup/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/makeup/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/makeup/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/makeup/images/favicon/safari-pinned-tab.svg" color="#d65f43">
+<meta name="msapplication-TileColor" content="#9f00a7">
+<meta name="theme-color" content="#ffffff">
+<script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
+
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(55013458, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/55013458" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+<script type="text/javascript">
+_linkedin_partner_id = "2471257";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=2471257&fmt=gif" />
+</noscript>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32139554-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-32139554-1');
+</script>
+
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '300281877048270');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=300281877048270&ev=PageView&noscript=1"
+/></noscript>
+
+</head>
+<body>
+<section class="b-top-header" id="js-b-top-header">
+<div class="container">
+<a href="/" class="b-top-header__logo">
+<img src="upload/images/logo.svg" style="width:70px;" alt="" />
+</a>
+<ul class="b-top-header__menu js-scroll-to">
+<li><a href="#js-b-service"><span>Услуги</span></a></li> <li><a href="#js-b-method"><span>Методология</span></a></li> <li><a href="#js-b-keisi"><span>Кейсы</span></a></li> <li><a href="#js-b-experts"><span>Эксперты</span></a></li> <li><a href="/news/"><span>Новости</span></a></li>
+</ul>
+<div class="b-top-header__info is-email">
+<span class="b-top-header__info-label">&nbsp;</span>
+<a class="b-top-header__info-a b-o-sell-title" href="mailto:input@express42.com">input@express42.com</a>
+</div>
+<div class="b-top-header__info is-phone">
+<span class="b-top-header__info-label">
+<a class="js-popup-open" href="#js-form-consult" data-sendfrom="Из шапки">Заказать звонок</a>
+</span>
+<a class="b-top-header__info-a b-o-sell-title" href="tel:74950884284">+7 (495) 088-42-84</a>
+</div>
+<div class="b-top-header__button">
+<button class="is-small is-bold is-text-small js-popup-open" href="#js-form-order" type="button" data-sendfrom="Из Шапки">Получить консультацию</button>
+</div>
+<div class="b-top-header__mobile-button" id="js-menu-button">
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+<div class="b-top-header__mobile-menu"><div class="b-top-header__mobile-menu-container"></div></div>
+</section>
+<section class="b-welcome" id="js-b-welcome">
+<div class="container">
+<div class="b-welcome__content row align-items-center">
+<div class="col align-self-center">
+<h2>ЭКСПРЕСС 42</h2>
+<h1>Практики и технологии DevOps</h1>
+<div class="b-welcome__buttons">
+<button class="js-popup-open" type="button" href="#js-form-consult" data-sendfrom="Из блока: Первый экран">Консультация специалиста по DevOps <i class="icon-button"></i></button>
+<button class="is-transparent js-popup-open" type="button" href="#js-form-raschet" data-sendfrom="Из блока: Первый экран">Рассчитать стоимость</button>
+</div>
+</div>
+</div>
+</div>
+<div class="b-welcome__image"><img src="/makeup/images/welcome.png" alt="" /></div>
+</section>
+<section class="b-benefits js-is-second-load" id="js-b-benefits">
+<div class="container">
+<div class="row">
+<div class="col">
+<h2>С 2012 года внедряем лучшие практики DevOps, <br />чтобы вы могли</h2>
+</div>
+</div>
+<div class="b-benefits__list row">
+<div class="b-benefits__one col-xl-4 col-lg-12">
+Выкатывать обновления
+<div class="b-benefits__label b-o-sell-title">
+В <b>208</b> раз чаще
+</div>
+</div>
+<div class="b-benefits__one col-xl-4 col-lg-12">
+Восстанавливаться после сбоев
+<div class="b-benefits__label b-o-sell-title">
+В <b>96</b> раз быстрее
+</div>
+</div>
+<div class="b-benefits__one col-xl-4 col-lg-12">
+Сократить количество инцидентов
+<div class="b-benefits__label b-o-sell-title">
+В <b>3</b> раза
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="b-service js-is-second-load" id="js-b-service">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Услуги</h2>
+<h3>Чем мы можем помочь нашим клиентам?</h3>
+</div>
+</div>
+<div class="b-service__list row">
+<div class="col col-lg-6 col-xl-6">
+<div class="b-service__one d-flex flex-column justify-content-between">
+<div>
+<div class="b-service__icon">
+<img data-src="upload/icons/b3-1.svg" class="lazyload" alt="">
+</div>
+<h3>Экспресс-анализ DevOps</h3>
+<h4>Аудит существующей инфраструктуры</h4>
+<p>Быстрый взгляд на проблемы и предложение вариантов решения как для небольших и начинающих команд, так и для крупных компаний</p>
+</div>
+<div class="b-service__buttons">
+<button class="is-small js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Услуги: Экспресс-анализ DevOps">Мне это интересно <i class="icon-button"></i></button>
+<a class="is-small is-transparent b-g-button" href="express-analysis-devops/">Узнать больше</a>
+</div>
+</div>
+</div>
+<div class="col col-lg-6 col-xl-6">
+<div class="b-service__one d-flex flex-column justify-content-between">
+<div>
+<div class="b-service__icon">
+<img data-src="upload/icons/b3-3.svg" class="lazyload" alt="">
+</div>
+<h3>Масштабирование SaaS решений</h3>
+<h4>Создание DevOps платформы</h4>
+<p>Развиваем инфраструктуру, чтобы она отвечала потребностям бизнеса, повышала автономность и скорость работы команд, снижала издержки на эксплуатацию</p>
+</div>
+<div class="b-service__buttons">
+<button class="is-small js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Услуги: Масштабирование SaaS решений">Мне это интересно <i class="icon-button"></i></button>
+<a class="is-small is-transparent b-g-button" href="scale-saas-solutions/">Узнать больше</a>
+</div>
+</div>
+</div>
+<div class="col col-lg-6 col-xl-6">
+<div class="b-service__one d-flex flex-column justify-content-between">
+<div>
+<div class="b-service__icon">
+<img data-src="upload/icons/b3-2.svg" class="lazyload" alt="">
+</div>
+<h3>DevOps сопровождение</h3>
+<h4>Инженерная команда для ваших целей</h4>
+<p>Чтобы внедрить DevOps практики в вашей компании, не обязательно сразу нанимать новый отдел под эту задачу или отправлять на обучение существующих специалистов. Доверьте внедрение DevOps практик нашей опытной команде.</p>
+</div>
+<div class="b-service__buttons">
+<button class="is-small js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Услуги: DevOps сопровождение">Мне это интересно <i class="icon-button"></i></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="b-techbase js-is-second-load" id="js-b-techbase">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Технологическая база</h2>
+<h3>Для внедрения лучших практик DevOps мы используем</h3>
+</div>
+</div>
+<div class="b-techbase__list row align-items-center justify-content-center">
+<div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/Kubernetes_Logo.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/grafana.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/Prometheus.gif" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/docker.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/b4-4.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/ansible.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/elastic.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/gitlab.svg" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/jenkins.png" class="lazyload" alt="" title="">
+</div><div class="col col-6 col-lg-3">
+<img data-src="upload/techbase/logo-hashicorp-3f10732f.svg" class="lazyload" alt="" title="">
+</div>
+</div>
+</div>
+</section>
+<section class="b-method js-is-second-load" id="js-b-method">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>DevOps методология в “Экспресс 42”</h2>
+<h3>Как мы организуем процесс непрерывной поставки ПО</h3>
+</div>
+</div>
+<div class="row">
+<div class="col  col-12 col-lg-8">
+<div class="b-method__list row align-items-stretch">
+<div class="col col-12 col-md-6">
+<div class="b-method__one">
+<div class="b-method__icon">
+<img data-src="upload/icons/b5-1.svg" class="lazyload" alt="" />
+</div>
+<h3>Анализируем процессы</h3>
+<p>Проверяем, как построено <br />взаимодействие между <br />разработчиками и администраторами. <br />Проектируем технологии, <br />чтобы его наладить.</p>
+</div>
+</div><div class="col col-12 col-md-6">
+<div class="b-method__one">
+<div class="b-method__icon">
+<img data-src="upload/icons/b5-3.svg" class="lazyload" alt="" />
+</div>
+<h3>Выделяем преобразующую команду</h3>
+<p>Наша команда усиливает ваши <br />компетенции и сфокусирована <br />на достижении ваших возможностей</p>
+</div>
+</div><div class="col col-12 col-md-6">
+<div class="b-method__one">
+<div class="b-method__icon">
+<img data-src="upload/icons/b5-2.svg" class="lazyload" alt="" />
+</div>
+<h3>Обучаем ваших сотрудников</h3>
+<p>Проводим курсы и мастер-классы <br />по методологии DevOps. <br />Разработали 20 курсов <br />для корпоративного обучения.</p>
+</div>
+</div><div class="col col-12 col-md-6">
+<div class="b-method__one">
+<div class="b-method__icon">
+<img data-src="upload/icons/b5-4.svg" class="lazyload" alt="" />
+</div>
+<h3>Research & Development</h3>
+<p>Изучаем и внедряем новые <br />технологии поставки и создания <br />программного обеспечения.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col col-12 col-lg-4">
+<div class="b-method__info">
+<div class="b-method__info-icon"></div>
+<h3>О компании</h3>
+<p>"Экспресс 42" начала работу в 2012 году. Мы увидели, что появляется новый тип компаний &mdash; технологические компании и эти компании по-другому производят программное обеспечение. Такой подход к производству программного обеспечения назывался и называется DevOps.</p>
+<p>Миссия нашей компании &mdash; искать, находить, создавать и отдавать нашим клиентам практики производства программных продуктов. Инженерные практики, выработанные в нашей компании, позволят поставлять бизнес-ценность клиентам без задержек.</p>
+<div class="b-method__buttons">
+<button class="is-small js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока: Методология">Получить консультацию <i class="icon-button"></i></button>
+<button class="is-small is-transparent js-popup-open" type="button" href="#js-form-consult" data-sendfrom="Из блока: Методология">Вопрос специалисту</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="b-helped js-is-second-load" id="js-b-helped">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Кому мы уже помогли?</h2>
+</div>
+</div>
+<div class="b-helped__list" id="js-b-helped__list">
+<div class="b-helped__one" style="min-height:410px;">
+<div class="b-helped__icon">
+<img data-src="upload/logos/авито.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-helped__subtitle">Москва</div>
+<h3>Авито</h3>
+<p>- аудит микросервисной архитектуры&nbsp;и подготовка рекомендаций</p>
+<p>- консалтинг по постановке практики &ldquo;Инфраструктура как код&rdquo;</p>
+</div><div class="b-helped__one" style="min-height:410px;">
+<div class="b-helped__icon">
+<img data-src="upload/logos/росбанк.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-helped__subtitle">Москва</div>
+<h3>Росбанк</h3>
+<p>- внедрение CI/CD для микросервисной архитектуры</p>
+<p>- аудит команд и консалтинг по построению Software Factory</p>
+</div><div class="b-helped__one" style="min-height:410px;">
+<div class="b-helped__icon">
+<img data-src="upload/logos/райффайзен.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-helped__subtitle">Москва</div>
+<h3>Райффайзен Банк</h3>
+<p>- аудит ИТ процессов</p>
+<p>- создание MVP процесса поставки в продуктовых командах</p>
+</div><div class="b-helped__one" style="min-height:410px;">
+<div class="b-helped__icon">
+<img data-src="upload/logos/тинькоф испарвл.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-helped__subtitle">Москва</div>
+<h3>Тинькофф</h3>
+<p>- аудит ИТ процессов и подготовка рекомендаций</p>
+<p>- технический аудит DevOps практик и инструментов</p>
+</div><div class="b-helped__one" style="min-height:410px;">
+<div class="b-helped__icon">
+<img data-src="upload/logos/газпром исправлен.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-helped__subtitle">Москва</div>
+<h3>Газпромнефть</h3>
+<p>- проектирование и внедрение MVP платформы для контейнеризируемых приложений</p>
+<p>- создание MVP платформы</p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="b-helped__list-logos row">
+<div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/райффайзен.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/авито.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/газпром исправлен.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/альфабанк.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/росбанк.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/xx5.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/тинькоф испарвл.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/1.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/делимоб.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/пик группа изменен.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/скай.jpg" class="lazyload" alt="" title="" />
+</div><div class="col col-12 col-sm-6 col-lg-3">
+<img data-src="upload/logos/logops.jpeg" class="lazyload" alt="" title="" />
+</div>
+</div>
+</div>
+</section>
+<section class="b-keisi js-is-second-load" id="js-b-keisi">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Кейсы</h2>
+<h3>У нас за плечами 80+ успешных кейсов внедрения самых эффективных практик DevOps. <br />Мы выбрали 4 наглядных примера из разных сегментов и направлений</h3>
+</div>
+</div>
+<ul class="b-keisi__controller">
+<li class="is-active">Wild Apricot</li><li class="">Райффайзен банк</li><li class="">X5 Retail Group</li><li class="">ПИК-Технологии</li>
+</ul>
+<div class="b-keisi__list">
+<div class="b-keisi__switch is-active">
+<div class="b-keisi__descr row flex-column flex-lg-row justify-content-center align-items-end">
+<div class="b-keisi__company col col-12 col-lg-4 ">
+<img data-src="upload/logos/априкот.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+<div class="b-keisi__subtitle">Москва</div>
+<h3>Wild Apricot</h3>
+</div>
+<div class="b-keisi__text col col-12 col-lg-6 ">
+<p>В рамках проекта автоматизирована настройка тестовых окружений, выкатки приложения и запуска smoke тестов в облаке AWS. Приложение написано на .NET. Используется стек Windows и MS SQL. Для части инфраструктурных сервисов использовались различные Opensource решения, в том числе Linux.</p>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Проблемы на проекте
+</div>
+<div class="b-keisi__spoiler-text">
+<ul class="is-warn">
+<li>
+<p>Реализованный функционал долго доставляется до клиента, и поставка выполняется частично в ручном режиме.</p>
+</li><li>
+<p>Много ошибок в продукте выявляется на очень поздних этапах, клиенты находят их первыми.</p>
+</li><li>
+<p>У разработчиков нет возможности проверить функционал в среде, похожей на продуктовую.</p>
+</li><li>
+<p>Разработчики не знакомы с продуктовой средой, не несут ответственность за новый функционал в промышленной среде и не могут их сопровождать.</p>
+</li><li>
+<p>Способ доставки кода сложен и непрозрачен.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Наше решение
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Для продуктовых команд клиента мы подготовили конфигурацию для создания тестовых окружений в облаке AWS с нужной версией приложения по кнопке в CI-системе, позволяющую решать следующие задачи:</h3>
+<ul class="is-star">
+<li>
+<p>Получение в облаке AWS преднастроенного окружения на базе машин на Windows и Linux, со всеми компонентами приложения нужных версий и инфраструктурными сервисами. Окружение доступно для автоматического и ручного тестирования и для демонстрации функционала.</p>
+</li><li>
+<p>Автоматизированный процесс развертывания приложения на тестовое окружение, на основе системы управления конфигурацией Chef. Разработчики самостоятельно могут дописывать конфигурацию развертывания под свои нужды.</p>
+</li><li>
+<p>Автоматизированный процесс создания ресурсов в облаке, настройку окружений, среднего слоя и инфраструктурных сервисов на основе Terraform и Chef.</p>
+</li><li>
+<p>Автоматизированный процесс обновления шаблонов виртуальных машин на основе Packer.</p>
+</li><li>
+<p>Настройка систем мониторинга и логирования и их интеграция с тестовыми окружениями на основе Prometheus, Grafana и Graylog.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Результаты
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Благодаря внедрению инженерных практик по управлению инфраструктурой как кодом, непрерывной поставке и непрерывного мониторинга мы добились следующих результатов:</h3>
+<ul class="is-win">
+<li>
+<h4>Удобное тестовое окружение</h4>
+<p>Команда разработки получает с нуля готовое к использованию тестовое окружение с нужной версией приложения в облаке AWS, учитывая прогон Smoke тестов, за 30-40 минут полностью в автоматическом режиме по кнопке или встраивая в собственные сборочные пайплайны.</p>
+</li><li>
+<h4>Новая версия за 5-10 минут</h4>
+<p>При необходимости возможно выкатить новую версию приложения на уже существующее окружение за 5-10 минут + время сборки и тестирования приложения.</p>
+</li><li>
+<h4>Больше тестируемых релизов</h4>
+<p>Увеличилось количество тестируемых релизов приложения. За счет возможности создать окружение, разработчиком больше не приходится конкурировать за тестовые окружения.</p>
+</li><li>
+<h4>Меньше ошибок в настройке окружений и тестировании</h4>
+<p>Значительно уменьшилось количество ошибок при тестировании как следствие сокращения количества ошибок в настройке окружений, инфраструктурных сервисов и настройке самого приложения.</p>
+</li><li>
+<h4>Экономия в перспективе</h4>
+<p>Написанные пайплайны и конфигурация в дальнейшем использовалась для продуктовых окружений, что также сократило затраты на эксплуатацию.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__button">
+<button class="js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Кейсы: Wild Apricot">У меня похожие проблемы <i class="icon-button"></i></button>
+</div>
+</div><div class="b-keisi__switch ">
+<div class="b-keisi__descr row flex-column flex-lg-row justify-content-center align-items-end">
+<div class="b-keisi__company col col-12 col-lg-4 ">
+<img data-src="upload/logos/райффайзен.jpg" class="lazyload" style="width: 200px; height: 150px;" alt="" />
+<div class="b-keisi__subtitle">Москва</div>
+<h3>Райффайзен банк</h3>
+</div>
+<div class="b-keisi__text col col-12 col-lg-6 ">
+<p>В рамках сотрудничества было выполнено несколько проектов по постановке DevOps практик и внедрению автоматизации процессов сборки, контроля качества и эксплуатации для продуктовых команд банка. Продуктовые команды использовали разный стек технологий для своих продуктов: Linux и Windows, Java и .NET. В качестве СУБД использовались OracleDB, DB2, PostgreSQL.</p>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Проблемы на проекте
+</div>
+<div class="b-keisi__spoiler-text">
+<ul class="is-warn">
+<li>
+<p>Множество ручных операций в процессе сборки отвлекают команды от развития продукта и способствуют снижению качества продукта. Ручные операции в процессах эксплуатации вносят соответствующие риски.</p>
+</li><li>
+<p>Инфраструктурный набор технологий у продуктовых команд не синхронизирован, и каждая команда самостоятельно занимается поиском и разработкой решений для автоматизации и поддержки процессов разработки, тестирования и эксплуатации.</p>
+</li><li>
+<p>Недостаточное количество окружений разработки и тестирования затрудняет параллельную разработку функционала, состояние тестовых окружений не синхронизировано между собой и с продуктивным окружением, что снижает эффективность тестирования.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Наше решение
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Для каждой продуктовой команды подготовлена автоматизация с применением практик Инфраструктура как код и Непрерывная поставка, позволяющая реализовать следующие задачи продуктовой команды:</h3>
+<ul class="is-star">
+<li>
+<p>Автоматизированный процесс сборки, тестирования и развертывания компонентов продукта на произвольное окружение без простоя в обслуживании. Разработка сама описывает как собирать, конфигурировать и развертывать их приложения.</p>
+</li><li>
+<p>Автоматизация создания окружений (тестовых и продуктивных) и автоматизация внесения изменений в конфигурации окружений и систем, работающих на них. У каждой продуктовой команды появился свой инфраструктурный репозиторий с Ansible-сценариями, внося изменения в который команда управляет своими окружениями, запускаемыми на внутреннем облаке VMWare при помощи API vRealize.</p>
+</li><li>
+<p>Контроль качества приложений встроен в автоматизированный процесс поставки и позволяет получить обратную связь о работоспособности изменений в течение нескольких минут.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Результаты
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Благодаря внедрению инженерных практик по управлению инфраструктурой как кодом и непрерывной поставке удалось добиться следующих результатов:</h3>
+<ul class="is-win">
+<li>
+<h4>Удобное тестовое окружение</h4>
+<p>Сокращение&nbsp;с недели до часа сроков на создание и настройку нового окружения с нуля до полной готовности, включая установку свежей версии приложения.</p>
+</li><li>
+<h4>Новая версия за 5-10 минут</h4>
+<p>Сокращение трудозатрат на подготовку и выпуск релиза за счет автоматизации процессов позволило командам сфокусироваться на решении бизнес-задач.</p>
+</li><li>
+<h4>Больше тестируемых релизов</h4>
+<p>Унификация окружений разработки и тестирования с продуктивным окружением снизило количество инцидентов, возникающих из-за различий в состоянии окружений.</p>
+</li><li>
+<h4>Меньше ошибок в настройке окружений и тестировании</h4>
+<p>Возможность автоматически получить выделенное окружение под разработку и отладку функционала помогла внедрению практики работы с feature-окружениями, где каждое изменения в продукте разрабатывается и тестируется изолированно. Это способствовало росту качества и уменьшению очереди задач на тестирование.</p>
+</li><li>
+<h4>Экономия в перспективе</h4>
+<p>Применение целевого стека технологий позволило улучшить коммуникацию между техническими специалистами как в одной команде, так и между командами.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__button">
+<button class="js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Кейсы: Райффайзен банк">У меня похожие проблемы <i class="icon-button"></i></button>
+</div>
+</div><div class="b-keisi__switch ">
+<div class="b-keisi__descr row flex-column flex-lg-row justify-content-center align-items-end">
+<div class="b-keisi__company col col-12 col-lg-4 ">
+<img data-src="upload/logos/xx5.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+<div class="b-keisi__subtitle">Москва</div>
+<h3>X5 Retail Group</h3>
+</div>
+<div class="b-keisi__text col col-12 col-lg-6 ">
+<p>В рамках проекта была произведена миграция тестовых и продуктовых окружений на платформу Openshift. Также реализована постановка Devops практик, выполнена автоматизация развертывания, конфигурации инфраструктуры, процессов сборки, контроля качества и эксплуатации приложения. Приложение разделено на модули, использовался стек: Java, Spring Framework, JavaScript/TypeScript, Angular, Tomcat, Docker, Linux. Для хранения данных использовался PostgreSQL.</p>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Проблемы на проекте
+</div>
+<div class="b-keisi__spoiler-text">
+<ul class="is-warn">
+<li>
+<p>Для настройки тестовых и продуктовых окружений используются разные инструменты, часть операций выполняется вручную. Из-за этого при переносе изменений между окружениями возникают ошибки.</p>
+</li><li>
+<p>Не все изменения окружений происходят прозрачно для команд разработки.</p>
+</li><li>
+<p>Существующая инфраструктура задокументирована не полностью.</p>
+</li><li>
+<p>Отсутствие метрик процесса поставки и работы продукта затрудняет работу с использованием продуктового подхода.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Наше решение
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Для продуктовой команды подготовлена автоматизация с применением практик Инфраструктура как код и Непрерывная поставка, позволяющая реализовать следующие задачи продуктовой команды:</h3>
+<ul class="is-star">
+<li>
+<p>Подготовить на базе существующей инсталляции Openshift платформу для разработки цифровых продуктов. Платформа предоставляет разработчику и тестировщику изолированные окружения с необходимой для работы приложения экосистемой, такие как базы данных, сервисы мониторинга и централизованного логирования идентичные с продуктивной инсталляцией.</p>
+</li><li>
+<p>Мигрировать приложение и процесс разработки на новую платформу Openshift.</p>
+</li><li>
+<p>Автоматизировать, применяя практики Инфраструктура как код и Непрерывная поставка, настройку тестовых и продуктовых окружений, выкатку и настройку приложения, применение миграций.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Результаты
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Благодаря внедрению инженерных практик по управлению инфраструктурой как кодом и непрерывной поставке удалось добиться следующих результатов:</h3>
+<ul class="is-win">
+<li>
+<p>Команда разработки может в автоматическом режиме получить новое тестовое окружение с необходимой версией приложения на платформе Openshift за 15-30 минут.</p>
+</li><li>
+<p>Уменьшилось количество ошибок при тестировании приложения и эксплуатации окружений за счет описания конфигурации в виде кода и автоматизации создания окружений.</p>
+</li><li>
+<p>Процесс выкатки новой версии приложения стал понятным и предсказуемым за счет автоматизации.</p>
+</li><li>
+<p>Уменьшилось время диагностики ошибок и дефектов приложения за счет получения быстрой обратной связи во время сборки и контроля качества приложения и тесной интеграции тестовых окружений с системами мониторинга и логирования.</p>
+</li><li>
+<p>Метрики процесса поставки и эксплуатационные метрики приложений учитываются при планировании улучшений в процессах и приоритезации беклога команды.</p>
+</li><li>
+<p>Команда клиента получила необходимую экспертизу для дальнейшего развития решения в процессе совместной работы. Проведено необходимое обучение сотрудников. Составлен план дальнейшего развития решения.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__button">
+<button class="js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Кейсы: X5 Retail Group">У меня похожие проблемы <i class="icon-button"></i></button>
+</div>
+</div><div class="b-keisi__switch ">
+<div class="b-keisi__descr row flex-column flex-lg-row justify-content-center align-items-end">
+<div class="b-keisi__company col col-12 col-lg-4 ">
+<img data-src="upload/logos/пик группа изменен.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+<div class="b-keisi__subtitle">Москва</div>
+<h3>ПИК-Технологии</h3>
+</div>
+<div class="b-keisi__text col col-12 col-lg-6 ">
+<p>В рамках проекта было автоматизировано создание окружений в облаках GCP и Яндекс Облаке, совместно с постановкой Devops практик и автоматизацией настройки инфраструктуры и процессов сборки, контроля качества и эксплуатации приложения. Приложение разделено на микросервисы и использовался стек: PHP, .NET, Kubernetes. Для хранения данных использовался MySQL, Postgresql.</p>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Проблемы на проекте
+</div>
+<div class="b-keisi__spoiler-text">
+<ul class="is-warn">
+<li>
+<p>Поведение приложения на тестовых стендах отличается от ожидаемого: приложение работает медленно и нестабильно. Различия в состоянии тестовых и продуктивной сред снижали результативность тестирования.</p>
+</li><li>
+<p>Отсутствие удобного командам стека инструментов для контроля работоспособности компонентов приложения и отладки замедляло процесс разработки и затрудняло отладку проблем в продуктивной среде.</p>
+</li><li>
+<p>Облачная инфраструктура и кластера Kubernetes настроены и управляются вручную</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Наше решение
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Для продуктовых команд подготовлена автоматизация с применением практик Инфраструктура как код и Непрерывная поставка, позволяющая реализовать следующие задачи продуктовой команды:</h3>
+<ul class="is-star">
+<li>
+<p>Для продуктовых команд подготавливается автоматизация, позволяющая развернуть на мощностях нескольких выбранных облачных провайдеров кластер Kubernetes и настроить облачные сервисы под нужды команды разработки. В каждый кластер развертывается экосистема, необходимая для разработки и эксплуатации продукта команды, такая как стек мониторинга и централизованного логирования.</p>
+</li><li>
+<p>Перестроить процессы разработки команд в соответствии с новым подходом, изменением в моделях ветвления и новой схемой развертывания.</p>
+</li><li>
+<p>Обучить команды заказчика разработанному решению, внедренным практикам и инструментам, передать решение командам во владение.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__spoiler">
+<div class="b-keisi__spoiler-title">
+Результаты
+</div>
+<div class="b-keisi__spoiler-text">
+<h3>Благодаря внедрению инженерных практик по управлению инфраструктурой как кодом и непрерывной поставке удалось добиться следующих результатов:</h3>
+<ul class="is-win">
+<li>
+<p>Команда разработки может получить полностью развернутое окружение с нуля до боевого состояния, включая развертывание self-hosted Kubernetes, создание и настройку сервисов мониторинга и логирования, в Яндекс Облаке за 30-40 минут.</p>
+</li><li>
+<p>Команда разработки может получить полностью развернутое окружение с нуля до боевого состояния, включая развертывание managed Kubernetes, создание и настройку сервисов мониторинга и логирования, в GCP за 20 минут.</p>
+</li><li>
+<p>Поведение приложения на продуктовых средах стало прогнозируемо, уменьшилось количество ошибок и дефектов связанных с ручной настройкой окружений и выкаткой приложений.</p>
+</li><li>
+<p>Уменьшилось время необходимое на диагностику ошибок и дефектов приложения на тестовых окружений за счет интеграции тестовых окружений с системами логирования и мониторинга и моментальной доступности логов и метрик приложения команде разработчиков.</p>
+</li><li>
+<p>Команда клиента получила необходимую экспертизу для дальнейшего развития решения. Произвели обучения команды клиента. Совместно с командой клиента составили план развития решения.</p>
+<p>&nbsp;</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="b-keisi__button">
+<button class="js-popup-open" type="button" href="#js-form-order" data-sendfrom="Из блока Кейсы: ПИК-Технологии">У меня похожие проблемы <i class="icon-button"></i></button>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="b-reviews-video js-is-second-load" id="js-b-reviews-video">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Видео-отзывы</h2>
+</div>
+</div>
+<div class="b-reviews-video__list">
+<div class="b-reviews-video__one-container">
+<a href="#js-b-video-more" class="b-reviews-video__one js-popup-open" data-title="Николай Кныш, Роман Мурашкин, Райффайзенбанк" data-video-url="https://www.youtube.com/embed/NVWCpZCCIq4">
+<div class="b-reviews-video__title">Николай Кныш, Роман Мурашкин, Райффайзенбанк</div>
+<img data-src="https://img.youtube.com/vi/NVWCpZCCIq4/sddefault.jpg" class="lazyload" alt="">
+</a>
+</div><div class="b-reviews-video__one-container">
+<a href="#js-b-video-more" class="b-reviews-video__one js-popup-open" data-title="Алексей Вахов, Учи.ру" data-video-url="https://www.youtube.com/embed/RZABwMSwNUg">
+<div class="b-reviews-video__title">Алексей Вахов, Учи.ру</div>
+<img data-src="https://img.youtube.com/vi/RZABwMSwNUg/sddefault.jpg" class="lazyload" alt="">
+</a>
+</div>
+</div>
+</div>
+</section>
+<section class="b-reviews-letters js-is-second-load" id="js-b-reviews-letters">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Благодарственные письма</h2>
+</div>
+</div>
+<div class="b-reviews-letters__list js-gallery-photo">
+<div class="js-gallery-one b-reviews-letters__one">
+<a href="upload/letters/1/2020-05-28_17-42-42.png" title="">
+<img data-src="/assets/cache_image/upload/letters/1/2020-05-28_17-42-42_350x495_b77.png" class="lazyload" alt="">
+</a>
+</div><div class="js-gallery-one b-reviews-letters__one">
+<a href="upload/letters/1/bonasource.png" title="">
+<img data-src="/assets/cache_image/upload/letters/1/bonasource_350x495_b77.png" class="lazyload" alt="">
+</a>
+</div><div class="js-gallery-one b-reviews-letters__one">
+<a href="upload/letters/1/forecast.png" title="">
+<img data-src="/assets/cache_image/upload/letters/1/forecast_350x495_b77.png" class="lazyload" alt="">
+</a>
+</div><div class="js-gallery-one b-reviews-letters__one">
+<a href="upload/letters/1/esk.png" title="">
+<img data-src="/assets/cache_image/upload/letters/1/esk_350x495_b77.png" class="lazyload" alt="">
+</a>
+</div>
+</div>
+</div>
+</section>
+<section class="b-reviews-clients js-is-second-load" id="js-b-reviews-clients">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Отзывы клиентов</h2>
+</div>
+</div>
+<div class="b-reviews-clients__list">
+<div class="b-reviews-clients__one-slick">
+<div class="b-reviews-clients__one">
+<div class="b-reviews-clients__shadow-1"></div>
+<div class="b-reviews-clients__shadow-2"></div>
+<div class="b-reviews-clients__one-container">
+<div class="b-reviews-clients__logo">
+<img data-src="upload/logos/райффайзен.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-reviews-clients__text">
+<h3>“Райффайзенбанк”</h3>
+<p>АО &ldquo;Райффайзенбанк&rdquo; подтверждает, что компания ООО &ldquo;Экспресс 42&rdquo; в период с 16 января 2017 по 22 мая 2017 года успешно реализовала проект по внедрению процесса непрерывной поставки ПО для интернет-банка Райффайзен банка RConnect. В рамках проекта были решены следующие задачи:</p>
+<p>- Создание тестовых окружений &laquo;по кнопке&raquo;</p>
+<p>- Внедрен процесс управления конфигурацией (Инфраструктура как Код) для уже существующих сред</p>
+<p>- Налажен процесс непрерывной интеграции (CI)</p>
+<p>- Налажен процесс управления версиями схемы БД</p>
+<p>- Налажена выкатка во все среды, включая боевую, &laquo;по кнопке&raquo;.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-reviews-clients__one-slick">
+<div class="b-reviews-clients__one">
+<div class="b-reviews-clients__shadow-1"></div>
+<div class="b-reviews-clients__shadow-2"></div>
+<div class="b-reviews-clients__one-container">
+<div class="b-reviews-clients__logo">
+<img data-src="upload/logos/b8-1.png" class="lazyload" alt="" />
+</div>
+<div class="b-reviews-clients__text">
+<h3>“Инжэниус Тим”</h3>
+<p>&ldquo;Инжэниус Тим&rdquo; благодарит компанию ООО &ldquo;Экспресс 42&rdquo; за проведение аудита процессов и инструментов разработки и тестирования ПО Forecast Now.<br />В рамках аудита были рассмотрели основные DevOps практики и инструменты, которые помогут решить текущие проблемы в разработке и тестировании ПО ForeCast Now и выполнены следующие задачи:</p>
+<p>- Проведен анализ инфраструктуры для тестирования</p>
+<p>- Сформирован список DevOps практик для Desktop разработки</p>
+<p>- Подготовлены рекомендации по базам данных, мониторингу и логированию</p>
+</div>
+</div>
+</div>
+</div>
+<div class="b-reviews-clients__one-slick">
+<div class="b-reviews-clients__one">
+<div class="b-reviews-clients__shadow-1"></div>
+<div class="b-reviews-clients__shadow-2"></div>
+<div class="b-reviews-clients__one-container">
+<div class="b-reviews-clients__logo">
+<img data-src="upload/logos/априкот.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-reviews-clients__text">
+<h3>“Wild Apricot”</h3>
+<p>&ldquo;Бонасорс&rdquo; благодарит компанию ООО &ldquo;Экспресс 42&rdquo; за плодотворную совместную деятельность над проектом по переводу инфраструктуры тестовых окружений компании в облако Amazon Web Services (AWS) и внедрение DevOps практик.</p>
+<p>- Проведен анализ текущей инфраструктуры тестовых окружений;</p>
+<p>- Спроектирована архитектура тестовых окружений в AWS;</p>
+<p>- Реализована система управления тестовыми окружениями в AWS. На проекте использовались следующие инструменты - Linux, Windows, Chef, Terraform, Teamcity, Zabbix, Graylog;</p>
+<p>- Внедрена новая система и осуществлена миграция тестовых окружений;</p>
+<p>- Проведено обучение по основным DevOps практикам - инфраструктура как код, непрерывная поставка, мониторинг и логирование;</p>
+<p>- Подготовлена программа дальнейшего развития проекта.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="b-experts js-is-second-load" id="js-b-experts">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Наши эксперты</h2>
+</div>
+</div>
+<div class="b-experts__list">
+<div class="b-experts__one">
+<div class="b-experts__photo">
+<img data-src="upload/experts/vitkhab.png" class="lazyload" alt="" />
+</div>
+<div class="b-experts__text">
+<h3>Виталий Хабаров</h3>
+<div class="b-experts__spoiler">
+<p>Ведущий инженер команды аудита и консалтинга.&nbsp;Руководил проектом по разработке платформы CI/CD и подключения к ней команд клиента. В рамках проекта автоматизировали процессы сборки и деплоя, разработали CI/CD процесс для 6 команд. Четыре команды разрабатывали Java + Angular приложения, одна команда разрабатывала на PHP и одна Node.JS приложение.</p>
+<p>Проводил обучающие <u><a href="https://education.express42.com/#rec9640834">мастер классы</a></u> по Ansible, Git, CI/CD. Участвовал в разработке и чтении курса <u><a href="https://otus.ru/lessons/devops-praktiki-i-instrumenty/">DevOps практики и инструменты</a></u> на платформе Отус. Писал ботов для автоматизации рутинных процессов внутри компании.</p>
+</div>
+<div class="b-experts__spoiler-open">Читать полностью</div>
+<h4>Конференции и выступления</h4>
+<ul>
+<li>DevOpsConf 2018 <u><a href="https://www.youtube.com/watch?v=i2iGd_5ve2s">Круглый стол по DevOps практикам и инструментам</a></u></li>
+<li>Город IT 2018 <u><a href="https://gorod.it/section2018/devops">Knowledge Sharing. Как продвигать технологии у себя в компании</a></u></li>
+<li>DevOpsDays Kazan 2018 Как мы обучаем DevOps практикам</li>
+<li>Secon 2018 <u><a href="https://www.youtube.com/watch?v=9Q67WxnFHN8">Цель DevOps</a></u></li>
+<li>DevOops 2017 <u><a href="https://www.youtube.com/watch?v=WSNJU7RYhC4">CI/CD в Windows среде</a></u></li>
+</ul>
+<h4>Участие в клиентских проектах</h4>
+<div class="b-experts__logos">
+<div class="b-experts__logos-one">
+<img data-src="/upload/logos/авито.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/априкот.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/росбанк.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div>
+</div>
+</div>
+</div>
+<div class="b-experts__one">
+<div class="b-experts__photo">
+<img data-src="upload/experts/nvelgin.jpeg" class="lazyload" alt="" />
+</div>
+<div class="b-experts__text">
+<h3>Никита Вельгин</h3>
+<div class="b-experts__spoiler">
+<p>Инженер команды инфраструктурной платформы. Участвовал в проектах по построению инфраструктурной платформы на основе Kubernetes и Openshift, подключению к платформе CI/CD, мониторинга, логирования.</p>
+</div>
+<div class="b-experts__spoiler-open">Читать полностью</div>
+<div class="b-experts__logos">
+<div class="b-experts__logos-one">
+<img data-src="/upload/logos/газпром исправлен.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/пик группа изменен.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/2.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div>
+</div>
+</div>
+</div>
+<div class="b-experts__one">
+<div class="b-experts__photo">
+<img data-src="upload/experts/чел.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-experts__text">
+<h3>Юрий Игнатов </h3>
+<div class="b-experts__spoiler">
+<p>Имею опыт в трансформации процессов выпуска ПО в таких организациях как Райффайзенбанк, Х5 Retail Group, ПИК Технологии, в который входит проектирование процессов и инфраструктуры, автоматизация и интеграция технических решений по управлению инфраструктурой с применением современных практики, таких как Инфраструктура как код (IaC), Непрерывная поставка (CI/CD), Observability (Централизованное логирование, Непрерывной мониторинг, Трейсинг), а также обучение сотрудников клиента новым подходам и инструментам.</p>
+</div>
+<div class="b-experts__spoiler-open">Читать полностью</div>
+<h4>Участие в клиентских проектах</h4>
+<div class="b-experts__logos">
+<div class="b-experts__logos-one">
+<img data-src="/upload/logos/райффайзен.jpg" class="lazyload" style="width: 200px; height: 150px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/xx5.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/пик группа изменен.jpg" class="lazyload" style="width: 220px; height: 170px;" alt="" />
+</div>
+</div>
+</div>
+</div>
+<div class="b-experts__one">
+<div class="b-experts__photo">
+<img data-src="upload/experts/bogatyrets.jpg" class="lazyload" alt="" />
+</div>
+<div class="b-experts__text">
+<h3>Сергей Богатырец</h3>
+<div class="b-experts__spoiler">
+<p><span style="font-weight: 400;">Принимал участие в проектах по построению инфраструктуры для организации процессов непрерывной интеграции и непрерывной поставки (CI/CD), построению CI/CD для продуктовых команд компаний (за плечами более 10 команд), обеспечение работы сервисов у условиях нескольких ДЦ, организация централизованных систем мониторинга и логирования для продуктовых команд</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Увлекаюсь IoT решениями, применяю DevOps практики и инструменты в личных проектах </span><a href="https://github.com/serjs"><span style="font-weight: 400;">http://github.com/serjs</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span></a><span style="font-weight: 400;">Принимал участие в разработке и чтении курсов: </span><a href="https://education.express42.com/docker-foundation"><span style="font-weight: 400;">Docker, базовый курс</span></a><span style="font-weight: 400;">, </span><a href="https://education.express42.com/ci_cd"><span style="font-weight: 400;">Непрервная поставка с Docker</span></a><span style="font-weight: 400;">, </span><a href="https://education.express42.com/observability"><span style="font-weight: 400;">Централизованные системы логирования: Elastic stack</span></a><span style="font-weight: 400;">, </span><a href="https://otus.ru/lessons/devops-praktiki-i-instrumenty/?int_source=courses_catalog&amp;int_term=operations"><span style="font-weight: 400;">DevOps практики и инструменты</span></a></p>
+</div>
+<div class="b-experts__spoiler-open">Читать полностью</div>
+<h4>Участие в клиентских проектах</h4>
+<div class="b-experts__logos">
+<div class="b-experts__logos-one">
+<img data-src="/upload/logos/b10-2.png" class="lazyload" style="width: 181px; height: 49px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/газпром.png" class="lazyload" style="width: 292px; height: 135px;" alt="" />
+</div><div class="b-experts__logos-one">
+<img data-src="/upload/logos/b6-4.png" class="lazyload" style="width: 230px; height: 67px;" alt="" />
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="b-contacts js-is-second-load" id="js-b-contacts">
+<div class="container">
+<div class="o-headers row">
+<div class="col">
+<h2>Как с нами связаться?</h2>
+</div>
+</div>
+<div class="b-contacts__list">
+<div class="b-contacts__info">
+<h3>“Экспресс 42”</h3>
+<div class="b-contacts__label">
+<div class="b-contacts__label-icon">
+<img src="makeup/images/icon-phone.png" alt="" />
+</div>
+<div class="b-contacts__label-text">
+<span>Телефон</span>
+<a href="tel:74950884284">+7 (495) 088-42-84</a>
+</div>
+</div>
+<div class="b-contacts__label">
+<div class="b-contacts__label-icon">
+<img src="makeup/images/icon-address.png" alt="" />
+</div>
+<div class="b-contacts__label-text">
+<span>Адрес</span>
+Москва, ул. Вятская 27с7
+</div>
+</div>
+<div class="b-contacts__label">
+<div class="b-contacts__label-icon">
+<img src="makeup/images/icon-email.png" alt="" />
+</div>
+<div class="b-contacts__label-text">
+<span>E-mail</span>
+<a href="mailto:input@express42.com">input@express42.com</a>
+</div>
+</div>
+<div class="b-contacts__label">
+<div class="b-contacts__label-icon">
+<img src="makeup/images/icon-hours.png" alt="" />
+</div>
+<div class="b-contacts__label-text">
+<span>Время работы</span>
+Пн-Вс: 10:00 - 19:00
+</div>
+</div>
+<div class="b-contacts__socseti">
+<a href="https://www.facebook.com/express42ru/" target="_blank" class="b-contacts__soc-icon is-fb"></a>
+<a href="https://www.instagram.com/express42_ru/" target="_blank" class="b-contacts__soc-icon is-in"></a>
+<a href="#" target="_blank" class="b-contacts__soc-icon is-tg"></a>
+</div>
+</div>
+<div class="b-contacts__map">
+<div class="b-contacts__yamap" id="js-b-contacts__map">
+<script>
+          // lazy
+          $(function(){
+            $('#js-b-contacts__map').append('<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ab08ab5c947f6934957ecccafffd6d2706eaf46c904a68b12bae38d5ce8d1cf60&amp;width=100%25&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></'+'script>');
+          });
+        </script>
+</div>
+<div class="b-contacts__form">
+<h3>Получить консультацию</h3>
+<form class="ajax_form" action="https://express42.com/" method="post" id="js-form-contacts-goal">
+<input name="id_page" type="hidden" value="https://express42.com/" />
+<input type="text" style="display: none;" name="nameemail" value="" />
+<input type="hidden" value="" name="notice" />
+<input type="hidden" value="Из контактов" name="sendfrom" />
+<input type="hidden" value="" name="goal" />
+<input type="hidden" value="" name="utm_content" />
+<input type="hidden" value="" name="utm_term" />
+<input type="hidden" value="" name="utm_campaign" />
+<input type="hidden" value="" name="utm_medium" />
+<input type="hidden" value="" name="utm_source" />
+<input type="text" name="name" placeholder="Имя *" value="" />
+<input type="text" name="emailWho" placeholder="E-mail *" value="" />
+<input class="is-phone" type="text" name="phone" placeholder="Телефон *" value="" />
+<textarea placeholder="Комментарий" name="message"></textarea>
+<button class="" type="submit">Отправить <i class="icon-button"></i></button><br />
+<div style="text-align: center;">
+<a href="#js-form-raschet" class="js-popup-open" data-sendfrom="Из блока: Контакты">Рассчитать стоимость проекта</a>
+</div>
+<input class="g-form-checkbox__label-check" type="checkbox" value="1" checked="checked" id="js-form-contacts-check-agree" required="required">
+<label class="g-form-checkbox__label" for="js-form-contacts-check-agree">
+Я принимаю условия<br /><a href="#js-form-polytic" class="js-popup-open">политики конфиденциальности</a>
+</label>
+<input type="hidden" name="af_action" value="02c54db7a67bc8850a0b40690b49df2a" />
+</form>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div id="js-form-reg" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Регистрация</div>
+<div class="g-form-pop__descr">
+<p style="text-align: center;">Запишитесь на вебинар</p>
+</div>
+<form class="ajax_form" action="https://express42.com/" method="post" id="js-form-consult-goal">
+<input name="id_page" type="hidden" value="https://express42.com/" />
+<input type="text" style="display: none;" name="nameemail" value="" />
+<input type="hidden" value="" name="notice" />
+<input type="hidden" value="" name="sendfrom" />
+<input type="hidden" value="" name="goal" />
+<input type="hidden" name="newsletter" value="1" />
+<input type="hidden" value="" name="utm_content" />
+<input type="hidden" value="" name="utm_term" />
+<input type="hidden" value="" name="utm_campaign" />
+<input type="hidden" value="" name="utm_medium" />
+<input type="hidden" value="" name="utm_source" />
+<div class="g-form-pop__form">
+<div class="g-form-pop__form-container">
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Фамилия, Имя <span>*</span></div>
+<input type="text" name="name" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">E-mail <span>*</span></div>
+<input type="text" name="emailWho" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Контактный телефон <span>*</span></div>
+<input class="is-phone" type="tel" name="phone" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Должность</div>
+<input type="text" name="position" value="">
+</div>
+</div>
+<div class="g-form-pop__submit">
+<button class="" type="submit">Отправить <i class="icon-button"></i></button>
+<input class="g-form-checkbox__label-check" type="checkbox" value="1" checked="checked" id="js-form-reg-check-agree" required="required">
+<label class="g-form-checkbox__label" for="js-form-reg-check-agree">
+Нажимая на кнопку "Отправить", вы принимаете условия <a href="#js-form-polytic" class="js-popup-open-up">политики конфиденциальности</a>
+</label>
+</div>
+</div>
+<input type="hidden" name="af_action" value="70f4f2eb17289bdda720bbb7a445bce6" />
+</form>
+</div>
+<div id="js-form-raschet" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Расчет стоимости</div>
+<div class="g-form-pop__info">К сожалению, невозможно указать универсальные расценки на анализ и внедрение DevOps практик, <br />потому что трудозатраты зависят от целого ряда факторов.</div>
+<div class="g-form-pop__descr">
+<p style="text-align: center;">Расскажите о вашем проекте, мы свяжемся с вами <br />и вместе рассчитаем стоимость в индивидуальном порядке.</p>
+</div>
+<form class="ajax_form" action="https://express42.com/" method="post" id="js-form-raschet-goal">
+<input name="id_page" type="hidden" value="https://express42.com/" />
+<input type="text" style="display: none;" name="nameemail" value="" />
+<input type="hidden" value="" name="notice" />
+<input type="hidden" value="" name="sendfrom" />
+<input type="hidden" value="" name="goal" />
+<input type="hidden" value="" name="utm_content" />
+<input type="hidden" value="" name="utm_term" />
+<input type="hidden" value="" name="utm_campaign" />
+<input type="hidden" value="" name="utm_medium" />
+<input type="hidden" value="" name="utm_source" />
+<div class="g-form-pop__form">
+<div class="g-form-pop__form-container">
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Имя <span>*</span></div>
+<input type="text" name="name" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">E-mail <span>*</span></div>
+<input type="text" name="emailWho" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Контактный телефон <span>*</span></div>
+<input class="is-phone" type="tel" name="phone" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Комментарий</div>
+<textarea name="message"></textarea>
+</div>
+</div>
+<div class="g-form-pop__submit">
+<button class="" type="submit" href="#js-form-thx">Отправить <i class="icon-button"></i></button>
+<input class="g-form-checkbox__label-check" type="checkbox" value="1" checked="checked" id="js-form-raschet-check-agree" required="required">
+<label class="g-form-checkbox__label" for="js-form-raschet-check-agree">
+Нажимая на кнопку "Отправить", вы принимаете условия <a href="#js-form-polytic" class="js-popup-open-up">политики конфиденциальности</a>
+</label>
+</div>
+</div>
+<input type="hidden" name="af_action" value="f246a1fb476685e00fa83b731cfcc9a1" />
+</form>
+</div>
+<div id="js-form-order" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Оформление заявки</div>
+<div class="g-form-pop__descr">
+<p style="text-align: center;">Давайте обсудим ваш проект<br />и разберемся, как мы можем вам помочь</p>
+</div>
+<form class="ajax_form" action="https://express42.com/" method="post" id="js-form-order-goal">
+<input name="id_page" type="hidden" value="https://express42.com/" />
+<input type="text" style="display: none;" name="nameemail" value="" />
+<input type="hidden" value="" name="notice" />
+<input type="hidden" value="" name="sendfrom" />
+<input type="hidden" value="" name="goal" />
+<input type="hidden" value="" name="utm_content" />
+<input type="hidden" value="" name="utm_term" />
+<input type="hidden" value="" name="utm_campaign" />
+<input type="hidden" value="" name="utm_medium" />
+<input type="hidden" value="" name="utm_source" />
+<div class="g-form-pop__form">
+<div class="g-form-pop__form-container">
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Имя <span>*</span></div>
+<input type="text" name="name" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">E-mail <span>*</span></div>
+<input type="text" name="emailWho" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Контактный телефон <span>*</span></div>
+<input class="is-phone" type="tel" name="phone" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Комментарий</div>
+<textarea name="message"></textarea>
+</div>
+</div>
+<div class="g-form-pop__submit">
+<button class="" type="submit" href="#js-form-thx">Отправить <i class="icon-button"></i></button>
+<input class="g-form-checkbox__label-check" type="checkbox" value="1" checked="checked" id="js-form-order-check-agree" required="required">
+<label class="g-form-checkbox__label" for="js-form-order-check-agree">
+Нажимая на кнопку "Отправить", вы принимаете условия <a href="#js-form-polytic" class="js-popup-open-up">политики конфиденциальности</a>
+</label>
+</div>
+</div>
+<input type="hidden" name="af_action" value="49fe6ac6146691d543cb443ed5ca1fdf" />
+</form>
+</div>
+<div id="js-form-consult" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Бесплатная консультация</div>
+<div class="g-form-pop__descr">
+<p style="text-align: center;">Остались вопросы?<br />Мы перезвоним и ответим на них!</p>
+</div>
+<form class="ajax_form" action="https://express42.com/" method="post" id="js-form-consult-goal">
+<input name="id_page" type="hidden" value="https://express42.com/" />
+<input type="text" style="display: none;" name="nameemail" value="" />
+<input type="hidden" value="" name="notice" />
+<input type="hidden" value="" name="sendfrom" />
+<input type="hidden" value="" name="goal" />
+<input type="hidden" value="1396915" name="pipeline_id" />
+<input type="hidden" value="" name="utm_content" />
+<input type="hidden" value="" name="utm_term" />
+<input type="hidden" value="" name="utm_campaign" />
+<input type="hidden" value="" name="utm_medium" />
+<input type="hidden" value="" name="utm_source" />
+<div class="g-form-pop__form">
+<div class="g-form-pop__form-container">
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Имя <span>*</span></div>
+<input type="text" name="name" value="">
+</div>
+<div class="g-form-input">
+<div class="g-form-input__placeholder">Контактный телефон <span>*</span></div>
+<input class="is-phone" type="tel" name="phone" value="">
+</div>
+</div>
+<div class="g-form-pop__submit">
+<button class="" type="submit" href="#js-form-thx">Отправить <i class="icon-button"></i></button>
+<input class="g-form-checkbox__label-check" type="checkbox" value="1" checked="checked" id="js-form-consult-check-agree" required="required">
+<label class="g-form-checkbox__label" for="js-form-consult-check-agree">
+Нажимая на кнопку "Отправить", вы принимаете условия <a href="#js-form-polytic" class="js-popup-open-up">политики конфиденциальности</a>
+</label>
+</div>
+</div>
+<input type="hidden" name="af_action" value="ee03425766def4abece87cd33e438d0b" />
+</form>
+</div>
+<div id="js-b-video-more" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Заголовок отзыва</div>
+<div class="g-form-pop__video">
+<iframe frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</div>
+<div id="js-form-polytic" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Политика конфеденциальности</div>
+<div class="g-form-pop__descr">
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="216797" data-tilda-page-id="366551" data-tilda-page-alias="user_agreement" data-tilda-formskey="76dfda9deb850457669440385c226142">
+<div id="rec9863808" class="r t-rec t-rec_pt_60 t-rec_pb_60 r_showed r_anim" style="padding-top: 60px; padding-bottom: 60px;" data-record-type="106">
+<div class="t004">
+<div class="t-container ">
+<div class="t-col t-col_8 t-prefix_2">
+<div class="t-text t-text_md ">
+<div style="color: #000000;" data-customstyle="yes"><strong>Политика конфиденциальности персональных данных</strong> <br /><br />Настоящая Политика конфиденциальности персональных данных (далее &ndash; Политика конфиденциальности) действует в отношении всей информации, которую сайт <strong>Экспресс 42</strong>, (далее &ndash; Экспресс 42) расположенный на доменном имени <strong>express</strong><strong>42.</strong><strong>com</strong> (а также его субдоменах), может получить о Пользователе во время использования сайта express42.com (а также его субдоменов), его программ и его продуктов. <br /><br /><strong>1. Определение терминов</strong> <br /><br /><strong>1.1 В настоящей Политике конфиденциальности используются следующие термины:</strong> <br /><br />1.1.1. &laquo;<strong>Администрация сайта</strong>&raquo; (далее &ndash; Администрация) &ndash; уполномоченные сотрудники на управление сайтом <strong>Экспресс 42</strong>, действующие от имени ООО "Экспресс 42", которые организуют и (или) осуществляют обработку персональных данных, а также определяет цели обработки персональных данных, состав персональных данных, подлежащих обработке, действия (операции), совершаемые с персональными данными. <br /><br />1.1.2. &laquo;Персональные данные&raquo; - любая информация, относящаяся к прямо или косвенно определенному, или определяемому физическому лицу (субъекту персональных данных). <br /><br />1.1.3. &laquo;Обработка персональных данных&raquo; - любое действие (операция) или совокупность действий (операций), совершаемых с использованием средств автоматизации или без использования таких средств с персональными данными, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление, уничтожение персональных данных. <br /><br />1.1.4. &laquo;Конфиденциальность персональных данных&raquo; - обязательное для соблюдения Оператором или иным получившим доступ к персональным данным лицом требование не допускать их распространения без согласия субъекта персональных данных или наличия иного законного основания. <br /><br />1.1.5. &laquo;Сайт <strong>Экспресс 42</strong>&raquo; - это совокупность связанных между собой веб-страниц, размещенных в сети Интернет по уникальному адресу (URL): <strong>express</strong><strong>42.</strong><strong>com</strong>, а также его субдоменах. <br /><br />1.1.6. &laquo;Субдомены&raquo; - это страницы или совокупность страниц, расположенные на доменах третьего уровня, принадлежащие сайту Экспресс 42, а также другие временные страницы, внизу который указана контактная информация Администрации <br /><br />1.1.5. &laquo;Пользователь сайта <strong>Экспресс 42</strong> &raquo; (далее Пользователь) &ndash; лицо, имеющее доступ к сайту <strong>Экспресс 42</strong>, посредством сети Интернет и использующее информацию, материалы и продукты сайта <strong>Экспресс 42</strong>. <br /><br />1.1.7. &laquo;Cookies&raquo; &mdash; небольшой фрагмент данных, отправленный веб-сервером и хранимый на компьютере пользователя, который веб-клиент или веб-браузер каждый раз пересылает веб-серверу в HTTP-запросе при попытке открыть страницу соответствующего сайта. <br /><br />1.1.8. &laquo;IP-адрес&raquo; &mdash; уникальный сетевой адрес узла в компьютерной сети, через который Пользователь получает доступ на Экспресс 42. <br /><br />1.1.9. &laquo;Товар &raquo; - продукт, который Пользователь заказывает на сайте и оплачивает через платёжные системы. <br /><br /><strong>2. Общие положения</strong> <br /><br />2.1. Использование сайта Экспресс 42 Пользователем означает согласие с настоящей Политикой конфиденциальности и условиями обработки персональных данных Пользователя. <br /><br />2.2. В случае несогласия с условиями Политики конфиденциальности Пользователь должен прекратить использование сайта Экспресс 42 . <br /><br />2.3. Настоящая Политика конфиденциальности применяется к сайту Экспресс 42. Экспресс 42 не контролирует и не несет ответственность за сайты третьих лиц, на которые Пользователь может перейти по ссылкам, доступным на сайте Экспресс 42. <br /><br />2.4. Администрация не проверяет достоверность персональных данных, предоставляемых Пользователем. <br /><br /><strong>3. Предмет политики конфиденциальности</strong> <br /><br />3.1. Настоящая Политика конфиденциальности устанавливает обязательства Администрации по неразглашению и обеспечению режима защиты конфиденциальности персональных данных, которые Пользователь предоставляет по запросу Администрации при регистрации на сайте Экспресс 42, при подписке на информационную e-mail рассылку или при оформлении заказа. <br /><br />3.2. Персональные данные, разрешённые к обработке в рамках настоящей Политики конфиденциальности, предоставляются Пользователем путём заполнения форм на сайте Экспресс 42 и включают в себя следующую информацию: <br /><br />3.2.1. фамилию, имя, отчество Пользователя; <br /><br />3.2.2. контактный телефон Пользователя; <br /><br />3.2.3. адрес электронной почты (e-mail) <br /><br />3.2.4. место жительство Пользователя (при необходимости) <br /><br />3.2.5. адрес доставки Товара (при необходимости) 3.2.6. фотографию (при необходимости). <br /><br />3.3. Экспресс 42 защищает Данные, которые автоматически передаются при посещении страниц: <br /><br />- IP адрес; <br /><br />- информация из cookies; <br /><br />- информация о браузере <br /><br />- время доступа; <br /><br />- реферер (адрес предыдущей страницы). <br /><br />3.3.1. Отключение cookies может повлечь невозможность доступа к частям сайта , требующим авторизации. <br /><br />3.3.2. Экспресс 42 осуществляет сбор статистики об IP-адресах своих посетителей. Данная информация используется с целью предотвращения, выявления и решения технических проблем. <br /><br />3.4. Любая иная персональная информация неоговоренная выше (история посещения, используемые браузеры, операционные системы и т.д.) подлежит надежному хранению и нераспространению, за исключением случаев, предусмотренных в п.п. 5.2. и 5.3. настоящей Политики конфиденциальности. <br /><br /><strong>4. Цели сбора персональной информации пользователя</strong> <br /><br />4.1. Персональные данные Пользователя Администрация может использовать в целях: <br /><br />4.1.1. Идентификации Пользователя, зарегистрированного на сайте Экспресс 42 для его дальнейшей авторизации, оформления заказа и других действий. <br /><br />4.1.2. Предоставления Пользователю доступа к персонализированным данным сайта Экспресс 42. <br /><br />4.1.3. Установления с Пользователем обратной связи, включая направление уведомлений, запросов, касающихся использования сайта Экспресс 42, оказания услуг и обработки запросов и заявок от Пользователя. <br /><br />4.1.4. Определения места нахождения Пользователя для обеспечения безопасности, предотвращения мошенничества. <br /><br />4.1.5. Подтверждения достоверности и полноты персональных данных, предоставленных Пользователем. <br /><br />4.1.6. Создания учетной записи для использования частей сайта Экспресс 42, если Пользователь дал согласие на создание учетной записи. <br /><br />4.1.7. Уведомления Пользователя по электронной почте. <br /><br />4.1.8. Предоставления Пользователю эффективной технической поддержки при возникновении проблем, связанных с использованием сайта Экспресс 42. <br /><br />4.1.9. Предоставления Пользователю с его согласия специальных предложений, информации о ценах, новостной рассылки и иных сведений от имени сайта Экспресс 42. <br /><br />4.1.10. Осуществления рекламной деятельности с согласия Пользователя. <br /><br /><strong>5. Способы и сроки обработки персональной информации</strong> <br /><br />5.1. Обработка персональных данных Пользователя осуществляется без ограничения срока, любым законным способом, в том числе в информационных системах персональных данных с использованием средств автоматизации или без использования таких средств. <br /><br />5.2. Пользователь соглашается с тем, что Администрация вправе передавать персональные данные третьим лицам, в частности, курьерским службам, организациями почтовой связи (в том числе электронной), операторам электросвязи, исключительно в целях выполнения заказа Пользователя, оформленного на сайте Экспресс 42, включая доставку Товара, документации или e-mail сообщений. <br /><br />5.3. Персональные данные Пользователя могут быть переданы уполномоченным органам государственной власти Российской Федерации только по основаниям и в порядке, установленным законодательством Российской Федерации. <br /><br />5.4. При утрате или разглашении персональных данных Администрация вправе не информировать Пользователя об утрате или разглашении персональных данных. <br /><br />5.5. Администрация принимает необходимые организационные и технические меры для защиты персональной информации Пользователя от неправомерного или случайного доступа, уничтожения, изменения, блокирования, копирования, распространения, а также от иных неправомерных действий третьих лиц. <br /><br />5.6. Администрация совместно с Пользователем принимает все необходимые меры по предотвращению убытков или иных отрицательных последствий, вызванных утратой или разглашением персональных данных Пользователя. <br /><br /><strong>6. Права и обязанности сторон</strong> <br /><br /><strong>6.1. Пользователь вправе:</strong> <br /><br />6.1.1. Принимать свободное решение о предоставлении своих персональных данных, необходимых для использования сайта Экспресс 42, и давать согласие на их обработку. <br /><br />6.1.2. Обновить, дополнить предоставленную информацию о персональных данных в случае изменения данной информации. <br /><br />6.1.3. Пользователь имеет право на получение у Администрации информации, касающейся обработки его персональных данных, если такое право не ограничено в соответствии с федеральными законами. Пользователь вправе требовать от Администрации уточнения его персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, неточными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав. <br /><br /><strong>6.2. Администрация обязана:</strong> <br /><br />6.2.1. Использовать полученную информацию исключительно для целей, указанных в п. 4 настоящей Политики конфиденциальности. <br /><br />6.2.2. Обеспечить хранение конфиденциальной информации в тайне, не разглашать без предварительного письменного разрешения Пользователя, а также не осуществлять продажу, обмен, опубликование, либо разглашение иными возможными способами переданных персональных данных Пользователя, за исключением п.п. 5.2 и 5.3. настоящей Политики Конфиденциальности. <br /><br />6.2.3. Принимать меры предосторожности для защиты конфиденциальности персональных данных Пользователя согласно порядку, обычно используемого для защиты такого рода информации в существующем деловом обороте. <br /><br />6.2.4. Осуществить блокирование персональных данных, относящихся к соответствующему Пользователю, с момента обращения или запроса Пользователя, или его законного представителя либо уполномоченного органа по защите прав субъектов персональных данных на период проверки, в случае выявления недостоверных персональных данных или неправомерных действий. <br /><br /><strong>7. Ответственность сторон</strong> <br /><br />7.1. Администрация, не исполнившая свои обязательства, несёт ответственность за убытки, понесённые Пользователем в связи с неправомерным использованием персональных данных, в соответствии с законодательством Российской Федерации, за исключением случаев, предусмотренных п.п. 5.2., 5.3. и 7.2. настоящей Политики Конфиденциальности. <br /><br />7.2. В случае утраты или разглашения Конфиденциальной информации Администрация не несёт ответственность, если данная конфиденциальная информация: <br /><br />7.2.1. Стала публичным достоянием до её утраты или разглашения. <br /><br />7.2.2. Была получена от третьей стороны до момента её получения Администрацией Ресурса. <br /><br />7.2.3. Была разглашена с согласия Пользователя. <br /><br />7.3. Пользователь несет полную ответственность за соблюдение требований законодательства РФ, в том числе законов о рекламе, о защите авторских и смежных прав, об охране товарных знаков и знаков обслуживания, но не ограничиваясь перечисленным, включая полную ответственность за содержание и форму материалов. <br /><br />7.4. Пользователь признает, что ответственность за любую информацию (в том числе, но не ограничиваясь: файлы с данными, тексты и т. д.), к которой он может иметь доступ как к части сайта Экспресс 42, несет лицо, предоставившее такую информацию. <br /><br />7.5. Пользователь соглашается, что информация, предоставленная ему как часть сайта Экспресс 42, может являться объектом интеллектуальной собственности, права на который защищены и принадлежат другим Пользователям, партнерам или рекламодателям, которые размещают такую информацию на сайте Экспресс 42. <br /><br />Пользователь не вправе вносить изменения, передавать в аренду, передавать на условиях займа, продавать, распространять или создавать производные работы на основе такого Содержания (полностью или в части), за исключением случаев, когда такие действия были письменно прямо разрешены собственниками такого Содержания в соответствии с условиями отдельного соглашения. <br /><br />7.6. В отношение текстовых материалов (статей, публикаций, находящихся в свободном публичном доступе на сайте Экспресс 42) допускается их распространение при условии, что будет дана ссылка на Экспресс 42. <br /><br />7.7. Администрация не несет ответственности перед Пользователем за любой убыток или ущерб, понесенный Пользователем в результате удаления, сбоя или невозможности сохранения какого-либо Содержания и иных коммуникационных данных, содержащихся на сайте Экспресс 42 или передаваемых через него. <br /><br />7.8. Администрация не несет ответственности за любые прямые или косвенные убытки, произошедшие из-за: использования либо невозможности использования сайта, либо отдельных сервисов; несанкционированного доступа к коммуникациям Пользователя; заявления или поведение любого третьего лица на сайте. <br /><br />7.9. Администрация не несет ответственность за какую-либо информацию, размещенную пользователем на сайте Экспресс 42, включая, но не ограничиваясь: информацию, защищенную авторским правом, без прямого согласия владельца авторского права. <br /><br /><strong>8. Разрешение споров</strong> <br /><br />8.1. До обращения в суд с иском по спорам, возникающим из отношений между Пользователем и Администрацией, обязательным является предъявление претензии (письменного предложения или предложения в электронном виде о добровольном урегулировании спора). <br /><br />8.2. Получатель претензии в течение 30 календарных дней со дня получения претензии, письменно или в электронном виде уведомляет заявителя претензии о результатах рассмотрения претензии. <br /><br />8.3. При не достижении соглашения спор будет передан на рассмотрение Арбитражного суда г. Москва. <br /><br />8.4. К настоящей Политике конфиденциальности и отношениям между Пользователем и Администрацией применяется действующее законодательство Российской Федерации. <br /><br /><strong>9. Дополнительные условия</strong> <br /><br />9.1. Администрация вправе вносить изменения в настоящую Политику конфиденциальности без согласия Пользователя. <br /><br />9.2. Новая Политика конфиденциальности вступает в силу с момента ее размещения на сайте Экспресс 42, если иное не предусмотрено новой редакцией Политики конфиденциальности. <br /><br />9.3. Все предложения или вопросы касательно настоящей Политики конфиденциальности следует сообщать по адресу: input@express42.com <br /><br />9.4. Действующая Политика конфиденциальности размещена на странице по адресу <a href="user-agreement" target="_blank" rel="noopener">https://express42.com/user-agreement</a><br /><br />Обновлено: 01 Июля 2017 года <br /><br />г. Москва, ООО "Экспресс 42", ОГРН 1127746121535 <br /><br /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><iframe style="opacity: 0 !important; width: 0px !important; height: 0px !important; position: absolute !important; left: 100% !important; bottom: 100% !important; border: 0px none !important;" title="ym-native-frame" name="ym-native-frame" frameborder="0" aria-hidden="true" data-mce-fragment="1"></iframe></p>
+</div>
+</div>
+<div id="js-form-thx" class="g-form-pop zoom-anim-dialog mfp-hide js-is-second-load">
+<div class="g-form-pop__title">Спасибо за заявку!</div>
+<div class="g-form-pop__descr">
+<p style="text-align: center;"><br />Спасибо, ваши данные успешно отправлены!<br />Мы свяжемся с вами как можно скорее</p>
+</div>
+</div>
+<script>!function(e){"use strict";function t(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent&&e.attachEvent("on"+t,n)}function n(t,n){return e.localStorage&&localStorage[t+"_content"]&&localStorage[t+"_file"]===n}function a(t,a){if(e.localStorage&&e.XMLHttpRequest)n(t,a)?o(localStorage[t+"_content"]):l(t,a);else{var s=r.createElement("link");s.href=a,s.id=t,s.rel="stylesheet",s.type="text/css",r.getElementsByTagName("head")[0].appendChild(s),r.cookie=t}}function l(e,t){var n=new XMLHttpRequest;n.open("GET",t,!0),n.onreadystatechange=function(){4===n.readyState&&200===n.status&&(o(n.responseText),localStorage[e+"_content"]=n.responseText,localStorage[e+"_file"]=t)},n.send()}function o(e){var t=r.createElement("style");t.setAttribute("type","text/css"),r.getElementsByTagName("head")[0].appendChild(t),t.styleSheet?t.styleSheet.cssText=e:t.innerHTML=e}var r=e.document;e.loadCSS=function(e,t,n){var a,l=r.createElement("link");if(t)a=t;else{var o;o=r.querySelectorAll?r.querySelectorAll("style,link[rel=stylesheet],script"):(r.body||r.getElementsByTagName("head")[0]).childNodes,a=o[o.length-1]}var s=r.styleSheets;l.rel="stylesheet",l.href=e,l.media="only x",a.parentNode.insertBefore(l,t?a:a.nextSibling);var c=function(e){for(var t=l.href,n=s.length;n--;)if(s[n].href===t)return e();setTimeout(function(){c(e)})};return l.onloadcssdefined=c,c(function(){l.media=n||"all"}),l},e.loadLocalStorageCSS=function(l,o){n(l,o)||r.cookie.indexOf(l)>-1?a(l,o):t(e,"load",function(){a(l,o)})}}(this);</script>
+<script>loadCSS( "makeup/css/styles.css?ver=1.0.10", false, "all" );</script>
+<script>loadCSS( "assets/components/ajaxform/css/default.css?ver=1.0.10", false, "all" );</script>
+<script>var scr = {"scripts":[
+  {"src" : "/assets/components/minifyx/cache/scripts_6423752a52.min.js?ver=1.0.10", "async" : false},
+  {"src" : "/makeup/js/common.js?ver=1.0.10", "async" : false},
+  
+  {"src" : "/assets/components/ajaxform/js/lib/jquery.form.min.js?ver=1.0.10", "async" : false},
+  {"src" : "/assets/components/ajaxform/js/lib/jquery.jgrowl.min.js?ver=1.0.10", "async" : false},
+  {"src" : "/assets/components/ajaxform/js/default.js?ver=1.0.10", "async" : false},
+  {"src" : "/ajaxform.js?page=1", "async" : false},
+  
+  ]};!function(t,n,r){"use strict";var c=function(t){if("[object Array]"!==Object.prototype.toString.call(t))return!1;for(var r=0;r<t.length;r++){var c=n.createElement("script"),e=t[r];c.src=e.src,c.async=e.async,n.body.appendChild(c)}return!0};t.addEventListener?t.addEventListener("load",function(){c(r.scripts);},!1):t.attachEvent?t.attachEvent("onload",function(){c(r.scripts)}):t.onload=function(){c(r.scripts)}}(window,document,scr);
+</script>
+<script>
+  $(function(){
+    $('input.is-phone').mask("+7 (999) 999-9999");
+    
+    $(document).find('input[name="notice"]').val('WVvVT4ZU36');
+    
+    
+    $(document).on('click', '.js-popup-open', function(){
+      var href = $(this).attr('href');
+      var sendfrom = $(this).attr('data-sendfrom');
+      var goal = $(this).attr('data-goal');
+      
+      if (typeof(sendfrom) == 'undefined') {
+        sendfrom = '';
+      }
+      $(href).find('[name="sendfrom"]').val(sendfrom);
+      
+      if (typeof(goal) == 'undefined') {
+        goal = '';
+      }
+      $(href).find('[name="goal"]').val(goal);
+    });
+    
+    
+    $(document).on('af_complete', function(event, response) {
+      var form = response.form;
+      var id = $(form).attr('id')
+     // console.log(id)
+      
+      if(response.success == true){
+        
+        /*
+        if(id == "js-form-contact") {
+          ym(ycounter, 'reachGoal', 'vyzvat zamershchika'); 
+        }
+        */
+       if(id == 'js-form-consult-goal') {
+        fbq('track', 'CompleteRegistration', {'content_name': id});
+       }
+       
+       if(id == 'js-form-request-book') {
+        window.location.href="https://express42.com/redirect-download-2021/?utm_source=dr1&utm_media=web&utm_content=request-download-report-2021";
+       }
+
+        var href = '#js-form-thx';
+        $.magnificPopup.close();
+    
+        setTimeout(function(){
+          $.magnificPopup.open({
+            items: {
+              src: href
+            },
+            type: 'inline',
+            midClick: true,
+            removalDelay: 300,
+            mainClass: 'my-mfp-zoom-in',
+          });
+        }, 500);
+      }
+    });
+    
+  });
+</script>
+<script type="text/javascript">
+  ycounter = undefined;
+  window.onload = function(e) {
+    var myRegexp = /ym\((.+?), \"init\"/;
+    for (var i = 0; i < document.scripts.length; i++) {
+      var match = myRegexp.exec(document.scripts[i].text);
+      if (match) {
+        ycounter = match[1];
+        break;
+      }
+    }
+    //console.log(ycounter);
+  }
+</script>
+
+</body>
+</html>

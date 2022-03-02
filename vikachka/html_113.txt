@@ -1,0 +1,1964 @@
+<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" class="">
+
+<head>
+
+  
+  <link rel="canonical" href="https://getmark.ru/" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/local/templates/getmark/css/lightgallery.min.css">
+  <link rel="stylesheet" href="/local/templates/getmark/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="/local/templates/getmark/universal_styles.css">
+  <link rel="stylesheet" href="/local/templates/getmark/seo_styles.css">
+  <link rel="stylesheet" href="/local/templates/getmark/css/modal-video.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+  </script>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="маркировка товаров, сервис маркировки" />
+<meta name="description" content="Нужна удобная и простая система цифровой маркировки товаров? Сервис маркировки продукции GetMark является оператором системы Честный ЗНАК. Попробуйте бесплатно!" />
+<link href="/bitrix/js/main/core/css/core.min.css?15828543662854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="/bitrix/cache/css/s1/getmark/page_5f17d29b92b5da94d4f740eefc674b76/page_5f17d29b92b5da94d4f740eefc674b76_v1.css?16402644725048" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/getmark/template_6f9ef91510ac2b1ed321b19624cb55ff/template_6f9ef91510ac2b1ed321b19624cb55ff_v1.css?1640264316136497" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1582854366232644"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213697','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'315dabd9f5cea2d042b2870a14d2f15a'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/getmark/kernel_main/kernel_main_v1.js?1640599811150918"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?158285436610247"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ls.min.js?15828543667365"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?158285436610967"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_fx.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/components/bitrix/news.list/templates/bootstrap_v4/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/local/templates/getmark/components/bitrix/form.result.new/lined_form/style.css','/bitrix/components/bitrix/system.pagenavigation/templates/round/style.css','/bitrix/components/bitrix/news.list/templates/bootstrap_v4/style.css','/local/templates/getmark/components/bitrix/form.result.new/test_vebinar/style.css','/local/templates/getmark/components/bitrix/form.result.new/main_form/style.css','/local/templates/getmark/template_styles.css']); </script>
+<link rel="stylesheet" type="text/css" href="/bitrix/themes/.default/webdebug.ruble/webdebug.ruble.a.css" />
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/getmark/page_7d4096f983f7f3f8230fac1898f77868/page_7d4096f983f7f3f8230fac1898f77868_v1.js?16402644723612"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "eafcf7bb2532d9d7f09b094521c707db"]); _ba.push(["host", "getmark.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+  <title>
+    GetMark: сервис маркировки под Честный ЗНАК  </title>
+
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153487788-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-153487788-2');
+  </script>
+  <!-- Roistat integration -->
+  <script>
+      (function(w, d, s, h, id) {
+          w.roistatProjectId = id; w.roistatHost = h;
+          var p = d.location.protocol == "https:" ? "https://" : "http://";
+          var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init?referrer="+encodeURIComponent(d.location.href);
+          var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+      })(window, document, 'script', 'cloud.roistat.com', '0feee86224d2482e1eef63ff41ebc2b3');
+  </script>
+  <!-- /Roistat integration -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "GetMark",
+      "url": "https://getmark.ru/",
+      "logo": "https://getmark.ru/bitrix/templates/1996/images/logo_main.png",
+      "telephone": "+78005056956",
+      "email": "info@getmark.ru",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Россия",
+        "addressLocality": "Москва",
+        "postalCode": "129347",
+        "streetAddress": "2-я Звенигородская д. 13, стр. 42"
+      },
+      "sameAs": [
+        "https://www.facebook.com/getmark.ru/",
+        "https://vk.com/get_mark",
+        "https://www.instagram.com/get_markirovka/"
+      ]
+    }
+  </script>
+
+  <!-- Yandex.Metrika counter -->
+  <script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+      m[i] = m[i] || function () {
+        (m[i].a = m[i].a || []).push(arguments)
+      };
+      m[i].l = 1 * new Date();
+      k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k,
+        a)
+    })
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(54202435, "init", {
+      clickmap: true,
+      trackLinks: true,
+      accurateTrackBounce: true,
+      webvisor: true
+    });
+  </script>
+  <!-- /Yandex.Metrika counter -->
+  <!-- Google Tag Manager -->
+
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T5FKZ4X');
+  </script>
+  <!-- End Google Tag Manager -->
+  <script type="text/javascript">
+    ! function () {
+      var t = document.createElement("script");
+      t.type = "text/javascript", t.async = !0, t.src = "https://vk.com/js/api/openapi.js?167", t.onload = function () {
+        VK.Retargeting.Init("VK-RTRG-433727-aPQHe"), VK.Retargeting.Hit()
+      }, document.head.appendChild(t)
+    }();
+  </script>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    ! function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '207093831164051');
+    fbq('track', 'PageView');
+  </script>
+  <!-- End Facebook Pixel Code -->
+
+  <script>
+(function(w, d, s, h, id) {
+    w.roistatProjectId = id; w.roistatHost = h;
+    var p = d.location.protocol == "https:" ? "https://" : "http://";
+    var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init?referrer="+encodeURIComponent(d.location.href);
+    var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+})(window, document, 'script', 'cloud.roistat.com', '0feee86224d2482e1eef63ff41ebc2b3');
+</script>
+</head>
+
+<body id="body">
+      <nav id="mob" class=" d-lg-none navbar navbar-expand-lg navbar-light bg-lightmy"
+    style="    justify-content: space-around;padding: 10px 10px;">
+    <a onclick="ym(54202435,'reachGoal','logoclick',{URL: document.location.href})" class="navbar-brand nav-link" href="#body" style="margin:0">
+      <img style="    width: 100px;" src="/local/templates/getmark/images/logo_mobile.svg" alt="">
+    </a>
+    <button onclick="formcheck('Callback_header');ym(54202435,'reachGoal','button_click_header-call_order')"
+      data-toggle="modal" data-target="#exampleModal" class=" btn_head">Заказать звонок </button>
+
+    <button style="float: right;border: none;" class="navbar-toggler" type="button" onclick="openNav()">
+      <div id="nav-icon3">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </button>
+
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+      <div id="nav-icon3">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+    </div>
+  </nav>
+
+  <div id="mySidenav" class="sidenav">
+    <div id="sideccontr" class='sideccontr'>
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+      <ul id="mob-nav" class="navbar-nav" style="padding-left: 25px;">
+
+      </ul>
+    </div>
+  </div>
+
+
+
+
+
+  <nav id="desk" class="d-none d-lg-block navbar navbar-expand-lg navbar-light bg-lightmy nav_v2"
+    style="background-image: linear-gradient(11deg, #5652CC 0%, #807DFB 100%);">
+    <div class="container nav-container">
+      <div class="row" style="width:100%">
+        <div class="col-md-1">
+          <a onclick="ym(54202435,'reachGoal','logoclick',{URL: document.location.href})"
+            style="margin: 0;padding-top: 8px;" class="navbar-brand nav-link" href="#body">
+            <img class="w-100" src="/local/templates/getmark/images/white_logo.svg" alt="">
+          </a>
+        </div>
+        <div class="col-md-11" style="    display: flex;    align-items: center;">
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+            <ul class="navbar-nav text-center">
+              <li class="nav-item">
+                <a class="hide_on_planshet"  href="/about/">GetMark</a>
+              </li>
+              <li class="nav-item dropdown-block" style="    line-height: 1.3;">
+                <a>Маркировка</a>
+                <div class="dropdown-menu dropdown-menu-center " aria-labelledby="get_menu">
+                  <a class="dropdown-item" href="/it/obyazatelnaya-markirovka-odezhdy.php">Маркировка одежды</a>
+                  <a class="dropdown-item" href="/it/obyazatelnaya-markirovka-obuvi.php">Маркировка обуви</a>
+                  <a class="dropdown-item" href="/it/obyazatelnaya-markirovka-belya-legprom.php">Маркировка Легпром (Белье)</a>
+                  <a class="dropdown-item" href="/it/obyazatelnaya-markirovka-vody.php">Маркировка Воды</a>
+                  <a class="dropdown-item" href="/it/obyazatelnaya-markirovka-molochnoj-produkczii.php">Маркировка Молочной продукции</a>
+                </div>
+              </li>
+              <!-- <li class="nav-item">
+                <a class="hide_on_planshet"  href="/tarify">Тарифы</a>
+              </li> -->
+              <li onclick="ym(54202435,'reachGoal','menublog',{URL: document.location.href})" class="nav-item"
+                style="    line-height: 1.3;">
+                <a class="hide_on_planshet"  href="/blog/">База знаний</a>              </li>
+              <!-- <li class="nav-item">
+                <a class="hide_on_planshet"  href="/">Решение под ключ</a>
+              </li> -->
+             
+              
+            
+              <li class="nav-item" style="    line-height: 1.3;">
+                <a onclick="ym(54202435,'reachGoal','klicktel')" href="tel:88005004729" class="navphone"> 8 800 500 47 29</a>
+              </li>
+
+              <li class="nav-item" style="    line-height: 1.3;">
+                <a data-toggle="modal" data-target="#exampleModal" class="navphone"> <img src="/local/templates/getmark/images/callback2.svg"
+                    alt=""> Обратный звонок</a>
+              </li>
+              <li class="nav-item">
+                <a onclick="ym(54202435,'reachGoal','registr')"
+                  href="https://app.getmark.ru/" class="nav_login-btn" rel="nofollow">
+                  Вход / регистрация
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </nav>
+  <script>
+    function add_mobnav() {
+      added =
+        "<li class='nav-item'><a class='nav-link' href='#body>'><img style='width: 150px;padding-bottom: 15px;' src='/local/templates/getmark/images/logo_mobile.svg' alt=''></a></li> <a href = 'https://app.getmark.ru/' class='nav-link navzagolovok' target = '_blank' rel = 'nofollow' > Вход <span class='nodesk'> в систему </span></a >  <a class='mobnav_tel' href='tel:88005004729'>8 800 500 47 29</a><div class='sidenavdivider'></div><li class='nav-item'><a class='nav-link' href='/about/'>О компании GetMark</a></li><li class='nav-item'><a class='nav-link' href='/it/obyazatelnaya-markirovka-odezhdy.php'>Маркировка Одежды</a></li><li class='nav-item'><a class='nav-link' href='/it/obyazatelnaya-markirovka-obuvi.php'>Маркировка Обуви</a></li><li class='nav-item'><a class='nav-link' href='/it/obyazatelnaya-markirovka-belya-legprom.php'>Маркировка Легпром (Белье)</a></li><li class='nav-item'><a class='nav-link' href='/it/obyazatelnaya-markirovka-vody.php'>Маркировка Воды</a></li><li class='nav-item'><a class='nav-link' href='/it/obyazatelnaya-markirovka-molochnoj-produkczii.php'>Маркировка Молочной продукции</a></li><li class='nav-item'><a class='nav-link' href='/blog/'>База знаний</a></li><li class='nav-item'><a class='nav-link' href='/contacts'> Контакты</a></li><li class='nav-item' style='line-height: 1.3;'><div class='phonehead_cont'><a href='tel:88005004729' class='phonehead'>8 800 500 47 29</a> <br></div></li>";
+      $("#mob-nav li").remove()
+      $("#mob-nav div").remove()
+      $("#mob-nav a").remove()
+      $("#mob-nav").append(added)
+
+
+    }
+    // <li class='nav-item'><a class='nav-link' href='/tarify/'>Тарифы</a></li><li class='nav-item'><a class='nav-link' href='/markirovka-pod-kluch/'>Маркировка под ключ</a></li>
+
+    function openNav() {
+      document.getElementById("mySidenav").style.width = "100%";
+      document.getElementById("sideccontr").style.width = "80%";
+      document.getElementById("sideccontr").style.left = "0%";
+
+      add_mobnav()
+    }
+    /* Set the width of the side navigation to 0 */
+    function closeNav() {
+      console.log(11)
+      document.getElementById("sideccontr").style.width = "0";
+      document.getElementById("sideccontr").style.left = "-100%";
+      setTimeout('document.getElementById("mySidenav").style.width = "0"', 200);
+    }
+  </script><style>
+	.owl-carousel.owl-hidden {
+		opacity: 1 !important;
+	}
+
+	.veb_text a {
+		color: white;
+		font-size: 20px;
+		text-decoration: underline !important;
+		margin-bottom: 15px;
+	}
+
+	.veb_uch {
+		color: #fee305;
+		font-size: 19px;
+		margin-bottom: 10px;
+	}
+
+	.veb_clock {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.clocktimes {
+		display: flex;
+		align-items: center;
+	}
+
+	.veb_clocktime {
+		padding-left: 10px;
+		color: white;
+		font-size: 20px;
+		text-align: left;
+	}
+
+	@media(max-width:768px) {
+		.veb_clock {
+			flex-direction: column !important;
+			margin-bottom: 20px;
+			margin-top: 20px;
+		}
+
+		button.btn_yellow_5px {
+			margin-bottom: 20px;
+			margin-top: 20px;
+		}
+	}
+
+	@media(max-width:1024px) {
+		.pt44 {
+			padding-top: 40px
+		}
+
+	}
+
+	.veb_title {
+		color: #ffd800;
+		font-size: 20px;
+		font-weight: 900;
+		padding-bottom: 20px;
+	}
+
+	#anons button.btn_yellow_5px {
+		margin-bottom: 20px;
+		margin-top: 20px;
+	}
+
+	@media(min-width:1199px) {
+		.desktop_oversize {
+			position: absolute;
+			height: auto;
+			top: -66px;
+			width: 136% !important;
+			left: -141px;
+		}
+
+		.flex_liner {
+			display: block;
+			width: 100%;
+			height: 100%;
+			text-align: center;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.flex_liner .liner {
+			display: inline-block;
+			width: 2px;
+			background: #ffd800;
+			height: 100%;
+		}
+	}
+
+	#anons {
+		display: none;
+	}
+
+	h1.mainpage {
+		font-size: 34px;
+	}
+
+	/* new */
+	.mainbeenhone {
+		text-transform: initial;
+	}
+</style>
+<div id="slide">
+	<div class="row">
+		<div class="col-12">
+			<div class="start-block">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="start-block__title">
+										 Простая система для <br>
+ <span class="blue">Маркировки товаров</span>
+									</div>
+									<div class="mainblock_textoffer">
+									</div>
+								</div>
+							</div>
+							<div class="row contwobtn only-desktop">
+								<div class="col-md-12">
+ <a href="https://app.getmark.ru/?utm_source=gm&utm_medium=regbesplatno" class="demo-login"> <img src="/local/templates/getmark/images/demologin.svg" alt="">
+									<div class="demo-login__col">
+										<div class="demo-login__text">
+											 Вход в Демо-кабинет
+										</div>
+										<div class="demo-login__subtext">
+											 7 дней Бесплатно
+										</div>
+									</div>
+ </a>
+								</div>
+ <br>
+								<div class="col-md-12">
+ <button onclick="ym(54202435,'reachGoal','konsyltacia')" data-formname="Первый экран – Получить консультацию" data-toggle="modal" data-target="#exampleModal" class="btn btn_slide slide_btn_color invertbtn">
+									Получить консультацию</button>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 start-block__col">
+							<div class="video-block">
+								 <iframe width="100%" height="355" src="https://www.youtube.com/embed/8_q5_1f31gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>
+							<div class="video-block__desc">
+								 Всего <span class="blue">за 3 минуты&nbsp;</span> узнаете, <br>
+ <span class="blue">как можно решить вопрос с маркировкой</span>
+							</div>
+						</div>
+						<div class="col-12 only-mobile">
+							<div class="row contwobtn">
+								<div class="col-md-12">
+ <a href="https://app.getmark.ru/?utm_source=gm&utm_medium=regbesplatno" class="demo-login"> <img src="/local/templates/getmark/images/demologin.svg" alt="">
+									<div class="demo-login__col">
+										<div class="demo-login__text">
+											 Вход в Демо-кабинет
+										</div>
+										<div class="demo-login__subtext">
+											 7 дней Бесплатно
+										</div>
+									</div>
+ </a>
+								</div>
+ <br>
+								<div class="col-md-12">
+ <button onclick="ym(54202435,'reachGoal','konsyltacia')" data-toggle="modal" data-target="#exampleModal" class="btn btn_slide slide_btn_color invertbtn">
+									Получить консультацию</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ <script type="text/javascript">
+	function playMain(block) {
+		$('.video-block').html('<iframe width="664" height="370" src="https://www.youtube.com/embed/Huv4UTLY6Vs" frameborder="0"></iframe>')
+	}
+</script>
+<div style="overflow: hidden;max-height: 0;margin: 0;padding: 0;">
+	<h1>ГетМарк - система маркировки под Честный ЗНАК</h1>
+</div>
+ <section id="for_this">
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h2 class="header_with_line header_with_line_podzag ">Решение по маркировке для Вашей категории товаров </h2>
+					<p class="b-header__sub">
+						 Выберите нужную категорию
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	 <div class="row b-categories">
+	<a title='Макрировка одежды' href="/it/obyazatelnaya-markirovka-odezhdy.php" class="b-categories__item">
+		<div class="b-categories__img-wrap">
+			<img src="/local/templates/getmark/images/odezhda-icon.svg"></div>
+		<div class="b-categories__name">
+			Одежда
+		</div>
+	</a>
+	<a title='Макрировка легпрома' href="/it/obyazatelnaya-markirovka-belya-legprom.php" class="b-categories__item">
+		<div class="b-categories__img-wrap">
+			<img src="/local/templates/getmark/images/legprom-icon.svg">
+		</div>
+
+		<div class="b-categories__name">Белье (легпром)
+		</div>
+	</a>
+	<a title='Макрировка обуви' href="/it/obyazatelnaya-markirovka-obuvi.php" class="b-categories__item">
+		<div class="b-categories__img-wrap">
+			<img src="/local/templates/getmark/images/obuv-icon.svg">
+		</div>
+
+		<div class="b-categories__name">Обувь</div>
+	</a>
+
+	<a title='Макрировка молочной продукции' href="/it/obyazatelnaya-markirovka-molochnoj-produkczii.php" class="b-categories__item">
+		<div class="b-categories__img-wrap">
+			<img src="/local/templates/getmark/images/milk-icon.svg">
+		</div>
+
+		<div class="b-categories__name">Молочная продукция</div>
+	</a>
+	<a title='Макрировка воды' href="/it/obyazatelnaya-markirovka-vody.php" class="b-categories__item">
+		<div class="b-categories__img-wrap">
+			<img src="/local/templates/getmark/images/water-icon.svg">
+		</div>
+
+		<div class="b-categories__name">Вода</div>
+	</a>
+</div></div>
+ </section> <section>
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h2 class="header_with_line header_with_line_podzag ">Управление маркировкой по принципу "одного окна"</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="b-upravleniye">
+		<div class="b-upravleniye__left">
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/gs1-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 GS1
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/chznak-icon-new.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 Честный знак
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/ncat-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 Нац. Каталог
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/edo-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 ЭДО
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/suz-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 СУЗ
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/gismt-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 ГИС МТ
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/wb-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 Wildberries
+				</div>
+			</div>
+			<div class="b-upravleniye__item">
+				<div class="b-upravleniye__img-wrap">
+ <img src="/local/templates/getmark/images/ozon-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name">
+					 Ozon
+				</div>
+			</div>
+		</div>
+		<div class="b-upravleniye__ravno">
+ <img src="/local/templates/getmark/images/ravno-icon.svg" alt="">
+		</div>
+		<div class="b-upravleniye__right">
+			<div class="b-upravleniye__item-big">
+				<div class="b-upravleniye__item-big-wrap">
+ <img src="/local/templates/getmark/images/gm-logo-icon.svg" alt="">
+				</div>
+				<div class="b-upravleniye__name-big">
+					 GetMark интегрирована со всеми системами
+					<div class="b-upravleniye__name-big_b">
+						 Работайте не в 6 системах, а только в ОДНОЙ
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ </section> <section id="advantages" class="advantages_blo" style="background-image: url(/local/templates/getmark/images/lp_back1.svg);background-size: cover;">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center">
+			<h2 class="text-center" style="text-transform:uppercase;font-weight: 900;">
+			<div style="display: inline-block;color:white">
+				 Преимущества системы GetMark
+			</div>
+ </h2>
+		</div>
+	</div>
+	<div class="row" style="padding-top: 5px;">
+		<div class="col-md-4 col-10 offset-1 offset-md-0">
+			<div class="adwantages-block text-center">
+				<div class="adwantages-block_wrap">
+ <img src="/local/templates/getmark/images/cardn5.png" alt="">
+				</div>
+				<div class="adwantages-block__header">
+					 Массовый заказ и печать кодов маркировки
+				</div>
+				<div class="adwantages-block__description">
+					 Вне зависимости от ограничений Честного Знака (10 GTIN + 150 000 кодов маркировки на 1 GTIN)
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-10 offset-1 offset-md-0">
+			<div class="adwantages-block text-center">
+				<div class="adwantages-block_wrap">
+ <img src="/local/templates/getmark/images/cardn6.png" alt="">
+				</div>
+				<div class="adwantages-block__header">
+					 Управление по принципу <br>
+					 одного окна
+				</div>
+				<div class="adwantages-block__description">
+					 Автоматический импорт товаров и кодов маркировки в систему GetMark из Честного Знака (с созданием карточек товаров). Автоматическая выгрузка кодов маркировки из Честного знака и разделение их по статусам (полученные вне системы GetMark делятся на статусы: не в обороте, в обороте и архив)
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-10 offset-1 offset-md-0">
+			<div class="adwantages-block text-center">
+				<div class="adwantages-block_wrap">
+ <img src="/local/templates/getmark/images/adwantages10.png" alt="">
+				</div>
+				<div class="adwantages-block__header">
+					 Конструктор этикеток
+				</div>
+				<div class="adwantages-block__description">
+					 Если код маркировки был поврежден или утерян, вы можете оформить перемаркировку в нашей системе.
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4 col-10 offset-1 offset-md-0">
+			<div class="adwantages-block text-center">
+				<div class="adwantages-block_wrap">
+ <img src="/local/templates/getmark/images/cardn1.png" alt="">
+				</div>
+				<div class="adwantages-block__header">
+					 Приложение можно использовать как на телефоне, так и на компьютере или планшете
+				</div>
+				<p class="adwantages-block__description">
+					 Вы можете скачать БЕСПЛАТНОЕ приложение для смартфонов (Android и iOS), есть все необходимое для работы с маркированным товаром.
+				</p>
+			</div>
+		</div>
+		<div class="col-md-4 col-10 offset-1 offset-md-0">
+			<div class="adwantages-block text-center">
+				<div class="adwantages-block_wrap">
+ <img src="/local/templates/getmark/images/cardn4.png" alt="">
+				</div>
+				<div class="adwantages-block__header">
+					 Мобильный УКЭП
+				</div>
+				<p class="adwantages-block__description">
+					 Подписывайте юридически значимые документы прямо с телефона
+				</p>
+			</div>
+		</div>
+		<div class="col-md-4 col-10 offset-1 offset-md-0">
+			<div class="adwantages-block text-center">
+				<div class="adwantages-block_wrap">
+ <img src="/local/templates/getmark/images/cardn2.png" alt="">
+				</div>
+				<div class="adwantages-block__header">
+					 Разграничение прав доступа
+				</div>
+				<p class="adwantages-block__description">
+					 Например, кладовщику открываете доступ к складам, менеджеру - к заказам и контрагентам, а бухгалтеру - право подписи документов к системе. Все действия персонала в программе фиксируются в журнале действий.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+ </section> <section>
+<div class="container color-card color-card_rose">
+	<div class="row h2header">
+		<div class="col-12 text-center">
+			<h2>Профессиональная и постоянная Поддержка</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<div class="img-wrapper">
+ <img src="/local/templates/getmark/images/adwantages7.png" alt="">
+			</div>
+		</div>
+		<div class="col-md-8">
+			<div class="card-item">
+				<div class="card-item__header">
+					 Техническая поддержка
+				</div>
+				<div class="card-item__text">
+					 Наши специалисты оперативно ответят на все ваши вопросы в случае возникновения проблем у вас или ваших сотрудников. Также мы готовы предоставить вам персонального менеджера.
+				</div>
+			</div>
+			<div class="card-item">
+				<div class="card-item__header">
+					 База знаний
+				</div>
+				<div class="card-item__text">
+					 Единое хранилище данных. Мы подготовили инструкции, мануалы и ответы на стандартные вопросы.
+				</div>
+			</div>
+			<div class="card-item">
+				<div class="card-item__header">
+					 Вебинары
+				</div>
+				<div class="card-item__text">
+					 Мы проводим вебинары совместно с Честным ЗНАКом и ГС1 Рус. Отвечаем на все вопросы, которые связаны с маркировкой и простым и удобным решением
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row ">
+		<div class="col-md-12 text-right">
+ <a target="_blank" href="https://www.youtube.com/channel/UCqcZQBdjbYccQYgwRYIkGsg" rel="nofollow"> <img src="/local/templates/getmark/images/Youtube_logo.svg" alt="" style="width: 20%;"> </a>
+		</div>
+	</div>
+</div>
+ </section>
+<div class="container">
+	<div class="row h2header" style="margin-bottom: 0;">
+		<div class="col-12 text-center">
+			<h2 class="header_with_line header_with_line_podzag">Попробуйте бесплатно! </h2>
+			<p>
+				 Закажите тестовый период с консультацией менеджера
+			</p>
+		</div>
+		<div class="col-12 text-center">
+		</div>
+	</div>
+</div>
+ <section class="lined-form" style="padding-top: 20px;">
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			 <div id="comp_67b8145e38a1cb9f36a313d20d304a80">
+
+
+
+<form name="functions_form" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_67b8145e38a1cb9f36a313d20d304a80_8BACKi" value="67b8145e38a1cb9f36a313d20d304a80" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_8BACKi(){
+	if (BX('bxajaxid_67b8145e38a1cb9f36a313d20d304a80_8BACKi'))
+	{
+		var obForm = BX('bxajaxid_67b8145e38a1cb9f36a313d20d304a80_8BACKi').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_67b8145e38a1cb9f36a313d20d304a80', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (BX('bxajaxid_67b8145e38a1cb9f36a313d20d304a80_8BACKi'))
+	_processform_8BACKi();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script><input type="hidden" name="sessid" id="sessid" value="315dabd9f5cea2d042b2870a14d2f15a" /><input type="hidden" name="WEB_FORM_ID" value="12" />
+
+
+
+
+	
+<br />
+
+			
+				
+		<div class="lined-form__inputbox">
+			<input type="text" class="form-control" placeholder="Имя" name="form_text_43" value="" size="0" />		</div>
+			
+				
+		<div class="lined-form__inputbox">
+			<input type="text" class="form-control" placeholder="Телефон" name="form_text_44" value="" size="0" />		</div>
+	<input type="hidden"  name="form_hidden_58" value="Заказ тестового периода с консультацией менеджера" /><input type="hidden"  name="form_hidden_59" value="" />
+
+				<input class="btn lined-form__btn"  type="submit" name="web_form_submit" value="Отправить" />
+
+
+</form></div>		</div>
+	</div>
+</div>
+ </section> <section>
+<div class="container color-card color-card_rose">
+	<div class="row h2header">
+		<div class="col-12 text-center">
+			<h2>Доступна работа через смартфон</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<div class="img-wrapper">
+ <img src="/local/templates/getmark/images/adwantages5.png" alt="">
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="card-item">
+				<div class="card-item__header">
+					 Мобильное приложение для iOS и Android
+				</div>
+				<div class="card-item__text">
+					 Поддерживает популярные операционные системы для смартфонов.
+				</div>
+			</div>
+			<div class="card-item">
+				<div class="card-item__header">
+					 Отсутствие ограничений
+				</div>
+				<div class="card-item__text">
+					 Бесплатно в рамках лицензии, неограниченное количество скачиваний. Весь необходимый функционал для работы.
+				</div>
+			</div>
+			<div class="card-item">
+				<div class="card-item__header">
+					 Встроенный сканер
+				</div>
+				<div class="card-item__text">
+					 Позволяет сканировать коды маркировки прямо со смартфона, не нужно закупать дополнительное оборудование и программное обеспечение, все необходимые операции можно делать в приложении.
+				</div>
+			</div>
+			<div class="card-item">
+				<div class="card-item__header">
+					 Мобильная УКЭП
+				</div>
+				<div class="card-item__text">
+					 Подписывайте юридически значимые документы прямо с телефона.
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3">
+			<div class="text-center img-wrapper_p25">
+				<div class="row">
+					<div class="col-md-12 md-none">
+						<div class="img-wrapper">
+ <img src="/local/templates/getmark/images/appstore_qr_clear.png" alt="" style="position: relative;right: -6px;max-width: 120%;width: 120%;">
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="img-wrapper">
+ <a href="https://apps.apple.com/ru/app/getmark/id1532064468" target="_blank" rel="nofollow" title="Скачать бесплатно приложение для маркировки на iOS iPhone"> <img alt="Скачать бесплатно приложение для маркировки на iOS iPhone" src="/local/templates/getmark/images/ap-new_fial.svg" class="w-100 "> </a>
+						</div>
+					</div>
+				</div>
+ <br>
+				<div class="row">
+					<div class="col-md-12 md-none">
+						<div class="img-wrapper">
+ <img src="/local/templates/getmark/images/google_qr_clear.png" alt="" style="position: relative;right: 8px;max-width: 120%;width: 120%;">
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="img-wrapper">
+ <a href="https://play.google.com/store/apps/details?id=ru.getmark.app" target="_blank" rel="nofollow" title="Скачать приложение для маркировки на Android смартфон"> <img alt="Скачать приложение для маркировки на Android смартфон" src="/local/templates/getmark/images/gp-new_fial.svg" class="w-100"> </a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row ">
+		<div class="col-md-12 text-center">
+			 <!-- <a data-toggle="modal" data-target="#exampleModal" class="btn main__button color-card__button" >
+					Узнать больше
+				</a>--> <a onclick="ym(54202435,'reachGoal','perehodmobapp', {URL: document.location.href})" href="/mobile-app/" class="btn btn-classic" target="_blank">Подробнее о приложении</a>
+		</div>
+	</div>
+</div>
+ </section> <section id="letter">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center">
+			<h2>Официальная поддержка</h2>
+		</div>
+	</div>
+	 <div class="row">
+    <div class="col-md-4 text-center">
+        <a target="_blank" href="/local/templates/getmark/docs/letter1.pdf" rel="nofollow"><img
+                alt="Рекомендательное письмо от Министерства по информатизации, связи и вопросам открытого управления"
+
+                src="/local/templates/getmark/images/letter_three.svg" class="w-100"> </a>
+        <div class="text_partner">
+            <a target="_blank" href="/local/templates/getmark/docs/letter1.pdf" rel="nofollow">Рекомендательное письмо от
+                Министерства по информатизации, связи и вопросам открытого управления Тульской области</a>
+        </div>
+        <!--<a target="_blank" href="/local/templates/getmark/docs/letter1.pdf"> </a>--><br>
+    </div>
+    <div class="col-md-4 text-center">
+        <a target="_blank" href="/local/templates/getmark/docs/letter2.pdf" rel="nofollow"> <img
+                alt="Письмо о резидентстве в Сколково"
+                src="/local/templates/getmark/images/letter_two.svg" class="w-100">
+            <div class="text_partner">
+                Свидетельство участника резидентства Сколково
+            </div>
+        </a> 
+    </div>
+    <div class="col-md-4 text-center">
+        <a href="/local/templates/getmark/docs/letter3.pdf" target="_blank" rel="nofollow"> <img
+                alt="Свидетельство о членстве в Ассоциации GS1 Russia" 
+                src="/local/templates/getmark/images/letter_one.svg" class="w-100">
+            <div class="text_partner">
+                Свидетельство о членстве в Ассоциации GS1 Russia
+            </div>
+        </a> 
+    </div>
+</div></div>
+ </section>
+<section id="otziv" class="otziv_background_after">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h2 class="header_with_line">Отзывы клиентов</h2>
+			</div>
+		</div>
+		<style>
+
+</style>
+<div class="row">
+	<div class="col-12">
+		<div class="owl-carousel otziv-carousel otziv">
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 Наше сотрудничество с GetMark началось на волне введения обязательной маркировки обуви. Мы обратились к GetMark для аутсорса услуги получения и печати КИЗов для одной из партий нашей продукции. Все было выполнено быстро и качественно. После релиза приложения GetMark мы зарегистрировали личный кабинет для нашей организации и успешно используем его в работе. Специалисты технической поддержки оперативно реагируют на обращения и учитывают пожелания для улучшения работы сервиса. За все время после ввода обязательно маркировки мы использовали несколько ресурсов и со всей ответственностью можем заявить, что решение от GetMark является лучшим на рынке России.
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+ <img src="/local/templates/getmark/images/gomoga.svg" alt="" class="otziv__logo w-100">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 ООО “ГоМода”
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 Для маркировки нашей продукции, женской обуви ARSEKO, после долгих поисков подходящей нам компании, мы выбрали продукт GetMark, который включает в себя множество функций, доступных как на телефоне, так и на компьютере. Очень удобно, что приложение GetMark синхронизировано с национальной системой «Честный Знак» и изменение статуса товара автоматически передается в систему. Коды маркировки за считанные секунды формируются в личном кабинете. Для ввода или вывода товара из оборота достаточно отсканировать этикетку с кодом маркировки. Кстати, это также можно сделать через камеру смартфона, так как в GetMark уже встроен сканер. Интерфейс приложения GetMark удобный и простой для использования в работе с товарами - система поиска позволяет легко находить любую информацию. Продукт GetMark прекрасно адаптирован для работы с крупными маркетплейсами. Мы очень довольны сотрудничеством с GetMark и благодарны специалистам компании, которые внимательны и готовы помочь как по телефону, так и через удаленный доступ. Надеемся на долгое сотрудничество!
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+ <img src="/local/templates/getmark/images/arseko.svg" alt="" class="otziv__logo w-100">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 ООО “Фабрика САВАС”
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 Хочу выразить признательность компании GetMark за своевременное и качественное сопровождение по работе с нашим контрагентом, по маркировке и интеграции в “Честный Знак”. Отдельное спасибо менеджеру Сергею и Павлу.
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 ИП Афсари Р. И.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 GetMark максимально простая и удобная в использовании программа. Все просто и понятно. Сканер QR-кодов срабатывает быстро и автоматически, нет необходимости "целиться". Когда были вопросы мы звонили в техническую поддержку, ответили очень оперативно и доступно все объяснили. Каждая продажа после сканирования удобно комплектуется в один файл.
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 D777 Transline
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 Хотим сказать спасибо коллективу GetMark за качественную работу сервиса и отметить, что вы сделали надежную и очень удобную программу по работе с маркировкой Честный ЗНАК. <br>
+								 Компания GetMark проводила настройку работы сервиса для нашей производственной компании. С помощью специалистов сервиса получилось решить сложную задачу по автоматизации маркировки. <br>
+								 Хотим отметить супер техподдержку. Рекомендуем!
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 ИП Гусейнов Э. Г.
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 Благодарим сервис ГетМарк за плодотворное сотрудничество. Необходимость маркировки товаров вызвало множество вопросов и затруднений, что с легкостью решили компетентные сотрудники ГетМарка. <br>
+								 Хотелось бы отметить оперативность, отзывчивость и профессионализм вашей компании. О вашем сервисе узнали у коллег "по цеху". <br>
+								 Желаем вам развития, побольше клиентов, которым так необходима ваша помощь.
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+ <img src="/local/templates/getmark/images/ztekstil.svg" alt="" class="otziv__logo w-100">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 ИП Цой
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide">
+				<div class="otziv__item">
+					<div class="row otziv__head">
+						<div class="col-12">
+							<div class="otziv__text">
+								 Благодарим за помощь в настройке процессов и внедрение программного обеспечения для работы с маркировкой. Отдельное спасибо службе поддержки за оперативное решение проблем и подробные консультации.
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="row">
+								<div class="col-4 col-md-4">
+									<div class="otziv__logo-wrapper">
+									</div>
+								</div>
+								<div class="col-8 col-md-8">
+									<div class="otziv_name-wrapper">
+										<div class="otziv_name">
+											 ООО Надежный партнер
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<br>	</div>
+</section><div class="container">
+	<div class="row h2header" style="margin-bottom: 0;">
+		<div class="col-12 text-center">
+			<h2 class="header_with_line header_with_line_podzag">Остались вопросы?</h2>
+			<p>
+				 Просто закажите звонок - мы проконсультируем вас и предложим решения
+			</p>
+		</div>
+		<div class="col-12 text-center">
+		</div>
+	</div>
+</div>
+ <section class="lined-form" style="padding-top: 20px;">
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			 <div id="comp_42884b44d2d663bf648cddfce551f306">
+
+
+
+<form name="functions_form_PElwl" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_42884b44d2d663bf648cddfce551f306_Ar8Szp" value="42884b44d2d663bf648cddfce551f306" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_Ar8Szp(){
+	if (BX('bxajaxid_42884b44d2d663bf648cddfce551f306_Ar8Szp'))
+	{
+		var obForm = BX('bxajaxid_42884b44d2d663bf648cddfce551f306_Ar8Szp').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_42884b44d2d663bf648cddfce551f306', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+}
+if (BX('bxajaxid_42884b44d2d663bf648cddfce551f306_Ar8Szp'))
+	_processform_Ar8Szp();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+</script><input type="hidden" name="sessid" id="sessid_1" value="315dabd9f5cea2d042b2870a14d2f15a" /><input type="hidden" name="WEB_FORM_ID" value="13" />
+
+
+
+
+	
+<br />
+
+			
+				
+		<div class="lined-form__inputbox">
+			<input type="text" class="form-control" placeholder="Имя" name="form_text_47" value="" size="0" />		</div>
+			
+				
+		<div class="lined-form__inputbox">
+			<input type="text" class="form-control" placeholder="Телефон" name="form_text_48" value="" size="0" />		</div>
+	<input type="hidden"  name="form_hidden_60" value="Заказ тестового периода с консультацией менеджера" /><input type="hidden"  name="form_hidden_61" value="" />
+
+				<input class="btn lined-form__btn"  type="submit" name="web_form_submit" value="Отправить" />
+
+
+</form></div>		</div>
+	</div>
+</div>
+ </section>
+<section id="blog">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h2>
+					Блог о маркировке товаров
+					<div class="header_text">
+						Хотите узнать больше о маркировке? <br> Заходите на 
+						наш блог с полезными для бизнеса материалами <br>
+					</div>
+				</h2>
+			</div>
+		</div>
+		<div >
+			<div class="container news-list bx-blue">
+				<div class="col">
+					<div class="row">
+						<div class="container news-list bx-blue">
+							<div class="col">
+								<div class="row">
+									
+
+
+
+<div class="container news-list bx-blue">
+	<div class="col">
+
+	
+		
+		<div class="row">
+										
+
+				<div class="col-md-4" id="bx_3218110189_152">
+					<div class="blog-item_new">
+
+						
+																<a href="/blog/o-markirovke/Poluchit-kody-markirovki-dlya-odezhdy-tekstilya-i-obuvi/">
+										<img
+											class="card-img-top w-100"
+											src="/upload/iblock/a74/a74fdec837462316b96ee5e1d68dca0b.jpg"
+											alt="Как получить коды маркировки для одежды, обуви, легпром"
+											title="Как получить коды маркировки для одежды, обуви, легпром"
+										/>
+									</a>
+									
+												
+						<div class="blog_name_cont_new">
+
+						
+						<pre></pre>
+															<h4 class="card-title">
+																			<a onclick="" class="postname_new p-light" href="/blog/o-markirovke/Poluchit-kody-markirovki-dlya-odezhdy-tekstilya-i-obuvi/">Как получить коды маркировки для одежды, обуви, легпром</a>
+																	</h4>
+								<div class="public_date">
+								10.01.2022								</div>
+								<div class="show_count">
+										<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+											viewBox="0 0 488.85 488.85"  xml:space="preserve" style="width: 22px;fill: #7e8995;position: relative;top: -2px;margin-right: 5px;">
+											<g>
+												<path d="M244.425,98.725c-93.4,0-178.1,51.1-240.6,134.1c-5.1,6.8-5.1,16.3,0,23.1c62.5,83.1,147.2,134.2,240.6,134.2
+													s178.1-51.1,240.6-134.1c5.1-6.8,5.1-16.3,0-23.1C422.525,149.825,337.825,98.725,244.425,98.725z M251.125,347.025
+													c-62,3.9-113.2-47.2-109.3-109.3c3.2-51.2,44.7-92.7,95.9-95.9c62-3.9,113.2,47.2,109.3,109.3
+													C343.725,302.225,302.225,343.725,251.125,347.025z M248.025,299.625c-33.4,2.1-61-25.4-58.8-58.8c1.7-27.6,24.1-49.9,51.7-51.7
+													c33.4-2.1,61,25.4,58.8,58.8C297.925,275.625,275.525,297.925,248.025,299.625z"/>
+											</g>
+										</svg>
+										1706								</div>
+								<div class="tags_post">
+									
+								
+								
+								<a href="/blog/o-markirovke">О маркировке</a>									
+									
+								</div>
+													</div>
+					</div>
+				</div>
+										
+
+				<div class="col-md-4" id="bx_3218110189_151">
+					<div class="blog-item_new">
+
+						
+																<a href="/blog/o-markirovke/sistema-markirovki-tovarov-chestnyj-znak-edinaya-obyazatelnaya/">
+										<img
+											class="card-img-top w-100"
+											src="/upload/iblock/5e3/5e363f81e3fb5c59cee1f0fed95c4819.jpg"
+											alt="Обязательная единая система маркировки товаров Честный ЗНАК"
+											title="Обязательная единая система маркировки товаров Честный ЗНАК"
+										/>
+									</a>
+									
+												
+						<div class="blog_name_cont_new">
+
+						
+						<pre></pre>
+															<h4 class="card-title">
+																			<a onclick="" class="postname_new p-light" href="/blog/o-markirovke/sistema-markirovki-tovarov-chestnyj-znak-edinaya-obyazatelnaya/">Обязательная единая система маркировки товаров Честный ЗНАК</a>
+																	</h4>
+								<div class="public_date">
+								22.12.2021								</div>
+								<div class="show_count">
+										<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+											viewBox="0 0 488.85 488.85"  xml:space="preserve" style="width: 22px;fill: #7e8995;position: relative;top: -2px;margin-right: 5px;">
+											<g>
+												<path d="M244.425,98.725c-93.4,0-178.1,51.1-240.6,134.1c-5.1,6.8-5.1,16.3,0,23.1c62.5,83.1,147.2,134.2,240.6,134.2
+													s178.1-51.1,240.6-134.1c5.1-6.8,5.1-16.3,0-23.1C422.525,149.825,337.825,98.725,244.425,98.725z M251.125,347.025
+													c-62,3.9-113.2-47.2-109.3-109.3c3.2-51.2,44.7-92.7,95.9-95.9c62-3.9,113.2,47.2,109.3,109.3
+													C343.725,302.225,302.225,343.725,251.125,347.025z M248.025,299.625c-33.4,2.1-61-25.4-58.8-58.8c1.7-27.6,24.1-49.9,51.7-51.7
+													c33.4-2.1,61,25.4,58.8,58.8C297.925,275.625,275.525,297.925,248.025,299.625z"/>
+											</g>
+										</svg>
+										2621								</div>
+								<div class="tags_post">
+									
+								
+								
+								<a href="/blog/o-markirovke">О маркировке</a>									
+									
+								</div>
+													</div>
+					</div>
+				</div>
+										
+
+				<div class="col-md-4" id="bx_3218110189_150">
+					<div class="blog-item_new">
+
+						
+																<a href="/blog/o-markirovke/nacionalnaya-sistema-markirovki-i-proslezhivaemosti-tovarov-produkcii/">
+										<img
+											class="card-img-top w-100"
+											src="/upload/iblock/f6f/f6f0049574c59c7be4882e98f3adf663.jpg"
+											alt="Национальная система прослеживаемости товаров и маркировки"
+											title="Национальная система прослеживаемости товаров и маркировки"
+										/>
+									</a>
+									
+												
+						<div class="blog_name_cont_new">
+
+						
+						<pre></pre>
+															<h4 class="card-title">
+																			<a onclick="" class="postname_new p-light" href="/blog/o-markirovke/nacionalnaya-sistema-markirovki-i-proslezhivaemosti-tovarov-produkcii/">Национальная система прослеживаемости товаров и маркировки</a>
+																	</h4>
+								<div class="public_date">
+								15.12.2021								</div>
+								<div class="show_count">
+										<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+											viewBox="0 0 488.85 488.85"  xml:space="preserve" style="width: 22px;fill: #7e8995;position: relative;top: -2px;margin-right: 5px;">
+											<g>
+												<path d="M244.425,98.725c-93.4,0-178.1,51.1-240.6,134.1c-5.1,6.8-5.1,16.3,0,23.1c62.5,83.1,147.2,134.2,240.6,134.2
+													s178.1-51.1,240.6-134.1c5.1-6.8,5.1-16.3,0-23.1C422.525,149.825,337.825,98.725,244.425,98.725z M251.125,347.025
+													c-62,3.9-113.2-47.2-109.3-109.3c3.2-51.2,44.7-92.7,95.9-95.9c62-3.9,113.2,47.2,109.3,109.3
+													C343.725,302.225,302.225,343.725,251.125,347.025z M248.025,299.625c-33.4,2.1-61-25.4-58.8-58.8c1.7-27.6,24.1-49.9,51.7-51.7
+													c33.4-2.1,61,25.4,58.8,58.8C297.925,275.625,275.525,297.925,248.025,299.625z"/>
+											</g>
+										</svg>
+										1184								</div>
+								<div class="tags_post">
+									
+								
+								
+								<a href="/blog/o-markirovke">О маркировке</a>									
+									
+								</div>
+													</div>
+					</div>
+				</div>
+					</div>
+
+					
+<div class="bx-pagination bx-blue">
+	<div class="bx-pagination-container">
+		<ul>
+
+				<li class="bx-pag-prev"><span>Назад</span></li>
+			<li class="bx-active"><span>1</span></li>
+	
+						<li class=""><a href="/?roistat=google2_g_136797469110_580152514527_%D0%B3%D0%B4%D0%B5+%D0%B2%D0%B7%D1%8F%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&amp;roistat_referrer=&amp;roistat_pos=none&amp;PAGEN_1=2"><span>2</span></a></li>
+										<li class=""><a href="/?roistat=google2_g_136797469110_580152514527_%D0%B3%D0%B4%D0%B5+%D0%B2%D0%B7%D1%8F%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&amp;roistat_referrer=&amp;roistat_pos=none&amp;PAGEN_1=3"><span>3</span></a></li>
+										<li class=""><a href="/?roistat=google2_g_136797469110_580152514527_%D0%B3%D0%B4%D0%B5+%D0%B2%D0%B7%D1%8F%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&amp;roistat_referrer=&amp;roistat_pos=none&amp;PAGEN_1=4"><span>4</span></a></li>
+					
+						<li class=""><a href="/?roistat=google2_g_136797469110_580152514527_%D0%B3%D0%B4%D0%B5+%D0%B2%D0%B7%D1%8F%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&amp;roistat_referrer=&amp;roistat_pos=none&amp;PAGEN_1=29"><span>29</span></a></li>
+					<li class="bx-pag-next"><a href="/?roistat=google2_g_136797469110_580152514527_%D0%B3%D0%B4%D0%B5+%D0%B2%D0%B7%D1%8F%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&amp;roistat_referrer=&amp;roistat_pos=none&amp;PAGEN_1=2"><span>Вперед</span></a></li>
+	
+				<li class="bx-pag-all"><a href="/?roistat=google2_g_136797469110_580152514527_%D0%B3%D0%B4%D0%B5+%D0%B2%D0%B7%D1%8F%D1%82%D1%8C+%D0%BA%D0%BE%D0%B4+%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9+%D0%BC%D0%B0%D1%80%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&amp;roistat_referrer=&amp;roistat_pos=none&amp;SHOWALL_1=1" rel="nofollow"><span>Показать больше записей</span></a></li>
+			</ul>
+		<div style="clear:both"></div>
+	</div>
+</div>
+			</div>
+</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row tprow">
+			<div class="col-12 text-center">
+				<a onclick="ym(54202435,'reachGoal','perehodblog', {URL: document.location.href})" href="https://getmark.ru/blog " class="btn btn-classic">Перейти в блог</a>
+			</div>
+		</div>
+	</div>
+</section> <script>
+	$('#get_menu').click(function() {
+		if ($('#get_menu').attr('aria-expanded') == 'true') {
+			$('#get_menu img').attr('src', '/local/templates/getmark/images/button_menu.svg');
+
+		} else {
+			$('#get_menu img').attr('src', '/local/templates/getmark/images/button_menu-hover.svg');
+
+		}
+
+	})
+	$('li.dropdown').on('hide.bs.dropdown', function() {
+		$('#get_menu img').attr('src', '/local/templates/getmark/images/button_menu.svg');
+	});
+</script>
+<div class="modal fade modal_newtype" id="vebinar_modal" tabindex="-1" role="dialog" aria-labelledby="vebinar_modal1" aria-hidden="true">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="row">
+				<div class="col-md-7">
+ <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="position: absolute;top: 25px;left: 34px;z-index: 999;font-weight: 100;color: white!important;"> <span aria-hidden="true">?</span> </button>
+					<div class="modalform_container">
+ <img src="/local/templates/getmark/images/logo_main.png" alt="">
+						<div class="newtype_form">
+							  <div id="comp_2209edf97b15e944c6721e640c7da868">
+
+
+
+<form name="vebinar_form1" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_2209edf97b15e944c6721e640c7da868_XrQFCj" value="2209edf97b15e944c6721e640c7da868" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_XrQFCj(){
+	if (BX('bxajaxid_2209edf97b15e944c6721e640c7da868_XrQFCj'))
+	{
+		var obForm = BX('bxajaxid_2209edf97b15e944c6721e640c7da868_XrQFCj').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_2209edf97b15e944c6721e640c7da868', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+}
+if (BX('bxajaxid_2209edf97b15e944c6721e640c7da868_XrQFCj'))
+	_processform_XrQFCj();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+</script><input type="hidden" name="sessid" id="sessid_2" value="315dabd9f5cea2d042b2870a14d2f15a" /><input type="hidden" name="WEB_FORM_ID" value="9" />
+
+
+
+
+	
+<br />
+
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Имя" name="form_text_30" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Телефон" name="form_text_31" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Почта" name="form_text_34" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="checkbox" checked id="32" name="form_checkbox_vebinar_form1_check[]" value="32"><label for="32">Согласен с <span class="seoclick" data-href="/bitrix/templates/1996/docs/polic.pdf" data-target="_blank" style="color: #265476;text-decoration: underline!important;">политикой обработки персональных данных</a></label>		</div>
+	
+
+				<input class="btn btn-modal"  type="submit" name="web_form_submit" value="Отправить" />
+
+
+</form></div>						</div>
+					</div>
+				</div>
+				<div class="col-md-5 only-desktop">
+ <img src="/local/templates/getmark/images/modal_image.png" class="w-100" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ <br>
+<div class="modal fade modal_newtype" id="vebinar_modal2" tabindex="-1" role="dialog" aria-labelledby="vebinar_modal2" aria-hidden="true">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="row">
+				<div class="col-md-7">
+ <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="position: absolute;top: 25px;left: 34px;z-index: 999;font-weight: 100;color: white!important;"> <span aria-hidden="true">x</span> </button>
+					<div class="modalform_container">
+ <img src="/local/templates/getmark/images/logo_main.png" alt="">
+						<div class="newtype_form">
+							  <div id="comp_7f681e2f0d938bc8ca0a8cd119a9ab6b">
+
+
+
+<form name="vebinar_form3" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_7f681e2f0d938bc8ca0a8cd119a9ab6b_dCjmSk" value="7f681e2f0d938bc8ca0a8cd119a9ab6b" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_dCjmSk(){
+	if (BX('bxajaxid_7f681e2f0d938bc8ca0a8cd119a9ab6b_dCjmSk'))
+	{
+		var obForm = BX('bxajaxid_7f681e2f0d938bc8ca0a8cd119a9ab6b_dCjmSk').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_7f681e2f0d938bc8ca0a8cd119a9ab6b', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_dCjmSk);
+}
+if (BX('bxajaxid_7f681e2f0d938bc8ca0a8cd119a9ab6b_dCjmSk'))
+	_processform_dCjmSk();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_dCjmSk);
+</script><input type="hidden" name="sessid" id="sessid_3" value="315dabd9f5cea2d042b2870a14d2f15a" /><input type="hidden" name="WEB_FORM_ID" value="11" />
+
+
+
+
+	
+<br />
+
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Имя" name="form_text_39" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Телефон" name="form_text_40" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Почта" name="form_text_41" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="checkbox" checked id="42" name="form_checkbox_vebinar_form2_check[]" value="42"><label for="42">Согласен с <span class="seoclick" data-href="/politic/" data-target="_blank" style="color: #265476;text-decoration: underline!important;">политикой обработки персональных данных</a></label>		</div>
+	
+
+				<input class="btn btn-modal"  type="submit" name="web_form_submit" value="Отправить" />
+
+
+</form></div>						</div>
+					</div>
+				</div>
+				<div class="col-md-5 only-desktop">
+ <img src="/local/templates/getmark/images/modal_image.png" class="w-100" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+ <br><section class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 offset-md-0 col-md-2 footer__logo-wrapper">
+                <div class="row" style="display: flex;justify-content: center;align-items: center;width: 100%;">
+                    <div class="col-6 col-md-12">
+                        <a class="foot_logo" href="/"><img class="w-100"
+                                src="/local/templates/getmark/images/white_logo.svg" alt=""></a>
+                    </div>
+                    <div class="col-6 col-md-12">
+                         <a rel="nofollow" class="footer__sk-logo" href="https://sk.ru/"> <img class=""
+                                style="width:80%; padding-top:15px"
+                                src="/local/templates/getmark/images/scolkovo_logo.svg" alt=""></a>
+                                            </div>
+                </div>
+            </div>
+            <div class="col-6 col-md-2 mobpadt">
+                <a onclick="ym(54202435,'reachGoal','footerobuv', {URL: document.location.href})"
+                    href="/markirovka-obuvi/" class="footer_menu_item ">Маркировка обуви</a>
+                <a onclick="ym(54202435,'reachGoal','footerodezhda', {URL: document.location.href})"
+                    href="/markirovka-odezhdy/" class="footer_menu_item ">Маркировка одежды</a>
+                <a onclick="ym(54202435,'reachGoal','footerblog', {URL: document.location.href})" href="/blog/"
+                    class="footer_menu_item ">Блог</a>
+                <a onclick="ym(54202435,'reachGoal','footercontact'', {URL: document.location.href})" href="/contacts/"
+                    class="footer_menu_item " onclick="fbq('track', 'Contact');">Контакты</a>
+            </div>
+
+            <div class="col-6 col-md-2 mobpadt">
+                <a onclick="ym(54202435,'reachGoal','gootersitemagm', {URL: document.location.href})" href="/"
+                    class="footer_menu_item ">Система GetMark</a>
+                <a onclick="ym(54202435,'reachGoal','footerfunction', {URL: document.location.href})"
+                    href="/programma-markirovki-chestnyj-znak/" class="footer_menu_item ">Программа для маркировки товара</a>
+                <a onclick="ym(54202435,'reachGoal','footerbazaznanii'', {URL: document.location.href})"
+                    href="/baza-znaniy/" class="footer_menu_item ">База знаний</a>
+                <a onclick="ym(54202435,'reachGoal','footeronas', {URL: document.location.href})" href="/about/"
+                    class="footer_menu_item ">О нас</a>
+            </div>
+
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="col-6">
+                        <a onclick="ym(54202435,'reachGoal','footerios', {URL: document.location.href})"
+                            class="storelink" href="https://apps.apple.com/ru/app/getmark/id1532064468" rel="nofollow"
+                            target="_blank"><img class="w-100" src="/local/templates/getmark/images/ap-new.svg"
+                                alt=""></a>
+                    </div>
+                    <div class="col-6">
+                        <a onclick="ym(54202435,'reachGoal','footerandroid', {URL: document.location.href})"
+                            class="storelink" href="https://play.google.com/store/apps/details?id=ru.getmark.app"
+                            rel="nofollow" target="_blank"><img class="w-100"
+                                src="/local/templates/getmark/images/gp-new.svg" alt=""></a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="small_12">
+                            Подписывайтесь на нас в соц.сетях
+                        </div>
+                        <div class="soc_links">
+                            <div onclick="ym(54202435,'reachGoal','footervk', {URL: document.location.href})"
+                                class="soc_link">
+                                <a rel="nofollow" target="_blank" href="https://vk.com/get_mark"><img
+                                        src="/local/templates/getmark/images/vk_soc.svg" alt=""></a>
+                            </div>
+                            <div onclick="ym(54202435,'reachGoal','footerinsta', {URL: document.location.href})"
+                                class="soc_link">
+                                <a rel="nofollow" target="_blank" href="https://www.instagram.com/get_markirovka/"><img
+                                        src="/local/templates/getmark/images/inst_soc.svg" alt=""></a>
+                            </div>
+                            <div onclick="ym(54202435,'reachGoal','footerfb', {URL: document.location.href})"
+                                class="soc_link">
+                                <a rel="nofollow" target="_blank" href="https://www.facebook.com/getmark.ru/"><img
+                                        src="/local/templates/getmark/images/fb_soc.svg" alt=""></a>
+                            </div>
+                            <div onclick="ym(54202435,'reachGoal','footertelegram', {URL: document.location.href})"
+                                class="soc_link">
+                                <a rel="nofollow" target="_blank" href="https://t.me/get_markirovka"><img
+                                        src="/local/templates/getmark/images/tg_soc.svg" alt=""></a>
+                            </div>
+                            <div onclick="ym(54202435,'reachGoal','footeryoutube', {URL: document.location.href})"
+                                class="soc_link">
+                                <a rel="nofollow" target="_blank"
+                                    href="https://www.youtube.com/channel/UCqcZQBdjbYccQYgwRYIkGsg"><img
+                                        src="/local/templates/getmark/images/youtube_soc.svg" alt=""></a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="phone_box">
+                    <img src="/local/templates/getmark/images/phone_ico.svg" alt="">
+                    <a href="tel:88005004729">8 (800) 500 47 29</a>
+                    <div class="" style="font-size: 12px;float: right;font-weight: 400;">
+                        Звонок по России бесплатный
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="overflow: hidden;height: 0;padding: 0;margin: 0;">
+        <nav>
+            <ul>
+                <li><a href="/blog/o-markirovke/kak-vybrat-priobresti-i-podklyuchit-skaner-koda-datamatrix/">Сканер data
+                        matrix кодов</a></li>
+                <li><a href="/blog/o-markirovke/obyazatelnaya-markirovka-moloka-i-molochnoj-produkcii/">Обязательная
+                        маркировка молочной продукции</a></li>
+                <li><a href="/blog/o-markirovke/sistema-markirovki-tovarov-chestnyj-znak-edinaya-obyazatelnaya/">Система маркировки «Честный знак»</a></li>
+                <li><a href="#">ЭДО (электронный документооборот)</a></li>
+                <li><a href="#">ФЗ 2019-2020</a></li>
+                <li><a href="#">црпт</a></li>
+                <li><a href="#">егаис</a></li>
+                <li><a href="#">Принтер-этикеток</a></li>
+                <li><a href="#">Онлайн-кассы</a></li>
+                <li><a href="#">офд</a></li>
+                <li><a href="#">гис мт</a></li>
+                <li><a href="#">Терминал сбора данных (тсд)</a></li>
+                <li><a href="#">ФНС</a></li>
+<li><a href="#">Функции</a></li>
+                <li><a href="/blog/o-markirovke/postanovleniya-i-zakony-o-markirovke-tovarov-sistemy-chestnyj-znak/">Законы
+                        по маркировке товаров</a></li>
+                <li><a href="#">Оборудование</a></li>
+            </ul>
+        </nav>
+        <p>Поддержка: Wikipedia (wiki), Федеральная налоговая служба Российской Федерации. <br>Генеральная лицензия ЦБ
+            РФ № 7569.</p>
+    </div>
+
+    <div id="after_footer" class="container">
+        <div class="row">
+            <div class="col-12 pfoot_contr">
+                <p class="p-light">
+                    © 2016–2021 ООО Вента Гранде - независимый разработчик товароучетной системы и сервиса по маркировке
+                    GetMark
+                    <div class="prefoot_links">
+                        <a href="https://getmark.ru/sitemap/" style="    color: #b2b5bb;">Карта сайта </a> |
+                        <span class="seoclick politic" data-href="/politic/" data-target="_blank">Политика обработки
+                            персональных данных</span>
+                    </div>
+                </p>
+            </div>
+        </div>
+    </div>
+
+</section>
+<div class="modal fade modal_newtype" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModal"
+    aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="row">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"
+                    style="position: absolute;top: 25px;left: 34px;z-index: 999;font-weight: 100;color: white!important;">
+                    <span style="    color: #FFE;" aria-hidden="true">&times;</span>
+                </button>
+                <div class="col-12 offset-0 col-md-8 offset-md-2">
+
+                    <div class="modalform_container">
+                        <img src="/local/templates/getmark/images/logo_main.png" alt="">
+                        <div class="newform_head">
+                            <h3>Оставить заявку</h3>
+                            <p>Менеджер свяжется с вами в ближайшее время</p>
+                        </div>
+                        <div class="newtype_form newtype_form_fix">
+                                                        <div id="comp_84552aefa3f765fd2ee5b51ba3d16261">
+
+
+
+<form name="SIMPLE_FORM_1" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="bxajaxid" id="bxajaxid_84552aefa3f765fd2ee5b51ba3d16261_KurokV" value="84552aefa3f765fd2ee5b51ba3d16261" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_KurokV(){
+	if (BX('bxajaxid_84552aefa3f765fd2ee5b51ba3d16261_KurokV'))
+	{
+		var obForm = BX('bxajaxid_84552aefa3f765fd2ee5b51ba3d16261_KurokV').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_84552aefa3f765fd2ee5b51ba3d16261', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_KurokV);
+}
+if (BX('bxajaxid_84552aefa3f765fd2ee5b51ba3d16261_KurokV'))
+	_processform_KurokV();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_KurokV);
+</script><input type="hidden" name="sessid" id="sessid_4" value="315dabd9f5cea2d042b2870a14d2f15a" /><input type="hidden" name="WEB_FORM_ID" value="1" />
+
+
+
+
+	
+<br />
+
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Введите ваше имя" name="form_text_1" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="text" class="form-control" placeholder="Введите ваш телефон" name="form_text_2" value="" size="0" />		</div>
+			
+				
+		<div class="subscribe_input">
+			<input type="checkbox" checked id="4" name="form_checkbox_check[]" value="4"><label for="4">Согласен с <span class="seoclick" data-href="/politic/" data-target="_blank" style="color: #265476;text-decoration: underline!important;">политикой обработки персональных данных</a></label>		</div>
+	<input type="hidden"  name="form_hidden_5" value="" /><input type="hidden"  name="form_hidden_56" value="" /><input type="hidden"  name="form_hidden_57" value="" />
+
+				<input class="btn btn-modal"  type="submit" name="web_form_submit" value="Отправить" />
+
+
+</form></div>                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal"
+    aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="row">
+               
+                <div class="col-12 ">
+                    <!-- <iframe width="100%" height="400" src="https://www.youtube.com/embed/Huv4UTLY6Vs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script async src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+</script>
+
+<script src="/local/templates/getmark/js/jquery.maskedinput.min.js"></script>
+
+<script src="/local/templates/getmark/js/main.js?clear_cache=Y"></script>
+<script src="/local/templates/getmark/js/owl.carousel.min.js"></script>
+
+<script src="/local/templates/getmark/js/lightgallery-all.min.js"></script>
+<script src="/local/templates/getmark/js/jquery-modal-video.js"></script>
+
+<link href="https://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
+<script src="https://vjs.zencdn.net/4.12/video.js"></script>
+
+
+<script>
+    $('button[data-toggle="modal"]').click(function(){
+        let formname = $(this).attr('data-formname');
+        console.log(formname)
+        $('input[name="form_hidden_56"]').val(window.location.href)
+        $('input[name="form_hidden_57"]').val(formname)
+        
+    })
+
+    
+    $('form[name="functions_form"] input[name="form_hidden_59"]').val(window.location.href)
+    $('form[name="functions_form_PElwl"] input[name="form_hidden_61"]').val(window.location.href)
+    $('form[name="wa_consultaton"] input[name="form_hidden_65"]').val(window.location.href)
+    $('form[name="lifehack_form"] input[name="form_hidden_69"]').val(window.location.href)
+    
+    
+
+    $(".play-popup-video").modalVideo();
+    function formcheck(name) {
+        $("input[name='form_hidden_5']").val(name)
+    }
+    $('.seoclick').each(function () {
+        var $th = $(this);
+        $th.on('click', function () {
+            window.open($th.attr('data-href'), $th.attr('data-target'));
+        });
+    });
+
+    $('#interface-lightGallery').lightGallery();
+    $('#interfaceMob-lightGallery').lightGallery();
+    $('#video-lightbox').lightGallery({
+        videojs: true
+    });
+
+    // $('#functions').lightGallery({
+    //     selector: '.function_element img',
+    //     thumbnail:false
+    // });
+    $('#functions').lightGallery({
+        selector: 'img',
+        thumbnail: false
+    });
+    $('#bz-blocks').lightGallery({
+        selector: 'img',
+        thumbnail: false
+    });
+
+    $('#selectors-popup').lightGallery({
+        selector: 'img',
+        thumbnail: false
+    });
+
+
+
+
+    fbq('track', 'ViewContent', {
+        value: 1,
+        currency: 'RUB',
+    });
+    $('button[data-target="#exampleModal"]').click(function(){
+    if($(this).attr('data-title')){
+            $('#exampleModal .newform_head h3').html($(this).attr('data-title'))
+        }
+        else{
+            $('#exampleModal .newform_head h3').html('Оставить заявку')
+        }
+    })
+
+    $('form[name="SIMPLE_FORM_1"]').submit(function(e){
+        var formData = $(this).serializeArray();
+        
+        console.log(formData)
+        var inputData = formData.filter(function(item) {
+            return item['name'] == 'form_hidden_57';
+        });
+
+        if(inputData[0]['value'] == 'Первый экран – Получить консультацию'){
+            ym(54202435,'reachGoal','konsyltacia')
+        }
+        if(inputData[0]['value'] == 'Заказ презентации'){
+            ym(54202435,'reachGoal','prezent')
+        }
+        if(inputData[0]['value'] == 'План действий по маркировке'){
+            ym(54202435,'reachGoal','plandeist')
+        }
+        if(inputData[0]['value'] == 'Регистрация в Честном знаке'){
+            ym(54202435,'reachGoal','helppegis')
+        }
+        if(inputData[0]['value'] == 'Обучение'){
+            ym(54202435,'reachGoal','obycenie')
+        }
+        
+    })
+    $('form[name="wa_consultaton"]').submit(function(e){
+        ym(54202435,'reachGoal','formwhatsapp')
+    })
+    $('form[name="lifehack_form"]').submit(function(e){
+        ym(54202435,'reachGoal','laifxak')
+    })
+    
+    
+</script>
+
+
+
+</body>
+
+</html><!--'start_frame_cache_platina_conveadtracker'-->
+<!-- Convead Widget -->
+<script>
+  window.ConveadSettings = {
+    
+    
+    app_key: '94ea7e33dd5cdabcacadb76716bf5ae5'
+  };
+
+  (function(w,d,c){w[c]=w[c]||function(){(w[c].q=w[c].q||[]).push(arguments)};var ts = (+new Date()/86400000|0)*86400;var s = d.createElement('script');s.type = 'text/javascript';s.async = true;s.charset = 'utf-8';s.src = 'https://tracker.convead.io/widgets/'+ts+'/widget-94ea7e33dd5cdabcacadb76716bf5ae5.js';var x = d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);})(window,document,'convead');
+  
+</script>
+<!-- /Convead Widget --><!--'end_frame_cache_platina_conveadtracker'-->

@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="ru-RU" class="html_boxed responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_11 av-cookies-no-cookie-consent av-no-preview html_text_menu_active ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Разработка мобильных приложений</title>
+	<meta name="description" content="Разработка приложений IOS / Android для iPad/iPhone и других смартфонов. Создание систем API, полный цикл разработки и поддержка мобильных приложений." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://ios-lab.ru/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Разработка мобильных приложений" />
+	<meta property="og:description" content="Разработка приложений IOS / Android для iPad/iPhone и других смартфонов. Создание систем API, полный цикл разработки и поддержка мобильных приложений." />
+	<meta property="og:url" content="https://ios-lab.ru/" />
+	<meta property="og:site_name" content="Лаборатория IOS" />
+	<meta property="article:publisher" content="https://www.facebook.com/ioslab/" />
+	<meta property="article:author" content="http://facebook.com/quweren" />
+	<meta property="article:modified_time" content="2019-03-21T18:03:22+00:00" />
+	<meta property="og:image" content="https://ios-lab.ru/wp-content/uploads/2015/12/los-lab-logo.jpg" />
+	<meta property="og:image:width" content="637" />
+	<meta property="og:image:height" content="637" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:creator" content="@quweren" />
+	<meta name="twitter:site" content="@dotrunet" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ios-lab.ru/#website","url":"https://ios-lab.ru/","name":"\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u044f IOS","description":"\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0434\u043b\u044f iPhone, iPad","potentialAction":[{"@type":"SearchAction","target":"https://ios-lab.ru/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"ImageObject","@id":"https://ios-lab.ru/#primaryimage","inLanguage":"ru-RU","url":"https://ios-lab.ru/wp-content/uploads/2015/12/los-lab-logo.jpg","width":637,"height":637},{"@type":"WebPage","@id":"https://ios-lab.ru/#webpage","url":"https://ios-lab.ru/","name":"\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439","isPartOf":{"@id":"https://ios-lab.ru/#website"},"primaryImageOfPage":{"@id":"https://ios-lab.ru/#primaryimage"},"datePublished":"2015-11-17T05:56:33+00:00","dateModified":"2019-03-21T18:03:22+00:00","description":"\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 IOS / Android \u0434\u043b\u044f iPad/iPhone \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d\u043e\u0432. \u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c API, \u043f\u043e\u043b\u043d\u044b\u0439 \u0446\u0438\u043a\u043b \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0438 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439.","inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://ios-lab.ru/"]}]}]}</script>
+	<meta name="google-site-verification" content="IOHjx_GAtax2YA_m_JzyeegwvVn1qd9Ru9Az7grOB8Y" />
+	<meta name="yandex-verification" content="1e3318c387b9de04" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="Лаборатория IOS &raquo; Лента" href="https://ios-lab.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Лаборатория IOS &raquo; Лента комментариев" href="https://ios-lab.ru/comments/feed/" />
+
+<!-- google webfont font replacement -->
+
+			<script type='text/javascript'>
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Open+Sans:400,600';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+					<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ios-lab.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.9"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='avia-grid-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/grid.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/base.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/layout.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-audioplayer-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-blog-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-postslider-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-buttonrow-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttonrow/buttonrow.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-button-fullwidth-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-catalogue-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-comments-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-contact-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-contentpartner-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contentslider/contentslider.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-countdown-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gallery-hor-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-maps-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/google_maps/google_maps.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-gridrow-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-heading-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-rotator-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hr-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icon-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconbox-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-icongrid-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-iconlist-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-image-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-hotspot-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-magazine-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-masonry-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-siteloader-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/avia-snippet-site-preloader.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-menu-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-modfule-notification-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-numbers-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-portfolio-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-progress-bar-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-promobox-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-sc-search-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/search/search.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-accordion-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-feature-image-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_feature_image/slideshow_feature_image.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullsize-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-fullscreen-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-slideshow-ls-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-social-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabsection-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-table-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-tabs-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-team-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-testimonials-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-timeline-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-toggles-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-module-video-css'  href='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ios-lab.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='https://ios-lab.ru/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/shortcodes.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://ios-lab.ru/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.7.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-lightbox-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.7.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-widget-css-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.7.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://ios-lab.ru/wp-content/uploads/dynamic_avia/enfold.css?ver=5f03daa56c37b' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://ios-lab.ru/wp-content/themes/enfold/css/custom.css?ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://ios-lab.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/avia-compat.js?ver=4.7.3'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=G-GPFCH9NFNL' async></script>
+<script type='text/javascript'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-GPFCH9NFNL");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel='https://api.w.org/' href='https://ios-lab.ru/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ios-lab.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ios-lab.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.9" />
+<link rel='shortlink' href='https://ios-lab.ru/' />
+<link rel="alternate" type="application/json+oembed" href="https://ios-lab.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fios-lab.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ios-lab.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fios-lab.ru%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.43.0" />
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:2493009,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Лаборатория IOS RSS2 Feed" href="https://ios-lab.ru/feed/" />
+<link rel="pingback" href="https://ios-lab.ru/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://ios-lab.ru/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+
+
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google AdSense snippet added by Site Kit -->
+<script  src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9339657639268994" crossorigin="anonymous"></script>
+
+<!-- End Google AdSense snippet added by Site Kit -->
+<link rel="icon" href="https://ios-lab.ru/wp-content/uploads/2015/12/cropped-los-lab-logo-512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://ios-lab.ru/wp-content/uploads/2015/12/cropped-los-lab-logo-512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ios-lab.ru/wp-content/uploads/2015/12/cropped-los-lab-logo-512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://ios-lab.ru/wp-content/uploads/2015/12/cropped-los-lab-logo-512-270x270.png" />
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.7.3
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.7.1.1
+aviaElementManager Version: 1.0.1
+ML:512-PU:23-PLA:10
+WP:5.4.9
+Compress: CSS:disabled - JS:disabled
+Updates: disabled
+PLAu:9
+-->
+</head>
+
+
+
+
+<body id="top" class="home page-template-default page page-id-11  rtl_columns boxed open_sans" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_seperator_small_border av_bottom_nav_disabled '  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_left av_extra_header_active av_secondary_right av_phone_active_left av_entry_id_11'>
+		
+			      <div class='container'>
+			      <ul class='noLightbox social_bookmarks icon_count_6'><li class='social_bookmarks_vk av-social-link-vk social_icon_1'><a target="_blank" aria-label="Link to Vk" href='http://vk.com/dotrunet' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Vk' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Vk</span></a></li><li class='social_bookmarks_facebook av-social-link-facebook social_icon_2'><a target="_blank" aria-label="Link to Facebook" href='https://www.facebook.com/ioslab/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_skype av-social-link-skype social_icon_3'><a  aria-label="Link to Skype" href='' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Skype'><span class='avia_hidden_link_text'>Skype</span></a></li><li class='social_bookmarks_mail av-social-link-mail social_icon_4'><a  aria-label="Link to Mail" href='mailto:sales@ios-lab.ru' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Mail'><span class='avia_hidden_link_text'>Mail</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_5'><a target="_blank" aria-label="Link to Twitter" href='https://twitter.com/dotrunet' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_instagram av-social-link-instagram social_icon_6'><a target="_blank" aria-label="Link to Instagram" href='https://www.instagram.com/dotrunet/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Instagram' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Instagram</span></a></li></ul><nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><ul id="avia2-menu" class="menu"><li id="menu-item-1188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1188"><a><div id="google_translate_element"></div></a></li>
+<li id="menu-item-821" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-821"><a title="Dotrunet Group LLC" href="https://dotrunet.group/"><img style='margin-top:-2px;' src='/wp-content/themes/enfold/images/80x15.png'></a></li>
+</ul></nav><div class='phone-info with_nav'><span>+74951345520</span></div>			      </div>
+		</div>
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><span class='logo'><a href='https://ios-lab.ru/'><img height='100' width='300' src='https://ios-lab.ru/wp-content/uploads/2015/11/logo-for-enfold-300x138.png' alt='Лаборатория IOS' title='' /></a></span><nav class='main_menu' data-selectname='Выберите страницу'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-11 current_page_item menu-item-top-level menu-item-top-level-1"><a title="Лаборатория IOS" href="https://ios-lab.ru/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Главная</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2"><a title="Информация о компании" href="https://ios-lab.ru/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Компания</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Информация о компании</span></a></li>
+	<li id="menu-item-201" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://ios-lab.ru/category/news/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Новости</span></a></li>
+	<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/tech/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Стек технологий</span></a></li>
+	<li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/partners/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Партнеры Лаборатории IOS</span></a></li>
+	<li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/external/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Внешние партнеры</span></a></li>
+</ul>
+</li>
+<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a title="Цены на разработку приложений IOS/Android" href="https://ios-lab.ru/prices/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Цены</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Цены на разработку приложений IOS/Android" href="https://ios-lab.ru/prices/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Цены на разработку ПО</span></a></li>
+	<li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/prices/sites/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка сайтов</span></a></li>
+	<li id="menu-item-1136" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/chatbots/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка чат ботов</span></a></li>
+	<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a title="Описание и цены на дополнительные услуги Лаборатории IOS" href="https://ios-lab.ru/prices/advanced/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Дополнительные услуги</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1349" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/prices/mobile-app-promotion/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Продвижение приложений</span></a></li>
+		<li id="menu-item-785" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://ios-lab.ru/prices/advanced/#projects" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Проектная деятельность, ТЗ</span></a></li>
+		<li id="menu-item-794" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://ios-lab.ru/prices/advanced/#audit" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Аудит приложений</span></a></li>
+		<li id="menu-item-786" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://ios-lab.ru/prices/advanced/#support" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Сопровождение и поддержка</span></a></li>
+		<li id="menu-item-793" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://ios-lab.ru/prices/advanced/#other" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Другие услуги</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-193" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/prices/case/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Кейсы</span></a></li>
+	<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a title="Акции и спецпредложения" href="https://ios-lab.ru/promotion/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Акции и спецпредложения</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/promotion/onefree/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Клиенты Onefree</span></a></li>
+		<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/promotion/partnery-dotrunet-grupp/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Партнеры Дотрунет групп</span></a></li>
+		<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/promotion/besplatnyj-prototip/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Бесплатный прототип</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Калькулятор разработки мобильного приложения" href="https://ios-lab.ru/prices/calc/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Онлайн-калькулятор</span></a></li>
+	<li id="menu-item-302" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/form/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Бриф на разработку приложения</span></a></li>
+</ul>
+</li>
+<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-4"><a href="https://ios-lab.ru/profile/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Профили</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/profile/ios/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка приложений IOS (iPhone, iPad)</span></a></li>
+	<li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/profile/android/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка приложений Android</span></a></li>
+	<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/profile/webapp/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Приложения для Web</span></a></li>
+	<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/profile/expelex-development/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка на базе Expelex</span></a></li>
+	<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/profile/api/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Серверная платформа API</span></a></li>
+	<li id="menu-item-1175" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/profile/razrabotka-chat-botov/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка чат ботов</span></a></li>
+	<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/prices/sites/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Разработка сайтов</span></a></li>
+	<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="https://ios-lab.ru/prices/advanced/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Дополнительные услуги</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ios-lab.ru/audit_ux_ui/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Аудит пользовательского интерфейса мобильного приложения</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-5"><a href="https://ios-lab.ru/portfolio/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Портфолио</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-185" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_entries"><a title="Портфолио разработок для Apple" href="https://ios-lab.ru/portfolio_entries/ios/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">IOS (iPhone/iPad)</span></a></li>
+	<li id="menu-item-187" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_entries"><a title="Приложения для Google Android" href="https://ios-lab.ru/portfolio_entries/android/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Android (Phone/Tablet)</span></a></li>
+	<li id="menu-item-186" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_entries"><a title="Веб-приложения" href="https://ios-lab.ru/portfolio_entries/web/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Web (Бразуерные системы)</span></a></li>
+	<li id="menu-item-709" class="menu-item menu-item-type-taxonomy menu-item-object-portfolio_entries"><a href="https://ios-lab.ru/portfolio_entries/api/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Серевера API / Панели управления</span></a></li>
+</ul>
+</li>
+<li id="menu-item-386" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-top-level menu-item-top-level-6"><a title="Информационные статьи, блог и новости компании" href="https://ios-lab.ru/category/information/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Полезно</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-181" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://ios-lab.ru/category/news/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Новости</span></a></li>
+	<li id="menu-item-385" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Информационные страницы и полезная информация о работе" href="https://ios-lab.ru/category/information/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Информация и статьи</span></a></li>
+</ul>
+</li>
+<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7"><a title="Координаты и форма обратной связи" href="https://ios-lab.ru/kontakty/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Контакты</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special"><a aria-label="Поиск" href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://ios-lab.ru/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Поиск' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Поиск</span></a></li><li class="av-burger-menu-main menu-item-avia-special ">
+	        			<a href="#">
+							<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+					        <span class="av-hamburger-box">
+						          <span class="av-hamburger-inner"></span>
+						          <strong>Меню</strong>
+					        </span>
+							</span>
+						</a>
+	        		   </li></ul></div></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='88'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title '><a href='https://ios-lab.ru/' rel='bookmark' title='Постоянная ссылка: Разработка мобильных приложений'  itemprop="headline" >Разработка мобильных приложений</a></h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" ><span class="trail-before"><span class="breadcrumb-title">Вы здесь:</span></span> <span class="trail-end">Домашняя страница</span></div></div></div></div><div   class='main_color container_wrap_first container_wrap fullsize' style=' '  ><div class='container' ><main  role="main" itemprop="mainContentOfPage"  class='template-page content  av-content-full alpha units'><div class='post-entry post-entry-type-page post-entry-11'><div class='entry-content-wrapper clearfix'><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '   itemprop="text" ><h3></h3>
+<p><a href="http://ios-lab.ru/laboratoriya-ios/"></a><a href="https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode.png"><img class="alignright size-medium wp-image-55" src="https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-300x300.png" alt="" width="300" height="300" srcset="https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-300x300.png 300w, https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-80x80.png 80w, https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-36x36.png 36w, https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-180x180.png 180w, https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-120x120.png 120w, https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode-450x450.png 450w, https://ios-lab.ru/wp-content/uploads/2015/11/1450024831_Xcode.png 512w" sizes="(max-width: 300px) 100vw, 300px" /></a><a href="http://ios-lab.ru/laboratoriya-ios/">Лаборатория IOS</a>, это отраслевое направление коллектива Дотрунет Групп, специализирующееся на мобильных разработках под платформы <a href="https://ios-lab.ru/profile/ios/">IOS </a>и <a href="https://ios-lab.ru/profile/android/">Android</a>. Мы занимаемся исключительно <a href="http://ios-lab.ru/sozdanie-mobilnyh-prilozhenij/">созданием мобильных приложений</a> и системам взаимодействия (<a href="https://ios-lab.ru/profile/api/">API</a>). Узкая направленность позволяет сосредоточить усилия профессионалов именно на этом сегменте деятельности, что дает высокую эффективность в качестве и скорости разработки. Ознакомившись с материалами на нашем сайте, Вы сможете получить полную информацию о <a href="http://ios-lab.ru/proekt-kak-edinitsa-raboty/">принципах нашей работы</a>, познакомитесь с методологией подготовки <a href="http://ios-lab.ru/profile/initial_data/">исходных данных</a> для <a href="http://ios-lab.ru/razrabotka_tz/">разработки ТЗ</a> и создании приложений.</p>
+<p>Выбрав узкую направленность, мы можем предложить условия более выгодные, чем компании широкого сегмента разработки. В <a href="https://ios-lab.ru/prices/case/">разделе кейсов</a>, содержатся специальные предложения для типовых программных решений, возможно, Ваш кейс уже там.</p>
+<p>Мы стараемся работать для клиента в полную силу и создавать приложения, которые будут приносить доход. Если идея Вашего приложения будет успешно работать, то Вы обязательно к нам вернетесь и станете делать новые <a href="/zakazat-mobilnoe-prilozhenie/">заказы мобильных приложений</a> для развития собственного бизнеса.</p>
+<p>Практически все наши клиенты &#8212; стали нашими бизнес-партнерами, и мы помогаем друг другу, что для нас взаимовыгодно. Приглашаем <a href="https://ios-lab.ru/partnership/">стать нашим партнером</a> и подробней узнать о наших предложениях и услугах партнеров. Очень часто <a href="/zakazat-razrabotku-mobilnogo-prilozheniya/">заказ на разработку мобильного приложения</a> окупается еще до создания целевого продукта за счет новых полученных связей.</p>
+<p>Если Вы цените свое время, и прикладываете все усилия, чтобы оно успешно работало для Вас, то мы будем той <a href="https://ios-lab.ru/team/">командой</a>, которая поможет Вам с корректировкой цели разработки, чтобы приложения работали и зарабатывали. Наш основной подход, это умение довести работу до коммерческой реализации, а обязательное условие &#8212; <a href="http://ios-lab.ru/software_support/">программное сопровождение</a> это показатель что нам не все равно и мы точно сдадим проект в полном соответствии с <a href="/razrabotka_tz/">техническим заданием мобильного приложения</a>.</p>
+<p>Мы учим Вас зарабатывать в той сфере, которая раньше могла быть ранее недооцененной.</p>
+</div></section>
+<div class="flex_column av_one_fifth  flex_column_div first  avia-builder-el-1  el_after_av_textblock  el_before_av_one_fifth  column-top-margin" style='border-width:1px; border-color:#2d5c88; border-style:solid; padding:10px; border-radius:0px; '><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '  style='font-size:10px; '  itemprop="text" ><p><a href="https://ios-lab.ru/profile/ios/"><img class="size-full wp-image-87 aligncenter" src="https://ios-lab.ru/wp-content/uploads/2015/11/apple_topic-1.png" alt="" width="48" height="48" srcset="https://ios-lab.ru/wp-content/uploads/2015/11/apple_topic-1.png 48w, https://ios-lab.ru/wp-content/uploads/2015/11/apple_topic-1-36x36.png 36w" sizes="(max-width: 48px) 100vw, 48px" /></a></p>
+<div class="framer-main" style="text-align: center;">
+<h4>Разработка для IOS</h4>
+</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+<div class="frmer-baloon" style="text-align: center;">Полный цикл разработки приложений для устройств семейств iPhone, iPad от прототипа до размещение в AppStore. Приложения с адаптацией контента под ориентацию экрана. Сетевой обмен данными.</div>
+<div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+</div>
+</div></section>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-3  el_after_av_textblock  avia-builder-el-last ' ><a href='https://ios-lab.ru/profile/ios/'  class='avia-button av-icon-on-hover  avia-icon_select-yes-right-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_iconbox_title' >IOS</span><span class='avia_button_icon avia_button_icon_right' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></a></div></div>
+<div class="flex_column av_one_fifth  flex_column_div   avia-builder-el-4  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin" style='border-width:1px; border-color:#2d5c88; border-style:solid; padding:10px; border-radius:0px; '><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '  style='font-size:10px; '  itemprop="text" ><p><a href="https://ios-lab.ru/profile/android/"><img class="wp-image-105 size-full aligncenter" src="https://ios-lab.ru/wp-content/uploads/2015/11/android.png" alt="" width="48" height="48" srcset="https://ios-lab.ru/wp-content/uploads/2015/11/android.png 48w, https://ios-lab.ru/wp-content/uploads/2015/11/android-36x36.png 36w" sizes="(max-width: 48px) 100vw, 48px" /></a></p>
+<div class="framer-main" style="text-align: center;">
+<h4>Разработка Android</h4>
+</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+<div class="frmer-baloon" style="text-align: center;">Разработка приложений для Android устройств в формфакторе смартфона, планшета или нетбука. Применение идеологии Google в виде Материального дизайна. Тестирование на различных устройствах.</div>
+<div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+</div>
+</div></section>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-6  el_after_av_textblock  avia-builder-el-last ' ><a href='https://ios-lab.ru/profile/android/'  class='avia-button av-icon-on-hover  avia-icon_select-yes-right-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_iconbox_title' >Android</span><span class='avia_button_icon avia_button_icon_right' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></a></div></div>
+<div class="flex_column av_one_fifth  flex_column_div   avia-builder-el-7  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin" style='border-width:1px; border-color:#2d5c88; border-style:solid; padding:10px; border-radius:0px; '><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '  style='font-size:10px; '  itemprop="text" ><p><a href="https://ios-lab.ru/profile/webapp/"><img class="aligncenter wp-image-107 size-full" src="https://ios-lab.ru/wp-content/uploads/2015/11/web.png" alt="" width="48" height="48" srcset="https://ios-lab.ru/wp-content/uploads/2015/11/web.png 48w, https://ios-lab.ru/wp-content/uploads/2015/11/web-36x36.png 36w" sizes="(max-width: 48px) 100vw, 48px" /></a></p>
+<div class="framer-main" style="text-align: center;">
+<h4>Разработка Android</h4>
+</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+<div class="frmer-baloon" style="text-align: center;">Универсальные приложения для работы на всех типах устройств, в том числе и ПК. Быстрое внедрение и изменение функционала. Запуск приложений не требует дополнительной установки. Удобно для MVP.</div>
+<div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+</div>
+</div></section>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-9  el_after_av_textblock  avia-builder-el-last ' ><a href='https://ios-lab.ru/profile/webapp/'  class='avia-button av-icon-on-hover  avia-icon_select-yes-right-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_iconbox_title' >WEB</span><span class='avia_button_icon avia_button_icon_right' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></a></div></div>
+<div class="flex_column av_one_fifth  flex_column_div   avia-builder-el-10  el_after_av_one_fifth  el_before_av_one_fifth  column-top-margin" style='border-width:1px; border-color:#2d5c88; border-style:solid; padding:10px; border-radius:0px; '><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '  style='font-size:10px; '  itemprop="text" ><p><a href="https://ios-lab.ru/profile/api/"><img class="aligncenter wp-image-108 size-full" src="https://ios-lab.ru/wp-content/uploads/2015/11/api.png" alt="" width="48" height="48" srcset="https://ios-lab.ru/wp-content/uploads/2015/11/api.png 48w, https://ios-lab.ru/wp-content/uploads/2015/11/api-36x36.png 36w" sizes="(max-width: 48px) 100vw, 48px" /></a></p>
+<div class="framer-main" style="text-align: center;">
+<h4>Подготовка API</h4>
+</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+<div class="frmer-baloon" style="text-align: center;">Создание управляемого сервера данных. Интеграция с существующими системами компании. Панель администрирования системой через WEB или другое приложение. Построение отказоустойчивых систем.</div>
+<div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+</div>
+</div></section>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-12  el_after_av_textblock  avia-builder-el-last ' ><a href='https://ios-lab.ru/profile/api/'  class='avia-button av-icon-on-hover  avia-icon_select-yes-right-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_iconbox_title' >API</span><span class='avia_button_icon avia_button_icon_right' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></a></div></div>
+<div class="flex_column av_one_fifth  flex_column_div   avia-builder-el-13  el_after_av_one_fifth  el_before_av_codeblock  column-top-margin" style='border-width:1px; border-color:#2d5c88; border-style:solid; padding:10px; border-radius:0px; '><section class="av_textblock_section "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_textblock  '  style='font-size:10px; '  itemprop="text" ><p><a href="https://ios-lab.ru/profile/sites/"><img class="aligncenter wp-image-109 size-full" src="https://ios-lab.ru/wp-content/uploads/2015/11/html.png" alt="" width="48" height="48" srcset="https://ios-lab.ru/wp-content/uploads/2015/11/html.png 48w, https://ios-lab.ru/wp-content/uploads/2015/11/html-36x36.png 36w" sizes="(max-width: 48px) 100vw, 48px" /></a></p>
+<div class="framer-main" style="text-align: center;">
+<h4>Создание сайтов</h4>
+</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+<div class="frmer-baloon" style="text-align: center;">Создание современных сайтов для бизнеса. Публикация сопроводительной информации о работе приложений. Адаптивный дизайн под любые разрешения экрана, а также для просмотра на планшете или телефоне.</div>
+<div>
+<div style="text-align: center;"><span style="color: #ffffff;">&#8212;</span></div>
+</div>
+</div></section>
+<div  class='avia-button-wrap avia-button-center  avia-builder-el-15  el_after_av_textblock  avia-builder-el-last ' ><a href='https://ios-lab.ru/profile/sites/'  class='avia-button av-icon-on-hover  avia-icon_select-yes-right-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_iconbox_title' >Сайты</span><span class='avia_button_icon avia_button_icon_right' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></a></div></div>
+<section class="avia_codeblock_section  avia_code_block_0"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class='avia_codeblock '  itemprop="text" ><link rel="stylesheet" type="text/css" media="all" href="/app_showcase/showcase.css">
+
+<script type="text/javascript" src="/app_showcase/js/jquery-1.10.1.min.js"></script>
+<!--<script type="text/javascript" src="/app_showcase/js/jquery.mousewheel-3.0.6.pack.js"></script>-->
+
+<!-- fancyBox -->
+<link rel="stylesheet" href="/app_showcase/fancybox/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/app_showcase/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript" src="/app_showcase/js/showcase.js"></script>
+<div style="clear:both;"></div>
+
+<div class="showcase-wrap" >
+
+        <div class=descripter>
+               <a href="javascript:void(0);" onclick="getElementById('tst1').click();" onmouseover="show_app_slide(1);"  class="" rel=''><b>Добро пожаловать</b></a>
+               <p  onmouseover="show_app_slide(1);">Предлагаем Вам начать знакомство с материалов, представленных на сайте. Мы постарались отобразить все <a href='http://ios-lab.ru/proekt-kak-edinitsa-raboty/'>ключевые моменты</a> нашей работы. Узнайте почему мы <a href='http://ios-lab.ru/laboratoriya-ios/'>лаборатория</a>. Много полезной информации приведено в <a href='http://ios-lab.ru/category/blog/'>статьях</a>. В процессе работы, мы обязательно научим Вас тонкостям, которые необходимы при <a href='ios-lab.ru/zakazat-mobilnoe-prilozhenie/'>заказе мобильного приложения</a> и работе со своими приложениями.</p>
+
+               <a href="javascript:void(0);" onclick="getElementById('tst2').click();" onmouseover="show_app_slide(2);"><b>Ключевые цели</b></a>
+               <p onmouseover="show_app_slide(2);">Наше основное направление деятельности, это <a href='https://ios-lab.ru/profile/ios/'>разработка приложений IOS (iPhone, iPad)</a>, <a href='https://ios-lab.ru/profile/android/'>создание приложений Android</a>, <a href='https://ios-lab.ru/profile/webapp/'>программирование WEB 2.0</a>. Для обеспечения информационной части, мы <a href='https://ios-lab.ru/profile/api/'>разрабатываем сервера взаимодействия (API)</a>. Для веб-проектов, мы <a href='https://ios-lab.ru/profile/sites/'>разрабатываем сайты</a>.</p>
+
+               <a href="javascript:void(0);" onclick="getElementById('tst3').click();" onmouseover="show_app_slide(3);"><b>Цены и сроки</b></a>
+               <p onmouseover="show_app_slide(3);">Ценообразование зависит от сложности проекта и его продолжительности. Принцип формирования цены и сроков, Вы можете узнать <a href='http://ios-lab.ru/ocenka_stoimosti/' alt='Оценка стоимость мобильного приложения'>тут</a>. Стоимость базовых версий приложений, вы можете ознакомиться в разделе <a href='https://ios-lab.ru/prices/'>цен</a>. Для примера, мы разобрали <a href='http://ios-lab.ru/iz-chego-skladyvaetsya-stoimost-razrabotki-mobilnogo-prilozheniya/'>оценку трудозатрат на типовой проект мобильного приложения</a>.</p>
+        </div>
+
+
+	<div class="image-wrap">
+		<figure id="item-1" class="featured-thumbnail thumbnail active">
+			<a href="/app_showcase/screens_ios-lab_1.jpg" title="Добро пожаловать в Лабораторию IOS" class="fancybox1" id=tst1 rel="group"><img src="/app_showcase/screens_ios-lab_1_small.jpg" alt=""><span class="zoom-icon"></span></a>
+		</figure>
+		<figure id="item-2" class="featured-thumbnail thumbnail">
+			<a href="/app_showcase/screens_ios-lab_2.jpg" title="Ключевые цели" class="fancybox1" id=tst2  rel="group"><img src="/app_showcase/screens_ios-lab_2_small.jpg" alt=""><span class="zoom-icon"></span></a>
+		</figure>
+		<figure id="item-3" class="featured-thumbnail thumbnail">
+			<a href="/app_showcase/screens_ios-lab_3.jpg" title="Стоимость создания приложений" class="fancybox1" id=tst3 rel="group"><img src="/app_showcase/screens_ios-lab_3_small.jpg" alt=""><span class="zoom-icon"></span></a>
+		</figure>
+		<figure id="item-4" class="featured-thumbnail thumbnail">
+			<a href="/app_showcase/screens_ios-lab_4.jpg" title="Бесплатный прототип" class="fancybox1" id=tst4  rel="group"><img src="/app_showcase/screens_ios-lab_4_small.jpg" alt=""><span class="zoom-icon"></span></a>
+		</figure>
+		<figure id="item-5" class="featured-thumbnail thumbnail">
+			<a href="/app_showcase/screens_ios-lab_5.jpg" title="Комплексные решения" class="fancybox1" id=tst5 rel="group"><img src="/app_showcase/screens_ios-lab_5_small.jpg" alt=""><span class="zoom-icon"></span></a>
+		</figure>
+		<figure id="item-6" class="featured-thumbnail thumbnail">
+			<a href="/app_showcase/screens_ios-lab_6.jpg" title="Сильные качества" class="fancybox1"  id=tst6 rel="group"><img src="/app_showcase/screens_ios-lab_6_small.jpg" alt=""><span class="zoom-icon"></span></a>
+		</figure>
+	</div>
+
+        <div class=descripter >
+               <a href="javascript:void(0);" onclick="getElementById('tst4').click();" onmouseover="show_app_slide(4);"><b>Бесплатный прототип</b></a>
+               <p onmouseover="show_app_slide(4);">Для быстрого и безболезненного знакомства с нами, мы предлагаем <a href='http://ios-lab.ru/promotion/besplatnyj-prototip/'>бесплатную услугу по созданию прототипа</a>. Вы сможете оценить качество нашей работы, а также предложить прототип своим потенциальным клиентам, партнерам или собственной фокус-группе. Узнайте больше - <a href='http://ios-lab.ru/prototype/'>зачем нужен прототип</a>.</p>
+
+               <a href="javascript:void(0);" onclick="getElementById('tst5').click();" onmouseover="show_app_slide(5);"><b>Выгода в кейсе</b></a>
+               <p onmouseover="show_app_slide(5);">Для решения типовых или комплексных задач, мы подготовили <a href='https://ios-lab.ru/prices/case/'>кейсы</a> с выгодными предложениями, например <a href='ios-lab.ru/mobilnoe-prilozhenie-dlya-restorana/'>мобильное приложение для ресторана</a> или  <a href=ios-lab.ru/mobilnoe-prilozhenie-dlya-internet-magazina/'>мобильное приложение для интернет магазина</a> стоят почти в 3 раза дешевле обычного. Обратите внимание и на наши <a href='https://ios-lab.ru/prices/advanced/'>дополнительные услуги</a>, которые могут быть полезны в сфере связанной с применением мобильных приложений.</p>
+
+              <a href="javascript:void(0);" onclick="getElementById('tst6').click();" onmouseover="show_app_slide(6);"><b>Преимущества</b></a>
+               <p onmouseover="show_app_slide(6);">Мы - <a href='ios-lab.ru/studiya-razrabotki-mobilnyh-prilozhenij/'>студия разработки мобильных приложений</a>, а не <a href='/freelancers/'>фриланс-сообщество</a>. Лаборатория IOS входит в <a href='https://ios-lab.ru/partners/'>состав "Дотрунет Групп"</a>. Мы берем на себя цикл <a href='ios-lab.ru/proektirovanie-i-razrabotka-mobilnyh-prilozhenij/'>проектирования и разработка мобильных приложений</a> и обеспечиваем надлежащее качество и предоставляем гарантию на услуги. Будем рады встретить Вас у себя в <a href='https://ios-lab.ru/kontakty/'>офисе (м.Бауманская)</a>, где покажем и расскажем о нашей деятельности.</p>
+        </div>
+
+</div> 
+
+<div style="clear:both;"></div></div></section>
+<div class="flex_column av_three_fifth  flex_column_div av-zero-column-padding first  avia-builder-el-17  el_after_av_codeblock  el_before_av_one_fifth  " style='border-radius:0px; '><div  style='padding-bottom:10px; ' class='av-special-heading av-special-heading-h4    avia-builder-el-18  avia-builder-el-no-sibling  '><h4 class='av-special-heading-tag '  itemprop="headline"  >Скачать презентацию</h4><div class='special-heading-border'><div class='special-heading-inner-border' ></div></div></div></div>
+<div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-19  el_after_av_three_fifth  el_before_av_one_fifth  " style='border-radius:0px; '><div  class='avia-button-wrap avia-button-center  avia-builder-el-20  avia-builder-el-no-sibling ' ><a href='http://ios-lab.ru/wp-content/uploads/presentation/ios-lab.ru_mobile_development.pptx'  class='avia-button av-icon-on-hover  avia-icon_select-yes-left-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >PowerPoint (.pptx)</span></a></div></div>
+<div class="flex_column av_one_fifth  flex_column_div av-zero-column-padding   avia-builder-el-21  el_after_av_one_fifth  el_before_av_promobox  " style='border-radius:0px; '><div  class='avia-button-wrap avia-button-center  avia-builder-el-22  avia-builder-el-no-sibling ' ><a href='http://ios-lab.ru/wp-content/uploads/presentation/ios-lab.ru_mobile_development.pdf'  class='avia-button av-icon-on-hover  avia-icon_select-yes-left-icon avia-color-theme-color avia-size-small avia-position-center '   ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Adobe Reader (.pdf)</span></a></div></div>
+	<div   class='av_promobox  avia-button-yes   avia-builder-el-23  el_after_av_one_fifth  el_before_av_button_big  avia-builder-el-last '>		<div class='avia-promocontent'><p>
+Думаете начать, но не знаете с чего? Первый этап в разработке программы &#8212; это прототип. Мы подготовим для Вас прототип совершенно бесплатно!</p>
+</div><div  class='avia-button-wrap avia-button-right ' ><a href='https://ios-lab.ru/promotion/besplatnyj-prototip/'  class='avia-button   avia-icon_select-no avia-color-theme-color avia-size-large avia-position-right '   ><span class='avia_iconbox_title' >Бесплатный прототип</span></a></div></div>
+</div></div></main><!-- close content main element --></div></div><div id='----'  class='main_color av-fullscreen-button avia-no-border-styling  avia-builder-el-24  el_after_av_promobox  avia-builder-el-last  container_wrap fullsize' style=' '  ><div  class='avia-button-wrap avia-button-center  avia-builder-el-24  el_after_av_promobox  avia-builder-el-last ' ><a href='http://ios-lab.ru/prices/calc/' class='avia-button avia-button-fullwidth  av-icon-on-hover avia-icon_select-yes-left-icon avia-color-theme-color '  style='color:#ffffff; ' ><span class='avia_button_icon avia_button_icon_left ' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span><span class='avia_iconbox_title' >Калькулятор стоимости разработки мобильного приложения</span><span class='avia_button_background avia-button avia-button-fullwidth avia-color-theme-color-subtle' ></span></a></div></div>
+<div><div>		</div><!--end builder template--></div><!-- close default .container_wrap element -->						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="text-4" class="widget clearfix widget_text"><h3 class="widgettitle"> </h3>			<div class="textwidget"><center>
+<img src='https://ios-lab.ru/wp-content/uploads/2016/04/los-lab-logo_grey.png' style='width:120px;'>
+</center><br>
+Лаборатория IOS - Разработка программного обеспечения iPhone, iPad, Android, Web.<br>
+&copy; Копирование материалов сайта запрещено. Интеллектуальная собственность принадлежит ООО "Дотрунет групп"</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="nav_menu-3" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Компания и услуги</h3><div class="menu-footer_menu_prices-container"><ul id="menu-footer_menu_prices" class="menu"><li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="https://ios-lab.ru/about/">Информация о компании</a></li>
+<li id="menu-item-483" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-483"><a href="https://ios-lab.ru/laboratoriya-ios/">Лаборатория IOS</a></li>
+<li id="menu-item-484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-484"><a href="https://ios-lab.ru/partners/">Партнеры Лаборатории IOS</a></li>
+<li id="menu-item-485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-485"><a href="https://ios-lab.ru/tech/">Стек технологий</a></li>
+<li id="menu-item-486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://ios-lab.ru/kontakty/">Контакты</a></li>
+<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://ios-lab.ru/prices/">Цены</a></li>
+<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://ios-lab.ru/prices/case/">Кейсы</a></li>
+<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="https://ios-lab.ru/prices/advanced/">Дополнительные услуги</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="nav_menu-5" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Профили разработки</h3><div class="menu-footer_menu_profiles-container"><ul id="menu-footer_menu_profiles" class="menu"><li id="menu-item-477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://ios-lab.ru/profile/ios/">Разработка приложений IOS</a></li>
+<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="https://ios-lab.ru/profile/android/">Разработка приложений Android</a></li>
+<li id="menu-item-479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-479"><a href="https://ios-lab.ru/profile/webapp/">Приложения для Web</a></li>
+<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://ios-lab.ru/profile/api/">Серверная платформа API</a></li>
+<li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="https://ios-lab.ru/profile/sites/">Создание сайтов</a></li>
+<li id="menu-item-489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-489"><a href="https://ios-lab.ru/audit_ux_ui/">Аудит пользовательского интерфейса мобильного приложения</a></li>
+<li id="menu-item-488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-488"><a href="https://ios-lab.ru/form/">Бриф на разработку приложения</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section class='widget widget_archive'><h3 class='widgettitle'>Архив</h3><ul>	<li><a href='https://ios-lab.ru/2019/07/'>Июль 2019</a></li>
+	<li><a href='https://ios-lab.ru/2019/06/'>Июнь 2019</a></li>
+	<li><a href='https://ios-lab.ru/2019/05/'>Май 2019</a></li>
+	<li><a href='https://ios-lab.ru/2018/02/'>Февраль 2018</a></li>
+	<li><a href='https://ios-lab.ru/2018/01/'>Январь 2018</a></li>
+	<li><a href='https://ios-lab.ru/2017/11/'>Ноябрь 2017</a></li>
+	<li><a href='https://ios-lab.ru/2017/08/'>Август 2017</a></li>
+	<li><a href='https://ios-lab.ru/2017/03/'>Март 2017</a></li>
+	<li><a href='https://ios-lab.ru/2016/10/'>Октябрь 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/09/'>Сентябрь 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/08/'>Август 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/07/'>Июль 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/06/'>Июнь 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/04/'>Апрель 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/03/'>Март 2016</a></li>
+	<li><a href='https://ios-lab.ru/2016/02/'>Февраль 2016</a></li>
+	<li><a href='https://ios-lab.ru/2015/12/'>Декабрь 2015</a></li>
+	<li><a href='https://ios-lab.ru/2015/11/'>Ноябрь 2015</a></li>
+</ul><span class='seperator extralight-border'></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>2014 - 2022 &copy <a href='http://ios-lab.ru'>Лаборатория IOS</a>&nbsp;|&nbsp;<a href='http://dotrunet.ru' target=_blank>ООО "Дотрунет групп"</a>&emsp;</span>&emsp;
+                        
+                        
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter35071320 = new Ya.Metrika({
+                    id:35071320,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/35071320" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="https://counter.rambler.ru/top100.jcn?4431408"></script>
+<noscript>
+<img src="https://counter.rambler.ru/top100.cnt?4431408" alt="" width="1" height="1" border="0" />
+</noscript>
+<!-- end of Top100 code -->
+
+<a title="Участник проекта CMS Magazine" href="//cmsmagazine.ru/creators/ios-lab/?_type_jump=by_our_banner" target="_blank" content="nofollow"  rel="nofollow" >
+  <img alt="Участник проекта CMS Magazine" title="Участник проекта CMS Magazine" src="//cmsmagazine.ru/img/counters/gray_3.gif" border="0" />
+</a>
+
+<!-- Dotrunet Group code -->
+<a href='https://dotrunet.group/' alt='Дотрунет групп'>
+	<img src='https://ios-lab.ru/wp-content/themes/enfold/images/88x31.png' alt='Дотрунет групп'>
+</a>
+
+
+<!-- Dotrunet Group code -->
+
+                        <ul class='noLightbox social_bookmarks icon_count_6'><li class='social_bookmarks_vk av-social-link-vk social_icon_1'><a target="_blank" aria-label="Link to Vk" href='http://vk.com/dotrunet' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Vk' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Vk</span></a></li><li class='social_bookmarks_facebook av-social-link-facebook social_icon_2'><a target="_blank" aria-label="Link to Facebook" href='https://www.facebook.com/ioslab/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_skype av-social-link-skype social_icon_3'><a  aria-label="Link to Skype" href='' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Skype'><span class='avia_hidden_link_text'>Skype</span></a></li><li class='social_bookmarks_mail av-social-link-mail social_icon_4'><a  aria-label="Link to Mail" href='mailto:sales@ios-lab.ru' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Mail'><span class='avia_hidden_link_text'>Mail</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_5'><a target="_blank" aria-label="Link to Twitter" href='https://twitter.com/dotrunet' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_instagram av-social-link-instagram social_icon_6'><a target="_blank" aria-label="Link to Instagram" href='https://www.instagram.com/dotrunet/' aria-hidden='false' data-av_icon='' data-av_iconfont='entypo-fontello' title='Instagram' rel="noopener noreferrer"><span class='avia_hidden_link_text'>Instagram</span></a></li></ul>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<a href='#top' title='Прокрутить наверх' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Прокрутить наверх</span></a>
+
+<div id="fb-root"></div>
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://ios-lab.ru/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://ios-lab.ru/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://ios-lab.ru/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/avia.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/shortcodes.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/audio-player/audio-player.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/countdown/countdown.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery_horizontal/gallery_horizontal.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/headline_rotator/headline_rotator.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icongrid/icongrid.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image_hotspots/image_hotspots.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/isotope.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/menu/menu.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/notification/notification.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/portfolio/portfolio.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/progressbar/progressbar.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_accordion/slideshow_accordion.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tab_section/tab_section.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.4.9'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.7.3'></script>
+<script type='text/javascript' src='https://ios-lab.ru/wp-includes/js/wp-embed.min.js?ver=5.4.9'></script>
+
+<script type='text/javascript'>
+			
+	(function($) {
+					
+			/*	check if google analytics tracking is disabled by user setting via cookie - or user must opt in.	*/
+					
+			var analytics_code = "<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https:\/\/www.google-analytics.com\/analytics.js','ga');\n\n  ga('create', 'UA-92969878-1', 'auto');\n  ga('send', 'pageview');\n\n<\/script>".replace(/\"/g, '"' );
+			var html = document.getElementsByTagName('html')[0];
+
+			$('html').on( 'avia-cookie-settings-changed', function(e) 
+			{
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+					var script_loaded = $( 'script.google_analytics_scripts' );
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleTrackingDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+
+					if( ! allow_continue )
+					{ 
+//						window['ga-disable-UA-92969878-1'] = true;
+						if( script_loaded.length > 0 )
+						{
+							script_loaded.remove();
+						}
+					}
+					else
+					{
+						if( script_loaded.length == 0 )
+						{
+							$('head').append( analytics_code );
+						}
+					}
+			});
+			
+			$('html').trigger( 'avia-cookie-settings-changed' );
+						
+	})( jQuery );
+				
+</script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = '2mON5b084X';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2789649", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2789649;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+<!-- JivoChat to CRM -->
+<script
+  src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+  integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+  crossorigin="anonymous"></script>
+<script type="text/javascript">
+    
+    document.addEventListener("DOMContentLoaded", function(){
+    //$(document).ready(function(){
+        console.log('start');
+        function sendToCrm() {
+            var data = {
+                "rows": [
+                    {"cells": [
+                        {"column": "c-exs5HFjfxs", "value": "Чат"},
+                        {"column": "c-vkg-ac7Hlb", "value": Math.round(new Date() / 1000)},
+                        {"column": "c-2JHKlY9CRD", "value": window.location.href},
+                        {"column": "c-mq9hXXoRip", "value": $('.fieldWrap_743 input[type=name]').val()},
+                        {"column": "c-ASLfUSb-WF", "value": $('.fieldWrap_743 input[type=tel]').val()},
+                        {"column": "c-hYWQceoWDH", "value": $('.fieldWrap_743 input[type=email]').val()}
+                    ]}
+                ]
+            }
+            $.ajax({
+                type: "POST",
+                url: 'https://coda.io/apis/v1beta1/docs/LRoSO_z-ZP/tables/grid-4I1cupKNCp/rows',
+                success: function (data, status) { // update your success function
+                    console.log("success");
+                },
+                dataType: "json",
+                crossDomain: true,
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(data),
+                cache: false,
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader("Authorization", "Bearer 716a5f56-01a8-4ba6-aa99-db8e1fe7863e");
+                },
+            });
+        }
+
+        var refreshIntervalId = setInterval(alertFunc, 1000);
+        
+        function alertFunc() {
+          if ($(".button_95f").length) {
+              
+              $( ".button_95f" ).on('click touch  touchstart', function () {
+                  console.log( "Sending" );
+                  sendToCrm();
+                });
+              console.log("Exists!");
+              clearInterval(refreshIntervalId);
+          }
+        }
+    });
+    /*});*/
+</script>
+<!-- JivoChat to CRM -->
+
+</body>
+</html>

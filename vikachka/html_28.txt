@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: https://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" type="image/png" sizes="120x120" href="https://www.online-ufa.ru/favicon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.online-ufa.ru/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.online-ufa.ru/favicon-16x16.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="https://www.online-ufa.ru/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="512x512" href="https://www.online-ufa.ru/android-chrome-512x512.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.online-ufa.ru/apple-touch-icon.png">
+	<link rel="shortcut icon" href="https://www.online-ufa.ru/favicon.ico" type="image/x-icon"/>
+	<meta name="msapplication-square150x150logo" content="https://www.online-ufa.ru/mstile-150x150.png">
+	<meta name="yandex-verification" content="7a3bb45e11f233cb" />
+        <meta name="yandex-verification" content="6a0e6c4b0c9fdcd5" />
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="keywords" content="ООО Онлайн, 1С Уфа, 1С, запуск 1С, 1с 8.2, 1с 8.3, купить 1с предприятие 8.3 в Уфе, купить 1с бухгалтерия 8.3 в Уфе, программа 1с в Уфе, 1с управление, внедрение 1С в Уфе, сопровождение 1С в Уфе и  Башкирии, обновление 1С в Уфе, ИТС 1С, 1С ИТС в Уфе, 1с торговля, 1с зарплата, 1с зуп, 1с склад, купить 1с в Уфе, курсы 1с, обучение 1с, 1с торговля и склад, 1с зарпалта и кадры, 1с управление торговлей, 1с упп, настройка 1с, упп 1с, внедрение 1с упп в Уфе, 1с цена, прайс 1с, стоимость 1с, установить 1с в Уфе, 1с ут, 1с кадры, платформа 1с, версии 1с, установка 1с, отчетность 1с, 1с пфр, 1с фнс, 1с фсс, программист 1с, 1с управление производственным предприятием, 1с усн, 1с упрощенка, программирование 1с, лицензии 1с, ключи 1с, 1с управление персоналом, 1с розница, 1с sql, автоматизация 1с, программа 1с предприятие, 1с базовая, 1с зарплата управление персоналом, 1с управление предприятием, обновить 1с в Уфе и Башкирии, 1с производство, покупка 1с в Уфе и Башкирии, 1с магазин, выбор 1с, 1с бухгалтерия предприятия, описание 1с, 1с проф, специалист 1с, система 1с предприятие, разработка 1с, продукция 1с, 1с бгу, 1с бюджетная, 1с бюджет" />
+<meta name="description" content="Программы 1C Бухгалтерия / 1С Предприятие для автоматизации коммерческих предприятий и государственных учреждений от Компаниии &quot;Онлайн&quot; в Уфе. Опыт работы в сфере внедрения 1С с 1995 г. Тысячи довольных клиентов" />
+<link href="/bitrix/cache/css/ru/online/page_821f71fcdf5e445b05a6269bfb25ac8e/page_821f71fcdf5e445b05a6269bfb25ac8e_f13ac6b2636b98142a9956a0a4315bc5.css?15655018531724" type="text/css" rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/online/kernel_main/kernel_main.css?156550192443479" type="text/css" rel="stylesheet" />
+<link href="/bitrix/cache/css/ru/online/template_1686f3ccd0892d2d0a1c0150e4aeaa9a/template_1686f3ccd0892d2d0a1c0150e4aeaa9a_fea90338fdeb213e65a32fb8725d03d4.css?160296675170344" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script><script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_ONL','USER_ID':'','SERVER_TIME':'1646213439','SERVER_TZ_OFFSET':'10800','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'2c0847bb2a6d9a30d73a1aac8d01f608','SITE_ID':'ru'});(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.js?138794573876124"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_ajax.js?138794573328774"></script>
+<script type="text/javascript" src="/bitrix/js/main/session.js?13123458983157"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_fx.js?136494070916537"></script>
+
+<script type="text/javascript">
+bxSession.Expand(86400, '2c0847bb2a6d9a30d73a1aac8d01f608', false, '86c5912a775dbe9d8660da038672861b');
+</script>
+
+
+
+<script type="text/javascript" src="/bitrix/templates/online/components/bitrix/sale.basket.basket.line/korz/script.js?14883475505292"></script>
+
+	
+		
+
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org/",
+"@type": "Organization",
+"name": "",
+"telephone": "",
+"email": "",
+"address": {
+    "@type": "PostalAddress",
+    "addressLocality": "",
+    "streetAddress": ""
+  }
+}
+</script>
+
+	
+	<title>Автоматизация коммерческих предприятий и бюджетных организаций на базе программных продуктов системы 1С:Предприятие / 1С:Бухгалтерия - от продажи и обучения до ввода в эксплуатацию и дальнейшего сопровождения</title>
+<meta property = "og:title" content = 'Автоматизация коммерческих предприятий и бюджетных организаций на базе программных продуктов системы 1С:Предприятие / 1С:Бухгалтерия - от продажи и обучения до ввода в эксплуатацию и дальнейшего сопровождения' />
+<meta property = "og:type" content = "website" />
+<meta property = "og:image" content = "/bitrix/templates/btipb/images/logo.png" />
+<meta property = "og:description" content = "Автоматизация коммерческих предприятий и бюджетных организаций на базе программных продуктов системы 1С:Предприятие / 1С:Бухгалтерия - от продажи и обучения до ввода в эксплуатацию и дальнейшего сопровождения" />	
+<meta property = "og:url" content = "//index.php" />	
+
+<style>
+.swiper-container {width: 100%;height: 100%;}
+.swiper-slide {text-align: center;font-size: 18px;background: #fff;display: -webkit-box;display: -ms-flexbox;display: -webkit-flex;display: flex;-webkit-box-pack: center;-ms-flex-pack: center;-webkit-justify-content: center;justify-content: center;-webkit-box-align: center;-ms-flex-align: center;-webkit-align-items: center;align-items: center;}
+</style>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(56297740, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/56297740" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</head>
+<body class="home">
+<div id="panel"></div>
+<div id="scroller" class="b-top"><span class="b-top-but">наверх</span></div>
+<div class="row" id="header">	
+	<div class="header">
+<div id="menu_text_mobil"></div>	
+		<div class="logo">
+			<a href="/"></a>
+		</div>
+		<div class="menu">
+			<div class="menu_osek">
+				<p><a href="/about/">О компании</a></p>
+				<p><a href="/action/">Акции</a></p>				
+			</div>
+			<div class="menu_osek">
+				<p><a href="/katalog/">Каталог</a></p>
+				<p><a href="/price/">Прайс-лист</a></p>				
+			</div>
+			<div class="menu_osek">
+				<p><a href="/uchebnyj-center-1c/">Учебный центр 1С</a></p>
+				<p><a href="/market/">Интернет магазин</a></p>				
+			</div>
+			<div class="menu_osek">
+				<p><a href="/content/">Контент</a></p>
+				<p><a href="/kontakty/">Контакты</a></p>				
+			</div>			
+		</div>	
+		<div class="korz_sec">
+			<div class="korz_sec_v" onclick="yaCounter10967758.reachGoal('CEL7');"><a href="/personal/order/"></a></div>
+
+
+
+<div class="korz_sec_n">
+<a href="/personal/cart/">
+</a>
+</div>	
+			
+					
+		</div>	
+
+		<div class="poisk">
+
+<form action="/search/">
+
+<input name="s" class="butt_search" type="submit" value="" />
+
+<input class="inp_search" type="text" name="q" value="" placeholder="Поиск..." size="15" maxlength="50" />
+
+</form>
+				
+		</div>	
+		<div class="tel">
+			<div class="tel_verh">
++7 (347) 223-82-28					
+			</div>
+			<div class="tel_zakaz" onclick="tema_os('Заказ звонка','Заказать звонок');yaCounter10967758.reachGoal('CEL1');">
+				Заказать звонок
+			</div>
+		</div>
+	</div>
+</div>	
+<div id="m_menu_ob">
+	<div class="close_f">
+		x
+	</div>
+<div id="m_menu_ob_sroll">
+	<div class="m_menu"><a href="/about/">О компании</a></div>	
+	<div class="m_menu"><a href="/action/">Акции</a></div>	
+	<div class="m_menu"><a href="/katalog/">Каталог</a></div>	
+	<div class="m_menu"><a href="/price/">Прайс-лист</a></div>		
+	<div class="m_menu"><a href="/uchebnyj-center-1c/">Учебный центр 1С</a></div>	
+	<div class="m_menu"><a href="/market/">Интернет магазин</a></div>	
+	<div class="m_menu"><a href="/content/">Контент</a></div>			
+	<div class="m_menu"><a href="/kontakty/">Контакты</a></div>			
+</div>
+</div>	
+
+ 
+<div class="row" id="slader">	 	 
+  <div class="men_left">	 		 
+    <div class="men_left_rab"> 			 
+      <div class="men_left_rab_item"><a href="/content/news/" >Новости</a></div>
+     			 
+      <div class="men_left_rab_item"><a href="/content/events/" >Мероприятия</a></div>
+     			 
+      <div class="men_left_rab_item"><a href="/content/articles/" >Статьи</a></div>
+     			 
+      <div class="men_left_rab_item men_left_rab_act"><a href="/action/" >Акции</a></div>
+     			 		</div>
+   	</div>
+ 
+  <div class="swiper-container"> 
+    <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="news_sl_item" id="bx_1914200112_2706" style="background: url(/upload/iblock/011/1cfresh-banner-207.png) no-repeat 50% 0;">
+		<div class="news_sl_item_td">
+			<div class="news_sl_item_td_cell">
+		
+<div align="center"> 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <div align="left">              <a href="/service/1c-fresh.php" title="1С:Фреш. 1С:Предприятие в &quot;Облаке&quot;" target="_blank" ><img src="/action/button-more-06.png" border="0" width="211" height="58"  /></a></div>
+ </div>
+ 		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="news_sl_item" id="bx_1914200112_2519" style="background: url(/upload/iblock/d7b/1cfresh-banner-202.png) no-repeat 50% 0;">
+		<div class="news_sl_item_td">
+			<div class="news_sl_item_td_cell">
+		
+<div align="center"> 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <div align="right">              <a href="/service/1c-fresh.php" title="1С:Фреш. 1С:Предприятие в &quot;Облаке&quot;" target="_blank" ><img src="/action/button-more-06.png" border="0" width="211" height="58"  /></a></div>
+ </div>
+ 		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="news_sl_item" id="bx_1914200112_2388" style="background: url(/upload/iblock/12f/1cfresh-banner-150.png) no-repeat 50% 0;">
+		<div class="news_sl_item_td">
+			<div class="news_sl_item_td_cell">
+		<a href="/service/1c-fresh.php" target="_parent" ><img src="/action/button-1cfresh-fon-01.png" border="0" width="500" height="280" title="/service/1c-fresh.php"  /></a> 		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="news_sl_item" id="bx_1914200112_2409" style="background: url(/upload/iblock/fa4/1cfresh-banner-167.png) no-repeat 50% 0;">
+		<div class="news_sl_item_td">
+			<div class="news_sl_item_td_cell">
+		
+<div align="center"> 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <br />
+ 
+  <div align="left">              <a href="/service/1c-fresh.php" title="1С:Фреш. 1С:Предприятие в &quot;Облаке&quot;" target="_blank" ><img src="/action/button-more-06.png" border="0" width="211" height="58"  /></a></div>
+ </div>
+ 		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="news_sl_item" id="bx_1914200112_2529" style="background: url(/upload/iblock/903/1cfresh-banner-203.png) no-repeat 50% 0;">
+		<div class="news_sl_item_td">
+			<div class="news_sl_item_td_cell">
+		
+<h3 align="right">
+  <br />
+ </h3>
+
+<div>
+  <br />
+</div>
+ 
+<h3 align="right"><font color="#EBEBEB">Серверное оборудование</font></h3>
+<font color="#EBEBEB">   </font>
+<h3 align="right"><font color="#EBEBEB">Персональные компьютеры</font></h3>
+<font color="#EBEBEB">   </font>
+<h3 align="right"><font color="#EBEBEB">Компьютерные сети </font> 
+  <br />
+ </h3>
+ 		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+
+
+ </div>
+   
+    <div class="swiper-button-next"></div>
+   
+    <div class="swiper-button-prev"></div>
+   </div>
+ </div>
+ 	 
+<div class="row">	 	 
+  <div class="uslugi_gl"> 		 
+    <div class="uslugi_gl_item">			 			 
+      <div class="uslugi_gl_item_img" style="background: transparent url(&quot;/bitrix/templates/online/images/img1.png&quot;) no-repeat scroll 50% 50%;"></div>
+     			 
+      <div class="uslugi_gl_item_name"> 				 
+        <div class="uslugi_gl_item_name_cell"> 					Программы 1С: Предприятие 				</div>
+       			</div>
+     			 
+      <div class="uslugi_gl_item_text"> 				 
+        <div class="uslugi_gl_item_text_td_ob"> 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/production/1c_products/1c_accounting.php" >1С: Бухгалтерия</a> 					</div>
+         					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/production/1c_products/1c-zup.php" >1С Зарплата и 
+              <br />
+             управление персоналом</a> 					</div>
+         			 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/production/1c_products/1c_trade_management.php" >1С: Управление торговлей</a> 					</div>
+         				 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/production/1c_products/1c_doc.php" >1С: Документооборот</a> 					</div>
+         				</div>
+       	 				 
+        <div class="uslugi_gl_item_text_vse">					 					 
+          <div class="uslugi_gl_item_text_vse_td"> 						<a href="/production/1c_products/" >Посмотреть все</a> 					</div>
+         	 				</div>
+       					 			</div>
+     		</div>
+   		 
+    <div class="uslugi_gl_item">			 			 
+      <div class="uslugi_gl_item_img" style="background: transparent url(&quot;/bitrix/templates/online/images/img2.png&quot;) no-repeat scroll 50% 50%;"></div>
+     			 
+      <div class="uslugi_gl_item_name"> 				 
+        <div class="uslugi_gl_item_name_cell"> 					Сопровождение, обслуживание и внедрение программ 1С 				</div>
+       			</div>
+     			 			 
+      <div class="uslugi_gl_item_text"> 				 
+        <div class="uslugi_gl_item_text_td_ob"> 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/support/its.php" >Регулярное сопровождение</a> 					</div>
+         					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/support/vnedrenie-1c.php" >Внедрение 1С</a> 					</div>
+         			 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/support/uslugi-1c.php" >Услуги специалистов</a> 					</div>
+         				 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/support/start-1c.php" >Стартовый помощник</a> 					</div>
+         				</div>
+       	 				 
+        <div class="uslugi_gl_item_text_vse">					 					 
+          <div class="uslugi_gl_item_text_vse_td"> 						<a href="/support/" >Посмотреть все</a> 					</div>
+         	 				</div>
+       					 			</div>
+     		</div>
+   		 
+    <div class="uslugi_gl_item">			 			 
+      <div class="uslugi_gl_item_img" style="background: transparent url(&quot;/bitrix/templates/online/images/img3.png&quot;) no-repeat scroll 50% 50%;"></div>
+     	 			 
+      <div class="uslugi_gl_item_name"> 				 
+        <div class="uslugi_gl_item_name_cell"> 					Сервисы для пользователей 1С 				</div>
+       			</div>
+     			 			 
+      <div class="uslugi_gl_item_text"> 				 
+        <div class="uslugi_gl_item_text_td_ob"> 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/service/1c-fresh.php" >1С: Фреш</a> 					</div>
+         					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/service/1c-otchetnost.php" >1С-Отчетность</a> 					</div>
+         			 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/service/1c-kontragent.php" >1С: Контрагент</a> 					</div>
+         				 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/service/1c-spark.php" >1СПАРК Риски</a> 					</div>
+         				</div>
+       	 				 
+        <div class="uslugi_gl_item_text_vse">					 					 
+          <div class="uslugi_gl_item_text_vse_td"> 						<a href="/service/" >Посмотреть все</a> 					</div>
+         	 				</div>
+       					 			</div>
+     		</div>
+   	 		 
+    <div class="uslugi_gl_item">			 			 
+      <div class="uslugi_gl_item_img" style="background: transparent url(&quot;/bitrix/templates/online/images/img4.png&quot;) no-repeat scroll 50% 50%;"></div>
+     	 			 
+      <div class="uslugi_gl_item_name"> 				 
+        <div class="uslugi_gl_item_name_cell"> 					Учебный центр 1С 				</div>
+       			</div>
+     			 
+      <div class="uslugi_gl_item_text"> 				 
+        <div class="uslugi_gl_item_text_td_ob2"> 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/uchebnyj-center-1c/kursy-1c.php" >Курсы для программистов и 
+              <br />
+             пользователей</a> 					</div>
+         					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/uchebnyj-center-1c/ekzamen-1c.php" >Центр сертификации 
+              <br />
+             пользователей 1С: Специалист 
+              <br />
+             и 1С: Профессионал</a> 					</div>
+         	 				</div>
+       					 			</div>
+     	 		</div>
+   		 
+    <div class="uslugi_gl_item">			 			 
+      <div class="uslugi_gl_item_img" style="background: transparent url(&quot;/bitrix/templates/online/images/img5.png&quot;) no-repeat scroll 50% 50%;"></div>
+     			 
+      <div class="uslugi_gl_item_name"> 				 
+        <div class="uslugi_gl_item_name_cell"> 					Электронный документооборот 				</div>
+       			</div>
+     			 			 
+      <div class="uslugi_gl_item_text"> 				 
+        <div class="uslugi_gl_item_text_td_ob3"> 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/service/1c-edo.php" >1С: ЭДО + 1С: Такском</a> 					</div>
+         				</div>
+       					 			</div>
+     		</div>
+   		 
+    <div class="uslugi_gl_item">			 			 
+      <div class="uslugi_gl_item_img" style="background: transparent url(&quot;/bitrix/templates/online/images/img6.png&quot;) no-repeat scroll 50% 50%;"></div>
+     	 			 
+      <div class="uslugi_gl_item_name"> 				 
+        <div class="uslugi_gl_item_name_cell"> 					Сервера, рабочие станции и сетевое оборудование 				</div>
+       			</div>
+     			 			 
+      <div class="uslugi_gl_item_text"> 				 
+        <div class="uslugi_gl_item_text_td_ob tri"> 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/system/server.php" >Сервера</a> 					</div>
+         					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/system/computer.php" >Рабочие станции</a> 					</div>
+         			 					 
+          <div class="uslugi_gl_item_text_td"> 						<a href="/system/net.php" >Сетевое оборудование</a> 					</div>
+         				 				</div>
+       	 				 
+        <div class="uslugi_gl_item_text_vse">					 					 
+          <div class="uslugi_gl_item_text_vse_td"> 						<a href="/system/" >Посмотреть все</a> 					</div>
+         	 				</div>
+       					 			</div>
+     		</div>
+   		 	</div>
+ </div>
+ 	 
+<div class="row" id="preim_gl">	 	 
+  <div class="preim_gl"> 		 
+    <div class="preim_gl_head"> 			Почему МЫ? 		</div>
+   		 
+    <div class="preim_gl_cont"> 			 
+      <div class="preim_gl_cont_item" id="p1"> 				 
+        <p><span>Более 2000</span></p>
+       				 
+        <p>обученных пользователей</p>
+       				 			</div>
+     	 			 
+      <div class="preim_gl_cont_item" id="p2"> 				 
+        <p><span>Центр разработки</span></p>
+       				 
+        <p>тиражных решений</p>
+       				 			</div>
+     	 			 
+      <div class="preim_gl_cont_item" id="p3"> 				 
+        <p><span>Более 2000</span></p>
+       				 
+        <p>внедренных решений</p>
+       				 			</div>
+     		 			 
+      <div class="preim_gl_cont_item" id="p4"> 				 
+        <p><span>Свыше 5000</span></p>
+       				 
+        <p>довольных клиентов</p>
+       				 			</div>
+     	 			 
+      <div class="preim_gl_cont_item" id="p5"> 				 
+        <p><span>Разработчики</span></p>
+       				 
+        <p>1С: Колледж и</p>
+       		 				 
+        <p>1С: Управление</p>
+       		 				 
+        <p>учебным центром 1С</p>
+       						 			</div>
+     	 			 
+      <div class="preim_gl_cont_item2"> 				 
+        <div class="preim_p1"></div>
+       				 
+        <p><span>С 1995</span> года</p>
+       				 
+        <p>на рынке</p>
+       	 				 
+        <div class="preim_p2"></div>
+       			</div>
+     				 		</div>
+   		 	</div>
+ </div>
+ 	 
+<div class="row" id="ak_gl">	 	 
+  <div class="ak_gl"> 		 
+    <div class="akcii_gl"> 
+      <div class="swiper-container"> 
+        <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="news_sl_akc_item" id="bx_1914200112_2279">
+		<div class="news_sl_akc_item_img" style="background: url(/upload/iblock/687/box.png) no-repeat 50% 0;">		
+		</div>
+		<div class="news_sl_akc_item_td">
+			<div class="news_sl_akc_item_td_cell">
+		<p>Специальное предложение: <span>Скидка 15%</span></p>
+<p>на «1С: Некредитная финансовая организация»</p>		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="news_sl_akc_item" id="bx_1914200112_2278">
+		<div class="news_sl_akc_item_img" style="background: url(/upload/iblock/487/box.png) no-repeat 50% 0;">		
+		</div>
+		<div class="news_sl_akc_item_td">
+			<div class="news_sl_akc_item_td_cell">
+		<p>Специальное предложение: <span>Скидка 15%</span></p>
+<p>на «1С: Некредитная финансовая организация»</p>		
+			</div>
+		</div>
+	</div>
+	</div>
+	
+
+
+ </div>
+       
+        <div class="swiper-button-next"></div>
+       
+        <div class="swiper-button-prev"></div>
+       </div>
+     		 		</div>
+   		 		 
+    <div class="dover_gl"> 			 
+      <div class="dover_gl_head"> 				Нам доверяют 			</div>
+     			 
+      <div class="dover_gl_cont"> 
+        <div class="swiper-container2"> 
+          <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="dover_item" id="bx_1914200112_2284">	
+		<div class="dover_item_img" style="background: url(/upload/iblock/f1a/logo_b5.png) no-repeat 50% 50%;background-size:contain;">		
+		</div>
+		<div class="dover_item_name">	
+			Группа &quot;Транзит-ДВ&quot;		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="dover_item" id="bx_1914200112_2283">	
+		<div class="dover_item_img" style="background: url(/upload/iblock/209/logo_b4.png) no-repeat 50% 50%;background-size:contain;">		
+		</div>
+		<div class="dover_item_name">	
+			БРОЭЕ Продакшн		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="dover_item" id="bx_1914200112_2282">	
+		<div class="dover_item_img" style="background: url(/upload/iblock/0ff/logo_b3.png) no-repeat 50% 50%;background-size:contain;">		
+		</div>
+		<div class="dover_item_name">	
+			ТЭК Мосэнерго		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="dover_item" id="bx_1914200112_2281">	
+		<div class="dover_item_img" style="background: url(/upload/iblock/eed/logo_b2.png) no-repeat 50% 50%;background-size:contain;">		
+		</div>
+		<div class="dover_item_name">	
+			BMP		</div>
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="dover_item" id="bx_1914200112_2280">	
+		<div class="dover_item_img" style="background: url(/upload/iblock/345/logo_b.png) no-repeat 50% 50%;background-size:contain;">		
+		</div>
+		<div class="dover_item_name">	
+			Катерпиллар СНГ		</div>
+	</div>
+	</div>
+	
+
+
+ </div>
+         
+          <div class="swiper-button-next"></div>
+         
+          <div class="swiper-button-prev"></div>
+         </div>
+       				 			</div>
+     			 		</div>
+   	</div>
+ </div>
+ 	 
+<div class="row" id="resh_gl">	 	 
+  <div class="resh_gl"> 		 
+    <div class="resh_gl_left"> 			 
+      <div class="resh_gl_left_zag"> 				Внедренные решения 			</div>
+     			 
+      <div class="resh_gl_left_anons"> 		 
+        <div class="resh_item_ss">	 			<a href="/about/solutions.php" >Посмотреть все</a> 		</div>
+       			 
+        <div class="swiper-container3"> 
+          <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2287">	
+		<div class="resh_item_name">	
+			Автоматизация ООО &quot;Корпорация УралТехноСтрой&quot;		</div>
+		<div class="resh_item_anons">	
+			<p>Внедрена типовая конфигурация "Бухгалтерия предприятия" системы программ "1С:Предприятие 8.0" с целью автоматизации >бухгалтерского учета.</p>
+
+<p>Перенесены начальные данные из "1С:Торговля и Склад 7.7". </p>
+
+<p>Настроена выгрузка из конфигурации "1С:Управление торговлей 8.0" в конфигурацию "1С:Бухгалтерия 8.0" (изменены правила выгрузки).</p>
+		</div>		
+	
+		<div class="resh_item_img" style="background: url() no-repeat 50% 50%;background-size:contain;"></div>	
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2286">	
+		<div class="resh_item_name">	
+			Автоматизация ООО &quot;Корпорация УралТехноСтрой&quot;		</div>
+		<div class="resh_item_anons">	
+			<p>Внедрена типовая конфигурация "Бухгалтерия предприятия" системы программ "1С:Предприятие 8.0" с целью автоматизации >бухгалтерского учета.</p>
+
+<p>Перенесены начальные данные из "1С:Торговля и Склад 7.7". </p>
+
+<p>Настроена выгрузка из конфигурации "1С:Управление торговлей 8.0" в конфигурацию "1С:Бухгалтерия 8.0" (изменены правила выгрузки).</p>
+		</div>		
+	
+		<div class="resh_item_img" style="background: url(/upload/iblock/a6e/ural.png) no-repeat 50% 50%;background-size:contain;"></div>	
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2285">	
+		<div class="resh_item_name">	
+			Автоматизация ООО &quot;Корпорация УралТехноСтрой&quot;		</div>
+		<div class="resh_item_anons">	
+			<p>Внедрена типовая конфигурация "Бухгалтерия предприятия" системы программ "1С:Предприятие 8.0" с целью автоматизации >бухгалтерского учета.</p>
+
+<p>Перенесены начальные данные из "1С:Торговля и Склад 7.7". </p>
+
+<p>Настроена выгрузка из конфигурации "1С:Управление торговлей 8.0" в конфигурацию "1С:Бухгалтерия 8.0" (изменены правила выгрузки).</p>
+		</div>		
+	
+		<div class="resh_item_img" style="background: url(/upload/iblock/485/ural.png) no-repeat 50% 50%;background-size:contain;"></div>	
+	</div>
+	</div>
+	
+
+
+ </div>
+         
+          <div class="swiper-button-next"></div>
+         
+          <div class="swiper-button-prev"></div>
+         
+          <div class="swiper-pagination"></div>
+         </div>
+       			 			</div>
+     			 		</div>
+   		 		 
+    <div class="resh_gl_right"> 			 
+      <div class="resh_gl_right_zag"> 				Кейсы 			</div>
+     		 			 
+      <div class="resh_gl_right_anons"> 		 
+        <div class="resh_item_ss">	 			<a href="/about/solutions.php" >Посмотреть все</a> 		</div>
+       	 
+        <div class="swiper-container3"> 
+          <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2290">	
+		<div class="kejs_item_anons">	
+			<div class="kejs_item_anons_cell">	
+			
+<p>
+  <ul>
+    <li>Мы оптимизировали управление финансовыми потоками</li>
+  
+    <li>Усилили контроль за финансами</li>
+  </ul>
+</p>
+ 			</div>
+		</div>		
+			
+		<div class="resh_item_img" style="background: url(/upload/iblock/e38/vagon.png) no-repeat 50% 50%;background-size:contain;"></div>	
+	</div>
+	</div> 
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2289">	
+		<div class="kejs_item_anons">	
+			<div class="kejs_item_anons_cell">	
+			
+<p>
+  <ul>
+    <li>Мы оптимизировали управление финансовыми потоками</li>
+  
+    <li>Усилили контроль за финансами</li>
+  </ul>
+</p>
+ 			</div>
+		</div>		
+			
+		<div class="resh_item_img" style="background: url(/upload/iblock/a5c/vagon.png) no-repeat 50% 50%;background-size:contain;"></div>	
+	</div>
+	</div> 
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2288">	
+		<div class="kejs_item_anons">	
+			<div class="kejs_item_anons_cell">	
+			
+<p>
+  <ul>
+    <li>Мы оптимизировали управление финансовыми потоками</li>
+  
+    <li>Усилили контроль за финансами</li>
+  </ul>
+</p>
+ 			</div>
+		</div>		
+			
+		<div class="resh_item_img" style="background: url(/upload/iblock/99d/vagon.png) no-repeat 50% 50%;background-size:contain;"></div>	
+	</div>
+	</div> 
+	
+
+
+ </div>
+         
+          <div class="swiper-button-next"></div>
+         
+          <div class="swiper-button-prev"></div>
+         
+          <div class="swiper-pagination"></div>
+         </div>
+       				 			</div>
+     				 		</div>
+   	</div>
+ </div>
+ 	 
+<div class="row" id="sotr_gl">	 	 
+  <div class="sotr_gl"> 		 
+    <div class="sotr_gl_head"> 			Начать сотрудничать с нами легко 		</div>
+   		 
+    <div class="sotr_gl_cont"> 			 
+      <div class="sotr_gl_cont_opis"> 				 
+        <div class="sotr_gl_cont_opis_ik"> 				 				</div>
+       				 
+        <div class="sotr_gl_cont_opis_text"> <p>Получить консультацию у менеджера компании “Онлайн” можно по телефону  <span>+7 (347) 223-82-28.</span>  Звонок бесплатный.</p>
+<p>Или воспользуйтесь формой обратной связи.</p>				 				</div>
+       				 			</div>
+     			 
+      <div class="sotr_gl_cont_form" id="otv2"> 				<input class="inp_sotr" placeholder="Имя:" id="fio_sotr" type="text" /> 				 
+        <div class="c7_ob"> 
+          <div class="c7">+7</div>
+         				<input class="inp_sotr" placeholder="" id="tel_sotr" type="text" /></div>
+       				<input id="str_sotr" value="http://online-ufa.ru&lt;img id=" bxid_752512"="" src="/bitrix/images/fileman/htmledit2/php.gif" type="hidden" border="0" />&quot;&gt; 				<input value="Заказать звонок" class="butt_sotr" onclick="SendPsylkoy_sotr('Сотрудничество');yaCounter10967758.reachGoal('CEL2');" type="submit" /> 			</div>
+     			 			 		</div>
+   		 	</div>
+ </div>
+ 	 
+<div class="row" id="fos_gl">	 	 
+  <div class="fos_gl"> 		<input class="inp_fos" placeholder="Имя:" id="fio_fos" type="text" /> 		<input class="inp_fos" placeholder="Ваш e-mail:" id="mail_fos" type="text" /> 		<input value="Отправить" class="butt_sotr" onclick="SendPsylkoy_fos('Сообщение с сайта');yaCounter10967758.reachGoal('CEL3');" type="submit" /> 		<input id="str_fos" value="http://online-ufa.ru&lt;img id=" bxid_921632"="" src="/bitrix/images/fileman/htmledit2/php.gif" type="hidden" border="0" />&quot;&gt; 		<textarea id="komm_fos" class="textarea_fos" placeholder="Ваше сообщение:"></textarea> 	</div>
+ 	 </div>
+ 	 
+<div class="row" id="inf_gl">	 	 
+  <div class="inf_gl"> 		 
+    <div class="resh_gl_left"> 			 
+      <div class="resh_gl_left_zag_inf"> 				Новости 			</div>
+     			 
+      <div class="resh_gl_left_anons"> 		 
+        <div class="resh_item_ss">	 			<a href="/content/news/" >Посмотреть все</a> 		</div>
+       			 
+        <div class="swiper-container3"> 
+          <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2881">	
+		<div class="new_item_name">	
+			<a href="/content/news/1c-dokumentooborot-corp-3-0/">О выпуске новой редакции 3.0 типовой конфигурации 1С:Документооборот КОРП</a>
+		</div>
+		<div class="new_item_date">	
+			31.01.2022		</div>		
+		<div class="new_item_anons">	 
+			О выпуске новой редакции 3.0 типовой конфигурации 1С:Документооборот КОРП		</div>				
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2880">	
+		<div class="new_item_name">	
+			<a href="/content/news/action-1c-businesstart-2022/">Продление акции &quot;Новый бизнес начни с 1С!&quot;: &quot;1С:Бухгалтерия 8&quot; с бесплатной бессрочной поддержкой + &quot;1С-Отчетность&quot;  и другими дополнительными сервисами за 3000 рублей до конца 2022 года !</a>
+		</div>
+		<div class="new_item_date">	
+			30.12.2021		</div>		
+		<div class="new_item_anons">	 
+			Продление акции &quot;Новый бизнес начни с 1С!&quot;: &quot;1С:Бухгалтерия 8&quot; с бесплатной бессрочной поддержкой &#43; &quot;1С-Отчетность&quot;&nbsp;&nbsp;и другими дополнительными сервисами за 3000 рублей до конца 2022 года !		</div>				
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2878">	
+		<div class="new_item_name">	
+			<a href="/content/news/new-year-holidays-2022/">Режим работы компании &quot;Онлайн&quot; в дни новогодних праздников с 30 декабря 2021 г. по 10 января 2022 г.</a>
+		</div>
+		<div class="new_item_date">	
+			28.12.2021		</div>		
+		<div class="new_item_anons">	 
+			Режим работы компании &quot;Онлайн&quot; в дни новогодних праздников с 30 декабря 2021 г. по 10 января 2022 г.		</div>				
+	</div>
+	</div>
+	
+
+
+ </div>
+         
+          <div class="swiper-button-next"></div>
+         
+          <div class="swiper-button-prev"></div>
+         
+          <div class="swiper-pagination"></div>
+         </div>
+       			 			</div>
+     			 		</div>
+   	 		 
+    <div class="resh_gl_right"> 			 
+      <div class="resh_gl_right_zag_inf"> 				Мероприятия 			</div>
+     		 			 
+      <div class="resh_gl_right_anons"> 		 
+        <div class="resh_item_ss">	 			<a href="/content/events/" >Посмотреть все</a> 		</div>
+       	 
+        <div class="swiper-container3"> 
+          <div class="swiper-wrapper"> 
+
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2874">	
+		<div class="new_item_name">	
+			<a href="/content/events/detail.php?ELEMENT_ID=2874">БЕСПЛАТНЫЙ ОНЛАЙН-СЕМИНАР для бухгалтеров, руководителей и IT-специалистов 15 декабря 2021 года (среда).</a>
+		</div>
+		<div class="new_item_date">	
+			01.12.2021		</div>		
+		<div class="new_item_anons">	 
+			Приглашаем на бесплатный Онлайн-Семинар 1С для бухгалтеров, руководителей и IT-специалистов 15 декабря 2021 г. (среда). 		</div>				
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2850">	
+		<div class="new_item_name">	
+			<a href="/content/events/detail.php?ELEMENT_ID=2850">БЕСПЛАТНЫЙ ОНЛАЙН-СЕМИНАР для бухгалтеров, руководителей и IT-специалистов 6 октября 2021 года (среда).</a>
+		</div>
+		<div class="new_item_date">	
+			01.09.2021		</div>		
+		<div class="new_item_anons">	 
+			Приглашаем на бесплатный Онлайн-Семинар 1С для бухгалтеров, руководителей и IT-специалистов 6 октября 2021 г. (среда). 		</div>				
+	</div>
+	</div>
+	
+		<div class="swiper-slide">
+	<div class="resh_item" id="bx_1914200112_2824">	
+		<div class="new_item_name">	
+			<a href="/content/events/detail.php?ELEMENT_ID=2824">БЕСПЛАТНЫЙ ОНЛАЙН-СЕМИНАР для бухгалтеров, руководителей и IT-специалистов 7 апреля 2021 года (среда).</a>
+		</div>
+		<div class="new_item_date">	
+			01.03.2021		</div>		
+		<div class="new_item_anons">	 
+			Приглашаем на бесплатный Онлайн-Семинар 1С для бухгалтеров, руководителей и IT-специалистов 7 апреля 2021 г. (среда). 		</div>				
+	</div>
+	</div>
+	
+
+
+ </div>
+         
+          <div class="swiper-button-next"></div>
+         
+          <div class="swiper-button-prev"></div>
+         
+          <div class="swiper-pagination"></div>
+         </div>
+       				 			</div>
+     				 		</div>
+   	 	 	 	</div>
+ 	 </div>
+ 	 
+<div class="row" id="footer">
+	<div class="footer">
+		<div class="footer_item">
+			<p class="footer_text_b"><a href="/about/">О компании</a></p>
+			<p><a href="/about/portrait.php">История и принципы</a></p>	
+			<p><a href="/about/solutions.php">Внедренные решения</a></p>			
+			<p><a href="/about/sert.php">Сертификаты и статусы</a></p>
+			<p><a href="/about/work.php">Карьера</a></p>
+
+
+			<p class="footer_text_b"><a href="/katalog/">Каталог</a></p>				
+			<p><a href="/katalog/programmy_1c/">Программы 1с</a></p>	
+			<p><a href="/support/">Сопровождение 1С (ИТС)</a></p>			
+			<p><a href="/service/">Сервисы</a></p>
+			<p><a href="/system/soft/">Антивирусы, ПО Microsoft<br/> и другое ПО</a></p>
+			<p><a href="/system/">Сервера, рабочие станции<br/> и сетевое оборудование</a></p>
+					
+		</div>		
+		<div class="footer_item fi2">
+	<p class="footer_text_b"><a href="/market/">Интернет магазин</a></p>
+			<p><a href="/market/programmy-1s-predpriyatie/">Программы 1С:Предприятие</a></p>	
+			<p><a href="/market/oblako-1s/">Облако 1С</a></p>			
+			<p><a href="/market/onlayn-servisy/">Онлайн-сервисы 1С</a></p>
+			<p><a href="/market/uchebno-metodicheskie-materialy/">Учебно-методические материалы</a></p>
+			<p><a href="/market/informatsionno-tekhnologicheskoe-soprovozhdenie-1s-its/">Информационно-технологическое<br/> сопровождение</a></p>
+			<p><a href="/market/programmnoe-obespechenie-microsoft/">Программное обеспечение Microsoft</a></p>		
+			<p><a href="/market/antivirusy/">Антивирусы</a></p>	
+
+			<p class="footer_text_b"><a href="/price/">Прайс-лист</a></p>
+
+			<p class="footer_text_b"><a href="/action/">Акции </a></p>
+							
+		</div>	
+		<div class="right_footer_item">
+			<div class="footer_item2">
+				<p class="footer_text_b"><a href="">Учебный центр 1С</a></p>
+				<p><a href="/uchebnyj-center-1c/kursy-1c.php">Курсы для программистов<br/> и пользователей</a></p>	
+				<p><a href="/uchebnyj-center-1c/ekzamen-1c.php">Центр сертификации пользователей<br/> 1С: Специалист и 1С: Профессионал</a></p>			
+				<p><a href="/uchebnyj-center-1c/kursy-1c-online.php	">Онлайн-Курсы</a></p>
+
+				<p class="footer_text_b"><a href="/content/">Контент</a></p>
+				<p><a href="/content/news/">Новости</a></p>	
+				<p><a href="/content/articles/">Статьи</a></p>			
+				<p><a href="/content/events/">Мероприятия</a></p>
+				<p><a href="/content/photo/">Фотогалерея</a></p>
+				
+	
+		
+			</div>	
+				<div class="footer_item_niz">
+					<div class="footer_item_niz_zah">
+						Контакты
+					
+						
+					</div>
+					<div class="footer_kon1">
+						<div class="footer_tel">
+							<p>+7 (347) 223-82-28</p>
+							<p>+7 (347) 223-54-36</p>							
+						</div>
+						<div class="footer_mail">
+							<p>online@online-ufa.ru</p>
+						</div>						
+					</div>	
+					<div class="footer_kon1">
+						<div class="footer_adres">
+							<p>450006, Россия, Республика Башкортостан</p>
+							<p>г.Уфа, ул.Цюрупы, д.130</p>							
+						</div>						
+					</div>
+					<div class="footer_soc">
+						<div class="footer_soc_item" id="footer_soc1">
+							<a href=""></a>
+						</div>
+						<div class="footer_soc_item" id="footer_soc2">
+							<a href=""></a>
+						</div>
+						<div class="footer_soc_item" id="footer_soc3">
+							<a href="https://twitter.com/Online_Ufa" target="_blank" ></a>
+						</div>
+						<div class="footer_soc_item" id="footer_soc4">
+							<a href="https://www.facebook.com/online.ufa" target="_blank" ></a>
+						</div>
+						<div class="footer_soc_item" id="footer_soc5">
+							<a href="https://vk.com/online_ufa" target="_blank" ></a>
+						</div>						
+					</div>
+				</div>
+				
+				
+		</div>	
+	</div>
+</div>
+<div class="row" id="sotr_gl2">	
+	<div class="sotr_gl">
+		<div class="sotr_gl_head">
+			Начать сотрудничать с нами легко
+		</div>
+		<div class="sotr_gl_cont">
+			<div class="sotr_gl_cont_opis">
+				<div class="sotr_gl_cont_opis_ik">
+				
+				</div>
+				<div class="sotr_gl_cont_opis_text">
+<p>Получить консультацию у менеджера компании “Онлайн” можно по телефону  <span>+7 (347) 223-82-28.</span>  Звонок бесплатный.</p>
+<p>Или воспользуйтесь формой обратной связи.</p>				
+				</div>				
+			</div>
+			<div class="sotr_gl_cont_form" id="otv22">
+				<input type="text" class="inp_sotr" placeholder="Имя:" id="fio_sotr2">
+				<div class="c7">+7</div>
+				<input type="text" class="inp_sotr" placeholder="" id="tel_sotr2">
+				<input type="hidden" id="str_sotr2" value="//index.php">
+				<input value="Заказать звонок" class="butt_sotr" onclick="SendPsylkoy_sotr2('Сотрудничество');yaCounter10967758.reachGoal('CEL2');" type="submit">
+			</div>			
+		</div>		  
+	</div> 
+</div>
+<div class="hover"></div>
+<div class="popup_okno" id="popup_zv">
+				 <p class="close">X</p>
+				 <div id="form_ajax_zv" class="form_ajax">
+				 <p class="ostavit_zayvky" style="text-align:center;" id="tema_obr2"></p>
+				 <input type="text" class="inp_vsp" placeholder="Имя" id="fio_zv2">
+				 <input type="text" class="inp_vsp" placeholder="Телефон" id="tel_zv2">	 
+				 <textarea id="komm_zv" class="textarea_vsp" placeholder="Текст сообщения"></textarea>
+				 <input type="hidden" id="str_zv2" value="/">	
+				 <input type="hidden" id="tema_zv2" value="&quot;Заказ звонка&quot;">				 
+				 <input value="ОТПРАВИТЬ" class="butt_vsp" onclick="SendPsylkoy_zv2();" type="submit">
+				 
+				 </div>
+</div>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>	
+<script type="text/javascript" src="/bitrix/templates/online/js/swiper/swiper.min.js"></script>
+<!--<script type="text/javascript" src="/bitrix/templates/online/js/script.js"></script>-->
+<script>
+
+	 $(document).ready(function() {
+
+
+		$('ul.tabs').delegate('li:not(.current)', 'click', function() {
+			$(this).addClass('current').siblings().removeClass('current')
+				.parents('div.section').find('div.box').hide().eq($(this).index()).fadeIn(150);
+		})
+
+
+	})
+	
+	
+	
+	
+
+
+
+						 $(document).ready(function(){
+		  $(window).scroll(function () {if ($(this).scrollTop() > 0) {$('#scroller').fadeIn();} else {$('#scroller').fadeOut();}});
+		  $('#scroller').click(function () {$('body,html').animate({scrollTop: 0}, 400); return false;});
+		  })
+
+
+		  $(window).scroll(function () {
+		  if ($(this).scrollTop() > 0) {
+	
+		  $("#header").css({"position":"fixed","top":"0","left":"0","zIndex":"3000"})
+		 
+		  
+		  }
+		  else {
+		  $("#header").css({"position":"relative","top":"0","left":"0"})		  
+		  
+		  }});
+
+$("#menu_text_mobil").click(function(){$("#m_menu_ob").css({"left":"0"});});
+$(".close_f").click(function(){$("#m_menu_ob").css({"left":"100%"});});
+function tema_os(x,y){			
+ $(".hover").show();
+ $("#popup_zv").show();		
+ $("#tema_obr2").text(y);			 
+ $("#tema_zv2").val('"' +x+ '"');			
+}
+$(".close").click(function()
+{
+ $(".hover").hide();
+ $(".popup_okno").hide();
+});
+$(".hover").click(function()
+{
+ $(".hover").hide();
+ $(".popup_okno").hide();			 
+});
+
+$(".chk-left").click(function()
+{
+$('#cht').addClass('chtleft');	
+$('#cht').removeClass('chtright');	
+	$(".tumbler_zadach").removeClass("czactiv");	
+	$(".tumbler_otr").addClass('czactiv');
+
+});
+$(".chk-right").click(function()
+{
+
+$('#cht').addClass('chtright');	
+$('#cht').removeClass('chtleft');
+
+	$(".tumbler_otr").removeClass("czactiv");	
+	$(".tumbler_zadach").addClass('czactiv');	
+});
+
+$(".tumbler_otr_ob_item").click(function()
+{
+$(".tumbler_otr_ob_item").removeClass("tactiv");	
+ $(this).addClass('tactiv');	
+
+});
+
+function tema_kat(x,y){
+	$(".tumbler_zadach_item").removeClass("zactiv");	
+	$("#ka"+x).addClass('zactiv');
+	$(".tumbler_zadach_item_ss").removeClass("czactiv");	
+	$("#za"+y).addClass('czactiv');	
+	
+	$(".tumbler_zadach_item_ss_item").removeClass("czactiv");	
+	$("#ska"+x).addClass('czactiv');		
+	
+}
+
+
+	function SendPsylkoy_zv2(){
+err=0;	
+t1=$("#fio_zv2").val();
+t2=$("#tel_zv2").val();					
+t3=$("#tema_zv2").val();
+					
+if (t1=='') 
+{
+	$("#fio_zv2").css({"border":"solid 1px #ff0000"})
+	err=1;
+	
+}
+
+if (t2=='') 
+{
+	$("#tel_zv2").css({"border":"solid 1px #ff0000"})
+	err=1;
+	
+}					
+	
+if (err=='0') 
+{
+	
+						$.ajax({
+							type: "POST",
+							url: "/ajax_script/os_zv2.php",
+							data: 'name='+$('#fio_zv2').val()+'&tel='+$('#tel_zv2').val()+'&komm='+$('#komm_zv2').val()+'&str='+$('#str_zv2').val()+'&tema='+t3,
+							success: function(response){$("#form_ajax_zv").html(response);}							
+
+						});
+						
+}						
+					};		
+
+function SendPsylkoy_sotr(x){
+err=0;	
+t1=$("#fio_sotr").val();
+t2=$("#tel_sotr").val();					
+t3=x;		
+if (t1=='') 
+{
+	$("#fio_sotr").css({"border":"solid 1px #ff0000"})
+	err=1;	
+}
+if (t2=='') 
+{
+	$("#tel_sotr").css({"border":"solid 1px #ff0000"})
+	err=1;	
+}					
+if (err=='0') 
+{	
+						$.ajax({
+							type: "POST",
+							url: "/ajax_script/os_zv.php",
+							data: 'name='+$('#fio_sotr').val()+'&tel='+$('#tel_sotr').val()+'&str='+$('#str_sotr').val()+'&tema='+t3,
+							success: function(response){$("#otv2").html(response);}			
+						});					
+}				
+}
+
+
+dom = (document.getElementById)? true : false;
+ie4 = (document.all && !dom)? true : false;
+function openClose(elemid) { 
+
+{
+	if (dom || ie4) {
+    	var currElement = (dom)? document.getElementById(elemid) : document.all[elemid];
+       currElement.style.display = (currElement.style.display == 'none')? 'block' : 'none';
+        return false;
+	} else return true;
+}
+}
+
+function menuClick(elemId) {
+	elemId2 = "img_"+elemId;
+	elemId = "m_"+elemId;
+	if (dom || ie4) {
+    	var currElement = (dom)? document.getElementById(elemId) : document.all[elemId];
+
+       currElement.style.display = (currElement.style.display == 'none')? 'block' : 'none';
+        
+        return false;
+	} else return true;
+}
+
+
+
+function SendPsylkoy_sotr2(x){
+err=0;	
+t1=$("#fio_sotr2").val();
+t2=$("#tel_sotr2").val();					
+t3=x;		
+if (t1=='') 
+{
+	$("#fio_sotr2").css({"border":"solid 1px #ff0000"})
+	err=1;	
+}
+if (t2=='') 
+{
+	$("#tel_sotr2").css({"border":"solid 1px #ff0000"})
+	err=1;	
+}					
+if (err=='0') 
+{	
+						$.ajax({
+							type: "POST",
+							url: "/ajax_script/os_zv.php",
+							data: 'name='+$('#fio_sotr2').val()+'&tel='+$('#tel_sotr2').val()+'&str='+$('#str_sotr2').val()+'&tema='+t3,
+							success: function(response){$("#otv22").html(response);}			
+						});					
+}				
+}
+
+
+function SendPsylkoy_fos(x){
+err=0;	
+t1=$("#fio_fos").val();
+t2=$("#tel_fos").val();					
+t3=x;		
+if (t1=='') 
+{
+	$("#fio_fos").css({"border":"solid 1px #ff0000"})
+	err=1;	
+}
+if (t2=='') 
+{
+	$("#tel_fos").css({"border":"solid 1px #ff0000"})
+	err=1;	
+}					
+if (err=='0') 
+{	
+						$.ajax({
+							type: "POST",
+							url: "/ajax_script/os_fos.php",
+							data: 'name='+$('#fio_fos').val()+'&mail='+$('#mail_fos').val()+'&str='+$('#str_fos').val()+'&tema='+t3,
+							success: function(response){$(".fos_gl").html(response);}			
+						});					
+}				
+}
+
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 'auto',	
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+		autoplay: 6000,	
+		loop: true		
+    });
+	
+    var swiper = new Swiper('.swiper-container2', {
+        slidesPerView: 'auto',	
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+		slidesPerView: 5,
+		autoplay: 6000,	
+		loop: true		
+    });	
+	
+    var swiper = new Swiper('.swiper-container3', {
+        slidesPerView: 'auto',	
+        pagination: '.swiper-pagination',
+        paginationClickable: true,	
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+		autoplay: 6000,	
+		loop: true		
+    });		
+</script>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=10967758&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/10967758/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="10967758" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(10967758, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/10967758" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script src="//code-ya.jivosite.com/widget/0xhDBq7IQI" async></script>
+<!-- {/literal} END JIVOSITE CODE -->
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({id: "2565131", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2565131;js=na" style="border:0;" height="1" width="1" alt="–ейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+</body>
+</html>
+

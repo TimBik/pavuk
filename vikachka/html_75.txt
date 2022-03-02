@@ -1,0 +1,808 @@
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru">
+	<head>
+		<title>1С Брянск | Купить 1С от франчайзи :: Дейта Сервис</title>
+		<meta name="google-site-verification" content="hGYVK2lWdAiK9MNNjYYEIyL8SRbfsAnhBOalpWSB0QA" />
+		<meta name='yandex-verification' content='5d462e8864b9b62b' />
+		<meta name="description" content="Продажа 1С в Брянске. Купить 1С у франчайзи в Брянске. Внедрение, поддержка и сопровождение программных продуктов фирмы 1С. Подробнее: +7 (4832) 37-03-53.
+" />
+		<meta name="keywords" content="1с франчайзи брянск, купить 1с, купить 1с в брянске, 1с франчайзи, 1с брянск, купить 1с брянск, покупка 1с" />
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name='wmail-verification' content='d3ae891181d7a40b863cd4021d6a14ee' />
+		<link rel="shortcut icon" type="image/ico" href="/images/fav.ico" />
+		<meta name="cmsmagazine" content="92b66517851cd78e820e081e5b9f65db" />
+		<link rel="stylesheet" type="text/css" href="/templates/template105/style.css?1617110042" />
+<link rel="stylesheet" type="text/css" href="/templates/template117/style.css?1617110042" />
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<link href="/css/jcarousel.responsive.css" type="text/css" rel="stylesheet">
+		
+		<link rel="shortcut icon" href="/images/favicon.ico" />
+		<!-- LightBox -->
+
+<meta name="mailru-domain" content="5ZIFs3N2fPfEwBBR" />
+ 
+    <link rel="canonical" href="/"/> 
+	</head>
+	<body>
+		<div class="video"><div class="close2">
+			</div> 
+			<div style="position: relative;top: 30px;" class="youtube" data-youtube="ddgwbj-aMbg"></div>
+		</div>
+		<div class="bg">
+		</div>
+		<div class="pop_up">
+			<div class="order">
+				<span class="messg">
+					Заказать звонок
+					<span class="desc">
+						Заполните форму и мы свяжемся с вами в ближайшее время
+					</span>
+				</span>
+				<form action="/js/handler.php" method="post" onsubmit="yaCounter32075781.reachGoal('zakazzvonka'); return true; ga('send', 'event', 'zakazzvonka', 'otpravka');"
+>
+					<input type="text" class="order_form_name" name="name" placeholder="Имя"/>
+					<input type="text" class="order_form_mail" name="email" placeholder="E-mail"/>
+					<input type="tel" class="order_form_phone" name="phone"  placeholder="Телефон"/>
+					<div class="person">
+<span>Нажимая на кнопку, вы даете согласие на обработку своих персональных данных и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a></span>
+</div>
+					<input type="hidden" class="name_product" name="name_product"  />
+					<input type="hidden" class="form_name" name="form_name"  />
+					<input type="hidden" class="page_url" name="page_url"  />
+				
+          <input type="text" style="display:none" name="name_fake" />
+					<button type="submit" class="order_form_submit">Отправить</button>
+				</form>
+
+			</div>
+			<div class="close">
+			</div>
+		</div>
+		
+		<div class="pop_up_form konsalt">
+			<div class="order-konsalt">
+				<span class="messg">
+					Записаться
+					
+				</span>
+				<form action="/js/handler_konsalt.php" method="post">
+					<input type="text" class="order_form_name" name="name_konsalt" placeholder="ФИО"/>
+					<input type="text" class="order_org" name="org_konsalt" placeholder="Организация"/>
+					<input type="text" class="order_form_phone" name="phone_konsalt"  placeholder="Телефон"/>
+					<div class="kol-vo-form-block">
+				<label>Количество участников</label><input type="number" class="order_form_kolvo" value="1" name="kolvo_konsalt"  />
+					</div>
+				
+					<input type="hidden" class="name_product" name="name_product"  />
+					<input type="hidden" class="form_name" name="form_name"  />
+					<input type="hidden" class="page_url" name="page_url"  />
+          <input type="text" style="display:none" name="name_fake" />
+					<button type="submit" class="order_form_submit">Отправить</button>
+				</form>
+<div class="person">
+<span>Нажимая на кнопку, вы даете согласие на обработку своих персональных данных и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a></span>
+</div>
+			</div>
+			<div class="close">
+			</div>
+		</div>
+		
+		<div class="pop_up_form budzg">
+			<div class="order-budzg">
+				<span class="messg">
+					Записаться
+					
+				</span>
+				<form action="/js/handler_budz.php" method="post">
+					<input type="text" class="order_form_name" name="name_budz" placeholder="ФИО"/>
+					<input type="text" class="order_org" name="org_budz" placeholder="Организация"/>
+					<input type="text" class="order_form_phone" name="phone_budz"  placeholder="Телефон"/>
+					
+		
+					<input type="hidden" class="name_product" name="name_product"  />
+					<input type="hidden" class="form_name" name="form_name"  />
+			<input type="hidden" class="page_url" name="page_url"  />
+          <input type="text" style="display:none" name="name_fake" />
+					<button type="submit" class="order_form_submit">Отправить</button>
+				</form>
+<div class="person">
+<span>Нажимая на кнопку, вы даете согласие на обработку своих персональных данных и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a></span>
+</div>
+			</div>
+			<div class="close">
+			</div>
+		</div>
+			<div class="pop_up_form zap-2018">
+			<div class="order-budzg">
+				<span class="messg">
+					Записаться
+					
+				</span>
+				<form action="/js/handler-zap.php" method="post">
+					<input type="text" class="order_form_name" name="name_zap" placeholder="ФИО"/>
+					<input type="text" class="order_form_name" name="org_zap" placeholder="Организация"/>
+					<input type="text" class="order_org" name="date_zap" placeholder="Предполагаемая дата сдачи отчетности "/>
+						<input type="text" class="order_form_phone" name="phone_zap"  placeholder="Телефон"/>
+				<input type="text" class="order_form_mail" name="email_zap" placeholder="E-mail"/>
+				
+		
+					<input type="hidden" class="name_product" name="name_product"  />
+					<input type="hidden" class="form_name" name="form_name"  />
+			<input type="hidden" class="page_url" name="page_url"  />
+          <input type="text" style="display:none" name="name_fake" />
+					<button type="submit" class="order_form_submit">Отправить</button>
+				</form>
+<div class="person">
+<span>Нажимая на кнопку, вы даете согласие на обработку своих персональных данных и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a></span>
+</div>
+			</div>
+			<div class="close">
+			</div>
+		</div>
+					<div class="pop_up_form zap-sem">
+			<div class="order-budzg">
+				<span class="messg">
+					Записаться
+					
+				</span>
+				<form action="/js/handler-sem.php" method="post">
+					<input type="text" class="order_form_name" name="name_sem" placeholder="ФИО"/>
+					<input type="text" class="order_org" name="org_sem" placeholder="Организация"/>
+						<input type="text" class="order_form_phone" name="phone_sem"  placeholder="Телефон"/>
+				<input type="text" class="order_form_mail" name="email_sem" placeholder="E-mail"/>
+				
+		
+					<input type="hidden" class="name_product" name="name_product"  />
+					<input type="hidden" class="form_name" name="form_name"  />
+			<input type="hidden" class="page_url" name="page_url"  />
+          <input type="text" style="display:none" name="name_fake" />
+					<button type="submit" class="order_form_submit">Отправить</button>
+				</form>
+<div class="person">
+<span>Нажимая на кнопку, вы даете согласие на обработку своих персональных данных и соглашаетесь с <a href="/privacy-policy/" target="_blank">политикой конфиденциальности</a></span>
+</div>
+			</div>
+			<div class="close">
+			</div>
+		</div>
+		<div class="header header_new">
+    <div class="wrapper">
+        <!-- НИЖЕ ВЫВОД ОБЩЕЙ ЧАСТИ ШАПКИ-->
+        <div><a class="logo"><img src="/images/logo.png" alt="Дейта Сервис1" /></a> <span class="phones ph1"><a href="tel:79003749314"><span>+7<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(900</span>) </span>374-93-14</a><span class="podp-phone">&nbsp;&mdash; для&nbsp;новых клиентов</span><br /> <a href="tel:74832301310"><span>+7<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(4832</span>) </span> 30-13-10</a><span class="podp-phone">&nbsp;&mdash; отдел обслуживания</span> </span> <a href="#" onclick="title_display(this)" class="callback callform" data-type="Заказать звонок">Заказать звонок</a></div>            <div class="slider">
+                <div id="slides">
+                    
+                   <!-- <div style="display:none;">
+                        <span class="title">ПЕРЕХОДИТЕ<BR>НА ОНЛАЙН-КАССЫ<BR>ВМЕСТЕ С 1С</span>
+                        <a href="/fz-54/" class="booking" style="top: 300px;">Подробнее</a>
+                        <img style="position: absolute;top: 40px;" src="/images/54FZ.png" class="img" alt="54ФЗ" />
+                    </div>-->
+                  <!--   <div style="display:none;">
+                        <div class="title" style="top: 122px;">Единый семинар 1С<br/>
+Для бухгалтеров<br/> и руководителей
+                        </div>
+                        <span class="desc" style="top: 320px;">16 декабря 2020<br/>
+Начало в 10:00 по местному времени</span>-->
+                        <!-- <a href="/fresh/ " class="booking" style="top: 390px;">Подробнее</a> -->
+                       <!-- <div id="edsem"  style="position: absolute;top: 17px;right: 44px;color: white;"></div>
+<script src="https://es.1c.ru/widget/wg-registration-form.js" type="text/javascript"></script>
+<script type="text/javascript">
+wrgsv.init({"id":"edsem", "api_key":"vfWjU19i5v", "captcha":true})
+</script>-->
+                       <!--  <img style="position: absolute;top: 60px;right: 0;width: 610px;" src="/images/frash_mac.png" alt="1с предприятие" /> -->
+                        <!-- <a href="#" class="play_video_button show_vid"></a> -->
+                   <!-- </div>-->
+									<!--<div style="display:none;">
+                        <div class="title" style="top: 177px;">ЕНВД отменяют</div>
+                        <span class="desc"  style="top: 252px;">Что делать предпринимателю?</span>
+                        <a href="http://envd.1c.ru/" target="_blank" rel="nofollow" class="booking" onclick="yaCounter(32075781,'reachGoal','bannerclick'); return true;">Подробнее</a>
+                        <img style="top: 73px;left: 440px;width: 50%;" src="/images/vitjz.png" class="img" alt="1с обслуживание" />
+                    </div>-->
+
+
+
+
+                  <!--   <div style="display:none;">
+                        <div class="title">«1С:Предприятие 8»
+                            <br /> через интернет
+                        </div>
+                        <span class="desc">Ведите бухгалтерский, налоговый 
+						и управленческий учет. 
+						Управляйте бизнесом из любой точки 
+						где есть интернет и сдавайте отчетность 
+						по электронным каналам связи 
+						с помощью программ «1С»</span>
+                        <a href="/fresh/ " class="booking" style="top: 390px;">Подробнее</a>
+                        <img style="position: absolute;top: 60px;right: 0;width: 610px;" src="/images/frash_mac.png" alt="1с предприятие" />
+                        <a href="#" class="play_video_button show_vid"></a>
+                    </div> -->
+
+	<div style="display:none;">
+    <!--<div class="title">Перевод с 1С:Зарплата и управление персоналом редакции 2.5 на редакцию 3</div>-->
+		<img style="left: 0; position: absolute;top: 60px; width: 100%;" src="/images/1172369.png" alt="" />
+    <span class="desc" style="    font-size: 19px;
+    position: absolute;
+    top: 216px;
+    left: 69%;
+    width: 311px;
+    line-height: 24px;
+    z-index: 1;
+    right: 0px;
+    color: white;">простой способ передавать сотрудникам расчетные листки в электронном виде.</span>
+		  <a href="/report/kabinetsotrudnik/" class="booking" style="
+    left: 69%;
+    top: 360px;
+    background: #fa121c;
+    font-weight: 900;
+    font-size: 21px;
+    /* border-radius: 7%; */
+    /* width: 274px; */
+" onclick="yaCounter32075781.reachGoal('clickbannermart21'); return true;">Узнать больше</a>
+    
+  
+</div>
+
+                    <div style="display:none;">
+                        <span class="desc" >Сервис для отправки отчётности во все 
+						контролирующие органы напрямую 
+						из «1С:Предприятие» без выгрузки 
+						в сторонние программы.</span>
+                        <a href="/report/" class="booking">Подробнее</a>
+                        <img style="left: 0; position: absolute;top: 60px; width: 100%;" src="/images/banner_otch.png" class="img" alt="1с отчетность" />
+                    </div>
+
+
+                   
+
+                    <div style="display:none;">
+                        <div class="title" style="top: 65px;">Бухгалтерское обслуживание</div>
+                        <span class="desc">1С:БухОбслуживание – это аутсорсинг 
+						бухгалтерских услуг для малого бизнеса. 
+						Обработка первичной документации, 
+						расчёт налогов, сдача отчётности 
+						и многое другое!</span>
+                        <a href="http://1cbo.buhbsp.ru/" target="_blank" rel="nofollow" class="booking">Подробнее</a>
+                        <img style="top: 126px;left: 440px;" src="/images/banner_buh.png" class="img" alt="1с обслуживание" />
+                    </div>
+									
+									
+									
+									
+									 
+  <!-- <div style="display:none;">
+                        <img style="position: absolute;top: 40px;width: 95%" src="/images/EDO.jpg" class="img" alt="54ФЗ" />
+                    </div>
+ <div style="display:none;">
+                        <img style="position: absolute;top: 40px;width: 95%" src="/images/Frech.jpg" class="img" alt="54ФЗ" />
+                    </div>
+
+                    <div style="display:none;">
+                        <img style="position: absolute;top: 40px;width: 95%" src="/images/Spark.jpg" class="img" alt="54ФЗ" />
+                    </div>
+                    <div style="display:none;">
+                        <img style="position: absolute;top: 40px;width: 95%" src="/images/Kontent.jpg" class="img" alt="54ФЗ" />
+                    </div>
+ -->
+<div style="display:none;">
+                        <div class="title" style="display: flex;margin-top: 10%;"> <img src="/images/konn1.png" class="" alt="" style="width: 85px;  padding-right: 12px;" /> <span style="margin-top: 5%;">1С-Коннект</span></div>
+                        <span class="desc" style="margin-top: 10%;">Единое окно сотрудника,  где он решает все  рабочие вопросы</span>
+                        <!-- <a href="http://1cbo.buhbsp.ru/" target="_blank" rel="nofollow" class="booking">Подробнее</a> -->
+                        <img style="position: absolute;top: 60px;width: 548px;" src="/images/konnekt.png" class="img" alt="" />
+                    </div>
+
+
+
+                   <!--  <div style="display:none;">
+                        <div class="title" style="display: flex;margin-top: 10%;"> <img src="/images/1cfrech.png" class="" alt="" style="width: 135px;  padding-right: 12px;" /></div>
+                        <span class="desc" style="margin-top: 10%;">Заоблачный уровень  автоматизации  управления и учёта  1cfresh.</span>
+                    <a href="http://1cbo.buhbsp.ru/" target="_blank" rel="nofollow" class="booking">Подробнее</a> 
+                        <img style="position: absolute;top: 60px;width: 548px;" src="/images/frechgl.png" class="img" alt="" />
+                    </div> -->
+ <div style="display:none;">
+                        <div class="title" style="display: flex;margin-top: 8%;"> <img src="/images/1cfrech.png" class="" alt="" style="width: 135px;  padding-right: 12px;" /></div>
+                        <span class="desc" style="margin-top: 5%;">Ведите бухгалтерский, налоговый 
+                        и управленческий учет. 
+                        Управляйте бизнесом из любой точки 
+                        где есть интернет и сдавайте отчетность 
+                        по электронным каналам связи 
+                        с помощью программ «1С»</span>
+                         <a href="/fresh/ " class="booking" style="top: 390px;">Подробнее</a>
+                        <!-- <a href="http://1cbo.buhbsp.ru/" target="_blank" rel="nofollow" class="booking">Подробнее</a> -->
+                        <img style="position: absolute;top: 50px;width: 548px;" src="/images/frechgl.png" class="img" alt="" />
+                    </div>
+
+  <!-- <div style="display:none;">
+                        <div class="title">«1С:Предприятие 8»
+                            <br /> через интернет
+                        </div>
+                        <span class="desc">Ведите бухгалтерский, налоговый 
+                        и управленческий учет. 
+                        Управляйте бизнесом из любой точки 
+                        где есть интернет и сдавайте отчетность 
+                        по электронным каналам связи 
+                        с помощью программ «1С»</span>
+                        <a href="/fresh/ " class="booking" style="top: 390px;">Подробнее</a>
+                        <img style="position: absolute;top: 60px;right: 0;width: 610px;" src="/images/frash_mac.png" alt="1с предприятие" />
+                        <a href="#" class="play_video_button show_vid"></a>
+                    </div> -->
+
+
+
+
+<div style="display:none;">
+                        <div class="title" style="display: flex;margin-top: 10%;"> <img src="/images/EDOgle.png" class="" alt="" style="width: 85px;  padding-right: 12px;" /> <span style="margin-top: 5%;">1С-ЭДО</span></div>
+                        <span class="desc" style="margin-top: 10%;">Отправляйте и принимайте 
+любые электронные документы 
+в своей программе «1С»</span>
+                        <!-- <a href="http://1cbo.buhbsp.ru/" target="_blank" rel="nofollow" class="booking">Подробнее</a> -->
+                        <img style="position: absolute;top: 60px;width: 548px;" src="/images/EDOgl.png" class="img" alt="" />
+                    </div>
+
+                    
+<div style="display:none;">
+                        <div class="title" style="display: flex;margin-top: 10%;"> <img src="/images/spa.png" class="" alt="" style="width: 85px;  padding-right: 12px;" /> <span style="margin-top: 5%;">1СПАРК Риски</span></div>
+                        <span class="desc" style="margin-top: 10%;">ваша гарантия надежности</span>
+                        <!-- <a href="http://1cbo.buhbsp.ru/" target="_blank" rel="nofollow" class="booking">Подробнее</a> -->
+                        <img style="position: absolute;top: 60px;width: 548px;" src="/images/fgh.png" class="img" alt="" />
+                    </div>
+
+                    <a style="color: #000;" class="slidesjs-previous slidesjs-navigation" href="#" title="Previous">‹</a>
+                    <a class="slidesjs-next slidesjs-navigation" href="#" title="Next">›</a>
+                </div>
+            </div>
+    </div>
+    <!-- НИЖЕ ВЫВОД МЕНЮ-->
+    <div class="nav_container" id="skroll">
+
+	<div class="nav_new">
+		<ul class="wrapper">
+			 						<li class="vyp_menu"> <a href="/about/">О компании</a>
+			<!--	<ul class="service-vypad">
+						<li><a href="/news/">Новости и статьи</a></li>			
+				</ul>-->
+			</li>
+			<li class="vyp_menu"><a href="#">Услуги 1С</a>
+				<ul class="service-vypad">
+					<li><a href="/itc_1c/">Сопровождение 1С<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(1С</span>:ИТС)</a></li>					
+					<li><a href="/report/">Сервисы 1С</a></li>
+			<!--<li><a href="/fz-54/">54-ФЗ</a></li>-->
+				</ul>
+			</li>
+			<li class="vyp_menu vyp2"><a href="#">Купить 1С</a>
+				<ul class="service-vypad vypad2">
+					<li><a href="/fresh/">1С:Предприятие 8 через интернет</a></li>
+					<li><a href="/1C-Buh/">1С:Бухгалтерия 8</a></li>
+					<li><a href="/1C-Buh2/">Все программы 1C</a></li>
+					<!--	<li><a href="/1c-kontragent/">1С:Контрагент</a></li>-->
+				</ul>
+			</li>
+			
+			<li><a href="/tehnicheskoe-obsluzhivanie-pk/">Обслуживание ПК</a></li>
+			<li class="menu-buh-red"><a href="http://1cbo.buhbsp.ru/" rel="nofollow"  target="_blank">Бухгалтерское<br /> обслуживание</a></li>
+			<!--<li><a href="/reviews/">Отзывы</a></li>-->
+			<li><a href="/contacts/">Контакты</a></li>
+		</ul>
+	</div>
+</div></div>
+<div class="services wrapper">
+    <div class="service main">
+        <h1>КУПИТЬ 1С В БРЯНСКЕ ВЫГОДНО</h1>
+        <p>Профессиональная деятельность Дейта Сервис заключается в оказании помощи в настройке и поддержке программных продуктов 1С в Брянске. Мы предлагаем полный комплекс услуг – от реализации программы, до ее внедрения и адаптации на объекте, учитывая его специализацию. Успешно решая задачи как малого бизнеса, так и масштабного производства. Всегда идем навстречу заказчикам, учитывая их замечания, пожелания и предложения.</p>
+        <div class="item new_services">
+            <div class="leftcol" style="padding-top: 25px;padding-bottom: 30px;">
+                <h2>Решения 1С</h2>
+                <span class="name_podp">Сервис для отправки отчётности прямо из 1С</span>
+                <img src="/images/serv_img1.png" alt="1с отчетность" />
+                <a href="/report/" class="more_new">Подробнее</a>
+                <div style="clear:both"></div>
+            </div>
+            <div class="rightcol">
+                <p style="position: relative;
+									">Сервис 1С-Отчетность позволяет просто и оперативно отправлять необходимую информацию в контролирующие органы и получать уведомления из них непосредственно из программ 1С:Предприятие 8. Теперь, если купить 1С в Брянске и вести учёт в программе 8 версии, больше не придется для взаимодействия с контролирующими органами пользоваться сторонними программными продуктами и выгружать информацию на сторонние ресурсы.
+                </p>
+            </div>
+        </div>
+        <div class="item new_services">
+            <div class="leftcol" style="padding-top: 25px;padding-bottom: 48px;">
+                <h2>Поддержка 1С</h2>
+                <span class="name_podp">Информационно-технологическое сопровождение программ</span>
+                <img src="/images/serv_img2.png" alt="1с итс" />
+                <a href="/itc_1c/" class="more_new" style="top: 12px;">Подробнее</a>
+                <div style="clear:both"></div>
+            </div>
+            <div class="rightcol">
+                <p>1С:ИТС - полный спектр услуг и разнообразных функциональных сервисов доступных вам в любое время. Возможно вы уже решили задачу купить 1С, но для полноценной работы в программе вам необходима информационно-техническая поддержка 1С опытных специалистов, готовых максимально качественно и быстро справится с задачей по обновлению и поддержке работоспособности программы. </p>
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <h2>К нашим основным преимуществам можно отнести:</h2>
+    <ul style="margin-left:30px;list-style:circle;margin-bottom:30px;">
+        <li>Многолетний опыт – компания уже достаточно долгий период является официальным 1С франчайзи, поэтому на данный момент в базе насчитывает уже более 380 постоянных клиентов;</li>
+        <li>Профессиональные сотрудники – в штате собраны только высококвалифицированные специалисты, которые отлично ориентируются в области коммерческого и бюджетного учета, умеют оперативно решать проблемы любой сложности;</li>
+        <li>Приемлемая стоимость – предлагаем услуги по доступным расценкам.</li>
+    </ul>
+    <div class="sertificates">
+        <img src="/images/sert1.png" alt="1с франчайзи" />
+        <img src="/images/part1.png" alt=" " />
+        <!--<img src="/images/54_fz_fullsize_distr.png" alt=" " />-->
+        <img src="/images/sert3.png" alt="1с обучение" />
+        <img src="/images/sert2.png" style="position: relative;top: 5px;" alt="1с обслуживание" />
+    </div>
+</div>
+<div class="wrapper coop" style="margin-bottom:40px;">
+    <div class="content-block-content type-30left">
+        <img src="/images/clip018.png" style="margin-top:0px; height:300px; width:300px" alt="Cпециалисты ГК «ГЭНДАЛЬФ» решат проблему с 1С любой сложности">
+    </div>
+    <div class="content-block-content type-30left">
+        <h5>Покупая у нас вы получаете:</h5>
+        <ul class="list-first-block">
+            <li>Сертифицированные продукты 1С;</li>
+            <li>Качественную установку программ 1С;</li>
+            <li>Профессиональную помощь в настройке продуктов от представителя 1С;</li>
+            <li>Выгодные тарифы информационной и технической поддержки;</li>
+        </ul>
+    </div>
+    <div class="zak-zvon-vnedr">
+        <div class="order voprosi" id="vopros_form">
+            <span class="messg">
+					Уточнить вопросы
+				</span>
+            <form action="/js/handler.php" method="post" onsubmit="yaCounter32075781.reachGoal('consult'); return true; ga('send', 'event', 'consult', 'otpravka');">
+                <input type="text" class="order_form_name" name="name" placeholder="Имя">
+                <input type="text" class="order_form_mail" name="email" placeholder="E-mail">
+                <input type="tel" class="order_form_phone" name="phone" placeholder="Телефон">
+                <input type="hidden" class="name_product" name="name_product">
+                <input type="hidden" class="form_name" name="form_name" value="Бесплатный звонок">
+                <input type="hidden" name="page_url" />
+                <input type="text" style="display:none" name="name_fake" />
+										<div style="    position: absolute;
+    top: 307px;
+    left: 53px;"class="g-recaptcha" name="recapcha" data-sitekey="6LeWpNEZAAAAAGJWfvPGIP0Ktq3BuoO7at0-dIJi"></div>
+					<p class="text-danger" id="msg"></p>
+    <!-- элемент для вывода ошибок -->
+<!--<div class="text-danger" id="recaptchaError"></div>-->
+                <button type="submit" class="order_form_submit">Отправить</button>
+				
+            </form>
+					
+        </div>
+    </div>
+    <div style="clear:both"></div>
+</div>		
+		<div id="yakor-contact" style="    position: relative;
+	bottom: 200px;"></div>
+	
+		<div class="contact_form" id="contact_form">
+			<div class="wrapper">
+				<form id="messageForm" class="form ordercall-form" method="POST" action="/js/handler3.php" onsubmit="yaCounter32075781.reachGoal('consult'); return true; ga('send', 'event', 'consult', 'otpravka');"
+>
+					<div class="row bl">
+						<span class="que f29">Необходимо перенести данные из 1с: бугалтерия 7?</span>
+							<span class="que">Оставьте заявку и мы предложим оптимальное решение!</span>
+					</div>
+					<div class="cont">
+						<div class="row">
+							<input type="text" placeholder="Ваше имя" name="name">
+						</div>
+						<div class="row">
+							<input type="tel" placeholder="Номер телефона" class="valid" name="phone" id="phone">
+						</div>
+						<div class="row">
+							<input type="text" placeholder="Электронная почта" name="email">
+						</div>
+					</div>
+         <div class="row privat">
+						<span class="privat-text">Нажимая на кнопку, вы даете согласие на обработку своих персональных данных</span>  <span class="privat-text">и соглашаетесь с <a href="/privacy-policy/" target="_blank" class="a-c">политикой конфиденциальности</a></span>
+					</div>
+
+					<input type="hidden" value="Форма получить консультацию внизу" name="form_name"  />
+					<input type="hidden" class="page_url" name="page_url"  />
+					<input type="text" style="display:none" name="name_fake" />
+					<div class="row" style="text-align: center;">
+						<input type="submit" name="submit" class="btn firstly-bttn" value="Получить консультацию" />
+					</div>
+					<div style="    position: absolute;
+    top: 192px;
+    left: 120px;"class="g-recaptcha" name="recapcha" data-sitekey="6LeWpNEZAAAAAGJWfvPGIP0Ktq3BuoO7at0-dIJi"></div>
+					<p class="text-danger" id="msg"></p>
+    <!-- элемент для вывода ошибок -->
+<!--<div class="text-danger" id="recaptchaError"></div>-->
+				</form>
+				
+			</div>
+		</div> 
+
+
+		<!-- НИЖЕ ВЫВОД ФУТЕРА САМ КОД В СТРАНИЦАХ И ДОКУМЕНТАХ -->
+		<div class="footer">
+<ul class="footer_nav">
+<li><a href="/about/">О компании</a></li>
+<li><a href="/itc_1c/">1С-ИТС</a></li>
+<li><a href="/report/">Сервисы 1С</a></li>
+<!--<li><a href="/reviews/">Отзывы</a></li>-->
+<li><a href="/contacts/">Контакты</a></li>
+</ul>
+<span id="scrollup-master" class="scrollup-button" title="Scroll to Top" style="display: inline;"> <svg xmlns="http://www.w3.org/2000/svg" class="scrollup-svg-icon" width="32" height="32" viewbox="0 0 24 24"><path d="M12 2q0.4 0 0.7 0.3l7 7q0.3 0.3 0.3 0.7 0 0.4-0.3 0.7t-0.7 0.3q-0.4 0-0.7-0.3l-5.3-5.3v15.6q0 0.4-0.3 0.7t-0.7 0.3-0.7-0.3-0.3-0.7v-15.6l-5.3 5.3q-0.3 0.3-0.7 0.3-0.4 0-0.7-0.3t-0.3-0.7q0-0.4 0.3-0.7l7-7q0.3-0.3 0.7-0.3z"></path></svg> </span>
+<div class="clear"></div>
+<div class="wrapper">
+<div class="block"><a class="logo_footer"></a> <a href="https://itc-media.ru" target="_blank" class="dev">Создание сайтов ITC-Media</a> <a style="margin-top: 5px; font-size: 12px;" class="dev" href="https://www.hostcms.ru" target="_blank">На базе Host CMS</a> <a href="/privacy-policy/" class="privacy" target="_blank" style="margin-top: 5px; font-size: 12px;">Политика конфиденциальности</a></div>
+<div class="block">
+<ul class="serv_blue">
+<li><a href="/1C-Predpriyatie/">1С Предприятие</a></li>
+<li><a href="/1C-Bukhgalteriya/" rel="nofollow">Бухгалтерское обслуживание </a></li>
+<li><a href="/1C-Programmy/">Программы 1С</a></li>
+<li><a href="/tehnicheskoe-obsluzhivanie-pk/">Обслуживание ПК</a></li>
+<li><a href="/map/">Карта-сайта&nbsp;</a></li>
+</ul>
+</div>
+<!-- <div class="block"><span class="soc">Мы в&nbsp;социальных сетях:</span>
+<ul class="socials">
+<li><a href="#" class="vk"></a></li>
+<li><a href="#" class="fb"></a></li>
+<li><a href="#" class="rss"></a></li>
+</ul>
+</div> -->
+<div class="block"><span class="address"><span>Наши контакты:</span><br /> г. Брянск&nbsp;<span>ул. Ульянова, дом&nbsp;4, офис 403</span></span></div>
+<div class="block last"><span class="phones" style="padding-left: 23px;"><a href="tel:79003749314"><span>+7<span style="margin-right: 0.3em"> </span> <span style="margin-left: -0.3em">(900</span></span>) 374-93-14</a></span> <span class="phones" style="margin-top: 20px;"> <a style="font-size: 26px; margin-left: 58px; color: white;" href="mailto:ds_032@inbox.ru">ds_032@inbox.ru</a></span></div>
+</div>
+</div>
+<div itemscope="" itemtype="http://schema.org/Organization"><meta itemprop="name" content="Дейта Сервис" />
+<div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress"><meta itemprop="streetAddress" content="ул. Ульянова, дом&nbsp;4, офис 403" /><meta itemprop="postalCode" content="241035" /><meta itemprop="addressLocality" content="Брянск" /></div>
+<meta itemprop="telephone" content="+7 (900) 374-93-14" /><meta itemprop="telephone" content="+7 (4832) 370-353" /><meta itemprop="email" content="ds_032@inbox.ru" /></div>
+		<script src="/js/jquery-1.10.2.min.js"></script>
+			<script src="/js/jquery.slides.min.js"></script>
+		<script src="/js/jquery.jcarousel.min.js"></script>
+		<script src="/js/jcarousel.responsive.js"></script>
+		<!-- LightBox -->
+		<script src="/hostcmsfiles/jquery/lightbox/js/jquery.lightbox.js"></script>
+		<link rel="stylesheet" type="text/css" href="/hostcmsfiles/jquery/lightbox/css/jquery.lightbox.css" media="screen" />
+		<script>
+
+			$(function() {
+				$('#gallery a[target="_blank"]:has(img)').lightBox();
+				$('a.lightbox').lightBox();
+
+			});
+
+		</script>
+				<script> $(document).ready(function(){
+         
+        var $menu = $("#skroll");
+             
+        $(window).scroll(function(){
+            if ( $(this).scrollTop() > 20 && $menu.hasClass("nav_container") ){
+                $menu.fadeOut('fast',function(){
+                    $(this).removeClass("nav_container")
+                           .addClass("nav_container1")
+                           .fadeIn('fast');
+                });
+            } else if($(this).scrollTop() <= 20 && $menu.hasClass("nav_container1")) {
+                $menu.fadeOut('fast',function(){
+                    $(this).removeClass("nav_container1")
+                           .addClass("nav_container")
+                           .fadeIn('fast');
+                });
+            }
+        });        
+    });</script>
+		<script>
+			$(document).ready(function(){
+				$('.callform, .prog_order, .booking2, .prog2_order, .its-zak, .vyzov-form, .view-form').on('click', function(e){
+					e.preventDefault();
+					$('.bg').show();
+					$('.pop_up').show();
+				});
+				$('.close, .bg').on('click', function(e){
+					e.preventDefault();
+					$('.bg').hide();
+					$('.pop_up').hide();
+
+				});
+				
+				$('.kons-button').on('click', function(e){
+					e.preventDefault();
+					$('.bg').show();
+					$('.pop_up_form.konsalt').show();
+				});
+				$('.close, .bg').on('click', function(e){
+					e.preventDefault();
+					$('.bg').hide();
+					$('.pop_up_form.konsalt').hide();
+
+				});
+				
+				
+				$('.budzg-button').on('click', function(e){
+					e.preventDefault();
+					$('.bg').show();
+					$('.pop_up_form.budzg').show();
+				});
+				$('.close, .bg').on('click', function(e){
+					e.preventDefault();
+					$('.bg').hide();
+					$('.pop_up_form.budzg').hide();
+
+				});
+				
+				$('.show_vid').on('click', function(e){
+					e.preventDefault();
+					$('.video').show();
+					$('.bg').show();
+					var $obj = $(this).parents('body').find(".youtube");
+					$obj.fadeIn();
+					if($obj.find('iframe').length === 0) {
+						var youtube_code = $obj.attr("data-youtube");
+						var htm = "<iframe width='507' height='320' src='//www.youtube.com/embed/" + youtube_code + "?autoplay=1' allowfullscreen></iframe>";
+						$obj.append(htm);
+					}
+
+				});
+				$('.show_vid_report').on('click', function(e){
+					e.preventDefault();
+					$('.video_report').show();
+					$('.bg').show();
+					var $obj = $(this).parents('body').find(".youtube_rep");
+					$obj.fadeIn();
+					if($obj.find('iframe').length === 0) {
+						var youtube_code = $obj.attr("data-youtube");
+						var htm = "<iframe width='507' height='320' src='//www.youtube.com/embed/" + youtube_code + "?autoplay=1' allowfullscreen></iframe>";
+						$obj.append(htm);
+					}
+
+				});
+				$('.close2, .bg').on('click', function(e){
+					e.preventDefault();
+					$('.bg').hide();
+					$('.video div').html("");
+					$('.video').hide();
+
+				});
+				$('.close_rep, .bg').on('click', function(e){
+					e.preventDefault();
+					$('.bg').hide();
+					$('.video div').html("");
+					$('.video').hide();
+
+				});
+				$('#tehno').on('click', function(e){
+					$('.name_product').val('Техно')       
+				});
+				$('#oblako').on('click', function(e){
+					$('.name_product').val('Облако')       
+				});
+				$('#prof').on('click', function(e){
+					$('.name_product').val('Проф')       
+				});
+				$('#corp').on('click', function(e){
+					$('.name_product').val('Корпоративная')       
+				});
+			});
+
+		</script>	
+
+		<script src="/hostcmsfiles/jquery/jquery.validate.min.js"></script>
+		<script src="/js/jquery.maskedinput.min.js"></script>
+		<script src="/js/jquery.form.min.js"></script>
+		<script src="/js/all-forms.js"></script>
+		<script src="/templates/template1/hostcms.js"></script>
+		<script src="/hostcmsfiles/main.js"></script>
+	
+		<script src="/js/jquery.scrollTo-min.js" ></script>
+		<script src="/js/main.js"></script>
+
+		<!-- BEGIN JIVOSITE CODE {literal} -->
+		<script>
+			(function(){ var widget_id = 'w24xXbaf1X';
+									var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+		<!-- {/literal} END JIVOSITE CODE -->
+
+		<!-- Yandex.Metrika counter -->
+		<script>
+			(function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+					try {
+						w.yaCounter32075781 = new Ya.Metrika({
+							id:32075781,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true,
+							webvisor:true
+						});
+					} catch(e) { }
+				});
+
+				var n = d.getElementsByTagName("script")[0],
+						s = d.createElement("script"),
+						f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+				if (w.opera == "[object Opera]") {
+					d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");
+		</script>
+		<script>
+	$(document).ready(function(){
+	$('.table_main tr').each(function(){
+			
+		$('.table_main tr td:nth-of-type(2)').addClass('perviy');
+		$('.table_main tr td:nth-of-type(3)').addClass('vtoroy');
+		$('.table_main tr td:nth-of-type(4)').addClass('tretiy');
+		$('.table_main tr td:nth-of-type(5)').addClass('chetvertiy');
+		$('.table_cell_center').removeClass('perviy');
+	});
+
+	$('.perviy').mouseover(function(){
+		$('.perviy').addClass('table_hover');
+	})
+	$('.perviy').mouseout(function(){
+		$('.perviy').removeClass('table_hover');
+	})
+	$('.vtoroy').mouseover(function(){
+		$('.vtoroy').addClass('table_hover');
+	})
+	$('.vtoroy').mouseout(function(){
+		$('.vtoroy').removeClass('table_hover');
+	})
+	$('.tretiy').mouseover(function(){
+		$('.tretiy').addClass('table_hover');
+	})
+	$('.tretiy').mouseout(function(){
+		$('.tretiy').removeClass('table_hover');
+	})
+	$('.chetvertiy').mouseover(function(){
+		$('.chetvertiy').addClass('table_hover');
+	})
+	$('.chetvertiy').mouseout(function(){
+		$('.chetvertiy').removeClass('table_hover');
+	})
+});
+</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/32075781" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+		<script crossorigin="anonymous" async src="//api.pozvonim.com/widget/callback/v3/edce3f0ee4767588f7718703d8bf09e6/connect" id="check-code-pozvonim"></script>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85760761-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 4478884
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=4478884" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+	</body>
+</html>

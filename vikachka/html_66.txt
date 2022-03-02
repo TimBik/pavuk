@@ -1,0 +1,1391 @@
+<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" class=" ">
+	<head>
+						<title>ИТС — интеллектуальные системы -  its.ooo</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext' rel='stylesheet'>
+		<link href='https://fonts.googleapis.com/css?family=Ubuntu:400,700italic,700,500italic,500,400italic,300,300italic&subset=latin,cyrillic-ext' rel='stylesheet'>
+																		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="итс, its, системы управления, система управления организацией" />
+<meta name="description" content="Главным направлением работы компании является создание интеллектуальных систем нового поколения, предназначенных для управления ресурсами предприятий и поддержки принятия решений в реальном времени в сфере транспортной логистики, сервисного обслуживания объектов инфраструктуры, производственных предприятий и ряда других." />
+<link href="/bitrix/cache/css/s1/aspro-scorp/kernel_main/kernel_main_v1.css?155729641428585"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/aspro-scorp/template_9106ec23db25476d7df141d27f17c5bd/template_9106ec23db25476d7df141d27f17c5bd_v1.css?1557209210326335"  data-template-style="true" rel="stylesheet" />
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213549','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4126f7c2796f8d1d14ae0b90f53fd4f8'});</script>
+
+
+<script  src="/bitrix/cache/js/s1/aspro-scorp/kernel_main/kernel_main_v1.js?1557296414323839"></script>
+<script  src="/bitrix/cache/js/s1/aspro-scorp/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?15572092102506"></script>
+<script src="/bitrix/js/main/loadext/loadext.min.js?1557208752810"></script>
+<script src="/bitrix/js/main/loadext/extension.min.js?15572087521304"></script>
+<script src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?155720874693637"></script>
+<script src="/bitrix/js/main/ajax.js?155720875235509"></script>
+<script>BX.setJSList(['/bitrix/js/main/core/core_promise.js','/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/templates/aspro-scorp/js/jquery.actual.min.js','/bitrix/templates/aspro-scorp/js/jquery.fancybox.js','/bitrix/templates/aspro-scorp/js/blink.js','/bitrix/templates/aspro-scorp/vendor/jquery.easing.js','/bitrix/templates/aspro-scorp/vendor/jquery.appear.js','/bitrix/templates/aspro-scorp/vendor/jquery.cookie.js','/bitrix/templates/aspro-scorp/vendor/bootstrap.js','/bitrix/templates/aspro-scorp/vendor/flexslider/jquery.flexslider-min.js','/bitrix/templates/aspro-scorp/vendor/jquery.validate.min.js','/bitrix/templates/aspro-scorp/js/jquery.uniform.min.js','/bitrix/templates/aspro-scorp/js/jqModal.js','/bitrix/templates/aspro-scorp/js/detectmobilebrowser.js','/bitrix/templates/aspro-scorp/js/general.js','/bitrix/templates/aspro-scorp/js/custom.js','/bitrix/components/bitrix/search.title/script.js','/bitrix/templates/aspro-scorp/js/jquery.inputmask.bundle.min.js','/bitrix/templates/aspro-scorp/components/bitrix/subscribe.edit/footer/script.js']); </script>
+<script>BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/templates/aspro-scorp/css/bootstrap.css','/bitrix/templates/aspro-scorp/css/fonts/font-awesome/css/font-awesome.min.css','/bitrix/templates/aspro-scorp/vendor/flexslider/flexslider.css','/bitrix/templates/aspro-scorp/css/jquery.fancybox.css','/bitrix/templates/aspro-scorp/css/theme-elements.css','/bitrix/templates/aspro-scorp/css/theme-responsive.css','/bitrix/templates/aspro-scorp/css/animate.min.css','/bitrix/templates/.default/ajax/ajax.css','/bitrix/templates/aspro-scorp/styles.css','/bitrix/templates/aspro-scorp/template_styles.css','/bitrix/templates/aspro-scorp/css/responsive.css','/bitrix/templates/aspro-scorp/themes/6/colors.css','/bitrix/templates/aspro-scorp/css/custom.css']); </script>
+<script>BX.message({'JS_REQUIRED':'Заполните это поле!','JS_FORMAT':'Неверный формат!','JS_FILE_EXT':'Недопустимое расширение файла!','JS_PASSWORD_COPY':'Пароли не совпадают!','JS_PASSWORD_LENGTH':'Минимум 6 символов!','JS_ERROR':'Неверно заполнено поле!','JS_RECAPTCHA_ERROR':'Не подтверждено!','JS_PROCESSING_ERROR':'Согласитесь с условиями!','JS_FILE_SIZE':'Максимальный размер 5мб!','JS_FILE_BUTTON_NAME':'Выберите файл','JS_FILE_DEFAULT':'Файл не найден','JS_DATE':'Некорректная дата!','JS_DATETIME':'Некорректная дата/время!','S_CALLBACK':'Заказать звонок','ERROR_INCLUDE_MODULE_SCORP_TITLE':'Ошибка подключения модуля &laquo;Аспро: Корпоративный сайт современной компании&raquo;','ERROR_INCLUDE_MODULE_SCORP_TEXT':'Ошибка подключения модуля &laquo;Аспро: Корпоративный сайт современной компании&raquo;.<br />Пожалуйста установите модуль и повторите попытку','S_SERVICES':'Наши услуги','S_SERVICES_SHORT':'Услуги','S_TO_ALL_SERVICES':'Все услуги','S_CATALOG':'Каталог товаров','S_CATALOG_SHORT':'Каталог','S_TO_ALL_CATALOG':'Весь каталог','S_CATALOG_FAVORITES':'Наши товары','S_CATALOG_FAVORITES_SHORT':'Товары','S_NEWS':'Новости','S_TO_ALL_NEWS':'Все новости','S_COMPANY':'О компании','S_OTHER':'Прочее','S_CONTENT':'Контент','T_JS_ARTICLE':'Артикул: ','T_JS_NAME':'Наименование: ','T_JS_PRICE':'Цена: ','T_JS_QUANTITY':'Количество: ','T_JS_SUMM':'Сумма: '})</script>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="/bitrix/templates/aspro-scorp/themes/6/images/favicon_57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/bitrix/templates/aspro-scorp/themes/6/images/favicon_72.png" />
+<style>.maxwidth-banner{max-width: none;}</style>
+<meta property="og:title" content="ИТС — интеллектуальные системы -  its.ooo" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="/logo.png" />
+<link rel="image_src" href="/logo.png"  />
+<meta property="og:url" content="/" />
+<meta property="og:description" content="Главным направлением работы компании является создание интеллектуальных систем нового поколения, предназначенных для управления ресурсами предприятий и поддержки принятия решений в реальном времени в сфере транспортной логистики, сервисного обслуживания объектов инфраструктуры, производственных предприятий и ряда других." />
+
+
+
+<script  src="/bitrix/cache/js/s1/aspro-scorp/template_a584ddd109fb82586cefda8546716635/template_a584ddd109fb82586cefda8546716635_v1.js?1557209210237795"></script>
+<script  src="/bitrix/cache/js/s1/aspro-scorp/default_a8c55f6658b8fd96708eb7cc0c2be2c4/default_a8c55f6658b8fd96708eb7cc0c2be2c4_v1.js?1557209210448"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "3454f09d2ec7c3871ea374d97040f2a6"]); _ba.push(["host", "its.ooo"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+																																			</head>
+	<body>
+	<!-- Yandex.Metrika counter -->
+	<script >
+	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+	   ym(53464912, "init", {
+			clickmap:true,
+			trackLinks:true,
+			accurateTrackBounce:true,
+			webvisor:true
+	   });
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/53464912" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->
+										<script>
+		var arBasketItems = {};
+		var arScorpOptions = ({
+			'SITE_DIR' : '/',
+			'SITE_ID' : 's1',
+			'SITE_TEMPLATE_PATH' : '/bitrix/templates/aspro-scorp',
+			'THEME' : ({
+				'THEME_SWITCHER' : 'N',
+				'BASE_COLOR' : '6',
+				'BASE_COLOR_CUSTOM' : 'e65100',
+				'TOP_MENU' : 'LIGHT',
+				'TOP_MENU_FIXED' : 'Y',
+				'COLORED_LOGO' : 'N',
+				'SIDE_MENU' : 'LEFT',
+				'SCROLLTOTOP_TYPE' : 'ROUND_COLOR',
+				'SCROLLTOTOP_POSITION' : 'PADDING',
+				'ADD_SITE_NAME_IN_TITLE' : 'Y',
+				'USE_CAPTCHA_FORM' : 'NONE',
+				'DISPLAY_PROCESSING_NOTE' : 'N',
+				'PROCESSING_NOTE_CHECKED' : 'N',
+				'PHONE_MASK' : '+7 (999) 999-99-99',
+				'VALIDATE_PHONE_MASK' : '^[+][0-9] [(][0-9]{3}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$',
+				'DATE_MASK' : 'd.m.y',
+				'DATE_PLACEHOLDER' : 'дд.мм.гггг',
+				'VALIDATE_DATE_MASK' : '^[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}$',
+				'DATETIME_MASK' : 'd.m.y h:s',
+				'DATETIME_PLACEHOLDER' : 'дд.мм.гггг чч:мм',
+				'VALIDATE_DATETIME_MASK' : '^[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4} [0-9]{1,2}\:[0-9]{1,2}$',
+				'VALIDATE_FILE_EXT' : 'png|jpg|jpeg|gif|doc|docx|xls|xlsx|txt|pdf|odt|rtf',
+				'SOCIAL_VK' : 'https://vk.com/its163',
+				'SOCIAL_FACEBOOK' : 'https://www.facebook.com/its63',
+				'SOCIAL_TWITTER' : '',
+				'SOCIAL_YOUTUBE' : 'https://www.youtube.com/channel/UCbEdPtBs8b5ily6pl2VzrOg',
+				'SOCIAL_ODNOKLASSNIKI' : '',
+				'SOCIAL_GOOGLEPLUS' : '',
+				'BANNER_WIDTH' : 'AUTO',
+				'TEASERS_INDEX' : 'PICTURES',
+				'CATALOG_INDEX' : 'Y',
+				'CATALOG_FAVORITES_INDEX' : 'Y',
+				'BIGBANNER_ANIMATIONTYPE' : 'SLIDE_HORIZONTAL',
+				'BIGBANNER_SLIDESSHOWSPEED' : '5000',
+				'BIGBANNER_ANIMATIONSPEED' : '600',
+				'PARTNERSBANNER_SLIDESSHOWSPEED' : '5000',
+				'PARTNERSBANNER_ANIMATIONSPEED' : '600',
+				'ORDER_VIEW' : 'N',
+				'ORDER_BASKET_VIEW' : 'HEADER',
+				'URL_BASKET_SECTION' : '/cart/',
+				'URL_ORDER_SECTION' : '/cart/order/',
+				'USE_YA_COUNTER' : 'N',
+				'YA_COUNTER_ID' : '',
+				'USE_FORMS_GOALS' : 'COMMON',
+				'USE_SALE_GOALS' : 'Y',
+				'USE_DEBUG_GOALS' : 'N',
+			})
+		});
+
+		$(document).ready(function(){
+			if($.trim(arScorpOptions['THEME']['ORDER_VIEW']) === 'Y' && ($.trim(window.location.pathname) != $.trim(arScorpOptions['THEME']['URL_BASKET_SECTION'])) && ($.trim(window.location.pathname) != $.trim(arScorpOptions['THEME']['URL_ORDER_SECTION']))){
+				if(arScorpOptions['THEME']['ORDER_BASKET_VIEW'] === 'FLY'){
+					$.ajax({
+						url: arScorpOptions['SITE_DIR'] + 'ajax/basket_items.php',
+						type: 'POST',
+						success: function(html){
+							$('body').prepend('<div class="ajax_basket">' + html + '</div>');
+							setTimeout(function(){
+								$('.ajax_basket').addClass('ready');
+								$('.basket.fly>.wrap').addClass(arScorpOptions['THEME']['TOP_MENU']);
+								$('.basket_top.basketFlyTrue').removeClass('hidden').find('.count').text($('.basket .count').text());
+							}, 50);
+						}
+					});
+				}
+				else if(arScorpOptions['THEME']['ORDER_BASKET_VIEW'] === 'HEADER'){
+					$.ajax({
+						url: arScorpOptions['SITE_DIR'] + 'ajax/basket_items.php ',
+						type: 'POST',
+						success: function(html){
+							$('.mega-menu .table-menu.basketTrue table td.search-item>.wrap').append('<div class="ajax_basket">' + html + '</div>');
+							$('header .logo-row .top-callback').prepend('<div class="ajax_basket">' + html + '</div>');
+							setTimeout(function(){
+								$('.ajax_basket').addClass('ready');
+							}, 50);
+						}
+					});
+				}
+			}
+
+		});
+
+		</script>
+		<!--'start_frame_cache_options-block'--><!--'end_frame_cache_options-block'-->																													<div class="body index">
+			<div class="body_media"></div>
+			<header class="topmenu-LIGHT canfixed">
+				<div class="logo_and_menu-row">
+					<div class="logo-row row">
+						<div class="maxwidth-theme">
+							<div class="col-md-3 col-sm-4">
+								<div class="logo">
+									<a href="/"><img src="/logo1.png" alt="ИТС — интеллектуальные системы" title="ИТС — интеллектуальные системы" /></a>								</div>
+							</div>
+							<div class="col-md-9 col-sm-8 col-xs-12">
+								<div class="top-description col-md-4 hidden-sm hidden-xs">
+									<div>
+	 Мы создаем интеллектуальные <br>
+	системы для управления <br>
+	 Вашим бизнесом!<br>
+</div>
+ <br>								</div>
+								<div class="top-callback col-md-8">
+																		<div class="callback pull-right hidden-xs" data-event="jqm" data-param-id="24" data-name="callback">
+										<a href="javascript:;" rel="nofollow" class="btn btn-default white btn-xs">Заказать звонок</a>
+									</div>
+									<div class="phone pull-right hidden-xs">
+										<div class="phone-number">
+											<i class="fa fa-phone"></i>
+											<div>+7 (846) 219-26-28</div>
+										</div>
+										<div class="phone-desc pull-right">
+											<a href="https://e.mail.ru/compose/?mailto=mailto%3ainfo@its.ooo" target="_blank">Ц</a>ентральный офис										</div>
+									</div>
+									<div class="email pull-right">
+										<i class="fa fa-envelope"></i>
+										<div><a href="https://e.mail.ru/compose/?mailto=mailto%3ainfo@its.ooo" target="_blank">info@its.ooo</a><br></div>
+									</div>
+									<button class="btn btn-responsive-nav visible-xs" data-toggle="collapse" data-target=".nav-main-collapse">
+										<i class="fa fa-bars"></i>
+									</button>
+								</div>
+							</div>
+						</div>
+					</div>					<div class="menu-row row">
+						<div class="maxwidth-theme">
+							<div class="col-md-12">
+								<div class="nav-main-collapse collapse">
+									<div class="menu-only">
+										<nav class="mega-menu">
+												<div class="table-menu hidden-xs">
+		<table>
+			<tr>
+														<td class="dropdown ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/company/" title="Компания">
+								Компания																	&nbsp;<i class="fa fa-angle-down"></i>
+															</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																													<li class=" ">
+											<a href="/company/?" title="О компании">О компании</a>
+																					</li>
+																													<li class=" ">
+											<a href="/company/history/" title="История">История</a>
+																					</li>
+																													<li class=" ">
+											<a href="/company/licenses/" title="Лицензии">Лицензии</a>
+																					</li>
+																													<li class=" ">
+											<a href="/company/partners/" title="Партнеры">Партнеры</a>
+																					</li>
+																													<li class=" ">
+											<a href="/company/reviews/" title="Наши клиенты о нас">Наши клиенты о нас</a>
+																					</li>
+																													<li class=" ">
+											<a href="/company/staff/" title="Сотрудники">Сотрудники</a>
+																					</li>
+																													<li class=" ">
+											<a href="/company/requisites/" title="Реквизиты">Реквизиты</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														<td class="dropdown ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/products/" title="Продукты">
+								Продукты																	&nbsp;<i class="fa fa-angle-down"></i>
+															</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																													<li class="dropdown-submenu ">
+											<a href="/products/smartruck-sistema-upravleniya-transportom/" title="SmarTruck - система управления транспортом">SmarTruck - система управления транспортом</a>
+																							<ul class="dropdown-menu">
+																																									<li class=" ">
+															<a href="/products/smartruck-sistema-upravleniya-transportom/smartruck-sistema-upravleniya-transportom/" title="SmarTruck - система управления транспортом">SmarTruck - система управления транспортом</a>
+																													</li>
+																									</ul>
+																					</li>
+																													<li class="dropdown-submenu ">
+											<a href="/products/smarteams-sistema-upravleniya-mobilnym-personalom/" title="SmarTeams - система управления мобильным персоналом">SmarTeams - система управления мобильным персоналом</a>
+																							<ul class="dropdown-menu">
+																																									<li class=" ">
+															<a href="/products/smarteams-sistema-upravleniya-mobilnym-personalom/smarteams-sistema-upravleniya-mobilnym-personalom/" title="SmarTeams - система управления мобильным персоналом">SmarTeams - система управления мобильным персоналом</a>
+																													</li>
+																									</ul>
+																					</li>
+																													<li class="dropdown-submenu ">
+											<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" title="SmartProduction - система оперативного управления производством ">SmartProduction - система оперативного управления производством </a>
+																							<ul class="dropdown-menu">
+																																									<li class=" ">
+															<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" title="SmartProduction - система оперативного управления производством ">SmartProduction - система оперативного управления производством </a>
+																													</li>
+																									</ul>
+																					</li>
+																													<li class="dropdown-submenu ">
+											<a href="/products/dopolnitelnye-uslugi/" title="Дополнительные услуги">Дополнительные услуги</a>
+																							<ul class="dropdown-menu">
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/integratsiya-s-gps-glonass-monitoringom/" title="Интеграция с GPS/Глонасс мониторингом">Интеграция с GPS/Глонасс мониторингом</a>
+																													</li>
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/dorabotka-i-integratsiya-vashey-sistemy-1s-pod-nashi-produkty/" title="Доработка и интеграция Вашей системы 1с под наши продукты">Доработка и интеграция Вашей системы 1с под наши продукты</a>
+																													</li>
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/audit-biznes-protsessov-logisticheskikh-kompaniy/" title="Аудит бизнес процессов логистических компаний">Аудит бизнес процессов логистических компаний</a>
+																													</li>
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/upravlenie-dostavkoy-internet-magazina/" title="Управление доставкой интернет магазина">Управление доставкой интернет магазина</a>
+																													</li>
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/upravlenie-benzovozami/" title="Управление бензовозами">Управление бензовозами</a>
+																													</li>
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/upravlenie-merchendayzerami/" title="Управление мерчендайзерами">Управление мерчендайзерами</a>
+																													</li>
+																																									<li class=" ">
+															<a href="/products/dopolnitelnye-uslugi/upravlenie-musorovozami/" title="Управление мусоровозами">Управление мусоровозами</a>
+																													</li>
+																									</ul>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														<td class="dropdown ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/projects/" title="Проекты">
+								Проекты																	&nbsp;<i class="fa fa-angle-down"></i>
+															</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																													<li class=" ">
+											<a href="/projects/vypolnennye-proekty/koka-kola-ispolzuet-smartruck-/" title="Кока Кола использует SmarTruck ">Кока Кола использует SmarTruck </a>
+																					</li>
+																													<li class=" ">
+											<a href="/projects/vypolnennye-proekty/elektrum-ispolzuet-smartproduction/" title="Электрум использует SmartProduction">Электрум использует SmartProduction</a>
+																					</li>
+																													<li class=" ">
+											<a href="/projects/vypolnennye-proekty/svgk-ispolzuet-smarteams/" title="СВГК использует SmarTeams">СВГК использует SmarTeams</a>
+																					</li>
+																													<li class=" ">
+											<a href="/projects/vypolnennye-proekty/trasko-ispolzuet-smartruck/" title="Траско использует SmarTruck">Траско использует SmarTruck</a>
+																					</li>
+																													<li class=" ">
+											<a href="/projects/vypolnennye-proekty/resurstrans-ispolzuet-smarteams/" title="РесурсТранс использует SmarTeams">РесурсТранс использует SmarTeams</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														<td class="dropdown ">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/info/" title="Информация">
+								Информация																	&nbsp;<i class="fa fa-angle-down"></i>
+															</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																													<li class=" ">
+											<a href="/info/news/" title="Новости">Новости</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/articles/" title="Статьи">Статьи</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/presentation/" title="Презентации">Презентации</a>
+																					</li>
+																													<li class=" ">
+											<a href="/info/faq/" title="Вопрос ответ">Вопрос ответ</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+														<td class=" ">
+						<div class="wrap">
+							<a class="" href="/contacts/" title="Контакты">
+								Контакты															</a>
+													</div>
+					</td>
+								<td class="dropdown js-dropdown nosave" style="display:none;">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>...</span>
+						</a>
+						<span class="tail"></span>
+						<ul class="dropdown-menu"></ul>
+					</div>
+				</td>
+				<td class="search-item nosave">
+					<div class="wrap">
+						<a href="#" class="search-icon pull-left" title="Поиск по сайту">
+							<i class="fa fa-search"></i>
+						</a>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<ul class="nav nav-pills responsive-menu visible-xs" id="mainMenu">
+								<li class="dropdown ">
+				<a class="dropdown-toggle1" href="/company/" title="Компания">
+					Компания											<i class="fa fa-angle-down dropdown-toggle"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class=" ">
+								<a href="/company/?" title="О компании">
+									О компании																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/company/history/" title="История">
+									История																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/company/licenses/" title="Лицензии">
+									Лицензии																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/company/partners/" title="Партнеры">
+									Партнеры																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/company/reviews/" title="Наши клиенты о нас">
+									Наши клиенты о нас																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/company/staff/" title="Сотрудники">
+									Сотрудники																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/company/requisites/" title="Реквизиты">
+									Реквизиты																	</a>
+															</li>
+											</ul>
+							</li>
+								<li class="dropdown ">
+				<a class="dropdown-toggle1" href="/products/" title="Продукты">
+					Продукты											<i class="fa fa-angle-down dropdown-toggle"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class="dropdown-submenu dropdown-toggle ">
+								<a href="/products/smartruck-sistema-upravleniya-transportom/" title="SmarTruck - система управления транспортом">
+									SmarTruck - система управления транспортом																			&nbsp;<i class="fa fa-angle-down"></i>
+																	</a>
+																	<ul class="dropdown-menu">
+																																<li class=" ">
+												<a href="/products/smartruck-sistema-upravleniya-transportom/smartruck-sistema-upravleniya-transportom/" title="SmarTruck - система управления транспортом">
+													SmarTruck - система управления транспортом																									</a>
+																							</li>
+																			</ul>
+															</li>
+																				<li class="dropdown-submenu dropdown-toggle ">
+								<a href="/products/smarteams-sistema-upravleniya-mobilnym-personalom/" title="SmarTeams - система управления мобильным персоналом">
+									SmarTeams - система управления мобильным персоналом																			&nbsp;<i class="fa fa-angle-down"></i>
+																	</a>
+																	<ul class="dropdown-menu">
+																																<li class=" ">
+												<a href="/products/smarteams-sistema-upravleniya-mobilnym-personalom/smarteams-sistema-upravleniya-mobilnym-personalom/" title="SmarTeams - система управления мобильным персоналом">
+													SmarTeams - система управления мобильным персоналом																									</a>
+																							</li>
+																			</ul>
+															</li>
+																				<li class="dropdown-submenu dropdown-toggle ">
+								<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" title="SmartProduction - система оперативного управления производством ">
+									SmartProduction - система оперативного управления производством 																			&nbsp;<i class="fa fa-angle-down"></i>
+																	</a>
+																	<ul class="dropdown-menu">
+																																<li class=" ">
+												<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" title="SmartProduction - система оперативного управления производством ">
+													SmartProduction - система оперативного управления производством 																									</a>
+																							</li>
+																			</ul>
+															</li>
+																				<li class="dropdown-submenu dropdown-toggle ">
+								<a href="/products/dopolnitelnye-uslugi/" title="Дополнительные услуги">
+									Дополнительные услуги																			&nbsp;<i class="fa fa-angle-down"></i>
+																	</a>
+																	<ul class="dropdown-menu">
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/integratsiya-s-gps-glonass-monitoringom/" title="Интеграция с GPS/Глонасс мониторингом">
+													Интеграция с GPS/Глонасс мониторингом																									</a>
+																							</li>
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/dorabotka-i-integratsiya-vashey-sistemy-1s-pod-nashi-produkty/" title="Доработка и интеграция Вашей системы 1с под наши продукты">
+													Доработка и интеграция Вашей системы 1с под наши продукты																									</a>
+																							</li>
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/audit-biznes-protsessov-logisticheskikh-kompaniy/" title="Аудит бизнес процессов логистических компаний">
+													Аудит бизнес процессов логистических компаний																									</a>
+																							</li>
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/upravlenie-dostavkoy-internet-magazina/" title="Управление доставкой интернет магазина">
+													Управление доставкой интернет магазина																									</a>
+																							</li>
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/upravlenie-benzovozami/" title="Управление бензовозами">
+													Управление бензовозами																									</a>
+																							</li>
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/upravlenie-merchendayzerami/" title="Управление мерчендайзерами">
+													Управление мерчендайзерами																									</a>
+																							</li>
+																																<li class=" ">
+												<a href="/products/dopolnitelnye-uslugi/upravlenie-musorovozami/" title="Управление мусоровозами">
+													Управление мусоровозами																									</a>
+																							</li>
+																			</ul>
+															</li>
+											</ul>
+							</li>
+								<li class="dropdown ">
+				<a class="dropdown-toggle1" href="/projects/" title="Проекты">
+					Проекты											<i class="fa fa-angle-down dropdown-toggle"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class=" ">
+								<a href="/projects/vypolnennye-proekty/koka-kola-ispolzuet-smartruck-/" title="Кока Кола использует SmarTruck ">
+									Кока Кола использует SmarTruck 																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/projects/vypolnennye-proekty/elektrum-ispolzuet-smartproduction/" title="Электрум использует SmartProduction">
+									Электрум использует SmartProduction																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/projects/vypolnennye-proekty/svgk-ispolzuet-smarteams/" title="СВГК использует SmarTeams">
+									СВГК использует SmarTeams																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/projects/vypolnennye-proekty/trasko-ispolzuet-smartruck/" title="Траско использует SmarTruck">
+									Траско использует SmarTruck																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/projects/vypolnennye-proekty/resurstrans-ispolzuet-smarteams/" title="РесурсТранс использует SmarTeams">
+									РесурсТранс использует SmarTeams																	</a>
+															</li>
+											</ul>
+							</li>
+								<li class="dropdown ">
+				<a class="dropdown-toggle1" href="/info/" title="Информация">
+					Информация											<i class="fa fa-angle-down dropdown-toggle"></i>
+									</a>
+									<ul class="dropdown-menu">
+																				<li class=" ">
+								<a href="/info/news/" title="Новости">
+									Новости																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/articles/" title="Статьи">
+									Статьи																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/presentation/" title="Презентации">
+									Презентации																	</a>
+															</li>
+																				<li class=" ">
+								<a href="/info/faq/" title="Вопрос ответ">
+									Вопрос ответ																	</a>
+															</li>
+											</ul>
+							</li>
+								<li class=" ">
+				<a class="" href="/contacts/" title="Контакты">
+					Контакты									</a>
+							</li>
+				<li class="search">
+			<div class="search-input-div">
+				<input class="search-input" type="text" autocomplete="off" maxlength="50" size="40" placeholder="Найти" value="" name="q">
+			</div>
+			<div class="search-button-div">
+				<button class="btn btn-search btn-default" value="Найти" name="s" type="submit">Найти</button>
+			</div>
+		</li>
+	</ul>
+										</nav>
+									</div>
+								</div>
+							</div>						</div>
+							<div class="search hide" id="title-search">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<form action="/search/">
+					<div class="search-input-div">
+						<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Найти" size="40" maxlength="50" autocomplete="off" />
+					</div>
+					<div class="search-button-div">
+						<button class="btn btn-search btn-default" type="submit" name="s" value="Найти">Найти</button>
+						<span class="fa fa-close" title="Закрыть"></span>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+<script>
+	var jsControl = new JCTitleSearch({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/',
+		'CONTAINER_ID': 'title-search',
+		'INPUT_ID': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script>					</div>				</div>
+				<div class="line-row visible-xs"></div>
+			</header>
+			<div role="main" class="main">
+									
+						<div class="greyline">
+				<div class="banners-big front">
+		<div class="maxwidth-banner">
+			<div class="flexslider unstyled " data-plugin-options='{"directionNav": true, "controlNav": true, "slideshow": true, "animation": "slide", "direction": "horizontal", "slideshowSpeed": 5000, "animationSpeed": 600, "animationLoop": true}'>
+				<ul class="slides items">
+																	<li class="item" id="bx_3218110189_4" style="background:url(/upload/iblock/c56/c566fa264ab12a8d07f0a10cde890df8.jpg) center center no-repeat;" data-slide_index="0" >
+															<div class="maxwidth-theme">
+									<div class="row dark ">
+										
+										
+																					<div class="col-md-6 text">
+												<div class="inner">
+																																																									<div class="title">SmarTruck - система управления транспортом</div>
+																						<div class="text-block">
+												<b>Автоматизация транспортной</b><br>
+ <b>логистики</b><br>											</div>
+																							<div class="buttons-block">
+																																								<a href="/products/smartruck-sistema-upravleniya-transportom/smartruck-sistema-upravleniya-transportom/" class="btn btn-default white">
+															Узнать больше														</a>
+																																								<a href="/products/smartruck-sistema-upravleniya-transportom/smartruck-sistema-upravleniya-transportom/" class="btn btn-default">
+															Приобрести продукт														</a>
+																									</div>
+																																											</div>
+											</div>
+											<div class="col-md-6 img">
+												<div class="inner">
+																																														<img src="/upload/iblock/717/717cc351e9148bbaa362df77fb7e0d29.png" alt="SmarTruck - система управления транспортом" title="SmarTruck - система управления транспортом" />
+																																											</div>
+											</div>
+																			</div>
+								</div>
+													</li>
+																	<li class="item" id="bx_3218110189_133" style="background:url(/upload/iblock/874/87466d2f2ca69895780a58d61756ae29.jpg) center center no-repeat;" data-slide_index="1" >
+															<div class="maxwidth-theme">
+									<div class="row light ">
+										
+										
+																					<div class="col-md-6 text">
+												<div class="inner">
+																																																									<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" class="title-link">
+													<div class="title">SmartProduction - система оперативного управления производством</div>
+												</a>
+																						<div class="text-block">
+												и управления ресурсами производственных предприятий на оперативном уровне<br>											</div>
+																							<div class="buttons-block">
+																																								<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" class="btn btn-default">
+															Узнать больше														</a>
+																																								<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" class="btn btn-default white">
+															Купить систему														</a>
+																									</div>
+																																											</div>
+											</div>
+											<div class="col-md-6 img">
+												<div class="inner">
+																																														<a href="/products/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/smartproduction-sistema-operativnogo-upravleniya-proizvodstvom-/" class="image">
+													<img src="/upload/iblock/079/0793cdf7b0466ecb555c61f1e4dc677d.png" alt="a" title="t" />
+												</a>
+																																											</div>
+											</div>
+																			</div>
+								</div>
+													</li>
+																	<li class="item" id="bx_3218110189_3" style="background:url(/upload/iblock/daf/daf6b9534c53c6e93e9ed71802018156.jpg) center center no-repeat;" data-slide_index="2" >
+															<div class="maxwidth-theme">
+									<div class="row dark ">
+										
+										
+																					<div class="col-md-6 text">
+												<div class="inner">
+																																																									<div class="title">SmarTeams - система управления персоналом</div>
+																						<div class="text-block">
+												Мобильных подразделений предприятия											</div>
+																							<div class="buttons-block">
+																																								<a href="/products/smarteams-sistema-upravleniya-mobilnym-personalom/smarteams-sistema-upravleniya-mobilnym-personalom/" class="btn btn-default">
+															Узнать больше														</a>
+																																								<a href="/products/smarteams-sistema-upravleniya-mobilnym-personalom/smarteams-sistema-upravleniya-mobilnym-personalom/" class="btn btn-default white">
+															Купить систему														</a>
+																									</div>
+																																											</div>
+											</div>
+											<div class="col-md-6 img">
+												<div class="inner">
+																																														<img src="/upload/iblock/a5d/a5dacb0a44f764cb0c08846d62de2da3.png" alt="a" title="t" />
+																																											</div>
+											</div>
+																			</div>
+								</div>
+													</li>
+									</ul>
+			</div>
+		</div>
+	</div>
+				<div class="row">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="banners-small front">
+					<div class="items row">
+																				<div class="col-md-3 col-sm-6">
+								<div class="item" id="bx_651765591_7">
+																			<div class="image">
+											<img src=/upload/iblock/2e7/2e77049ccc9054a1bc69ee89bb6c7478.png alt="Индивидуально подходим к вашим задачам" title="Индивидуально подходим к вашим задачам" />
+										</div>
+																		<div class="title">
+																					Индивидуально подходим к вашим задачам																			</div>
+								</div>
+							</div>
+																				<div class="col-md-3 col-sm-6">
+								<div class="item" id="bx_651765591_8">
+																			<div class="image">
+											<img src=/upload/iblock/fa3/fa3cfe190e25bbbfa4a38abaf3f36120.png alt="Автоматизируем ваш бизнес без ограничений" title="Автоматизируем ваш бизнес без ограничений" />
+										</div>
+																		<div class="title">
+																					Автоматизируем ваш бизнес без ограничений																			</div>
+								</div>
+							</div>
+																				<div class="col-md-3 col-sm-6">
+								<div class="item" id="bx_651765591_9">
+																			<div class="image">
+											<img src=/upload/iblock/4e8/4e8ec5921b82240114045e9d713eb923.png alt="Решаем сложные задачи изящными решениями" title="Решаем сложные задачи изящными решениями" />
+										</div>
+																		<div class="title">
+																					Решаем сложные задачи изящными решениями																			</div>
+								</div>
+							</div>
+																				<div class="col-md-3 col-sm-6">
+								<div class="item" id="bx_651765591_10">
+																			<div class="image">
+											<img src=/upload/iblock/8f5/8f5193d311af92550bf7f2f885bf9190.png alt="Легко интегрируем наши решения с вашими" title="Легко интегрируем наши решения с вашими" />
+										</div>
+																		<div class="title">
+																					Легко интегрируем наши решения с вашими																			</div>
+								</div>
+							</div>
+											</div>
+					<script>
+					BX.addCustomEvent('onWindowResize', function(eventdata) {
+						try{
+							ignoreResize.push(true);
+							var ih = $('.banners-small.front .item').height();
+							$('.banners-small.front .item .title').each(function() {
+								var h = $(this).height();
+								var p = 33;
+								//if(h > 45){
+									if((p = Math.floor((ih - h) / 2)) < 0){
+										p = 0;
+									}
+								//}
+								$(this).css('padding-top', p + 'px');
+							});
+						}
+						catch(e){}
+						finally{
+							ignoreResize.pop();
+						}
+					});
+					</script>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+			<div class="row">
+			<div class="maxwidth-theme">
+				<div class="col-md-12">
+													<div class="item-views sections teasers front">
+		<h3 class="underline">Дополнительные услуги</h3>
+ <!-- for narrow displays-->
+<h3 class="underline short">Услуги</h3>
+<p>
+</p>
+<p>
+	 Главным направлением работы компании является создание интеллектуальных систем нового поколения, предназначенных для управления ресурсами предприятий и поддержки принятия решений в реальном времени в сфере транспортной логистики, сервисного обслуживания объектов инфраструктуры, производственных предприятий&nbsp;и ряда других. &nbsp;
+</p>
+ <br>
+<p>
+</p>				<div class="items row">
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_14">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/integratsiya-s-gps-glonass-monitoringom/" class="blink">									<img src="/upload/iblock/289/289e167328169cfcdaa14c9d02b02561.jpg" alt="Интеграция с GPS/Глонасс мониторингом" title="Интеграция с GPS/Глонасс мониторингом" class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/integratsiya-s-gps-glonass-monitoringom/">										Интеграция с GPS/Глонасс мониторингом									</a>								</div>
+							
+																						<div class="text">
+									Интеграция систем с различными сервисами GPS мониторинга								</div>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_11">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/dorabotka-i-integratsiya-vashey-sistemy-1s-pod-nashi-produkty/" class="blink">									<img src="/upload/iblock/cac/cacba270ae81df1e9a7364ea01c604eb.jpg" alt="Доработка и интеграция Вашей системы 1с под наши продукты. " title="Доработка и интеграция Вашей системы 1с под наши продукты. " class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/dorabotka-i-integratsiya-vashey-sistemy-1s-pod-nashi-produkty/">										Доработка и интеграция Вашей системы 1с под наши продукты. 									</a>								</div>
+							
+																						<div class="text">
+									Доработка и интеграция системы 1с заказчика под текущие продукты.								</div>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_13">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/audit-biznes-protsessov-logisticheskikh-kompaniy/" class="blink">									<img src="/upload/iblock/7be/7bea44ccab212ddd04e567d9a4939fc7.jpg" alt="Аудит бизнес процессов логистических компаний" title="Аудит бизнес процессов логистических компаний" class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/audit-biznes-protsessov-logisticheskikh-kompaniy/">										Аудит бизнес процессов логистических компаний									</a>								</div>
+							
+																						<div class="text">
+									Аудит бизнес процессов и формирование предложений по их улучшению с помощью внедрения наших систем.								</div>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_130">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/upravlenie-dostavkoy-internet-magazina/" class="blink">									<img src="/upload/resize_cache/iblock/c9e/200_133_0/c9eea83c92307b7bf8ff272b5086e3ed.jpg" alt="Управление доставкой интернет магазина" title="Управление доставкой интернет магазина" class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/upravlenie-dostavkoy-internet-magazina/">										Управление доставкой интернет магазина									</a>								</div>
+							
+																						<div class="text">
+									Система управления сборкой и доставкой грузов интернет- магазинов Smart Assembly&Delivery								</div>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_16">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/upravlenie-benzovozami/" class="blink">									<img src="/upload/resize_cache/iblock/8e9/200_133_0/8e952a7b8a009bd743297315171b4b84.jpg" alt="Управление бензовозами" title="Управление бензовозами" class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/upravlenie-benzovozami/">										Управление бензовозами									</a>								</div>
+							
+																						<div class="text">
+									Системы оперативного управления предприятием по управлению бензовозами								</div>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_131">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/upravlenie-merchendayzerami/" class="blink">									<img src="/upload/resize_cache/iblock/8ac/200_133_0/8ace4fe5a066cd00947a2ec6f37b3caa.jpg" alt="Управление мерчендайзерами" title="Управление мерчендайзерами" class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/upravlenie-merchendayzerami/">										Управление мерчендайзерами									</a>								</div>
+							
+																						<div class="text">
+									Система создает расписание и маршрут объезда точек &#40;из заданной адресной программы&#41; торговыми представителями, с учетом различных ограничений								</div>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item noborder" id="bx_1373509569_15">
+																			<div class="image">
+								<a href="/products/dopolnitelnye-uslugi/upravlenie-musorovozami/" class="blink">									<img src="/upload/resize_cache/iblock/1d2/200_133_0/1d248b2ccff8662dc8d6e890c2df9cdd.jpg" alt="Управление мусоровозами" title="Управление мусоровозами" class="img-responsive" />
+								</a>							</div>
+												
+						<div class="info">
+																						<div class="title">
+									<a href="/products/dopolnitelnye-uslugi/upravlenie-musorovozami/">										Управление мусоровозами									</a>								</div>
+							
+																						<div class="text">
+									Системы оперативного управления предприятием по вывозу отходов								</div>
+													</div>
+					</div>
+				</div>
+					</div>
+		<script>
+		$(document).ready(function(){
+			$('.teasers.front .item .title').sliceHeight();
+			$('.teasers.front .item').sliceHeight();
+		});
+		</script>
+		<hr />
+	</div>
+									</div>
+			</div>
+		</div>
+		<div class="row">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="wraps">
+	<h4 class="underline">Видео о компании</h4>
+	<div class="row chars">
+		<div class="col-xs-12 col-md-7">
+			<div class="char-wrapp-img" style="margin-bottom: 15px; text-align: center;">
+				 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u6kSrIMvTQI" frameborder="0" allowfullscreen=""></iframe>
+			</div>
+		</div>
+		<div class="col-xs-12 col-md-5">
+			<p class="char-wrapp">
+			</p>
+			<p>
+				 Научно-производственная компания "Интеллектуальные Транспортные Системы" была создана в 2016 году в результате реорганизации Группы компаний «Генезис знаний». За короткий срок компания набрала солидный портфель заказов на поставку и поддержку систем управления ресурсами предприятий.
+			</p>
+			<p>
+			</p>
+			<p>
+				 Главным направлением работы компании является создание интеллектуальных систем нового поколения, предназначенных для управления ресурсами предприятий и поддержки принятия решений в реальном времени в сфере транспортной логистики, сервисного обслуживания объектов инфраструктуры, производственных предприятий&nbsp;и ряда других.&nbsp;&nbsp;
+			</p>
+			<p>
+			</p>
+		</div>
+	</div>
+	<hr>
+</div>
+ <br>			</div>
+		</div>
+	</div>
+					<div class="row">
+			<div class="maxwidth-theme">
+				<div class="col-md-12">
+					<div>&nbsp;
+	<!--'start_frame_cache_d42sdq'-->		<div class="catalog item-views table front" style="display:none;">
+		<h3 class="underline">Основные продукты</h3>
+&nbsp;<!-- for narrow displays-->		<div class="flexslider unstyled row" data-plugin-options='{"animation": "slide", "directionNav": true, "controlNav" :true, "animationLoop": true, "slideshow": false, "counts": [4, 3, 2]}'>
+			<ul class="slides" itemscope itemtype="http://schema.org/ItemList">
+														<li class="col-md-3 col-sm-4 col-xs-6">
+						<div class="item" id="bx_3485106786_72" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/Product">
+															<div class="image">
+									<a href="/catalog/uslugi-kompanii-its/produkt-isu-smartruck/" class="blink" itemprop="url">
+																			<img class="img-responsive" src="/upload/resize_cache/iblock/0f3/160_160_0/0f3ef51bbbce21bfbf850f3df43d4b5c.jpg" alt="Продукт ИСУ SmarTruck" title="Продукт ИСУ SmarTruck" itemprop="image" />
+									</a>
+																	</div>
+							
+							<div class="text">
+								<div class="cont">
+																												<div class="title">
+											<a href="/catalog/uslugi-kompanii-its/produkt-isu-smartruck/" itemprop="url">												<span itemprop="name">Продукт ИСУ SmarTruck</span>
+											</a>										</div>
+									
+																		
+																		
+																												<span class="article" itemprop="description">Артикул:&nbsp;<span>00001</span></span>
+									
+																	</div>
+
+								<div class="row foot">
+									<div class="col-md-12 col-sm-12 col-xs-12 slice_price">
+																													</div>
+
+																	</div>
+							</div>
+						</div>
+					</li>
+														<li class="col-md-3 col-sm-4 col-xs-6">
+						<div class="item" id="bx_3485106786_73" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/Product">
+															<div class="image">
+									<a href="/catalog/uslugi-kompanii-its/smartproduction-dlya-upravleniya-proizvodstvennymi-resursami-predpriyatiy/" class="blink" itemprop="url">
+																			<img class="img-responsive" src="/upload/resize_cache/iblock/3ce/160_160_0/3cefd201d3997c7c2b57b48c6b68d59e.png" alt="SmartProduction - для управления производственными ресурсами предприятий" title="SmartProduction - для управления производственными ресурсами предприятий" itemprop="image" />
+									</a>
+																	</div>
+							
+							<div class="text">
+								<div class="cont">
+																												<div class="title">
+											<a href="/catalog/uslugi-kompanii-its/smartproduction-dlya-upravleniya-proizvodstvennymi-resursami-predpriyatiy/" itemprop="url">												<span itemprop="name">SmartProduction - для управления производственными ресурсами предприятий</span>
+											</a>										</div>
+									
+																		
+																		
+																												<span class="article" itemprop="description">Артикул:&nbsp;<span>00002</span></span>
+									
+																	</div>
+
+								<div class="row foot">
+									<div class="col-md-12 col-sm-12 col-xs-12 slice_price">
+																													</div>
+
+																	</div>
+							</div>
+						</div>
+					</li>
+														<li class="col-md-3 col-sm-4 col-xs-6">
+						<div class="item" id="bx_3485106786_79" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/Product">
+															<div class="image">
+									<a href="/catalog/uslugi-kompanii-its/smartteams-sistema-upravleniya-personalom/" class="blink" itemprop="url">
+																			<img class="img-responsive" src="/upload/resize_cache/iblock/b2c/160_160_0/b2cd4ad66eaeca80264e7f21d6b04316.png" alt="SmartTeams - система управления персоналом" title="SmartTeams - система управления персоналом" itemprop="image" />
+									</a>
+																	</div>
+							
+							<div class="text">
+								<div class="cont">
+																												<div class="title">
+											<a href="/catalog/uslugi-kompanii-its/smartteams-sistema-upravleniya-personalom/" itemprop="url">												<span itemprop="name">SmartTeams - система управления персоналом</span>
+											</a>										</div>
+									
+																		
+																		
+																												<span class="article" itemprop="description">Артикул:&nbsp;<span>00003</span></span>
+									
+																	</div>
+
+								<div class="row foot">
+									<div class="col-md-12 col-sm-12 col-xs-12 slice_price">
+																													</div>
+
+																	</div>
+							</div>
+						</div>
+					</li>
+							</ul>
+		</div>
+	</div>
+<script>
+$(document).ready(function() {
+	try{
+		if(arScorpOptions.THEME.CATALOG_INDEX == 'Y'){
+			$('.catalog.item-views.sections.front').show();
+			if(arScorpOptions.THEME.TEASERS_INDEX == 'NONE'){
+				$('.catalog.item-views.sections.front').css('margin-top', '47px');
+			}
+
+			$('.catalog.item-views.sections .item .title').sliceHeight();
+			$('.catalog.item-views.sections .item').sliceHeight();
+		}
+		else{
+			$('.catalog.item-views.sections.front').remove();
+			$('#front_catalog_separator').remove();
+		}
+
+		if(arScorpOptions.THEME.CATALOG_FAVORITES_INDEX == 'Y'){
+			setBasketItemsClasses();
+			$('.catalog.item-views.table.front .blink img').blink();
+
+			$('.catalog.item-views.table.front').show();
+			if(arScorpOptions.THEME.TEASERS_INDEX == 'NONE' && arScorpOptions.THEME.CATALOG_INDEX == 'N'){
+				$('.catalog.item-views.table.front').css('margin-top', '47px');
+			}
+
+			InitFlexSlider();
+
+			var interval = setInterval(function(){
+				if($('.catalog.item-views.table.front .flexslider-init').length && typeof($('.catalog.item-views.table.front .flexslider-init').data('flexslider')) === 'object'){
+					clearInterval(interval);
+					$('.catalog.item-views.table .item .image').sliceHeight({slice: 3, autoslicecount: false, lineheight: -3, native: true});
+					$('.catalog.item-views.table .item .title').sliceHeight({slice: 3, autoslicecount: false, native: true});
+					$('.catalog.item-views.table .item .cont').sliceHeight({slice: 3, autoslicecount: false, native: true});
+					$('.catalog.item-views.table .item .slice_price').sliceHeight({slice: 3, autoslicecount: false, native: true});
+					$('.catalog.item-views.table .item').sliceHeight({slice: 3, autoslicecount: false, native: true});
+				}
+			}, 100);
+		}
+		else{
+			$('.catalog.item-views.table.front').remove();
+			$('#front_catalog_separator').remove();
+		}
+	}
+	catch(e){}
+});
+</script>
+<!--'end_frame_cache_d42sdq'--></div>				</div>
+			</div>
+		</div>
+		<div class="row">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="styled-block front">
+					<div class="row">
+						<div class="col-md-9 col-sm-9">
+							<h2>Консультация по услугам</h2>
+<span>Менеджеры компании с радостью ответят на ваши вопросы и произведут расчет стоимости услуг и подготовят индивидуальное коммерческое предложение.</span>						</div>
+						<div class="col-md-3 col-sm-3">
+							<span class="btn btn-default btn-lg" data-event="jqm" data-param-id="23" data-name="question">Задать вопрос</span>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<h3 class="underline">О компании</h3>
+<br>
+<span style="text-align: justify;">Научно-производственная компания "Интеллектуальные Транспортные Системы" была создана в 2016 году в результате реорганизации Группы компаний «Генезис знаний». За короткий срок компания набрала солидный портфель заказов на поставку и поддержку систем управления ресурсами предприятий.</span>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+	 Главным направлением работы компании является создание интеллектуальных систем нового поколения, предназначенных для управления ресурсами предприятий и поддержки принятия решений в реальном времени в сфере транспортной логистики, сервисного обслуживания объектов инфраструктуры, производственных предприятий&nbsp;и ряда других. &nbsp;
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+	 Отличительной особенностью наших систем является применение в них современных мультиагентных технологий, построенных на фундаментальных принципах самоорганизации и эволюции, что позволяет им&nbsp;непрерывно адаптироваться к изменяющимся условиям среды функционирования.
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+	 Компания создает промышленные системы масштаба предприятия, обеспечивая высокую открытость, гибкость и эффективность,&nbsp;производительность и надежность, а также масштабируемость создаваемых приложений.&nbsp;
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p style="text-align: justify;">
+</p>
+<p align="justify" style="text-align: justify;">
+	 За&nbsp;прошедшее время заказчиками и партнерами компании стали известные&nbsp;предприятия, заинтересованные в использовании инновационных решений для повышения эффективности имеющихся ресурсов, предоставления качественно новых услуг потребителям,&nbsp;обеспечения конкурентоспособности на рынке.&nbsp;
+</p>					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="news front">
+			<a href="/info/news/" class="btn btn-default white btn-xs"><span>Все новости</span></a>
+		<h3 class="underline">Новости</h3>
+<!-- for narrow displays--><h3 class="underline short">Новости</h3>	<div class="items row">
+								<div class="col-md-12 col-sm-12">
+				<div class="item" id="bx_3099439860_166">
+											<div class="image">
+							<a href="/info/news/koka-kola-podtverzhdaet-effektivnost-vnedreniya-smartruck-/" class="blink">								<img src="/upload/resize_cache/iblock/ef0/105_70_0/ef0138975bef55d0bd902707cc104ee2.png" alt="Кока кола подтверждает эффективность внедрения #SmarTruck! " title="Кока кола подтверждает эффективность внедрения #SmarTruck! " class="img-responsive" />
+							</a>						</div>
+					
+					<div class="info">
+																			<div class="period">
+																	29 Июля 2019															</div>
+						
+																			<div class="title">
+								<a href="/info/news/koka-kola-podtverzhdaet-effektivnost-vnedreniya-smartruck-/">									Кока кола подтверждает эффективность внедрения #SmarTruck! 								</a>							</div>
+						
+																	</div>
+				</div>
+			</div>
+								<div class="col-md-12 col-sm-12">
+				<div class="item" id="bx_3099439860_122">
+											<div class="image">
+							<a href="/info/news/multiagentnye-tekhnologii-dlya-upravleniya-brigadami-v-oao-slavneft-megionneftegaz/" class="blink">								<img src="/upload/resize_cache/iblock/bf0/105_70_0/bf0e7cf4ed9d16048cd50ac5fa2b47e4.jpg" alt="Мультиагентные технологии для управления бригадами в ОАО «Славнефть-Мегионнефтегаз»" title="Мультиагентные технологии для управления бригадами в ОАО «Славнефть-Мегионнефтегаз»" class="img-responsive" />
+							</a>						</div>
+					
+					<div class="info">
+																			<div class="period">
+																	26 Октября 2018															</div>
+						
+																			<div class="title">
+								<a href="/info/news/multiagentnye-tekhnologii-dlya-upravleniya-brigadami-v-oao-slavneft-megionneftegaz/">									Мультиагентные технологии для управления бригадами в ОАО «Славнефть-Мегионнефтегаз»								</a>							</div>
+						
+																	</div>
+				</div>
+			</div>
+								<div class="col-md-12 col-sm-12">
+				<div class="item" id="bx_3099439860_123">
+											<div class="image">
+							<a href="/info/news/smart-field-services-dlya-obedinyennoy-energeticheskoy-kompanii-g-moskva/" class="blink">								<img src="/upload/resize_cache/iblock/245/105_70_0/24528259861cc957df33c10bba0b1ff0.jpg" alt="Smart Field Services для Объединённой Энергетической Компании, г. Москва" title="Smart Field Services для Объединённой Энергетической Компании, г. Москва" class="img-responsive" />
+							</a>						</div>
+					
+					<div class="info">
+																			<div class="period">
+																	5 Октября 2018															</div>
+						
+																			<div class="title">
+								<a href="/info/news/smart-field-services-dlya-obedinyennoy-energeticheskoy-kompanii-g-moskva/">									Smart Field Services для Объединённой Энергетической Компании, г. Москва								</a>							</div>
+						
+																	</div>
+				</div>
+			</div>
+								<div class="col-md-12 col-sm-12">
+				<div class="item" id="bx_3099439860_117">
+											<div class="image">
+							<a href="/info/news/multiagentnye-resheniya-na-proizvodstve-elektrotekhnicheskogo-oborudovaniya/" class="blink">								<img src="/upload/resize_cache/iblock/c13/105_70_0/c130a7bf00f854de75053f11d8fd77c7.jpg" alt="Мультиагентные решения на производстве электротехнического оборудования" title="Мультиагентные решения на производстве электротехнического оборудования" class="img-responsive" />
+							</a>						</div>
+					
+					<div class="info">
+																			<div class="period">
+																	20 Июня 2018															</div>
+						
+																			<div class="title">
+								<a href="/info/news/multiagentnye-resheniya-na-proizvodstve-elektrotekhnicheskogo-oborudovaniya/">									Мультиагентные решения на производстве электротехнического оборудования								</a>							</div>
+						
+																	</div>
+				</div>
+			</div>
+								<div class="col-md-12 col-sm-12">
+				<div class="item" id="bx_3099439860_124">
+											<div class="image">
+							<a href="/info/news/v-marte-2018-goda-bylo-uspeshno-zaversheno-vnedrenie-intellektualnoy-sistemy-upravleniya-gruzoperevo/" class="blink">								<img src="/upload/resize_cache/iblock/dff/105_70_0/dff8e96cdd952ad36955e74c7dabf250.png" alt="Успешно завершено внедрение в подразделении компании Coca‑Cola HBC Россия" title="Успешно завершено внедрение в подразделении компании Coca‑Cola HBC Россия" class="img-responsive" />
+							</a>						</div>
+					
+					<div class="info">
+																			<div class="period">
+																	1 Марта 2018															</div>
+						
+																			<div class="title">
+								<a href="/info/news/v-marte-2018-goda-bylo-uspeshno-zaversheno-vnedrenie-intellektualnoy-sistemy-upravleniya-gruzoperevo/">									Успешно завершено внедрение в подразделении компании Coca‑Cola HBC Россия								</a>							</div>
+						
+																	</div>
+				</div>
+			</div>
+								<div class="col-md-12 col-sm-12">
+				<div class="item" id="bx_3099439860_118">
+											<div class="image">
+							<a href="/info/news/vnedrenie-produkta-smartruck-v-nefteservisnom-kholdinge-tagras/" class="blink">								<img src="/upload/resize_cache/iblock/a41/105_70_0/a414d4d16b5140451692cdf3569dc2fd.png" alt="Внедрение продукта SmarTruck в нефтесервисном холдинге ТАГРАС" title="Внедрение продукта SmarTruck в нефтесервисном холдинге ТАГРАС" class="img-responsive" />
+							</a>						</div>
+					
+					<div class="info">
+																			<div class="period">
+																	20 Мая 2016															</div>
+						
+																			<div class="title">
+								<a href="/info/news/vnedrenie-produkta-smartruck-v-nefteservisnom-kholdinge-tagras/">									Внедрение продукта SmarTruck в нефтесервисном холдинге ТАГРАС								</a>							</div>
+						
+																	</div>
+				</div>
+			</div>
+			</div>
+</div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+												<div class="container">
+																													</div>										<div class="row">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+						<div class="partners front">
+		<hr>
+		<div class="flexslider unstyled row" data-plugin-options='{"directionNav": false, "controlNav" :true, "animationLoop": true, "slideshow": true, "slideshowSpeed": 5000, "animationSpeed": 600, "counts": [5, 3, 1]}'>
+			<ul class="slides items">
+														<li class="col-md-2 col-sm-4">
+						<div class="item" id="bx_565502798_155">
+							<a href="/company/partners/ooo-koka-kola-eychbisi-evraziya-g-moskva/">								<img class="img-responsive" src="/upload/resize_cache/iblock/41f/166_90_0/41f8389cceaaafcd3e9ee11338a7f5cc.png" alt="ООО Кока-Кола ЭйчБиСи Евразия, г. Москва" title="ООО Кока-Кола ЭйчБиСи Евразия, г. Москва" />
+							</a>						</div>
+					</li>
+														<li class="col-md-2 col-sm-4">
+						<div class="item" id="bx_565502798_32">
+							<a href="/company/partners/ooo-resurstrans/">								<img class="img-responsive" src="/upload/resize_cache/iblock/fb8/166_90_0/fb8c8ca06f27db08d93ba72c62a7d7a4.png" alt="ООО &quot;РесурсТранс&quot;" title="ООО &quot;РесурсТранс&quot;" />
+							</a>						</div>
+					</li>
+														<li class="col-md-2 col-sm-4">
+						<div class="item" id="bx_565502798_33">
+							<a href="/company/partners/partner-6/">								<img class="img-responsive" src="/upload/resize_cache/iblock/f70/166_90_0/f7075344e23bee6a43b24aab24ad8e70.png" alt="ООО &quot;Траско&quot;" title="ООО &quot;Траско&quot;" />
+							</a>						</div>
+					</li>
+														<li class="col-md-2 col-sm-4">
+						<div class="item" id="bx_565502798_37">
+							<a href="/company/partners/ooo-pk-elektrum/">								<img class="img-responsive" src="/upload/resize_cache/iblock/af1/166_90_0/af10937d2436b4993cecb2d464ba214f.png" alt="ООО &quot;ПК &quot;Электрум&quot;" title="ООО &quot;ПК &quot;Электрум&quot;" />
+							</a>						</div>
+					</li>
+														<li class="col-md-2 col-sm-4">
+						<div class="item" id="bx_565502798_121">
+							<a href="/company/partners/ooo-svgk/">								<img class="img-responsive" src="/upload/resize_cache/iblock/8e3/166_90_0/8e3953c84c830ffd12da60f0abe31d79.png" alt="ООО &quot;СВГК&quot;" title="ООО &quot;СВГК&quot;" />
+							</a>						</div>
+					</li>
+							</ul>
+		</div>
+	</div>
+			</div>
+		</div>
+	</div>
+							</div>		</div>		<footer id="footer">
+			<!--'start_frame_cache_footer-subscribe'-->			<div class="subscribe-block-wrapper">
+			<div class="row">
+				<div class="maxwidth-theme">
+					<div class="col-md-3 hidden-sm text">
+					Подписывайтесь на новости и акции:					</div>
+					<div class="col-md-9 col-sm-12">
+						<div class="row">
+							<div class="col-md-9 col-sm-9">
+								<div class="subscribe-edit">
+	<form action="/personal/subscribe/" method="post" class="subscribe-form">
+	<input type="hidden" name="sessid" id="sessid" value="4126f7c2796f8d1d14ae0b90f53fd4f8" />	<input type="text" name="EMAIL" class="form-control subscribe-input email required" value="" size="30" maxlength="255" />
+			<input type="hidden" name="RUB_ID[]" value="1" />
+		<input type="hidden" name="FORMAT" value="html" />
+	<input type="submit" name="Save" class="btn btn-default btn-md subscribe-btn" value="Подписаться" />
+	<input type="hidden" name="PostAction" value="Add" />
+	<input type="hidden" name="ID" value="" />
+</form>
+</div>							</div>
+							<div class="col-md-3 col-sm-3">
+								<div class="social-icons">
+	<!-- noindex -->
+	<ul>
+							<li class="facebook">
+				<a href="https://www.facebook.com/its63" target="_blank" rel="nofollow" title="Facebook">
+					Facebook					<i class="fa fa-facebook"></i>
+					<i class="fa fa-facebook hide"></i>
+				</a>
+			</li>
+							<li class="vk">
+				<a href="https://vk.com/its163" target="_blank" rel="nofollow" title="Вконтакте">
+					Вконтакте					<i class="fa fa-vk"></i>
+					<i class="fa fa-vk hide"></i>
+				</a>
+			</li>
+							<li class="instagram">
+				<a href="https://www.instagram.com/itsnpkooo/" target="_blank" rel="nofollow" title="Instagram">
+					Instagram					<i class="fa fa-instagram"></i>
+					<i class="fa fa-instagram hide"></i>
+				</a>
+			</li>
+							<li class="lj">
+				<a href="https://www.youtube.com/channel/UCbEdPtBs8b5ily6pl2VzrOg" target="_blank" rel="nofollow" title="YouTube">
+					YouTube					<i class="fa fa-youtube"></i>
+					<i class="fa fa-youtube hide"></i>
+				</a>
+			</li>
+							</ul>
+	<!-- /noindex -->
+</div>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<!--'end_frame_cache_footer-subscribe'-->			<div class="container">
+				<div class="row">
+					<div class="maxwidth-theme">
+						<div class="col-md-3 hidden-sm hidden-xs">
+							<div class="copy">
+								&copy; 2022 its.ooo - Все права защищены.							</div>
+							<div id="bx-composite-banner"></div>
+						</div>
+						<div class="col-md-9 col-sm-12">
+							<div class="row">
+								<div class="col-md-9 col-sm-9">
+										<div class="bottom-menu">
+		<div class="items row">
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/projects/vypolnennye-proekty/">Проекты</a>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/products/">Продукты</a>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/info/news/">Новости</a>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/info/articles/">Статьи</a>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/info/faq/">Вопросы и ответы</a>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/company/">Компания</a>
+													</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-6">
+					<div class="item">
+						<div class="title">
+															<a href="/contacts/">Контакты</a>
+													</div>
+					</div>
+				</div>
+					</div>
+	</div>
+								</div>
+								<div class="col-md-3 col-sm-3">
+									<div class="info">
+										<div class="phone">
+											<i class="fa fa-phone"></i> 
+											+7 (846) 219-26-28										</div>
+										<div class="email">
+											<i class="fa fa-envelope"></i>
+											<a href="https://e.mail.ru/compose/?mailto=mailto%3ainfo@its.ooo" target="_blank">info@its.ooo</a><br>										</div>
+									</div>
+									<div class="social">
+																			</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-sm-3 hidden-md hidden-lg">
+							<div class="copy">
+								&copy; 2022 its.ooo - Все права защищены.							</div>
+							<div id="bx-composite-banner"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<div class="bx_areas">
+					</div>
+				<script src="//code.jivosite.com/widget.js" jv-id="aTjHn5g00j" async></script>
+	</body>
+</html>

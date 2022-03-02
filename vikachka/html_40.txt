@@ -1,0 +1,2056 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#" class="h-100">
+<head>
+    <title>Управление торговлей 11, понятный самоучитель, смотреть бесплатно</title>
+    		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<meta name="description" content="Подробный курс по 1С:Управление торговлей, для новичков и опытных пользователей. Записан на примере УТ 11, однако по нему можно изучать также торговые конфигурации для Беларуси, Украины и Казахстана" />
+			<meta name="keywords" content="курс по торговле,обучение 1с,управление торговлей 11" />
+			<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+				<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <link rel="stylesheet" href="../style/main3.css">
+	    
+
+<meta name="robots" content="index, follow">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-49111695-2"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-49111695-2');
+    </script>
+    </head>
+<body >
+<nav class="navbar navbar-dark bg-dark fixed-top">
+    <div class="container-fluid">
+        <button class="navbar-toggler align-items-center d-flex" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="menu">
+            <span class="d-none d-md-inline pe-2">Меню</span><span class="navbar-toggler-icon"></span> 
+        </button>
+        <div class="text-center">
+                        <a class="navbar-brand d-inline-block d-lg-none" href="/">CODERSTAR.RU</a>
+            <!--<small class="text-white d-none d-lg-block">УТ 11, обучение и доработки</small>-->
+            <div>
+            <form class="d-none d-lg-flex w-550" name="search1" method="get" action="/search">
+                    <input class="form-control me-2" type="search" name="query" placeholder="Что ищете?" aria-label="Search">
+                    <button class="btn btn-outline-light" type="submit">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+</svg>
+                        </button>
+            </form>
+            </div>
+                    </div>
+        <div>
+    <div class="btn-group">
+        <button class="btn btn-link link-secondary d-none d-md-block" data-bs-toggle="modal" data-bs-target="#auth_reason">Зачем</button>
+        <button type="button" class="btn btn-outline-light" data-bs-toggle="modal" data-bs-target="#auth_form">
+        Войти
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="20" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 20">
+        <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+        </svg>
+        </button>
+    </div>
+</div>
+        <div class="offcanvas offcanvas-start bg-dark" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+            <div class="offcanvas-header mb-0 pb-0">
+                <p class="offcanvas-title text-white h5" id="offcanvasNavbarLabel">CODERSTAR</p>
+                <button type="button" class="btn-close btn-close-white text-reset text-danger" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>   
+            <span class="small text-white ms-3 fst-italic">УТ 11, обучение и доработки</span>
+            <div class="offcanvas-body">
+                <form class="d-flex d-lg-none mb-4" name="search2" method="get" action="/search">
+                    <input class="form-control me-2" type="search" name="query" placeholder="Что ищете?" aria-label="Search">
+                    <button class="btn btn-outline-light" type="submit">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+</svg>
+                        </button>
+                </form>
+                <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                                        <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/">Курс по УТ 11</a>
+                    </li>
+                                                                                <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/obuchenie-1c">Кладовая знаний</a>
+                    </li>
+                    <li><hr class="dropdown-divider text-white"></li>
+                                                            <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="/otchety">Отчеты</a>
+                    </li>
+                                                            <li class="nav-item">
+                        <a class="nav-link" href="/obrabotki">Обработки</a>
+                    </li>
+                                                            <li class="nav-item">
+                        <a class="nav-link" href="/formyi">Печатные формы</a>
+                    </li>
+                                                            <li class="nav-item">
+                        <a class="nav-link" href="/moduls">Расширения</a>
+                    </li>
+                                        <li><hr class="dropdown-divider text-white"></li>
+                                        <li class="nav-item">
+                        <a class="nav-link" href="/besplatnoe">Только бесплатное</a>
+                    </li>
+                                                            <li class="nav-item">
+                        <a class="nav-link" href="/contacts">Услуги</a>
+                    </li>
+                                                            <li class="nav-item">
+                        <a class="nav-link" href="/partnership">Партнерка</a>
+                    </li>
+                                                        </ul>   
+                <div class="position-absolute bottom-0 start-0 left-13 text-white py-3 py-lg-4">
+                    <div class="btn-group">
+                        <a href="https://vk.com/public84785702" rel="noopener" class="btn me-1" target="_blank">
+                            <img src="../images/tumbnails/pict-vk.png" width="32" height="32" alt="группа в контакте" />
+                        </a>
+                        <a href="https://www.instagram.com/coderstar.ru/" rel="noopener" class="btn me-1" target="_blank">
+                            <img src="../images/tumbnails/pict-ins.png" width="32" height="32" alt="группа в инстаграмме" />
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCED3BnN5FSKGiJ5J8RqVxbw" rel="noopener" class="btn" target="_blank">
+                            <img src="../images/tumbnails/pict-youtube.png" width="32" height="32" alt="канал youtube" />
+                        </a>
+                        <a href="https://twitter.com/Medvedkov85" rel="noopener" class="btn" target="_blank">
+                            <img src="../images/tumbnails/pict-twitter.png" width="32" height="32" alt="twitter" />
+                        </a>
+                        <a href="https://www.facebook.com/coderstar.ru" rel="noopener" class="btn" target="_blank">
+                            <img src="../images/tumbnails/pict-facebook.png" width="32" height="32" alt="facebook" />
+                        </a>
+                    </div>  
+                                        <a href="mailto:info@coderstar.ru" class="link-secondary d-block mt-2 text-center">info@coderstar.ru</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>        
+<div id="wrapper" class="pt-5 mt-3">
+<main class="mx-auto py-5 px-3 px-md-4">
+<h1 class="border-bottom border-gray pb-2">Курс по УТ 11</h1>
+<div id="grid" class="my-lg-5">  
+        <div class="accordion accordion-flush inner" id="accordionFlushExample">
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading0">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse0" aria-expanded="false" aria-controls="flush-collapse0">
+            О курсе
+            </button>
+            </h2>
+            <div id="flush-collapse0" class="accordion-collapse collapse" aria-labelledby="flush-heading0">
+                <div class="accordion-body px-0 px-md-3">
+                    <img src="images/articles/kurs-ut11.png" alt="УТ 11, понятный самоучитель для начинающих" class="img-fluid" />   
+                    <div class="mt-4 card-text">
+                    <p>Полноценный курс обучения флагманской конфигурации 1С:Управление торговлей 11. В рамках курса будет продемонстрирован учет среднестатистической компании, начиная от настроек параметров учета и функциональности программы и заканчивая закрытием периода, регистрацией разных типов расходов и формированием управленческого баланса. Помимо разбора общепринятных операций будут рассмотрены достаточно специфичные, например, учет импортных товаров, операции с возвратной тарой, использование подарочных сертификатов и т.п. Курс по УТ 11 подойдет как для начинающих (чайников), так и опытных пользователей, имеющих опыт работы с данной программой.Видеокурс вы не сможете скачать, но на сайте его можно смотреть абсолютно бесплатно.</p>
+<p>Также этот раздел отлично подойдет для изучения конфигураций 1С:Управление торговлей 3 (для Беларуси и Казахстана).</p>                    </div>
+                </div>
+            </div>
+        </div>
+                <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading1">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse1" aria-expanded="false" aria-controls="flush-collapse1">
+            1. Настройки программы <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 7)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse1" class="accordion-collapse collapse" aria-labelledby="flush-heading1">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/vozmozhnosti">Возможности программы УТ 11</a>
+                            <div class="card-text"><p>Возможности программы, область применения, что программа умеет и чего в ней нет.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-10-31</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">104453</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 1</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/obshie-nastroiki">Общие настройки и параметры предприятия в УТ 11</a>
+                            <div class="card-text"><p>Выбор и настройка интерфейса, разделы программы, служебная информация, многофирменный учет, график работы.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-05</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">66541</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 2</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/pechat-organaizer-faily">Настройка печати, органайзера и работы с файлами в УТ 11</a>
+                            <div class="card-text"><p>Настройка заметок, напоминаний, уведомлений. Хранение файлов, синхронизация с облаком. Макеты печати справочников и документов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">33536</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 4</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/crm-marketing-planirovanie">Настройка маркетинга, планирования и расчетов с контрагентами в УТ 11</a>
+                            <div class="card-text"><p>Учет клиентов, контактная информация, претензии. Настройка учета по сделкам. Виды цен, ценовые группы, ручные и автоматические скидки.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-08</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">26142</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 5</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nastroika-zakupok-prodazh">Настройка закупок и продаж в УТ 11</a>
+                            <div class="card-text"><p>Использование соглашений с клиентами и поставщиками. Корректировки, заказы, причины отмены заказов. Импорт и экспорт, комиссионная схема, графики оплаты.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-10</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">40790</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 6</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/kazna-finrezultaty">Настройка казначейства, контроллинга и финансовых результатов</a>
+                            <div class="card-text"><p>Банковские счета, кассы, заявки на расходование денежных средств. Авансовые отчеты,  эквайринг, договора кредитов и депозитов. Финансовый результат, партионный учет, учет себестоимости товаров.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-12</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">24981</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 8</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/organizatsiya-uchetnaya-politika">Как создать организацию и ввести учетную политику</a>
+                            <div class="card-text"><p>Создание карточки организации, заполнение учетной политики, сведений о банковском счете и ответственных лицах.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-02-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">38027</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 12</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading2">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse2" aria-expanded="false" aria-controls="flush-collapse2">
+            2. Учет номенклатуры <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 10)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse2" class="accordion-collapse collapse" aria-labelledby="flush-heading2">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nastroika-ucheta-nomenklatury">Настройка учета номенклатуры в УТ 11</a>
+                            <div class="card-text"><p>Разрезы учета (характеристики, упаковки и т.п.), качество, единицы измерения, классификаторы.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-06</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">47649</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 3</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sozdanie-nomenklatury">Как создать номенклатуру</a>
+                            <div class="card-text"><p>Создание вида номенклатуры, номенклатурной карточки. Иерархия справочника.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-01-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">80343</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 9</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/upakovki-tara">Упаковки номенклатуры, возвратная тара</a>
+                            <div class="card-text"><p>Как и когда нужно использовать упаковки номенклатуры, как оформляется поступление и возврат поставщику многооборотной тары.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-07-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">23885</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 47</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/harakteristiki-nomenklatury">Зачем нужны характеристики номенклатуры</a>
+                            <div class="card-text"><p>Как (и в каких случаях) применять характеристик номенклатуры, выгоды и нюансы их использования.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-08-24</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">82175</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 54</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/serii-spravochno">Учет товаров по сериям (справочно) в УТ 11</a>
+                            <div class="card-text"><p>Как организовать справочный учет номенклатуры по сериям (настройка программы и создание документов закупки / продажи).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-09-02</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">44502</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 55</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/serii-ostatki">Учет товаров по сериям в УТ 11 (урок №2)</a>
+                            <div class="card-text"><p>Вариант использования серий номенклатуры, при котором контролируются остатки товаров в разрезе конкретной серии при проведении расходных документов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-09-05</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">15318</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 56</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/serii-sebestoimost">Учет товаров по сериям в УТ 11 (урок №3)</a>
+                            <div class="card-text"><p>Как организовать контроль остатков и учет себестоимости товаров в разрезе серий</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-09-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">11318</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 57</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sroki-godnosti">Сроки годности товаров в УТ 11</a>
+                            <div class="card-text"><p>Две стратегии учета товаров по срокам годности (контроль остатков, указание срока годности в документах.)</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-09-09</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">27529</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 58</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/uslugi-raboty">Работы и услуги в УТ 11 - сходства и различия</a>
+                            <div class="card-text"><p>Особенности учета нематериальных ценностей с типом Услуга и Работа в 1С:Управление торговлей 11. Сходства и различия. Сравнительный анализ</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-02-15</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">10493</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 80</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nabory-nomenklatury">Наборы номенклатуры в УТ 11</a>
+                            <div class="card-text"><p>Характерные особенности номенклатуры с типом Набор. Использование наборов при продаже. Ценообразование, формирование печатных форм.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-02-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">24630</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 81</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading3">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse3" aria-expanded="false" aria-controls="flush-collapse3">
+            3. Начальные остатки <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 1)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse3" class="accordion-collapse collapse" aria-labelledby="flush-heading3">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/vvod-ostatkov">Как ввести начальные остатки</a>
+                            <div class="card-text"><p>Ввод начальных остатков денежных средств в кассе, на расчетном счете, а также остатков товаров на складах и остатков задолженности контрагентов в УТ 11.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-03-02</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">60662</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 14</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading4">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse4" aria-expanded="false" aria-controls="flush-collapse4">
+            4. Учет закупок <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 9)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse4" class="accordion-collapse collapse" aria-labelledby="flush-heading4">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zakupka-tovarov">Закупка товаров (не импорт)</a>
+                            <div class="card-text"><p>Отражение операции закупки товаров у отечественного поставщика с регистрацией счет-фактуры.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-03-19</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">48414</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 15</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zakupka-import">Закупка товаров по импорту</a>
+                            <div class="card-text"><p>Регистрация закупки товаров у импортного поставщика с заведением документа поступления и таможенной декларации.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-04-12</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">43677</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 16</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zakazy-postavshiku">Как использовать заказы поставщику в УТ 11</a>
+                            <div class="card-text"><p>Оформление поступления товаров с использованием заказов поставщику.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-04-19</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">40485</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 17</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/doverennost">Оформление доверенности в УТ 11</a>
+                            <div class="card-text"><p>Оформление доверенности на получение товарно-материальных ценностей (ручной ввод и на основании заказа поставщику).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-05-14</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">20593</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 18</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zakupka-podotchet">Как купить товары через подотчет</a>
+                            <div class="card-text"><p>Закупка материалов через подотчетное лицо с использованием документа приобретения товаров и услуг.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-05-21</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">21411</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 19</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/postuplenie-uslug-aktivov">Как оприходовать услуги и прочие активы</a>
+                            <div class="card-text"><p>Оформление поступления услуг (двумя способами) и прочих активов с регистрацией соответствующих расходов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-05-23</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">48772</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 20</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/vozvrat-korrektirovka">Возвраты поставщику и корректировка поступления в УТ 11</a>
+                            <div class="card-text"><p>Возврат поставщику (по приходным накладным), корректировка поступления.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-05-27</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">37230</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 21</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/rashozhdeniya-s-postavshikom">Расхождения при приемке товара</a>
+                            <div class="card-text"><p>Отражение расхождений с данными поставщика при приемке товаров.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-05-30</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">32485</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 22</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nomenklatura-postavshika">Работа с номенклатурой поставщика в УТ 11</a>
+                            <div class="card-text"><p>Как и для чего можно использовать функциональность <b>номенклатура поставщика</b> в конфигурации.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-06-27</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">42709</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 24</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading5">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse5" aria-expanded="false" aria-controls="flush-collapse5">
+            5. Ценообразование <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 4)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse5" class="accordion-collapse collapse" aria-labelledby="flush-heading5">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/tseny-postavshika">Работа с ценами поставщиков в УТ 11</a>
+                            <div class="card-text"><p>Регистрация цен поставщика нескольких типов, отражение заказа поставщику с обновлением этих цен.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-06-18</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">59561</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 23</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/ustanovka-tsen">Установка цен номенклатуры в УТ 11</a>
+                            <div class="card-text"><p>Установка цен номенклатуры по различным сценариям (ручной ввод, на основании цены поступления и наценка на другой вид цен).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-07-08</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">146421</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 25</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/ruchnye-skidki">Ручные скидки при продаже</a>
+                            <div class="card-text"><p>Применение ручных скидок при продаже товаров, ограничение верхнего порога скидки для пользователей системы.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-08-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">25010</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 30</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/avtoskidki">Как настроить автоматические скидки</a>
+                            <div class="card-text"><p>Применение автоматических скидок и наценок для оптовых и розничных продаж в УТ 11 (виды скидок, условия назначения).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-08-31</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">41907</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 31</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading6">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse6" aria-expanded="false" aria-controls="flush-collapse6">
+            6. Оптовые продажи <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 15)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse6" class="accordion-collapse collapse" aria-labelledby="flush-heading6">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/realizatsiya-tovarov">Как оформить оптовую продажу в УТ 11</a>
+                            <div class="card-text"><p>Продажа товаров и услуг юридическому лицу без оформления заказа клиента.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-07-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">48206</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 26</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zakazy-klienta">Работа с заказами клиента</a>
+                            <div class="card-text"><p>Работа с заказами клиента при оформлении оптовой продажи юридическому лицу.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-07-23</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">84098</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 27</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/korrektirovka-realizatsii">Корректировка реализации в УТ 11</a>
+                            <div class="card-text"><p>Корректировка к документу реализации, отражение складских результатов корректировки.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-08-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">63368</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 28</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/vozvrat-ot-klienta">Как сделать возврат от покупателя</a>
+                            <div class="card-text"><p>Возврат от клиентов на основании и без документа продажи, возврат товара другого качества.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-08-12</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">35518</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 29</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/programma-loyalnosti">Как настроить дисконтные карты в УТ 11</a>
+                            <div class="card-text"><p>Карты лояльности (дисконтные карты) в оптовых продажах с автоматическим расчетом скидок.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-09-17</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">40420</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 32</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sdelki">Сделки с клиентами в УТ 11</a>
+                            <div class="card-text"><p>Как использовать сделки с клиентами в оптовых продажах, учитывать доп.затраты и формировать отчеты по сделкам</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-10-11</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">23277</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 33</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/vneshnie-polzovateli">Самообслуживание клиентов в УТ 11</a>
+                            <div class="card-text"><p>Как настроить доступ в программу для внешних пользователей и работать под таким пользователем.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-10-12</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">15575</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 34</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/torgovye-agenty">Торговые представители в УТ 11</a>
+                            <div class="card-text"><p>Как составлять задания торговым представителям, отрабатывать их, составлять на их основе заказы клиента и формировать отчеты по анализу эффективности торговых агентов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-10-24</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">19269</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 35</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/prodazha-kredit">Как продавать в кредит</a>
+                            <div class="card-text"><p>Оформление оптовой продажи в кредит на 3 месяца с контролем лимита и сроков задолженности.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-11-05</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">13698</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 36</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/priem-tovarov-na-komissiyu">Как принять товар на комиссию (от комитента) и оформить продажу</a>
+                            <div class="card-text"><p>Учета закупок товаров на стороне комиссионера, составление отчета комитенту и ведение взаиморасчетов с ним.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-01-22</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">39034</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 65</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/peredacha-na-komissiyu">Как передать товар на комиссию</a>
+                            <div class="card-text"><p>Передача товаров комиссионеру, отражение списания и возврата испорченного товара, ведение взаиморасчетов с комиссионером.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-01-28</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">47741</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 66</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/dostavka">Доставка товаров, задания на перевозку</a>
+                            <div class="card-text"><p>Настройка параметров доставки в документах товародвижения, формирование заданий на перевозку, рабочее место по доставке, задания экспедиторам.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-08-09</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">42245</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 72</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/markirovka-shin">Маркировка шин в УТ 11</a>
+                            <div class="card-text"><p>Обзорная статья по работе с маркируемой продукцией (на примере учета	 операций закупки и продажи автомобильных шин).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-12-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">14109</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 86</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/uslugi-agentov">Агентские услуги в УТ 11</a>
+                            <div class="card-text"><p>Отражение операций, связанных с агентской схемой торговли. Сторонами договора, кроме покупателя, здесь могут быть агент и принципал.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-12-18</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">6108</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 87</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/podarki">Выдача подарков в УТ 11</a>
+                            <div class="card-text"><p>В этом уроке описаны два наиболее популярных способа регистрации подарков покупателям.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-12-22</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">7479</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 88</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading7">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse7" aria-expanded="false" aria-controls="flush-collapse7">
+            7. Розничные продажи <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 7)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse7" class="accordion-collapse collapse" aria-labelledby="flush-heading7">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nastroika-roznichnykh-prodazh">Как настроить розничные продажи</a>
+                            <div class="card-text"><p>Настройка программы в части учета розничных продаж, рабочее место кассира, подключение торгового оборудования.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-11-12</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">63498</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 37</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/prodazhi-roznitsa">Как вести розничную торговлю</a>
+                            <div class="card-text"><p>Учет розничных продаж для трех типов касс ККМ, движение денежных средств и формирование аналитики по продажам.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-11-18</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">45471</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 38</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/bonusy">Как настроить бонусную программу</a>
+                            <div class="card-text"><p>Использование бонусной программы лояльности (настройка бонусной программы, начисление и списание бонусов при продаже).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-12-02</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">33598</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 39</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/podarochnyi-sertifikat">Учет подарочных сертификатов</a>
+                            <div class="card-text"><p>Использование подарочных сертификатов при оплате товаров покупателями.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-12-17</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">25549</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 40</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/assortiment">Ассортимент розничного магазина в УТ 11</a>
+                            <div class="card-text"><p>Управление ассортиментом розничного магазина. Установка квот ассортимента, ввод и вывод товаров из ассортимента, анализ результатов с помощью отчетов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-12-19</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">12246</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 78</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/bonusy-birthday">Начисление бонусов к дню рождения</a>
+                            <div class="card-text"><p>В данной статье описана настройка автоматического начисления бонусных баллов клиенту на день рождения в 1С:Управление торговлей 11.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2021-01-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">3552</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 89</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nomenklatura-sovmestno">Номенклатура, продаваемая совместно</a>
+                            <div class="card-text"><p>Показано как пользоваться функционалом сопутствующих товаров при заполнении документов оптовых и розничных продаж.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2021-02-15</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">2955</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 90</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading8">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse8" aria-expanded="false" aria-controls="flush-collapse8">
+            8. Складские операции <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 16)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse8" class="accordion-collapse collapse" aria-labelledby="flush-heading8">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nastroika-sklad">Настройка учета складских операций в УТ 11</a>
+                            <div class="card-text"><p>Настройка складского учета, ордерная схема, адресное хранение. Перемещение, внутреннее потребление, использование заказов. Сборка и разборка, статусы документов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2016-11-11</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">33835</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 7</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sklady-podrazdeleniya">Создание структуры предприятия и складов</a>
+                            <div class="card-text"><p>Создание управленческой структуры предприятия (подразделений), а также мест хранения товаров (оптовых и розничных складов).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-03-02</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">30410</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 13</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/pechat-etiketki-tsenniki">Как распечатать ценники и этикетки в УТ 11</a>
+                            <div class="card-text"><p>Как создавать шаблоны печати и печатать этикетки и ценники для выбранной группы товаров.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-01-15</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">35751</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 41</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/peremeshenie-tovarov">Как переместить товары между складами</a>
+                            <div class="card-text"><p>Как оформить перемещение товаров между складами организации с использованием заказов на перемещение.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-02-05</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">390795</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 42</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/inventarizatsiya-tovarov">Как сделать инвентаризацию товаров в УТ 11</a>
+                            <div class="card-text"><p>Оформление складской инвентаризации с отражением излишков и недостач.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-02-24</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">66681</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 43</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sborka-razborka">Как оформить операции сборки и разборки</a>
+                            <div class="card-text"><p>Отражение операций сборки и разборки комплектов с помощью одноименного документа.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-03-08</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">55428</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 44</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/vnutrennee-potreblenie">Внутреннее потребление ТМЦ, передача в эксплуатацию</a>
+                            <div class="card-text"><p>Как списывать материалы на собственные нужды и передавать в эксплуатацию спецодежду и спецоснастку.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-03-19</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">34664</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 45</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/ordernaya-schema">Использование ордерных складов</a>
+                            <div class="card-text"><p>Настройка ордерной схемы документооборота, отражение основных операций приемки и отгрузки на ордерном складе.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-03-26</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">48614</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 46</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/obespechenie-potrebnostei">Обеспечение складских потребностей в УТ 11</a>
+                            <div class="card-text"><p>Рассмотрим механизм обеспечения складских потребностей в номенклатуре за счет покупки, перемещения с другого склада и сборки.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-07-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">49044</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 48</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/obosoblennoe-obespechenie">Обособленное обеспечение заказов</a>
+                            <div class="card-text"><p>Как и зачем использовать обособленное обеспечение заказов (на примере заказа клиента.)</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-07-18</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">37414</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 49</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/podderzhanie-zapasov">Поддержание складских запасов в УТ 11</a>
+                            <div class="card-text"><p>Как (и для чего) использовать различные методики автоматического поддержания складских товарных запасов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-08-01</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">39440</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 50</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/adresnoe-hranenie-nastroiki">Настройка адресного хранения в УТ 11</a>
+                            <div class="card-text"><p>Как произвести настройку программы для организации адресного хранения товаров на складе.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-08-05</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">83232</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 51</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/spravochnoe-razmeshenie-tovarov">Справочное размещение товаров в ячейках в УТ 11</a>
+                            <div class="card-text"><p>Оформление приходных и расходных складских операций в помещении, для которого выбрано справочное размещение товаров.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-08-11</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">17289</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 52</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/adresnoe-hranenie">Хранение остатков в разрезе товарных ячеек в УТ 11</a>
+                            <div class="card-text"><p>Как оформляются приходные и расходные операции по складскому помещению с хранением товарных остатков в разрезе ячеек.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-08-19</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">12724</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 53</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/otvetkhranenie">Ответственное хранение в УТ 11</a>
+                            <div class="card-text"><p>Выбор и применение наиболее подходящего варианта приема товара на ответственное хранение в 1С:Управление торговлей 11.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-11-29</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">20109</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 83</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/alcohol">Учет алкогольной продукции в УТ 11 (настройки)</a>
+                            <div class="card-text"><p>В этом уроке разберем основные настройки учета алкогольной (спиртосодержащей) продукции и рабочее место для обмена с ЕГАИС.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-12-07</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">6826</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 84</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading9">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse9" aria-expanded="false" aria-controls="flush-collapse9">
+            9. Касса и банк <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 5)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse9" class="accordion-collapse collapse" aria-labelledby="flush-heading9">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/kassovye-operatsii">Кассовые операции в УТ 11</a>
+                            <div class="card-text"><p>Как создать кассу предприятия и работать с приходными и расходными кассовыми ордерами.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-09-11</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">36623</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 59</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/bankovskie-operatsii">Банковские операции в УТ 11</a>
+                            <div class="card-text"><p>Принципы работы с документами списание и поступление безналичных денежных средств, обмен с клиен-банком (в т.ч. по технологии директ-банк).</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-10-08</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">77242</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 60</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/ekvairing">Прием оплаты банковскими картами (эквайринг)</a>
+                            <div class="card-text"><p>Оплата от клиентов платежными картами в оптовых и розничных продажах, расчеты с эквайером.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-10-28</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">78511</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 61</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/platezhny-kalendar">Как использовать заявки на расходование ДС и платежный календарь</a>
+                            <div class="card-text"><p>Использование платежного календаря, создание заявок на расходование денежных средств, контроль лимитов по статьям движения денежных средств.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-11-21</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">23196</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 63</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/kredity-zaimy">Как отразить получение кредита или выдачу займа</a>
+                            <div class="card-text"><p>Использование договоров кредитов и депозитов на примере выдачи займа сотруднику и получения кредита в банке.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-12-17</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">15720</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 64</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading10">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse10" aria-expanded="false" aria-controls="flush-collapse10">
+            10. Расчеты с контрагентами, подотчетными лицами <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 3)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse10" class="accordion-collapse collapse" aria-labelledby="flush-heading10">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sozdanie-partnerov">Создание партнеров и контрагентов в УТ 11</a>
+                            <div class="card-text"><p>Создание карточек партнера и контрагента, регистрационные и контактные данные, банковский счет.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-02-09</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">54744</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 10</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/soglasheniya-dogovory">Сегменты партнеров, соглашения и договоры с контрагентами</a>
+                            <div class="card-text"><p>Формирование сегментов партнеров, заполнение типовых и индивидуальных соглашений, договоров с контрагентами.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2017-02-14</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">76373</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 11</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/raschety-s-kontragentami">Как вести взаиморасчеты с контрагентами</a>
+                            <div class="card-text"><p>Как учитывать взаиморасчеты с контрагентами, оформлять взаимозачет задолженности, делать сверку расчетов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2018-11-04</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">60794</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 62</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading11">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse11" aria-expanded="false" aria-controls="flush-collapse11">
+            11. Планирование <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 4)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse11" class="accordion-collapse collapse" aria-labelledby="flush-heading11">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/nastroiki-planirovaniya">Как настроить планирование продаж, закупок и сборки</a>
+                            <div class="card-text"><p>Основные настройки подсистемы планирования, заполнение необходимой нормативно-справочной информации</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-03-09</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">16119</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 68</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/planirovanie-prodazh">Как планировать продажи товаров</a>
+                            <div class="card-text"><p>Оформление документов планирования по номенклатуре (в т.ч. с детализацией по аналитике планирования) с использованием разных методов заполнения планов продаж.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-03-16</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">9064</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 69</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/planirovanie-prodazh-po-kategoriyam">Как планировать продажи по товарным категориям</a>
+                            <div class="card-text"><p>Показана методика планирования продаж по товарным категориям и возможность расширенного заполнения планов по источникам данных.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-05-10</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">6997</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 70</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/plany-zakupok-sborki">Как планировать закупку и сборку-разборку</a>
+                            <div class="card-text"><p>Урок посвящен созданию обеспечивающих планов сборки и закупок по потребностям, сформированным планами продаж.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-05-11</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">6778</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 71</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+                 <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-heading12">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse12" aria-expanded="false" aria-controls="flush-collapse12">
+            12. Финансовые результаты <span class="d-none d-md-inline mx-1 mx-md-3 small text-muted">(статей: 9)</span>
+            </button>
+            </h2>
+            <div id="flush-collapse12" class="accordion-collapse collapse" aria-labelledby="flush-heading12">
+                <div class="accordion-body px-0 px-md-3">
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/interkampani">Межфирменные продажи (интеркампани)</a>
+                            <div class="card-text"><p>Настройка схемы интеркампани, оформление межфирменных продаж и ведение взаиморасчетов между двумя организациями.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-02-12</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">44111</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 67</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/napravleniya-statyi-raskhodov">Направления деятельности и статьи расходов</a>
+                            <div class="card-text"><p>Использование различных направлений деятельности для детализации финансового результата, основные настройки статей расходов.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-08-24</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">36576</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 73</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zakryitie-mesyatsa">Как закрыть месяц в УТ 11</a>
+                            <div class="card-text"><p>Выполнение регламентных операций закрытия месяца. Обзор рабочего места, исправление возникающих ошибок. Получение финансового результата.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-08-28</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">39895</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 74</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/raskhody-dostavka">Расходы по доставке, разгрузке и хранению в УТ 11</a>
+                            <div class="card-text"><p>Регистрация расходов по доставке товаров транспортной компанией, распределение на себестоимость товаров.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-10-13</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">20585</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 75</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/kommercheskie-rashody">Коммерческие расходы в УТ 11</a>
+                            <div class="card-text"><p>Отражение коммерческих расходов в 1С:Управление торговлей 11 на примере расходов по электроэнергии, представительских расходов, затрат по проектам, а также списания питьевой воды на собственные нужды</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-10-22</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">19468</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 76</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/rashody-budushikh-periodov">Реклассификация расходов, РБП в УТ 11</a>
+                            <div class="card-text"><p>Проведение реклассификации расходов (изменение аналитики отражения), регистрация и распределение расходов будущих периодов в 1С:Управление торговлей 11.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2019-10-28</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">9408</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 77</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/sebestoimost-obosoblenno">Обособленный учет себестоимости в УТ 11</a>
+                            <div class="card-text"><p>В каких случаях и каким образом следует детализировать себестоимость в Управление торговлей 11. Возможные виды дополнительной аналитики. Себестоимость в разрезе поставщиков</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-01-22</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">14253</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 79</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/monitoring-pokazatelei">Мониторинг целевых показателей в УТ 11</a>
+                            <div class="card-text"><p>Пример построения полноценной управленческой отчетности для анализа финансового состояния и эффективности компании. Настройка целевых показателей и вариантов анализа. Создание нового показателя.	</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-02-23</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">9171</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 82</span>    
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="card my-5">
+                        <div class="card-body p-md-4">
+                            <a class="card-title d-block fw-bold text-dark text-decoration-none opacity-hover h4" href="/kurs-ut11/zarplata-rashody">Отражение расходов по зарплате в УТ 11</a>
+                            <div class="card-text"><p>Показана выплата заработной платы через кассу с помощью РКО, а также отражение расходов по зарплате.</p></div>
+                        </div>
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="d-flex align-items-center text-muted small">
+                                <span>Опубликовано:</span>          
+                                <span class="ms-2 me-4">2020-12-11</span>
+                                <div class="d-none d-md-block">
+                                <span>Просмотров:</span>
+                                <span class="ms-2">6571</span>
+                                </div>
+                            </div>
+                            <div class="text-muted small">
+                                <span class="">Урок 85</span>    
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+             </div>
+    
+    </div></main>
+</div>
+    
+        
+<div class="modal" tabindex="-1" id="auth_form">
+    <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">      
+        <div class="modal-header bg-light">
+    <p class="h5 modal-title fw-bold">Авторизация</p>
+    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+</div>
+<div class="modal-body">
+        <form name="auth" action="/" method="post">
+        <div class="mb-3">
+            <label for="authemail" class="form-label">Электронная почта</label>
+            <input type="email" name="email" class="form-control" id="authemail" aria-describedby="emailHelp" required>
+            <div id="emailHelp" class="form-text">Ваша почта никогда не будет передана третьим лицам</div>
+        </div>
+        <div class="mb-3">
+        <label for="authPass" class="form-label">Пароль</label>
+        <input type="password" name="password" class="form-control" id="authPass" required>
+        </div>
+        <div class="btn-block d-flex justify-content-center align-items-center">
+            <button type="submit" value="auth" name="auth" class="btn btn-primary">Войти</button>
+            <a href="/register" class="link-secondary ms-3">Регистрация</a>
+        </div>
+    </form>
+</div>
+
+
+    </div>
+    </div>      
+</div>
+<div class="modal" tabindex="-1" id="auth_reason">
+    <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">      
+        <div class="modal-header bg-light">
+        <p class="h5 modal-title fw-bold">Зачем регистрироваться на сайте</p>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <p>Авторизованные пользователи:</p>
+            <ul>
+                <li>могут скачивать бесплатные разработки,</li>
+                <li>накапливают скидки за покупки разработок,</li>
+                <li>получают доступ к скрытым разделам сайта,</li>
+                <li>в личном кабинете могут скачать последние релизы купленных разработок.</li>
+                <li>могут задать вопрос в комментариях.</li>
+            </ul>
+        </div>
+    </div>
+    </div>      
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="../js/script7.js"></script>
+</body>
+</html>

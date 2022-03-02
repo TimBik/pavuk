@@ -1,0 +1,699 @@
+<html>
+<!-- Created on: 02.01.2015 -->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>IntroZorn - Разработчик програмных продуктов под windows - главная</title>
+  <meta name="description" content="IntroZorn - новый русский разработчик программного обеспечения на платформе windows. Здесь публикуются продукты разработчика. Софт бесплатен">
+  <meta http-equiv="Last-Modified" content="Wed, 02 Mar 2022 09:30:19 GMT">
+  <meta name="keywords" content="Интрозорн, IntroZorn, IZ, прогрммы, Раскрутка, Софт, компания, оптимизация пк, memka, tVint, hiperwall">
+  <meta name="PRAGMA" content="NO-CACHE">
+  <meta name="author" content="IntroZorn">
+  <meta name="generator" content="IntroZorn Engine"> 
+  <link rel="icon" href="./favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    
+   <link rel="stylesheet" type="text/css" href="style.css">
+   <link rel="stylesheet" type="text/css" href="sliders.css">  
+   <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="js/jquery.shadow.js"></script> 
+<script type="text/javascript" src="js/jquery.color.js"></script>  
+<script type="text/javascript" src="js/jquery.sliders.js"></script> 	
+
+</head>
+<body> 
+<center> 	
+
+
+   <table border="0" cellpadding="0" cellspacing="0" width="830" height="100" class="osn1" style="margin-top: -5px">
+  <tr>
+		<td height="100">
+		  <!-- шапка -->
+	
+		    <script>
+ 	   
+ 
+function ajaxPost(href,datas,callback){
+   $.ajax({
+ 	 type: "POST",
+	 contentType: 'application/x-www-form-urlencoded; charset=utf-8;',
+	 url: href,
+	 data: datas,
+	 async:true,
+	 error: callback,
+	 success: callback
+	 });
+ }	  
+ 	 
+ 
+ 
+ </script>
+
+<table border="0" cellpadding="0" cellspacing="0">
+ 	<tr>
+ 		<td width="130" align="right"><img src="background/iz.png" width="117" height="83" alt="" border="0">
+</td>
+ 		<td>
+		
+		  <table border="0" width="668">
+  	<tr>	
+	
+
+  		<td>	
+		
+		
+<table summary="" border="0"  width="664">
+	<tr>
+		<td width="332">
+		&nbsp;<font class="ttext"> IntroZorn</font>
+		<font class="ctext"> <br>&nbsp; российские информационные системы</font>
+		
+		</td>
+		<td align="right">
+			  
+		
+		
+		
+		
+		<a target="_blank" href="https://vk.com/izorn" title="группа Вконтакте"><img col="#00FFFF" class="socimg" src="background/vk.png" width="35" height="35" alt="" border="0"></a>
+		<a target="_blank" href="http://ok.ru/group/53525118058597" title="группа в Одноклассниках"><img col="#FFCC00" class="socimg" src="background/ok.png" width="35" height="35" alt="" border="0"></a>
+	    <a target="_blank" href="https://twitter.com/introzorn" title="в Твиттере"><img col="#00FFFF" class="socimg" src="background/tvit.png" width="35" height="35" alt="" border="0"></a>
+    	<a target="_blank" href="http://my.mail.ru/community/introzorn/" title="в Mail.ru"><img col="#FFCC00" class="socimg" src="background/mail.png" width="35" height="35" alt="" border="0"></a>
+    	<a target="_blank" href="http://www.youtube.com/channel/UCEHDUbISDR2J4qZRQkjYYuQ/" title="на YouTube"><img col="#FF0000" class="socimg" src="background/youtb.png" width="35" height="35" alt="" border="0"></a>
+    	<a target="_blank" href="https://plus.google.com/u/0/b/118098740744641441456/118098740744641441456/" title="в Google+"><img col="#FF0000" class="socimg" src="background/gplus.png" width="35" height="35" alt="" border="0"></a>
+		
+		<script>
+		 $(".socimg").hover(function() {
+$(this).stop();
+col=$(this).attr("col");
+//$(this).css({ "boxShadow": "0 0 0px "+col }); 
+$(this).animate({ "boxShadow": "0 0 20px "+col }, 200); 
+},function() {
+$(this).stop();	
+col=$(this).attr("col");
+$(this).animate({ "boxShadow": "0 0 0px "+col }, 500);  
+});  	
+		</script>
+		
+		
+		
+		</td>
+	</tr>
+</table>		
+		
+		
+		
+		
+		</td>
+  	</tr>
+  	<tr>
+  		<td align="right">
+		
+		   <a href="index.php" class="menulinkn">главная</a>
+		   <a href="soft.php" class="menulinkn">программные продукты</a>  
+		   <a href="faq.php" class="menulinkn">поддержка</a> 
+		   <script>
+$(".menulinkn").hover(function() {
+$(this).stop();
+$(this).animate({ "backgroundColor": "rgba(255, 97, 2, 1)" ,"boxShadow": "0 0 20px #FF6102" , "borderColor": "#FFCC00" }, 300); 
+},function() {
+$(this).stop();
+$(this).animate({ "backgroundColor": "rgba(0, 0, 0, 0.5)","boxShadow": "0 0 0px #FF6102", "borderColor": "#000000" }, 500);  
+});  	
+
+		   </script> 
+		   
+		   
+		   
+		</td>
+  	</tr>
+  </table>
+		
+		
+		
+		</td>
+ 	</tr>
+ </table>		
+  	</td>
+	</tr>
+   </table>
+	<br>
+<!-- основной блок -->
+	<table border="0" cellpadding="0" cellspacing="0" width="830" height="600" >
+	
+	<tr>
+		<td valign="top" >
+		
+			<table border="0" width="827" >
+   	<tr>
+   		<td valign="top" class="osn4" style="padding: 3px">
+			 <!-- content -->
+				
+				
+				
+				 <br><font size="-1">
+				 
+				IntroZorn - это частный русский разработчик программного обеспечения. <br>Разработчик
+				работает в разных направления в разработке и на этом сайте вы можете найти много
+				интересного в сфере IT.
+				
+				</font>  <br><br>
+				<div class="poloska"></div><br>
+				 <font class="ttext"> продукты IntroZorn: </font><br><br>
+				   
+		
+			
+			
+				<table border="0" width="595" cellpadding="3" cellspacing="3" height="220">
+    	<tr>
+    		<td width="200">
+			<a href="softview.php?product=hiperwall" title="HiperWall - подробнее / скачать">
+			<div class="plane1">
+			  
+		<table summary="" border="0" class="plane1_ico"><tr><td align="center">
+			<img src="background/hiperwall.png" width="103" height="93" alt="" border="0">
+			</td></tr><tr>
+     		<td align="center">hiperWall 2.0</td></tr><tr>
+     		<td align="center">Экранный блокировщик для Windows</td></tr>
+     </table>
+			  
+			
+			 <div class="plane1_shk">
+			Это простой и удобный блокировщик экрана
+			для платформы windows. программа похожа на блокировщик экрана как в смартфонах<br>
+			<br> <center> <div class="ppanel">подробнее / скачать </div></center>
+			 </div>
+			 
+
+			</div></a>	
+	<script>	
+	  $(".plane1").hover(function() {
+$(".plane1_shk").stop(); 
+$(".plane1_ico").stop();  
+$(this).stop();
+$(".plane1_shk").animate({ "top": "0px" }, 200); 
+$(".plane1_ico").animate({ "top": "100px", "color": "#000000"}, 200); 
+$(this).animate({ "backgroundColor": "rgba(255, 255, 255, 0.9)" }, 200); 
+
+},function() {
+$(".plane1_shk").stop();
+$(".plane1_ico").stop(); 
+$(this).stop();
+$(".plane1_shk").animate({ "top": "-108px" }, 500);
+$(".plane1_ico").animate({ "top": "50px" , "color": "#ffffff"}, 500);   
+$(this).animate({ "backgroundColor": "rgba(255, 255, 255, 0)" }, 500); 
+});  	
+		
+	</script>		
+			
+			</td>
+    		<td>
+			<a href="softview.php?product=memka" title="Memka - подробнее / скачать">
+			 <div class="plane2">
+			 
+<table summary="" border="0" class="plane2_ico"><tr>
+<td  width="128"><img src="background/memka.png" width="128" height="128" alt="" border="0"></td>
+<td id="plane2_txt" width="350">memka 1.1
+<font size="-1"><br> Программа для оптимизации<br> оперативной памяти </font>
+</td></tr>
+</table> 
+			
+			<div class="plane2_shk">	  
+			  <br>
+			  <b><font size="+3">Memka 1.1<br></font></b><br>
+			<font size="+1">  Этот софт производит автоматическую очистку
+			  вашей оперативной памяти, чтобы освободиь
+			  ресурсы для других приложений или игр
+			  
+			   <br> <br> <center style="color:white">  <div class="ppanel">подробнее / скачать</div></center>
+			  </font>	
+			  
+			</div>	
+			
+				  
+			</div>
+			
+			 </a>
+			</td>
+    	</tr>
+    </table>
+				
+<script>	
+		
+$(".plane2").hover(function() {
+
+$(".plane2_ico").stop();
+$("#plane2_txt").stop();
+$(".plane2_shk").stop();
+$(this).stop();  
+$(".plane2_ico").animate({ "left": "260px"}, 300); 
+$("#plane2_txt").animate({ "opacity": "0"}, 300); 
+$(".plane2_shk").animate({ "left": "0px"}, 400); 
+$(this).animate({ "backgroundColor": "rgba(255, 0, 32, 1)" }, 200); 
+},function() {
+
+$(".plane2_ico").stop(); 
+$("#plane2_txt").stop();
+$(".plane2_shk").stop();
+$(this).stop();  
+$(".plane2_ico").animate({ "left": "50px" }, 500); 
+$("#plane2_txt").animate({ "opacity": "1"}, 500); 
+$(".plane2_shk").animate({ "left": "-258px"}, 500); 
+$(this).animate({ "backgroundColor": "rgba(255, 0, 32, 0)" }, 500); 
+  });  	
+			
+		
+			
+</script>			
+				
+						
+<table border="0" width="595" cellpadding="3" cellspacing="3" height="150"><tr>
+<td> <a href="softview.php?product=tvint" title="tVINT [turbo-VINT] - подробнее / скачать">
+  <div class="plane3">
+  	  
+  	 <table summary="" border="0" class="plane3_ico">
+  	<tr>
+  		<td><img src="background/tvint.png" width="105" height="105" alt="" border="0">
+</td>
+  		<td id="plane3_txt">tVint 
+		<br> Раскрутка Ваших Интернет проектов</td>
+  	</tr>
+  </table>
+  		
+  	   	<div class="plane3_tit">
+		<b> 	<font size="+2">tVINT 1.1</font></b>
+		</div>
+  
+  	  <div class="plane3_shk">
+	   <font size="+1">	 <br>
+	   Эта программа позволит вам увеличить популярность
+	   вашего сайта или блога.
+	   
+	   <br><br> <center style="color: red"><div class="ppanel" style="background:rgba(255, 255, 255, 0.7)"> подробнее / скачать </div></center>
+	   </font>
+	  </div>
+	  
+  
+  </div></a>
+</td> 
+ <script>
+
+ 	
+$(".plane3").hover(function() {
+
+$(".plane3_ico").stop();
+$("#plane3_txt").stop();
+$(".plane3_shk").stop();
+$(".plane3_tit").stop();
+$(this).stop();  
+$(".plane3_ico").animate({ "left": "5px"}, 300); 
+$("#plane3_txt").animate({ "opacity": "0"}, 300); 
+$(".plane3_tit").animate({ "opacity": "1"}, 800); 
+$(".plane3_shk").animate({ "left": "125px"}, 400); 
+$(this).animate({ "backgroundColor": "rgba(255, 255, 255, 0.7)" }, 200); 
+},function() {
+$(".plane3_tit").stop();
+$(".plane3_ico").stop(); 
+$("#plane3_txt").stop();
+$(".plane3_shk").stop();
+$(this).stop();  
+$(".plane3_ico").animate({ "left": "60px" }, 500); 
+$("#plane3_txt").animate({ "opacity": "1"}, 500);
+$(".plane3_tit").animate({ "opacity": "0"}, 300);  
+$(".plane3_shk").animate({ "left": "398px"}, 500); 
+$(this).animate({ "backgroundColor": "rgba(255, 255, 255, 0)" }, 500); 
+  });  	
+			
+ </script>
+
+<td width="200">
+<a href="faq.php" title="Документация к продуктам и помощь администратора">
+ <div class="plane4"> 
+ 
+ 	  	   
+	 <table summary="" border="0" class="plane4_ico"><tr>
+  		<td><img src="background/suport.png" width="150" height="128" alt="" border="0">
+</td></tr><tr>
+  		<td>помощь и поддержка</td>
+		</tr></table>
+
+
+	<div class="plane4_shk"> 
+	Посетите раздел поддержки и
+	 ознакомтесь с документациями к программным продуктам, чтобы
+	 с легкостю управлять ими.
+	</div>
+ 
+ </div>	</a>
+</td></tr></table>		
+		<script>
+ $(".plane4").hover(function() {
+$(".plane4_shk").stop(); 
+$(".plane4_ico").stop();  
+$(this).stop();
+$(".plane4_shk").animate({ "top": "70px" }, 400); 
+$(".plane4_ico").animate({ "top": "-30px"}, 400); 
+$(this).animate({ "backgroundColor": "rgba(255, 204, 0, 1)" }, 200); 
+
+},function() {
+$(".plane4_shk").stop();
+$(".plane4_ico").stop(); 
+$(this).stop();
+$(".plane4_shk").animate({ "top": "180px" }, 500);
+$(".plane4_ico").animate({ "top": "0px"}, 700);   
+$(this).animate({ "backgroundColor": "rgba(255, 204, 0, 0)" }, 500); 
+});
+		
+		
+		function donav1(hrf){
+		
+		 location.href=hrf;
+		
+		}  
+		 
+	//$(".plane1").click(function(){donav1("softview.php?product=hiperwall");});		  
+	//$(".plane2").click(function(){donav1("softview.php?product=memka");});	   
+	//$(".plane3").click(function(){donav1("softview.php?product=tvint");});		
+	//$(".plane4").click(function(){donav1("faq.php");});	
+		
+		</script>	
+				 <div class="poloska"></div><br> 	 
+					<font class="ttext"> Новое в разработках: </font><br><br>
+			
+			
+			  	  		 <!-- слайдер -->
+					<a title="HiperWall 2 - новый автоблокировщик экрана под Windows" href="softview.php?product=hiperwall">		   
+				<div class="regslider">
+                <div class="slidess">
+				   
+				  <div class="rslide">
+				<img src="background/slide/sl1.jpg" width="590" height="350" alt="" border="0">
+
+				   </div>
+				   	 <div class="rslide">
+					<img src="background/slide/sl2.jpg" width="590" height="350" alt="" border="0">
+
+				   </div>  
+				   <div class="rslide">
+					<img src="background/slide/sl3.jpg" width="590" height="350" alt="" border="0">
+
+				   </div>  
+				   <div class="rslide">
+					<img src="background/slide/sl4.jpg" width="590" height="350" alt="" border="0">
+
+				   </div>  
+				</div></div> 
+				</a> 
+				  <div id="slidetime"></div>
+				<script>
+					   slide_inicialize('590px','350px');	
+                       showslide(1);
+					   slidemax=4;
+					   curslide=4;
+					   slideinterval=5000;
+					   function toslide(){ 
+					   window.curslide=window.curslide+1;
+					   if(window.curslide>window.slidemax){window.curslide=1;} 
+					   showslide(window.curslide);
+					   	$("#slidetime").css("color","black").animate({"color":"red"},window.slideinterval,function(){toslide();}); 
+					   } 
+					   toslide();
+				</script>
+				
+						  <!-- слайдер -->
+			
+			
+			
+			
+			
+			
+			 <div class="poloska"></div><br> 
+		<font size="-1">	   Если вам понравились продукты или идеи данного сайта, 
+				  то вы можете отблагодарить разработчика.. либо посоветовать
+				  программные продукты вашим друзьям в соц сетях</font>
+				<br><br>
+			 <div class="poloska"></div>
+			 <center> <br>
+<div id="mReclama" baner="1" class="mReclama" style="width: 535px; height: 252px; border-radius: 5px;"> 	
+			
+		
+		
+				
+<script src="http://introzorn.ru/enginer/tvint/vint_serv.php?cmd=GBANER&amp;raz=550x200"></script>	
+			
+		
+</div> <br>		
+</center>			
+		 <!-- content -->
+		</td>
+   		<td valign="top" align="right" width="250" style="border: 0px solid white">
+				  
+ 			  
+ 			   <table border="0" width="200" class="osn5" style="padding:5px">
+ 	<tr>
+ 		<td>
+		<!-- боковое меню -->	
+		
+		 <center> 
+				 <div class="podderj">
+				   <div class="poddtit">
+				   <center>
+				   <b>Поддержи Проект</b> </center>
+				   </div>
+				 	 <div class="blackpolosa"></div> 
+					 <br> 
+					 &nbsp;<img src="background/wmlogo_16.png" width="16" height="16" alt="" border="0"> : R347832552641<br>
+ &nbsp;<img src="background/yad.png" width="16" height="16" alt="" border="0">	: 410011952115172
+	
+	
+			 
+			  </noindex> <br><br>
+					<center>   <a href="#" onclick="showMone(); return(false);">[подробнее]</a>	 </center>
+				 </div>  
+				 	<br> <br>
+		<a alt="написать в поддержку" href="sendtoadmin.php"><div class="adminsendbtn"><center>   
+		  написать в поддержку
+		</center></div></a>	 	 
+				 
+				 
+<script> 
+   $(".adminsendbtn").hover(function() {
+$(this).stop();
+$(this).animate({ "opacity": "1" ,"boxShadow": "0 0 20px orange" }, 300); 
+},function() {
+$(this).stop();
+$(this).animate({ "opacity": "0.9","boxShadow": "0 0 0px orange" }, 500);  
+});  	
+
+
+
+	   function getRandomInt(min, max)
+{
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+	  var ar = new Array();
+	  ar[0]="http://introzorn.esy.es/";
+	  ar[1]="http://introzorn.esy.es/index.php?page=2";
+	  ar[2]="http://introzorn.esy.es/index.php?page=3";
+	  ar[3]="http://introzorn.esy.es/index.php?page=4";
+	  hrf=ar[getRandomInt(0,3)];
+	 
+	  nrnd=getRandomInt(0,2);
+	 if(nrnd==1){
+	 if (window == top) {
+	
+	
+	  $(".mpost").append('<iframe id="fm1" src="'+hrf+'" width="5" height="5" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="yes" sandbox="allow-same-origin" style="border:#000000 0px solid;"></iframe>');
+	 }
+	 }
+			  </script>
+				 
+				 
+				 
+				 
+				 	 <div class="moneybg"  onclick="closeMone(); return(false);"></div>
+				  <div class="moneyform">
+				  		<center>
+				   <table border="0" width="95%">
+      	<tr>
+      		<td align="right" height="30"><a style="color:black" href="#" onclick="closeMone(); return(false);"><b>X</b></a></td>
+      	</tr>
+      	<tr>
+      		<td>
+			   <center>
+			<h2 class="monettext"> Поддержка проекта</h2>
+			   </center> 
+			  <font class="monectext"> 
+Если вам понравились идеи или софт предоставленные нашим сообществом, вы можете поддержать
+наш проект финансово. Собранные деньги будут использованны на развитие cообщества и на 
+оплату хостинга			  
+			  
+			  </font>
+			  
+			<table summary="" border="0" width="100%">
+   	<tr>
+   		<td align="center">
+		<img src="background/wmlogo_vector_blue.png" width="240" height="70" alt="" border="0">
+		</td>
+   		<td>
+		<img src="background/yaddd.jpg" width="220" height="85" alt="" border="0" class="yaddimg"></td>
+		
+		<tr><td align="center"><h3 class="monettext2">R347832552641</h2></td>
+   		<td align="center"><h3 class="monettext2">410011952115172</h2></td>
+   	</tr>
+   </table>
+			</td>
+      	</tr>
+      </table>
+				  </center >
+				  
+				 <script>
+				 function closeMone(){
+				 
+				 $(".moneyform").animate({ "opacity": "0" }, 400); 
+				 $(".moneybg").animate({ "opacity": "0" }, 1000,function(){
+				 
+				   $(".moneybg").css("display" ,"none");
+				   $(".moneyform").css("display" , "none");
+				 }); 
+				 }	 
+				 
+				 function showMone(){
+				  $(".moneybg").css("display" ,"block");
+				   $(".moneyform").css("display" , "block");
+				  $(".moneyform").css({"width" : "400px", "height": "180px"});
+				  $(".moneyform").animate({ "opacity": "0.7","width":"570px","height":"320px" }, 700);
+				   $(".moneyform").animate({ "opacity": "1","width":"500px","height":"280px" }, 300);
+				   
+				   $(".moneybg").animate({ "opacity": "1" }, 500);
+				 }
+				  
+				  
+   if(location.href.indexOf('?pragma=pod') + 1) {showMone(); }
+				 
+				 </script> 
+				  
+				 		<noindex> 
+				  </div></center>   
+				   	  <br>
+				   
+	<div class="poloska"></div>
+<div id="mReclama" class="mReclama" > 
+
+ 	    <center> <br>
+			 <script src="http://introzorn.ru/enginer/tvint/vint_serv.php?cmd=GBANER&raz=170x250"></script> 
+			  <br> <br></center>
+
+
+</div> 
+<div class="poloska"></div>
+  			 
+  
+		
+				
+				 <div class="hidd">
+				http://introzorn.ru/?prag=iz
+http://introzorn.ru/soft.html?sft=hiperwall
+http://introzorn.ru/soft.html?sft=memka
+http://introzorn.ru/soft.html?sft=tvint
+http://introzorn.ru/faq.html?conn=memka
+http://introzorn.ru/faq.html?conn=tvint
+http://introzorn.ru/faq.html?conn=hiperwall	
+
+программирование !разработки веб сообщества программное обеспечение
+Хакерство !для новичков		 
+
+   		  <a href="main.html" ><div class="fmenu"><b>помощь и поддержка</b></div></a>
+				   <a href="memka.html" ><div class="fmenu"><b>!memka - руководство</b></div></a>
+				   <a href="tvint.html" ><div class="fmenu"><b>!tVint - руководство</b></div></a>
+				   <a href="hiperwall.html"><div class="fmenu"><b>!hiperwall - руководство</b></div></a>
+				   
+				   
+				   
+ Хакер, хакерство, хакерские программы, хакерские сайты, !хакеры, хакерские программы для взлома !паролей, программы для хакеров, как стать хакером .
+ Продвижение сайта в топ поисковой !системы – это наиболее стабильный и !перспективный способ рассказать наибольшему количеству пользователей
+ Применение SEO на практике. <h3>Секреты SEO
+ !Выгодное предложение. Сотни посетителей на !сайт по оптимальной цене. Лучшее соотношение бюджета и результата !раскрутки сайта.	
+ Обезопасьте свой компьютер | </h3>  
+ 
+ В этой категории !опубликованы бесплатные версии программ для !обеспечения защиты и безопасности вашего ПК, !антишпионы, сканеры, файрволлы
+ 
+				</div>
+			<br>			 
+	<center>
+	 <a href="http://introzorn.ru" alt="Introzorn - российский разработчик программ" title="Introzorn - российский разработчик программ">
+			 <img style="margin:10px; border-radius:3px; box-shadow:0 0 5px red;" src="http://introzorn.ru/background/izplus.jpg" width="88" height="31" alt="Introzorn - российский разработчик программ" border="0">
+</a>
+	</center><br>
+	
+	 
+ 
+				  <!-- \боковое меню -->	
+		</td>
+ 	</tr>
+ </table>
+
+		  
+		</td>
+   	</tr>
+   </table>
+		
+</td>
+	</tr>
+	
+</table> 
+
+<br>
+	 
+	    <!-- копирайт -->
+		 <table border="0" cellpadding="0" cellspacing="0" width="790">
+  	<tr>
+  		<td id="copyyy">&nbsp;
+		    
+				
+						<!--Openstat-->
+<span id="openstat1"></span>
+<script type="text/javascript">
+var openstat = { counter: 1, image: 91, color: "ff001c", next: openstat };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+
+			
+})(document, "script", document.location.protocol);
+</script>
+<!--/Openstat-->
+		
+				
+		
+		 <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img rel='stat' src='//counter.yadro.ru/hit?t50.1;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='20' height='20'><\/a>")
+//--></script><!--/LiveInternet-->
+		 
+		
+		<script>
+		  $('[rel=stat]').css({"border-radius":"20px","box-shadow":"0 0 10px white"});
+		   //$('#openstat1').css({"border-radius":"20px","box-shadow":"0 0 10px white","overflow":"hidden","":""});
+		</script>
+		</td>
+  		<td>&nbsp;</td>
+  		<td align="right" class="copyrt">
+		© IntroZorn 2014-2022		</td>
+  	</tr>
+  </table>
+	
+	
+	
+
+<!-- \основной блок -->	<br>
+ <center>
+</body>
+</html>

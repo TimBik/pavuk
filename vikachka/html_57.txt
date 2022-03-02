@@ -1,0 +1,945 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<title>СофтКомСервис — продажа и внедрение 1С</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="1С, бухгалтерия, 1С предприятие, 1С зарплата и кадры" />
+<meta name="description" content="Продажа, установка, настройка программ 1C, обучение пользователей. Разработка и внедрение систем полной автоматизации предприятий." />
+<link href="/bitrix/cache/css/s1/scoms_index/kernel_main/kernel_main_v1.css?16329327613040" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/scoms_index/template_f1bdbab466fe7c3a1d2a35688ba9722a/template_f1bdbab466fe7c3a1d2a35688ba9722a_v1.css?1632932761176112" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213530','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'c4a7dde5abe352f5caedfbdeaa13922b'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/scoms_index/kernel_main/kernel_main_v1.js?1632932761103283"></script>
+<script type="text/javascript"  src="/bitrix/cache/js/s1/scoms_index/kernel_main_polyfill_promise/kernel_main_polyfill_promise_v1.js?16329327612506"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/loadext.min.js?1545720343810"></script>
+<script type="text/javascript" src="/bitrix/js/main/loadext/extension.min.js?15457203431304"></script>
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-2.1.3.min.js?152162115184320"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core_promise.js','/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/templates/scoms_index/bootstrap/js/bootstrap.min.js','/bitrix/templates/scoms_index/js/owl.carousel.min.js','/bitrix/templates/scoms_index/js/slider_ini.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/templates/scoms_index/bootstrap/css/bootstrap.min.css','/bitrix/templates/scoms_index/font-awesome/css/font-awesome.min.css','/bitrix/templates/scoms_index/components/bitrix/menu/top/style.css','/bitrix/templates/scoms_index/components/bitrix/news.list/slider/style.css','/bitrix/templates/scoms_index/css/owl.carousel.min.css','/bitrix/templates/scoms_index/components/bitrix/news.list/sb_news/style.css','/bitrix/templates/scoms_index/components/bitrix/news.list/sb_news2/style.css','/bitrix/templates/scoms_index/components/bitrix/news.list/we_offer/style.css','/bitrix/templates/scoms_index/components/api/main.feedback/callback_line/style.css','/bitrix/templates/scoms_index/components/bitrix/news.list/special/style.css','/bitrix/templates/scoms_index/components/bitrix/news.list/resheniya/style.css','/bitrix/templates/scoms_index/components/bitrix/news.detail/hits/style.css','/bitrix/templates/scoms_index/components/bitrix/menu/footer/style.css','/bitrix/templates/scoms_index/components/api/main.feedback/feedback/style.css','/bitrix/templates/scoms_index/template_styles.css']); </script>
+<style type="text/css">
+#API-MF-form3 .uk-form-label{text-align:left}
+
+</style>
+<style type="text/css">
+#API-MF-form9 .uk-form-label{text-align:left}
+
+</style>
+<style type="text/css">
+#API-MF-form7 .uk-form-label{text-align:left}
+
+</style>
+<style type="text/css">
+#API-MF-form10 .uk-form-label{text-align:left}
+
+</style>
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/scoms_index/template_d3a965de075d387b82068a72fe4d3f30/template_d3a965de075d387b82068a72fe4d3f30_v1.js?163293276180993"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "8e72249a1b0dfc9f84feaabf6c0e0660"]); _ba.push(["host", "www.scoms.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+</head>
+<body>
+
+<section id="header">
+	<header class="container">
+		<div class="logo">
+			<a href="/"><img src="/images/logo.png" /></a>
+		</div>
+		<div class="search">
+<form action="/search/index.php">
+	<div class="input-group">
+					<input type="text" class="form-control" name="q" value="" size="15" maxlength="50" placeholder="Поиск" />
+				<span class="input-group-btn">
+			<input name="s" type="submit" class="btn btn-primary" value="Найти" />
+		</span>
+	</div>
+</form>		</div>
+		<div class="button">
+			<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalcallback">Заказать обратный звонок</button>
+		</div>
+		<div class="contacts">
+			<div class="address">
+				Москва, ул.&nbsp;Марксистская, д.&nbsp;34, кор.&nbsp;8			</div>
+			<div class="phone">
+				+7 (495) 972-27-56			</div>
+			<div class="email">
+				<a href="mailto:info@scoms.ru">info@scoms.ru</a>			</div>
+		</div>
+	</header>
+</section>
+
+<nav class="navbar">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-scoms" aria-expanded="false">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		<div class="collapse navbar-collapse" id="navbar-scoms">
+
+<ul class="nav navbar-nav">
+
+			<li><a href="/about/">О нас</a></li>
+		
+			<li><a href="/catalog/">Продукты 1С</a></li>
+		
+			<li><a href="/services/">Сервисы 1C</a></li>
+		
+			<li><a href="/uslugi/">Услуги</a></li>
+		
+			<li><a href="/resheniya/">Наши решения</a></li>
+		
+			<li><a href="/articles/">Статьи</a></li>
+		
+			<li><a href="/contacts/">Контакты</a></li>
+		
+
+</ul>
+		</div>
+	</div>
+</nav>
+
+<section id="slider-wrap" class="container">
+<div id="slider" class="owl-carousel">
+			<div class="item">
+							<a href="/news/1s-otchetnost-besplatno/">
+							<img src="/upload/iblock/0c5/0c5445846245c3fc737178bdf953ac43.jpg" width="1200" height="360" alt="1С-Отчетность бесплатно" title="1С-Отчетность бесплатно" />
+							</a>
+					</div>
+				<div class="item">
+							<a href="/news/besplatno-podklyuchim-k-servisu-1s-otchetnost/">
+							<img src="/upload/iblock/454/454925dccd34ce74ac412f81a03c19d2.jpg" width="1200" height="360" alt="БЕСПЛАТНО подключим к сервису 1С-Отчетность на год" title="БЕСПЛАТНО подключим к сервису 1С-Отчетность на год" />
+							</a>
+					</div>
+				<div class="item">
+							<a href="/news/pri-zamene-staroy-programmy-na-novuyu-skidka-50/">
+							<img src="/upload/iblock/6b3/6b3d13bee0334c83f86d395dd0b8eb7e.jpg" width="1200" height="360" alt="При замене старой программы на новую — скидка 50%" title="При замене старой программы на новую — скидка 50%" />
+							</a>
+					</div>
+	</div></section>
+
+<main>
+	<div class="container">
+		<article class="col-xs-12 col-sm-8 col-lg-9">
+			<h1>СофтКомСервис — продажа и внедрение 1С</h1>
+			
+<p>Планируете купить 1С для вашего предприятия и теперь занимаетесь поисками серьезного поставщика? Компания СофтКомСервис всегда готова прийти на помощь в решении данного вопроса и обеспечить поставку и обслуживание всей линейки программ 1С.</p>
+<p class="bold red">Поставка и сопровождение 1С в компании СофтКомСервис - выгодное решение!</p>
+<p>Купив программу у нас, Вам не придётся долго думать с чего начать! Опытный специалист расскажет как заполнить первоначальные данные, параметры учетной политики, ввести остатки. Далее очень важно вместе со специалистом пробежаться по основным участкам учета, реализованным в программе непосредственно с текущими первичными документами.</p>
+<p>Совместим приятное с полезным! Мы будем учить Вас работать в программе и одновременно помогать Вам  вести учет. Здорово, не так ли?</p>
+<p><b class="red">Остались сомнения - звоните (+7 495 972-27-56).</b> Для тех, кто ранее пользовался предыдущими программами, можем перенести остатки бесплатно, в случае если программа типовая (без дополнительных настроек).</p>
+
+		</article>
+		<aside class="col-xs-12 col-sm-4 col-lg-3">
+<div class="news">
+	<div class="title-block">Акции</div>
+	<div class="content">
+			<a href="/offers/obsluzhivanie-1s-besplatno/">
+							<div class="date">14.07.2020</div>
+										<div class="title">Обслуживание 1С БЕСПЛАТНО!</div>
+					</a>
+			<a href="/offers/besplatno-podklyuchim-k-servisu-1s-otchetnost/">
+							<div class="date">11.06.2020</div>
+										<div class="title">БЕСПЛАТНО подключим к сервису 1С-Отчетность на год</div>
+					</a>
+		</div>
+</div><div class="news">
+	<div class="title-block">Новости</div>
+	<div class="content">
+			<a href="/news/izmeneny-pravila-rascheta-srednego-zarabotka/">
+							<div class="date">09.06.2020</div>
+										<div class="title">Изменены правила расчета среднего заработка для выплаты пособий</div>
+					</a>
+			<a href="/news/tekhnicheskie-usloviya-egais/">
+							<div class="date">20.02.2019</div>
+										<div class="title">Технические условия для установки ЕГАИС</div>
+					</a>
+		</div>
+</div>		</aside>
+	</div>
+</main>
+
+<section id="what-we-offer">
+	<div class="container">
+		<div class="title-block">Что мы предлагаем</div>
+<div class="row">
+		<div class="col-xs-12 col-sm-6 col-md-4 item" id="bx_3485106786_257">
+		<a href="/catalog/">
+							<img src="/upload/iblock/0dd/0dda91531e12b413eaa776fa7b853593.jpg" width="384" height="256" alt="Продукты 1С" title="Продукты 1С" />
+										<div class="title">Продукты 1С</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-6 col-md-4 item" id="bx_3485106786_258">
+		<a href="/services/1s-otchetnost/">
+							<img src="/upload/iblock/58e/58efc2f52bd3652d32570ffd2fd5fc49.jpg" width="384" height="256" alt="1С отчетность" title="1С отчетность" />
+										<div class="title">1С отчетность</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-6 col-md-4 item" id="bx_3485106786_259">
+		<a href="/services/">
+							<img src="/upload/iblock/605/6057ec75284ed73ec5905ba63d36c9f7.jpg" width="384" height="256" alt="Сервисы" title="Сервисы" />
+										<div class="title">Сервисы</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-6 col-md-4 item" id="bx_3485106786_260">
+		<a href="/uslugi/">
+							<img src="/upload/iblock/082/082ab53bc2cac8bc0ac21616c46b19d2.jpg" width="384" height="256" alt="Услуги" title="Услуги" />
+										<div class="title">Услуги</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-6 col-md-4 item" id="bx_3485106786_261">
+		<a href="/resheniya/">
+							<img src="/upload/iblock/706/706020d9ec5d575e34f08852daecf205.jpg" width="384" height="256" alt="Наши решения" title="Наши решения" />
+										<div class="title">Наши решения</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-6 col-md-4 item" id="bx_3485106786_262">
+		<a href="/resheniya/zagruzka-dannykh-upravleniya-gostinitsami-kompanii/">
+							<img src="/upload/iblock/a10/a1069aee1d6d051f527176a8f27b1360.jpg" width="384" height="256" alt="Разработка уникальных решений" title="Разработка уникальных решений" />
+										<div class="title">Разработка уникальных решений</div>
+					</a>
+	</div>
+</div>	</div>
+</section>
+
+<section id="fast-callback">
+	<div class="container">
+		<div class="col-xs-12 col-sm-6 text">
+			<div class="title">Есть вопросы?</div>
+			<div class="motivate">Получите бесплатную консультацию по телефону</div>
+		</div>
+		<div class="col-xs-12 col-sm-6 form">
+<div id="comp_1228afc4911cca3d1ad235f20e53efb4"><script type="text/javascript">
+
+	
+	if(typeof jQuery == 'undefined')
+		throw new Error("#form3 requires jQuery");
+
+	jQuery(document).ready(function ($) {
+
+		
+		
+		
+				$('#UUID-form3').on('change keyup', function () {
+			if (!$(this).length)
+				$(this).val('');
+		});
+												
+				if ($('#form3 .group-agreement').length) {
+			$('#API_MF_SUBMIT_BUTTON_form3').click(function () {
+				if ($('#API_MF_AGREEMENT_form3').is(':checked') == false) {
+					alert('Пожалуйста, ознакомьтесь с Соглашением об обработке персональных данных');
+					return false;
+				}
+			});
+		}
+			});
+
+
+	function fileStringClone_form3(name,max) {
+		var length = $('#form3 .group-' + name + ' .api-mf-file').length;
+		var api_mf_file = $('#form3 .group-' + name + ' .api-mf-file:last');
+
+		if(length < max)
+		{
+			api_mf_file
+				.clone(true)
+				.insertAfter(api_mf_file)
+				.find('button').attr('onclick', '$(\'#form3-' + name + '-' + length + '\').click();')
+				.parents('.api-mf-file').find('span')
+				.attr('id', 'form3-' + name + '-VALUE-' + length)
+				.text('файл не выбран')
+				.parents('.api-mf-file').find('input')
+				.attr('id', 'form3-' + name + '-' + length)
+				.attr('onchange', '$(\'#form3-' + name + '-VALUE-' + length + '\').text(this.value);');
+		}
+		else
+		{
+			api_mf_file.next().hide();
+		}
+	}
+</script>
+<div id="API-MF-form3" class=" api-mainfeedback tpl-default tpl-default-form3">
+	
+		
+					
+<form id="form3"
+		      class="uk-form  uk-form-stacked"
+		      name="api_feedback_form"
+		      enctype="multipart/form-data"
+		      method="POST"
+		      action="/"
+		      autocomplete="off"><input type="hidden" name="bxajaxid" id="bxajaxid_1228afc4911cca3d1ad235f20e53efb4_8BACKi" value="1228afc4911cca3d1ad235f20e53efb4" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_8BACKi(){
+	if (BX('bxajaxid_1228afc4911cca3d1ad235f20e53efb4_8BACKi'))
+	{
+		var obForm = BX('bxajaxid_1228afc4911cca3d1ad235f20e53efb4_8BACKi').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_1228afc4911cca3d1ad235f20e53efb4', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_8BACKi);
+}
+if (BX('bxajaxid_1228afc4911cca3d1ad235f20e53efb4_8BACKi'))
+	_processform_8BACKi();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_8BACKi);
+</script>
+
+			<input type="hidden" name="sessid" id="sessid" value="c4a7dde5abe352f5caedfbdeaa13922b" />			<input type="hidden" name="UNIQUE_FORM_ID" value="form3">
+			<input type="hidden" name="API_MF_HIDDEN_SUBMIT" value="form3">
+							<input type="text" name="ANTIBOT[NAME]" value="" class="api-mf-antibot">
+													
+			
+			
+															<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="PHONE"
+										       value=""
+											 placeholder="Ваш номер телефона"											class="form-control required uk-form-default"											>
+																													</div>
+								</div>
+											
+
+									
+			
+			<div class="uk-form-row group-button">
+								<div class="uk-form-controls">
+					<button id="API_MF_SUBMIT_BUTTON_form3"
+					        type="submit"
+					        name="API_MF_SUBMIT_BUTTON"
+					        class="btn btn-primary btn-block uk-button-default"
+					        style=""
+					        value="Y">Заказать звонок</button>
+				</div>
+			</div>
+
+							<div id="API-MF-AGREEMENT-form3" class="uk-form-row group-agreement">
+										<div class="uk-form-controls">
+						<input id="API_MF_AGREEMENT_form3" type="checkbox" name="API_MF_AGREEMENT" value="Y" checked="checked">&nbsp;<!--
+						--><a href="/soglashenie/" target="_blank">Согласен на обработку персональных данных</a>
+					</div>
+				</div>
+					</form>
+			</div></div>		</div>
+	</div>
+</section>
+<section id="special">
+	<div class="container">
+		<div class="title-block">Специальные предложения</div>
+<div class="row">
+		<div class="col-xs-12 col-sm-4 item" id="bx_3099439860_263">
+		<a href="/news/">
+							<img src="/upload/iblock/81b/81bc76b25e94e02ae1ffe6d970d9befb.jpg" width="768" height="512" alt="1С Отчетность бесплатно" title="1С Отчетность бесплатно" />
+										<div class="title">1С Отчетность бесплатно</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-4 item" id="bx_3099439860_264">
+		<a href="/news/pri-podpiske-na-its-prof-1s-otchetnost-v-podarok/">
+							<img src="/upload/iblock/cf1/cf1bed8038df0cbb151d9f7914c391e7.jpg" width="768" height="512" alt="1С ИТС проф — отчетность бесплатно" title="1С ИТС проф — отчетность бесплатно" />
+										<div class="title">1С ИТС проф — отчетность бесплатно</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-4 item" id="bx_3099439860_265">
+		<a href="/uslugi/bukhgalterskie/">
+							<img src="/upload/iblock/6cc/6cc8aaaa785133d56240881d97cab6eb.jpg" width="768" height="512" alt="Бухгалтерское обслуживание и консультации" title="Бухгалтерское обслуживание и консультации" />
+										<div class="title">Бухгалтерское обслуживание и консультации</div>
+					</a>
+	</div>
+</div>	</div>
+</section>
+
+<section id="last">
+	<div class="container">
+		<div class="title-block">Последние разработки</div>
+<div class="row">
+		<div class="col-xs-12 col-sm-4 item" id="bx_565502798_193">
+		<a href="/resheniya/zagruzka-dannykh-1s-bukhgalteriya-8-iz-materials-control/">
+			<div class="pic" style="background-image:url(/upload/iblock/a9b/a9b24c7a763c375b5e6e40d610d3b8b6.png)"></div>
+							<div class="title">Загрузка данных в 1С:Бухгалтерия 8 из Materials Control</div>
+										<div class="text">Загрузка происходит из файла формата .csv, предварительно выгруженного из Materials Control.</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-4 item" id="bx_565502798_194">
+		<a href="/resheniya/zagruzka-dannykh-v-1s-bukhgalteriya-8-iz-gestori-pro/">
+			<div class="pic" style="background-image:url(/upload/iblock/ae5/ae5ed0aac5691437ad450d9a84933b82.png)"></div>
+							<div class="title">Загрузка данных в 1С:Бухгалтерия 8 из Gestori Pro</div>
+										<div class="text">Загрузка происходит из файла, определенного формата, предварительно выгруженного из Gestori Pro.</div>
+					</a>
+	</div>
+		<div class="col-xs-12 col-sm-4 item" id="bx_565502798_195">
+		<a href="/resheniya/nds-po-stavke-0/">
+			<div class="pic" style="background-image:url(/upload/iblock/b97/b975c782091631be25e52137e40d3129.png)"></div>
+							<div class="title">НДС по ставке 0%</div>
+										<div class="text">Период документа квартал, дата ввода документа последний день квартала.</div>
+					</a>
+	</div>
+</div>	</div>
+</section>
+
+<section id="hits">
+	<div class="container">
+		<div class="title-block">Наши решения — хиты продаж</div>
+		<div class="content">
+<div class="row">
+	<div class="col-xs-12 col-sm-6 pic-wrap">
+		<div class="pic" style="background-image:url(/upload/iblock/499/49915111f0a4159709ebec75d51ee461.jpg)"></div>
+	</div>
+	<div class="col-xs-12 col-sm-6 text">
+					<div class="title">Загрузка данных из систем управления гостиницами компании HRS Opera V2.5+ и Fidelio Suite 8</div>
+				<div class="descr">
+							<p>Данная обработка предназначена для загрузки финансовых данных из систем управления гостиницами компании HRS Opera V2.5+ и Fidelio Suite 8, (версия формата выгрузки BOF-EXP-CSV-05-11-04) в конфигурацию 1С:Бухгалтерия 2.0 на платформе 1С:Предприятие 8.</p>
+<ul>
+	<li>Загрузка файлов</li>
+	<li>Загрузка и создание контрагентов</li>
+	<li>Загрузка номенклатуры</li>
+	<li>Загрузка транзакций услуг</li>
+	<li>Поиск и создание документов</li>
+</ul>										<div class="read-more">
+					<a href="/resheniya/zagruzka-dannykh-upravleniya-gostinitsami-kompanii/" class="btn btn-outline-primary">Подробно</a>
+				</div>
+					</div>
+	</div>
+</div>		</div>
+	</div>
+</section>
+
+<section id="footer">
+	<footer class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-10 menu">
+
+<ul>
+
+			<li><a href="/download/">Скачать</a></li>
+		
+			<li><a href="/services/1s-otchetnost/">1С отчетность</a></li>
+		
+			<li><a href="/news/">Новости</a></li>
+		
+			<li><a href="/offers/">Акции</a></li>
+		
+			<li><a href="/catalog/educational/">Обучающие материалы</a></li>
+		
+			<li><a href="/uslugi/bukhgalterskie/">Бухгалтерские услуги</a></li>
+		
+			<li><a href="/54-fz/">54-фз</a></li>
+		
+			<li><a href="/job/">Работа</a></li>
+		
+
+</ul>
+			</div>
+			<div class="col-xs-12 col-sm-4 col-md-2 logo">
+				<img src="images/logo.png" />
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 contacts">
+				<div class="address">
+					Москва, ул.&nbsp;Марксистская, д.&nbsp;34, кор.&nbsp;8				</div>
+				<div class="phone">
+					+7 (495) 972-27-56					</div>
+				<div class="email">
+					<a href="mailto:info@scoms.ru">info@scoms.ru</a>				</div>
+				<div class="copyright">
+					2018 ООО "СофтКомСервис"				</div>
+			</div>
+			<div class="col-xs-12 col-sm-8 right">
+				<div id="statistic">
+					<!--YA_start-->
+<!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=22081078&from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/22081078/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:22081078,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter22081078 = new Ya.Metrika({id:22081078,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/22081078" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!--YA_end-->
+<!--LI_start-->
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t12.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+<!--LI_end-->				</div>
+				<div id="copyright"></div>
+			</div>
+		</div>
+	</footer>
+</section>
+
+<div class="modal fade" id="modalorder" tabindex="-1" role="dialog" aria-labelledby="modalorderLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modalorderLabel">Заказать</h4>
+			</div>
+			<div class="modal-body">
+<div id="comp_ea8de93f85f7b534899707d6373ade1b"><script type="text/javascript">
+
+	
+	if(typeof jQuery == 'undefined')
+		throw new Error("#form9 requires jQuery");
+
+	jQuery(document).ready(function ($) {
+
+		
+		
+		
+				$('#UUID-form9').on('change keyup', function () {
+			if (!$(this).length)
+				$(this).val('');
+		});
+												
+				if ($('#form9 .group-agreement').length) {
+			$('#API_MF_SUBMIT_BUTTON_form9').click(function () {
+				if ($('#API_MF_AGREEMENT_form9').is(':checked') == false) {
+					alert('Пожалуйста, ознакомьтесь с Соглашением об обработке персональных данных');
+					return false;
+				}
+			});
+		}
+			});
+
+
+	function fileStringClone_form9(name,max) {
+		var length = $('#form9 .group-' + name + ' .api-mf-file').length;
+		var api_mf_file = $('#form9 .group-' + name + ' .api-mf-file:last');
+
+		if(length < max)
+		{
+			api_mf_file
+				.clone(true)
+				.insertAfter(api_mf_file)
+				.find('button').attr('onclick', '$(\'#form9-' + name + '-' + length + '\').click();')
+				.parents('.api-mf-file').find('span')
+				.attr('id', 'form9-' + name + '-VALUE-' + length)
+				.text('файл не выбран')
+				.parents('.api-mf-file').find('input')
+				.attr('id', 'form9-' + name + '-' + length)
+				.attr('onchange', '$(\'#form9-' + name + '-VALUE-' + length + '\').text(this.value);');
+		}
+		else
+		{
+			api_mf_file.next().hide();
+		}
+	}
+</script>
+<div id="API-MF-form9" class=" api-mainfeedback tpl-default tpl-default-form9">
+	
+		
+					
+<form id="form9"
+		      class="uk-form  uk-form-stacked"
+		      name="api_feedback_form"
+		      enctype="multipart/form-data"
+		      method="POST"
+		      action="/"
+		      autocomplete="on"><input type="hidden" name="bxajaxid" id="bxajaxid_ea8de93f85f7b534899707d6373ade1b_Ar8Szp" value="ea8de93f85f7b534899707d6373ade1b" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_Ar8Szp(){
+	if (BX('bxajaxid_ea8de93f85f7b534899707d6373ade1b_Ar8Szp'))
+	{
+		var obForm = BX('bxajaxid_ea8de93f85f7b534899707d6373ade1b_Ar8Szp').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_ea8de93f85f7b534899707d6373ade1b', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+}
+if (BX('bxajaxid_ea8de93f85f7b534899707d6373ade1b_Ar8Szp'))
+	_processform_Ar8Szp();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_Ar8Szp);
+</script>
+
+			<input type="hidden" name="sessid" id="sessid_1" value="c4a7dde5abe352f5caedfbdeaa13922b" />			<input type="hidden" name="UNIQUE_FORM_ID" value="form9">
+			<input type="hidden" name="API_MF_HIDDEN_SUBMIT" value="form9">
+							<input type="text" name="ANTIBOT[NAME]" value="" class="api-mf-antibot">
+													
+			
+			
+															<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="PRODUCT"
+										       value=""
+											 placeholder="Наименование продукта"											class="form-control form-highlight uk-form-default"											>
+																													</div>
+								</div>
+																<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="NAME"
+										       value=""
+											 placeholder="Ваше имя"											class="form-control uk-form-default"											>
+																													</div>
+								</div>
+																<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="PHONE"
+										       value=""
+											 placeholder="Номер телефона*"											class="form-control required uk-form-default"											>
+																													</div>
+								</div>
+																<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="EMAIL"
+										       value=""
+											 placeholder="Ваш E-mail"											class="form-control uk-form-default"											>
+																													</div>
+								</div>
+															<div class="uk-form-row">
+																<div class="uk-form-controls">
+									<textarea name="TEXTAREA1"
+																				rows="5"										 placeholder="Комментарий к заказу"										class="form-control uk-form-default"										></textarea>
+																										</div>
+							</div>
+										
+
+									
+			
+							<div id="API-MF-AGREEMENT-form9" class="uk-form-row group-agreement">
+										<div class="uk-form-controls">
+						<input id="API_MF_AGREEMENT_form9" type="checkbox" name="API_MF_AGREEMENT" value="Y" checked="checked">&nbsp;<!--
+						--><a href="/soglashenie/" target="_blank">Согласен на обработку персональных данных</a>
+					</div>
+				</div>
+			
+			<div class="uk-form-row group-button">
+								<div class="uk-form-controls">
+					<button id="API_MF_SUBMIT_BUTTON_form9"
+					        type="submit"
+					        name="API_MF_SUBMIT_BUTTON"
+					        class="btn btn-primary uk-button-default"
+					        style=""
+					        value="Y">Отправить</button>
+				</div>
+			</div>
+		</form>
+			</div></div>			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="modalfaq" tabindex="-1" role="dialog" aria-labelledby="modalfaqLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modalfaqLabel">Задать вопрос</h4>
+			</div>
+			<div class="modal-body">
+<div id="comp_263933b8133f981d927362b2bc2a2c23"><script type="text/javascript">
+
+	
+	if(typeof jQuery == 'undefined')
+		throw new Error("#form7 requires jQuery");
+
+	jQuery(document).ready(function ($) {
+
+		
+		
+		
+				$('#UUID-form7').on('change keyup', function () {
+			if (!$(this).length)
+				$(this).val('');
+		});
+												
+				if ($('#form7 .group-agreement').length) {
+			$('#API_MF_SUBMIT_BUTTON_form7').click(function () {
+				if ($('#API_MF_AGREEMENT_form7').is(':checked') == false) {
+					alert('Пожалуйста, ознакомьтесь с Соглашением об обработке персональных данных');
+					return false;
+				}
+			});
+		}
+			});
+
+
+	function fileStringClone_form7(name,max) {
+		var length = $('#form7 .group-' + name + ' .api-mf-file').length;
+		var api_mf_file = $('#form7 .group-' + name + ' .api-mf-file:last');
+
+		if(length < max)
+		{
+			api_mf_file
+				.clone(true)
+				.insertAfter(api_mf_file)
+				.find('button').attr('onclick', '$(\'#form7-' + name + '-' + length + '\').click();')
+				.parents('.api-mf-file').find('span')
+				.attr('id', 'form7-' + name + '-VALUE-' + length)
+				.text('файл не выбран')
+				.parents('.api-mf-file').find('input')
+				.attr('id', 'form7-' + name + '-' + length)
+				.attr('onchange', '$(\'#form7-' + name + '-VALUE-' + length + '\').text(this.value);');
+		}
+		else
+		{
+			api_mf_file.next().hide();
+		}
+	}
+</script>
+<div id="API-MF-form7" class=" api-mainfeedback tpl-default tpl-default-form7">
+	
+		
+					
+<form id="form7"
+		      class="uk-form  uk-form-stacked"
+		      name="api_feedback_form"
+		      enctype="multipart/form-data"
+		      method="POST"
+		      action="/"
+		      autocomplete="on"><input type="hidden" name="bxajaxid" id="bxajaxid_263933b8133f981d927362b2bc2a2c23_XrQFCj" value="263933b8133f981d927362b2bc2a2c23" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_XrQFCj(){
+	if (BX('bxajaxid_263933b8133f981d927362b2bc2a2c23_XrQFCj'))
+	{
+		var obForm = BX('bxajaxid_263933b8133f981d927362b2bc2a2c23_XrQFCj').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_263933b8133f981d927362b2bc2a2c23', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+}
+if (BX('bxajaxid_263933b8133f981d927362b2bc2a2c23_XrQFCj'))
+	_processform_XrQFCj();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_XrQFCj);
+</script>
+
+			<input type="hidden" name="sessid" id="sessid_2" value="c4a7dde5abe352f5caedfbdeaa13922b" />			<input type="hidden" name="UNIQUE_FORM_ID" value="form7">
+			<input type="hidden" name="API_MF_HIDDEN_SUBMIT" value="form7">
+							<input type="text" name="ANTIBOT[NAME]" value="" class="api-mf-antibot">
+													
+			
+			
+															<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="NAME"
+										       value=""
+											 placeholder="Ваше имя"											class="form-control uk-form-default"											>
+																													</div>
+								</div>
+																<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="PHONE"
+										       value=""
+											 placeholder="Номер телефона"											class="form-control uk-form-default"											>
+																													</div>
+								</div>
+																<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="EMAIL"
+										       value=""
+											 placeholder="Ваш E-mail"											class="form-control uk-form-default"											>
+																													</div>
+								</div>
+															<div class="uk-form-row">
+																<div class="uk-form-controls">
+									<textarea name="TEXTAREA1"
+										cols="30"										rows="5"										 placeholder="Ваш вопрос*"										class="form-control required uk-form-default"										></textarea>
+																										</div>
+							</div>
+										
+
+									
+			
+							<div id="API-MF-AGREEMENT-form7" class="uk-form-row group-agreement">
+										<div class="uk-form-controls">
+						<input id="API_MF_AGREEMENT_form7" type="checkbox" name="API_MF_AGREEMENT" value="Y" checked="checked">&nbsp;<!--
+						--><a href="/soglashenie/" target="_blank">Согласен на обработку персональных данных</a>
+					</div>
+				</div>
+			
+			<div class="uk-form-row group-button">
+								<div class="uk-form-controls">
+					<button id="API_MF_SUBMIT_BUTTON_form7"
+					        type="submit"
+					        name="API_MF_SUBMIT_BUTTON"
+					        class="btn btn-primary uk-button-default"
+					        style=""
+					        value="Y">Отправить</button>
+				</div>
+			</div>
+		</form>
+			</div></div>			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="modalcallback" tabindex="-1" role="dialog" aria-labelledby="modalcallbackLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="modalcallbackLabel">Заказать обратный звонок</h4>
+			</div>
+			<div class="modal-body">
+<div id="comp_6e4df8a236af4fcf2f0c0dc470326251"><script type="text/javascript">
+
+	
+	if(typeof jQuery == 'undefined')
+		throw new Error("#form10 requires jQuery");
+
+	jQuery(document).ready(function ($) {
+
+		
+		
+		
+				$('#UUID-form10').on('change keyup', function () {
+			if (!$(this).length)
+				$(this).val('');
+		});
+												
+				if ($('#form10 .group-agreement').length) {
+			$('#API_MF_SUBMIT_BUTTON_form10').click(function () {
+				if ($('#API_MF_AGREEMENT_form10').is(':checked') == false) {
+					alert('Пожалуйста, ознакомьтесь с Соглашением об обработке персональных данных');
+					return false;
+				}
+			});
+		}
+			});
+
+
+	function fileStringClone_form10(name,max) {
+		var length = $('#form10 .group-' + name + ' .api-mf-file').length;
+		var api_mf_file = $('#form10 .group-' + name + ' .api-mf-file:last');
+
+		if(length < max)
+		{
+			api_mf_file
+				.clone(true)
+				.insertAfter(api_mf_file)
+				.find('button').attr('onclick', '$(\'#form10-' + name + '-' + length + '\').click();')
+				.parents('.api-mf-file').find('span')
+				.attr('id', 'form10-' + name + '-VALUE-' + length)
+				.text('файл не выбран')
+				.parents('.api-mf-file').find('input')
+				.attr('id', 'form10-' + name + '-' + length)
+				.attr('onchange', '$(\'#form10-' + name + '-VALUE-' + length + '\').text(this.value);');
+		}
+		else
+		{
+			api_mf_file.next().hide();
+		}
+	}
+</script>
+<div id="API-MF-form10" class=" api-mainfeedback tpl-default tpl-default-form10">
+	
+		
+					
+<form id="form10"
+		      class="uk-form  uk-form-stacked"
+		      name="api_feedback_form"
+		      enctype="multipart/form-data"
+		      method="POST"
+		      action="/"
+		      autocomplete="on"><input type="hidden" name="bxajaxid" id="bxajaxid_6e4df8a236af4fcf2f0c0dc470326251_dCjmSk" value="6e4df8a236af4fcf2f0c0dc470326251" /><input type="hidden" name="AJAX_CALL" value="Y" /><script type="text/javascript">
+function _processform_dCjmSk(){
+	if (BX('bxajaxid_6e4df8a236af4fcf2f0c0dc470326251_dCjmSk'))
+	{
+		var obForm = BX('bxajaxid_6e4df8a236af4fcf2f0c0dc470326251_dCjmSk').form;
+		BX.bind(obForm, 'submit', function() {BX.ajax.submitComponentForm(this, 'comp_6e4df8a236af4fcf2f0c0dc470326251', true)});
+	}
+	BX.removeCustomEvent('onAjaxSuccess', _processform_dCjmSk);
+}
+if (BX('bxajaxid_6e4df8a236af4fcf2f0c0dc470326251_dCjmSk'))
+	_processform_dCjmSk();
+else
+	BX.addCustomEvent('onAjaxSuccess', _processform_dCjmSk);
+</script>
+
+			<input type="hidden" name="sessid" id="sessid_3" value="c4a7dde5abe352f5caedfbdeaa13922b" />			<input type="hidden" name="UNIQUE_FORM_ID" value="form10">
+			<input type="hidden" name="API_MF_HIDDEN_SUBMIT" value="form10">
+							<input type="text" name="ANTIBOT[NAME]" value="" class="api-mf-antibot">
+													
+			
+			
+															<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="NAME"
+										       value=""
+											 placeholder="Ваше имя"											class="form-control uk-form-default"											>
+																													</div>
+								</div>
+																<div class="uk-form-row">
+																		<div class="uk-form-controls">
+										<input type="text"
+										       name="PHONE"
+										       value=""
+											 placeholder="Номер телефона*"											class="form-control required uk-form-default"											>
+																													</div>
+								</div>
+											
+
+									
+			
+							<div id="API-MF-AGREEMENT-form10" class="uk-form-row group-agreement">
+										<div class="uk-form-controls">
+						<input id="API_MF_AGREEMENT_form10" type="checkbox" name="API_MF_AGREEMENT" value="Y" checked="checked">&nbsp;<!--
+						--><a href="/soglashenie/" target="_blank">Согласен на обработку персональных данных</a>
+					</div>
+				</div>
+			
+			<div class="uk-form-row group-button">
+								<div class="uk-form-controls">
+					<button id="API_MF_SUBMIT_BUTTON_form10"
+					        type="submit"
+					        name="API_MF_SUBMIT_BUTTON"
+					        class="btn btn-primary uk-button-default"
+					        style=""
+					        value="Y">Отправить</button>
+				</div>
+			</div>
+		</form>
+			</div></div>			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

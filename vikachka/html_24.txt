@@ -1,0 +1,528 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Бесплатный софт. Скачать программы бесплатно</title>
+<meta name="description" content="Бесплатный софт - сборник лучших бесплатных программ для компьютера. Обзоры, ссылки на скачивание, инструкции по установке, настройке и работе с программами" />
+<meta name="keywords" content="бесплатны софт, бесплатные программы, скачать программу, скачать софт бесплатно, программы для компьютера, компьютерные программы, скачать компьютерные программы" />
+
+<link rel="stylesheet" type="text/css" href="/template/css/style_all.css" />
+<link rel="stylesheet" type="text/css" href="/template/css/style_main.css" />
+<link rel="stylesheet" type="text/css" href="/template/css/style_stat.css" />
+<link rel="stylesheet" type="text/css" href="/template/css/jquery.fancybox.css" />
+<link rel="alternate" type="application/rss+xml" title="последние обновления программ на SpvComp.com" href="https://spvcomp.com/rss-soft-update.xml"/>
+<link rel="alternate" type="application/rss+xml" title="новые программы на SpvComp.com" href="https://spvcomp.com/rss-soft-new.xml"/>
+<link rel="alternate" type="application/rss+xml" title="свежие новости IT тематики на SpvComp.com" href="https://spvcomp.com/rss-news.xml"/>
+<link rel="alternate" type="application/rss+xml" title="новые статьи и инструкции на SpvComp.com" href="https://spvcomp.com/rss-stat.xml"/>
+<link rel="canonical" href="https://spvcomp.com/"/>
+
+<link rel="icon" href="https://spvcomp.com/favicon.ico" type="image/x-icon" sizes="16x16" />
+<link rel="shortcut icon" href="https://spvcomp.com/favicon.ico" type="image/x-icon" sizes="16x16" />
+
+<noindex>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+</noindex>
+<script type="text/javascript">
+window.jQuery || document.write('<script type="text/javascript" src="/template/js/jquery-1.6.2.min.js"><\/script>');
+</script>
+<script type="text/javascript" src="/template/js/jquery.rating-2.0.min.js"></script>
+
+<script type="text/javascript">
+$(function(){	
+	$('#rating').rating({
+	    fx: 'full',
+            stars: 5,
+            image: '/template/images/stars.png',
+            loader: '/template/images/ajax-loader.gif',
+	    url: 'rating.php',
+            callback: function(responce){
+                this.vote_success.fadeOut(2000);
+            }
+	});
+})
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $("a.gallery").fancybox();
+});
+</script>
+
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://spvcomp.com/"/>
+<meta property="og:site_name" content="spvcomp.com"/>
+<meta property="og:image" content="https://spvcomp.com/template/images/logo.jpg"/>
+<meta property="og:title" content="Бесплатный софт. Скачать программы бесплатно"/>
+<meta property="og:description" content="Бесплатный софт - сборник лучших бесплатных программ для компьютера. Обзоры, ссылки на скачивание, инструкции по установке, настройке и работе с программами"/>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8632121542606118"
+     crossorigin="anonymous"></script>
+
+<noindex>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116835743-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116835743-1');
+</script>
+</noindex>
+
+<!-- Yandex.Market Widget -->
+<script async src="https://aflt.market.yandex.ru/widget/script/api" type="text/javascript"></script>
+<script type="text/javascript">
+    (function (w) {
+        function start() {
+            w.removeEventListener("YaMarketAffiliateLoad", start);
+            w.YaMarketAffiliate.createWidget({type:"models",
+	containerId:"marketWidget",
+	fallback:true,
+	params:{clid:2462873,
+		searchModelIds:[858498235 ],
+		searchType:"also_viewed",
+		themeId:3 } });
+        }
+        w.YaMarketAffiliate
+            ? start()
+            : w.addEventListener("YaMarketAffiliateLoad", start);
+    })(window);
+</script>
+<!-- End Yandex.Market Widget -->
+
+</head>
+    
+<body>
+
+<div class="all">
+
+  <div class="top">
+    <div class="top2">
+
+        <div class="top_right">
+            <div class="menu_top">
+                <div class="elm"><a href="/news.php">
+                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                        Новости</a>
+                </div>
+                <div class="elm"><a href="/">Программы</a></div>
+                <div class="elm"><a href="/stat.php" title="">Статьи</a></div>
+            </div>
+
+            <div class="poiskya">
+                <noindex>
+                    <div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'https://spvcomp.com/poisk.php','arrow':false,'bg':'transparent','fontsize':12,'fg':'#000000','language':'ru','logo':'rb','publicname':'Поиск по spvcomp.com','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2329316,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':'поиск по сайту','input_placeholderColor':'#000000','input_borderColor':'#7f9db9'}"><form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2329316"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w, d, c){var s = d.createElement('script'), h = d.getElementsByTagName('script')[0], e = d.documentElement; if ((' ' + e.className + ' ').indexOf(' ya-page_js_yes ') === - 1){e.className += ' ya-page_js_yes'; }s.type = 'text/javascript'; s.async = true; s.charset = 'utf-8'; s.src = (d.location.protocol === 'https:'?'https:':'http:') + '//site.yandex.net/v2.0/js/all.js'; h.parentNode.insertBefore(s, h); (w[c] || (w[c] = [])).push(function(){Ya.Site.Form.init()})})(window, document, 'yandex_site_callbacks');</script>
+                </noindex>
+            </div>
+            
+
+        </div>
+
+        <div class="logo">
+            <a href="/"><img src="/template/images/top6.png" alt="Бесплатный софт"/></a>
+        </div>
+        
+        <div style="clear: both"></div>
+
+    </div>
+</div>    
+   <div class="line">
+     <a href="/">Бесплатный софт</a>   </div>
+   
+   
+   <div class="conteiner">
+        
+       <div class="middle" id="middle">
+
+<div class="onmain">    
+
+    <div class="compmaintad">
+        <noindex>
+                    </noindex>
+    </div>
+
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/safe_skachat.php" title="Скачать программы для безопасности системы с Бесплатный софт">Безопасность системы</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/antivirus_skachat.php" title="Скачать бесплатный антивирус">
+                        <img src="/template/images/icon_con/antivirus-logo.png" alt="Антивирус, бесплатные антивирусы, скачать антивирус"/>Антивирусные программы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/firewall_skachat.php" title="Скачать файервол бесплатно">
+                        <img src="/template/images/icon_con/firewall.png" alt="Брандмауер, Файервол, скачать файервол, бесплатный файервол"/>Файерволы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/antivirus-skanner-skachat.php" title="">
+                        <img src="/template/images/icon_con/antivirus-skaner-logo.png" alt="Бесплатные антивирусные сканеры для компьютера Windows"/>Антивирусные сканеры                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/antispy-program-skachat.php" title="">
+                        <img src="/template/images/icon_con/antispy-logo.png" alt="Бесплатные антишпионы для Windows"/>Антишпионы                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/internet_skachat.php" title="Скачать программы для работы в интернете с Бесплатный софт">Интернет</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/browser_skachat.php" title="Скачать браузеры бесплатно">
+                        <img src="/template/images/icon_con/browser.png" alt="Браузер, веб-браузер, скачать браузер, бесплатный браузер"/>Браузеры                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/torrent_skachat.php" title="Скачать бесплатно программу для скачивания с торрентов">
+                        <img src="/template/images/icon_con/torrent.png" alt="Торрент-клиент, скачать торрент-клиент, скачать торрент программу, бесплатная программа для торрентов"/>BitTorrent-client                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/messenger_skachat.php" title="Скачать бесплатные программы для общения">
+                        <img src="/template/images/icon_con/messenger.png" alt="Сообщения, мессенджер, программа для обмена сообщениями, программа для чата, программа для звонков"/>Общение                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/network_skachat.php" title="Скачать программы для работы с сетью">
+                        <img src="/template/images/icon_con/network.png" alt="Программы для работы с сетью, программы удаленного доступа, сетевые программы"/>Сеть                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/udalennyi-dostup-skachat.php" title="">
+                        <img src="/template/images/icon_con/udalennii-dostup-logo.png" alt="удаленный доступ к компьютеру через интернет скачать бесплатно"/>Удаленный доступ                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/oblachnoe-hranilische-skachat.php" title="">
+                        <img src="/template/images/icon_con/oblachnoe-hranilische-dannyh-failov-logo.png" alt="Бесплатное облачное хранилище данных и файлов скачать"/>Облачное хранилище                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/office_skachat.php" title="Скачать бесплатные программы для офиса с Бесплатный софт">Офис</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/text_skachat.php" title="Скачать программы для работы с документами">
+                        <img src="/template/images/icon_con/text.png" alt="Редактор текста, программы для документов, офисные программы, аналог word, excel"/>Документы и текст                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/pdf_skachat.php" title="Скачать бесплатные программы для чтения и создания PDF и DjVu">
+                        <img src="/template/images/icon_con/pdf.png" alt="pdf, djvu, программа для чтения pdf, чем открыть pdf, чем открыть djvu, читать pdf, читать djvu"/>PDF и DjVu                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/gamer_skachat.php" title="Скачать бесплатные программы для геймеров с Бесплатный софт">Геймеру</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/emulator_consol_skachat.php" title="Скачать программы для эмуляции консолей">
+                        <img src="/template/images/icon_con/games_console.png" alt="Эмулятор консолей, эмулятор игровых приставок, эмуляторы playstation, игры от приставок на компьютере"/>Эмуляторы консолей                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/emul_cd_dvd_skachat.php" title="Скачать программы для эмуляции дисков">
+                        <img src="/template/images/icon_con/disc_emul.png" alt="Эмуляция дисков, эмулятор cd, dvd, чем открыть образ диска"/>Эмуляция CD/DVD                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/gamer_chit_kod_skachat.php" title="Скачать программы чит коды к играм">
+                        <img src="/template/images/icon_con/chit-kod.png" alt="Чит-коды к играм, сборник чит-кодов"/>Чит-коды к играм                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/igrovoi-servis-magazin-skachat.php" title="">
+                        <img src="/template/images/icon_con/play-magazin-servise.png" alt="Игровые сервисы, магазины для покупки компьютерных игр"/>Игровые сервисы                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/system_skachat.php" title="Скачать программы для работы с операционной системой с Бесплатный софт">Системные приложения</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/component_skachat.php" title="Скачать бесплатные системные компоненты">
+                        <img src="/template/images/icon_con/component.png" alt="Системные компоненты, необходимые системные программы"/>Компоненты                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/vosstanovlenie_skachat.php" title="Скачать программы для восстановления системы">
+                        <img src="/template/images/icon_con/vosstanovlenie.png" alt="Восстановление системы, восстановление данных, восстановление файлов"/>Восстановление                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/chistka_optimizaciya_skachat.php" title="Скачать программы для очистки и оптимизации операционной системы">
+                        <img src="/template/images/icon_con/chistka_optimizaciya.png" alt="Чистка и оптимизация системы, почистить систему, почистить windows"/>Чистка и оптимизация                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/drivers_skachat.php" title="">
+                        <img src="/template/images/icon_con/drivers.png" alt="Скачать драйверы для компьютера"/>Драйверы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/monitoring_diagnostika_computera_skachat.php" title="">
+                        <img src="/template/images/icon_con/monitoring-computer2.png" alt="мониторинг, диагностика, тестирование компьютера"/>Мониторинг и диагностика                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/defragmentator-skachat.php" title="">
+                        <img src="/template/images/icon_con/Defragmentation-logo.png" alt="дефрагментатор для windows скачать"/>Дефрагментаторы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/raskladka-klaviatury.php" title="">
+                        <img src="/template/images/icon_con/raskladka-klaviatury.png" alt="раскладка клавиатуры программа, программа переключения раскладки"/>Раскладка клавиатуры                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/deinstaller-uninstaller-skachat.php" title="">
+                        <img src="/template/images/icon_con/deinstaller-uninstaller-logo.png" alt="скачать бесплатный деинсталлятор для Windows uninstaller"/>Деинсталляторы                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/multimedia_skachat.php" title="Скачать программы для работы с мультимедиа бесплатно с Бесплатный софт">Мультимедиа</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/player_skachat.php" title="Скачать проигрыватели мультимедиа">
+                        <img src="/template/images/icon_con/player.png" alt="Проигрыватели, плееры видео, аудио, чем воспроизвести фильм, музыку"/>Проигрыватели                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/codec_skachat.php" title="Скачать пакеты кодеков">
+                        <img src="/template/images/icon_con/codec.png" alt="ВидеоКодеки для Windows, аудиокодеки, наборы кодеков"/>Кодеки                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/conversion_skachat.php" title="Скачать программы для конвертации и редактирования мультимедиа">
+                        <img src="/template/images/icon_con/convert.png" alt="Конвертор, редактор видео, аудио, сконвертировать видео, перевести в другой формат, отредактировать видео, музыку"/>Конвертация и редактирование                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/image_skachat.php" title="Скачать программы для работы с графикой с Бесплатный софт">Графика и изображения</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/image_editor_skachat.php" title="Скачать бесплатные графические редакторы">
+                        <img src="/template/images/icon_con/image_edit.png" alt="Редактор изображений, отредактировать фото, картинку, изображение"/>Графические редакторы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/image_viewer_skachat.php" title="Скачать программы для просмотра изображений">
+                        <img src="/template/images/icon_con/image_view.png" alt="Просмотрщики изображений, просмотровщики фото, картинок"/>Программы для просмотра изображений                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/cd_dvd_skachat.php" title="Скачать бесплатные программы для работы дисками с Бесплатный софт">Работа с дисками CD/DVD</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/emul_cd_dvd_skachat.php" title="Скачать программы для эмуляции дисков">
+                        <img src="/template/images/icon_con/disc_emul.png" alt="Эмуляция дисков, эмулятор cd, dvd, чем открыть образ диска"/>Эмуляция CD/DVD                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/rec_cd_dvd_skachat.php" title="Скачать программы для записи дисков">
+                        <img src="/template/images/icon_con/disc_rec.png" alt="Запись дисков, записать cd, dvd"/>Запись CD/DVD                    </a>
+                </div>
+                    </div>
+    
+        <div class="onmainel clearfix">
+            <h3 class="onmain_zag"><a href="/soft/faili-diski-programm.php" title="">Файлы и диски</a></h3>
+
+                            <div class="onmain_minzag1">
+                    <a href="/soft/archivers_skachat.php" title="Скачать бесплатные архиваторы">
+                        <img src="/template/images/icon_con/archivator.png" alt="Архиватор, программа для архивов, архивирование"/>Архиваторы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/vosstanovlenie_skachat.php" title="Скачать программы для восстановления системы">
+                        <img src="/template/images/icon_con/vosstanovlenie.png" alt="Восстановление системы, восстановление данных, восстановление файлов"/>Восстановление                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/defragmentator-skachat.php" title="">
+                        <img src="/template/images/icon_con/Defragmentation-logo.png" alt="дефрагментатор для windows скачать"/>Дефрагментаторы                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/oblachnoe-hranilische-skachat.php" title="">
+                        <img src="/template/images/icon_con/oblachnoe-hranilische-dannyh-failov-logo.png" alt="Бесплатное облачное хранилище данных и файлов скачать"/>Облачное хранилище                    </a>
+                </div>
+                            <div class="onmain_minzag1">
+                    <a href="/soft/hard-disk-program.php" title="">
+                        <img src="/template/images/icon_con/harddisk.png" alt="программы для жесткого диска скачать бесплатно"/>Жесткий диск                    </a>
+                </div>
+                    </div>
+    
+    <noindex>
+        <div class="compmaintad">
+                    </div>
+        <p>Информация была полезной? Поделитесь ссылкой в соцсетях! Спасибо!</p>
+<script type="text/javascript">(function () {
+        if (window.pluso)
+            if (typeof window.pluso.start == "function")
+                return;
+        if (window.ifpluso == undefined) {
+            window.ifpluso = 1;
+            var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+            s.type = 'text/javascript';
+            s.charset = 'UTF-8';
+            s.async = true;
+            s.src = ('https:' == window.location.protocol ? 'https' : 'http') + '://share.pluso.ru/pluso-like.js';
+            var h = d[g]('body')[0];
+            h.appendChild(s);
+        }
+    })();</script>
+<div class="pluso" data-background="#ebebeb" data-options="medium,square,line,horizontal,counter,theme=01" data-services="vkontakte,odnoklassniki,facebook,twitter,google,moimir,livejournal,email,print" style="margin-left:40px;"></div>    </noindex>
+
+    <br />
+    <h1>Бесплатный софт: программы, новости, статьи, инструкции</h1>
+    <p>Приветствуем вас на сайте <strong>"Бесплатный софт: скачать программы бесплатно"</strong>.</p>
+    <p>На сайте spvcomp.com мы стараемся собирать <strong>самые полезные бесплатные программы для компьютера</strong>. И да, они бесплатны. Совсем.</p>
+    <p>Каждой программе соответствует описание на русском языке, чтобы вы могли ознакомиться с назначением программы и ее основными преимуществами. К некоторым бесплатным программы приложена инструкция по использованию. Все инструкции для софта, а также полезные советы по эксплуатации компьютера, решению проблем с ОС Windows, смартфонами на Android, Apple и многое другое вы найдете в разделе <a href="/stat.php" title="Статьи и инструкции"><strong>статьи</strong></a>.</p>
+    <p>Также представляем вашему вниманию новый раздел сайта "Бесплатный софт" - <a href="/news.php" title="Новости про компьютеры, программы, игры, apple, android"><strong>новости</strong></a>, где вы найдете занимательную информацию про новые мировые компьютерные достижения и разработки; известные компьютерные бренды и компании; Apple и Samsung; <strong>новости про игры для компьютеров, игровых приставок</strong>, android, iOS; и многое другое.</p>
+
+</div>  
+
+</div>  
+<div class="right" id="right">
+  
+    <div class="obnov">
+        <h6 align="center" class="obnp">Последние обновления</h6>
+                    <p><a href="/soft/gamer-emulator-xenia-xbox-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        Xenia - эмулятор Xbox 360 1.05 ML / 17.02.2022 / 01.03.2022                </a>
+            </p>
+                    <p><a href="/soft/gamer-emulator-ryujinx-nintendo-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        Ryujinx - эмулятор Nintendo Switch 1.1.54                </a>
+            </p>
+                    <p><a href="/soft/gamer-emulator-rpcs3-ps3-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        RPCS3 - эмулятор PlayStation 3 0.0.20-13327 / 0.0.8-9809 hacks MGS4 / 0.0.9-10232 hacks / 0.0.12-11048 hacks / 0.0.20-13268 hack Intel-Ryzen-Bild                </a>
+            </p>
+                    <p><a href="/soft/gamer_emulator_pcsx2_skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        PCSX2 - эмулятор PlayStation 2 v1.7.2403 / v1.7.0 r1299 / v1.6.0 / v1.5.0 r3417 / v1.4.0 / v0.9.7 r2495                </a>
+            </p>
+                    <p><a href="/soft/antivirus-comodo-antivirus-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        Comodo AntiVirus 12.2.2.8012                </a>
+            </p>
+                    <p><a href="/soft/antivirus-scanner-mcafee-stinger-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        McAfee Stinger 12.2.0.402                </a>
+            </p>
+                    <p><a href="/soft/codec_k-lite_codec_pack_skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        K-Lite Codec Pack 16.8.0 / 16.8.4 Update / 16.8.6 Beta                </a>
+            </p>
+                    <p><a href="/soft/codec-standard-codecs-for-windows-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        Standard Codecs for Windows 12.1.6                </a>
+            </p>
+                    <p><a href="/soft/codec-advanced-codecs-for-windows-skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        Advanced Codecs for Windows 15.7.6                </a>
+            </p>
+                    <p><a href="/soft/browser_mozilla_firefox_skachat.php">
+                                        <!--<img src="/template/images/new.gif" class="newicon" width="30px" height="10px" />-->
+                                        Mozilla Firefox 97.0.1 / 98.0 build 5                </a>
+            </p>
+            </div>
+    
+    <div class="compright">
+    
+    </div>
+    
+    <div class="obnov">
+        <h6 align="center" class="obnp">Последние статьи</h6>
+                    <p><a href="/stat/nastroika-epsxe-emulator-playstation1-instrukcija.php">Настройка ePSXe – эмулятора SONY PlayStation 1. Инструкция по установке, настройке и запуску игр с лучшей графикой</a></p>
+                    <p><a href="/stat/vpn-hamachi-localnaya-set.php">Как создать VPN через Hamachi. Локальная сеть через Интернет</a></p>
+                    <p><a href="/stat/google-ssilki-v-novoi-vkladke.php">Как в Google открывать ссылки результаты поиска в новой вкладке</a></p>
+                    <p><a href="/stat/google-chrome-perezagruzka-vkladok.php">Как отключить перезагрузку вкладок Google Chrome</a></p>
+                    <p><a href="/stat/ochistit-cache-cookie-mozilla-firefox.php">Как очистить кеш и куки в Mozilla Firefox</a></p>
+            </div>
+    
+    <div class="obnov">
+        <h6 align="center" class="obnp">Последние новости</h6>
+                    <p><a href="/news/google-chrome-zablokiruet-saity-s-vredonosnoi-reklamoi.php">Google Chrome будет блокировать сайты с вредоносной и мошеннической рекламой</a></p>
+                    <p><a href="/news/windows10-udalenie-vstroennyh-programm-budet-vozmozhno.php">Microsoft разрешит пользователям Windows 10 удалять встроенные приложения</a></p>
+                    <p><a href="/news/whatsapp-poyavitcya-reklama.php">В WhatsApp может появиться реклама</a></p>
+                    <p><a href="/news/fas-oshtrafoval-operatorov-sotovoy-svyazi.php">ФАС оштрафовал сотовых операторов России</a></p>
+                    <p><a href="/news/predustanovka-antivirus-rus.php">Российские антивирусы будут принудительно устанавливать на все ПК</a></p>
+            </div>
+</div><div style="clear: both;"></div>
+</div>   
+</div>
+
+<div class="bottom">
+    <div class="bot-el">
+        Бесплатный софт 2012-2019 &copy; spvcomp.com<br />
+	<a href="https://spvcomp.com/inform.php">О полном или частичном копировании текстов</a>
+    </div>
+    
+    <div class="bot-el">
+        <a href="https://spvcomp.com/inform.php">Информация и правила</a><br>
+        <a href="https://spvcomp.com/sitemap.php">Карта сайта</a>&nbsp;&nbsp;&nbsp;
+        <a href="https://spvcomp.com/rss.php">RSS</a>
+    </div>
+    
+    <div class="bot-el">
+        <noindex>
+      <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter35952535 = new Ya.Metrika({
+                    id:35952535,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/35952535" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+      </noindex>
+    </div>
+    
+    <div class="bot-el">
+        <noindex>
+      <!-- begin of Top100 code -->
+<script id="top100Counter" type="text/javascript" src="//counter.rambler.ru/top100.jcn?4440145"></script>
+<noscript>
+<a href="//top100.rambler.ru/navi/4440145/" rel="nofollow">
+<img src="//counter.rambler.ru/top100.cnt?4440145" alt="Rambler's Top100" border="0" />
+</a>
+</noscript>
+<!-- end of Top100 code -->
+      </noindex>
+    </div>
+    
+    <div class="bot-el">
+        <noindex>
+	  <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' rel='nofollow' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t21.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+      </noindex>
+    </div>
+    
+</div>
+<script type="text/javascript" src="/template/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/template/js/jquery.fancybox-1.2.1.pack.js"></script>
+
+<script type="text/javascript" id="cookieinfo"
+	src="//cookieinfoscript.com/js/cookieinfo.min.js"
+        data-message="Мы используем файлы куки, что обеспечить правильную работу сайта."
+        data-linkmsg="Подробнее..."
+        data-moreinfo="https://spvcomp.com/cookieinfo.php"
+        data-divlinkbg="#dfe7bd">
+</script>
+
+
+</body>
+</html>

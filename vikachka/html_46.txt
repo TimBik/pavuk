@@ -1,0 +1,485 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+	<title>Логово Тигра</title>
+	<link rel="SHORTCUT ICON" href="http://logovo-tigra.ru/favicon.ico">
+	<link rel="alternate" type="application/rss+xml" title="RSS лента" href="http://logovo-tigra.ru/rss">
+		<meta name="generator" content="Ruxe Engine  (engine.ruxesoft.net)">
+	<meta name="description" content="Главная страница Логова Тигра">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" href="http://logovo-tigra.ru/themes/default/style.css" type="text/css">
+<style type="text/css">
+em.button {
+  font-style:normal;
+  background: linear-gradient(180deg, #ffefff, #cfcfcf);
+  color:black;
+  border:1px solid black;
+  border-radius:5px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:0px;
+  padding-bottom:0px;
+}
+em.name {
+  font-style:normal;
+  border:0;
+  font-family:monospace;
+  background-color:#e0e0ff;
+  color:blue;
+}
+</style>
+<script language="JavaScript">
+<!--//
+function smfbStartModal()
+{
+  var obj = document.getElementById("smfbfon");
+  obj.style.display="block";
+  ifr.document.location="http://feedback.logovo-tigra.ru/";
+}//end smfbStartModal()
+function smfbCloseModal()
+{
+  var obj = document.getElementById("smfbfon");
+  obj.style.display="none";
+}//end smfbCloseModal()
+//-->
+</script>
+</head>
+
+<body>
+
+<div class="headimage"> 
+	<div style="text-align:right; z-index:2; right:0px; top:0px;"><a href="http://super-m.savesoul.ru/eng/" title="See unofficial ENGLISH site"><img src="http://super-m.savesoul.ru/sw_to_en.gif" border="0" alt="ENGLISH" /></a></div>
+	<div class="sitename"><h1>Логово <img src="/tigerlogo.png" alt="Хищного" title="" border="0" /> Тигра<br>
+	<span style="font-size:15px; text-shadow:black 0px 0px 8px;">официальный сайт Михаила Шмелева</span></h1></div>
+</div>
+<style type="text/css">
+ div#vhod2 {
+   z-index:1; top:0px; left:0px; position:fixed;
+   background:linear-gradient(180deg, #ffffff, #97c102);
+   border:0px;
+   border-radius:0px 0px 5px 0px; padding:5px;
+   color:black; font-size:11px; text-align:center;
+ }
+ div#vhod2 a {
+   color:navy;
+   text-decoration:none;
+ }
+ div#vhod2 a:hover {
+   color:blue;
+   text-decoration:underline;
+ }
+</style>
+<div id="vhod2">
+★ <a href="http://antigun.savesoul.ru/forum/" title="AntiGun-форум">A-форум</a> ★ <a href="http://members.hrencore.ru/" title="HREN±CORE-форум">H-форум</a> ★<br />
+★ <a href="http://dnevnik.savesoul.ru/" title="Здесь я дневникую">Дневник SaveSoul.Ru</a> ★
+</div>
+
+<div class="menu">
+	<ul>
+		<!--
+			PHP функция here_urlsite(); возвращает полный адрес сайта (с http://), без / на конце.
+		-->
+		<li><a href="http://logovo-tigra.ru/">Новости</a></li>
+		<!--
+			Если в качестве параметра передать этой функции имя страницы (Админ-центр - Страницы),
+			то в зависимости от того, задействован ЧПУ или нет (Админ-центр - Настройки - Активировать ЧПУ),
+			вернёт правильный адрес страницы сайта.
+			Пример:
+			ЧПУ активирован, страница "downloads.html", результат: http://ваш_сайт/downloads.html
+			ЧПУ не используется, та же страница, результат: http://ваш_сайт/?viewpage=downloads.html
+		-->
+		<li><a href="http://logovo-tigra.ru/dosie.html">Досье</a></li>
+		<li><a href="http://logovo-tigra.ru/downloads.html">Программы</a></li>
+		<!--
+			Другими словами, чтобы не вводить адрес сайта, используйте команду here_urlsite() без параметров.
+			А для указания ссылки на страницу сайта, правильнее использовать команду с 
+			параметром here_urlsite('тут имя страницы').
+			
+			Подробнее о командах в документации.
+		-->
+		<li><a href="http://logovo-tigra.ru/art.html">Творчество</a></li>
+		<li><a href="http://logovo-tigra.ru/photo.html">Фото</a></li>
+		<li><a href="http://board.logovo-tigra.ru/" title="Бесплатная доска объявлений без регистрации с прямыми якорными ссылками">Доска</a></li>
+		<li><a href="http://super-m.savesoul.ru/cgi-bin/gest.cgi" title="публичная обратная связь">Кстати...</a></li>
+		<li><a href="http://super-m.savesoul.ru/cgi-bin/faq.cgi" title="публичные вопросы-ответы">FAQ</a></li>
+		<li><a href="javascript:;" onclick="smfbStartModal();" title="приватная Обратная Связь с регистрацией">О.С.</a></li>
+		
+	</ul>
+</div>
+
+<div class="main">
+	<div class="leftbl">
+		<div class="leftblContent">
+			        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/gotov-mod-kompaktnoy-doski-obyavleniy.html">Готов мод компактной доски объявлений</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 3 августа 2020,  21:29 - 1169 просмотров - <a href="http://logovo-tigra.ru/news/gotov-mod-kompaktnoy-doski-obyavleniy.html#messbox">2 комментария</a></div><br>
+		Вашему вниманию представляю скрипт доски объявлений <b>WR-Board simple</b> от WR. В Сеть выложен мод его — <b>mod SM</b>. Модификацию делал я.<br>
+		<br>
+		
+		<Br><a href="http://logovo-tigra.ru/news/gotov-mod-kompaktnoy-doski-obyavleniy.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/mod-skripta-kataloga-saytov.html">Мод скрипта каталога сайтов</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 13 июня 2019,  21:17 - 1589 просмотров - <a href="http://logovo-tigra.ru/news/mod-skripta-kataloga-saytov.html#messbox">3 комментария</a></div><br>
+		<p style="text-align:justify">Написал свой мод к скрипту каталога <b>WR-Katalog &copy; 1.5</b>. Он стал лучше настолько, что я решил выложить его в общий доступ.</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/серверный_скрипт" style="font-size:8pt; color: #595959;">серверный скрипт</a>, <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:8pt; color: #595959;">программа</a>, <a href="http://logovo-tigra.ru/tag/news/freeware" style="font-size:8pt; color: #595959;">freeware</a>, <a href="http://logovo-tigra.ru/tag/news/PHP" style="font-size:8pt; color: #595959;">PHP</a>, <a href="http://logovo-tigra.ru/tag/news/исходники" style="font-size:8pt; color: #595959;">исходники</a>, <a href="http://logovo-tigra.ru/tag/news/обновление" style="font-size:8pt; color: #595959;">обновление</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/mod-skripta-kataloga-saytov.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/wr-forum-18-mod-sm-5x-gotov-i-vylojen-vo-vseobshchiy-dostup.html">WR-Forum 1.8 mod SM 5.x готов и выложен во всеобщий доступ</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 12 августа 2020,  02:18 - 5580 просмотров - <a href="http://logovo-tigra.ru/news/wr-forum-18-mod-sm-5x-gotov-i-vylojen-vo-vseobshchiy-dostup.html#messbox">43 комментария</a></div><br>
+		<p>Мною написан и выложен в Сеть <strong>mod SM</strong> для форумного движка WR-Forum. Это &laquo;дежурная&raquo; новость о моде <strong>версий 5.x</strong>.</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/freeware" style="font-size:8pt; color: #595959;">freeware</a>, <a href="http://logovo-tigra.ru/tag/news/open_source" style="font-size:8pt; color: #595959;">open source</a>, <a href="http://logovo-tigra.ru/tag/news/HTML" style="font-size:8pt; color: #595959;">HTML</a>, <a href="http://logovo-tigra.ru/tag/news/PHP" style="font-size:8pt; color: #595959;">PHP</a>, <a href="http://logovo-tigra.ru/tag/news/исходники" style="font-size:8pt; color: #595959;">исходники</a>, <a href="http://logovo-tigra.ru/tag/news/обновление" style="font-size:8pt; color: #595959;">обновление</a>, <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:8pt; color: #595959;">программа</a>, <a href="http://logovo-tigra.ru/tag/news/серверный_скрипт" style="font-size:8pt; color: #595959;">серверный скрипт</a>, <a href="http://logovo-tigra.ru/tag/news/форумный_движок" style="font-size:8pt; color: #595959;">форумный движок</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/wr-forum-18-mod-sm-5x-gotov-i-vylojen-vo-vseobshchiy-dostup.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/sdelana-igra-4d-mines-for-windows.html">Сделана игра 4D Mines for Windows</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 28 июня 2020,  22:28 - 7440 просмотров - <a href="http://logovo-tigra.ru/news/sdelana-igra-4d-mines-for-windows.html#messbox">22 комментария</a></div><br>
+		<p>Не тупое 2D и не хилое 3D, а самое настоящее <span style="color: #333399;"><strong>4D</strong></span>! Теперь и под виндой, даже NT или 10-кой! Игра, которой суждено перевернуть основы мироздания...</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/игра" style="font-size:8pt; color: #595959;">игра</a>, <a href="http://logovo-tigra.ru/tag/news/freeware" style="font-size:8pt; color: #595959;">freeware</a>, <a href="http://logovo-tigra.ru/tag/news/open_source" style="font-size:8pt; color: #595959;">open source</a>, <a href="http://logovo-tigra.ru/tag/news/исходники" style="font-size:8pt; color: #595959;">исходники</a>, <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:8pt; color: #595959;">программа</a>, <a href="http://logovo-tigra.ru/tag/news/заумное" style="font-size:8pt; color: #595959;">заумное</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/sdelana-igra-4d-mines-for-windows.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/gotovy-programmy-serii-esocalc.html">Готовы программы серии EsoCalc</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 28 января 2020,  23:22 - 1645 просмотров - <a href="http://logovo-tigra.ru/news/gotovy-programmy-serii-esocalc.html#messbox">5 комментариев</a></div><br>
+		<p><strong>Эзотерический калькулятор</strong> phpEsoCalc v2.3 вышел в свет...</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:8pt; color: #595959;">программа</a>, <a href="http://logovo-tigra.ru/tag/news/безопасность" style="font-size:8pt; color: #595959;">безопасность</a>, <a href="http://logovo-tigra.ru/tag/news/обновление" style="font-size:8pt; color: #595959;">обновление</a>, <a href="http://logovo-tigra.ru/tag/news/freeware" style="font-size:8pt; color: #595959;">freeware</a>, <a href="http://logovo-tigra.ru/tag/news/нумерология" style="font-size:8pt; color: #595959;">нумерология</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/gotovy-programmy-serii-esocalc.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/novaya-obratnaya-svyaz-sm-feedback-na-poddomene.html">Новая Обратная связь SM FeedBack - на поддомене</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 29 мая 2019,  21:48 - 4409 просмотров - <a href="http://logovo-tigra.ru/news/novaya-obratnaya-svyaz-sm-feedback-na-poddomene.html#messbox">29 комментариев</a></div><br>
+		<p>Вместо встроенной <strong>Обратной связи</strong> влепил собственный скрипт... И Вы можете так...</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:8pt; color: #595959;">программа</a>, <a href="http://logovo-tigra.ru/tag/news/PHP" style="font-size:8pt; color: #595959;">PHP</a>, <a href="http://logovo-tigra.ru/tag/news/open_source" style="font-size:8pt; color: #595959;">open source</a>, <a href="http://logovo-tigra.ru/tag/news/серверный_скрипт" style="font-size:8pt; color: #595959;">серверный скрипт</a>, <a href="http://logovo-tigra.ru/tag/news/исходники" style="font-size:8pt; color: #595959;">исходники</a>, <a href="http://logovo-tigra.ru/tag/news/обновление" style="font-size:8pt; color: #595959;">обновление</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/novaya-obratnaya-svyaz-sm-feedback-na-poddomene.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/likuyte-lyudi-nastalo-leto.html">Ликуйте, люди, настало лето</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/События" style="font-family:verdana;font-size:8pt;">События</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 1 июня 2021,  18:44 - 177 просмотров - <a href="http://logovo-tigra.ru/news/likuyte-lyudi-nastalo-leto.html#messbox">Комментировать</a></div><br>
+		Правда, холодноватое... Но мы разогреемся!<br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/заумное" style="font-size:8pt; color: #595959;">заумное</a>, <a href="http://logovo-tigra.ru/tag/news/безопасность" style="font-size:8pt; color: #595959;">безопасность</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/likuyte-lyudi-nastalo-leto.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/s-novym-2021-godom-yarostnogo-ocelota.html">С новым 2021 - годом Яростного Оцелота</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/События" style="font-family:verdana;font-size:8pt;">События</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 27 декабря 2020,  01:04 - 1658 просмотров - <a href="http://logovo-tigra.ru/news/s-novym-2021-godom-yarostnogo-ocelota.html#messbox">3 комментария</a></div><br>
+		<p>Яростный оцелот принёс Вам свою поздраву.</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/новый_год" style="font-size:8pt; color: #595959;">новый год</a>, <a href="http://logovo-tigra.ru/tag/news/зима" style="font-size:8pt; color: #595959;">зима</a>, <a href="http://logovo-tigra.ru/tag/news/открытка" style="font-size:8pt; color: #595959;">открытка</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/s-novym-2021-godom-yarostnogo-ocelota.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/s-novym-2020-godom.html">С Новым 2020 годом!</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/События" style="font-family:verdana;font-size:8pt;">События</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 20 декабря 2019,  22:38 - 641 просмотр - <a href="http://logovo-tigra.ru/news/s-novym-2020-godom.html#messbox">Комментировать</a></div><br>
+		<p>Хищная рысь поздравляет с Новым Годом!</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/зима" style="font-size:8pt; color: #595959;">зима</a>, <a href="http://logovo-tigra.ru/tag/news/новый_год" style="font-size:8pt; color: #595959;">новый год</a>, <a href="http://logovo-tigra.ru/tag/news/открытка" style="font-size:8pt; color: #595959;">открытка</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/s-novym-2020-godom.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div>        <div class="titlenews"><h1> <a href="http://logovo-tigra.ru/news/spp-mikhail-skript-kataloga-programmnogo-obespecheniya.html">SPP Mikhail - скрипт каталога программного обеспечения</a></h1></div>
+
+        <div class="newsbody">
+		<div style="font-size:8pt;"><a href="http://logovo-tigra.ru/category/news/программы" style="font-family:verdana;font-size:8pt;">программы</a> - Опубликовал <a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a> - 16 января 2019,  18:17 - 1527 просмотров - <a href="http://logovo-tigra.ru/news/spp-mikhail-skript-kataloga-programmnogo-obespecheniya.html#messbox">15 комментариев</a></div><br>
+		<p>Новый серверный скрипт от меня, переделанный из Antitrue Engine...</p><br>
+		<br>
+		<font style="font-size:8pt; color: #595959;">Метки: <a href="http://logovo-tigra.ru/tag/news/freeware" style="font-size:8pt; color: #595959;">freeware</a>, <a href="http://logovo-tigra.ru/tag/news/PHP" style="font-size:8pt; color: #595959;">PHP</a>, <a href="http://logovo-tigra.ru/tag/news/open_source" style="font-size:8pt; color: #595959;">open source</a>, <a href="http://logovo-tigra.ru/tag/news/исходники" style="font-size:8pt; color: #595959;">исходники</a>, <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:8pt; color: #595959;">программа</a>, <a href="http://logovo-tigra.ru/tag/news/редактор" style="font-size:8pt; color: #595959;">редактор</a>, <a href="http://logovo-tigra.ru/tag/news/серверный_скрипт" style="font-size:8pt; color: #595959;">серверный скрипт</a></font>
+		<Br><a href="http://logovo-tigra.ru/news/spp-mikhail-skript-kataloga-programmnogo-obespecheniya.html">Читать далее</a>
+	</div>
+        <div style="border-bottom: 1px solid #E8E8E8; width: 100%;"></div><br>
+<div class="pager" style="text-align:center;margin:3px;">Страницы: <a href="?page=1" class="active">1</a> <a href="?page=2">2</a> <a href="?page=3">3</a> <a href="?page=2">Ранее</a> </div>		</div>
+		<div class="rightbl">
+			<div class="rightbl2">
+			
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Неофициальное:</span><br><br>
+<p style="text-align:center;">
+<img src="http://super-m.savesoul.ru/favicon.ico" border=0> <a href="http://super-m.savesoul.ru/">Super-M</a>
+<br />
+<img src="http://antigun.savesoul.ru/favicon.ico" border=0> <a href="http://antigun.savesoul.ru/">AntiGun</a>
+<br />
+<img src="http://luminopher.hrencore.ru/favicon.ico" border=0> <a href="http://luminopher.hrencore.ru/">Luminopher</a>
+<br />
+<a href="http://hrencore.ru/">永远不要来这里 :)</a>
+<br />
+<img src="http://super-m.savesoul.ru/favicon.ico" border=0> <a href="http://super-m.savesoul.ru/banners.htm">Наши баннеры (кнопки)</a>
+</p><br><br>
+				
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Веселье:</span><br><br>
+<p style="text-align:center;">
+<a href="http://antipravda.hrencore.ru/" title="Посмеёмся с Антиправдой" target="_blank"><img src="http://img.logovo-tigra.ru/aonline.png" alt="Мир приколов в «Антиправде онлайн»" width="88" height="45" border=0></a>
+<br />
+<a href="http://super-m.savesoul.ru/another/aforismy.htm" title="Афоризмы XXI века" target="_blank"><img src="http://img.logovo-tigra.ru/aforizmy.png" alt="Афоризмы XXI века" width="88" height="45" border=0></a>
+<br />
+<a href="http://super-m.savesoul.ru/duke/" title="Duke Nukem 3D — уровни, программы для геймеров" target="_blank"><img src="http://img.logovo-tigra.ru/duke.png" alt="Мир «Duke Nukem 3D»" width="88" height="45" border=0></a>
+</p><br><br>
+				
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Безопасность:</span><br><br>
+<script language="JavaScript">
+<!--//
+function tellAboutSec()
+{
+  var sp1, sp2, sp3, sp4, sp5;
+  var obj1=document.getElementById("d1");
+  var obj2=document.getElementById("d2");
+  var obj3=document.getElementById("d3");
+  var obj4=document.getElementById("d4");
+  var obj5=document.getElementById("d5");
+  var sp;
+  sp=document.smsecforma.secpage.value;
+  sp1="none";
+  sp2="none";
+  sp3="none";
+  sp4="none";
+  sp5="none";
+  switch (sp)
+  {
+    case "o1": sp1="block"; break;
+    case "o2": sp2="block"; break;
+    case "o3": sp3="block"; break;
+    case "o4": sp4="block"; break;
+    case "o5": sp5="block"; break;
+  }//end switch
+  obj1.style.display=sp1;
+  obj2.style.display=sp2;
+  obj3.style.display=sp3;
+  obj4.style.display=sp4;
+  obj5.style.display=sp5;
+}//end tellAboutSec()
+
+function aboutDr1D()
+{
+  alert("Ищите автора Dr1D на новом сайте движка Ruxe Engine");
+  if (confirm("Перейти на сайт движка Ruxe Engine?"))
+    document.location="http://ruxe-engine.ru/";
+}//end aboutDr1D()
+//-->
+</script>
+<center><form name="smsecforma" onsubmit="return false" style="padding:0pt; margin:0pt;">
+<select name="secpage" onchange="tellAboutSec()">
+<option value="-" selected>- не выбрано -</option>
+<option value="o1">Тест на XSS</option>
+<option value="o2">SMWebCrypt</option>
+<option value="o3">Генераторы паролей</option>
+<option value="o4">Console Cryptor</option>
+<option value="o5">GPG (PGP)</option>
+</select>
+</form></center>
+<div id="d1" style="display:none;">
+  <div style="text-align:justify;">
+  XSS — это одна из разновидностей хакерских атак (подробнее можете <a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%BD%D0%B3" target="_blank">почитать в Википедии</a>). Как правило, использует уязвимости различных форумов, гостевых книг и тому подобных серверных скриптов. Целью атаки является пользователь, который переходит по ссылке, после чего внедрённый в URL ссылки код выполняется — и в случае успеха атаки хакер получает то, чего хотел. Ясно, что увидев в адресе ссылки хакерский код в открытом виде, пользователь скорее всего не пойдёт «туда не знаю куда», поэтому вместо символов в подобных ссылках обычно находятся их escape-коды. Отличить «на лету» безопасное от опасного в этом случае гораздо труднее.
+  </div>
+  <div style="text-align:right;">
+  <a href="http://antigun.savesoul.ru/testxss.htm" target="_blank">Проверить URL на опасность XSS</a>.
+  </div>
+</div>
+<div id="d2" style="display:none;">
+  <div style="text-align:justify;">
+  Есть в мире огромное множество способов шифрования. Я добавил к этому множеству свой штрих. Вернее, это ЯваСкрипт-апплет, выполняющийся в браузере. Годится для текстовых сообщений на почти любом языке.
+  </div>
+  <div style="text-align:right;">
+  <a href="http://antigun.savesoul.ru/smwebcrypt/" target="_blank">Зайти на SMWebCrypt</a>.
+  </div>
+</div>
+<div id="d3" style="display:none;">
+  <div style="text-align:justify;">
+  Как известно, чем неосмысленнее пароль, тем он надёжнее. По моему мнению (и не только по моему), не нужно сочинять пароли самостоятельно. Лучше использовать генератор паролей. Который я и написал. Назвал его «SM Passw Maker».
+  </div>
+  <div style="text-align:right;">
+  <a href="http://super-m.savesoul.ru/support/smpm/smpm02.zip" target="_blank">Скачать SM Passw Maker для ПК (ОС Windows, графический интерфейс)</a>.<br />
+  <a href="http://linux.logovo-tigra.ru/store/SMPasswMaker.tar.gz" target="_blank">Скачать SM Passw Maker Console (ОС Linux/UNIX, консоль)</a>.<br />
+  <a href="http://linux.logovo-tigra.ru/store/SMPMfXW.tar.gz" target="_blank">Скачать SM Passw Maker for XWindow (ОС Linux, графический интерфейс)</a><br />
+  <a href="http://password-maker.logovo-tigra.ru/" target="_blank">SM jsPasswMaker для любой ОС (написано на клиентском JavaScript)</a><br />
+  <a href="http://password-maker.logovo-tigra.ru/php.htm" target="_blank">SM phpPasswMaker для любой ОС (написано на PHP)</a><br />
+  <a href="http://antigun.savesoul.ru/server-side/#smphppm" target="_blank">Исходник SM phpPasswMaker</a>.
+  </div>
+</div>
+<div id="d4" style="display:none;">
+  <div style="text-align:justify;">
+  В начале 2000-х годов я написал программу, способную шифровать файлы с применением нескольких паролей одновременно. Позже я придумал несколько дополнительных алгоритмов шифрования, в которых используются побитовое исключающее ИЛИ (известное по английской аббревиатуре XOR), обратные связи и векторы инициализации. Результатами тестов я был доволен. Был у программы свой недостаток — при вводе паролей они отображались на экране. В 2016-м я этот недостаток убрал. Теперь можно пользоваться уверенно.
+  </div>
+  <div style="text-align:right;">
+  <a href="http://super-m.savesoul.ru/support/cc/concrypt03.zip" target="_blank">Скачать Console Cryptor для ПК</a>.
+  </div>
+</div>
+<div id="d5" style="display:none;">
+  <div style="text-align:justify;">
+  Среди огромного множества программ для шифрования самая, пожалуй, известная — это PGP (Pretty Good Privacy). Некоторое время назад был сформирован стандарт OpenPGP, которому соответствуют многие программы-шифровальщики. В том числе GPG (GnuPG), ставшая заменой бесплатным версиям PGP (которых больше нет).
+  </div>
+  <div style="text-align:right;">
+  <a href="http://antigun.savesoul.ru/gpg/" target="_blank">Зайти на описание функций GPG</a>.
+  </div>
+</div>
+	
+				<br>
+			
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Аккаунт:</span><br><br>
+				
+<form name="loginform" action="http://logovo-tigra.ru/index.php?action=login" method="POST">
+	<table border=0>
+		<tr><td colspan=2>Логин:</td></tr>
+		<tr><td colspan=2><input type="text" name="login" size=20></td></tr>
+		<tr><td colspan=2>Пароль:</td></tr>
+		<tr><td colspan=2><input type="password" name="password" size=20></td></tr>
+		<tr><td colspan=2><input type="checkbox" name="save" value="true"> Запомнить</td></tr>
+		<tr><td align="left"><a href="http://logovo-tigra.ru/newuser/">Регистрация</a><br><a href="http://logovo-tigra.ru/restore/">Забыли пароль?</a></td><td valign="middle" align="right"><input type="submit" name="submit" value="Войти"></td></tr>
+	</table>
+</form><br><br><br>
+			
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Статистика:</span><br><br>
+				На сайте: 1 посетитель<br>
+				Сегодня посетителей: 20<br>
+				Сегодня ботов: 3<br>
+				Просмотрено страниц: 55<br>
+				Вчера посетителей: 37<br>
+				За всё время посетило: 101959<br>
+				И просмотрело страниц: 6874				<br><br><br>
+			
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Облако меток:</span><br><br>
+				<center><a href="http://logovo-tigra.ru/tag/news/Duke_Nukem_3D" style="font-size:8pt;">Duke Nukem 3D</a> <a href="http://logovo-tigra.ru/tag/news/freeware" style="font-size:18pt;">freeware</a> <a href="http://logovo-tigra.ru/tag/news/GPL" style="font-size:8pt;">GPL</a> <a href="http://logovo-tigra.ru/tag/news/HTML" style="font-size:10pt;">HTML</a> <a href="http://logovo-tigra.ru/tag/news/Linux" style="font-size:8pt;">Linux</a> <a href="http://logovo-tigra.ru/tag/news/open_source" style="font-size:14pt;">open source</a> <a href="http://logovo-tigra.ru/tag/news/PHP" style="font-size:14pt;">PHP</a> <a href="http://logovo-tigra.ru/tag/news/UNIX" style="font-size:8pt;">UNIX</a> <a href="http://logovo-tigra.ru/tag/news/безопасность" style="font-size:10pt;">безопасность</a> <a href="http://logovo-tigra.ru/tag/news/генератор" style="font-size:8pt;">генератор</a> <a href="http://logovo-tigra.ru/tag/news/заумное" style="font-size:10pt;">заумное</a> <a href="http://logovo-tigra.ru/tag/news/зима" style="font-size:10pt;">зима</a> <a href="http://logovo-tigra.ru/tag/news/игра" style="font-size:8pt;">игра</a> <a href="http://logovo-tigra.ru/tag/news/исходники" style="font-size:18pt;">исходники</a> <a href="http://logovo-tigra.ru/tag/news/калькулятор" style="font-size:8pt;">калькулятор</a> <a href="http://logovo-tigra.ru/tag/news/культура" style="font-size:8pt;">культура</a> <a href="http://logovo-tigra.ru/tag/news/новый_год" style="font-size:10pt;">новый год</a> <a href="http://logovo-tigra.ru/tag/news/нумерология" style="font-size:8pt;">нумерология</a> <a href="http://logovo-tigra.ru/tag/news/обновление" style="font-size:18pt;">обновление</a> <a href="http://logovo-tigra.ru/tag/news/открытие" style="font-size:8pt;">открытие</a> <a href="http://logovo-tigra.ru/tag/news/открытка" style="font-size:10pt;">открытка</a> <a href="http://logovo-tigra.ru/tag/news/программа" style="font-size:18pt;">программа</a> <a href="http://logovo-tigra.ru/tag/news/разбудить" style="font-size:8pt;">разбудить</a> <a href="http://logovo-tigra.ru/tag/news/расписание" style="font-size:8pt;">расписание</a> <a href="http://logovo-tigra.ru/tag/news/редактор" style="font-size:10pt;">редактор</a> <a href="http://logovo-tigra.ru/tag/news/серверный_скрипт" style="font-size:10pt;">серверный скрипт</a> <a href="http://logovo-tigra.ru/tag/news/сообщить" style="font-size:8pt;">сообщить</a> <a href="http://logovo-tigra.ru/tag/news/соцсети" style="font-size:8pt;">соцсети</a> <a href="http://logovo-tigra.ru/tag/news/таймер" style="font-size:8pt;">таймер</a> <a href="http://logovo-tigra.ru/tag/news/тяп-ляп" style="font-size:8pt;">тяп-ляп</a> <a href="http://logovo-tigra.ru/tag/news/уровень" style="font-size:8pt;">уровень</a> <a href="http://logovo-tigra.ru/tag/news/форумный_движок" style="font-size:8pt;">форумный движок</a> <a href="http://logovo-tigra.ru/tag/news/ядерный_конфликт" style="font-size:8pt;">ядерный конфликт</a> <a href="http://logovo-tigra.ru/tag/news/язык" style="font-size:8pt;">язык</a> </center><br><br><br>
+			
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Последние комментарии:</span><br><br>
+				
+<p>
+ <a href="http://logovo-tigra.ru/news/wr-forum-18-mod-sm-5x-gotov-i-vylojen-vo-vseobshchiy-dostup.html#comments">WR-Forum 1.8 mod SM 5.x готов и выложен во всеобщий доступ</a><br>17 февраля 2022,  02:38, <b><a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a></b>:<br>В v5.12.2 убраны баги, портившие комментарии и заголовки при неаккуратном пользовании админкой.
+</p>
+
+<p>
+ <a href="http://logovo-tigra.ru/news/wr-forum-18-mod-sm-5x-gotov-i-vylojen-vo-vseobshchiy-dostup.html#comments">WR-Forum 1.8 mod SM 5.x готов и выложен во всеобщий доступ</a><br>12 февраля 2022,  02:01, <b><a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a></b>:<br>Сделана v5.12, избавленная от бага, блокировавшего работу админки.
+</p>
+
+<p>
+ <a href="http://logovo-tigra.ru/news/redaktor-quick-tyap-lyap-html-v3x-vypushchen-v-set.html#comments">Редактор Quick Тяп-Ляп Html v3.x выпущен в Сеть</a><br>11 февраля 2022,  20:57, <b><a href="http://logovo-tigra.ru/viewprofile/ХищныйТигр">ХищныйТигр</a></b>:<br>Вышла версия 3.5 с ещё одной кнопкой быстрого форматирования (тег mark).
+</p>
+<br><br><br>
+			
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Категории новостей:</span><br><br>
+				<ul>
+					<li><a href="http://logovo-tigra.ru/category/news/События">События</a></li><li><a href="http://logovo-tigra.ru/category/news/игры">игры</a></li><li><a href="http://logovo-tigra.ru/category/news/программы">программы</a></li><li><a href="http://logovo-tigra.ru/category/news/хрен_в_мозгах">хрен в мозгах</a></li>				</ul><br><br><br>
+				
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Популярные новости:</span><br><br>
+				<a href="http://logovo-tigra.ru/news/sm-chat-kompaktnyy-skript-chata.html" style="font-size:8pt;">SM Chat - компактный скрипт чата</a><font style="font-size:8pt;"> (8291 просмотр)</font><br><a href="http://logovo-tigra.ru/news/sdelana-igra-4d-mines-for-windows.html" style="font-size:8pt;">Сделана игра 4D Mines for Windows</a><font style="font-size:8pt;"> (7440 просмотров)</font><br><a href="http://logovo-tigra.ru/news/wr-forum-18-mod-sm-5x-gotov-i-vylojen-vo-vseobshchiy-dostup.html" style="font-size:8pt;">WR-Forum 1.8 mod SM 5.x готов и выложен во всеобщий доступ</a><font style="font-size:8pt;"> (5580 просмотров)</font><br><a href="http://logovo-tigra.ru/news/novaya-obratnaya-svyaz-sm-feedback-na-poddomene.html" style="font-size:8pt;">Новая Обратная связь SM FeedBack - на поддомене</a><font style="font-size:8pt;"> (4409 просмотров)</font><br><a href="http://logovo-tigra.ru/news/cofefe-skript-anonimnoy-obratnoy-svyazi.html" style="font-size:8pt;">COFEFE - скрипт анонимной обратной связи</a><font style="font-size:8pt;"> (2551 просмотр)</font><br><a href="http://logovo-tigra.ru/news/generatory-paroley-sm-jspasswmaker-sm-phppasswmaker-drugie.html" style="font-size:8pt;">Генераторы паролей (SM jsPasswMaker, SM phpPasswMaker, другие)</a><font style="font-size:8pt;"> (1838 просмотров)</font><br><a href="http://logovo-tigra.ru/news/gotovy-programmy-serii-esocalc.html" style="font-size:8pt;">Готовы программы серии EsoCalc</a><font style="font-size:8pt;"> (1645 просмотров)</font><br><a href="http://logovo-tigra.ru/news/redaktor-quick-tyap-lyap-html-v3x-vypushchen-v-set.html" style="font-size:8pt;">Редактор Quick Тяп-Ляп Html v3.x выпущен в Сеть</a><font style="font-size:8pt;"> (1604 просмотра)</font><br><a href="http://logovo-tigra.ru/news/novyy-2018-y-god-s-tigrom.html" style="font-size:8pt;">Новый 2018-й год с Тигром</a><font style="font-size:8pt;"> (1592 просмотра)</font><br><a href="http://logovo-tigra.ru/news/mod-skripta-kataloga-saytov.html" style="font-size:8pt;">Мод скрипта каталога сайтов</a><font style="font-size:8pt;"> (1589 просмотров)</font><br><br><br><br>
+				
+				<span style="font-weight:bold; font-size:12pt; margin-left:10px; color:#00cf3f">Другое:</span><br><br>
+				<ul>
+				<li><b><a href="http://bestphotomoscow.ru/" target="_blank">Заказать фото в Москве</a></b></li>
+				<li><a href="http://everyday.savesoul.ru/" target="_blank">SM Онлайн Ежедневник — органайзер на каждый день</a></li>
+				<li><a href="http://р-55.рф/chat/enter.php" target="_blank">Чат Лучших Людей №3</a> (<a href="http://luminopher.hrencore.ru/#chat" target="_blank">история чата</a>)<br />
+				<iframe src="http://р-55.рф/chat/list.php?us=white" width="98%" height="200"></iframe>
+				</li>
+				</ul><br><br><br>
+				
+				<center>
+				Поделиться этой страницей:
+				<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter,delicious,digg,linkedin,surfingbird,whatsapp" data-size="s"></div>
+				</center>
+<script language="JavaScript">
+<!--//
+var ymFonCount=0;
+function viewYMN()
+{
+  var myId1 = document.getElementById("ymone");
+  myId1.style.display = "block";
+  var myId2 = document.getElementById("ymtwo");
+  myId2.style.display = "block";
+  var myId4 = document.getElementById("ymfour");
+  myId4.style.display = "none";
+  setTimeout("blinkYMN()", 500);
+}
+function blinkYMN()
+{
+  var color="black";
+  var myId3 = document.getElementById("ymthree");
+  if ((ymFonCount==1)||(ymFonCount==3)||(ymFonCount==5))
+    color="#0f6100";
+  ymFonCount++;
+  if (ymFonCount<5)
+  {
+    myId3.style.backgroundColor = color;
+    setTimeout("blinkYMN()", 500);
+  }
+}
+//-->
+</script>
+<div id="ymone" style="display:none; text-align:center; color:white; background-color:#af00aa; font-weight:bold;">ЮMoney-кошелёк:</div><div id="ymtwo" style="display:none; background-color:#ffe8aa; text-align:center; padding:3pt;"><span id="ymthree" style="color:#00fd0d; background-color:#0f6100; font-family:monospace; border:3pt inset;">41001299429504</span></div><div style="text-align:center; color:black; background-color:#d3d3d3; font-family:Bookman Old Style, serif; font-style:italic;">Буду рад любой сумме<span id="ymfour">, переведённой на <a onclick="viewYMN()" title="увидеть номер..." style="color:blue; text-decoration:underline; cursor:pointer;">этот счёт</a></span>.</div>
+				<center>Владелец сайта: Михаил Е.Ш. aka <a href="http://logovo-tigra.ru/viewprofile/%D0%A5%D0%B8%D1%89%D0%BD%D1%8B%D0%B9%D0%A2%D0%B8%D0%B3%D1%80" target="_blank">ХищныйТигр</a>.<br>Все упомянутые торговые марки принадлежат их законным владельцам.</center>
+			</div>
+		</div>
+		<div style="width:685px;" class="newsdown"></div>
+	</div>
+</div>
+<style type="text/css">
+div#smfbfon {
+  background:rgba(0,0,0,0.8);
+  -webkit-transition:opacity 400ms ease-in;
+  -moz-transition:opacity 400ms ease-in;
+  transition:opacity 400ms ease-in;
+  position:fixed;
+  z-index:1000;
+  top:0px; left:0px;
+  width:70%; height:100%;
+  padding-left:30%; padding-right:0;
+  margin:0px;
+  display:none;
+}
+div.smfbbox {
+  position:absolute;
+  z-index:1001;
+  bottom:30px; right:10px;
+  width:70%; height:70%;
+  padding:0px;
+  margin:0px;
+}
+div.smfbtitle {
+  background:linear-gradient(180deg, #246bff, #000aae);
+  font-size:16px; font-family:Verdana, sans-serif;
+  text-align:left;
+  width:100%; height:18px;
+}
+div.smfbtitle a {
+  color:white;
+  text-decoration:none;
+  padding:3px;
+  font-weight:bold;
+}
+</style>
+<div id="smfbfon">
+  <div class="smfbbox">
+  <div class="smfbtitle">
+    <a href="javascript:void(0)" onclick="smfbCloseModal();"><span style="color:#ff0000;">X</span> Закрыть</a>
+  </div>
+  <iframe name="ifr" frameborder="0" width="100%" height="100%"></iframe>
+  </div>
+</div>
+<div class="footer">
+	<table style="width:100%; border:0" cellpadding=0 cellspacing=0>
+		<tr><td style="padding-left:10px; padding-top:0px; padding-bottom:0px; padding-right:10px; text-align:left; vertical-align:middle;">
+			<a href="http://www.mysites.ru/in.php?sid=451530&cat_key=Personalniye_sayitiy"><img src="http://www.mysites.ru/buttons/88x31_1_1.gif" width="88" height="31" alt="Каталог сайтов: Персональные сайты" border=0></a>
+			<a href='http://softout.ru' target='_blank'><img src='http://softout.ru/bn1.gif' border='0' width='83' height='31' alt='SoftOut - сборник лучших программ' title='SoftOut - сборник лучших программ'></a>
+			<a href="/counter/info.php" title="Смотреть тигровую статистику
+Всего хитов:
+Хитов сегодня:
+Хостов сегодня:"><img src="/counter/counter.php" width=88 height=31 border=0></a>
+			</td>
+			<td style="text-align:center; vertical-align:middle;"><small>Дизайн: <u style="color:white; cursor:pointer;" onclick="aboutDr1D();">Dr1D</u>, <a style="color:white;" href="http://logovo-tigra.ru/viewprofile/%D0%A5%D0%B8%D1%89%D0%BD%D1%8B%D0%B9%D0%A2%D0%B8%D0%B3%D1%80" target="_blank">ХищныйТигр</a>. Генерация: 0.038 секунд.</small></td>
+			<td style="padding-right:10px; padding-top:0px; padding-bottom:0px; padding-left:10px; text-align:right; vertical-align:middle;"><font style="color:#797979; font-family:verdana,arial,tahoma; font-size:10pt;font-weight:bold;">Powered by <a href="http://engine.ruxesoft.net/" style="color:#797979;" target="_blank">Ruxe Engine</a></font></td></tr>
+	</table>        
+</div>
+</body>
+</html>

@@ -1,0 +1,1162 @@
+ 
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="На нашем сайте вы можете скачать программное обеспечение для настройки оборудования, которое используется для майнинга криптовалют. Прошивки VNISH – лучшее, что есть, на сегодняшний день, среди программ для майнинга на асиках. Профессиональная техподдержка 24/7." />
+	<link rel="alternate" href="https://asicdip.com/" hreflang="ru" />
+	<link rel="alternate" href="https://asicdip.com/en/" hreflang="en" />
+
+    <!-- Google Tag Manager -->
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5VXN3N9');</script>
+<!-- End Google Tag Manager -->
+    <!-- Title -->
+    <title>Скачать программное обеспечение Asicdip для майнинг оборудования asicdip.com</title>
+   <!-- Favicon -->
+    <link rel="icon" href="./img/core-img/favicon.ico">
+    <!-- Core Stylesheet   
+    <link rel="stylesheet" href="/style.css" >-->
+    <!--<link rel="stylesheet" href="/style-index.css" >-->
+	<link rel="preload" as="style" href="/style-index.css" onload="this.rel='stylesheet'">
+	
+	<!-- Bootstrap CSS
+    <link href="css/css-galery/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- fancyBox3 CSS Galery -->
+    <!-- <link rel="stylesheet" href="/css/css-galery/jquery.fancybox.min.css" > -->	
+	<link rel="preload" as="style" href="/css/css-galery/jquery.fancybox.min.css" onload="this.rel='stylesheet'">
+	<link rel="preload" as="style" href="/css/magnific-popup.css" onload="this.rel='stylesheet'">
+	<link rel="preload" as="style" href="/fonts/OpenSans-font-style.css" onload="this.rel='stylesheet'">
+	<link rel="preload" as="style" href="/css/font-awesome.min.css" onload="this.rel='stylesheet'">
+	<link rel="preload" as="style" href="/css/style.css" onload="this.rel='stylesheet'">
+	<link rel="preload" as="style" href="/css/bootstrap.min.css" onload="this.rel='stylesheet'">
+	<link rel="preload" as="style" href="/css/animate.css" onload="this.rel='stylesheet'">
+	
+	
+</head>
+
+<body>
+	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VXN3N9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+ 
+	    <!-- Preloader -->
+    <div id="preloader">
+        <div class="wrapper">
+            <div class="cssload-loader"></div>
+        </div>
+    </div>
+
+    <!-- ***** Navbar Area Start ***** -->
+	 <header class="header-area">
+        <!-- Main Header Start -->
+        <div class="main-header-area">
+            <div class="classy-nav-container breakpoint-off">
+                <!-- Classy Menu -->
+                <nav class="classy-navbar justify-content-between" id="uzaNav">
+
+                    <!-- Logo -->
+					<div class="asicdip-logo">					
+						<div> <img src='/img/core-img/asicdip-logo.png' alt='asicdip-logotype' title='asicdip-logotype' width='140' height='76'></div>					</div>
+                    <!-- Navbar Toggler -->
+                    <div class="classy-navbar-toggler">
+                        <span class="navbarToggler"><span></span><span></span><span></span></span>
+                    </div>
+
+                    <!-- Menu -->
+                    <div class="classy-menu">
+                        <!-- Menu Close Button -->
+                        <div class="classycloseIcon">
+                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                        </div>
+
+                        <!-- Nav Start -->
+                        <div class="classynav">
+                           <ul id="nav">
+								
+								<li class="current-item"> <span class='curentNoLink'> Главная </span></li>
+								<li class=""> <a href='/catalog'>Каталог</a>									<ul class="dropdown">
+										<li class="subMenu"> <a href='/cooling'>- Охлаждение</a></li>
+										<li class="subMenu"> <a href='/liquids'>- Жидкость для охлаждение</a></li>
+										<li class="subMenu"> <a href='/crypto-boiler'>- Крипто-котёл</a></li>
+										<li class="subMenu"> <a href='/components'>- Комплектующие</a></li>									
+                                    </ul>	
+								</li>
+								
+								<li class=""><a href='/firmware'>Прошивки</a>									
+                                    <ul class="dropdown">									
+										<li class='subMenu'><a href='/firmware/Whatsminer_M20S_M21S_M30S_M31S_M32'>- Whatsminer M20S/M21S/M30S/M31S/M32</a></li><li class='subMenu'><a href='/firmware/Avalon_1066Pro_1166_1246'>- Avalon 1066Pro/1166/1246</a></li><li class='subMenu'><a href='/firmware/AntMiner_T19'>- AntMiner T19</a></li><li class='subMenu'><a href='/firmware/Innosilicon_T2Tz'>- Innosilicon T2Tz</a></li><li class='subMenu'><a href='/firmware/AntMiner_S17-S17Pro'>- AntMiner S17/S17Pro</a></li><li class='subMenu'><a href='/firmware/AntMiner_S17Plus'>- AntMiner S17+</a></li><li class='subMenu'><a href='/firmware/AntMiner_T17'>- AntMiner T17</a></li><li class='subMenu'><a href='/firmware/AntMiner_T17Plus'>- AntMiner T17+</a></li><li class='subMenu'><a href='/firmware/AntMiner_L3Plus_L3PlusPlus'>- AntMiner L3+/L3++</a></li><li class='subMenu'><a href='/firmware/AntMiner_S9_S9i_S9j'>- AntMiner S9/S9i/S9j</a></li><li class='subMenu'><a href='/firmware/AntMiner_S9Dual'>- AntMiner S9Dual</a></li><li class='subMenu'><a href='/firmware/AntMiner_T9Plus'>- AntMiner T9+</a></li><li class='subMenu'><a href='/firmware/AntMiner_R4'>- AntMiner R4</a></li><li class='subMenu'><a href='/firmware/AntMiner_S19'>- AntMiner S19</a><ul class='dropdown'><li class='subMenu'> <a href='/firmware/AntMiner_S19j'>- AntMiner S19j</a> </li><li class='subMenu'> <a href='/firmware/AntMiner_S19j-bb'>- AntMiner S19j Beagle Bone</a> </li><li class='subMenu'> <a href='/firmware/AntMiner_S19Pro'>- AntMiner S19Pro</a> </li><li class='subMenu'> <a href='/firmware/AntMiner_S19jPro'>- AntMiner S19jPro</a> </li><li class='subMenu'> <a href='/firmware/AntMiner_S19jPro-bb'>- AntMiner S19jPro Beagle Bone</a> </li></ul></li>                                    </ul>
+                                </li>
+								<li class=""> <a href='/partnership'>Партнерка</a></li>
+								<li class=""> <a href='https://forum.asicdip.com'>Форум</a></li>
+								<li class=""> <a href='/contact'>Контакты</a></li>
+																
+								<li class="langugeIcon"><a href="#"><i class="fa fa-globe"></i>  </a>
+                                    <ul class="dropdown">
+                                        <li class="subMenu flagRu"> <div>RU</div> </li>
+                                        <li class="subMenu flagEn"> <a href='/en/'>EN</a> </li>
+                                      <!--
+                                        <li class="subMenu flagEs"><a href="/es/" >ES</a></li>
+                                        <li class="subMenu flagCh"><a href="/ch/">CH</a></li>
+									-->
+                                    </ul> 
+                                </li>
+								
+                            </ul>
+                        </div>
+
+                        <!-- Nav End -->
+
+                    </div>
+                </nav>
+            </div>
+        </div>		
+    </header>
+	
+	
+	    <!-- ***** Navbar Area End ***** -->
+	
+    <!-- ***** Welcome Area Start ***** -->
+    <section class="welcome-area">
+       
+            <!-- Single Welcome Slide -->
+            <div class="single-welcome-slide">
+                <!-- Background Curve -->
+                <div class="background-curve">
+                    <img src="./img/core-img/curve-1.png" alt="background-curve-home" title="background-curve-home">
+                </div>
+
+                <!-- Welcome Content -->
+                <div class="welcome-content h-100">
+                    <div class="container h-100">
+                        <div class="row h-100 align-items-center">
+                            <!-- Welcome Text -->
+                            <div class="col-12 col-md-2">
+                                <div class="welcome-text">
+								
+									<div class="uza-video-area hi-icon-effect-8">
+										<a href="https://www.youtube.com/watch?v=GtgBgWhjLIo" class="hi-icon video-play-btn" title="Видео"><i class="fa fa-play" aria-hidden="true"></i></a>
+									</div>
+                                </div>
+
+								<div class="phoneSvgIndex">
+									<!-- ***** phone24 icon ***** -->
+									<a href="https://t.me/asicdip_firmware" class="telegram" title="Поддержка 24/7">
+										<!-- phone 24  SVG format -->
+<svg viewBox="0 0 137 137" fill="none" xmlns="http://www.w3.org/2000/svg" class="phoneIconIndex">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M72.301 130.767l-15.91-30.705-9.327 4.566c-10.12 4.909-30.728-35.34-20.83-40.643l9.408-4.635-15.778-30.808-9.516 4.698c-32.55 16.965 19.129 117.415 52.42 102.196.548-.245 9.499-4.652 9.533-4.669zm27.983-14.859l5.942 9.761a68.326 68.326 0 01-19.129 8.774l-5.331-10.412a56.744 56.744 0 0018.518-8.123zm16.68-17.25l10.743 4.292a69.003 69.003 0 01-14.614 17.53l-6.034-9.909a57.411 57.411 0 009.905-11.914zm3.99-7.627a56.805 56.805 0 004.629-22.53c0-31.505-25.579-57.084-57.084-57.084-14.254 0-27.292 5.234-37.298 13.882l-5.326-10.412C37.577 5.571 52.39 0 68.499 0 106.306 0 137 30.694 137 68.5a68.234 68.234 0 01-5.44 26.772l-10.606-4.241zm-20.042-5.406h-8.21v-8.848h-16.44v-5.645l14.043-22.605h10.607v21.748h4.452v6.502h-4.452v8.848zm-28.942 0H45.666V80.38l4.795-4.338c8.106-7.25 12.044-11.417 12.159-15.76 0-3.026-1.827-5.424-6.108-5.424-3.197 0-5.994 1.599-7.935 3.083l-2.455-6.217c2.797-2.112 7.136-3.824 12.16-3.824 8.385 0 13.003 4.903 13.003 11.639 0 6.228-4.504 11.194-9.864 15.99l-3.425 2.853v.114H71.97v7.13zm20.733-15.35v-8.22c0-2.232.114-4.515.285-6.912h-.228c-1.199 2.397-2.17 4.566-3.425 6.912l-4.966 8.106v.114h8.334z" />
+</svg>									</a>
+								</div>
+                               
+                            </div>
+							
+							<div class="col-12 col-md-5" id="ancorAnime">
+                                <div class="welcome-text">                                   
+                                    <h1 data-animation="fadeInUp" data-delay="100ms" class="cap">Программное обеспечение<br><span style="font-size:75%">для</span> майнинг<span> оборудования</span></h1>
+                                    <p class="subTitleHome" data-animation="fadeInUp" data-delay="400ms">Прошивки для работы <span>ASIC</span> майнеров</p>                                   
+                                    <!-- <a href="#ancorFirmware" class="btn uza-btn btn-2" data-animation="fadeInUp" data-delay="700ms">Перейти к прошивкам</a>-->
+                                    <a href="#ancorFirmware" class="customBtnStart-1" data-animation="fadeInUp" data-delay="700ms">Перейти к прошивкам</a>
+                                </div>
+                            </div>
+                            <!-- Phone24 SVG-->
+                            <div class="col-12 col-md-5">
+                                <div class="welcome-thumbnail">
+									<div class="svg-content">
+										<!-- logo  SVG format -->
+<svg width="959" height="746" viewBox="0 0 959 746" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path opacity="0.5" d="M826.606 291.632L855.477 308.588V376.291L826.606 359.365V291.632Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M797.737 308.588L826.608 325.514V359.365L797.737 342.439V308.588Z" fill="#5CFFF3"/>
+<path opacity="0.5" d="M768.836 190.048L797.736 207.004V342.439L768.836 325.514V190.048Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M739.965 139.271L768.836 156.197V325.514L739.965 308.558V139.271Z" fill="#5CFFF3"/>
+<path opacity="0.5" d="M711.094 156.197L739.965 173.123V308.558L711.094 291.632V156.197Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M682.224 37.6875L711.095 54.6131V291.632L682.224 274.707V37.6875Z" fill="#5CFFF3"/>
+<path opacity="0.5" d="M653.322 54.6128L682.223 71.5384V274.706L653.322 257.781V54.6128Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M624.45 71.5386L653.321 88.4642V257.781L624.45 240.855V71.5386Z" fill="#5CFFF3"/>
+<path opacity="0.5" d="M595.917 21.6943L624.623 36.3277V240.882L595.917 226.275V21.6943Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M566.474 0L595.916 11.7691V223.676L566.474 211.886V0Z" fill="#5CFFF3"/>
+<path opacity="0.5" d="M537.769 50.8694L566.474 60.0644V207.218L537.769 198.023V50.8694Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M509.062 54.6099L537.768 61.056V190.012L509.062 183.566V54.6099Z" fill="#5CFFF3"/>
+<path opacity="0.5" d="M480.357 50.5925L509.063 56.3976V172.53L480.357 166.725V50.5925Z" fill="#5CFFF3"/>
+<path opacity="0.2" d="M450.915 54.333L480.357 58.4014V156.072L450.915 152.004V54.333Z" fill="#5CFFF3"/>
+<g filter="url(#filter0_d)">
+<path d="M479.561 627.486C625.646 627.486 744.071 558.053 744.071 472.405C744.071 386.756 625.646 317.323 479.561 317.323C333.475 317.323 215.05 386.756 215.05 472.405C215.05 558.053 333.475 627.486 479.561 627.486Z" fill="#8EF1EC"/>
+</g>
+<path d="M479.56 565.828C645.831 565.828 780.621 486.801 780.621 389.317C780.621 291.834 645.831 212.807 479.56 212.807C313.289 212.807 178.499 291.834 178.499 389.317C178.499 486.801 313.289 565.828 479.56 565.828Z" fill="url(#paint0_linear)"/>
+<path opacity="0.48" d="M780.623 331.196L773.182 331.136C761.068 299.702 734.162 269.811 692.433 245.329C574.866 176.387 384.229 176.387 266.662 245.329C227.255 268.45 201.062 296.378 188.085 325.877L178.65 325.786V364.927C176.299 411.805 205.646 459.166 266.692 494.952C384.259 563.893 574.896 563.893 692.463 494.952C751.246 460.496 780.653 415.311 780.653 370.125V331.196H780.623Z" fill="url(#paint1_linear)"/>
+<path opacity="0.48" d="M780.623 331.196L773.182 331.136C761.068 299.702 734.162 269.811 692.433 245.329C574.866 176.387 384.229 176.387 266.662 245.329C227.255 268.45 201.062 296.378 188.085 325.877L178.65 325.786V364.927C176.299 411.805 205.646 459.166 266.692 494.952C384.259 563.893 574.896 563.893 692.463 494.952C751.246 460.496 780.653 415.311 780.653 370.125V331.196H780.623Z" fill="url(#paint2_linear)"/>
+<path opacity="0.48" d="M780.623 331.196L773.182 331.136C761.068 299.702 734.162 269.811 692.433 245.329C574.866 176.387 384.229 176.387 266.662 245.329C227.255 268.45 201.062 296.378 188.085 325.877L178.65 325.786V364.927C176.299 411.805 205.646 459.166 266.692 494.952C384.259 563.893 574.896 563.893 692.463 494.952C751.246 460.496 780.653 415.311 780.653 370.125V331.196H780.623Z" fill="url(#paint3_linear)"/>
+<path d="M780.623 316.084L773.182 316.024C761.068 284.59 734.162 254.698 692.433 230.217C574.866 161.275 384.229 161.275 266.662 230.217C227.255 253.338 201.062 281.266 188.085 310.765L178.65 310.674V349.814C176.299 396.692 205.646 444.054 266.692 479.84C384.259 548.781 574.896 548.781 692.463 479.84C751.246 445.384 780.653 400.198 780.653 355.013V316.084H780.623Z" fill="url(#paint4_linear)"/>
+<path opacity="0.48" d="M773.21 316.024C772.793 314.936 772.346 313.847 771.87 312.759V287.069H756.095V285.225C752.107 279.785 747.643 274.465 742.702 269.236V287.069H733.654V260.32C729.457 256.451 724.963 252.673 720.2 248.956V287.069H711.182V242.337C706.896 239.314 702.402 236.352 697.699 233.451V287.069H688.74V228.131C684.335 225.623 679.811 223.205 675.197 220.908V287.099H666.268V216.616C661.804 214.56 657.28 212.566 652.696 210.662V287.099H643.826V225.169H630.195V287.099H621.355V242.186H607.693V287.099H598.913V259.172H585.221V287.099H576.471V276.158H562.72V287.099H396.549V276.158H382.798V287.099H374.047V259.172H360.356V287.099H351.576V242.186H337.914V287.099H329.074V225.169H315.442V287.099H306.573V210.601C301.959 212.505 297.435 214.5 293 216.555V287.099H284.071V220.847C279.458 223.144 274.964 225.562 270.529 228.071V287.099H261.57V233.39C256.867 236.292 252.373 239.254 248.087 242.276V287.129H239.068V248.926C234.306 252.643 229.842 256.421 225.615 260.29V287.129H216.567V269.146C211.626 274.344 207.162 279.664 203.173 285.104V287.129H187.399V310.855L180.731 310.795V376.412C183.172 388.199 187.607 399.866 194.095 411.23V370.246H203.173V425.073C207.162 430.483 211.626 435.803 216.567 441.001V370.155H225.615V449.887C229.812 453.756 234.306 457.534 239.068 461.221V370.155H248.087V467.871C252.403 470.893 256.867 473.855 261.57 476.757V370.155H270.529V482.046C274.934 484.555 279.458 486.972 284.071 489.27V370.155H293V493.561C297.465 495.617 301.989 497.611 306.573 499.516V370.155H315.442V503.022C319.937 504.744 324.461 506.376 329.074 507.918V370.155H337.914V510.819C342.408 512.24 346.962 513.57 351.576 514.839V370.155H360.356V517.167C364.88 518.315 369.464 519.373 374.047 520.401V370.186H382.798V522.244C387.352 523.151 391.935 523.997 396.549 524.753V370.186H405.24V526.113C409.823 526.808 414.407 527.413 419.02 527.957V370.186H427.682V528.924C432.265 529.407 436.879 529.8 441.522 530.133V370.155H450.153V530.707C454.767 530.979 459.41 531.16 464.023 531.312V370.155H472.595V531.493C477.268 531.553 481.941 531.553 486.614 531.493V370.155H495.186V531.281C499.829 531.13 504.443 530.949 509.056 530.677V370.155H517.687V530.103C522.301 529.77 526.914 529.347 531.528 528.894V370.155H540.189V527.926C544.802 527.382 549.416 526.748 553.969 526.083V370.155H562.69V524.692C567.304 523.907 571.887 523.091 576.441 522.184V370.155H585.192V520.37C589.805 519.373 594.359 518.285 598.883 517.136V370.155H607.663V514.809C612.277 513.54 616.831 512.21 621.325 510.789V370.155H630.165V507.888C634.748 506.316 639.302 504.684 643.797 502.991V370.155H652.666V499.455C657.28 497.551 661.804 495.556 666.239 493.501V370.155H675.168V489.209C679.781 486.882 684.275 484.464 688.71 481.985V370.186H697.669V476.726C702.372 473.825 706.866 470.863 711.152 467.84V370.216H720.171V461.191C724.933 457.473 729.427 453.695 733.624 449.827V370.216H742.672V440.971C747.642 435.742 752.077 430.423 756.066 425.013V370.246H765.144V411.019C771.662 399.533 776.126 387.776 778.508 375.868V316.175L773.21 316.024Z" fill="url(#paint5_linear)"/>
+<path d="M479.56 492.594C645.831 492.594 780.621 413.568 780.621 316.084C780.621 218.6 645.831 139.574 479.56 139.574C313.289 139.574 178.499 218.6 178.499 316.084C178.499 413.568 313.289 492.594 479.56 492.594Z" fill="url(#paint6_linear)"/>
+<path opacity="0.3" d="M479.679 139.574C411.461 139.574 343.242 153.084 287.703 180.074L197.905 378.346C212.549 401.135 235.408 422.534 266.719 440.88C286.125 452.275 307.585 461.735 330.324 469.351L479.679 139.574Z" fill="#42E8E0"/>
+<path opacity="0.3" d="M564.03 146.646L409.526 487.758C446.463 492.927 484.739 493.954 522.182 490.841L664.424 176.81C633.826 162.816 599.717 152.722 564.03 146.646Z" fill="#42E8E0"/>
+<g opacity="0.05">
+<path opacity="0.05" d="M479.561 472.404C626.813 472.404 746.185 402.417 746.185 316.084C746.185 229.75 626.813 159.763 479.561 159.763C332.308 159.763 212.937 229.75 212.937 316.084C212.937 402.417 332.308 472.404 479.561 472.404Z" fill="url(#paint7_linear)"/>
+<g opacity="0.05">
+<path opacity="0.05" d="M3.31045 315.419L0.453125 313.727L464.947 41.4053L467.804 43.0979L3.31045 315.419Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M11.496 320.195L8.63867 318.532L473.133 46.2109L475.96 47.8733L11.496 320.195Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M19.6806 325L16.8232 323.338L481.317 51.0166L484.145 52.6789L19.6806 325Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M27.8363 329.806L25.0088 328.144L489.503 55.8223L492.33 57.4846L27.8363 329.806Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M36.0209 334.612L33.1934 332.919L497.687 60.5979L500.515 62.2602L36.0209 334.612Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M44.2055 339.387L41.3779 337.725L505.872 65.4033L508.699 67.0657L44.2055 339.387Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M52.391 344.193L49.5635 342.53L514.057 70.209L516.885 71.8713L52.391 344.193Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M60.5756 348.999L57.748 347.336L522.242 75.0149L525.069 76.6772L60.5756 348.999Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M68.7612 353.804L65.9336 352.112L530.398 79.7903L533.255 81.4526L68.7612 353.804Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M76.9457 358.579L74.1182 356.917L538.582 84.5959L541.439 86.2583L76.9457 358.579Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M85.1317 363.385L82.2744 361.723L546.768 89.4014L549.625 91.0637L85.1317 363.385Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M93.3173 368.191L90.46 366.528L554.954 94.1768L557.811 95.8693L93.3173 368.191Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M101.501 372.966L98.6436 371.304L563.137 98.9827L565.995 100.645L101.501 372.966Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M109.686 377.772L106.829 376.109L571.323 103.788L574.18 105.45L109.686 377.772Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M117.871 382.578L115.014 380.915L579.507 108.594L582.365 110.256L117.871 382.578Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M126.058 387.383L123.2 385.721L587.694 113.37L590.551 115.062L126.058 387.383Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M134.241 392.159L131.384 390.496L595.878 118.175L598.735 119.837L134.241 392.159Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M142.427 396.964L139.569 395.302L604.063 122.981L606.92 124.643L142.427 396.964Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M150.611 401.77L147.754 400.108L612.248 127.787L615.105 129.449L150.611 401.77Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M158.798 406.576L155.94 404.883L620.434 132.562L623.292 134.254L158.798 406.576Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M166.982 411.351L164.125 409.689L628.619 137.367L631.476 139.03L166.982 411.351Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M175.166 416.157L172.309 414.495L636.802 142.173L639.63 143.836L175.166 416.157Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M183.323 420.962L180.495 419.3L644.989 146.979L647.817 148.641L183.323 420.962Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M191.508 425.768L188.681 424.076L653.174 151.754L656.002 153.447L191.508 425.768Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M199.693 430.544L196.865 428.882L661.359 156.56L664.187 158.223L199.693 430.544Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M207.876 435.349L205.049 433.687L669.543 161.366L672.37 163.028L207.876 435.349Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M216.062 440.155L213.234 438.493L677.728 166.171L680.556 167.834L216.062 440.155Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M224.247 444.961L221.42 443.268L685.914 170.947L688.741 172.64L224.247 444.961Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M232.433 449.736L229.605 448.074L694.069 175.752L696.927 177.415L232.433 449.736Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M240.617 454.542L237.789 452.879L702.253 180.558L705.111 182.22L240.617 454.542Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M248.802 459.347L245.944 457.685L710.438 185.364L713.295 187.026L248.802 459.347Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M256.987 464.153L254.13 462.46L718.624 190.139L721.481 191.831L256.987 464.153Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M265.172 468.929L262.314 467.266L726.808 194.945L729.665 196.607L265.172 468.929Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M273.356 473.734L270.499 472.072L734.993 199.75L737.85 201.413L273.356 473.734Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M281.542 478.54L278.685 476.878L743.178 204.556L746.036 206.219L281.542 478.54Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M289.727 483.345L286.87 481.653L751.364 209.332L754.221 210.994L289.727 483.345Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M297.913 488.121L295.056 486.458L759.549 214.137L762.407 215.799L297.913 488.121Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M306.097 492.927L303.239 491.264L767.733 218.943L770.59 220.605L306.097 492.927Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M314.283 497.732L311.426 496.07L775.92 223.718L778.777 225.411L314.283 497.732Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M322.468 502.538L319.61 500.845L784.104 228.524L786.961 230.186L322.468 502.538Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M330.653 507.313L327.796 505.651L792.29 233.33L795.117 234.992L330.653 507.313Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M338.837 512.119L335.979 510.457L800.473 238.135L803.301 239.798L338.837 512.119Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M346.993 516.925L344.165 515.262L808.659 242.911L811.486 244.603L346.993 516.925Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M355.178 521.7L352.351 520.038L816.844 247.717L819.672 249.379L355.178 521.7Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M363.364 526.506L360.536 524.843L825.03 252.522L827.857 254.185L363.364 526.506Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M371.547 531.311L368.72 529.649L833.214 257.328L836.041 258.99L371.547 531.311Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M379.733 536.117L376.905 534.455L841.399 262.103L844.227 263.796L379.733 536.117Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M387.918 540.893L385.091 539.23L849.555 266.909L852.412 268.572L387.918 540.893Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M396.103 545.698L393.275 544.036L857.739 271.714L860.597 273.377L396.103 545.698Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M404.289 550.504L401.432 548.842L865.925 276.521L868.783 278.183L404.289 550.504Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M412.474 555.31L409.616 553.617L874.11 281.296L876.967 282.988L412.474 555.31Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M420.658 560.085L417.801 558.423L882.295 286.101L885.152 287.764L420.658 560.085Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M428.844 564.891L425.986 563.229L890.48 290.907L893.337 292.57L428.844 564.891Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M437.029 569.696L434.172 568.034L898.666 295.712L901.523 297.375L437.029 569.696Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M445.214 574.502L442.356 572.809L906.85 300.488L909.708 302.181L445.214 574.502Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M453.398 579.278L450.541 577.615L915.035 305.294L917.892 306.956L453.398 579.278Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M461.584 584.083L458.727 582.421L923.22 310.099L926.078 311.762L461.584 584.083Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M469.769 588.889L466.912 587.226L931.406 314.905L934.263 316.567L469.769 588.889Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M477.954 593.695L475.097 592.002L939.591 319.681L942.448 321.373L477.954 593.695Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M486.139 598.47L483.281 596.808L947.775 324.486L950.632 326.149L486.139 598.47Z" fill="#42E8E0"/>
+<path opacity="0.05" d="M494.324 603.276L491.467 601.613L955.961 329.292L958.788 330.954L494.324 603.276Z" fill="#42E8E0"/>
+</g>
+</g>
+<path d="M291.037 216.071C395.15 155.018 563.97 155.018 668.084 216.071C717.849 245.268 743.833 283.109 746.006 321.343C748.387 279.603 722.433 237.41 668.084 205.553C563.97 144.5 395.15 144.5 291.037 205.553C236.688 237.41 210.734 279.603 213.115 321.343C215.288 283.109 241.242 245.268 291.037 216.071Z" fill="url(#paint8_linear)"/>
+<path d="M561.977 282.989C545.875 281.598 530.398 284.228 515.575 290.877C533.523 275.735 529.386 260.29 503.223 244.513C502.598 244.15 501.944 243.757 501.289 243.395C492.419 238.075 483.401 234.146 474.233 231.577C464.352 228.796 455.155 227.406 446.642 227.406C438.13 227.406 429.32 228.585 420.212 230.912C415.39 232.151 410.777 233.542 406.402 235.083L389.615 225.23L364.911 239.707L378.721 247.808C376.281 249.137 373.81 250.528 371.28 252.039L362.232 257.358L348.541 249.319L323.837 263.796L337.528 271.836L320.474 281.84L313.777 285.769L311.991 286.827L283.626 303.451L308.33 317.928L336.695 301.305L514.891 405.76L486.526 422.383L511.23 436.861L539.595 420.237L548.077 415.25L565.132 405.246L579.061 413.407L603.765 398.929L594.926 393.761L589.836 390.769L606.206 381.157L620.136 389.318L644.84 374.84L636 369.672L628.916 365.531C638.649 356.917 643.857 348.213 644.453 339.448C645.197 326.361 634.482 313.273 612.337 300.186C611.891 299.914 611.385 299.612 610.82 299.31C594.36 289.819 578.079 284.409 561.977 282.989ZM396.014 277.125L403.961 272.471C423.635 260.925 442.446 260.441 460.393 270.929C470.93 277.095 476.644 282.747 477.626 287.885C478.579 293.023 473.668 298.736 462.864 305.052L453.25 310.674L396.014 277.125ZM554.685 370.156L486.466 330.169L496.348 324.366C507.509 317.807 517.986 314.785 527.778 315.268C537.571 315.752 548.881 319.741 561.679 327.267C573.109 333.977 579.3 340.173 580.222 345.855C581.145 351.537 576.145 357.582 565.251 363.96L554.685 370.156Z" fill="url(#paint9_linear)"/>
+<path d="M323.837 243.425V259.504L337.528 251.465L323.837 243.425Z" fill="url(#paint10_linear)"/>
+<path d="M364.912 219.336V235.416L378.752 227.467L364.912 219.336Z" fill="url(#paint11_linear)"/>
+<path d="M526.499 251.495V270.597L514.117 262.889L526.499 251.495Z" fill="url(#paint12_linear)"/>
+<path d="M644.424 316.084V339.418L625.881 327.751L644.424 316.084Z" fill="url(#paint13_linear)"/>
+<path d="M561.977 262.648C545.875 261.257 530.398 263.887 515.575 270.536C533.523 255.394 529.386 239.949 503.223 224.172C502.598 223.809 501.944 223.416 501.289 223.054C492.419 217.734 483.401 213.805 474.233 211.236C464.352 208.455 455.155 207.065 446.642 207.065C438.13 207.065 429.32 208.244 420.212 210.571C415.39 211.81 410.777 213.201 406.402 214.742L389.615 204.889L364.911 219.366L378.721 227.467C376.281 228.796 373.81 230.187 371.28 231.698L362.232 237.017L348.541 228.978L323.837 243.455L337.528 251.495L320.474 261.499L313.777 265.428L311.991 266.486L283.626 283.11L308.33 297.587L336.695 280.964L514.891 385.419L486.526 402.042L511.23 416.52L539.595 399.896L548.077 394.909L565.132 384.905L579.061 393.066L603.765 378.588L594.926 373.42L589.836 370.428L606.206 360.816L620.136 368.977L644.84 354.499L636 349.331L628.916 345.19C638.649 336.576 643.857 327.872 644.453 319.107C645.197 306.02 634.482 292.932 612.337 279.845C611.891 279.573 611.385 279.271 610.82 278.969C594.36 269.478 578.079 264.038 561.977 262.648ZM396.014 256.784L403.961 252.13C423.635 240.584 442.446 240.1 460.393 250.588C470.93 256.754 476.644 262.406 477.626 267.544C478.579 272.682 473.668 278.395 462.864 284.711L453.25 290.333L396.014 256.784ZM554.685 349.815L486.466 309.828L496.348 304.025C507.509 297.466 517.986 294.444 527.778 294.927C537.571 295.411 548.881 299.4 561.679 306.926C573.109 313.636 579.3 319.832 580.222 325.514C581.145 331.196 576.145 337.241 565.251 343.619L554.685 349.815Z" fill="url(#paint14_linear)"/>
+<path d="M644.841 354.5V374.841L620.137 389.318V368.977L644.841 354.5Z" fill="url(#paint15_linear)"/>
+<path d="M603.766 378.588V398.929L579.062 413.406V393.065L603.766 378.588Z" fill="url(#paint16_linear)"/>
+<path d="M511.229 416.489V436.83L486.525 422.353V402.012L511.229 416.489Z" fill="url(#paint17_linear)"/>
+<path d="M283.626 283.049V303.39L308.33 317.898V297.557L283.626 283.049Z" fill="url(#paint18_linear)"/>
+<path d="M336.694 301.274V280.933L308.329 297.556V317.897L336.694 301.274Z" fill="url(#paint19_linear)"/>
+<path d="M336.695 280.933V301.274L497.539 395.574L514.891 385.388L336.695 280.933Z" fill="url(#paint20_linear)"/>
+<path d="M483.253 168.982C472.329 168.982 461.376 166.534 453.072 161.667C444.679 156.741 440.065 150.122 440.065 142.989C440.065 135.856 444.679 129.237 453.072 124.31C469.71 114.548 496.825 114.548 513.463 124.31C521.856 129.237 526.47 135.856 526.47 142.989C526.47 150.122 521.856 156.741 513.463 161.667C505.129 166.564 494.176 168.982 483.253 168.982ZM483.253 120.32C472.925 120.32 462.597 122.618 454.709 127.242C447.387 131.534 443.369 137.125 443.369 142.989C443.369 148.852 447.387 154.474 454.709 158.736C470.454 167.954 496.051 167.954 511.766 158.736C519.088 154.444 523.106 148.852 523.106 142.989C523.106 137.125 519.088 131.504 511.766 127.242C503.909 122.618 493.581 120.32 483.253 120.32Z" fill="#42E8E0"/>
+<rect x="321.068" y="88.4253" width="112.864" height="146.528" fill="url(#pattern0)"/>
+<path d="M501.111 153.477C491.229 159.25 475.246 159.25 465.364 153.477C455.483 147.704 455.483 138.304 465.364 132.531C475.246 126.758 491.229 126.758 501.111 132.531C510.992 138.304 510.992 147.704 501.111 153.477Z" fill="#42E8E0"/>
+<path d="M587.515 92.2725L569.806 81.8753L599.956 64.1941L617.666 74.561L587.515 92.2725Z" fill="#42E8E0"/>
+<path opacity="0.8" d="M555.667 75.8609L533.344 69.1814L552.72 46.906L575.013 53.5554L555.667 75.8609Z" fill="#42E8E0"/>
+<path opacity="0.6" d="M516.737 66.0074L491.974 63.7104L498.641 39.0171L523.404 41.3141L516.737 66.0074Z" fill="#42E8E0"/>
+<path opacity="0.4" d="M474.501 63.7104L449.768 66.0074L443.101 41.3141L467.834 39.0171L474.501 63.7104Z" fill="#42E8E0"/>
+<path opacity="0.2" d="M433.161 69.1814L410.838 75.8609L391.462 53.5554L413.785 46.906L433.161 69.1814Z" fill="#42E8E0"/>
+<path opacity="0.1" d="M396.699 81.8753L378.99 92.2423L348.81 74.561L366.549 64.1941L396.699 81.8753Z" fill="#42E8E0"/>
+<path opacity="0.2" d="M528.374 120.199L522.153 116.542L567.156 90.1565L573.377 93.8136L528.374 120.199Z" fill="#42E8E0"/>
+<path opacity="0.4" d="M514.146 113.127L506.318 110.77L535.189 77.5227L543.047 79.8802L514.146 113.127Z" fill="#42E8E0"/>
+<path opacity="0.6" d="M496.883 108.986L488.192 108.17L498.163 71.3269L506.854 72.143L496.883 108.986Z" fill="#42E8E0"/>
+<path opacity="0.8" d="M478.309 108.17L469.589 108.986L459.647 72.143L468.338 71.3269L478.309 108.17Z" fill="#42E8E0"/>
+<path d="M460.186 110.77L452.358 113.127L423.457 79.8802L431.285 77.5227L460.186 110.77Z" fill="#42E8E0"/>
+<path d="M444.32 116.542L438.1 120.199L393.097 93.8136L399.317 90.1565L444.32 116.542Z" fill="#42E8E0"/>
+<path d="M432.296 124.884L428.308 129.478L371.578 112.553L375.596 107.928L432.296 124.884Z" fill="#42E8E0"/>
+<path d="M425.243 135.01L423.874 140.087L361.013 134.254L362.382 129.177L425.243 135.01Z" fill="#42E8E0"/>
+<path d="M423.874 145.891L425.243 150.999L362.382 156.832L361.013 151.724L423.874 145.891Z" fill="#42E8E0"/>
+<path d="M428.308 156.53L432.296 161.124L375.596 178.049L371.578 173.455L428.308 156.53Z" fill="#42E8E0"/>
+<path d="M438.1 165.808L444.35 169.465L399.347 195.851L393.097 192.194L438.1 165.808Z" fill="#42E8E0"/>
+<path opacity="0.6" d="M660.02 57.3329C726.155 104.15 729.875 171.037 671.181 220.091L694.903 242.366C775.89 183.217 774.104 98.0148 689.635 39.9539L660.02 57.3329Z" fill="#42E8E0"/>
+<path opacity="0.2" d="M519.057 275.825C449.083 282.263 375.001 269.72 321.069 238.105C308.36 230.67 297.526 222.54 288.418 213.956L248.028 222.116C259.696 234.025 274.161 245.238 291.513 255.424C359.702 295.41 455.155 309.586 542.779 298.1L519.057 275.825Z" fill="#42E8E0"/>
+<path d="M458.489 231.909L442.685 222.66L645.644 103.667L661.448 112.916L458.489 231.909Z" fill="#42E8E0"/>
+<path opacity="0.8" d="M480.96 245.087L465.155 235.808L553.345 184.094L569.15 193.373L480.96 245.087Z" fill="#42E8E0"/>
+<path opacity="0.6" d="M504.98 259.171L489.176 249.892L629.572 167.592L645.376 176.84L504.98 259.171Z" fill="#42E8E0"/>
+<path opacity="0.2" d="M528.612 273.014L512.808 263.766L622.1 199.69L637.935 208.939L528.612 273.014Z" fill="#42E8E0"/>
+<defs>
+<filter id="filter0_d" x="149.05" y="239.323" width="725.022" height="506.162" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dx="32" dy="20"/>
+<feGaussianBlur stdDeviation="49"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.546458 0 0 0 0 0.684725 0 0 0 0 0.7625 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="169.033" y1="230.555" x2="497.874" y2="736.714" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="133.05" y1="370.158" x2="729.2" y2="370.158" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.1507" stop-color="#43E3E0"/>
+<stop offset="0.3285" stop-color="#45D5DF"/>
+<stop offset="0.5199" stop-color="#49BDDD"/>
+<stop offset="0.7209" stop-color="#4E9CDB"/>
+<stop offset="0.9274" stop-color="#5472D8"/>
+<stop offset="1" stop-color="#5761D7"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="133.05" y1="370.158" x2="729.2" y2="370.158" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.1507" stop-color="#43E3E0"/>
+<stop offset="0.3285" stop-color="#45D5DF"/>
+<stop offset="0.5199" stop-color="#49BDDD"/>
+<stop offset="0.7209" stop-color="#4E9CDB"/>
+<stop offset="0.9274" stop-color="#5472D8"/>
+<stop offset="1" stop-color="#5761D7"/>
+</linearGradient>
+<linearGradient id="paint3_linear" x1="133.05" y1="370.158" x2="729.2" y2="370.158" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.1507" stop-color="#43E3E0"/>
+<stop offset="0.3285" stop-color="#45D5DF"/>
+<stop offset="0.5199" stop-color="#49BDDD"/>
+<stop offset="0.7209" stop-color="#4E9CDB"/>
+<stop offset="0.9274" stop-color="#5472D8"/>
+<stop offset="1" stop-color="#5761D7"/>
+</linearGradient>
+<linearGradient id="paint4_linear" x1="133.05" y1="355.03" x2="729.2" y2="355.03" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint5_linear" x1="180.698" y1="371.044" x2="778.555" y2="371.044" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.1507" stop-color="#43E3E0"/>
+<stop offset="0.3285" stop-color="#45D5DF"/>
+<stop offset="0.5199" stop-color="#49BDDD"/>
+<stop offset="0.7209" stop-color="#4E9CDB"/>
+<stop offset="0.9274" stop-color="#5472D8"/>
+<stop offset="1" stop-color="#5761D7"/>
+</linearGradient>
+<linearGradient id="paint6_linear" x1="169.032" y1="157.31" x2="497.874" y2="663.47" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint7_linear" x1="432.568" y1="77.5765" x2="585.985" y2="832.625" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint8_linear" x1="212.96" y1="240.559" x2="746.168" y2="240.559" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint9_linear" x1="283.636" y1="331.025" x2="644.85" y2="331.025" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint10_linear" x1="329.787" y1="240.122" x2="331.1" y2="261.976" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint11_linear" x1="370.934" y1="216.031" x2="372.247" y2="237.886" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint12_linear" x1="519.788" y1="248.369" x2="521.351" y2="274.39" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint13_linear" x1="626.966" y1="324.033" x2="652.37" y2="329.275" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint14_linear" x1="298.992" y1="272.492" x2="1495.24" y2="519.361" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint15_linear" x1="620.464" y1="369.353" x2="651.875" y2="375.835" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint16_linear" x1="579.379" y1="393.439" x2="610.79" y2="399.922" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint17_linear" x1="484.07" y1="416.277" x2="522.729" y2="424.255" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint18_linear" x1="294.545" y1="275.72" x2="297.515" y2="325.141" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<linearGradient id="paint19_linear" x1="321.117" y1="275.362" x2="324.002" y2="323.358" gradientUnits="userSpaceOnUse">
+
+<stop offset="1" stop-color="#180D5B"/>
+</linearGradient>
+<linearGradient id="paint20_linear" x1="420.529" y1="252.991" x2="430.696" y2="422.178" gradientUnits="userSpaceOnUse">
+
+<stop offset="0.0157" stop-color="#40DDDA"/>
+<stop offset="0.0921" stop-color="#3AAEC0"/>
+<stop offset="0.173" stop-color="#3484A9"/>
+<stop offset="0.2573" stop-color="#2F6195"/>
+<stop offset="0.3458" stop-color="#2B4486"/>
+<stop offset="0.44" stop-color="#282E79"/>
+<stop offset="0.5425" stop-color="#261E71"/>
+<stop offset="0.6594" stop-color="#24156C"/>
+<stop offset="0.8226" stop-color="#24126A"/>
+</linearGradient>
+<image id="image0" width="959" height="746" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKMAAADMCAYAAAAfzhMPAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+</defs>
+</svg>								    </div>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+
+    </section>
+    <!-- ***** Welcome Area End ***** -->
+ 	 
+	 
+    <!-- ***** Firmware Area Start ***** -->
+    <section class="uza-about-us-area">
+		 <div class="container">
+            <div class="row">
+                <!-- Section Heading -->
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h2>О преимуществах прошивки</h2>
+						 <p>ОСОБЕННОСТИ НАШЕЙ ПРОШИВКИ </p>
+                    </div>
+                </div>
+            </div>
+			
+            <div class="row">
+
+                <!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                           <!-- <i class="icon_cone_alt"></i>-->
+                            <i class="fa fa-desktop"></i>
+                        </div>
+                        <p class="serviceTitle">Улучшенный интерфейс</p>
+                    </div>
+                </div>
+
+                <!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-cogs"></i>
+                        </div>
+                        <p class="serviceTitle">Автоматические пресеты</p>
+                    </div>
+                </div>
+
+                <!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-random"></i>
+                        </div>
+                        <p class="serviceTitle">Модуль<br/>клонирования</p>
+                    </div>
+                </div>
+				
+				<!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-lightbulb-o"></i>
+                        </div>
+                        <p class="serviceTitle">Контроль энергопотребления</p>
+                    </div>
+                </div>
+				
+				<!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-clock-o"></i>
+                        </div>
+                        <p class="serviceTitle">Клиентская поддержка 24/7</p>
+                    </div>
+                </div>
+				
+				<!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-wrench"></i>
+                        </div>
+                        <p class="serviceTitle">Настройка <br/>каждого чипа</p>
+                    </div>
+                </div>
+				
+				<!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-thermometer-quarter"></i>
+                        </div>
+                        <p class="serviceTitle">Контроль<br/>перегрева<p>
+                    </div>
+                </div>
+				
+				<!-- Single Service Area -->
+                <div class="col-12 col-lg-3">
+                    <div class="single-service-area mb-80">
+                        <!-- Service Icon -->
+                        <div class="service-icon customIconStyle">
+                            <i class="fa fa-sliders"></i>
+                        </div>
+                        <p class="serviceTitle">Ручной <br/>выбор разгона</p>
+                    </div>
+                </div>
+				
+
+            </div>
+        </div>
+        
+		 
+
+        <!-- About Background Pattern -->
+        <div class="about-bg-pattern">
+            <img src="./img/core-img/curve-2.png" alt="background-curve-angle-right" title="background-curve-angle-right">
+        </div>
+    </section>
+    <!-- ***** Firmware Area End ***** -->
+
+    <!-- ***** Frmware Area Start ***** -->
+    <section class="uza-portfolio-area section-padding-80-0" id="ancorFirmware">        
+      
+        <div class="container">
+		
+				 <div class="row">
+                <!-- Section Heading -->
+                <div class="col-12">
+                    <div class="section-heading text-center">
+                        <h2>Скачать прошивки</h2>
+                        <p>Тут вы найдете прошивку под свой Asic</p>
+                    </div>
+                </div>
+            </div>
+			
+			
+			
+			
+			
+
+            <div class="row">
+                <!-- Accordeon  -->
+                <div class="col-12 col-lg-12">
+				
+			
+						<div class='tab'>
+							<input id='tab-10' type='checkbox' name='tabs'>
+							<label for='tab-10'> Whatsminer M20S/M21S/M30S/M31S/M32 </label>
+							<div class='tab-content custom-color'><br/>
+								<p>Представляем уникальную прошивку!<br> ДЛЯ КРУПНЫХ ФЕРМ СПЕЦИАЛЬНЫЕ УСЛОВИЯ</p>
+								<div class='homeInfotxt'><p></p></div>
+								<p>
+									<a href='firmware/Whatsminer_M20S_M21S_M30S_M31S_M32' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий Whatsminer M20S/M21S/M30S/M31S/M32</a>
+								</p>
+							</div>
+						</div>
+					
+						<div class='tab'>
+							<input id='tab-11' type='checkbox' name='tabs'>
+							<label for='tab-11'> Avalon 1066Pro/1166/1246 </label>
+							<div class='tab-content custom-color'><br/>
+								<p>Представляем уникальную прошивку!<br> ДЛЯ КРУПНЫХ ФЕРМ СПЕЦИАЛЬНЫЕ УСЛОВИЯ</p>
+								<div class='homeInfotxt'><p></p></div>
+								<p>
+									<a href='firmware/Avalon_1066Pro_1166_1246' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий Avalon 1066Pro/1166/1246</a>
+								</p>
+							</div>
+						</div>
+					
+								<div class='tab'>
+									<input id='tab-1' type='checkbox' name='tabs'>
+									<label for='tab-1'> AntMiner S17/S17Pro </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=WEB_Antminer-S17-2.0.4-asicdip.tar.gz&id=21 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner S17/S17Pro<strong> Release 2.0.4</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=SD_Antminer-S17-2.0.4-asicdip.zip&id=21 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner S17/S17Pro<strong> Release 2.0.4</strong>  
+								  </a> <br/><a href='firmware-single.php?id=1' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner S17/S17Pro</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 558</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href='https://youtu.be/GtgBgWhjLIo'>
+												<img class='img-fluid videoThumb' src='img/video/cover_01.jpg' alt='Прошивка AntMiner S17/S17Pro' title='Прошивка AntMiner S17/S17Pro'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-2' type='checkbox' name='tabs'>
+									<label for='tab-2'> AntMiner S17+ </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=WEB_Antminer-S17%2B-2.0.4-asicdip.tar.gz&id=20 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner S17+<strong> Release 2.0.4</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=SD_Antminer-S17%2B-2.0.4-asicdip.zip&id=20 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner S17+<strong> Release 2.0.4</strong>  
+								  </a> <br/><a href='firmware-single.php?id=2' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner S17+</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 367</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href='https://youtu.be/GtgBgWhjLIo'>
+												<img class='img-fluid videoThumb' src='img/video/cover_01.jpg' alt='Прошивка AntMiner S17+' title='Прошивка AntMiner S17+'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-3' type='checkbox' name='tabs'>
+									<label for='tab-3'> AntMiner T17 </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=WEB_Antminer-T17-2.0.4-asicdip.tar.gz&id=24 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner T17<strong> Release 2.0.4</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=SD_Antminer-T17-2.0.4-asicdip.zip&id=24 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner T17<strong> Release 2.0.4</strong>  
+								  </a> <br/><a href='firmware-single.php?id=3' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner T17</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 630</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href='https://youtu.be/GtgBgWhjLIo'>
+												<img class='img-fluid videoThumb' src='img/video/cover_01.jpg' alt='Прошивка AntMiner T17' title='Прошивка AntMiner T17'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-4' type='checkbox' name='tabs'>
+									<label for='tab-4'> AntMiner T17+ </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=WEB_Antminer-T17%2B-2.0.4-asicdip.tar.gz&id=23 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner T17+<strong> Release 2.0.4</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=SD_Antminer-T17%2B-2.0.4-asicdip.zip&id=23 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner T17+<strong> Release 2.0.4</strong>  
+								  </a> <br/><a href='firmware-single.php?id=4' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner T17+</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 229</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href='https://youtu.be/GtgBgWhjLIo'>
+												<img class='img-fluid videoThumb' src='img/video/cover_01.jpg' alt='Прошивка AntMiner T17+' title='Прошивка AntMiner T17+'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-5' type='checkbox' name='tabs'>
+									<label for='tab-5'> AntMiner L3+/L3++ </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=WEB_Antminer-L3%2B-3.9.0.asicdip.tar.gz&id=17 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner L3+/L3++<strong> Release 3.9.0</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=SD_Antminer-L3%2B-3.9.0.asicdip.zip&id=17 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner L3+/L3++<strong> Release 3.9.0</strong>  
+								  </a> <br/><a href='firmware-single.php?id=5' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner L3+/L3++</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 1821</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href='https://youtu.be/EHev-shseMI'>
+												<img class='img-fluid videoThumb' src='img/video/cover_02.jpg' alt='Прошивка AntMiner L3+/L3++' title='Прошивка AntMiner L3+/L3++'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-6' type='checkbox' name='tabs'>
+									<label for='tab-6'> AntMiner S9/S9i/S9j </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=WEB_Antminer-S9-xilinx-3.9.0-asicdip.tar.gz&id=19 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner S9/S9i/S9j<strong> Release 3.9.0</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=SD_Antminer-S9-xilinx-3.9.0-asicdip.zip&id=19 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner S9/S9i/S9j<strong> Release 3.9.0</strong>  
+								  </a> <br/><a href='firmware-single.php?id=6' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner S9/S9i/S9j</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 2475</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href='https://youtu.be/EHev-shseMI'>
+												<img class='img-fluid videoThumb' src='img/video/cover_02.jpg' alt='Прошивка AntMiner S9/S9i/S9j' title='Прошивка AntMiner S9/S9i/S9j'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-7' type='checkbox' name='tabs'>
+									<label for='tab-7'> AntMiner T19 </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=antminer-t19-asicdip-v1.1.3-update.tar&id=26 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner T19<strong> Release 1.1.3</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=antminer-t19-asicdip-v1.1.3-sd.tar&id=26 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner T19<strong> Release 1.1.3</strong>  
+								  </a> <br/><a href='firmware-single.php?id=13' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner T19</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 36</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href=''>
+												<img class='img-fluid videoThumb' src='' alt='Прошивка AntMiner T19' title='Прошивка AntMiner T19'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+							
+								<div class='tab'>
+									<input id='tab-8' type='checkbox' name='tabs'>
+									<label for='tab-8'> AntMiner S19 </label>
+								<div class='tab-content custom-color'><br/>	
+								<p>
+									<a class="btn uza-btn btn-5 mt-4 customBtnStart-2" 
+									href="counter/download.php?file=antminer-s19-asicdip-v1.1.3-update.tar&id=36 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong>Прошивка </strong>AntMiner S19<strong> Release 1.1.3</strong>  
+								    </a> 
+								  <a class="btn uza-btn btn-5 mt-4 customBtnStart-2" style="display:inline-block" 
+									href="counter/download.php?file=antminer-s19-asicdip-v1.1.3-sd.tar&id=36 "> &nbsp; 
+									<i class="fa fa-download"></i> <strong> SD образ</strong> AntMiner S19<strong> Release 1.1.3</strong>  
+								  </a> <br/><a href='firmware-single.php?id=15' class='btn uza-btn btn-3 mt-4 customBtnStart-3'>Весь репозиторий AntMiner S19</a>
+								  </p><br/>
+								  
+								  <p class='downloadRelease'>Скачан: <em> 35</em></p>
+								 
+								  <div class='row'>	
+									<div class='col-12 col-lg-6'>
+										<p>Ознакомиться с преимуществами прошивки и основными функциями, Вы можете просмотрев 2-х минутное видео:</p>
+									</div>
+									<div class='col-12 col-lg-2'>
+										<div class='col-lg-12 col-md-4 col-6 thumb' style='margin-left: 10px;'>
+											<a data-fancybox='gallery' href=''>
+												<img class='img-fluid videoThumb' src='' alt='Прошивка AntMiner S19' title='Прошивка AntMiner S19'> 
+											</a>
+										</div>
+									</div>
+									
+								   </div>
+								  
+								</div>
+							</div>
+										
+				
+				
+				
+                </div>				
+
+            </div>
+			
+			<div class="row">
+                <div class="col-12 text-center mt-30">
+                    <a href="/firmware.php" class="customBtnStart-1">Посмотреть все..</a>
+                </div>
+            </div>
+                
+        </div>
+      
+
+        <!-- Border -->
+        <div class="container section-padding-80-0">
+            <div class="border-line"></div>
+        </div>
+
+        <!-- Background Curve -->
+        <div class="portfolio-bg-curve ">
+            <img src="./img/core-img/curve-3.png" alt="background-curve-angle-left" title="background-curve-angle-left">
+        </div>
+    </section>
+    <!-- ***** Frmware Area End ***** -->
+
+
+    <!-- ***** Feedback list Start ***** -->
+        <!-- ***** Feedback list End ***** -->	
+	
+	
+	<!-- Partneship Area Start -->
+	
+<section class="uza-why-choose-us-area section-padding-80-0">
+<div class="uza-cta-area section-padding-0-80">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 col-lg-9">
+                <div class="cta-content mb-80">                   
+                    <p class="feedCap">Хотите сотрудничать с нами?</p>
+                    <p class="partnerSub">Нашим партнерам мы предлагаем выгодное сотрудничество</p>
+					<p>Компания Asicdip предлагает особые условия партнерства для владельцев и администраторов крупных майнинг ферм. Для оптовых продавцов майнинг оборудования и крупных ремонтных сервисов!</p>
+					<p class="partnerSub">Как партнер Вы получите:</p>
+                    <ul>
+                      <li><i class="fa fa-check" aria-hidden="true"></i> Персональную сборку прошивки с Вашим логотипом и вашей комиссией</li>
+                      <li><i class="fa fa-check" aria-hidden="true"></i> Техническую поддержку 24/7 по интеграции и настройки прошивки </li>
+                      <li><i class="fa fa-check" aria-hidden="true"></i> Приоритетность обновлений - новые версии прошивки, до официальных релизов </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3">
+				<a href="http://asicdip.com/contact" class="btn uza-btn btn-2 customBtnStart-1" data-animation="fadeInUp" data-delay="700ms">Связаться с нами</a>                        
+            </div>
+			
+        </div>
+    </div>
+</div>
+</section>    <!-- Partneship Area End -->
+	
+
+    <!-- ***** Footer Area Start ***** -->
+    <footer class="footer-area section-padding-80-0">
+        <div class="container">
+            <div class="row justify-content-between">
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-footer-widget mb-80">
+                        <!-- Widget Title -->
+                        <p class="widget-title">Поддержка</p>
+
+                        <!-- Footer Content -->
+                        <div class="footer-content mb-15">
+							<div class="phoneSvg">
+							<!-- ***** phone24 icon ***** -->
+								<a href="https://t.me/asicdip_firmware" class="telegram" title="Поддержка 24/7">
+																	</a>
+							</div>
+							<br/>
+                            <!-- <p>  <br> -->
+							<p> <a href="https://t.me/asicdip" class="telegram" data-toggle="tooltip" data-placement="top" title="Telegram"><i class="fa fa-telegram"></i> Аsicdip </a> </p>
+                        </div>
+                        <p class="mb-0">24/7 профессиональная поддержка </p>
+                        <!--<p class="mb-0">Mon - Fri: 9:00 - 19:00 <br> Closed on Weekends</p>-->
+                    </div>
+                </div>
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-footer-widget mb-80">
+                        <!-- Widget Title -->
+                        <p class="widget-title">Быстрые ссылки</p>
+
+                        <!-- Nav -->
+                        <nav>
+														
+                            <ul class="our-link">
+                                <li> <span class='curentNoLinkBottom'> Главная </span></li>                           
+                                <li> <a href='contact'>Контакты</a></li>
+                                <li> <a href='firmware'>Прошивки</a></li>
+                                <li> <a href='catalog'>Каталог</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+
+              
+
+                <!-- Single Footer Widget -->
+                <div class="col-12 col-sm-6 col-lg-4">
+                    <div class="single-footer-widget mb-80">
+                        <!-- Widget Title -->                        
+                        <p class="widget-title"> О нас</p>
+                        <p>Кастомное программное обеспечение для майнинг оборудования</p>
+
+						<br/>
+                        <!-- Social Info -->
+                        <div class="footer-social-info">
+                            <a href="mailto:info@asicdip.com" class="email" data-toggle="tooltip" data-placement="top" title="Email"><i class="fa fa-envelope"></i></a>
+                            <!-- <a href="https://wa.me/380677179367?text=Hi%20asicdip%21%0AI%20have%20a%20question%21%0A" class="whatsapp" data-toggle="tooltip" data-placement="top" title="WhatsApp"><i class="fa fa-whatsapp"></i></a>-->
+                            <a href="https://wa.me/77714134933" class="whatsapp" data-toggle="tooltip" data-placement="top" title="WhatsApp"><i class="fa fa-whatsapp"></i></a>
+                            <a href="weixin://dl/chat?asicdipcom" class="comments" data-toggle="tooltip" data-placement="top" title="WeChat"><i class="fa fa-comments"></i></a>
+							<a href="https://www.facebook.com/asicdip/" class="facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+							<a href="https://t.me/asicdip" class="telegram" data-toggle="tooltip" data-placement="top" title="Telegram"><i class="fa fa-telegram"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+		
+	 <div class="row" style="margin-bottom: 30px;">                
+		<p class='copyright'>Copyright &copy; 2015 - <script>document.write(new Date().getFullYear());</script>| All rights reserved | Designed by <a href="https://teleg.run/vProMadrid">&nbsp; vPro &nbsp; </a> | Powered for <span> www.asicdip.com </span> | <a href="https://asicdip.com/sitemap"> Sitemap </a></p>
+	 </div>
+        </div>
+    </footer>    <!-- ***** Footer Area End ***** -->
+	<!-- jQuery -->
+   
+	
+    <!-- ******* All JS Files ******* -->
+	 <script src="js/jquery.min.js"></script>
+	
+	<!-- Transition animation Анимация плавного перехода к блоку -->
+	<script>
+	 $(document).ready(function(){
+		$("#ancorAnime").on("click","a", function (event) {
+			event.preventDefault();
+			var id  = $(this).attr('href'),
+				top = $(id).offset().top;
+			$('body,html').animate({scrollTop: top}, 1500);
+		});
+	});
+	</script>
+	
+	<!-- Микроформаты -->
+	<script type='application/ld+json'> 
+		{
+		  "@context": "http://www.schema.org",
+		  "@type": "Organization",
+		  "name": "ООО АСІК ДІП",
+		  "url": "http://asicdip.com/",
+		  "logo": "https://asicdip.com/img/core-img/asicdip-logo.png",
+		  "description": "Прошивки для майнинг оборудования",
+		  "address": {
+			"@type": "PostalAddress",
+			"streetAddress": "ул.Кравчука, 15",
+			"postOfficeBoxNumber": "info@asicdip.com",
+			"addressLocality": "Луцк",
+			"addressRegion": "Волынская обл.",
+			"postalCode": "43026",
+			"addressCountry": "Украина"
+		  },		  
+		  "contactPoint": {
+			"@type": "ContactPoint",
+			"telephone": "+38(099)300-77-19",
+			"contactType": "Organizations"
+		  }
+		}
+	</script>
+	
+    <!-- jQuery js
+    <script src="js/jquery.min.js"></script>  -->
+    <!-- Popper js 
+    <script src="js/popper.min.js"></script> -->
+    <!-- Bootstrap js
+    <script src="js/bootstrap.min.js"></script>  -->
+    <!-- All js -->
+    <script src="js/uza.bundle.js" ></script> <!-- Анимация меню и карусель тут -->
+    <!-- Active js -->
+    <script src="js/default-assets/active.js" async></script>
+	
+	<!-- ************** for Galery ************** -->
+	<!-- jQuery
+	<script src="js/js-galery/jquery-3.2.1.min.js"></script>  -->
+	<!-- Popper 
+	<script src="js/js-galery/popper.min.js"></script> -->
+	<!-- Bootstrap JS 
+	<script src="js/js-galery/bootstrap.min.js"></script> -->
+	<!-- fancyBox -->
+	<script src="js/js-galery/jquery.fancybox.min.js" async></script>
+	
+	<!--
+	<script>
+		function asyncCSS(href) {
+		var css = document.createElement('link');
+		css.rel = "stylesheet";
+		css.href = href;
+		document.head.appendChild(css);
+		}
+		asyncCSS('style.css');
+	</script>
+	-->
+</body>
+
+</html>

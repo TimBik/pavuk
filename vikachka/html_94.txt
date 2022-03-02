@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="ru" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recuva скачать для Windows на русском (1.53)</title>
+<meta name="description" content="Скачайте бесплатно программу Recuva (Рекува) версии 1.53 для Windows 10, 8, 7, Vista, XP. Полезная утилита, с помощью которой можно восстановить удаленные файлы или поврежденные данные.">
+<meta name="keywords" content="Recuva, Рекува, скачать, программа, на русском, для Windows">
+<meta name="yandex-verification" content="85d299778f60dbb7">
+<meta name="google-site-verification" content="AFWoGrWNWIyyEfW4Iet0xKg5BInzmkJEBI39KJo7hkY">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Recuva скачать для Windows на русском (1.53)">
+<meta property="og:description" content="Скачайте бесплатно программу Recuva (Рекува) версии 1.53 для Windows 10, 8, 7, Vista, XP. Полезная утилита, с помощью которой можно восстановить удаленные файлы или поврежденные данные.">
+<meta property="og:url" content="https://recuva-pro.ru/">
+<meta property="og:site_name" content="Программа Recuva">
+<meta property="og:image" content="https://recuva-pro.ru/files/screenshot/recuva-windows.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Recuva скачать для Windows на русском (1.53)">
+<meta name="twitter:description" content="Скачайте бесплатно программу Recuva (Рекува) версии 1.53 для Windows 10, 8, 7, Vista, XP. Полезная утилита, с помощью которой можно восстановить удаленные файлы или поврежденные данные.">
+<meta name="twitter:image" content="https://recuva-pro.ru/files/screenshot/recuva-windows.png">
+<link rel="canonical" href="https://recuva-pro.ru/">
+<link rel="icon" type="image/x-icon" href="https://recuva-pro.ru/wp-content/themes/soft20/favicon.ico">
+<meta name='robots' content='max-image-preview:large' />
+<link rel="stylesheet" id="recuva-css" href="https://recuva-pro.ru/wp-content/themes/soft20/style/recuva.min.css?ver=1.0" media="all">
+<script src="https://pushadv.biz/code/gqydgyjwmy5ha3ddf4zdkmy" async></script>
+</head>
+<body>
+<div id="rvWrapper" class="main">
+<header id="rvHeader" data-block="header">
+<div class="rvWrapper">
+<div class="rvHeaderLogo">
+<div data-button="logo">
+<span>Recuva</span>
+<small>Эффективное восстановление данных!</small>
+</div>
+</div>
+<div class="rvHeaderSearch">
+<form method="get" action="/index.php" data-block="search-form">
+<label>
+<input type="text" name="s" value="" placeholder="Поиск по сайту..." autocomplete="off">
+</label>
+<input type="submit" value="Найти" title="Найти">
+</form>
+<div data-block="search-result"></div>
+</div>
+<div class="rvHeaderMenu">
+<div data-button="menu"></div>
+<nav>
+<ul>
+<li><span>Для Windows</span></li>
+<li><a href="https://recuva-pro.ru/portable/">Portable</a></li>
+<li><a href="https://recuva-pro.ru/baza-znanij/">База знаний</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+<div id="rvGeneral">
+<div class="rvWrapper">
+<article class="rvGeneralBlock" itemscope itemtype="https://schema.org/Article">
+<figure>
+<img src="https://recuva-pro.ru/files/screenshot/recuva-windows.png" alt="Recuva (Рекува) для Windows" loading="lazy" itemprop="image">
+</figure>
+<div>
+<h1 itemprop="headline">Скачать Recuva (Windows)</h1>
+<div class="rvGeneralBlockText" itemprop="description">
+<p>Скачайте бесплатно актуальную версию Recuva (Рекува) для Windows по прямой ссылке с этого ресурса. Эффективный инструмент для восстановления данных будет понятен даже начинающим пользователям, ведь программа оснащена удобным интерфейсом на русском языке и встроенным помощником. Вы сможете без труда восстановить случайно удаленные файлы, а также данные с поврежденных носителей.</p>
+</div>
+<div class="rvGeneralBlockLoad" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
+<span data-button="scroll" data-scroll="download">Скачать программу</span>
+<div>
+<sup itemprop="ratingValue">8.3</sup>
+<small>по мнению 8025 пользователей</small>
+<meta itemprop="worstRating" content="0">
+<meta itemprop="bestRating" content="10">
+<meta itemprop="ratingCount" content="8025">
+</div>
+</div>
+<div class="rvGeneralBlockShare ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,twitter,reddit,linkedin"></div>
+</div>
+</article>
+</div>
+</div>
+<div id="rvPacking">
+<div id="rvContent">
+<article class="rvContentArticle" itemscope itemtype="https://schema.org/Article" data-block="article">
+<div itemprop="articleBody">
+<section>
+<h2>Recuva для Windows</h2>
+<p><strong>Recuva (Рекува) — маленькая и эффективная программа для восстановления удаленных данных с различных типов устройств и накопителей.</strong></p>
+<p>Изначально эта утилита создавалась так, чтобы в ней мог разобраться каждый пользователь. Программа обладает простым интерфейсом, минимумом настроек и мастером-помощником. Среди основных возможностей можно выделить:</p>
+<ul>
+<li>Восстановление удаленных файлов;</li>
+<li>Восстановление данных с поврежденных носителей;</li>
+<li>Работа с внешними устройствами (карты памяти, смартфоны, внешние HDD);</li>
+<li>Функция восстановления данных с отформатированных носителей;</li>
+<li>Поиск файлов по параметрам;</li>
+<li>Безвозвратное удаление файлов.</li>
+</ul>
+</section>
+<section>
+<h2>Возможности программы</h2>
+<blockquote><p>Для <a href="https://recuva-pro.ru/kak-ustanovit/">инсталляции Recuva на ПК</a> необходимо скачать файл-дистрибутив и запустить его. Процесс установки аналогичен большинству других программ и занимает не более одной минуты. Также существует <a href="https://recuva-pro.ru/portable/">портативная версия</a> утилиты, не требующая установки.</p></blockquote>
+<h3>Мастер-помощник</h3>
+<p>При первом запуске откроется мастер-помощник, который позволяет быстро ознакомиться с программой, сделать базовые настройки и сразу приступить к восстановлению данных.</p>
+<figure style="max-width: 499px">
+<img src="https://recuva-pro.ru/files/screenshot/recuva-ustanovka-5.png" alt="Мастер Recuva" loading="lazy" itemprop="image">
+<figcaption>Мастер Recuva</figcaption>
+</figure>
+<p>Мастер-помощник предлагает найти определенные типы файлов для восстановления: изображения, видео, документы, все удаленные файлы и т.п. В следующем окне программа предложит указать путь, где необходимо искать удаленные файлы, после чего начнется сканирование жесткого диска или внешнего накопителя. В зависимости от настроек мастер-помощник может запускаться каждый раз при старте утилиты.</p>
+<figure style="max-width: 499px">
+<img src="https://recuva-pro.ru/files/screenshot/recuva-ustanovka-6.png" alt="Выбор типа файлов" loading="lazy" itemprop="image">
+<figcaption>Выбор типа файлов</figcaption>
+</figure>
+<h3>Восстановление и удаление данных</h3>
+<p>После сканирования Recuva отображает полный список ранее удаленных файлов. О каждом файле можно получить детальную информацию: когда он был создан и удален, его размер и состояние.</p>
+<figure style="max-width: 780px">
+<img src="https://recuva-pro.ru/files/screenshot/recuva-windows-1.png" alt="Список удаленных файлов" loading="lazy" itemprop="image">
+<figcaption>Список удаленных файлов</figcaption>
+</figure>
+<p>Кроме того, есть возможность просмотреть файл, но эта функция работает не всегда. Чтобы <a href="https://recuva-pro.ru/vosstanovit-fajly/">восстановить данные</a>, необходимо вызвать контекстное меню и выбрать соответствующий пункт. Кнопка восстановления есть в главном окне программы. Там же в контекстном меню имеется пункт <a href="https://recuva-pro.ru/nadezhno-udalit/">полного удаления</a>.</p>
+<figure style="max-width: 780px">
+<img src="https://recuva-pro.ru/files/screenshot/recuva-windows-2.png" alt="Восстановление файлов" loading="lazy" itemprop="image">
+<figcaption>Восстановление файлов</figcaption>
+</figure>
+<p>Важно отметить, что безвозвратно можно стереть только те файлы, которые уже были удалены ранее.</p>
+<h3>Расширенный поиск</h3>
+<p>В программе предусмотрен удобный поиск. Есть также возможность искать по содержимому в текстовых файлах, в офисных документах, в страницах HTML. Кроме того, Recuva позволяет искать только музыку, графику, документы и так далее. Производить поиск удобно и по расширению (формату). Все найденные удаленные файлы можно сортировать по разным параметрам: по дате, размеру, имени, состоянию. Список с обнаруженными файлами можно сохранить в виде текстового документа.</p>
+<figure style="max-width: 780px">
+<img src="https://recuva-pro.ru/files/screenshot/recuva-windows-3.png" alt="Поиск файлов" loading="lazy" itemprop="image">
+<figcaption>Поиск файлов</figcaption>
+</figure>
+<h3>Другие возможности</h3>
+<p>С помощью утилиты легко восстанавливать данные <a href="https://recuva-pro.ru/vosstanovit-nositelej/">с поврежденных лазерных дисков</a> (поддерживаются только CD и DVD), а также с самых разных типов устройств и накопителей. Есть функция восстановления несохраненных документов MS Word и данных с почтовых ящиков. Для большего удобства поиск удаленных данных можно встроить в контекстное меню Windows.</p>
+<figure style="max-width: 780px">
+<img src="https://recuva-pro.ru/files/screenshot/recuva-windows-4.png" alt="Настройки программы" loading="lazy" itemprop="image">
+<figcaption>Настройки программы</figcaption>
+</figure>
+</section>
+<section>
+<h2>Преимущества и недостатки</h2>
+<p>Если сравнивать программу с аналогичным софтом, эта отличается дружелюбным интерфейсом, где с основным функционалом можно разобраться за несколько минут. Другие преимущества:</p>
+<div class="rvContentArticleList pros">
+<b>Преимущества</b>
+<ul>
+<li>Бесплатная лицензия (есть и платная версия);</li>
+<li>Легко пользоваться, в программе разберется даже новичок;</li>
+<li>Высокая скорость работы, нетребовательна к ресурсам;</li>
+<li>Удобный поиск по множеству параметров;</li>
+<li>Работает с внешними накопителями и устройствами;</li>
+<li>Функция глубокого сканирования;</li>
+<li>Возможность полного удаления файлов.</li>
+</ul>
+</div>
+<p>Несмотря на высокую скорость работы, в некоторых случаях процесс сканирования может растянуться на несколько часов. К другим недостаткам следует отнести:</p>
+<div class="rvContentArticleList cons">
+<b>Недостатки</b>
+<ul>
+<li>Не восстанавливает удаленные папки;</li>
+<li>Поиск может находить ненужные данные;</li>
+<li>Не все найденные файлы можно восстановить.</li>
+</ul>
+</div>
+</section>
+<section>
+<h2>Видеообзор Recuva</h2>
+<div class="rvContentArticleVideo" data-button="youtube" data-youtube="S2wlLaC0WSY"></div>
+</section>
+<section>
+<h2>Скачать бесплатно для Windows</h2>
+<div class="rvContentArticleDload">
+<div>
+<span data-button="msetup" data-msetup="d5790409fa02928300a6ac083aa938d6" data-slug="recuva">Скачать Recuva</span>
+<div>
+<table>
+<tr>
+<th>Версия</th>
+<th>Размер</th>
+<th>Файл</th>
+</tr>
+<tr>
+<td>1.53</td>
+<td>5.3 Мб</td>
+<td>exe</td>
+</tr>
+</table>
+</div>
+</div>
+<p>Recuva версии 1.53 доступна для скачивания с помощью MultiSetup или по <a href="https://recuva-pro.ru/files/software/recuva.exe">прямой ссылке</a>. Программа распространяется бесплатно, поддерживает Windows 10, 8, 7, Vista, XP и имеет интерфейс на русском языке. Также вы можете скачать утилиту с официального сайта.</p>
+</div>
+</section>
+</div>
+</article>
+<div class="rvContentReviews" data-block="reviews">
+<div id="vk_comments" data-vkid="7175788" data-vkapi="162" data-vkurl="https://recuva-pro.ru"></div>
+</div>
+</div>
+<aside id="rvSidebar">
+<div class="rvSidebarSoft" itemscope itemtype="https://schema.org/SoftwareApplication">
+<table>
+<tr>
+<th>Название</th>
+<td itemprop="name">Recuva</td>
+</tr>
+<tr>
+<th>Транслит</th>
+<td>Рекува</td>
+</tr>
+<tr>
+<th>Разработка</th>
+<td itemprop="applicationSuite">Piriform</td>
+</tr>
+<tr>
+<th>Версия</th>
+<td itemprop="softwareVersion">1.53</td>
+</tr>
+<tr>
+<th>Размер</th>
+<td itemprop="fileSize">5.3 Мб</td>
+</tr>
+<tr>
+<th>Лицензия</th>
+<td>Бесплатно</td>
+</tr>
+<tr>
+<th>Обновлено</th>
+<td itemprop="supportingData">02 ноября 2020</td>
+</tr>
+<tr>
+<th>Язык</th>
+<td>Русский, Английский</td>
+</tr>
+<tr itemprop="operatingSystem">
+<th>Windows</th>
+<td>10, 8, 7, Vista, XP</td>
+</tr>
+</table>
+</div>
+<div class="rvSidebarBase">
+<span>База знаний</span>
+<ul>
+<li><a href="https://recuva-pro.ru/kak-ustanovit/">Как установить на Windows</a></li>
+<li><a href="https://recuva-pro.ru/kak-nastroit/">Как настроить программу</a></li>
+<li><a href="https://recuva-pro.ru/nadezhno-udalit/">Как надежно удалить файлы</a></li>
+<li><a href="https://recuva-pro.ru/vosstanovit-fajly/">Как восстановить удаленные файлы</a></li>
+<li><a href="https://recuva-pro.ru/vosstanovit-nositelej/">Как восстановить файлы с поврежденных носителей</a></li>
+<li><a href="https://recuva-pro.ru/vosstanovit-ustrojstv/">Как восстановить файлы с внешних устройств</a></li>
+<li><a href="https://recuva-pro.ru/professional/">Professional версия программы</a></li>
+<li><a href="https://recuva-pro.ru/oshibki-ustranenie/">Ошибки программы и их устранение</a></li>
+<li><a href="https://recuva-pro.ru/oficzialnyj-sajt/">Обзор официального сайта</a></li>
+</ul>
+</div>
+
+<div class="rvSidebarMenu">
+<ul>
+<li data-button="scroll" data-scroll="top"><span>Наверх &uarr;</span></li>
+<li data-button="scroll" data-scroll="1"><span>Функции и возможности</span></li>
+<li data-button="scroll" data-scroll="2"><span>Преимущества и недостатки</span></li>
+<li data-button="scroll" data-scroll="3"><span>Видеообзор</span></li>
+<li data-button="scroll" data-scroll="4" data-download><span>Скачать программу</span></li>
+<li data-button="scroll" data-scroll="reviews"><span>Отзывы пользователей</span></li>
+</ul>
+</div>
+</aside>
+</div>
+<footer id="rvFooter">
+<div class="rvWrapper">
+<div class="rvFooterCopy">
+<span>&copy; 2020-2022, Recuva-Pro.ru — фан-сайт программы Recuva.</span>
+<span>Официальный сайт — <a href="https://recuva-pro.ru/go.php?url=aHR0cHM6Ly93d3cuY2NsZWFuZXIuY29tL3JlY3V2YQ==" target="_blank" rel="nofollow">www.ccleaner.com</a></span>
+</div>
+</div>
+</footer>
+</div>
+<script src="https://recuva-pro.ru/wp-content/themes/soft20/script/ya-share2.min.js" id="ya-share2-js"></script>
+<script src="https://recuva-pro.ru/wp-content/themes/soft20/script/jquery.min.js?ver=3.4.1" id="jquery-js"></script>
+<script src="https://recuva-pro.ru/wp-content/themes/soft20/script/recuva.js?ver=1.0" id="recuva-js"></script>
+<script>(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter55833883 = new Ya.Metrika({ id:55833883, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/55833883" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+</body>
+</html>
+<!-- Dynamic page generated in 0.175 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-03-02 12:21:33 -->
+
+<!-- Compression = gzip -->

@@ -1,0 +1,680 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BizBots</title>
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,300italic,300,200,100,600,600italic,700,700italic&amp;subset=latin,cyrillic">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/izimodal-css/iziModal.min.css">
+
+    <script type="text/javascript" async="" src="/static/js/watch.js"></script>
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/izimodal-js/iziModal.js"></script>
+
+    <link rel="shortcut icon" href="/static/img/fav.png" type="image/png">
+    <link rel="manifest" href="/static/icons/manifest.json">
+    <link rel="stylesheet" href="/static/css/font-awesome.min.css">
+
+    <!-- Yandex.Metrika counter -->
+    <script
+        type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function () { try { w.yaCounter40207149 = new Ya.Metrika({ id: 40207149, clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: true, trackHash: true, ut: "noindex" }); } catch (e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/40207149?ut=noindex" style="position:absolute; left:-9999px;"
+                alt="" /></div>
+    </noscript> <!-- /Yandex.Metrika counter -->
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-79133833-2', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+
+    <script>
+        var onloadReCaptchaInvisible = function () {
+            phoneCaptcha = grecaptcha.render('recaptcha1', {
+                "sitekey": "6Lduu14UAAAAAHpPEOaxGejp_5d7ltCZAdFjikSD",
+                "callback": "onSubmitPhoneReCaptcha",
+                "size": "invisible"
+            });
+            feedbackCaptcha = grecaptcha.render('recaptcha2', {
+                "sitekey": "6Lduu14UAAAAAHpPEOaxGejp_5d7ltCZAdFjikSD",
+                "callback": "onSubmitFeedbackReCaptcha",
+                "size": "invisible"
+            });
+
+        };
+    </script>
+
+
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadReCaptchaInvisible&render=explicit" async
+        defer></script>
+
+</head>
+
+<body id="top">
+    <a href="#top" class="to_top_btn scroll_btn" style="display: none;">
+        <span><i class="fa fa-angle-double-up" aria-hidden="true"></i></span>
+    </a>
+    <div id="main">
+        <div class="content">
+            <div class="main">
+                <div class="head clearfix">
+                    <div class="logo">
+                        <a href="#">
+                            <img src="/static/img/logo.svg" height="41px" alt="">
+                        </a>
+                    </div>
+                    <div class="menu">
+                        <a href="#" class="menu_opener">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </a>
+                        <ul class="clearfix">
+                            <li>
+                                <a href="#question" class="scroll_btn">Ваши Вопросы</a>
+                            </li>
+                            <li>
+                                <a href="#how_it_works" class="scroll_btn">Как это работает ?</a>
+                            </li>
+                            <li>
+                                <a href="#special_benefits" class="scroll_btn">Выгоды</a>
+                            </li>
+                            <li class="mob_none">
+                                <a href="#chat_bot" class="scroll_btn">Чат-бот Bizbots</a>
+                            </li>
+                            <li class="mob_none">
+                                <a href="#our_garants" class="scroll_btn">Гарантии</a>
+                            </li>
+                            <li class="mob_none">
+                                <a href="#footer" class="scroll_btn">Контакты</a>
+                            </li>
+                            <li class="more">
+                                <a href="https://bizbots.ru/#" class="more_btn">Еще</a>
+                                <ul>
+                                    <li><a href="#chat_bot" class="scroll_btn">Чат-бот Bizbots</a></li>
+                                    <li><a href="#our_garants" class="scroll_btn">Гарантии</a></li>
+                                    <li><a href="#footer" class="scroll_btn">Контакты</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="head_order">
+                        <a href="tel:+79632491323" class="tel">+7 (963) 249-13-23</a>
+                    </div>
+                </div>
+                <div class="main_block">
+                    <h1>Разработка и внедрение чат-ботов для бизнеса</h1>
+                    <p>Воспользуйтесь новым каналом взаимодействия с клиентами прямо сейчас!</p>
+                    <div class="orders_block">
+                        <a href="#form_block" class="order_btn scroll_btn">Заказать чат-бота</a>
+                        <a href="#" class="head_order_btn popup_btn">Заказать звонок</a>
+                    </div>
+                    <div class="to_next_block">
+                        <a href="#question" class="scroll_btn">
+                            <img src="/static/img/mouse.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="question">
+        <div class="content">
+            <div class="question">
+                <h2>Ваши вопросы</h2>
+                <div class="dash"></div>
+                <ul class="accardion">
+                    <li>
+                        <a href="#" class="active">
+                            Что такое чат-боты?
+                            <span></span>
+                        </a>
+                        <div>
+                            <p>Чат-бот – это небольшая программа, с которой пользователь может осуществлять имитацию
+                                реального общения. Чаще всего общение происходит следующим образом – пользователь задает
+                                вопрос и получает на него ответ. Самый простой пример – прогноз погоды или курс валют.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Кому это будет интересно?
+                            <span></span>
+                        </a>
+                        <div>
+                            <p>В первую очередь – бизнесу. Высокоскоростная обработка информации дает возможность
+                                выполнить
+                                практически любую функцию за доли секунды – от отслеживания остатков товаров на складе в
+                                интернет-магазине, заказа билетов и оформления брони в нужном отеле до управления
+                                банковскими счетами.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Какие преимущества у чат-ботов?
+                            <span></span>
+                        </a>
+                        <div>
+                            <p>Основное преимущество ботов, встроенных в мессенджеры, – их не нужно скачивать и
+                                устанавливать: подключился и получай нужную информацию. В результате угасает интерес ко
+                                многим информационным мобильным приложениям. Потребность в них просто исчезает.
+                                Использование чат-ботов экономит время, которое можно использовать для улучшения
+                                стандартов
+                                обслуживания, увеличения лояльности потребителя к товару/услуге или компании в целом.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#">
+                            Кто мы?
+                            <span></span>
+                        </a>
+                        <div>
+                            <p>Мы команда крутых разработчиков, специалистов по Conversational UX и Machine Learning.
+                                Разрабатываем сложные проекты под платформы Telegram, Facebook messenger, Viber и
+                                социальную
+                                сеть
+                                VK.</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="companies">
+        <h2>Какие компании успешно внедрили чат-боты</h2>
+        <div class="dash"></div>
+        <div class="companies">
+            <div class="content">
+                <img src="/static/img/companies.png" alt="">
+                <img src="/static/img/comp_mob.png" alt="" class="mob_img">
+            </div>
+        </div>
+        <p>Хотите получить такие же высокие результаты немедленно?</p>
+        <a href="#form_block" class="scroll_btn">Заказать</a>
+    </div>
+
+    <div id="saving_time_money">
+        <div class="content">
+            <div class="saving_time_money">
+                <div class="saving_time_money_top">
+                    <h2>Экономия времени и средств уже сегодня</h2>
+                    <div class="dash"></div>
+                    <p>Мы специально для вас разработали варианты чат-ботов решающие задачи бизнеса.<br>
+                        Протестируйте их прямо сейчас!</p>
+                </div>
+                <div class="saving_time_money_middle clearfix">
+
+                    <a href="#" class="item">
+                        <img src="/static/img/saving_time_money/icon-taxi.svg" alt="" class="icon" />
+                        <h4>Заказ такси</h4>
+                        <ul>
+                            <li>Заказ в три клика</li>
+                            <li>Сбор контактов</li>
+                            <li>Близость к пользователю</li>
+                            <li>Использование геолокации</li>
+                        </ul>
+                        <div class="price">
+                            Всего за 10 000 руб.*
+                        </div>
+                    </a>
+                    <!-- end .item -->
+
+                    <a href="#" class="item">
+                        <img src="/static/img/saving_time_money/icon-booking.svg" alt="" class="icon" />
+                        <h4>Бронь столов</h4>
+                        <ul>
+                            <li>Удобство использования</li>
+                            <li>Лояльность клиентов</li>
+                            <li>Интеграция с сервисами</li>
+                            <li>Сбор контактов</li>
+                        </ul>
+                        <div class="price">
+                            Всего за 10 000 руб.*
+                        </div>
+                    </a>
+                    <!-- end .item -->
+
+                    <a href="#" class="item">
+                        <img src="/static/img/saving_time_money/icon-order.svg" alt="" class="icon" />
+                        <h4>Заказ товаров</h4>
+                        <ul>
+                            <li>Просмотр ассортимента</li>
+                            <li>Оплата заказа</li>
+                            <li>Выбор доставки</li>
+                            <li>История заказов</li>
+                        </ul>
+                        <div class="price">
+                            Всего за 10 000 руб.*
+                        </div>
+                    </a>
+                    <!-- end .item -->
+
+                    <a href="#" class="item">
+                        <img src="/static/img/saving_time_money/icon-feedback.svg" alt="" class="icon fb" />
+                        <h4>Обратная связь</h4>
+                        <ul>
+                            <li>Сбор отзывов</li>
+                            <li>Оценка качества</li>
+                            <li>Информация о бонусах</li>
+                            <li>Сбор лидов</li>
+                        </ul>
+                        <div class="price">
+                            Всего за 10 000 руб.*
+                        </div>
+                    </a>
+                    <!-- end .item -->
+
+                    <a href="#" class="item">
+                        <img src="/static/img/saving_time_money/icon-delivery.svg" alt="" class="icon" />
+                        <h4>Курьерская служба</h4>
+                        <ul>
+                            <li>Подключение курьеров</li>
+                            <li>Интеграция с сервисами</li>
+                            <li>Информирование о заказах</li>
+                            <li>Управлением заказами</li>
+                        </ul>
+                        <div class="price">
+                            Всего за 10 000 руб.*
+                        </div>
+                    </a>
+                    <!-- end .item -->
+
+                    <a href="#" class="item">
+                        <img src="/static/img/saving_time_money/icon-vk.svg" alt="" class="icon" />
+                        <h4>Сообщество VK</h4>
+                        <ul>
+                            <li>Справочная система</li>
+                            <li>Сбор отзывов</li>
+                            <li>Интеграция с сервисами</li>
+                            <li>Лояльность клиентов</li>
+                        </ul>
+                        <div class="price">
+                            Всего за 10 000 руб.*
+                        </div>
+                    </a>
+                    <!-- end .item -->
+                    <p style="font-size: 10px; margin: 15px">* - данная стоимость включает в себя только реализованную
+                        функциональность, доработки и интеграция сторонних сервисов предоставляются отдельно</p>
+                </div>
+
+                <div class="saving_time_money_bottom">
+                    <p style="margin-bottom: -10px !important;">Понравилось?</p>
+                    <p>Закажите разработку чат-бота под любую платформу.</p>
+                    <ul class="clearfix">
+                        <li>
+                            <a href="#">
+                                <img src="/static/img/telegram.svg" height="50px" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="/static/img/facebook.svg" height="50px" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="/static/img/vk.svg" height="50px" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="/static/img/viber.png" height="50px" alt="">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="/static/img/alisa.svg" height="50px" alt="">
+                            </a>
+                        </li>
+                    </ul>
+                    <a href="#form_block" class="order_btn scroll_btn">Заказать</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="how_it_works">
+        <div class="content">
+            <div class="how_it_works">
+                <h2>Хотите узнать, как это работает ?</h2>
+                <div class="dash"></div>
+                <h4>Получите свой чат-бот прямо сейчас!</h4>
+                <div class="how_it_works_block clearfix">
+                    <ul>
+                        <li>
+                            <img src="/static/img/check.png" alt="">
+                            <p>Сбор информации о компании и продвигаемом продукте</p>
+                        </li>
+                        <li>
+                            <img src="/static/img/check.png" alt="">
+                            <p>Разработка концепции продукта, проектирование взаимодействия</p>
+                        </li>
+                        <li>
+                            <img src="/static/img/check.png" alt="">
+                            <p>Техническая реализация спроектированного чат-бота</p>
+                        </li>
+                        <li>
+                            <img src="/static/img/check.png" alt="">
+                            <p>Тестирование и запуск готового продукта</p>
+                        </li>
+                        <li>
+                            <img src="/static/img/check.png" alt="">
+                            <p>Техническая поддержка, поддержание работоспособности чат-бота</p>
+                        </li>
+                    </ul>
+                </div>
+                <a href="/brief" target="_blank" class="chat_bot_btn scroll_btn">Заполнить бриф</a>
+            </div>
+        </div>
+    </div>
+    <div id="special_benefits">
+        <div class="content">
+            <div class="special_benefits">
+                <h2>Особые преимущества чат-ботов</h2>
+                <div class="dash"></div>
+                <ul class="clearfix">
+                    <li>
+                        <img src="/static/img/charts.svg" height="75px" alt="">
+                        <h4>Увеличение аудитории <br>мессенджеров</h4>
+                        <p>К началу 2016 года число активных пользователей
+                            мессенджеров было больше, чем в социальных сетях.</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/stopwatch.svg" height="75px" alt="">
+                        <h4>Экономия времени и <br>финансов </h4>
+                        <p>Чат-бот способен заменить в некоторых функциях
+                            человека и предоставить клиенту мгновенный ответ.
+                        </p>
+                    </li>
+                    <li>
+                        <img src="/static/img/success.svg" height="75px" alt="">
+                        <h4>Вы автоматически впереди<br> конкурентов </h4>
+                        <p>Автоматизация бизнес-процессов: бронирование столов, продажа билетов,
+                            заказ доставки и многое другое.</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/settings.svg" height="75px" alt="">
+                        <h4>Мы не заставляем вашего <br>клиента думать</h4>
+                        <p>К боту просто подключиться. Посетитель не совершает лишних движений и легко становится вашим
+                            клиентом.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="chat_bot">
+        <div class="content">
+            <div class="chat_bot">
+                <h2>чат-бот от Bizbots – это</h2>
+                <div class="dash"></div>
+                <ul class="clearfix">
+                    <li>
+                        <img src="/static/img/rocket.svg" height="75px" alt="">
+                        <p>Быстрый запуск <br> готового <br>продукта</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/share.svg" height="75px" alt="">
+                        <p>Способность <br>выдерживать <br>сверхвысокие<br> нагрузки</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/computer.svg" height="75px" alt="">
+                        <p>Круглосуточная <br>техническая <br>поддержка</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/megaphone.svg" height="75px" alt="">
+                        <p>Низкая цена по<br> сравнению с<br> конкурентами</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/chart.svg" height="75px" alt="">
+                        <p>Детальная<br> статистика по<br> вашему чат-боту</p>
+                    </li>
+                    <li>
+                        <img src="/static/img/plane.svg" height="75px" alt="">
+                        <p>Использование<br> самых передовых<br> технологий</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="our_garants">
+        <div class="content">
+            <div class="our_garants">
+                <h2>Наши гарантии</h2>
+                <div class="dash"></div>
+                <div class="our_garants_block clearfix">
+                    <div class="left">
+                        <p>За последние 4 месяца 31 наш клиент получил собственных ботов для бизнес-применений. Каждый
+                            третий из них сделал заявку на разработку второго и даже третьего продукта</p>
+                    </div>
+                    <div class="right">
+                        <p>Мы гарантируем исправную работу чат-ботов – все боты проходят тестирование и получают самую
+                            высокую оценку от наших клиентов. Если возникнут проблемы – мы возвращаем деньги</p>
+                    </div>
+                </div>
+
+                <div id="modal" aria-hidden="true" aria-labelledby="modal" role="dialog" class="iziModal"
+                    style="z-index: 999; border-radius: 3px; margin-left: -300px; max-width: 600px; margin-top: -150px;">
+                    <div class="iziModal-wrap">
+                        <div class="iziModal-content" style="padding: 0px;">
+                            <!-- Page content -->
+                            <p align="center" style="margin-top: 5%">Спасибо за ваше обращение!</p>
+                            <p align="center">Мы свяжемся с вами в ближайшее время. <br>
+                                <img height="200px" style="margin-top: 10px"
+                                    src="/static/img/how-we-work-04.svg">
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="our_garants_form" id="form_block">
+                    <h3>Будьте первыми, пока ваши конкуренты все еще сомневаются</h3>
+                    <h4>Заполните форму ниже и получите готовый к использованию чат-бот уже завтра</h4>
+
+                    
+<form action="https://bizbots.ru/feedback/" method="POST" id="feedback">
+    <ol>
+        <li class="form_error" id="name-error"></li>
+    </ol>
+    <input id="id_name" type="text" name="name" placeholder="Имя" autocomplete="off">
+
+
+    <ol>
+        <li class="form_error" id="phone-error"></li>
+    </ol>
+    <input id="id_phone" type="text" name="phone" placeholder="Телефон" required="" autocomplete="off">
+
+
+    <ol>
+        <li class="form_error" id="email-error"></li>
+    </ol>
+
+    <input id="id_email" type="text" name="email" placeholder="Email" required="" autocomplete="off">
+
+
+    <ol>
+        <li class="form_error" id="body-error"></li>
+    </ol>
+
+    <textarea id="id_body" name="body" placeholder="Ваше сообщение" required=""></textarea>
+    <div id="recaptcha2"></div>
+    <p class="feedback_agreement">
+                            Нажимая кнопку «Отправить», Вы принимаете условия <a target="_blank"
+                                                                                 href="/static/assets/privacy.pdf">Пользовательского
+                            соглашения</a>.
+                        </p>
+    <input type="submit" value="Отправить">
+</form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+        <div class="content">
+            <div class="footer_top clearfix">
+                <div class="left">
+                    <div class="logo">
+                        <a href="#">
+                            <img src="/static/img/logo_white.svg" height="41px" alt="">
+                        </a>
+                    </div>
+                    <p>Интеллектуальные и высокотехнологичные <br>решения для Вашего бизнеса – <br> Telegram, Facebook
+                        <br>
+                        messenger,
+                        Viber, VK,
+                        Яндекс Алиса</p>
+                </div>
+                <div class="mid">
+                    <h4>Контакты</h4>
+                    <div class="loc">
+                        <p>192236, г. Санкт-Петербург <br> ул. Софийская, д. 6, корп. 8, стр. 1</p>
+                    </div>
+                    <div class="tel">
+                        <p><a href="tel:+79632491323">+7 (963) 249-13-23</a></p>
+                    </div>
+                    <div class="mail">
+                        <p><a href="mailto:info@bizbots.ru">info@bizbots.ru</a></p>
+                    </div>
+                </div>
+                <div class="right">
+                    <h4>Преследуйте нас</h4>
+                    <ul class="clearfix">
+                        <li>
+                            <a href="https://www.instagram.com/bizbots.ru/" target="_blank" style="color: white">
+                                <img src="/static/img/in_white.svg" height="30px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://telegram.me/BIZBOTS" target="_blank" style="color: white">
+                                <img src="/static/img/tg_white.svg" height="30px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/BIZBOTS_RU" target="_blank" style="color: white">
+                                <img src="/static/img/tw_white.svg" height="30px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/bizbots.ru/" target="_blank" style="color: white">
+                                <img src="/static/img/fb_white.svg" height="30px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://vk.com/bizbots" target="_blank" style="color: white">
+                                <img src="/static/img/vk_white.svg" height="30px">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer_bottom clearfix">
+                <div class="left">
+                    <ul class="clearfix">
+                        <li>
+                            <a href="#question" class="scroll_btn">Ваши Вопросы</a>
+                        </li>
+                        <li>
+                            <a href="#how_it_works" class="scroll_btn">Как это работает ?</a>
+                        </li>
+                        <li>
+                            <a href="#special_benefits" class="scroll_btn">Выгоды</a>
+                        </li>
+                        <li>
+                            <a href="#chat_bot" class="scroll_btn">Чат-бот Bizbots</a>
+                        </li>
+                        <li>
+                            <a href="#our_garants" class="scroll_btn">Гарантии</a>
+                        </li>
+                        <li>
+                            <a href="https://bizbots.ru/static/assets/privacy.pdf" target="_blank"
+                                class="scroll_btn">Конфиденциальность</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="right">
+                    © 2022 BIZBOTS
+                </div>
+            </div>
+            <p style="text-align: center; padding-bottom: 15px">
+                <a class="cred" href="https://appvelox.ru/" target="_blank">Разработано <img
+                        style="margin-bottom: -3px;" height="16"
+                        src="https://appvelox.ru/static/assets/img/site_logo.svg"></a>
+            </p>
+        </div>
+    </div>
+
+    <div id="popup">
+        <div class="popup_block clearfix">
+            <h4 id="phone_request_first_header">Заказать звонок</h4>
+            <form action="/phone_request/" method="POST" id="phone-request">
+                <ol>
+                    <li class="form_error" id="phone-request-error"></li>
+                </ol>
+                <input type="text" name="phone" placeholder="Телефон" required="" autocomplete="off"
+                    id="id-phone-request-field">
+                <input id="callback_sub" type="submit" value="Отправить">
+                <div id="recaptcha1"></div>
+
+
+            </form>
+            <span class="agreement">
+                Нажимая кнопку «Отправить», Вы принимаете условия <a target="_blank"
+                    href="/static/assets/privacy.pdf">Пользовательского
+                    соглашения</a>.
+            </span>
+        </div>
+    </div>
+
+    <div id="result_popup">
+        <div class="popup_block clearfix">
+            <p align="center" style="margin-top: 5%">Спасибо за ваше обращение!</p>
+            <p align="center">Мы свяжемся с вами в ближайшее время. <br>
+                <img height="200px" style="margin-top: 10px" src="/static/img/how-we-work-04.svg">
+            </p>
+        </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="/static/js/script.js"></script>
+    <script src="/static/js/feedback_form.js"></script>
+
+    <style rel="modal">
+        @media handheld,
+        only screen and (max-width: 600px) {
+            #modal {
+                width: 100% !important;
+                max-width: 100% !important;
+                margin-left: 0 !important;
+                left: 0 !important;
+                right: 0 !important;
+                border-radius: 0 !important
+            }
+
+            #modal .iziModal-header {
+                border-radius: 0 !important
+            }
+        }
+    </style>
+</body>
+
+</html>

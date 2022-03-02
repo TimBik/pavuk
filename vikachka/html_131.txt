@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+    <link href="assets/images/favicon/favicon.webp" rel="icon">
+    <title>ilink | Custom software development company</title>
+    <meta name="description"
+          content="iLink is a custom software development company with strong expertise in blockchain, web and mobile applications, AI and many more. Headquartered in Tomsk, Russia, we are a trusted name in the field of technology outsourcing services.">
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="ilink | Custom software development company"/>
+    <meta property="og:description"
+          content="ilink is a custom software development company with strong expertise in blockchain, web and mobile applications, AI and many more. Headquartered in Tomsk, Russia, we are a trusted name in the field of technology outsourcing services."/>
+    <meta property="og:url" content="https://i-link.pro"/>
+    <meta property="og:site_name" content="ilink | Custom software development"/>
+    <meta property="og:image" content="https://i-link.pro/assets/images/og_bg.webp"/>
+    <meta name="cloudbriclabs-verification" content="9f6dc2c9590a078ea60e314c8865d06e13d82b4efdc93f4cc1ad23573486111c" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(45292311, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/45292311" style="position:absolute; left:-9999px;" alt=""/></div>
+    </noscript>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '965686090837715');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+                   src="https://www.facebook.com/tr?id=965686090837715&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <meta name="facebook-domain-verification" content="fuiu92bbvo1xrcoqe730wxhqyf4z96"/>
+</head>
+
+<body>
+<div class="wrapper">
+    <header class="header header-transparent">
+        <nav class="navbar navbar-expand-lg sticky-navbar">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <svg class="logo-light" width="100" height="100%" viewBox="0 0 190 72" fill="none"
+                         xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M155.451 71.9977H138.275V2.4H155.276V40.8974C157.681 41.5875 159.235 41.3427 160.512 39.1673C163.074 34.8091 165.912 30.6026 168.738 26.3961C168.977 26.024 169.29 25.7034 169.66 25.4539C170.03 25.2044 170.447 25.0314 170.888 24.9451H188.819L174.407 46.051C173.943 46.5637 173.691 47.2274 173.702 47.9118C173.713 48.5963 173.984 49.2522 174.464 49.7509C179.109 56.1744 185.261 65.5154 189.818 71.9977H176.87C176.87 71.9977 170.028 72.2904 167.051 66.3053C164.773 62.5 162.773 59.5 160.434 56.1817C160.151 55.7802 160.13 55.5 159.593 54.9916C159.235 54.6531 158.813 54.3871 158.349 54.209C157.886 54.0309 157.391 53.9442 156.893 53.9539C156.395 53.9637 155.904 54.0697 155.449 54.2658L155.451 71.9977ZM129.405 71.9977H112.294V69.1145C112.284 61.3541 112.284 53.5928 112.294 45.8307C112.294 41.448 110.973 39.1306 107.805 38.071C105.975 37.5208 104.021 37.5057 102.183 38.0274C100.344 38.5491 98.7023 39.585 97.4584 41.0075C96.9813 41.7945 96.7556 42.7029 96.8102 43.6162C96.7651 51.7698 96.7851 59.921 96.7851 68.0868V71.9977H79.6717V24.9891H94.6128L94.9131 29.7707C95.6139 29.2078 96.0368 28.8897 96.4373 28.5471C99.425 25.8754 103.149 24.1196 107.147 23.4972C111.146 22.8747 115.243 23.4129 118.932 25.0453C122.029 26.1897 124.688 28.2428 126.546 30.9231C128.403 33.6033 129.367 36.7796 129.305 40.0165C129.305 40.0165 129.405 61.282 129.405 71.9977ZM44.3009 71.9977H27.4277V8.16227e-09H44.3009V71.9977ZM1.42397 24.9573H18.3072V71.9977H1.42397V24.9573ZM53.596 24.9573H70.4967V71.9977H53.596V24.9573ZM9.93315 18.3502C8.65983 18.4227 7.38476 18.2407 6.18577 17.8153C4.98678 17.39 3.88902 16.7302 2.95948 15.8762C2.02994 15.0223 1.28812 13.992 0.779311 12.8485C0.270501 11.7049 0.00535863 10.4719 8.039e-05 9.22476C-0.00519785 7.97766 0.249495 6.74261 0.748608 5.59494C1.24772 4.44728 1.9808 3.41109 2.90307 2.54963C3.82535 1.68818 4.91748 1.01952 6.11283 0.58447C7.30818 0.149422 8.58166 -0.0428557 9.85555 0.0193037C15.827 0.00217427 19.7312 3.5577 19.7537 9.02933C19.8404 10.2996 19.6434 11.5732 19.1763 12.7616C18.7093 13.95 17.9835 15.0249 17.0492 15.9116C16.1149 16.7984 14.9945 17.4758 13.7657 17.8969C12.5369 18.318 11.2292 18.4727 9.93315 18.3502ZM61.975 18.3502C60.1464 18.24 58.3907 17.6092 56.9241 16.5356C55.4574 15.4621 54.344 13.9925 53.7207 12.308C53.0975 10.6235 52.9917 8.79747 53.4164 7.05491C53.8411 5.31234 54.7777 3.72931 56.1109 2.50064C57.4442 1.27198 59.1158 0.451395 60.92 0.139909C62.7242 -0.171576 64.5821 0.0396394 66.2651 0.747567C67.948 1.4555 69.3825 2.62917 70.3919 4.12415C71.4012 5.61914 71.9414 7.37016 71.9458 9.16151C71.9999 10.4323 71.7734 11.6995 71.282 12.8771C70.7906 14.0547 70.0456 15.115 69.0978 15.9861C68.15 16.8571 67.0214 17.5185 65.7889 17.9252C64.5564 18.3318 63.2488 18.4743 61.955 18.3428L61.975 18.3502Z"
+                              fill="#FFF"/>
+                    </svg>
+                    <svg class="logo-dark" width="100" height="100%" viewBox="0 0 190 72" fill="none"
+                         xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd"
+                              d="M155.451 71.9977H138.275V2.4H155.276V40.8974C157.681 41.5875 159.235 41.3427 160.512 39.1673C163.074 34.8091 165.912 30.6026 168.738 26.3961C168.977 26.024 169.29 25.7034 169.66 25.4539C170.03 25.2044 170.447 25.0314 170.888 24.9451H188.819L174.407 46.051C173.943 46.5637 173.691 47.2274 173.702 47.9118C173.713 48.5963 173.984 49.2522 174.464 49.7509C179.109 56.1744 185.261 65.5154 189.818 71.9977H176.87C176.87 71.9977 170.028 72.2904 167.051 66.3053C164.773 62.5 162.773 59.5 160.434 56.1817C160.151 55.7802 160.13 55.5 159.593 54.9916C159.235 54.6531 158.813 54.3871 158.349 54.209C157.886 54.0309 157.391 53.9442 156.893 53.9539C156.395 53.9637 155.904 54.0697 155.449 54.2658L155.451 71.9977ZM129.405 71.9977H112.294V69.1145C112.284 61.3541 112.284 53.5928 112.294 45.8307C112.294 41.448 110.973 39.1306 107.805 38.071C105.975 37.5208 104.021 37.5057 102.183 38.0274C100.344 38.5491 98.7023 39.585 97.4584 41.0075C96.9813 41.7945 96.7556 42.7029 96.8102 43.6162C96.7651 51.7698 96.7851 59.921 96.7851 68.0868V71.9977H79.6717V24.9891H94.6128L94.9131 29.7707C95.6139 29.2078 96.0368 28.8897 96.4373 28.5471C99.425 25.8754 103.149 24.1196 107.147 23.4972C111.146 22.8747 115.243 23.4129 118.932 25.0453C122.029 26.1897 124.688 28.2428 126.546 30.9231C128.403 33.6033 129.367 36.7796 129.305 40.0165C129.305 40.0165 129.405 61.282 129.405 71.9977ZM44.3009 71.9977H27.4277V8.16227e-09H44.3009V71.9977ZM1.42397 24.9573H18.3072V71.9977H1.42397V24.9573ZM53.596 24.9573H70.4967V71.9977H53.596V24.9573ZM9.93315 18.3502C8.65983 18.4227 7.38476 18.2407 6.18577 17.8153C4.98678 17.39 3.88902 16.7302 2.95948 15.8762C2.02994 15.0223 1.28812 13.992 0.779311 12.8485C0.270501 11.7049 0.00535863 10.4719 8.039e-05 9.22476C-0.00519785 7.97766 0.249495 6.74261 0.748608 5.59494C1.24772 4.44728 1.9808 3.41109 2.90307 2.54963C3.82535 1.68818 4.91748 1.01952 6.11283 0.58447C7.30818 0.149422 8.58166 -0.0428557 9.85555 0.0193037C15.827 0.00217427 19.7312 3.5577 19.7537 9.02933C19.8404 10.2996 19.6434 11.5732 19.1763 12.7616C18.7093 13.95 17.9835 15.0249 17.0492 15.9116C16.1149 16.7984 14.9945 17.4758 13.7657 17.8969C12.5369 18.318 11.2292 18.4727 9.93315 18.3502ZM61.975 18.3502C60.1464 18.24 58.3907 17.6092 56.9241 16.5356C55.4574 15.4621 54.344 13.9925 53.7207 12.308C53.0975 10.6235 52.9917 8.79747 53.4164 7.05491C53.8411 5.31234 54.7777 3.72931 56.1109 2.50064C57.4442 1.27198 59.1158 0.451395 60.92 0.139909C62.7242 -0.171576 64.5821 0.0396394 66.2651 0.747567C67.948 1.4555 69.3825 2.62917 70.3919 4.12415C71.4012 5.61914 71.9414 7.37016 71.9458 9.16151C71.9999 10.4323 71.7734 11.6995 71.282 12.8771C70.7906 14.0547 70.0456 15.115 69.0978 15.9861C68.15 16.8571 67.0214 17.5185 65.7889 17.9252C64.5564 18.3318 63.2488 18.4743 61.955 18.3428L61.975 18.3502Z"
+                              fill="#0F0F58"/>
+                    </svg>
+                </a>
+                <button class="navbar-toggler" type="button">
+                    <span class="menu-lines"><span></span></span>
+                </button>
+                <div class="collapse navbar-collapse" id="mainNavigation">
+                    <ul class="navbar-nav mr-auto ml-auto">
+                        <li class="nav__item">
+                            <a href="about-us.html" class="nav__item-link">Company</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="services/index.html" class="nav__item-link">Services</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="cases/index.html" class="nav__item-link">Case studies</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="blog" class="nav__item-link">Blog</a>
+                        </li>
+                        <li class="nav__item">
+                            <a href="contacts.html" class="nav__item-link">Contacts</a>
+                        </li>
+                    </ul><!-- /.navbar-nav -->
+                </div><!-- /.navbar-collapse -->
+                <ul class="navbar-actions list-unstyled mb-0 d-flex align-items-center">
+                    <li class="d-none d-xl-block">
+                        <a class="btn btn__primary btn__bordered btn_ action__btn-contact" data-toggle="modal"
+                           data-target="#request">Request
+                            A Quote</a>
+                    </li>
+                </ul><!-- /.navbar-actions -->
+            </div><!-- /.container -->
+        </nav><!-- /.navabr -->
+    </header><!-- /.Header -->
+    <section class="slider">
+        <div class="slide-item align-v-h bg-overlay" style="">
+            <div class="bg-img"><img src="assets/images/sliders/1.webp" alt="slide img"></div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                        <div class="slide-item__content">
+                            <h1 class="slide-item__title shine">We turn ideas into real life products.</h1>
+                            <p class="slide-item__desc">We provide custom software development and IT outsourcing
+                                services. Our developers build custom software for individuals, startups, and small to
+                                medium business.</p>
+                            <a href="#" class="btn btn__primary btn__primary-style1 btn__hi" data-toggle="modal"
+                               data-target="#request">Get Started</a>
+                        </div><!-- /.slide-content -->
+                    </div><!-- /.col-xl-7 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.slide-item -->
+    </section><!-- /.slider -->
+    <section class="about-layout5 pt-130 pb-0">
+        <div class="container">
+            <div class="row heading-layout2">
+                <div class="col-12">
+                    <h2 class="heading__subtitle color-body">High quality work on time</h2>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">
+                    <h3 class="heading__title mb-30">
+                        We provide <span class="underlined-text">innovative, reliable, and scalable</span>
+                        enterprise-grade solutions.
+                    </h3>
+                </div><!-- /.col-xl-5 -->
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5 offset-xl-1">
+                    <div class="about__Text">
+                        <p>We have been working in IT for over 9 years and during this time we have managed to improve
+                            our specialization in many industries.</p>
+                    </div>
+                    <ul class="list-items list-items-layout2 list-horizontal list-unstyled d-flex flex-wrap mt-40 mb-30">
+                        <li>FinTech</li>
+                        <li>Blockchain</li>
+                        <li>EduTech</li>
+                        <li>Banking</li>
+                        <li>Retail</li>
+                        <li>Logistics</li>
+                    </ul>
+                </div><!-- /.col-xl-5 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section>
+    <!-- ========================
+    Services Layout 2
+=========================== -->
+    <section class="services-layout3 pt-40 pb-100 mb-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
+                    <div class="heading text-center mb-50">
+                        <h2 class="heading__subtitle color-body">Our expertise</h2>
+                        <h3 class="heading__title">What can we do</h3>
+                    </div><!-- /.heading -->
+                </div><!-- /.col-lg-8 -->
+            </div>
+            <div class="row">
+                <!-- service item #1 -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="service-item">
+                        <div class="service-item__content">
+
+                            <h4 class="service-item__title">Custom software development</h4>
+                            <p class="service-item__desc">Custom software development involves designing, manufacturing,
+                                deploying and maintaining software that is designed to service a specific user base or
+                                function.</p>
+                            <a href="services/custom-software-development.html" class="btn btn__secondary btn__link">
+                                <span>Read More</span>
+                                <i class="icon-arrow-right"></i>
+                            </a>
+                        </div><!-- /.service-content -->
+                        <div class="service-item__overlay bg-overlay bg-overlay-primary">
+                            <div class="bg-img"><img src="assets/images/services/1.webp" alt="background"></div>
+                        </div><!-- /.service-item__overlay -->
+                    </div><!-- /.service-item -->
+                </div><!-- /.col-lg-4 -->
+                <!-- service item #2 -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="service-item">
+                        <div class="service-item__content">
+                            <h4 class="service-item__title">Blockchain development</h4>
+                            <p class="service-item__desc">We help and guide companies through the blockchain journey
+                                offering new opportunities and benefits.</p>
+                            <a href="services/blockchain-development.html" class="btn btn__secondary btn__link">
+                                <span>Read More</span>
+                                <i class="icon-arrow-right"></i>
+                            </a>
+                        </div><!-- /.service-content -->
+                        <div class="service-item__overlay bg-overlay bg-overlay-primary">
+                            <div class="bg-img"><img src="assets/images/services/2.webp" alt="background"></div>
+                        </div><!-- /.service-item__overlay -->
+                    </div><!-- /.service-item -->
+                </div><!-- /.col-lg-4 -->
+                <!-- service item #3 -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="service-item">
+                        <div class="service-item__content">
+
+                            <h4 class="service-item__title">Web applications</h4>
+                            <p class="service-item__desc">We provide custom web app development, cross-platform
+                                development, design, web consulting, legacy modernization, system integration, and
+                                lifelong support.
+                            </p>
+                            <a href="services/web-applications.html" class="btn btn__secondary btn__link">
+                                <span>Read More</span>
+                                <i class="icon-arrow-right"></i>
+                            </a>
+                        </div><!-- /.service-content -->
+                        <div class="service-item__overlay bg-overlay bg-overlay-primary">
+                            <div class="bg-img"><img src="assets/images/services/3.webp" alt="background"></div>
+                        </div><!-- /.service-item__overlay -->
+                    </div><!-- /.service-item -->
+                </div><!-- /.col-lg-4 -->
+                <!-- service item #4 -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="service-item">
+                        <div class="service-item__content">
+
+                            <h4 class="service-item__title">Mobile applications</h4>
+                            <p class="service-item__desc">If you need unique mobile application development, weâre ready
+                                to handle it.</p>
+                            <a href="services/mobile-applications.html" class="btn btn__secondary btn__link">
+                                <span>Read More</span>
+                                <i class="icon-arrow-right"></i>
+                            </a>
+                        </div><!-- /.service-content -->
+                        <div class="service-item__overlay bg-overlay bg-overlay-primary">
+                            <div class="bg-img"><img src="assets/images/services/4.webp" alt="background"></div>
+                        </div><!-- /.service-item__overlay -->
+                    </div><!-- /.service-item -->
+                </div><!-- /.col-lg-4 -->
+                <!-- service item #5 -->
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="service-item">
+                        <div class="service-item__content">
+
+                            <h4 class="service-item__title">Artificial intelligence</h4>
+                            <p class="service-item__desc">AI includes systems that mimic human behavior and are capable
+                                of self-learning and correcting actions by analyzing information.</p>
+                            <a href="services/artificial-intelligence.html" class="btn btn__secondary btn__link">
+                                <span>Read More</span>
+                                <i class="icon-arrow-right"></i>
+                            </a>
+                        </div><!-- /.service-content -->
+                        <div class="service-item__overlay bg-overlay bg-overlay-primary">
+                            <div class="bg-img"><img src="assets/images/services/5.webp" alt="background"></div>
+                        </div><!-- /.service-item__overlay -->
+                    </div><!-- /.service-item -->
+                </div><!-- /.col-lg-4 -->
+                <!-- service item #6 -->
+                <div class="col-sm-12 col-md-4 col-lg-4">
+                    <div class="service-item service-item-custom bg-overlay bg-overlay-primary">
+                        <div class="bg-img">
+                            <img src="assets/images/services/6.webp" alt="background">
+                        </div>
+                        <div>
+                            <h4 class="service-item__title">Help Your Business Win!</h4>
+                            <p class="service-item__desc">ilink is a trusted advisor and an objective resource for more
+                                than 100
+                                organizations in 10+ countries.</p>
+                        </div>
+                        <a href="#" class="btn btn__white btn__bordered btn__icon btn__xl" data-toggle="modal"
+                           data-target="#request" style="margin-bottom: 0px;">
+                            <span>Request a quote</span>
+                            <i class="icon-arrow-right"></i>
+                        </a>
+                    </div><!-- /.service-item -->
+                </div><!-- /.col-lg-4 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.Services Layout 2 -->
+
+
+    <!-- ======================
+Features Layout 1
+========================= -->
+    <section class="about-layout6 bg-gray pt-0 pb-0">
+        <div class="image-wrapper bg-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
+                        <div class="heading text-center mb-50">
+                            <h2 class="heading__subtitle color-body">Our cases</h2>
+                            <h3 class="heading__title">Latest works</h3>
+                        </div><!-- /.heading -->
+                    </div><!-- /.col-lg-8 -->
+                </div>
+                <div class="row align-items-end  mb-100">
+                    <div class="col-sm-12 col-md-12 col-lg-7">
+
+                        <img src="assets/images/about/4.webp" alt="about">
+                    </div><!-- /.col-lg-5 -->
+                    <div class="col-sm-12 col-md-12 col-lg-5">
+                        <h3 class="heading__title mb-30">Neuron Wallet</h3>
+                        <p>Mobile application for iOS and Android platforms, which is a multi-currency cryptocurrency
+                            wallet for storing, sending and receiving cryptocurrency, which also provides the ability to
+                            directly exchange and purchase cryptocurrency.
+                        </p>
+                        <a href="cases/neuron-wallet.html" class="btn btn__secondary btn__bordered">
+                            <span>Read More</span>
+                            <i class="icon-arrow-right"></i>
+                        </a>
+                    </div><!-- /.col-lg-5 -->
+                </div><!-- /.row -->
+                <div class="row align-items-end  mb-100">
+                    <div class="col-sm-12 col-md-12 col-lg-7">
+
+                        <img src="assets/images/about/tezro.webp" alt="about">
+                    </div><!-- /.col-lg-5 -->
+                    <div class="col-sm-12 col-md-12 col-lg-5">
+                        <h3 class="heading__title mb-30">Tezro</h3>
+                        <p>An online store that, using artificial intelligence, can predict the choice of a buyer and
+                            provide an item in advance. At the beginning of the project, a qualitative analysis of
+                            existing competitors and existing solutions in the field of artificial intelligence was
+                            carried out. The result of this analysis is a prototype and design that provides simplicity
+                            and beauty to the core functionality.
+                        </p>
+                        <a href="cases/tezro.html" class="btn btn__secondary btn__bordered">
+                            <span>Read More</span>
+                            <i class="icon-arrow-right"></i>
+                        </a>
+                    </div><!-- /.col-lg-5 -->
+                </div><!-- /.row -->
+                <div class="row align-items-end  mb-100">
+                    <div class="col-sm-12 col-md-12 col-lg-7">
+
+                        <img src="assets/images/about/14.webp" alt="about">
+                    </div><!-- /.col-lg-5 -->
+                    <div class="col-sm-12 col-md-12 col-lg-5">
+                        <h3 class="heading__title mb-30">TomPay</h3>
+                        <p>A solution for an automated banking system that allows flexible management of users' fiat
+                            funds. Based on the results of the analysis of existing competitors, a user interface was
+                            developed, a server solution was developed for storing and updating user data.
+                        </p>
+                        <a href="cases/tompay.html" class="btn btn__secondary btn__bordered">
+                            <span>Read More</span>
+                            <i class="icon-arrow-right"></i>
+                        </a>
+                    </div><!-- /.col-lg-5 -->
+                </div><!-- /.row -->
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
+                        <div class="heading text-center mb-50">
+                            <a href="cases/index.html" class="btn btn__secondary  btn__block btn__bordered mr-30">Watch
+                                more cases <i class="icon-arrow-right"></i>
+                            </a>
+                        </div><!-- /.heading -->
+                    </div><!-- /.col-lg-8 -->
+                </div>
+            </div><!-- /.container -->
+        </div><!-- /.image-wrapper -->
+    </section>
+
+
+    <section class="testimonials testimonials-layout2 pt-130 pb-130" style="background-color: #0F0F58">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="heading__subtitle color-body">Ensure High Availability of Your Services</h2>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
+                    <h3 class="heading__title color-white mb-40">Easy solutions for all difficult IT problems, keep
+                        business
+                        safe & ensure high availability.</h3>
+                    <a href="#" data-toggle="modal" data-target="#request"
+                       class="btn btn__white btn__bordered btn__icon btn__xl minwidth-170 mb-40">
+                        <span>Get Started</span>
+                        <i class="icon-arrow-right"></i>
+                    </a>
+                </div><!-- /.col-xl-5 -->
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
+                    <div class="slick-carousel"
+                         data-slick='{"slidesToShow": 2, "slidesToScroll": 1, "arrows": false, "dots": true, "responsive": [ {"breakpoint": 1200, "settings": {"slidesToShow": 2}}, {"breakpoint": 992, "settings": {"slidesToShow": 1}}]}'>
+                        <!-- Testimonial #1 -->
+                        <div class="testimonial-item d-flex">
+                            <div class="testimonial-item__body">
+                                <div class="testimonial-item__rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <p class="testimonial-item__desc">iLink is a trustworthy and knowledgeable development
+                                    partner. They know how to push back and ask questions, which provides added value.
+                                </p>
+                                <div class="testimonial-item__meta">
+                                    <h4 class="testimonial-item__meta__title">Anton</h4>
+                                    <p class="testimonial-item__meta__desc">CEO at UFO</p>
+                                </div><!-- /.testimonial-meta -->
+                            </div>
+                        </div><!-- /. testimonial-item -->
+                        <!-- Testimonial #2 -->
+                        <div class="testimonial-item d-flex">
+                            <div class="testimonial-item__body">
+                                <div class="testimonial-item__rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <p class="testimonial-item__desc">iLink developers provided really good results for the
+                                    company. They are extremely responsive and proactive.
+                                </p>
+                                <div class="testimonial-item__meta">
+                                    <h4 class="testimonial-item__meta__title">Eugene Shchelkonogov</h4>
+                                    <p class="testimonial-item__meta__desc"> Founder and CEO at Aunite Group</p>
+                                </div><!-- /.testimonial-meta -->
+                            </div>
+                        </div><!-- /. testimonial-item -->
+                        <!-- Testimonial #3 -->
+                        <div class="testimonial-item d-flex">
+                            <div class="testimonial-item__body">
+                                <div class="testimonial-item__rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <p class="testimonial-item__desc">iLink has helped us develop a secure cryptocurrency
+                                    wallet with devs that are qualified and proficient in blockchain technologies.
+                                </p>
+                                <div class="testimonial-item__meta">
+                                    <h4 class="testimonial-item__meta__title">Albert Gorsky</h4>
+                                    <p class="testimonial-item__meta__desc">CEO at Qbic</p>
+                                </div><!-- /.testimonial-meta -->
+                            </div>
+                        </div><!-- /. testimonial-item -->
+                        <div class="testimonial-item d-flex">
+                            <div class="testimonial-item__body">
+                                <div class="testimonial-item__rating">
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                    <i class="fas fa-star"></i>
+                                </div>
+                                <p class="testimonial-item__desc">They produced the highest-quality work. This level of
+                                    commitment is remarkable and hard to come by.
+                                </p>
+                                <div class="testimonial-item__meta">
+                                    <h4 class="testimonial-item__meta__title">Dmitry Dervoed</h4>
+                                    <p class="testimonial-item__meta__desc">CEO at NeuronEx</p>
+                                </div><!-- /.testimonial-meta -->
+                            </div>
+                        </div><!-- /. testimonial-item -->
+                    </div>
+                </div><!-- /.col-xl-7 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.testimonials 2 -->
+
+
+    <section class="clients border-top pt-50 pb-50">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-sm-12 col-md-12 col-lg-12">
+                    <div class="slick-carousel"
+                         data-slick='{"slidesToShow": 6, "arrows": false, "dots": false, "autoplay": true,"autoplaySpeed": 2000, "infinite": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 4}}, {"breakpoint": 767, "settings": {"slidesToShow": 3}}, {"breakpoint": 480, "settings": {"slidesToShow": 2}}]}'>
+                        <div class="client">
+                            <img src="assets/images/clients/1.webp" alt="client">
+                            <img src="assets/images/clients/1.webp" alt="client">
+                        </div><!-- /.client -->
+                        <div class="client">
+                            <img src="assets/images/clients/2.webp" alt="client">
+                            <img src="assets/images/clients/2.webp" alt="client">
+                        </div><!-- /.client -->
+                        <div class="client">
+                            <img src="assets/images/clients/3.webp" alt="client">
+                            <img src="assets/images/clients/3.webp" alt="client">
+                        </div><!-- /.client -->
+                        <div class="client">
+                            <img src="assets/images/clients/4.webp" alt="client">
+                            <img src="assets/images/clients/4.webp" alt="client">
+                        </div><!-- /.client -->
+                        <div class="client">
+                            <img src="assets/images/clients/5.webp" alt="client">
+                            <img src="assets/images/clients/5.webp" alt="client">
+                        </div><!-- /.client -->
+                        <div class="client">
+                            <img src="assets/images/clients/6.webp" alt="client">
+                            <img src="assets/images/clients/6.webp" alt="client">
+                        </div><!-- /.client -->
+                        <div class="client">
+                            <img src="assets/images/clients/7.webp" alt="client">
+                            <img src="assets/images/clients/7.webp" alt="client">
+                        </div><!-- /.client -->
+                    </div><!-- /.carousel -->
+                </div><!-- /.col-lg-12 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.clients -->
+
+    <!-- ========================
+  Footer
+========================== -->
+    <footer class="footer bg-heading" style="background-color: #0f0f58;">
+        <div class="footer-primary" style="background-color: #0f0f58;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-4 footer-widget footer-widget-about">
+                        <div class="footer-widget__content">
+                            <svg width="100" height="100%" viewBox="0 0 190 72" fill="none"
+                                 xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                      d="M155.451 71.9977H138.275V2.4H155.276V40.8974C157.681 41.5875 159.235 41.3427 160.512 39.1673C163.074 34.8091 165.912 30.6026 168.738 26.3961C168.977 26.024 169.29 25.7034 169.66 25.4539C170.03 25.2044 170.447 25.0314 170.888 24.9451H188.819L174.407 46.051C173.943 46.5637 173.691 47.2274 173.702 47.9118C173.713 48.5963 173.984 49.2522 174.464 49.7509C179.109 56.1744 185.261 65.5154 189.818 71.9977H176.87C176.87 71.9977 170.028 72.2904 167.051 66.3053C164.773 62.5 162.773 59.5 160.434 56.1817C160.151 55.7802 160.13 55.5 159.593 54.9916C159.235 54.6531 158.813 54.3871 158.349 54.209C157.886 54.0309 157.391 53.9442 156.893 53.9539C156.395 53.9637 155.904 54.0697 155.449 54.2658L155.451 71.9977ZM129.405 71.9977H112.294V69.1145C112.284 61.3541 112.284 53.5928 112.294 45.8307C112.294 41.448 110.973 39.1306 107.805 38.071C105.975 37.5208 104.021 37.5057 102.183 38.0274C100.344 38.5491 98.7023 39.585 97.4584 41.0075C96.9813 41.7945 96.7556 42.7029 96.8102 43.6162C96.7651 51.7698 96.7851 59.921 96.7851 68.0868V71.9977H79.6717V24.9891H94.6128L94.9131 29.7707C95.6139 29.2078 96.0368 28.8897 96.4373 28.5471C99.425 25.8754 103.149 24.1196 107.147 23.4972C111.146 22.8747 115.243 23.4129 118.932 25.0453C122.029 26.1897 124.688 28.2428 126.546 30.9231C128.403 33.6033 129.367 36.7796 129.305 40.0165C129.305 40.0165 129.405 61.282 129.405 71.9977ZM44.3009 71.9977H27.4277V8.16227e-09H44.3009V71.9977ZM1.42397 24.9573H18.3072V71.9977H1.42397V24.9573ZM53.596 24.9573H70.4967V71.9977H53.596V24.9573ZM9.93315 18.3502C8.65983 18.4227 7.38476 18.2407 6.18577 17.8153C4.98678 17.39 3.88902 16.7302 2.95948 15.8762C2.02994 15.0223 1.28812 13.992 0.779311 12.8485C0.270501 11.7049 0.00535863 10.4719 8.039e-05 9.22476C-0.00519785 7.97766 0.249495 6.74261 0.748608 5.59494C1.24772 4.44728 1.9808 3.41109 2.90307 2.54963C3.82535 1.68818 4.91748 1.01952 6.11283 0.58447C7.30818 0.149422 8.58166 -0.0428557 9.85555 0.0193037C15.827 0.00217427 19.7312 3.5577 19.7537 9.02933C19.8404 10.2996 19.6434 11.5732 19.1763 12.7616C18.7093 13.95 17.9835 15.0249 17.0492 15.9116C16.1149 16.7984 14.9945 17.4758 13.7657 17.8969C12.5369 18.318 11.2292 18.4727 9.93315 18.3502ZM61.975 18.3502C60.1464 18.24 58.3907 17.6092 56.9241 16.5356C55.4574 15.4621 54.344 13.9925 53.7207 12.308C53.0975 10.6235 52.9917 8.79747 53.4164 7.05491C53.8411 5.31234 54.7777 3.72931 56.1109 2.50064C57.4442 1.27198 59.1158 0.451395 60.92 0.139909C62.7242 -0.171576 64.5821 0.0396394 66.2651 0.747567C67.948 1.4555 69.3825 2.62917 70.3919 4.12415C71.4012 5.61914 71.9414 7.37016 71.9458 9.16151C71.9999 10.4323 71.7734 11.6995 71.282 12.8771C70.7906 14.0547 70.0456 15.115 69.0978 15.9861C68.15 16.8571 67.0214 17.5185 65.7889 17.9252C64.5564 18.3318 63.2488 18.4743 61.955 18.3428L61.975 18.3502Z"
+                                      fill="#FFF"/>
+                            </svg>
+                            <br><br>
+                            <p class="color-gray mb-40" style="font-size: 1em;">We are experienced professionals who
+                                understand that IT services is
+                                changing, and are
+                                true partners who care about your future business success.</p>
+                            <ul class="social-icons list-unstyled mb-0">
+                                <li><a href="https://www.facebook.com/ilink.company"><i
+                                        class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/ilink.company/"><i class="fab fa-instagram"></i></a>
+                                </li>
+                                <!-- <li><a href="#"><i class="fab fa-twitter"></i></a></li> -->
+                            </ul><!-- /.social-icons -->
+                        </div><!-- /.footer-widget__content -->
+                    </div><!-- /.col-xl-2 -->
+                    <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
+                        <h6 class="footer-widget__title">Company</h6>
+                        <div class="footer-widget__content">
+                            <nav>
+                                <ul class="list-unstyled">
+                                    <li><a href="about-us.html">About Us</a></li>
+                                    <li><a href="blog">Blog</a></li>
+                                    <li><a href="cases/index.html">Case Studies</a></li>
+                                    <li><a href="contacts.html">Contacts</a></li>
+                                </ul>
+                            </nav>
+                        </div><!-- /.footer-widget__content -->
+                    </div><!-- /.col-lg-2 -->
+                    <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
+                        <h6 class="footer-widget__title">Services</h6>
+                        <div class="footer-widget__content">
+                            <nav>
+                                <ul class="list-unstyled">
+                                    <li><a href="services/custom-software-development.html">Custom software
+                                        development</a></li>
+                                    <li><a href="services/blockchain-development.html">Blockchain development</a></li>
+                                    <li><a href="services/web-applications.html">Web applications</a></li>
+                                    <li><a href="services/mobile-applications.html">Mobile applications</a></li>
+                                    <li><a href="services/artificial-intelligence.html">Artificial intellegence</a></li>
+                                </ul>
+                            </nav>
+                        </div><!-- /.footer-widget__content -->
+                    </div><!-- /.col-lg-2 -->
+                    <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
+                        <h6 class="footer-widget__title">Resources</h6>
+                        <div class="footer-widget__content">
+                            <nav>
+                                <ul class="list-unstyled">
+                                    <li><a href="#">Privacy Policy </a></li>
+                                    <li><a href="#">Terms of use</a></li>
+                                    <li><a href="#">Cookie policy</a></li>
+                                    <li><a href="#">Site map</a></li>
+                                </ul>
+                            </nav>
+                        </div><!-- /.footer-widget__content -->
+                    </div><!-- /.col-lg-2 -->
+                    <div class="col-sm-6 col-md-6 col-lg-2 footer-widget footer-widget-nav">
+                        <h6 class="footer-widget__title">We're Hiring</h6>
+                        <div class="footer-widget__content">
+                            <p class="fz-14 color-white">Interested in joining the ilink team?</p>
+                            <a href="https://ilink.dev/promo/careers.htm" class="btn btn__primary btn__primary-style2 btn__link">
+                                <span>Our Careers</span><i class="icon-arrow-right icon-outlined"></i>
+                            </a>
+                        </div><!-- /.footer-widget__content -->
+                    </div><!-- /.col-lg-2 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.footer-primary -->
+        <div class="footer-secondary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+                        <span class="fz-14">&copy; 2012 - 2021 ilink, All Rights Reserved. </span>
+                    </div><!-- /.col-lg-12 -->
+                </div><!-- /.row -->
+            </div><!-- /.container -->
+        </div><!-- /.footer-secondary -->
+    </footer><!-- /.Footer -->
+    <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
+    <div class="modal fade" id="request" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+
+                <div class="col-sm-12 col-md-12 col-lg-12 mb-50 mt-50">
+                    <form class="contact-panel__form" action="https://formspree.io/f/xwkaezbo" method="POST" id="">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <h4 class="contact-panel__title">Get In Touch</h4>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="form-group">
+                                    <label for="contact-name">Name (required)</label>
+                                    <input type="text" class="form-control" placeholder="Name" id="contact-name"
+                                           name="contact-name" required="true">
+                                </div>
+                            </div><!-- /.col-lg-6 -->
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="form-group">
+                                    <label for="contact-email">Email (required)</label>
+                                    <input type="email" class="form-control" placeholder="Email" id="contact-email"
+                                           name="contact-email" required="true">
+                                </div>
+                            </div><!-- /.col-lg-6 -->
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="form-group">
+                                    <label for="contact-Phone">Phone (required)</label>
+                                    <input type="text" class="form-control" placeholder="Phone" id="contact-Phone"
+                                           name="contact-phone" required="" aria-required="true">
+                                </div>
+                            </div><!-- /.col-lg-6 -->
+                            <div class="col-sm-6 col-md-6 col-lg-6">
+                                <div class="form-group">
+                                    <label for="contact-website">Website (optional)</label>
+                                    <input type="text" class="form-control" placeholder="Website (optional)"
+                                           id="contact-website" name="contact-website">
+                                </div>
+                            </div><!-- /.col-lg-6 -->
+                            <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="form-group mb-20">
+                                    <label for="contact-message">Additional Details (optional)</label>
+                                    <textarea class="form-control" placeholder="Describe your inquiry!"
+                                              id="contact-message" name="contact-message"></textarea>
+                                </div>
+                                <div class="custom-control custom-checkbox d-flex align-items-center  mb-20">
+                                    <input type="checkbox" class="custom-control-input" id="terms" required="true">
+                                    <label class="custom-control-label" for="terms">I accept the privacy policy and
+                                        terms.</label>
+                                </div>
+                                <button type="submit" class="btn btn__secondary btn__block ">Submit Request</button>
+                                <div class="contact-result"></div>
+                            </div><!-- /.col-lg-12 -->
+                        </div><!-- /.row -->
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- /.wrapper -->
+<script src="assets/js/jquery-3.5.1.min.js"></script>
+<script src="assets/js/plugins.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+
+</html>

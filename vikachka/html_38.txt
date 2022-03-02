@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html lang="ru"  prefix="og: http://ogp.me/ns#">
+		<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">   
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Soft-Fresh.ru. Свежие версии бесплатных программ  для Windows. Обзор freeware и open source программного обеспечения. Статьи по настройке компьютерной техники.">
+<meta name="keywords" content="бесплатные, программы для Windows, free soft, скачать бесплатно, свежие версии бесплатных программ">
+<base href="/" />
+<title>Soft-Fresh - свежие версии бесплатных программ и игр для Windows./ Soft-Fresh </title>
+<meta property="og:title" content="Soft-Fresh - свежие версии бесплатных программ и игр для Windows." />
+<meta property="og:description" 
+  content="Soft-Fresh.ru. Свежие версии бесплатных программ  для Windows. Обзор freeware и open source программного обеспечения. Статьи по настройке компьютерной техники." />
+<meta property="og:locale" content="ru_Ru" />  
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://soft-fresh.ru/index/" />
+<meta property="og:site_name" content="Soft-Fresh" />
+<meta property="og:image" content="https://soft-fresh.ru/logo-2.png" /> 
+<meta property="og:image:url" content="https://soft-fresh.ru/logo-2.png" />
+<meta name="yandex-verification" content="9a4771c443e0fbe1" />
+<meta name="yandex-verification" content="9a4771c443e0fbe1" />
+<meta name="google-site-verification" content="_jESeoMueqDPMkD7He-ncbid3o_Q77OcgNvDSRoYiyc" />
+<meta name="msvalidate.01" content="5F91222C181DE664A376BD8FA36C2457" />
+<meta name='wmail-verification' content='5fcbc66b716ab7bc61867683f38b0f8e' />
+<meta name="wot-verification" content="d446a71d58bacad95ece"/>
+<meta name="modxru" content="d5913392e4891117bf3b4ea8e1f02dc9" />
+ <link rel="shortcut icon" href="https://soft-fresh.ru/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://soft-fresh.ru/favicon.ico" type="image/x-icon">
+<link rel="alternate" type="application/rss+xml" title="RSS-лента Soft-Fresh" href="feed.rss">
+ <link href="https://fonts.googleapis.com/css?family=PT+Sans:400i" rel="stylesheet">
+<link rel="stylesheet" href="assets/components/kube/css/kube.css">
+<link rel="stylesheet" href="assets/components/kube/css/master.css">
+<link rel="stylesheet" href="assets/components/fancybox/source/jquery.fancybox.css">
+<link rel="stylesheet" href="assets/components/back_to_top/css/style.css">
+<script src="assets/components/kube/js/jquery.min.js"></script>
+<script src="assets/components/kube/js/kube.js"></script>
+<script src="assets/components/kube/js/master.js"></script>
+<script src="assets/components/fancybox/source/jquery.fancybox.pack.js"></script>
+<script src="assets/components/back_to_top/js/main.js"></script>
+<!--
+
+    	   -->
+   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2834882370562596",
+    enable_page_level_ads: true
+  });
+</script>  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-90664775-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-90664775-1');
+</script>
+</head>
+	<body itemscope itemtype="http://schema.org/WebPage">
+	    
+		<!-- Static navbar -->
+<div class="show-on-small">
+    	<div id="nav-toggle-box">
+    		<div id="nav-toggle-brand">
+		    
+    			<a href="https://soft-fresh.ru/">Soft-Fresh</a>
+    			
+    		</div>
+            <a href="#" id="nav-toggle" class="toggleme" data-target="#header-box"><i class="menu-icon"></i></a>
+    	</div>
+	</div>
+	<div id="header-box" class="hide-on-small" >
+<div class="sticky"> 
+<div id="header" style="background-color:#FFFFFF">
+    <div id="header-brand">
+                             <a href="https://soft-fresh.ru/">Soft-Fresh</a>
+         </div>
+        <nav id="header-nav">
+                 <ul itemscope itemtype=" http://schema.org/SiteNavigationElement"> <li itemprop="name" > <a itemprop="url" href="programmyi/">Программы</a> </li><li itemprop="name" > <a itemprop="url" href="stati/">Статьи</a> </li><li itemprop="name" > <a itemprop="url" href="karta-sajta.html">Карта сайта</a> </li>	</ul> 
+		             </nav> 
+		             <form class="form"  method="get" action="rezultatyi-poiska.html">
+       <div class="form-item" style="margin-bottom: 0px;margin-left: 10px;">
+                 <div class="controls">
+            <input type="text"  name="search" autocomplete="on" onclick='this.value=""' placeholder="поиск по сайту" title="Поиск - Enter"  style="border-radius:20px;height:25px;box-shadow: 3px 3px 5px "  value="" />
+            <input type="hidden" name="id" value="18" />
+            
+                   </div>
+    </div>
+   </form>
+		             
+		            
+          
+    </div>
+</div>
+</div>
+
+<div id="hero">
+     <h1>Soft-Fresh</h1> 
+     <p>Бесплатные игры и программы для Windows. </p> 
+     <p>Обзор freeware и open source программного обеспечения.</p>
+     <p> Статьи по ремонту и настройке компьютерной техники.</p>
+     </div>
+     
+<!--<div class="is-navbar-container hide-on-small">
+    <div class="is-navbar">
+        <nav class="is-center">
+           <ul><li> <a href="https://soft-fresh.ru/programmyi/3d-redaktoryi/" >3D редакторы</a> </li><li> <a href="https://soft-fresh.ru/programmyi/antivirusyi/" >Антивирусы</a> </li><li> <a href="https://soft-fresh.ru/programmyi/audio/" >Аудио</a> </li><li> <a href="https://soft-fresh.ru/programmyi/brauzeryi/" >Браузеры</a> </li><li> <a href="https://soft-fresh.ru/programmyi/vebmastering/" >Вебмастеринг</a> </li><li> <a href="https://soft-fresh.ru/programmyi/video/" >Видео</a> </li><li> <a href="https://soft-fresh.ru/programmyi/grafika/" >Графика</a> </li><li> <a href="https://soft-fresh.ru/programmyi/diagnostika/" >Диагностика</a> </li><li> <a href="https://soft-fresh.ru/programmyi/obuchenie/" >Обучение</a> </li><li> <a href="https://soft-fresh.ru/programmyi/obshhenie/" >Общение</a> </li><li> <a href="https://soft-fresh.ru/programmyi/rabota/" >Работа</a> </li><li> <a href="https://soft-fresh.ru/programmyi/razrabotka/" >Разработка</a> </li><li> <a href="https://soft-fresh.ru/programmyi/set/" >Сеть</a> </li><li> <a href="https://soft-fresh.ru/programmyi/sistema/" >Система</a> </li><li> <a href="https://soft-fresh.ru/programmyi/tekst/" >Текст</a> </li><li> <a href="https://soft-fresh.ru/programmyi/utilityi/" >Утилиты</a> </li><li> <a href="https://soft-fresh.ru/programmyi/emulyatoryi/" >Эмуляторы</a> </li></ul> 
+        </nav>
+    </div>
+</div> -->
+	<div class="content">
+     <div  class="row" style="padding-top: 50px">
+     <script async src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script async src="https://yastatic.net/share2/share.js"></script>
+<div id="socbutton-bar" >
+<div class="ya-share2" data-popup-position="inner" data-size="m" data-direction="vertical" data-description="Soft-Fresh.ru. Свежие версии бесплатных программ  для Windows. Обзор freeware и open source программного обеспечения. Статьи по настройке компьютерной техники." data-title="Soft-Fresh - свежие версии бесплатных программ и игр для Windows." data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter" data-image="https://soft-fresh.ru/logo-2.png"  data-counter=""></div></div>
+  
+    <div class="col col-12">
+           <h3 style="border-bottom: 1px dashed rgba(0, 0, 0, 0.25) " >Популярные статьи</h4>
+      <div class="row">
+          <div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/Article"> 
+        <h5 style="margin-bottom:0px">
+         <a href="stati/chast-5.-dobavlenie-potokov-na-vxod-v-tvheadend.html" class="mylink" style="cursor: pointer" itemprop="mainEntityOfPage">Часть 5. Добавление потоков в Tvheadend с помощью ffmpeg, vlc, youtube-dl</a>
+         </h5>
+        <meta itemprop="headline" content="Часть 5. Добавление потоков на вход в Tvheadend с помощью стороннего софта">
+         <meta itemprop="datePublished" content="2022-02-22"/>
+        <meta itemprop="dateModified" content="2022-02-22"/> 
+       <meta itemprop="description" content="Добавляем входной поток в Tvheadend посредством  ffmpeg, vlc, yotube-dl из различных источников (youtube, twitch и прочее) с помощью конвейера (pipe)"/>
+       <meta itemprop="keywords" content="сервер потокового вещания,настройка tvheadend,pipe tvheadend"/>
+         <span  itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="admin"/>
+        </span>  
+    <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;3.4&nbsp;&nbsp;	 	&#128528; 5</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> сервер потокового вещания,настройка tvheadend,pipe tvheadend</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="5">
+<meta itemprop="ratingValue" content="3.4">
+
+
+</span> 
+
+
+<figure>
+<a href="stati/chast-5.-dobavlenie-potokov-na-vxod-v-tvheadend.html" class="mylink"> <img itemprop="image" src="assets/files/tvheadend_logo.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px">Добавляем входной поток в Tvheadend посредством  ffmpeg, vlc, yotube-dl из различных источников (youtube, twitch и прочее) с помощью конвейера (pipe)</p>
+     <p class="text-right"><a href="stati/chast-5.-dobavlenie-potokov-na-vxod-v-tvheadend.html" class="mylink"  >Перейти &#8594; </a></p>
+     <span  itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Soft-Fresh">
+        <meta itemprop="address" content="Russia">
+        <meta itemprop="telephone" content="-">
+             <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <img itemprop="url image" src="https://soft-fresh.ru/logo.png" alt="Soft-Fresh" style="display:none;"/> 
+ </span> </span>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/Article"> 
+        <h5 style="margin-bottom:0px">
+         <a href="stati/chast-4.-izmenenie-xarakteristik-vyixodnogo-potoka-v-tvheadend.html" class="mylink" style="cursor: pointer" itemprop="mainEntityOfPage">Часть 4. Изменение характеристик выходного потока в Tvheadend</a>
+         </h5>
+        <meta itemprop="headline" content="Часть 4. Изменение характеристик выходного потока в Tvheadend">
+         <meta itemprop="datePublished" content="2021-08-02"/>
+        <meta itemprop="dateModified" content="2021-08-03"/> 
+       <meta itemprop="description" content="Изменяем характеристики выходного потока (обрезка, скалирование, изменение кодека аудио и видео и пр.) в  Tvheadend с помощью профиля "spawn" с использованием ffmpeg."/>
+       <meta itemprop="keywords" content="сервер потокового вещания,настройка tvheadend,профиль "spawn""/>
+         <span  itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="admin"/>
+        </span>  
+    <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.13&nbsp;&nbsp;	 	&#128528; 71</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> сервер потокового вещания,настройка tvheadend,профиль "spawn"</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="71">
+<meta itemprop="ratingValue" content="2.13">
+
+
+</span> 
+
+
+<figure>
+<a href="stati/chast-4.-izmenenie-xarakteristik-vyixodnogo-potoka-v-tvheadend.html" class="mylink"> <img itemprop="image" src="assets/files/tvheadend_logo.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px">Изменяем характеристики выходного потока (обрезка, скалирование, изменение кодека аудио и видео и пр.) в  Tvheadend с помощью профиля "spawn" с использованием ffmpeg.</p>
+     <p class="text-right"><a href="stati/chast-4.-izmenenie-xarakteristik-vyixodnogo-potoka-v-tvheadend.html" class="mylink"  >Перейти &#8594; </a></p>
+     <span  itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Soft-Fresh">
+        <meta itemprop="address" content="Russia">
+        <meta itemprop="telephone" content="-">
+             <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <img itemprop="url image" src="https://soft-fresh.ru/logo.png" alt="Soft-Fresh" style="display:none;"/> 
+ </span> </span>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/Article"> 
+        <h5 style="margin-bottom:0px">
+         <a href="stati/chast-3.-nastrojka-epg-v-tvheadend.html" class="mylink" style="cursor: pointer" itemprop="mainEntityOfPage">Часть 3. Подключение программы передач (EPG) в  Tvheadend </a>
+         </h5>
+        <meta itemprop="headline" content="Часть 3. Настройка epg в Tvheadend">
+         <meta itemprop="datePublished" content="2021-02-19"/>
+        <meta itemprop="dateModified" content="2021-08-02"/> 
+       <meta itemprop="description" content="Детальное описание подключения сторонних источников программы передач (EPG) на сервер потокового вещания Tvheadend  с наглядными примерами. "/>
+       <meta itemprop="keywords" content="сервер потокового вещания,настройка tvheadend,подключение epg"/>
+         <span  itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="admin"/>
+        </span>  
+    <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.27&nbsp;&nbsp;	 	&#128528; 106</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> сервер потокового вещания,настройка tvheadend,подключение epg</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="106">
+<meta itemprop="ratingValue" content="2.27">
+
+
+</span> 
+
+
+<figure>
+<a href="stati/chast-3.-nastrojka-epg-v-tvheadend.html" class="mylink"> <img itemprop="image" src="assets/files/tvheadend_logo.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px">Детальное описание подключения сторонних источников программы передач (EPG) на сервер потокового вещания Tvheadend  с наглядными примерами. </p>
+     <p class="text-right"><a href="stati/chast-3.-nastrojka-epg-v-tvheadend.html" class="mylink"  >Перейти &#8594; </a></p>
+     <span  itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Soft-Fresh">
+        <meta itemprop="address" content="Russia">
+        <meta itemprop="telephone" content="-">
+             <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <img itemprop="url image" src="https://soft-fresh.ru/logo.png" alt="Soft-Fresh" style="display:none;"/> 
+ </span> </span>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/Article"> 
+        <h5 style="margin-bottom:0px">
+         <a href="stati/chast-2.-nastrojka-tvheadend.html" class="mylink" style="cursor: pointer" itemprop="mainEntityOfPage">Часть 2. Послеустановочная настройка  сервера потокового вещания  Tvheadend </a>
+         </h5>
+        <meta itemprop="headline" content="Часть 2. Настройка Tvheadend">
+         <meta itemprop="datePublished" content="2020-09-21"/>
+        <meta itemprop="dateModified" content="2020-09-23"/> 
+       <meta itemprop="description" content="Детальное описание  послеустановочной настройки (добавление трансляций в ручном и автоматическом режиме, настройка учетных записей пользователей) сервера потокового вещания Tvheadend для работы с IPTV потоками с наглядными примерами. "/>
+       <meta itemprop="keywords" content="сервер потокового вещания,настройка tvheadend"/>
+         <span  itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="admin"/>
+        </span>  
+    <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.62&nbsp;&nbsp;	 	&#128528; 100</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> сервер потокового вещания,настройка tvheadend</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="100">
+<meta itemprop="ratingValue" content="2.62">
+
+
+</span> 
+
+
+<figure>
+<a href="stati/chast-2.-nastrojka-tvheadend.html" class="mylink"> <img itemprop="image" src="assets/files/tvheadend_logo.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px">Детальное описание  послеустановочной настройки (добавление трансляций в ручном и автоматическом режиме, настройка учетных записей пользователей) сервера потокового вещания Tvheadend для работы с IPTV потоками с наглядными примерами. </p>
+     <p class="text-right"><a href="stati/chast-2.-nastrojka-tvheadend.html" class="mylink"  >Перейти &#8594; </a></p>
+     <span  itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Soft-Fresh">
+        <meta itemprop="address" content="Russia">
+        <meta itemprop="telephone" content="-">
+             <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <img itemprop="url image" src="https://soft-fresh.ru/logo.png" alt="Soft-Fresh" style="display:none;"/> 
+ </span> </span>
+   </section>
+  </div></div>
+        </div>
+ </div> 
+ 
+
+<div class="row">
+  <!-- <div class="col col-2">
+       
+	    			    <aside> 
+<h6 style="text-align: center; margin-bottom: 0px; font-size: 85%">Навигация</h6>
+			       
+			       <ul class="nav-collapse" style="border-radius: 5px"><li> <a href="https://soft-fresh.ru/programmyi/3d-redaktoryi/" >3D редакторы<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">2</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/antivirusyi/" >Антивирусы<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">9</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/audio/" >Аудио<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">10</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/brauzeryi/" >Браузеры<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">12</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/vebmastering/" >Вебмастеринг<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">3</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/video/" >Видео<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">15</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/grafika/" >Графика<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">10</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/diagnostika/" >Диагностика<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">13</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/obuchenie/" >Обучение<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">8</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/obshhenie/" >Общение<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">3</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/rabota/" >Работа<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">1</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/razrabotka/" >Разработка<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">2</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/set/" >Сеть<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">5</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/sistema/" >Система<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">13</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/tekst/" >Текст<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">8</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/utilityi/" >Утилиты<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">19</span></a> </li><li> <a href="https://soft-fresh.ru/programmyi/emulyatoryi/" >Эмуляторы<span class="label badge primary outline" style="display: inline-block; padding-left: 3px; margin-left: 10px;">5</span></a> </li>	</ul> 
+			       
+			       
+				</aside>
+			  </div> -->
+	 <div class="row hide-on-small">
+    
+   	<div class="centered text-center" style="padding: 5px">
+   	    <h5 style="text-align: center; margin-bottom: 0px; font-size: 85%"><strong> Популярные категории</strong></h5>
+   	    	<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%22%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D0%B0%22" >"песочница"</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=3D%20%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80" >3D редактор</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=Android&amp;nbsp%3B%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80" >Android&nbsp;эмулятор</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=BSoD&amp;nbsp%3B%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" >BSoD&nbsp;анализ</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=FTP%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" >FTP клиент</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=Live&amp;nbsp%3BUSB" >Live&nbsp;USB</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=PDF&amp;nbsp%3B%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%89%D0%B8%D0%BA" >PDF&nbsp;просмотрщик</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=PS2&amp;nbsp%3B%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80" >PS2&nbsp;эмулятор</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=RAM&amp;nbsp%3B%D1%82%D0%B5%D1%81%D1%82" >RAM&nbsp;тест</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=SFTP%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" >SFTP клиент</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=VOIP-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" >VOIP-клиент</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=Wi-Fi&amp;nbsp%3B%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%80" >Wi-Fi&nbsp;сканер</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=file&amp;nbsp%3Brecovery" >file&nbsp;recovery</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=hdd%20%D1%82%D0%B5%D1%81%D1%82" >hdd тест</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=multiboot&amp;nbsp%3BUSB" >multiboot&nbsp;USB</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=music&amp;nbsp%3Bstudio" >music&nbsp;studio</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=remote&amp;nbsp%3Bcontrol" >remote&nbsp;control</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%20TV" >Торрент TV</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%AD%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80&amp;nbsp%3B%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D0%BA" >Эмулятор&nbsp;приставок</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%20%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8" >агрегатор музыки</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" >анимация</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%B9%D0%B7%D0%B5%D1%80" >анонимайзер</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81" >антивирус</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D0%BD%D1%82%D0%B8%D1%80%D1%83%D1%82%D0%BA%D0%B8%D1%82" >антируткит</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D1%88%D0%B8%D0%BD%D0%B3" >антифишинг</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%82%D0%BE%D1%80" >архиватор</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" >астрология</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%20%D0%BC%D0%B8%D0%BA%D1%88%D0%B5%D1%80" >аудио микшер</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D0%BF%D1%80%D0%BE%D0%B8%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" >аудиопроигрыватель</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B0%D1%83%D0%B4%D0%B8%D0%BE%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80" >аудиоредактор</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80" >браузер</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA" >быстрый поиск</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B2%D0%B5%D0%B1%20%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C" >веб контроль</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BF%D1%80%D0%BE%D0%B8%D0%B3%D1%80%D1%8B%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" >видеопроигрыватель</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80" >видеоредактор</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B2%D0%B8%D0%B4%D0%B6%D0%B5%D1%82%D1%8B" >виджеты</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D0%B5%D0%B9" >восстановление паролей</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%BE%D0%B2" >восстановление разделов</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B3%D0%B5%D0%BD%D0%B5%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" >генеалогия</a></span>
+<span class="label outline" ><a href="vot-chto-najdeno.html?tag=%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82" >голосовой клиент</a></span> </div>
+    
+</div>		  
+			  
+ <div class="col col-12">
+    <h3 style="border-bottom: 1px dashed rgba(0, 0, 0, 0.25) " >Новые поступления</h4>
+   <div class="row"> 
+     <div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="Wget ver. 1.19.1">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/vebmastering/wget.html" class="mylink" style="cursor: pointer">Wget ver. 1.19.1</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="копирование содержимого веб-сайтов">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.79&nbsp;&nbsp;	 	&#128528; 173</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> копирование содержимого веб-сайтов</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="173">
+<meta itemprop="ratingValue" content="2.79">
+</span> 
+<figure>
+<a href="programmyi/vebmastering/wget.html" class="mylink"> <img src="assets/files/wget-лого.jpeg" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">Wget - бесплатная утилита с открытым исходным кодом для загрузки содержимого веб страниц на компьютер пользователя. Из отличительных особенностей Wget, необходимо выделить:  возможность тонкой пользовательской настройки функционала программы, умение работать с различными протоколами передачи данных (HTTP, HTTPS и FTP),  а также воссоздавать структуру каталогов сайта, используя метод "рекурсивной загрузки". Помимо этого  приложение прекрасно работает при медленных  и нестабильных сетевых подключениях, благодаря встроенной функции автоматического реконнекта с сервером, также Wget поддерживает соблюдение исключений в файле robots.txt  и умеет пересоздавать локальные ссылки в скаченных файлах с учетом, заданных пользователем правил.</p>
+   <p class="text-right"><a  href="programmyi/vebmastering/wget.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="Sweet Home 3D ver. 5.4">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/obuchenie/sweet-home-3d.html" class="mylink" style="cursor: pointer">Sweet Home 3D ver. 5.4</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="дизайн интерьеров">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.72&nbsp;&nbsp;	 	&#128528; 178</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> дизайн интерьеров</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="178">
+<meta itemprop="ratingValue" content="2.72">
+</span> 
+<figure>
+<a href="programmyi/obuchenie/sweet-home-3d.html" class="mylink"> <img src="assets/files/SweetHome3D-logo.jpeg" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">Sweet Home 3D - бесплатное приложение с открытым исходным кодом для моделирования дизайна интерьеров с возможностью просмотра созданных планов в 3D проекции.  Из особенностей Sweet Home 3D, стоит отметить: большое разнообразие текстур и  различных моделей  интерьера  (мебель, деревья, люди),  представленных, как официальным сообществом, так и сторонними разработчиками, помимо этого,  присутствует  возможность создания  собственных элементов, с помощью сторонних приложений ( Art of Illusion или Blender). Также необходимо упомянуть о   детально проработанном интерфейсе  программы, позволяющим  легко создать уникальную планировку, даже тем пользователям, которые  не имеют особых навыков, связанных с дизайном и архитектурой. </p>
+   <p class="text-right"><a  href="programmyi/obuchenie/sweet-home-3d.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="RetroShare ver. 0.6.3">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/rabota/retroshare.html" class="mylink" style="cursor: pointer">RetroShare ver. 0.6.3</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="чат,почтовый клиент,обмен файлами">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.78&nbsp;&nbsp;	 	&#128528; 161</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> чат,почтовый клиент,обмен файлами</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="161">
+<meta itemprop="ratingValue" content="2.78">
+</span> 
+<figure>
+<a href="programmyi/rabota/retroshare.html" class="mylink"> <img src="assets/files/retroshare-logo.jpeg" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">RetroShare - бесплатная программа (платформа) для безопасного  обмена информацией и приватного общения, с открытым исходным кодом. В состав RetroShare входят следующие компоненты: чат с возможностью обмена сообщениями и совершением видео и голосовых звонков, почта, форум с возможностью читать и писать сообщения находясь оффлайн,  приватный обмен файлами  между участниками сети. Особый упор в приложении сделан на защите пользовательской информации, сама сеть  децентрализована, т.е. не имеет какого-то одного, главного сервера и основана на  протоколе BitTorrent, для идентификации узлов используется протокол OpenPGP, практически не имеющий уязвимостей, все соединения  и сообщения шифруются  с помощью криптографического пакета OpenSSL.
+</p>
+   <p class="text-right"><a  href="programmyi/rabota/retroshare.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="Belarc Advisor ver. 8.5c">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/diagnostika/belarc-advisor.html" class="mylink" style="cursor: pointer">Belarc Advisor ver. 8.5c</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="отчет о системе,отчет о безопасности">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;2.91&nbsp;&nbsp;	 	&#128528; 151</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> отчет о системе,отчет о безопасности</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="151">
+<meta itemprop="ratingValue" content="2.91">
+</span> 
+<figure>
+<a href="programmyi/diagnostika/belarc-advisor.html" class="mylink"> <img src="assets/files/belarc_advisor-logo.jpg" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">Belarc Advisor - бесплатная программа, позволяющая создать и вывести в веб браузере детальный отчет об аппаратной и программной составляющей компьютера или ноутбука.  Приложение Belarc Advisor позволяет просмотреть информацию о процессоре, материнской плате, установленных модулях  оперативной памяти , жестком диске, видеокарте,  сетевых и периферийных устройствах, подключенных к ПК. Помимо вышеперечисленной информации в отчете доступны данные об уровне антивирусной безопасности, выводятся данные о критических уязвимостях операционной системы и многое другое. Также стоит отметить, что программа сохраняет все данные на компьютере пользователя и не отправляет их на какой-либо сервер в интернет. </p>
+   <p class="text-right"><a  href="programmyi/diagnostika/belarc-advisor.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+   </div></div>
+ 
+   <div class="col col-12"> 
+ <h3 style="margin-top: 5px; border-bottom: 1px dashed rgba(0, 0, 0, 0.25)">Рекомендуем</h4>
+  <div class="row block equal"> 
+  <div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="Lunascape Orion ver. 6.15.0">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/brauzeryi/lunascape.html" class="mylink" style="cursor: pointer">Lunascape Orion ver. 6.15.0</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="браузер">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;3.14&nbsp;&nbsp;	 	&#128528; 194</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> браузер</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="194">
+<meta itemprop="ratingValue" content="3.14">
+</span> 
+<figure>
+<a href="programmyi/brauzeryi/lunascape.html" class="mylink"> <img src="assets/files/lunascape.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description"> Lunascape Orion  - бесплатный браузер от разработчиков из Японии. Отличительной особенностью данного продукта  является поддержка 3 движков для отображения веб-страниц:  Gecko, Trident и WebKit, а также оптимизация скорости выполнения сценариев JavaScript.  Браузер автоматически выбирает оптимальный движок для просматриваемой страницы, что обуславливает высокую скорость  работы в интернете. Помимо вышеперечисленного, по умолчанию в браузер встроено более 100 функций, упрощающих жизнь пользователю. </p>
+   <p class="text-right"><a  href="programmyi/brauzeryi/lunascape.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="Maxthon Cloud ver. 5.0.2.900">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/brauzeryi/maxthon.html" class="mylink" style="cursor: pointer">Maxthon Cloud ver. 5.0.2.900</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="браузер">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;3.11&nbsp;&nbsp;	 	&#128528; 174</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> браузер</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="174">
+<meta itemprop="ratingValue" content="3.11">
+</span> 
+<figure>
+<a href="programmyi/brauzeryi/maxthon.html" class="mylink"> <img src="assets/files/maxthon.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">Веб-браузер Maxthon  - бесплатный продукт от разработчиков из Китая, активно использующий в работе облачные технологии.  Из интересных особенностей можно отметить: авторизацию посредством мобильного телефона, синхронизацию данных учетной записи в облаке, благодаря этому  работа с сохраненными данными может вестись с любого устройства подключенного к аккаунту. Maxthon использует в работе  2 движка -  Microsoft Trident и WebKit, с возможностью переключения между ними.  По состоянию на 2016 год входит в ТОП-5 самых популярных  браузеров в мире, а также рекомендован для использования в среде Windows, компанией Microsoft. </p>
+   <p class="text-right"><a  href="programmyi/brauzeryi/maxthon.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="TestDisc (PhotoRec)  ver. 7.0">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/sistema/testdisc-photorec.html" class="mylink" style="cursor: pointer">TestDisc (PhotoRec)  ver. 7.0</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="восстановление разделов,file&nbsp;recovery">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;3.1&nbsp;&nbsp;	 	&#128528; 166</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> восстановление разделов,file&nbsp;recovery</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="166">
+<meta itemprop="ratingValue" content="3.1">
+</span> 
+<figure>
+<a href="programmyi/sistema/testdisc-photorec.html" class="mylink"> <img src="assets/files/TestDisk-logo.png" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">TestDisc -  мощный, полностью бесплатный,  многофункциональный комплекс  для восстановления разделов жесткого диска и поиска удаленных файлов, с открытым исходным кодом. Основное предназначение программы - восстановление системных разделов и загрузочных секторов жесткого диска, утраченных в результате  действий пользователя,  программной ошибки,  или  работы вирусов, помимо этого в состав TestDisc включена  бесплатная утилита PhotoRec, позволяющая восстановить  данные, удаленные, как вручную, так и после форматирования накопителя при переустановке операционной системы.  Отличительной особенностью TestDisc является возможность  запуска абсолютно  на любой версии Windows, а также из под ОС. </p>
+   <p class="text-right"><a  href="programmyi/sistema/testdisc-photorec.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+<div class="col col-3"  style="padding: 0px 0px 0px 10px">
+    <section itemscope itemtype="http://schema.org/SoftwareApplication"> 
+    <meta itemprop="headline" content="VoiceMeeter Banana ver. 2.0.3.3">
+               <h5 style="margin-bottom:0px">
+         <a  itemprop="mainEntityOfPage" href="programmyi/audio/voicemeeter.html" class="mylink" style="cursor: pointer">VoiceMeeter Banana ver. 2.0.3.3</a>
+                  </h5>
+        <meta itemprop="applicationCategory" content="аудио микшер">
+           <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"> 
+        <meta itemprop="price" content="0"/>
+           <meta itemprop="priceCurrency" content="RUB" />
+        </span>
+        <meta itemprop="operatingSystem" content="Windows">
+         <p class="text-left" style="font-size: 10px;margin-top: 5px;margin-bottom: 5px;line-height: 10px;"><strong>Рейтинг:</strong>&nbsp;	&#127775;3.1&nbsp;&nbsp;	 	&#128528; 104</p>
+    <p class="text-left" style="font-size: 10px;margin-bottom: 10px;margin-top: 0px;line-height: 10px;"><strong>Теги:</strong>&nbsp;<span style="font-size: 10px;font-family:PT Sans,sans-serif;padding: 2px 4px 2px 4px"> аудио микшер</span></p>
+<span class="totalvotes" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" >
+    <meta itemprop="bestRating" content="5">
+<meta itemprop="worstRating" content="1">
+<meta itemprop="ratingCount" content="104">
+<meta itemprop="ratingValue" content="3.1">
+</span> 
+<figure>
+<a href="programmyi/audio/voicemeeter.html" class="mylink"> <img src="assets/files/voicemeeter-banana-лого.jpg" alt="Soft-Fresh" style="float:left;box-shadow: 0 0 3px ; margin-right:10px;padding: 5px 5px 5px 5px;border:1px solid rgba(0,0,0,.25); border-radius:5px;width:110px;height:110px"></a>
+</figure>
+  <p style="margin-bottom:5px" itemprop="description">VoiceMeeter Banana -  бесплатный виртуальный аудио микшер для подключения и микширования различных  источников звука, с последующей возможностью редактирования в любом приложении для обработки аудио данных. Из особенностей VoiceMeeter, стоит отметить: поддержку различных аудио интерфейсов (MME, Direct-X, KS, WaveRT, WASAPI и ASIO), встроенный аудио рекордер, поддерживающий воспроизведение и запись большинства известных аудио форматов (WAV, AIFF, BWF, MP3 + MP4, M4A, MOV, AVI, WMA, WMV), наличие продвинутого 8 канального эквалайзера, поддержку вывода  звука в форматах 5.1 и 7.1. Помимо этого приложение обладает продвинутой системой настроек, позволяющих  управлять вводом и выводом  звуковых данных на профессиональном уровне.
+</p>
+   <p class="text-right"><a  href="programmyi/audio/voicemeeter.html" class="mylink"  >Перейти &#8594; </a></p>
+   </section>
+  </div>
+</div></div></div></div>
+
+  
+
+
+				
+			
+			 <a href="#0" class="cd-top">Top</a>
+ <div class="clear"></div>
+ 	
+    	   
+  <script type="text/javascript"   src="//vk.com/js/api/openapi.js?142"></script>
+    <div class="row">
+<div class="col col-4 aligner" >
+<!-- VK Widget -->
+<!-- VK Widget -->
+<!-- VK Widget -->
+<div id="vk_groups" style="margin-bottom:20px"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 1, width: "300", height: "190"}, 61894347);
+</script></div>
+    <div class="col col-4 aligner"  style="margin-bottom:20px">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.8&appId=1209468879135093";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-page" rel="nofollow" data-href="https://www.facebook.com/Soft-fresh-1876823382540921" data-tabs="" data-width="300" data-height="175" data-small-header="true" data-adapt-container-width="false" data-hide-cta="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Soft-fresh-1876823382540921" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Soft-fresh-1876823382540921">Soft-fresh</a></blockquote></div>
+    </div>
+    <div class="col col-4 aligner" style="margin-bottom:10px" >
+    <div id="ok_group_widget"></div>
+<script>
+!function (d, id, did, st) {
+  var js = d.createElement("script");
+  js.src = "https://connect.ok.ru/connect.js";
+  js.onload = js.onreadystatechange = function () {
+  if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") {
+    if (!this.executed) {
+      this.executed = true;
+      setTimeout(function () {
+        OK.CONNECT.insertGroupWidget(id,did,st);
+      }, 0);
+    }
+  }}
+  d.documentElement.appendChild(js);
+}(document,"ok_group_widget","54470513131756",'{"width":300,"height":135}');
+</script>
+        </div> </div>
+ <footer id="footer" style="margin-bottom: 10px"> 
+         <p class="pull-left" style="margin-bottom: 0px" >  
+    	&copy; Soft-Fresh 2016-2022. All rights reserved.
+    	</p>
+    	<p class="pull-right"  style="text-align:right;margin-bottom: 0px" >
+    	 Реализация и продвижение:&nbsp;смех</p>
+    	    <script type="text/javascript">
+jQuery(document).ready(function ($) {
+$(".fancybox")
+    .attr('rel', 'gallery')
+    .fancybox({
+        padding : 0
+   });
+});
+</script>
+    	    <script type="text/javascript">
+    $(document).on('click', '.button', function() {
+      $.ajax({
+        type: 'POST',
+        url: 'index/',
+        data: 'url='+$(this).attr('href')
+          +'&action=countButton&but='
+          +$(this).attr('data-btntype'),
+        success: function(msg){
+          msg = JSON.parse(msg);
+          window.location.href = msg.url;
+        }
+      });
+      return false;
+    });
+</script> 
+	 	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90664775-1', 'auto');
+  ga('send', 'pageview');
+  setTimeout("ga('send', 'event', '15 seconds', 'read')",15000);
+
+</script>
+    	<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter42272334 = new Ya.Metrika2({
+                    id:42272334,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/42272334" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    		
+    	<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2854809", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2854809;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+
+
+    	<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 4462653
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript><img src="//counter.rambler.ru/top100.cnt?pid=4462653" alt="rambler"></noscript>
+<!-- END Top100 (Kraken) Counter -->
+    </footer> 
+  <div class="col col-3" > 	<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t14.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet--></div>
+   
+  
+
+	</body>
+</html>

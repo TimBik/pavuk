@@ -1,0 +1,1167 @@
+<!doctype html>
+<html class="no-js" lang="ru_RU">
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Продвижение и сео раскрутка сайта | seo оптимизация сайтов и интернет магазинов - Агентство интернет-маркетинга «Pro Fits»</title>
+        <meta name="description" content="ProFits - раскрутка сайта, seo, продвижение сайта, seo продвижение, сео оптимизация, seo оптимизация, раскрутка интернет магазина, seo раскрутка, оптимизация сайта, продвинуть сайт">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="shortcut icon" type="image/x-icon" href="img/icon/favicon.png">
+
+		<!-- all css here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!--<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/icofont.css">
+        <link rel="stylesheet" href="css/meanmenu.min.css">
+        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+		<link rel="stylesheet" href="css/animated-headlines.css">
+        <link rel="stylesheet" href="css/shortcode/default.css">
+        <link rel="stylesheet" href="css/shortcode/shortcodes.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+	<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1139628739548877');
+  fbq('track', 'PageView');
+</script>
+    </head>
+    <body>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-105305488-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+	
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1139628739548877&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+        <!-- header area start -->
+		<header>
+			<nav id="header-top" class="navbar">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-7 col-xs-12">
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation" aria-expanded="false">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+								<a class="navbar-brand" href=""><img src="img/icon/logo.png" alt="logo" class="img-responsive"></a>
+							
+							</div>
+							<div class="collapse navbar-collapse" id="navigation">
+								<ul class="nav navbar-nav navbar-right">
+									<li><a href="#statistics">Статистика</a></li>
+									<li><a href="#feeds">СМИ о нас</a></li>
+									<li><a href="#cases">Кейсы</a></li>
+									<li><a href="#contact">Контакты</a></li>
+									<li class="hidden-md hidden-lg"><a href="tel:+380937402680">+38 (093) 740 26 80</a></li>
+									<li class="hidden-md hidden-lg"><a class="download-btn" onClick="ga('send', 'event', 'zvonok', 'zayavka');" href="#contact">Заказать звонок</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-5 hidden-xs">
+							<div class="collapse navbar-collapse" id="navigation">
+								<ul class="nav navbar-nav">
+									<li><a href="tel:+380937402680">+38 (093) 740 26 80</a></li>
+									<li><a class="download-btn" onClick="ga('send', 'event', 'zvonok', 'zayavka');" href="#contact">Заказать звонок</a></li>
+							
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</header>
+		<!-- header area end -->
+		<!-- hero area start -->
+		<div class="hero-area slider-1" id="slider-area">
+
+			<div class="slider">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="hero-text">
+
+							<div class="profits-gradient">
+									<img src="img/icon/ProFits.png" alt="logo" class="img-responsive">
+							</div>
+<h1>
+<span style="color:black;font-size:16px;">К нам обращаются, когда нужен <b>результат</b></span></h1>
+<span style="color:black">решения, которые ежедневно помогают делать <span style="color:red">бизнес</span> успешным</span>
+								<div class="row">
+                  <div class="col-md-6 col-xs-12">
+    								<form id="mc-form" class="contactFormFirst mt-60">
+    									<div class="row">
+    										<div class="col-md-12">
+    											<input type="text" id="uname" name="uname" autocomplete="off" placeholder="Ваше имя" type="text">
+    										</div>
+    										<div class="col-md-12">
+    											<input type="email" id="email" name="email" autocomplete="off" placeholder="E-mail" type="text">
+    										</div>
+    										<div class="col-md-12">
+    											<input type="tel" id="phone" name="phone" autocomplete="off" placeholder="Номер телефона" type="text">
+    										</div>
+    										<div class="col-md-12">
+    											<button type="submit" onClick="ga('send', 'event', 'knopka_verh', 'zayavka');" class="hero-btn">Заказать продвижение</button>
+    										</div>
+    										<div class="mailchimp-alerts text-centre col-md-12" >
+    											<div class="mailchimp-submitting"></div>
+    											<div class="mailchimp-success" style="display:none">Заявка успешно отправлена!<br>В ближайшее время мы свяжемся с вами!</div>
+    											<div class="mailchimp-error"></div>
+    										</div>
+    									</div>
+    								</form>
+                    <a href="#contact" class="hero-btn hide">Заказать продвижение</a>
+                    <div class="profits-gradient partners hidden-xs">
+                      <img src="img/icon/GooglePartners.png" alt="logo" class="img-responsive">
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-xs-12">
+
+                    <div class="block-timer">
+                      <div class="title" contenteditable="false" id="id-block5">Поможем исправить ошибки, и привести клиентов на ваш сайт.</div>
+                      <div class="timer" id="timer">
+                        <div class="title" contenteditable="false" id="id-block6">
+                          <span style="color:red">До конца недели</span>
+                        </div>
+                        <div class="post-title" contenteditable="false" id="id-block7">
+                          Уникальное предложение на подарочный аудит вашего сайта! <br/>
+						  <span style="font-size:8px;">* при заказе продвижения сайта</span>
+
+                        </div>
+                        <p style="font-size:16px;">Осталось мало времени:</p>
+                        <span class="number-wrapper mar-rig1">
+                          <span class="number days">5</span>
+                          <hr>
+                        </span>
+                        <span class="number-wrapper">
+                          <span class="number hurses">23</span>
+                          <hr>
+                        </span>
+                        <span class="number-wrapper mar-rig">
+                          <span class="number"></span>
+                          <hr>
+                        </span>
+                        <span class="number-wrapper">
+                          <span class="number minutes">30</span>
+                          <hr>
+                        </span>
+                        <span class="number-wrapper mar-rig">
+                          <span class="number"></span>
+                          <hr>
+                        </span>
+                        <span class="number-wrapper">
+                          <span class="number secunds">14</span>
+                          <hr>
+                        </span>
+                        <span class="number-wrapper end">
+                          <span class="number"></span>
+                          <hr>
+                        </span>
+                        <div class="clearfix"></div>
+                        <div class="string-time">
+                          <span class="ddays">дней</span>
+                          <span class="hhours">часа</span>
+                          <span class="mminutes">минут</span>
+                          <span class="ssecunds">секунд</span>
+                        </div>
+                        <div class="clearfix"></div>
+                      </div>
+                    </div>
+
+
+                  </div>
+                </div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="hero-text">
+								<p class="mt-10 mb-10">Начните получать до <b>188 ЗАКАЗОВ</b> в месяц за <b>50 ДНЕЙ</b> с помощью инструментов продвижения Сайта</p>
+								<div class="profits-gradient">
+									<img src="img/icon/computer.png" alt="logo" class="img-responsive">
+								</div>
+							</div>
+						</div>
+
+						<div class="col-md-12">
+							<div class="text-center mt-10 mb-10">
+								<h3>
+									Наша миссия - это детальное погружение в Ваш бизнес
+								</h3>
+								<h4 style="font-size:16px;">
+									Мы за личные встречи и с радостью приедем к Вам в офис или на экскурсию на производство,<br>
+									чтобы разработать наиболее точную и эффективную стратегию продвижения и рекламы с целью увеличения потока ваших клиентов
+								</h4>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- hero area end -->
+
+		<section id="statistics" class="subcribe-area pt-70 pb-60 bg-6">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="section-heading pb-35 text-center">
+							<h2>Наш опыт и квалификация</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<span class="counter">11</span>
+							</div>
+							<div class="service-content">
+								<p>лет профессионального<br>продвижения сайтов на рынке СНГ</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<span class="counter">32</span>
+							</div>
+							<div class="service-content">
+								<p>реализованых проекта за<br>последние 6 месяцев</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<span class="counter">8</span>
+							</div>
+							<div class="service-content">
+								<p>– в столько раз и более выросло<br>количество звонков у наших клиентов</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<span class="counter">81</span>
+							</div>
+							<div class="service-content">
+								<p>% поисковых запросов<br>выведено в ТОП 10</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<span class="counter">24</span>
+							</div>
+							<div class="service-content">
+								<p>SEO и UI/UX аудитов было проведено за последние 3 месяца</p>
+							</div>
+						</div>
+
+					</div>
+						<div class="col-md-6 col-sm-6">
+						<div class="single-service">
+							<div class="service-icon">
+								от <span class="counter">50</span>
+							</div>
+							<div class="service-content">
+								<p>тыс. трафика привлекаем ежедневно на сайты наших клиентов</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+
+    <section id="calculator" class="hidden-xs">
+    			<div class="container">
+            <div class="row">
+              <div class="col-md-12">
+                <h2>Сколько я смогу <span class="red">з</span>аработать?</h2>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="pull-left">
+                 <h3>Калькулятор прибыли</h3>
+                 <div id="clicks">
+                  <p>Количество кликов:</p>
+                  <div id="slider" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false"><div id="super_bg1"></div><div id="omg" class="ui-slider-range ui-widget-header ui-corner-all ui-slider-range-min" style="width: 4.4%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 4.4%;">2450</a></div>
+                 </div>
+                 <div id="customers"><br><br>
+                  <p>Конверсия сайта:</p>
+                  <div id="slider-1" class="ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" aria-disabled="false"><div id="super_bg2"></div><div id="omg1" class="ui-slider-range ui-widget-header ui-corner-all ui-slider-range-min" style="width: 51.3333%;"></div><a class="ui-slider-handle ui-state-default ui-corner-all" href="#" style="left: 51.3333%;">30</a></div>
+                 </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="text-center">
+        					<img src="img/money.png" alt="">
+        					<div id="how_much_clients"><span>318</span> клиентов</div>
+        					<p>И за <span class="clsdc">12 </span> месяцев <br>я получу <span class="clsdc"><span id="cmnsd">109000</span></span>  клиентов</p>
+        					<a href="#contact" id="mds" data-reveal-id="recall">получить клиентов</a>
+        				</div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <h2>Мы гарантируем увеличение клиентов <br>
+        					в вашем <span class="red">б</span>изнесе!
+        				</h2>
+              </div>
+            </div>
+    			</div>
+    		</section>
+
+			  <section id="packages" class="packages bg-9 pt-40 pb-30">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="blue-block">
+            <div class="title">
+              <div class="title-cell">
+              <div class="packages-title">
+                Пакет «Минимальный»
+              </div>
+              <div class="packages-subtitle">
+                Подходит для небольших сайтов с ограниченным бюджетом
+              </div>
+            </div>
+          </div>
+              <ul class="packages-list">
+			   <li>Проводим аудит вашего сайта</li>
+			   <li>Отслеживаем поведение конкурентов</li>
+               <li>Мы с вами подбираем наиболее выгодные направления для продвижения</li>
+			   <li>Выстраиваем длительную стратегию на достижение результата</li>
+			   <li>5-12% ожидаемый прирост трафика </li>
+			   <li>100-200 ключевых слов в продвижении </li>
+			   <li>Бюджет от 500$</li>	
+              </ul>
+            </div>
+            <div class="mt-20 mb-20 text-center">
+              <a class="download-btn" href="#contact">Узнать подробнее</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="yellow-block">
+              <div class="title">
+                <div class="title-cell">
+              <div class="packages-title">
+               Пакет «Стабильный»
+              </div>
+              <div class="packages-subtitle">
+                Подходит для средних и крупных компаний
+              </div>
+              </div>
+              </div>
+              <ul class="packages-list">
+			   <li>Проводим аудит вашего сайта</li>
+			   <li>Отслеживаем поведение конкурентов</li>
+               <li>Мы с вами подбираем наиболее выгодные направления для продвижения</li>
+			   <li>Выстраиваем длительную стратегию на достижение результата</li>
+			   <li>7-15% ожидаемый прирост трафика </li>
+			   <li>200-500 ключевых слов в продвижении </li>
+               <li>стоимость работ от 700$</li>
+              </ul>
+            </div>
+            <div class="mt-20 mb-20 text-center">
+              <a class="download-btn" href="#contact">Узнать подробнее</a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="red-block">
+              <div class="title">
+                <div class="title-cell">
+              <div class="packages-title">
+               Пакет «VIP»
+              </div>
+              <div class="packages-subtitle">
+                Подходит для сайтов, которые хотят быть лидерами рынка
+              </div>
+              </div>
+              </div>
+              <ul class="packages-list">
+               <li>Регулярно проводим аудит вашего сайта</li>
+			   <li>Мониторим поведение конкурентов</li>
+               <li>Мы с вами подбираем наиболее выгодные направления для продвижения</li>
+			   <li>Выстраиваем длительную стратегию на достижение результата</li>
+			   <li>10-20% ожидаемый прирост трафика </li>
+			   <li>1000 и более ключевых слов в продвижении </li>
+               <li>стоимость работ от 850$</li>
+              </ul>
+            </div>
+            <div class="mt-20 mb-20 text-center">
+              <a class="download-btn" href="#contact">Узнать подробнее</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+			
+  
+
+
+    <section class="callback-block callback-green">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="text">
+              <img src="img/ico2.png" alt="" class="ico">
+              <br>
+              Оставьте заявку и узнайте как <span class="red">получить подарок</span></br>
+              <span class="red">2000 грн.</span> для Вашей рекламной кампании!</br>
+              И мы свяжемся с Вами уже сегодня.
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="order_form">
+  		       <form action="#" method="post" id="mc-form-2">
+              <div class="row l_name"><input type="text" id="uname" name="uname" placeholder="Введите Ваше имя*"></div>
+              <div class="row l_tel"><input type="text" id="email" name="email" placeholder="Введите Ваш телефон*"></div>
+              <div class="row l_mail"><input type="text" id="phone" name="phone" placeholder="Введите Ваш e-mail*"></div>
+              <div class="row_button"><button type="submit" class="hero-btn">Заказать продвижение</button></div>
+  			     </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <section class="work-with-us">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="title_box orange"><span>5 Причин работать с нами</span></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="photo">
+              <div class="pic">
+                <img src="img/photo.jpg" alt="">
+              </div>
+              Владимир Савчук<br>
+              <span>SEO эксперт</span>
+            </div>
+          </div>
+          <div class="col-md-8">
+
+            <div class="owl-carousel choose-us">
+                <div class="item">
+                  <div class="in_box">
+                    <h2>Битва за результат</h2>
+                    <div class="text">
+                      <h3><span>Делаем сайт отточеным инструментом продаж</span></h3>
+                      <img src="img/1.jpg" alt="" class="num">
+                      <p>Хорошая реклама должна вести посетителей на хорошую страницу. Тогда показатели конверсии посетителей в клиентов взлетают вверх. Наша задача делать Ваш сайт продающим.</p>
+                    </div>
+                    <h3>Самое распространенное: Битва за процесс</h3>
+                    <div class="quote_box">
+                      <span class="left">“</span>
+                      "Ваш сайт - Ваши проблемы" - Мы меняем этот подход и относимся к Вашему сайту очень бережно.
+                      <span>”</span>
+                    </div>
+                    <p>Основным фактором ранжирования на сегодняшний день в 2019 году являеться удобство пользователей на сайте</p>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="in_box">
+                      <h2>Битва за правильные ссылки</h2>
+                      <div class="text">
+                          <h3><span>Для Вашего сайта - корректные и качественные ссылки</span></h3>
+                          <img src="img/2.jpg" alt="" class="num">
+                          <p>Ресурсы, на которых будут размещены ссылки на Ваш сайт, влияют не только на ранжирование в поисковых системах, но и на доверие их к Вам. Мы подберем для Вас не спамные ресурсы, которые будут способствовать развитию Вашего сайта, а не нести вред.
+                          </p>
+                      </div>
+                      <h3>Самое распространенное: вы хотели ссылок - получите</h3>
+                      <div class="quote_box">
+                          <span class="left">“</span> Ваши ссылки - Ваши проблемы
+                          <span>”</span>
+                      </div>
+                      <p>Ссылки это фактор который позволяет влиять как положительно на сайт так и отрицательно, поэтому для подбора мы используем только проверенные инструменты</p>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="in_box">
+                      <h2>Битва за важные или правильные запросы</h2>
+                      <div class="text">
+                          <h3><span>Качественно отобранные ключевые фразы</span></h3>
+                          <img src="img/3.jpg" alt="" class="num">
+                          <p>Вы получите только полезные и действительно нужные ключевые фразы, которые принесут вам целевой трафик и продажи
+                          </p>
+                      </div>
+                      <h3>Самое распространенное: вот ключи - вот топы</h3>
+                      <div class="quote_box">Вы выбрали сами ключи - мы вам их и продвигаем.
+                          <span>”</span>
+                      </div>
+                      <p>Очень часто бывает так, что ключевые запросы не релевантны бизнесу и не дают эфекта - для этого мы много общаемся и узнаем о бизнесе</p>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="in_box">
+                      <h2>Битва за продажи</h2>
+                      <div class="text">
+                          <h3><span>Постоянный анализ поведенческих факторов и посещаемости сайта</span></h3>
+                          <img src="img/4.jpg" alt="" class="num">
+                          <p>Для нас важно, чтобы Ваши продажи благодаря нашей работе с каждым месяцем увеличивались, и Ваш бизнес приносил Вам прибыль. Для этого мы регулярно будем анализировать статистику посещаемости сайта поведенческие факторы и конкурентов и давать Вам рекомендации по их улучшению
+                          </p>
+                      </div>
+                      <h3>Самое распространенное: </h3>
+                      <div class="quote_box">
+                          <span class="left">“</span> Почему конкуренты выше моего сайта?
+                          <span>”</span>
+                      </div>
+                      <p>Регулярный мониторинг дает возможность увидеть реальную картину по рынку.
+					  </p>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="in_box">
+                      <h2>Битва за контент</h2>
+                      <div class="text">
+                          <h3><span>Вы получите интересные читабельные тексты</span></h3>
+                          <img src="img/5.jpg" alt="" class="num">
+                          <p>Мы заботимся о том, чтобы пользователь задержался на Вашем сайте и совершил покупку, и для этого предоставим Вам только качественный контент, интересные "цепляющие" заголовки, а не просто оптимизаторский текст, перенасыщенный ключевиками и неинтересный для пользователей
+                          </p>
+                      </div>
+                      <h3>Самое распространенное: Вот текст вот знаки вот ключи</h3>
+                      <div class="quote_box">
+                          <span class="left">“</span> Простынь текста и seo портянка
+                          <span>”</span>
+                      </div>
+                      <p>Контент это Король интернета - сегодня помимо текстовой информации важно иметь инфографику и видеоролики о которых мы даем максимум рекомендаций
+					  
+					  </p>
+                  </div>
+                </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="callback-block callback-red">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="text">
+              <img src="img/ico3.png" alt="" class="ico">
+              <br>
+              Узнайте как мы можем<br>
+              улучшить ваши продажи<br>
+			  через интернет каналы
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="order_form">
+  		       <form id="mc-form-3" method="post">
+               <div class="row l_name"><input type="text" id="uname" name="uname" placeholder="Введите Ваше имя*"></div>
+               <div class="row l_tel"><input type="text" id="email" name="email" placeholder="Введите Ваш телефон*"></div>
+               <div class="row l_mail"><input type="text" id="phone" name="phone" placeholder="Введите Ваш e-mail*"></div>
+              <div class="row_button"><button type="submit" class="hero-btn">Заказать продвижение</button></div>
+  			     </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+	  <section id="cases" class="funfact-area bg-9 pt-40 pb-30">
+			<div class="container">
+				<div class="row mt-20" id="feeds">
+					<div class="col-md-12">
+						<div class="section-heading text-center">
+							<h2>Мы в СМИ</h2>
+						</div>
+					</div>
+				</div>
+
+				<div class="row mb-40">
+					<div class="col-md-8">
+						<div class="text-center mt-40">
+							<h3>Как избежать рисков в интернете?</h3>
+							<p>02.04.2014 на телеканале "Ера" состоялось интервью нашего специалиста по SEO продвижению Владимира Савчука на тему рисков в интернете</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<iframe src="https://www.youtube.com/embed/5wuWp-_QqP8" frameborder="0" allowfullscreen=""></iframe>
+					</div>
+				</div>
+
+				<div class="row mb-40">
+					<div class="col-md-8">
+						<div class="text-center mt-40">
+							<h3>Решение проблем в сфере интернет-маркетинга</h3>
+							<p>23.06.2013 на телеканале "Ера" Владимир Савчук общался на тему опасностей и сложностей в предоставлении услуг по интернету или как сложное сделать простым.</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<iframe src="https://www.youtube.com/embed/P2yXm05aj4U" frameborder="0" allowfullscreen=""></iframe>
+					</div>
+				</div>
+
+
+				<div class="row mb-40">
+					<div class="col-md-12">
+						<div class="section-heading pb-35 text-center">
+							<h2>Наши клиенты</h2>
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="owl-carousel owl-clients">
+              <div class="item text-center">
+                <div class="tabled">
+                  <img src="img/clients/logo-agromat.jpg">
+                </div>
+              </div>
+              <div class="item text-center">
+                <div class="tabled">
+                  <img src="img/clients/logo-balance.jpg">
+                </div>
+              </div>
+              <div class="item text-center">
+                <div class="tabled">
+                  <img src="img/clients/logo-focus.jpg">
+                </div>
+              </div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_art-i-chok.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_brgroup.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_diploms.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/Logo_grandlada.jpg">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_konsol.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_labpharma.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_serviceinua.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/Logo_shoes-sport.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/Logo_transmedia.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_ucoffee-machines.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo_uteka.png">
+								</div>
+							</div>
+							<div class="item text-center">
+								<div class="tabled">
+									<img src="img/clients/logo-schulz.png">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="section-heading pb-35 text-center">
+							<h2>Кейсы</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 col-sm-12">
+						<div class="pricing-single white-bg mb-80 pb-20 pt-20 pl-20 pr-20">
+							<div class="row">
+								<div class="col-md-5">
+									<div class="price-titel">
+										<h3>ucoffee-machines.com</h3>
+									</div>
+									<table class="table mt-40">
+										<thead>
+											<tr>
+												<th class="bold">Позиция в Google</th>
+												<th class="before bold">До</th>
+												<th class="after bold">После</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>ремонт кофеавтомата</td>
+												<td>20</td>
+												<td><span class="after">1</span></td>
+											</tr>
+											<tr>
+												<td>ремонт кофемашин</td>
+												<td>86</td>
+												<td><span class="after">5</span></td>
+											</tr>
+											<tr>
+												<td>сервис кофемашин</td>
+												<td>65</td>
+												<td><span class="after">6</span></td>
+											</tr>
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Ежемесячный трафик</th>
+												<th>900</th>
+												<th><span class="after">9000</span></th>
+											</tr>
+											<tr>
+												<th>Конверсия</th>
+												<th>0.8%</th>
+												<th><span class="after">2.2%</span></th>
+											</tr>
+										</tfoot>
+									</table>
+								</div>
+
+								<div class="col-md-7">
+									<div class="price-titel">
+										<h5>Рост заявок увеличился с <span class="before">20</span> до <span class="after">342</span></h5>
+									</div>
+									<p class="after bold mt-50">Проведенные работы:</p>
+									<p class="price-descriptor">
+										Было проведено резюмирование 4 топовых <br>конкурентов. Перелинковка и оптимизация контена <br>сайта под ключевые слова. Каждый день проводился <br>анализ конверсии сайта.
+									</p>
+
+								</div>
+								<div class="col-md-12 text-center">
+									<a href="#contact" class="hero-btn">Хочу так же!</a>
+									<img class="tumblr ucoffee" src="img/other/ucoffe.png">
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-12 col-sm-12">
+						<div class="pricing-single white-bg mb-80 pb-20 pt-20 pl-20 pr-20">
+							<div class="row">
+								<div class="col-md-5">
+									<div class="price-titel">
+										<h3>schulz-brewery.com</h3>
+									</div>
+									<table class="table mt-40">
+										<thead>
+											<tr>
+												<th class="bold">Позиция в Google</th>
+												<th class="before bold">До</th>
+												<th class="after bold">После</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>мини пивоварни</td>
+												<td>84</td>
+												<td><span class="after">3</span></td>
+											</tr>
+											<tr>
+												<td>пивоварня</td>
+												<td>102</td>
+												<td><span class="after">4</span></td>
+											</tr>
+											<tr>
+												<td>пивовареное оборудование</td>
+												<td>65</td>
+												<td><span class="after">1</span></td>
+											</tr>
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Ежемесячный трафик</th>
+												<th>900</th>
+												<th><span class="after">9000</span></th>
+											</tr>
+											<tr>
+												<th>Конверсия</th>
+												<th>2.0%</th>
+												<th><span class="after">4.5%</span></th>
+											</tr>
+										</tfoot>
+									</table>
+								</div>
+
+								<div class="col-md-7">
+									<div class="price-titel">
+										<h5>Рост заявок увеличился с <span class="before">15</span> до <span class="after">212</span></h5>
+									</div>
+									<p class="after bold mt-50">Проведенные работы:</p>
+									<p class="price-descriptor">
+										Специалистами проведен анализ приимуществ <br>продукта. Составлен маркетинговый план. Создан <br>массив оригинального контента. Робота над ошибками <br>сайта. А-Б тестирование. Оптимизация сайта под <br>ключевые 277 слова.
+									</p>
+
+								</div>
+								<div class="col-md-12 text-center">
+									<a href="#contact" class="hero-btn">Хочу так же!</a>
+									<img class="tumblr schulz" src="img/other/schulz-brewery.png">
+								</div>
+							</div>
+						</div>
+					</div>
+<div class="col-md-12 col-sm-12">
+						<div class="pricing-single white-bg mb-40 pt-20 pl-20 pr-20">
+							<div class="row">
+								<div class="col-md-5">
+									<div class="price-titel">
+										<h3>cosmic.net.ua</h3>
+									</div>
+									<table class="table mt-40">
+										<thead>
+											<tr>
+												<th class="bold">Позиция в Google</th>
+												<th class="before bold">До</th>
+												<th class="after bold">После</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>корейская косметика</td>
+												<td>99</td>
+												<td><span class="after">10</span></td>
+											</tr>
+											<tr>
+												<td>корейская косметика оптом</td>
+												<td>99</td>
+												<td><span class="after">2</span></td>
+											</tr>
+											<tr>
+												<td>пилинг скатка корея</td>
+												<td>99</td>
+												<td><span class="after">5</span></td>
+											</tr>
+											<tr>
+												<td>Corx купить</td>
+												<td>99</td>
+												<td><span class="after">1</span></td>
+											</tr>
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Ежемесячный трафик</th>
+												<th>300</th>
+												<th><span class="after">45000</span></th>
+											</tr>
+											<tr>
+												<th>Конверсия</th>
+												<th>0.2%</th>
+												<th><span class="after">1.3%</span></th>
+											</tr>
+										</tfoot>
+									</table>
+								</div>
+
+								<div class="col-md-7">
+									<div class="price-titel">
+										<h5>Рост трафика с <span class="before">300</span> до <span class="after">45000</span></h5>
+									</div>
+									<p class="after bold mt-50">Проведенные работы за 6 месяцев:</p>
+									<p class="price-descriptor">
+										Составлен подробный аудит <br>Созданы технические задания по оптимизации контента. Исправлены <br>ошибки в работе сайта. Продвижение сайта по 50.000 и более <br>ключевым запросам.
+									</p>
+
+								</div>
+								<div class="col-md-12 mb-20 text-center">
+									<a href="#contact" class="hero-btn">Хочу так же!</a>
+									<img class="tumblr ucoffee" src="img/other/uteka.png">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+					<div class="col-md-12 col-sm-12">
+						<div class="pricing-single white-bg mb-40 pt-20 pl-20 pr-20">
+							<div class="row">
+								<div class="col-md-5">
+									<div class="price-titel">
+										<h3>uteka.ua</h3>
+									</div>
+									<table class="table mt-40">
+										<thead>
+											<tr>
+												<th class="bold">Позиция в Google</th>
+												<th class="before bold">До</th>
+												<th class="after bold">После</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>бухгалтерские проводки</td>
+												<td>24</td>
+												<td><span class="after">2</span></td>
+											</tr>
+											<tr>
+												<td>проводки</td>
+												<td>86</td>
+												<td><span class="after">2</span></td>
+											</tr>
+											<tr>
+												<td>вэд Украина</td>
+												<td>65</td>
+												<td><span class="after">6</span></td>
+											</tr>
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Ежемесячный трафик</th>
+												<th>16000</th>
+												<th><span class="after">480000</span></th>
+											</tr>
+											<tr>
+												<th>Конверсия</th>
+												<th>0.2%</th>
+												<th><span class="after">0.9%</span></th>
+											</tr>
+										</tfoot>
+									</table>
+								</div>
+
+								<div class="col-md-7">
+									<div class="price-titel">
+										<h5>Рост трафика с <span class="before">16000</span> до <span class="after">480000</span></h5>
+									</div>
+									<p class="after bold mt-50">Проведенные работы:</p>
+									<p class="price-descriptor">
+										Составлен четкий план работы с целевой аудиторией. <br>Создание контента и его оптимизация. Исправление <br>ошибок в работе сайта. Продвижение сайта по 50.000 <br>ключевым запросам.
+									</p>
+
+								</div>
+								<div class="col-md-12 mb-20 text-center">
+									<a href="#contact" class="hero-btn">Хочу так же!</a>
+									<img class="tumblr ucoffee" src="img/other/uteka.png">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+				<div class="row mt-20" id="feeds2">
+					<div class="col-md-12">
+						<div class="section-heading text-center">
+							<h2>Как я работаю с клиентами?</h2>
+
+						</div>
+						<div class="section-heading text-center">
+						<p>
+							1. Вы оставляете заявку, а лучше сразу звоните<br/>
+							2. Мы с вами обсуждаем детали проекта, после чего готовлю для вас индивидуальное предложение<br/>
+							3. Подписываем договор<br/>
+							4. Вы проводите предоплату<br/>
+							5. Начинаем продвигать Ваш проект<br/>
+							6. Ваши позиции, трафик и продажи начинают расти<br/>
+							7. Вы довольный клиент и рекомендуете нас друзьям, знакомым и партнерам:)
+						</p>
+						<p><span style="color:black;font-size:16px;">Оставте заявку и мы подарим Вам краткий аудит Вашего сайта со стоимостью продвижения.</span></p>           
+						<p><a style="color:red;font-size:18;" href="https://pro-fits.com.ua/Anketa_na_prodvizhenie_sayta(seo).doc">Скачать бриф на SEO продвижение</a></p>
+						</div>
+					</div>
+					<section id="contact">
+					<div class="col-md-12">
+								<form id="mc-form-bottom" class="contactFormSecond mt-60" id="contact">
+									<div class="row">
+										<div class="col-md-12">
+											<input type="text" id="uname" name="uname" autocomplete="off" placeholder="Ваше имя" type="text">
+										</div>
+										<div class="col-md-12">
+											<input type="email" id="email" name="email" autocomplete="off" placeholder="E-mail" type="text">
+										</div>
+										<div class="col-md-12">
+											<input type="tel" id="phone" name="phone" autocomplete="off" placeholder="Номер телефона" type="text">
+										</div>
+										<div class="col-md-12">
+											<button type="submit" onClick="ga('send', 'event', 'knopka_niz', 'zayavka');" class="hero-btn">Заказать продвижение</button>
+										</div>
+										<!-- mailchimp-alerts Start -->
+										<div class="mailchimp-alerts text-centre col-md-12" >
+											<div class="mailchimp-submitting"></div>
+											<div class="mailchimp-success" style="display:none">Заявка успешно отправлена!<br>В ближайшее время мы свяжемся с вами!</div>
+											<div class="mailchimp-error"></div>
+										</div>
+									</div>
+								 </form>
+
+
+
+
+					</div>
+				</div>
+				<div class="row mt-100 mb-100 contact-xs">
+					<div class="col-sm-12">
+						<div class="section-heading pb-35 text-center">
+							<h2>Контакты</h2>
+						</div>
+					</div>
+
+					<div class="col-md-12">
+						<div class="mb-70 mt-70">
+							<div class="row ml-150 mr-150">
+								<div class="col-md-8 pl-150">
+									<p>
+										Outstaff SEO Team <span class="devide-xs">«Pro Fits»</span><br>
+										г. Киев<br/>
+										ул. Озерная, 10 (Окружная дорога - Петропавловская Борщаговка)<br><br>
+										Работаем в офисе:<br/>
+										9:00-19:00 (пн-пт)<br/>
+										Всегда на связи 24/7
+									</p>
+								</div>
+								<div class="col-md-4 pr-150">
+									<p>
+										<a href="tel:+380937402680">+38 (093) 740 26 80</a><br>
+										seo@pro-fits.com.ua
+									</p>
+									</section>
+									<div class="contact-social text-left">
+										<ul>
+											<li>
+												<a href="https://www.linkedin.com/in/vladymyr-savchuk-567067179/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+											</li>
+											<li>
+												<a href="https://www.facebook.com/seo.profits.ua/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+											</li>
+											<li>
+												<a href="https://www.instagram.com/pro_seo_/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+		<!-- fun fact area end -->
+
+		<!-- Copyright Area Start -->
+		<div class="copyright-area bg-5 ptb-70">
+			<div class="container">
+				<!-- Copyright right -->
+				<div class="row">
+					<div class="col-md-12">
+						<div class="copyright-area text-center">
+							<div class="copyright-text">
+								<p>&copy;2012-2021 Pro-<span style="color:#666666">Fits</span> Все права защищены.</p>
+							</div>
+							<!-- Copyright text -->
+						</div>
+					</div>
+				</div>
+				<!-- Copyright right -->
+			</div>
+		</div>
+		<!-- Copyright Area End -->
+
+		<!-- all js here -->
+        <script src="js/vendor/jquery-1.12.4.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/slick.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 836185787;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/836185787/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            facebook: "367174133830710", // Facebook page ID
+            whatsapp: "+380937402680", // WhatsApp number
+            viber: " ", // Viber number
+            telegram: "pro_seo", // Telegram bot username
+            sms: "+380937402680", // Sms phone number
+            company_logo_url: "//storage.whatshelp.io/widget/29/2917/29179dd0ea87f45e1f8033606918c1ba/54255101_388900498324740_8464713437505650688_n.jpg", // URL of company logo (png, jpg, gif)
+            greeting_message: "Здравствуйте! Есть вопросы!\nотправьте нам сообщение и мы с радостью ответим", // Text of greeting message
+            call_to_action: "Напишите нам", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+            order: "facebook,whatsapp,telegram,sms,viber", // Order of buttons
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->
+    </body>
+</html>

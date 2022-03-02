@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="ru-RU" prefix="og: https://ogp.me/ns#">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Notepad++ 8.1.3 скачать на русском</title>
+      <meta name="description" content="Здесь вы можете скачать бесплатно русскую версию Notepad++ (Нотепад++) для Windows 10, 8, 7, Vista, XP (32/64 bit). Обзор программы, возможности, преимущества, установка, инструкция и отзывы.">
+      <meta name="keywords" content="Notepad++, Нотепад++, 8.1.3, скачать, программа, на русском, для Windows">
+      <meta property="og:locale" content="ru_RU">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Notepad++ 8.1.3 скачать на русском">
+      <meta property="og:description" content="Здесь вы можете скачать бесплатно русскую версию Notepad++ (Нотепад++) для Windows 10, 8, 7, Vista, XP (32/64 bit). Обзор программы, возможности, преимущества, установка, инструкция и отзывы.">
+      <meta property="og:url" content="https://notepadpc.ru/">
+      <meta property="og:site_name" content="Программа Notepad++">
+      <meta property="og:image" content="https://notepadpc.ru/files/screen/notepad.png">
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:title" content="Notepad++ 8.1.3 скачать на русском">
+      <meta name="twitter:description" content="Здесь вы можете скачать бесплатно русскую версию Notepad++ (Нотепад++) для Windows 10, 8, 7, Vista, XP (32/64 bit). Обзор программы, возможности, преимущества, установка, инструкция и отзывы.">
+      <meta name="twitter:image" content="https://notepadpc.ru/files/screen/notepad.png">
+      <meta name="yandex-verification" content="fb16533d11c42596">
+      <meta name="google-site-verification" content="MiuVQqTYg2TINBHtOy4v6zqZXNZSSRqkRjmrclajFBk">
+      <link rel="canonical" href="https://notepadpc.ru/">
+      <link rel="icon" type="image/x-icon" href="https://notepadpc.ru/favicon.ico">
+      <link rel="stylesheet" href="https://notepadpc.ru/css/common.css">
+   </head>
+   <body>
+      <div id="wrapper">
+         <header id="header">
+            <div class="header_logo">Notepad++</div>
+            <div class="header_soft">
+               <table>
+                  <tr>
+                     <th>Название</th>
+                     <td>Notepad++</td>
+                  </tr>
+                  <tr>
+                     <th>Версия</th>
+                     <td>8.1.3</td>
+                  </tr>
+                  <tr>
+                     <th>Лицензия</th>
+                     <td>Бесплатно</td>
+                  </tr>
+                  <tr>
+                     <th>Обновлено</th>
+                     <td>23 января 2020</td>
+                  </tr>
+                  <tr>
+                     <th>Язык</th>
+                     <td>Русский, Английский</td>
+                  </tr>
+                  <tr>
+                     <th>Windows</th>
+                     <td>10, 8, 7, Vista, XP</td>
+                  </tr>
+               </table>
+            </div>
+            <div class="header_flow">
+               <div class="header_menu">
+                  <small>&equiv; Меню сайта</small>
+                  <ul>
+                     <li data-scroll="summary"><span>Описание</span></li>
+                     <li data-scroll="feature"><span>Возможности</span></li>
+                     <li data-scroll="proscons"><span>Плюсы и минусы</span></li>
+                     <li data-scroll="download"><span>Скачать</span></li>
+                     <li data-scroll="setting"><span>Установка</span></li>
+                     <li data-scroll="howtouse"><span>Инструкция</span></li>
+                     <li data-scroll="hotkeys"><span>Горячие клавиши</span></li>
+                     <li data-scroll="plugins"><span>Плагины</span></li>
+                     <li data-scroll="reviews"><span>Отзывы</span></li>
+                  </ul>
+               </div>
+               <div class="header_share">
+                  <div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir,twitter" data-counter=""></div>
+               </div>
+            </div>
+         </header>
+         <div id="content">
+            <article class="content_article" itemscope itemtype="https://schema.org/SoftwareApplication">
+               <h1 itemprop="name">Notepad++</h1>
+               
+               <!-- Описание -->
+               <section data-block-summary>
+                  <div class="content_article_title">
+                     <h2>Notepad++ для Windows</h2>
+                  </div>
+                  <div class="content_article_entry" itemprop="description">
+                     <p><b>Notepad++ (Нотепад++) — аналог текстового редактора. Приложение разработано для облегчения работы программистов, модификаторов, пользователей, которым нужно редактировать или создать текстовый документ.</b></p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad.png" alt="Программа Notepad++" itemprop="image">
+                        <figcaption><span>Интерфейс Notepad++ (версия 7.8.3)</span></figcaption>
+                     </figure>
+                     <p>Эта программа бесплатна для скачивания, поддерживает открытие свыше сотни форматов. Работает в операционной системе Windows и ReactOS. В редакторе можно написанный код сразу открыть в браузере, посмотреть результат, исправить недочеты.</p>
+                     <p>Notepad++ имеет множество функций, которые помогают не запутаться в коде и создать без проблем необходимый продукт. Кроме этого, он быстрее обычного блокнота открывает массивные тексты.</p>
+                     <blockquote>Скачайте бесплатно последнюю версию Notepad++ на нашем сайте по прямой ссылке. Тестовый редактор имеет встроенную поддержку русского языка и работает с Windows 10, 8, 7, Vista, XP. Чтобы правильно установить программу придерживайтесь инструкции.</blockquote>
+                  </div>
+               </section>
+               <!-- /Описание -->
+               
+               <!-- Возможности -->
+               <section data-block-feature>
+                  <div class="content_article_title">
+                     <h2>Возможности программы</h2>
+                  </div>
+                  <div class="content_article_entry">
+                     <h3>Подсветка синтаксиса</h3>
+                     <p>Настраивается через интерфейс программы. Эта функция позволяет выделять разными цветами синтаксические конструкции, тем самым облегчает визуальное восприятие текста. Основные возможности: формирование списка ключевых слов, сворачивание синтаксических блоков, определение формата чисел, настройка стилей. Также подсветка проверяет, закрыты ли теги в тексте.</p>
+                     <h3>Сворачивание кода</h3>
+                     <p>Программа позволяет скрыть фрагмент кода, оставив только название функции.</p>
+                     <h3>Автодополнение</h3>
+                     <p>Вводит дополнение теста по введенной части, их описание, подсказки параметров функций. Для верной работы необходимо, чтобы строки были отсортированы в алфавитном порядке в xlm.</p>
+                     <h3>Простая смена кодировки</h3>
+                     <p>Сначала нужно вырезать выделенный код, затем кликнуть «Меню → Кодировки», выбрать кодировку вставить в код буфера обмена. Кроме того, если при печати текст выведен не в том коде, в настройках печати его можно поменять.</p>
+                     <h3>Основные функции</h3>
+                     <ul>
+                        <li>Встроенный FTP-клиент позволяет без других программ скачивать файлы, редактировать их и закачивать на хостинг;</li>
+                        <li>Менеджер проектов;</li>
+                        <li>Быстрое перетаскивание фрагментов кода с помощью выделения, перетаскивание ярлыков документов в редактор, чтобы открыть их;</li>
+                        <li>Мультистрочное редактирование;</li>
+                        <li>Использование горячих клавиш, по двойному клику можно перейти в место ошибки;</li>
+                        <li>Резервное копирование файлов;</li>
+                        <li>Запись макросов и их выполнение;</li>
+                        <li>Карта документа;</li>
+                        <li>Блоковое выделение текста, выделение нескольких разных блоков;</li>
+                        <li>Масштабирование.</li>
+                     </ul>
+                  </div>
+               </section>
+               <!-- /Возможности -->
+               
+               <!-- Плюсы и минусы -->
+               <section data-block-proscons>
+                  <div class="content_article_title">
+                     <h2>Плюсы и минусы</h2>
+                  </div>
+                  <div class="content_article_entry">
+                  <p>Учитывая множество возможностей редактора, понятен и ряд преимуществ программы.</p>
+                     <h3>Преимущества</h3>
+                     <ul class="pros">
+                        <li>Бесплатность;</li>
+                        <li>Возможность открыть несколько документов и работать в нескольких вкладках, при закрытии программы, не закрыв вкладки, изменения сохранятся;</li>
+                        <li>Поддержка большого количества языков;</li>
+                        <li>Подсветка синтаксиса;</li>
+                        <li>Функция замены спецсимволов на код;</li>
+                        <li>Программа быстра в работе и не занимает много памяти;</li>
+                        <li>Простой интерфейс программы, в сравнении с другими приложениями;</li>
+                        <li>Программу можно использовать для работы и с простыми текстами;</li>
+                        <li>Экспорт файла в другой формат;</li>
+                        <li>Большое количество плагинов.</li>
+                     </ul>
+                     <h3>Недостатки</h3>
+                     <ul class="cons">
+                        <li>Иногда возникают ошибки (в старых версиях);</li>
+                        <li>Требуется некоторое время на изучение программы.</li>
+                     </ul>
+                     <p>Notepad++ подходит для работы как начинающему, так и опытному программисту или веб-мастеру. Программа является полноценным текстовым редактором, возможно, обилие инструментов вначале покажется пугающим, но в процессе работы раскроются все преимущества нового формата.</p>
+                     <blockquote>Программа все время обновляется, появляются новые плагины, а благодаря их обилию, данный редактор каждый может подстроить под свои нужды.</blockquote>
+                  </div>
+               </section>
+               <!-- /Плюсы и минусы -->
+               
+               <!-- Скачать -->
+               <section data-block-download>
+                  <div class="content_article_title">
+                     <h2>Скачать бесплатно</h2>
+                  </div>
+                  <div class="content_article_dload">
+                     <span data-msetup="fb23d66c2ca8e2322c434954403e98fa" data-slug="notepad">Скачать Notepad++</span>
+                     <div>
+                        <table>
+                           <tr>
+                              <th>Версия</th>
+                              <th>Размер</th>
+                              <th>Файл</th>
+                           </tr>
+                           <tr>
+                              <td itemprop="softwareVersion">8.1.3</td>
+                              <td itemprop="fileSize">4.1 Мб</td>
+                              <td>exe</td>
+                           </tr>
+                        </table>
+                     </div>
+                     <p>Скачайте Notepad++ бесплатно с помощью MultiSetup или по <a href="https://notepadpc.ru/files/install/NotepadSetup.exe" itemprop="downloadUrl">прямой ссылке</a>.</p>
+                  </div>
+               </section>
+               <!-- /Скачать -->
+               
+               <!-- Установка -->
+               <section data-block-setting>
+                  <div class="content_article_title">
+                     <h2>Установка на компьютер</h2>
+                  </div>
+                  <div class="content_article_entry">
+                     <p>Notepad++ — бесплатная программа, существующая в двух версиях: портативная и стандартная с инсталляцией. Первую версия можно установить даже на usb-носитель, запускать ее можно не имея привязки к системному реестру. Удобно всегда при себе иметь редактор, который можно включить в любой момент.</p>
+                     <p>После запуска инсталлятора придерживайтесь следующей инструкции.</p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad-ustanovka-1.jpg" alt="Установка: выбор языка" itemprop="screenshot">
+                        <figcaption><span>Установка: выбор языка</span></figcaption>
+                     </figure>
+                     <p><b>1.</b> Выберите необходимый язык и нажмите «ОК».</p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad-ustanovka-2.jpg" alt="Установка: мастер установки" itemprop="screenshot">
+                        <figcaption><span>Установка: мастер установки</span></figcaption>
+                     </figure>
+                     <p><b>2.</b> В стартовом окне мастера установки выбираем «Далее».</p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad-ustanovka-3.jpg" alt="Установка: лицензионное соглашение" itemprop="screenshot">
+                        <figcaption><span>Установка: лицензионное соглашение</span></figcaption>
+                     </figure>
+                     <p><b>3.</b> Принимаем лицензионное соглашение, нажав по «Принимаю».</p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad-ustanovka-4.jpg" alt="Установка: выбор компонентов" itemprop="screenshot">
+                        <figcaption><span>Установка: выбор компонентов</span></figcaption>
+                     </figure>
+                     <p><b>4.</b> Определяем папку, в которую будут скопированы файлы программы.</p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad-ustanovka-5.jpg" alt="Установка: путь установки" itemprop="screenshot">
+                        <figcaption><span>Установка: путь установки</span></figcaption>
+                     </figure>
+                     <p><b>5.</b> Здесь выбираем набор компонентов для установки.</p>
+                     <figure>
+                        <img src="https://notepadpc.ru/files/screen/notepad-ustanovka-6.jpg" alt="Установка: инсталляция Notepad++" itemprop="screenshot">
+                        <figcaption><span>Установка: инсталляция Notepad++</span></figcaption>
+                     </figure>
+                     <p><b>6.</b> По желанию вы можете поставить галочку в пункте «Create Shortcut on Desktop», если хотите, чтобы программа после установки создала ярлык на рабочем столе. Дожидаемся окончания процесса инсталляции.</p>
+                  </div>
+               </section>
+               <!-- /Установка -->
+               
+               <!-- Инструкция -->
+               <section data-block-howtouse>
+                  <div class="content_article_title">
+                     <h2>Как пользоваться</h2>
+                  </div>
+                  <div class="content_article_entry manual">
+                     <p>Программа очень проста в освоении и использование, имеет русскоязычный интерфейс и единственное рабочее окно. Все операции с кодом производятся с помощью горячих клавиш, использование функций доступно через вкладки горизонтального меню.</p>
+                     <div class="iframe">
+                        <div data-youtube="sWE3LfSdXAY"></div>
+                     </div>
+                     <h3>Настройка редактора</h3>
+                     <p>Базовая настройка основных функций редактора и подготовка к работе: настройка табуляции, кодировки, стиля оформления и подсветки синтаксиса.</p>
+                     <div class="iframe">
+                        <div data-youtube="8y9EenE4r34"></div>
+                     </div>
+                     <h3>Удаление пустых строк</h3>
+                     <p>Способы удаления пустых строк в файле за пару кликов, основы работы с регулярными выражениями.</p>
+                     <div class="iframe">
+                        <div data-youtube="kwOq2Ls03gY"></div>
+                     </div>
+                     <h3>Сравнение двух файлов</h3>
+                     <p>Использование инструмента, который позволяет сравнивать файлы между собой, а с помощью дополнительной панели можно перемещаться по строкам нескольких документов одновременно.</p>
+                     <div class="iframe">
+                        <div data-youtube="6AcTlxFbryM"></div>
+                     </div>
+                     <h3>Подсчет количества символов</h3>
+                     <p>С помощью инструмента «TextFX» вы можете подсчитать количество символов и слов в определенном файле или в выделенном фрагменте текста.</p>
+                     <div class="iframe">
+                        <div data-youtube="U4rcsflJNW4"></div>
+                     </div>
+                  </div>
+               </section>
+               <!-- /Инструкция -->
+               
+               <!-- Горячие клавиши -->
+               <section data-block-hotkeys>
+                  <div class="content_article_title">
+                     <h2>Горячие клавиши</h2>
+                  </div>
+                  <div class="content_article_entry">
+                     <table>
+                        <tr>
+                           <th>Клавиши</th>
+                           <th>Действия</th>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + O</td>
+                           <td>Открыть новый документ</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + N</td>
+                           <td>Открыть новую вкладку</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + W</td>
+                           <td>Закрыть вкладку</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + S</td>
+                           <td>Сохранить</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Alt + S</td>
+                           <td>Сохранить как</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Shift + S</td>
+                           <td>Сохранить все</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + C</td>
+                           <td>Копировать</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + X</td>
+                           <td>Вырезать</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + A</td>
+                           <td>Выделить всё</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + V</td>
+                           <td>Вставить</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Z</td>
+                           <td>Отмена действия, вернуться на шаг назад</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Y</td>
+                           <td>Отмена действия, вернуться на шаг вперед</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + End</td>
+                           <td>Переместить текстовый курсор в конец документа</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Home</td>
+                           <td>Переместить текстовый курсор в начало документа</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + P</td>
+                           <td>Печать</td>
+                        </tr>
+                        <tr>
+                           <td>Home</td>
+                           <td>Переместить текстовый курсор в начало строки</td>
+                        </tr>
+                        <tr>
+                           <td>End</td>
+                           <td>Переместить текстовый курсор в конец строки</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + F</td>
+                           <td>Поиск по тексту</td>
+                        </tr>
+                        <tr>
+                           <td>F3</td>
+                           <td>Найти далее</td>
+                        </tr>
+                        <tr>
+                           <td>Shift + F3</td>
+                           <td>Найти предыдущее</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + F3</td>
+                           <td>Найти выделенное далее</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Shft + F3</td>
+                           <td>Найти выделенное предыдущее</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + Shft + F</td>
+                           <td>Поиск в файлах</td>
+                        </tr>
+                        <tr>
+                           <td>Ctrl + H</td>
+                           <td>Замена текста</td>
+                        </tr>
+                     </table>
+                  </div>
+               </section>
+               <!-- /Горячие клавиши -->
+               
+               <!-- Плагины -->
+               <section data-block-plugins>
+                  <div class="content_article_title">
+                     <h2>Плагины Notepad++</h2>
+                  </div>
+                  <div class="content_article_entry">
+                     <p>Скачивая любую версию редактора, в том числе и с официального сайта, вы скачиваете еще и плагины, которые обычно подходят к любой версии программы. Для их активации необходимо выбрать и установить нужные во вкладке «Плагины → Управление плагинами».</p>
+                     <ul>
+                        <li><b>autosave</b> — режим автоматического сохранения текстового файла;</li>
+                        <li><b>compare</b> — благодаря разделению рабочего окна на две половины, сравнивает ваши тексты, помечая различия цветом;</li>
+                        <li><b>documentMonitor</b> — проверка документа, во избежание его изменения другой программой;</li>
+                        <li><b>explorer</b> — существует версия light, добавляет обозреватель файлов в блокнот;</li>
+                        <li><b>external lexer KVS</b> — подсветка для синтаксиса KVS;</li>
+                        <li><b>file switcher</b> — переключатель между табами файлов, необходим, когда их открыто множество;</li>
+                        <li><b>gtag seach</b> — поиск по тэгам;</li>
+                        <li><b>GNU aspell</b> — проверяет орфографию;</li>
+                        <li><b>hex-editor</b> — добавляет значок быстрого вызова редактора HEX в блокнот;</li>
+                        <li><b>html tag</b> — добавляет горячие клавиши, можно создать наиболее удобные и частые для вашей работы сочетания;</li>
+                        <li><b>jsmin</b> — удаляет переносы и отступы, уменьшает вес файла, подходит для javascript;</li>
+                        <li><b>language help</b> — запускает специальные файлы помощи и искать в них слова;</li>
+                        <li><b>mathPad</b> — производит необходимые расчеты в документе;</li>
+                        <li><b>mime tools</b> — добавляет base64code\decode;</li>
+                        <li><b>multiClipboard</b> — история буфера обмена, применим в случае частых копипастов;</li>
+                        <li><b>nativeLang</b> — переводит меню навигации;</li>
+                        <li><b>nppAutoIndent</b> — авто отступ для некоторых языков (РНР, Java);</li>
+                        <li><b>nppCrypt</b> — шифрует файл, блокируя возможность изменений, nppDarkCrypt — асимметричное и симметричное шифрование текста;</li>
+                        <li><b>nppExec</b> — запуск строки команд с параметром;</li>
+                        <li><b>nppExport</b> — экспортирует файл в rtf, html формат;</li>
+                        <li><b>nppFtp</b> — FTP в блокноте;</li>
+                        <li><b>nppNetNote</b> — дает возможность править совместно файл нескольким людям;</li>
+                        <li><b>plugin manager</b> — скачивает/удаляет плагины;</li>
+                        <li><b>plugin update</b> — автоматическое обновление плагинов;</li>
+                        <li><b>regex helper</b> — тестирует регулярные выражения, выделяет совпадения;</li>
+                        <li><b>scrollPastEof</b> — скролит файл до бесконечности;</li>
+                        <li><b>select n launch</b> — сохраняет выделенную часть файла в нужном расширении;</li>
+                        <li><b>sourceCookifier</b> — создает превью;</li>
+                        <li><b>speech</b> — проговаривает выделенный текст;</li>
+                        <li><b>spell-checker</b> — проверяет слова;</li>
+                        <li><b>text FX</b> — преобразует текст;</li>
+                        <li><b>webEdit</b> — вставка тегов;</li>
+                        <li><b>xBrackets lite</b> — автоматически дописывает скобки;</li>
+                        <li><b>zencoding-python</b> — под питон.</li>
+                     </ul>
+                  </div>
+               </section>
+               <!-- /Плагины -->
+               
+               <!-- Отзывы -->
+               <section data-block-reviews>
+                  <div class="content_article_title">
+                     <h2>Отзывы пользователей</h2>
+                  </div>
+                  <div class="content_article_entry">
+                     <div id="vk_comments" data-vkid="7177656" data-vkapi="162" data-vkurl="https://notepadpc.ru/"></div>
+                  </div>
+               </section>
+               <!-- /Отзывы -->
+               
+            </article>
+         </div>
+         <footer id="footer">
+            <div class="footer_copy">
+               <span>&copy; 2020-2022, <b>notepadpc.ru</b> — фан сайт программы Notepad++.</span>
+               <span>Официальный сайт — <a href="https://notepadpc.ru/?go=aHR0cHM6Ly9ub3RlcGFkLXBsdXMtcGx1cy5vcmcv" rel="nofollow" target="_blank">notepad-plus-plus.org</a></span>
+            </div>
+         </footer>
+      </div>
+      <script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+      <script src="https://yastatic.net/share2/share.js"></script>
+      <script src="https://notepadpc.ru/js/jquery.js"></script>
+      <script src="https://notepadpc.ru/js/common.js"></script>
+      <script>(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");ym(55851478, "init", {clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});</script>
+      <noscript><div><img src="https://mc.yandex.ru/watch/55851478" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+   </body>
+</html>

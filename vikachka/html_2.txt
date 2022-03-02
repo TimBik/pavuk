@@ -1,0 +1,621 @@
+<!DOCTYPE HTML>
+    <html lang="ru-RU">
+    <head>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Программист 1С ЗУП</title>
+        <meta name="description" content="Услуги программирования 1С Зарплата (ЗУП) в Санкт-Петербурге. Переход с ЗУП 2.5 на 3.1. Перенос данных, доработка 1С Зарплата и управление персоналом. Доработка под потребности бухгалтерии и отдела персонала. +7 (995) 988-50-07." />
+            <link rel="image_src" href="http://i.1szup.ru/u/pic/46/97a06afd8d11e9b89e9ec04527d1a4/-/2648.970.jpg" />
+        <link rel="canonical" href="http://1szup.ru/" />
+            <link href="/news.xml" type="application/atom+xml" rel="alternate" title="Особенности перехода с ЗУП 2.5 на ЗУП 3.1" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Программист 1С ЗУП" />
+        <meta property="og:description" content="Услуги программирования 1С Зарплата (ЗУП) в Санкт-Петербурге. Переход с ЗУП 2.5 на 3.1. Перенос данных, доработка 1С Зарплата и управление персоналом. Доработка под потребности бухгалтерии и отдела персонала. +7 (995) 988-50-07." />
+        <meta property="og:url" content="http://1szup.ru/" />
+            <meta property="og:image" content="http://i.1szup.ru/u/pic/46/97a06afd8d11e9b89e9ec04527d1a4/-/2648.970.jpg" />
+        <script type="text/javascript">
+  (function(window) {
+   if (window.userSiteData) return;
+   window.userSiteData = {
+   "userTariff" : "free",
+   "search" : 1,
+   "js_revision" : "92541fdfa1c05d92ffd49ba02f81256065a53a27",
+   "auth_domain" : "setup.ru",
+   "enableAccessibility" : 0,
+   "enableOrderForm" : 0,
+   "enableConsultant" : 0,
+   "review" : 0,
+   "api" : "v3",
+   "isAgreementRequired" : 0,
+   "eshopFormCart" : 0,
+   "revision" : "92541fdfa1c05d92ffd49ba02f81256065a53a27",
+   "isFeedbackRequired" : 1,
+   "webSocketUrl" : "ws://ws.1szup.ru/form/process",
+   "lang" : "ru",
+   "cartSettings" : {
+      "cart_style" : "light",
+      "showIfEmpty" : 0,
+      "cart_position" : "right-bottom"
+   },
+   "domain_info" : {
+      "ssl_days_left" : 0
+   },
+   "calculateCabinetIcon" : false,
+   "enable_comments" : 0
+}
+;
+  }(this));
+</script>
+<script type="text/javascript">var SEARCH = 1;</script>
+<script type="text/javascript">var WEB_SOCKET_URL = 'ws://ws.1szup.ru/form/process';</script>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        
+        <link rel="stylesheet" type="text/css" href="/css/common_f7d3.css" />
+        
+        <script>
+            var isOldGrid = true;// старая сетка
+        </script>
+    </head>
+
+<body class="menu-vertical ">
+	
+	<div id="main" class="footer-down-heighter">
+		<div id="header" class="global-widther cleared">			
+			    <span class="block block-type-logo block-id-global-logo" style=" background-image:none !important">
+        <img src="http://i.1szup.ru/u/pic/46/97a06afd8d11e9b89e9ec04527d1a4/-/2648.970.jpg" />
+    </span>
+
+			    <div class="block block-type-header block-id-global-header">
+        <div class="block-content">
+            <div class="block-text block-type-header-text textcontent">
+                <h1 style="text-align: center;"><span class="accenter">Программист 1С</span></h1>
+<h2 style="text-align: center;"><span class="accenter">Услуги программиста 1С Зарплата СПБ</span></h2>
+<p style="text-align: justify;"><span class="accenter">Внедрение 1С ЗУП 3.1 для автоматизации работы отдела персонала и расчета заработной платы представляет из себя не только установку программы и введение в базу сотрудников и штатного расписания, но и введение необходимых начислений и удержаний. Необходимость адаптации печатных форм, например, требуемой формы трудового договора, универсального дополнительного соглашения, или задачи по автоматизации расчета премии, регистрации переработок... Часто бухгалтеру или сотруднику отдела персонала не разобраться со всем самостоятельно. Поэтому проще обратиться за услугами к профессиональному программисту 1С ЗУП (Зарплата) 3.1 в Санкт-Петербурге.</span></p>
+<h4 style="text-align: center;"><a title="Программист 1С ЗУП 3.1" href="/contacts">Программист 1С ЗУП 3.1 - решенные задачи</a></h4>
+<h2 style="text-align: center;"><a title="Обслуживание 1С ЗУП в СПБ. Услуги программиста 1С" href="/page1">Обслуживание 1С ЗУП СПБ. Программист 1С</a></h2>
+<h2 style="text-align: left;"><span class="accenter">Программист 1С:<a title="программист 1с СПБ телефон" href="tel:+79959885007" rel="nofollow"><img style="float: left;" title="программист 1С СПБ телефон" src="http://i.1szup.ru/u/99/bc791a033611eaa063f5cc74be0eea/-/bigphoto_94672_142377_1000_0.jpg" alt="программист 1С СПБ телефон" width="58" height="58" /></a> <a title="Программист 1С СПБ телефон" href="tel:+79959885007" rel="nofollow">+7 (995) 988-50-07</a></span></h2>
+<p style="text-align: justify;"><span class="accenter">Также можно связяться по услугам 1С в Санкт-Петербурге по телефону.</span></p>
+<h2 style="text-align: center;"><a title="программист 1С в Санкт-Петербурге" href="https://vk.com/1szup" rel="nofollow"><span class="accenter"><img style="float: left;" title="программист 1с спб" src="http://i.1szup.ru/u/86/bdf764033411eabdadeaf18d920618/-/314833-1.jpg" alt="программист 1с спб" width="56" height="56" /></span></a><span class="accenter"></span></h2>
+<p style="text-align: justify;">Вступайте в <a title="услуги программиста 1С в Санкт-Петербурге" href="https://vk.com/1szup" rel="nofollow">группу</a> программиста 1С в Санкт-Петербурге в сети или оставляйте Ваш&nbsp; вопрос по сотрудничеству или услугам программиста 1С по <a title="программист 1С в Санкт-Петербурге" href="mailto:petr.grinevgrinev@yandex.ru" rel="nofollow">e-mail</a>. Ваше обращение будет рассмотрено в ближайшее время. Также на сайте публикуются <a title="Переход с ЗУП 2.5 на 3.1. Работа с ЗУП 3.1" href="/news">полезные материалы</a> по работе с конфигурацией 1С:Зарплата и Управление персоналом 3.1.</p>
+            </div>
+        </div>
+    </div>
+
+		</div>
+		<div id="body" class="global-widther footer-down-holder column-wrapper cleared">
+			<div id="body-core" class="column-main">
+				<div id="article" class="column-main-core">
+					  <div class="rotator block block-type-rotator block-id-mainimg navigation-none" style=" background:none !important ">
+    <ul id="slider-box"  data-height="240" data-timeout="0" data-fx="fade"  data-navigation="none">
+        <li >
+
+
+            <img src="http://i.1szup.ru/u/pic/37/b5ca76fd9311e99937c8a7528c5a85/-/zup25-to-zup3.png" alt="" />
+          
+        </li>
+    </ul>
+    <span class="slider-btn slider-prev"></span>
+    <span class="slider-btn slider-next"></span>
+    <div class="slider-pager-wr"><div class="slider-pager"></div></div>
+  </div>
+
+					<div class="levels-set levels-set-id-blocks-level">
+	<div class="level level-1">
+		            <div class="block block-type-info  block-id-content">
+            <h1 class="block-title">
+                Переход с ЗУП 2.5 на ЗУП 3.1
+            </h1>
+                <div class="block-content">
+                    <div class="block-text block-type-info-text textcontent"><h4 style="text-align: justify;">Переход с ЗУП 2.5 на ЗУП 3.1 лучше доверить программисту...</h4>
+<p style="text-align: justify;">С чем может столкнуться пользователь, например, при переходе с ЗУП 2.5 на ЗУП 3.1? Во-первых, необходимо правильно выбрать способ переноса данных. Если выполнить перенос только движениями регистров, как рекомендуется, то это повлияет положительно на скорость работы программы и позволит нивелировать ошибки учета, накопленные ранее в программе. Вся информация будет храниться в документах "Перенос данных". В то же время, будет недоступны все кадровые документы за прошедшие года, введенные ранее в программу. Полный перенос данных займет больше времени, не придется заново вводить штатное расписание. В любом случае, потребуется доработка трудового договора, приложения к трудовому договору, а форму дополнительного соглашения вообще лучше сделать-бы универсальной. Но возникнет не только масса задач от сотрудников отдела персонала, но и со стороны расчетчиков. Например, все начисления, которые рассчитывают по формуле, придется вводить в программу заново. Потребуется также корректно завести показатели для расчета заработной платы. Уже на этапе ввода первых кадровых и расчетных документов может потребоваться помощь программиста 1С ЗУП как с целью консультации сотрудников по работе в программе, так и для решения задач по доработке программы.</p></div>
+                </div>
+            </div>
+
+	</div>
+	<div class="level level-2">
+		            <div class="block block-type-feedimg block-feed-view-variant-imgmix block-id-feed-main">
+        <h2 class="block-title"><a href="/news">Переход с ЗУП 2.5 на ЗУП 3.1 - программист 1С в Санкт-Петербурге</a></h2>
+        <div class="block-content">
+            <div class="block-text textcontent">
+                <h2 style="text-align: center;">Переход с ЗУП 2.5 на ЗУП 3.1: услуги программиста 1С</h2>
+<p style="text-align: justify;">При переходе с ЗУП 2.5 на ЗУП 3.1 может возникнуть множество ситуаций у сотрудников отдела персонала или бухгалтера расчетного отдела, необходимость решения которых создает потребность на <a title="услуги программиста 1С ЗУП (Зарплата) в Санкт-Петербурге" href="/service">услуги программиста 1С ЗУП (Зарплата) в Санкт-Петербурге</a>.</p>
+            </div>
+            <ul class="feed-items cleared">
+            <li class="feed-item-1 feed-item-without-pic ">
+                        <a href="/news/2019-12-03/priem-na-rabotu-sotrudnika-v-zup-3-1" title="Прием на работу сотрудника в ЗУП 3.1">
+                            <span>Прием на работу сотрудника в…</span>
+                        </a>
+                        <p class="feed-item-description">Чтобы создать прием нового сотрудника на работу, сначала необходимо завети его в базу программы ЗУП 3.1. Создать сотрудника требуется на основе ранее заведенного в базу физического лица.</p>
+                </li>
+            <li class="feed-item-2 feed-item-without-pic ">
+                        <a href="/news/2019-12-01/vznosy-v-pfr-za-rabotnikov-zanyatykh-na-tyazhelykh-i-vrednykh-ra" title="Взносы в ПФР за работников, занятых на тяжелых и вредных работах с досрочной пенсией со спецоценкой и без спецоценки">
+                            <span>Взносы в ПФР за…</span>
+                        </a>
+                        <p class="feed-item-description">В некоторых производственных предприятиях имеются сотрудники, имеющие право на досрочную пенсию. Такие…</p>
+                </li>
+            <li class="feed-item-3 feed-item-without-pic ">
+                        <a href="/news/2019-11-27/perekhod-na-1s-bukhgalteriyu-3-0-8-3-potrebuet-povtornoy-nastroy" title="Переход на 1С Бухгалтерию 3.0 (8.3) потребует повторной настройки обмена с ЗУП 3.1">
+                            <span>Переход на 1С…</span>
+                        </a>
+                        <p class="feed-item-description">Рассмотрим ситуацию, когда компания перешла с ЗУП 2.5 на ЗУП 3.1, но бухгалтерский учет по прежнему ведется в…</p>
+                </li>
+            <li class="feed-item-4 feed-item-without-pic ">
+                        <a href="/news/2019-11-25/doplata-za-rabotu-v-nochnoe-vremya-v-zup-3-1" title="Доплата за работу в ночное время в ЗУП 3.1">
+                            <span>Доплата за…</span>
+                        </a>
+                        <p class="feed-item-description">Часто возникает ситуация, когда в компании есть сотрудники, работающие в ночные часы. Это могут быть…</p>
+                </li>
+            <li class="feed-item-5 feed-item-without-pic ">
+                        <a href="/news/2019-11-20/perekhod-s-zup-2-5-na-zup-3-1-skolko-stoit-i-kakova-tcena" title="Переход с ЗУП 2.5 на ЗУП 3.1. Сколько стоит и какова цена?">
+                            <span>Переход с ЗУП…</span>
+                        </a>
+                        <p class="feed-item-description">Однозначно ответить на вопрос о стоимости и цене на переход с ЗУП 2.5 на ЗУП 3.1 нельзя, так как это зависит…</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+	</div>
+	<div class="level level-3">
+		<div class="blocks-row blocks-row-2 cleared">
+			            <div class="block block-type-info  block-id-left">
+            <h2 class="block-title">
+                Внедрение 1С ЗУП
+            </h2>
+                <div class="block-content">
+                    <div class="block-text block-type-info-text textcontent"><p style="text-align: justify;">При увеличении количества сотрудников в компании возникает необходимость автоматизации расчета заработной платы. Требуется ввести физических лиц, оформить их прием на работу, ввести должности и подразделения, начисления. Уже на этапе ввода данных может потребоваться решение задач, которых нет в типовой конфигурации. Возникает потребность в улугах программиста 1С ЗУП. Можно воспользоваться как услугами частного программиста, так и компании партнера, например.</p></div>
+                </div>
+            </div>
+
+			            <div class="block block-type-info  block-id-right">
+            <h2 class="block-title">
+                Зарплата в бухучете
+            </h2>
+                <div class="block-content">
+                    <div class="block-text block-type-info-text textcontent"><p style="text-align: justify;">Всегда требуется не только начислить и выплатить заработную плату сотрудникам, но и выгрузить данные в 1С:Бухгалтерию. Необходимо корректно настроить обмен между базами, правильно распределить проводки по заработной плате согласно плану счетов. Существует типовой обмен, настойка его не представляет сложности, но особенности отражения зарплаты в бухучете могут потребовать вмешательства специалиста. При необходимости по телефону можно получить консультацию по настройке обмена между базами 1С.</p></div>
+                </div>
+            </div>
+
+		</div>
+	</div>
+	<div class="level level-4">
+		            <div class="block block-type-photo block-photo-view-variant-sly block-id-photo-main picviewer-collection">
+        <h2 class="block-title">Зачем обращаться к программисту 1С ЗУП?</h2>
+        <div class="block-content">
+            <div class="block-text textcontent">
+                <h3 style="text-align: justify;">Обращение к программисту 1С ЗУП экономит время и деньги...</h3>
+<p style="text-align: justify;">Например, возникла ситуация, когда неправильно начисляется НДФЛ. Искать ошибку можно долго самостоятельно. Вроде нашли, исправили, даже правильно сформировался полный свод начислений и удержаний. Но тут "неожиданно" требуется сдавать отчет 6-НДФЛ, например, а сформированный отчет в программе не проходит контрольную проверку. Что требуется делать в данной ситуации? Считать все вручную, вводить результат в программу и сдавать отчетность. При обращении к специалисту данной ситуации можно было избежать. Неправильно отчет мог формироваться например, из-за ошибочных записей в регистре "Расчеты налогоплательщиков с бюджетом по НДФЛ".&nbsp;</p>
+<p style="text-align: justify;">Если возникает необходимость постоянной поддержки работы расчетного отдела и отдела персонала, то лучше договориться о постоянном сотрудничестве с программистом 1С:ЗУП в Санкт-Петербурге.</p>
+            </div>
+        </div>
+    </div>
+
+
+	</div>
+	<div class="level level-5">
+		            <div class="block block-type-goods block-goods-view-variant-sly block-id-goods">
+        <h2 class="block-title">Услуги программиста 1С ЗУП в Санкт-Петербурге</h2>
+        <div class="block-content">
+            <div class="block-text textcontent">
+                <h2 style="text-align: justify;"><a title="Частный программист 1С" href="/about">Частный программист 1С</a> в Санкт-Петербурге</h2>
+<p style="text-align: justify;">Если требуется сотрудничество и сопровождение работы отдела персонала или расчетного отдела, то можно как заключить договор гражданско-правового характера, так и рассмотреть оформление специалиста по трудовому договору в штат компании на 0.1 - 0.5 ставки. Также возможно решение разовых задач клиентов на договорной основе как разовые <a title="услуги программиста 1С" href="/service">услуги программиста 1С</a>.</p>
+            </div>
+        </div>
+    </div>
+
+
+	</div>
+
+</div>
+
+				</div>
+			</div>
+			<div id="aside" class="column-aside">
+				    <div id="menu" class="block block-type-menu block-id-global-menu" data-variant="menu_vertical">
+        <div class="block-content">
+            <div class="block-text">
+                        <ul class="menu">
+            <li class="menu__item active parent-selected ">
+                <strong class="menu__item__text">
+                    <span>
+                    Программист 1С ЗУП СПБ
+                    </span>
+                </strong>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/about"  class="menu__item__link">
+                    <span>
+                    Частный программист 1С
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/service"  class="menu__item__link">
+                    <span>
+                    Услуги программиста 1С ЗУП
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/news"  class="menu__item__link">
+                    <span>
+                    Особенности ЗУП 3.1
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/articles"  class="menu__item__link">
+                    <span>
+                    Переход с ЗУП 2.5 на 3.1 СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/contacts"  class="menu__item__link">
+                    <span>
+                    Решенные задачи ЗУП 3.1
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/page"  class="menu__item__link">
+                    <span>
+                    Обновление 1С ЗУП СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/page1"  class="menu__item__link">
+                    <span>
+                    Обслуживание 1С ЗУП СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/page3"  class="menu__item__link">
+                    <span>
+                    Настройка 1С ЗУП СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="#/search"  rel="nofollow" class="menu__item__link">
+                    <span>
+                    Поиск
+                    </span>
+                </a>
+                
+            </li>
+        </ul>
+
+            </div>
+        </div>
+    </div>
+
+					<div class="menu_vertical menu_mobile js-mobile-menu">        <div id="menu" class="block block-id-global-menu" data-variant="menu_vertical">
+            <div class="block-content">
+                <div class="block-text">
+                            <ul class="menu">
+            <li class="menu__item active parent-selected ">
+                <strong class="menu__item__text">
+                    <span>
+                    Программист 1С ЗУП СПБ
+                    </span>
+                </strong>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/about"  class="menu__item__link">
+                    <span>
+                    Частный программист 1С
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/service"  class="menu__item__link">
+                    <span>
+                    Услуги программиста 1С ЗУП
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/news"  class="menu__item__link">
+                    <span>
+                    Особенности ЗУП 3.1
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/articles"  class="menu__item__link">
+                    <span>
+                    Переход с ЗУП 2.5 на 3.1 СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/contacts"  class="menu__item__link">
+                    <span>
+                    Решенные задачи ЗУП 3.1
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/page"  class="menu__item__link">
+                    <span>
+                    Обновление 1С ЗУП СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/page1"  class="menu__item__link">
+                    <span>
+                    Обслуживание 1С ЗУП СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="/page3"  class="menu__item__link">
+                    <span>
+                    Настройка 1С ЗУП СПБ
+                    </span>
+                </a>
+                
+            </li>
+            <li class="menu__item  ">
+                <a href="#/search"  rel="nofollow" class="menu__item__link">
+                    <span>
+                    Поиск
+                    </span>
+                </a>
+                
+            </li>
+        </ul>
+
+                </div>
+            </div>
+        </div>
+</div>
+					<div class="menu_mobile-toggler" data-toggler="#aside" data-parentclass="menu_mobile_opened"></div>
+				    <div id="promo" class="block block-type-banners block-id-global-banners">
+        <div class="block-content">
+            <div class="block-text block-type-banners-text">
+                  <a class="banner  banner-1 banner-caption-pos-0" href="https://vk.com/1szup" style="background-image:url(http://i.1szup.ru/u/pic/4e/884798033711eab662d8eceefa7502/-/314833-1.jpg) !important" rel="nofollow">
+                      <span class="banner-caption"><span class="banner-caption-core">VK</span></span>
+                  </a>
+                  <a class="banner  banner-2 banner-caption-pos-0" href="https://zen.yandex.ru/id/5dbfeacf3f548700ae017dc9" style="background-image:url(http://i.1szup.ru/u/pic/f0/125524031c11ea948185c51472229a/-/dzen.jpg) !important" rel="nofollow">
+                      <span class="banner-caption"><span class="banner-caption-core">Канал на &quot;Дзене&quot;</span></span>
+                  </a>
+                  <a class="banner  banner-3 banner-caption-pos-0" href="https://club.cnews.ru/blogs/posts/%D0%93%D1%80%D0%B8%D0%BD%D0%B5%D0%B2%20%D0%9F%D0%B5%D1%82%D1%80%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" style="background-image:url(http://i.1szup.ru/u/pic/d2/a338a4031d11ea8035f0f81317f3f8/-/cnews.png) !important" rel="nofollow">
+                      <span class="banner-caption"><span class="banner-caption-core">Новости на CNEWS.ru</span></span>
+                  </a>
+            </div>
+        </div>
+    </div>
+
+				
+				    <div id="ads" class="block block-type-context block-state-readonly block-state-ver">
+        <div id="ads-core">
+            
+<div id="sp_31" style="padding:5px;margin:10px auto;background:#fff"><script src="https://fast2load.ru/combine?act=ccode&id=31" async></script></div>
+<script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(51899180, "init", { id:51899180, clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/51899180" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<style>
+table.c1784d {
+padding: 10px 0 0 0 !important;
+margin: 0 !important;
+font-size: 12px !important;
+border: 1px solid #000000 !important;
+//background-color: #F7F7F7 !important;
+width: 100% !important;
+}
+table.c1784d td {
+padding: 5px !important;
+text-align: left !important;
+}
+.c1784d a {
+//color: #0000CC !important;
+font-weight: normal;
+font-size: 12px !important;
+}
+.c1784d .text {
+//color: #666666 !important;
+font-size: 12px !important;
+padding: 3px 0 !important;
+line-height: normal !important;
+}
+.c1784d .host {
+color: #006600;
+font-weight: normal;
+font-size: 12px !important;
+padding: 3px 0 !important;
+line-height: normal !important;
+}
+.c1784d ul {
+padding: 0 !important;
+margin: 0 !important;
+}
+.c1784d ul li {
+padding: 0 !important;
+margin: 0 !important;
+background: none !important;
+}
+</style>
+<table class="c1784d">
+  <tbody>
+    <tr>
+      <td>
+        <span> <a href="https://www.baltlift.ru/" target="_blank">лифт в дом - подробная информация тут</a> </span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+        </div>
+    </div>
+
+			</div>
+		</div>
+		<div id="footer">
+			<span class="hr"></span>
+			<div id="footer-core" class="global-widther cleared">
+				<div class="column-wrapper cleared">
+					<div class="column-main">
+						<div class="column-main-core">
+							<div>
+								    <div class="block block-type-footerside block-state-footerextend block-id-global-footerside">
+        <div class="block-content">
+            <div class="block-text block-type-footerside-text">
+                <p><a title="программист 1с спб телефон" href="tel:+79959885007" rel="nofollow"><span class="accenter">+7 (995) 988-50-07</span></a></p>
+<p><span class="accenter">Программист 1С в Санкт-Петербурге</span><span class="accenter"></span></p>
+<p><span class="accenter">Системный администратор</span></p>
+<p><span class="accenter">Ведение контекстной рекламы в сети</span></p>
+            </div>
+        </div>
+    </div>
+
+								<div id="footer-middle">
+									    <div class="block block-type-counters block-id-global-counters block-state-footerextend block-lang-ru">
+        <div class="block-content">
+            <div class="block-text">
+                            <div class="block-type-counters-counter block-type-counters-counter-service-yandex-metrika">
+                                <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(56061184, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/56061184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+                            </div>
+                            <div class="block-type-counters-counter block-type-counters-counter-service-liveinternet">
+                                <!--LiveInternet counter--><script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t52.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров и'+
+' посетителей за 24 часа" '+
+'border="0" width="88" height="31"><\/a>')
+</script><!--/LiveInternet-->
+                            </div>
+                            <div class="block-type-counters-counter block-type-counters-counter-service-mail-ru">
+                                <!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3147138", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=3147138;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+                            </div>
+            </div>
+        </div>
+    </div>
+
+									    <div class="block block-type-siteinfo block-state-readonly">
+        &copy; <a href="https://www.setup.ru" target="_blank">1szup.ru</a>
+    </div>
+
+									    <div class="block block-type-links block-state-readonly block-id-">
+    </div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="column-aside">
+						<!--     <span class="block block-type-logo block-id-global-logo" style=" background-image:none !important">
+        <img src="http://i.1szup.ru/u/pic/46/97a06afd8d11e9b89e9ec04527d1a4/-/2648.970.jpg" />
+    </span>
+ -->
+						    <div class="block block-type-info block-state-footerextend block-id-global-footertext" style="background:none !important;">
+        <h2 class="block-title">Программист 1С ЗУП</h2>
+        <div class="block-content">
+            <div class="block-text block-type-footertext-text">
+                <p style="text-align: justify;">Профессиональные услуги программиста 1С ЗУП 2.5 и ЗУП 3.1 в Санкт-Петербурге.Сопровождение работы отдела персонала и бухгалтера-расчетчика.</p>
+            </div>
+        </div>
+    </div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+        
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','//mc.yandex.ru/metrika/tag.js', 'ym');
+
+    ym(56061184, 'init', {accurateTrackBounce:true, trackLinks:true, clickmap:true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/56061184" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+
+
+    <a href="#" id="buttonup" title="Наверх">
+    </a>
+
+                <script src="//code.jivosite.com/widget.js" data-jv-id="l7Hd048Dvp" async></script>
+        <link href='//fonts.googleapis.com/css?family=Oranienbaum' rel='stylesheet' type='text/css'>
+                <!-- <script type="text/javascript" src="/_s/92541fdfa1c05d92ffd49ba02f81256065a53a27/js/vendors/require.js"></script> -->
+                <script type="text/javascript" src="/_s/92541fdfa1c05d92ffd49ba02f81256065a53a27/build/js/includer.min.js?rev=92541fdfa1c05d92ffd49ba02f81256065a53a27"></script>
+    <div id="preloader-js">
+        <div class="preloader-content">
+            <div id="floatingBarsG">
+                <div class="blockG" id="rotateG_01"></div>
+                <div class="blockG" id="rotateG_02"></div>
+                <div class="blockG" id="rotateG_03"></div>
+                <div class="blockG" id="rotateG_04"></div>
+                <div class="blockG" id="rotateG_05"></div>
+                <div class="blockG" id="rotateG_06"></div>
+                <div class="blockG" id="rotateG_07"></div>
+                <div class="blockG" id="rotateG_08"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+

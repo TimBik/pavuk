@@ -1,0 +1,692 @@
+<!DOCTYPE html><!-- HTML5 -->
+<html prefix="og: http://ogp.me/ns#" lang="ru-RU" dir="ltr">
+	<head>
+		<meta name="yandex-verification" content="b69a54c0503f0ed7"/>
+		<title>CAM ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ Ð´Ð»Ñ ÑÑÐ°Ð½ÐºÐ¾Ð² Ñ Ð§ÐÐ£, Ð°Ð½ÑÐ¸ÐºÑÐ¸Ð·Ð¸ÑÐ½ÑÐµ ÑÐµÐ½Ñ Ð½Ð° Ð¡ÐÐÐ  - CAM-ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ</title>
+		<meta charset="utf-8"/>
+		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
+		<meta name="author" content="Ð¢ÐµÑÐ±ÑÑÐ¾ &quot;ÐÐ ÐÐ°Ð¼ÐµÑ&quot;"/>
+		<meta name="generator" content="Incomedia WebSite X5 Evo 2020.1.14 - www.websitex5.com"/>
+		<meta name="description" content="Ð£Ð½Ð¸Ð²ÐµÑÑÐ°Ð»ÑÐ½Ð°Ñ CAM-ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ-5 Ð´Ð»Ñ Ð±ÑÐ¼Ð°Ð¶Ð½ÑÑ ÑÐµÑÑÐµÐ¶ÐµÐ¹ Ð¸ ÑÐ»ÐµÐºÑÑÐ¾Ð½Ð½ÑÑ Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹. Ð£ÑÐ»Ð¾Ð²Ð½Ð¾-Ð±ÐµÑÐ¿Ð»Ð°ÑÐ½Ð°Ñ Ð¾Ð½Ð»Ð°Ð¹Ð½-Ð²ÐµÑÑÐ¸Ñ. Ð¡ÑÐµÐ´ÑÑÐ²Ð° Ð¿ÐµÑÐµÐ´Ð°ÑÐ¸ Ð£Ð Ð½Ð° ÑÑÐ°Ð½ÐºÐ¸."/>
+		<meta name="keywords" content="Ð¡ÐÐÐ , ÑÑÐ°Ð½Ð¾Ðº, Ð§ÐÐ£, CAM ÑÐ¸ÑÑÐµÐ¼Ð°, Ð¿Ð¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾Ñ, ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐ°Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð°&lt;br /&gt;"/>
+		<meta property="og:image" content="https://tigras.ru/favImage.png"/>
+		<meta property="og:image:type" content="image/png">
+		<meta property="og:image:width" content="1367">
+		<meta property="og:image:height" content="1367">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		
+		<link rel="stylesheet" href="style/reset.css?2020-1-14-0" media="screen,print"/>
+		<link rel="stylesheet" href="style/print.css?2020-1-14-0" media="print"/>
+		<link rel="stylesheet" href="style/style.css?2020-1-14-0" media="screen,print"/>
+		<link rel="stylesheet" href="style/template.css?2020-1-14-0" media="screen"/>
+		<link rel="stylesheet" href="pcss/index.css?2020-1-14-0-637788406017952959" media="screen,print"/>
+		<script src="res/jquery.js?2020-1-14-0"></script>
+		<script src="res/x5engine.js?2020-1-14-0" data-files-version="2020-1-14-0"></script>
+		<script>window.onload=function(){checkBrowserCompatibility('ÐÐ°Ñ Ð±ÑÐ°ÑÐ·ÐµÑ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶Ð¸Ð²Ð°ÐµÑ ÑÑÐ½ÐºÑÐ¸Ð¸, ÑÑÐµÐ±ÑÐµÐ¼ÑÐµ Ð´Ð»Ñ Ð²Ð¸Ð·ÑÐ°Ð»Ð¸Ð·Ð°ÑÐ¸Ð¸ ÑÑÐ¾Ð³Ð¾ Ð¡Ð°Ð¹ÑÐ°.','ÐÐ¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾, ÐÐ°Ñ Ð±ÑÐ°ÑÐ·ÐµÑ Ð½Ðµ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶Ð¸Ð²Ð°ÐµÑ ÑÑÐ½ÐºÑÐ¸Ð¸, ÑÑÐµÐ±ÑÐµÐ¼ÑÐµ Ð´Ð»Ñ Ð²Ð¸Ð·ÑÐ°Ð»Ð¸Ð·Ð°ÑÐ¸Ð¸ ÑÑÐ¾Ð³Ð¾ Ð¡Ð°Ð¹ÑÐ°.','[1]ÐÐ±Ð½Ð¾Ð²Ð¸ÑÐµ ÐÐ°Ñ Ð±ÑÐ°ÑÐ·ÐµÑ[/1] Ð¸Ð»Ð¸ [2]Ð¿ÑÐ¾Ð´Ð¾Ð»Ð¶Ð¸ÑÐµ Ð¿ÑÐ¾ÑÐµÐ´ÑÑÑ [/2].','http://outdatedbrowser.com/');};x5engine.utils.currentPagePath='index.html';x5engine.boot.push(function(){x5engine.imPageToTop.initializeButton({});});</script>
+		<meta name="google-site-verification" content="bFcoyC_OH-LFm0_w3TiF1Yk0iZd6YLkkSV5ugA2ZlPM"/>
+		<link rel="icon" href="favicon.png?2020-1-14-0-637788406017823298" type="image/png"/>
+	</head>
+	<body>
+		<div id="imPageExtContainer">
+			<div id="imPageIntContainer">
+				<div id="imHeaderBg"></div>
+				<div id="imFooterBg"></div>
+				<div id="imPage">
+					<header id="imHeader">
+						<h1 class="imHidden">Ð¡ÐÐÐ  Ð§ÐÐ£ Ð¢Ð¸Ð³ÑÐ°Ñ-5 - CAM-ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ</h1>
+						<div id="imHeaderObjects"><div id="imHeader_imMenuObject_01_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imHeader_imMenuObject_01"><div id="imHeader_imMenuObject_01_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<div class="hamburger-menu-close-button"><span>&times;</span></div>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+CAM ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/cam-moduli.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cam-moduli.html">
+ÐÐ¾Ð´ÑÐ»Ð¸ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/cad-3d-import.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cad-3d-import.html">
+ÐÐ¼Ð¿Ð¾ÑÑ Ð³ÑÐ°ÑÐ¸ÐºÐ¸ Ð¸Ð· CAD		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/solid.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="solid.html">
+3D-Ð¼Ð¾Ð´ÐµÐ»Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/optimalnyj-raskroj.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="optimalnyj-raskroj.html">
+ÐÐ¿ÑÐ¸Ð¼Ð°Ð»ÑÐ½ÑÐ¹ ÑÐ°ÑÐºÑÐ¾Ð¹		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="">
+	<li class="imMnMnFirst imPage" data-link-paths=",/rasshir.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="rasshir.html">
+Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ Ð¸ ÑÐ·ÑÐº		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/gravirovka.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="gravirovka.html">
+ÐÑÐ°Ð²Ð¸ÑÐ¾Ð²ÐºÐ° ÑÑÐ°Ð½Ð´Ð°ÑÑÐ½ÑÐ¼Ð¸ ÑÑÐ¸ÑÑÐ°Ð¼Ð¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/kolokola.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="kolokola.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð»Ð¸ÑÐµÐ¹Ð½ÑÑ Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹ ÐºÐ¾Ð»Ð¾ÐºÐ¾Ð»Ð¾Ð²		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/valy.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="valy.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð²Ð°Ð»Ð¾Ð² ÑÐ»ÐµÐºÑÑÐ¾Ð´Ð²Ð¸Ð³Ð°ÑÐµÐ»ÐµÐ¹		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/trubresh.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="trubresh.html">
+ÐÐ½Ð¾Ð³Ð¾ÑÐ¿Ð¸Ð½Ð´ÐµÐ»ÑÐ½Ð°Ñ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÑÑÐ±Ð½ÑÑ ÑÐµÑÑÑÐ¾Ðº		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/shnek.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="shnek.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÐ½ÐµÐºÐ¾Ð²		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/karty.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="karty.html">
+Ð¡Ð¾Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»ÑÐ½Ð°Ñ Ð´Ð¾ÐºÑÐ¼ÐµÐ½ÑÐ°ÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/tigras-5-vs-tigras-4.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="tigras-5-vs-tigras-4.html">
+ÐÑÐ»Ð¸ÑÐ¸Ñ Ð²ÐµÑÑÐ¸Ð¹ 4 Ð¸ 5		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/postprocessory.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="postprocessory.html">
+ÐÐ¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/email.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="email.html">
+Email-Ð²ÐµÑÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/up_na_zakaz.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="up_na_zakaz.html">
+Ð£Ð Ð½Ð° Ð·Ð°ÐºÐ°Ð·		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/ncmanager.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ncmanager.html">
+ÐÐ¸Ð·ÑÐ°Ð»Ð¸Ð·Ð°ÑÐ¾Ñ NCManager		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/peredacha.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="peredacha.html">
+ÐÐµÑÐµÐ´Ð°ÑÐ° Ð£Ð Ð½Ð° ÑÑÐ°Ð½ÐºÐ¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/ceny.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ceny.html">
+ÐÑÐ°Ð¹Ñ-Ð»Ð¸ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">ÐÐ¾Ð¿ÑÐ¾ÑÑ Ð¸ Ð¾ÑÐ²ÐµÑÑ</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="">
+	<li class="imMnMnFirst imPage" data-link-paths=",/faq_email.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_email.html">
+Email-Ð²ÐµÑÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_obuchenie.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_obuchenie.html">
+ÐÐ±ÑÑÐµÐ½Ð¸Ðµ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_postproc.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_postproc.html">
+ÐÐ¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_rabota.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_rabota.html">
+Ð Ð°Ð±Ð¾ÑÐ° Ñ Ð¢Ð¸Ð³ÑÐ°ÑÐ¾Ð¼		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/faq_postavka.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_postavka.html">
+Ð£ÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾ÑÑÐ°Ð²ÐºÐ¸		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnLast imPage" data-link-paths=",/poisk.html">
+<div class="label-wrapper">
+<img class='menu-item-icon' src='images/-----.jpg' alt='menu item icon'/>
+<div class="label-inner-wrapper">
+		<a class="label" href="poisk.html">
+Ð Ð Ð Ð¡ Ð		</a>
+</div>
+</div>
+	</li></ul></div></div><!-- UNSEARCHABLE END --><script>var imHeader_imMenuObject_01_settings={'menuId':'imHeader_imMenuObject_01','responsiveMenuEffect':'slide','animationDuration':1000,}
+x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_01_settings)});$(function(){$('#imHeader_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function(){var $this=$(this),timeout=0;$this.on('mouseenter',function(){if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length>0)return;clearTimeout(timeout);setTimeout(function(){$this.children('ul, .multiple-column').stop(false,false).fadeIn();},250);}).on('mouseleave',function(){if($(this).parents('#imHeader_imMenuObject_01_container-menu-opened').length>0)return;timeout=setTimeout(function(){$this.children('ul, .multiple-column').stop(false,false).fadeOut();},250);});});});</script>
+</div></div>
+					</header>
+					<div id="imStickyBarContainer">
+						<div id="imStickyBarGraphics"></div>
+						<div id="imStickyBar">
+							<div id="imStickyBarObjects"><div id="imStickyBar_imMenuObject_01_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imStickyBar_imMenuObject_01"><div id="imStickyBar_imMenuObject_01_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<div class="hamburger-menu-close-button"><span>&times;</span></div>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+CAM ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/cam-moduli.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cam-moduli.html">
+ÐÐ¾Ð´ÑÐ»Ð¸ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/cad-3d-import.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cad-3d-import.html">
+ÐÐ¼Ð¿Ð¾ÑÑ Ð³ÑÐ°ÑÐ¸ÐºÐ¸ Ð¸Ð· CAD		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/solid.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="solid.html">
+3D-Ð¼Ð¾Ð´ÐµÐ»Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/optimalnyj-raskroj.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="optimalnyj-raskroj.html">
+ÐÐ¿ÑÐ¸Ð¼Ð°Ð»ÑÐ½ÑÐ¹ ÑÐ°ÑÐºÑÐ¾Ð¹		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="">
+	<li class="imMnMnFirst imPage" data-link-paths=",/rasshir.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="rasshir.html">
+Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ Ð¸ ÑÐ·ÑÐº		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/gravirovka.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="gravirovka.html">
+ÐÑÐ°Ð²Ð¸ÑÐ¾Ð²ÐºÐ° ÑÑÐ°Ð½Ð´Ð°ÑÑÐ½ÑÐ¼Ð¸ ÑÑÐ¸ÑÑÐ°Ð¼Ð¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/kolokola.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="kolokola.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð»Ð¸ÑÐµÐ¹Ð½ÑÑ Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹ ÐºÐ¾Ð»Ð¾ÐºÐ¾Ð»Ð¾Ð²		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/valy.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="valy.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð²Ð°Ð»Ð¾Ð² ÑÐ»ÐµÐºÑÑÐ¾Ð´Ð²Ð¸Ð³Ð°ÑÐµÐ»ÐµÐ¹		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/trubresh.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="trubresh.html">
+ÐÐ½Ð¾Ð³Ð¾ÑÐ¿Ð¸Ð½Ð´ÐµÐ»ÑÐ½Ð°Ñ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÑÑÐ±Ð½ÑÑ ÑÐµÑÑÑÐ¾Ðº		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/shnek.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="shnek.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÐ½ÐµÐºÐ¾Ð²		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/karty.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="karty.html">
+Ð¡Ð¾Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»ÑÐ½Ð°Ñ Ð´Ð¾ÐºÑÐ¼ÐµÐ½ÑÐ°ÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/tigras-5-vs-tigras-4.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="tigras-5-vs-tigras-4.html">
+ÐÑÐ»Ð¸ÑÐ¸Ñ Ð²ÐµÑÑÐ¸Ð¹ 4 Ð¸ 5		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/postprocessory.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="postprocessory.html">
+ÐÐ¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/email.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="email.html">
+Email-Ð²ÐµÑÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/up_na_zakaz.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="up_na_zakaz.html">
+Ð£Ð Ð½Ð° Ð·Ð°ÐºÐ°Ð·		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/ncmanager.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ncmanager.html">
+ÐÐ¸Ð·ÑÐ°Ð»Ð¸Ð·Ð°ÑÐ¾Ñ NCManager		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/peredacha.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="peredacha.html">
+ÐÐµÑÐµÐ´Ð°ÑÐ° Ð£Ð Ð½Ð° ÑÑÐ°Ð½ÐºÐ¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/ceny.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ceny.html">
+ÐÑÐ°Ð¹Ñ-Ð»Ð¸ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">ÐÐ¾Ð¿ÑÐ¾ÑÑ Ð¸ Ð¾ÑÐ²ÐµÑÑ</span></div></div><ul data-original-position="open-bottom" class="open-bottom" style="">
+	<li class="imMnMnFirst imPage" data-link-paths=",/faq_email.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_email.html">
+Email-Ð²ÐµÑÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_obuchenie.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_obuchenie.html">
+ÐÐ±ÑÑÐµÐ½Ð¸Ðµ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_postproc.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_postproc.html">
+ÐÐ¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_rabota.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_rabota.html">
+Ð Ð°Ð±Ð¾ÑÐ° Ñ Ð¢Ð¸Ð³ÑÐ°ÑÐ¾Ð¼		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/faq_postavka.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_postavka.html">
+Ð£ÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾ÑÑÐ°Ð²ÐºÐ¸		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnLast imPage" data-link-paths=",/poisk.html">
+<div class="label-wrapper">
+<img class='menu-item-icon' src='images/-----.jpg' alt='menu item icon'/>
+<div class="label-inner-wrapper">
+		<a class="label" href="poisk.html">
+Ð Ð Ð Ð¡ Ð		</a>
+</div>
+</div>
+	</li></ul></div></div><!-- UNSEARCHABLE END --><script>var imStickyBar_imMenuObject_01_settings={'menuId':'imStickyBar_imMenuObject_01','responsiveMenuEffect':'slide','animationDuration':1000,}
+x5engine.boot.push(function(){x5engine.initMenu(imStickyBar_imMenuObject_01_settings)});$(function(){$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function(){var $this=$(this),timeout=0;$this.on('mouseenter',function(){if($(this).parents('#imStickyBar_imMenuObject_01_container-menu-opened').length>0)return;clearTimeout(timeout);setTimeout(function(){$this.children('ul, .multiple-column').stop(false,false).fadeIn();},250);}).on('mouseleave',function(){if($(this).parents('#imStickyBar_imMenuObject_01_container-menu-opened').length>0)return;timeout=setTimeout(function(){$this.children('ul, .multiple-column').stop(false,false).fadeOut();},250);});});});</script>
+</div></div>
+						</div>
+					</div>
+					<a class="imHidden" href="#imGoToCont" title="ÐÐ°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº Ð³Ð»Ð°Ð²Ð½Ð¾Ð³Ð¾ Ð¼ÐµÐ½Ñ">ÐÐµÑÐµÐ¹ÑÐ¸ Ðº ÐºÐ¾Ð½ÑÐµÐ½ÑÑ</a>
+					<div id="imSideBar">
+						<div id="imSideBarObjects"><div id="imSideBar_imMenuObject_01_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imSideBar_imMenuObject_01"><div id="imSideBar_imMenuObject_01_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<div class="hamburger-menu-close-button"><span>&times;</span></div>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+CAM ÑÐ¸ÑÑÐµÐ¼Ð° Ð¢Ð¸Ð³ÑÐ°Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/cam-moduli.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cam-moduli.html">
+ÐÐ¾Ð´ÑÐ»Ð¸ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/cad-3d-import.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="cad-3d-import.html">
+ÐÐ¼Ð¿Ð¾ÑÑ Ð³ÑÐ°ÑÐ¸ÐºÐ¸ Ð¸Ð· CAD		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/solid.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="solid.html">
+3D-Ð¼Ð¾Ð´ÐµÐ»Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/optimalnyj-raskroj.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="optimalnyj-raskroj.html">
+ÐÐ¿ÑÐ¸Ð¼Ð°Ð»ÑÐ½ÑÐ¹ ÑÐ°ÑÐºÑÐ¾Ð¹		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ</span></div></div><ul data-original-position="open-right" class="open-right" style="">
+	<li class="imMnMnFirst imPage" data-link-paths=",/rasshir.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="rasshir.html">
+Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ Ð¸ ÑÐ·ÑÐº		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/gravirovka.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="gravirovka.html">
+ÐÑÐ°Ð²Ð¸ÑÐ¾Ð²ÐºÐ° ÑÑÐ°Ð½Ð´Ð°ÑÑÐ½ÑÐ¼Ð¸ ÑÑÐ¸ÑÑÐ°Ð¼Ð¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/kolokola.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="kolokola.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð»Ð¸ÑÐµÐ¹Ð½ÑÑ Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹ ÐºÐ¾Ð»Ð¾ÐºÐ¾Ð»Ð¾Ð²		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/valy.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="valy.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð²Ð°Ð»Ð¾Ð² ÑÐ»ÐµÐºÑÑÐ¾Ð´Ð²Ð¸Ð³Ð°ÑÐµÐ»ÐµÐ¹		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/trubresh.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="trubresh.html">
+ÐÐ½Ð¾Ð³Ð¾ÑÐ¿Ð¸Ð½Ð´ÐµÐ»ÑÐ½Ð°Ñ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÑÑÐ±Ð½ÑÑ ÑÐµÑÑÑÐ¾Ðº		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/shnek.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="shnek.html">
+ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÐ½ÐµÐºÐ¾Ð²		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/karty.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="karty.html">
+Ð¡Ð¾Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸ÑÐµÐ»ÑÐ½Ð°Ñ Ð´Ð¾ÐºÑÐ¼ÐµÐ½ÑÐ°ÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnMiddle imPage" data-link-paths=",/tigras-5-vs-tigras-4.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="tigras-5-vs-tigras-4.html">
+ÐÑÐ»Ð¸ÑÐ¸Ñ Ð²ÐµÑÑÐ¸Ð¹ 4 Ð¸ 5		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/postprocessory.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="postprocessory.html">
+ÐÐ¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/email.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="email.html">
+Email-Ð²ÐµÑÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/up_na_zakaz.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="up_na_zakaz.html">
+Ð£Ð Ð½Ð° Ð·Ð°ÐºÐ°Ð·		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/ncmanager.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ncmanager.html">
+ÐÐ¸Ð·ÑÐ°Ð»Ð¸Ð·Ð°ÑÐ¾Ñ NCManager		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/peredacha.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="peredacha.html">
+ÐÐµÑÐµÐ´Ð°ÑÐ° Ð£Ð Ð½Ð° ÑÑÐ°Ð½ÐºÐ¸		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/ceny.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="ceny.html">
+ÐÑÐ°Ð¹Ñ-Ð»Ð¸ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imLevel"><div class="label-wrapper"><div class="label-inner-wrapper"><span class="label">ÐÐ¾Ð¿ÑÐ¾ÑÑ Ð¸ Ð¾ÑÐ²ÐµÑÑ</span></div></div><ul data-original-position="open-right" class="open-right" style="">
+	<li class="imMnMnFirst imPage" data-link-paths=",/faq_email.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_email.html">
+Email-Ð²ÐµÑÑÐ¸Ñ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_obuchenie.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_obuchenie.html">
+ÐÐ±ÑÑÐµÐ½Ð¸Ðµ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_postproc.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_postproc.html">
+ÐÐ¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¾ÑÑ		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/faq_rabota.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_rabota.html">
+Ð Ð°Ð±Ð¾ÑÐ° Ñ Ð¢Ð¸Ð³ÑÐ°ÑÐ¾Ð¼		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/faq_postavka.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="faq_postavka.html">
+Ð£ÑÐ»Ð¾Ð²Ð¸Ñ Ð¿Ð¾ÑÑÐ°Ð²ÐºÐ¸		</a>
+</div>
+</div>
+	</li></ul></li><li class="imMnMnLast imPage" data-link-paths=",/poisk.html">
+<div class="label-wrapper">
+<img class='menu-item-icon' src='images/-----.jpg' alt='menu item icon'/>
+<div class="label-inner-wrapper">
+		<a class="label" href="poisk.html">
+Ð Ð Ð Ð¡ Ð		</a>
+</div>
+</div>
+	</li></ul></div></div><!-- UNSEARCHABLE END --><script>var imSideBar_imMenuObject_01_settings={'menuId':'imSideBar_imMenuObject_01','responsiveMenuEffect':'slide','animationDuration':1000,}
+x5engine.boot.push(function(){x5engine.initMenu(imSideBar_imMenuObject_01_settings)});$(function(){$('#imSideBar_imMenuObject_01_container ul li').not('.imMnMnSeparator').each(function(){var $this=$(this),timeout=0;$this.on('mouseenter',function(){if($(this).parents('#imSideBar_imMenuObject_01_container-menu-opened').length>0)return;clearTimeout(timeout);setTimeout(function(){$this.children('ul, .multiple-column').stop(false,false).fadeIn();},250);}).on('mouseleave',function(){if($(this).parents('#imSideBar_imMenuObject_01_container-menu-opened').length>0)return;timeout=setTimeout(function(){$this.children('ul, .multiple-column').stop(false,false).fadeOut();},250);});});});</script>
+</div></div>
+					</div>
+					<div id="imContentGraphics"></div>
+					<main id="imContent">
+						<a id="imGoToCont"></a>
+						<div id="imPageRow_1" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_1" class="imContentDataContainer"></div></div>
+						</div>
+						<div id="imCell_1" class="" data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_1"><div style="position: relative; height: 100%;"><div id="imCellStyleGraphicsC_1"></div><div id="imCellStyleGraphicsT_1"></div><div id="imCellStyleGraphicsTL_1"></div><div id="imCellStyleGraphicsTR_1"></div><div id="imCellStyleGraphicsL_1"></div><div id="imCellStyleGraphicsR_1"></div><div id="imCellStyleGraphicsB_1"></div><div id="imCellStyleGraphicsBL_1"></div><div id="imCellStyleGraphicsBR_1"></div></div></div><div id="imCellStyleBorders_1"></div><div id="imTextObject_01">
+							<div data-index="0" class="text-tab-content grid-prop current-tab " id="imTextObject_01_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div><div class="imTARight"><div class="imTACenter"><b class="imTALeft fs12lh1-5"><div style="display: inline !important;" class="imTACenter"><b class="fs20lh1-5 cf1">Ð¡ÐÐÐ  Ð§ÐÐ£</b></div></b><br></div></div></div><div><div class="cf1"><b><div class="imTACenter"><b class="fs28lh1-5">Ð¢ÐÐÐ ÐÐ¡-5</b></div></b><b><div class="imTACenter"><b class="fs14lh1-5">Ð¢ÐÐ¥ÐÐ®Ð Ð "ÐÐ ÐÐÐÐÐ¯"</b></div></b></div></div><div class="imTACenter"><br></div><div><div class="imTACenter"><b class="fs20lh1-5 cf1">CAM-CÐÐ¡Ð¢ÐÐÐ Ð ÐÐ¡Ð§ÐÐ¢Ð Ð£ÐÐ ÐÐÐÐ¯Ð®Ð©ÐÐ¥ ÐÐ ÐÐÐ ÐÐÐ ÐÐÐ¯ Ð¡Ð¢ÐÐÐÐÐ Ð¡ Ð§ÐÐ£</b></div><b><div class="imTACenter"><br></div></b></div><div><div class="imTAJustify"><span class="fs12lh1-5">Ð¡ÐÐÐ  Ð§ÐÐ£ "Ð¢ÐÐÐ ÐÐ¡" (</span><b class="fs12lh1-5">Ð¢</b><span class="fs12lh1-5">ÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¸ÑÐµÑÐºÐ°Ñ </span><b class="fs12lh1-5">Ð</b><span class="fs12lh1-5">Ð½ÑÐµÑÐ°ÐºÑÐ¸Ð²Ð½Ð°Ñ </span><b class="fs12lh1-5">ÐÐ Ð</b><span class="fs12lh1-5">ÑÐ¸ÑÐµÑÐºÐ°Ñ </span><b class="fs12lh1-5">Ð¡</b><span class="fs12lh1-5">Ð¸ÑÑÐµÐ¼Ð°) Ð¿ÑÐµÐ´Ð½Ð°Ð·Ð½Ð°ÑÐµÐ½ Ð´Ð»Ñ Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð½Ð½Ð¾Ð¹ Ð¿Ð¾Ð´Ð³Ð¾ÑÐ¾Ð²ÐºÐ¸ ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐ¸Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼ Ð´Ð»Ñ </span><span class="fs12lh1-5">ÑÑÐ°Ð½ÐºÐ¾Ð² Ñ Ð§ÐÐ£</span><span class="fs12lh1-5">. </span></div><div class="imTACenter"><br></div><div class="imTAJustify"><span class="fs12lh1-5">Ð</span>ÑÐ¾ÑÑÐ¾Ð¹ Ñ<span class="fs12lh1-5">Ð½Ð¸Ð²ÐµÑÑÐ°Ð»ÑÐ½ÑÐ¹</span><span class="fs12lh1-5"> Ð³Ð¸</span><span class="fs12lh1-5">Ð±ÐºÐ¸Ð¹ Ð¸ Ð½</span><span class="fs12lh1-5">ÐµÐ´Ð¾ÑÐ¾Ð³Ð¾Ð¹ </span><span class="fs12lh1-5">Ð¾Ð¿ÐµÑÐ°ÑÐ¸Ð²Ð½ÑÐ¹ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½Ñ ÐºÐ°Ðº </span><b class="fs12lh1-5">ÑÐµÑÐ½Ð¾Ð»Ð¾Ð³Ð¾Ð²</b><b class="fs12lh1-5">, </b><span class="fs12lh1-5">ÑÐ°Ðº Ð¸ </span><b class="fs12lh1-5">Ð¾Ð¿ÐµÑÐ°ÑÐ¾ÑÐ¾Ð²</b><b class="fs12lh1-5"> </b><span class="fs12lh1-5">ÑÑÐ°Ð½ÐºÐ¾Ð² Ñ Ð§ÐÐ£ Ð¢Ð¸Ð³ÑÐ°Ñ Ñ 1988 Ð³Ð¾Ð´Ð° ÑÑÑÐµÐºÑÐ¸Ð²Ð½Ð¾ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÐµÑÑÑ Ð½Ð° Ð¿ÑÐµÐ´Ð¿ÑÐ¸ÑÑÐ¸ÑÑ ÑÐ°Ð¼ÑÑ ÑÐ°Ð·Ð½ÑÑ ÑÑÐ»Ð¾Ð²Ð¸Ð¹ Ð¿ÑÐ¾Ð¸Ð·Ð²Ð¾Ð´ÑÑÐ²Ð° Ð´Ð»Ñ Ð¸Ð·Ð´ÐµÐ»Ð¸Ð¹ Ð¾Ñ ÐºÐ¾ÑÐ¼Ð¸ÑÐµÑÐºÐ¾Ð¹ Ð¾ÑÑÐ°ÑÐ»Ð¸ Ð´Ð¾ </span><span class="fs12lh1-5"><a href="kolokola.html" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/kol-mil.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ðµ &quot;ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° Ð»Ð¸ÑÑÐµÐ²ÑÑ Ð¼Ð¾Ð´ÐµÐ»ÐµÐ¹ ÐºÐ¾Ð»Ð¾ÐºÐ¾Ð»Ð¾Ð²&quot;&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('kolokola.html', null, false)">ÐºÐ¾Ð»Ð¾ÐºÐ¾Ð»Ð¾Ð²</a></span><span class="fs12lh1-5"> ÑÑÐ°Ð¼Ð° Ð¥ÑÐ¸ÑÑÐ° Ð¡Ð¿Ð°ÑÐ¸ÑÐµÐ»Ñ.</span></div><div class="imTAJustify"><br></div><div class="imTAJustify">ÐÑÐ¾ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐ¸Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼ Ð² Ð¢Ð¸Ð³ÑÐ°ÑÐµ Ð¸ÑÐºÐ»ÑÑÐ°ÐµÑ ÐºÐ°ÐºÐ¸Ðµ-Ð»Ð¸Ð±Ð¾ ÐºÐ¾ÑÑÐµÐºÑÐ¸ÑÐ¾Ð²ÐºÐ¸ Ð£Ð Ð½Ð° ÑÑÐ°Ð½ÐºÐ°Ñ, ÑÐºÐ¾Ð»Ñ Ð½Ð¸ ÑÐ»Ð¾Ð¶Ð½Ñ Ð¸ Ð¸Ð·ÑÑÐºÐ°Ð½Ð½Ñ Ð±ÑÐ´ÑÑ ÑÑÐµÐ±Ð¾Ð²Ð°Ð½Ð¸Ñ Ðº ÑÐ¾ÑÐ¼Ð°ÑÑ ÐºÐ°Ð´ÑÐ¾Ð² Ð¸ ÑÑÑÑÐºÑÑÑÐµ Ð£Ð, Ð¿ÑÐµÐ´ÑÑÐ²Ð»ÑÐµÐ¼ÑÐµ ÑÑÐ°Ð½Ð¾ÑÐ½Ð¾Ð¹ ÑÐ¸ÑÑÐµÐ¼Ð¾Ð¹ Ð¸ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¼. <span class="fs12lh1-5">Ð Ð½Ðµ Ð²Ð°Ð¶Ð½Ð¾, Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð° Ð´Ð»Ñ Ð´Ð¾Ð¿Ð¾ÑÐ¾Ð¿Ð½Ð¾Ð³Ð¾ Ð33 (Ð¸Ð»Ð¸ Ð´Ð°Ð¶Ðµ ÐÐ¦Ð-5) Ð¸Ð»Ð¸ Ð½Ð¾Ð²ÐµÐ¹ÑÐµÐ³Ð¾ Ð¡Ð¸Ð¼ÐµÐ½ÑÐ°, - Ð±ÐµÐ·ÑÐºÐ¾ÑÐ¸Ð·Ð½ÐµÐ½Ð½Ð¾ÑÑÑ Ð£Ð Ð³Ð°ÑÐ°Ð½ÑÐ¸ÑÑÐµÑÑÑ.</span> </div><div class="imTAJustify"><span class="fs12lh1-5"><br></span></div><div class="imTAJustify">Ð Ð½Ð°ÑÑÐ¾ÑÑÐ¸Ð¹ Ð¼Ð¾Ð¼ÐµÐ½Ñ Ð¿Ð¾ÑÑÐ°Ð²Ð»ÑÑÑÑÑ <span class="fs12lh1-5"><b><span class="cf2">Ð´Ð²Ðµ Ð²ÐµÑÑÐ¸Ð¸ Ð¢Ð¸Ð³ÑÐ°ÑÐ° - 4 Ð¸ 5</span></b></span>. ÐÑÐ¸ Ð²Ð½ÐµÑÐ½ÐµÐ¹ ÑÑÐ¾Ð¶ÐµÑÑÐ¸ Ð¸Ð½ÑÐµÑÑÐµÐ¹ÑÐ° Ð¸ Ð¿ÑÐ¸ÑÐ¼Ð¾Ð² Ð¿ÑÐ¾ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ, ÑÑÐ¾ Ð´ÐµÐ»Ð°ÐµÑ Ð¿ÐµÑÐµÑÐ¾Ð´ Ð¾Ñ Ð²ÐµÑÑÐ¸Ð¸ Ðº Ð²ÐµÑÑÐ¸Ð¸ Ð±ÐµÑÐ¿ÑÐ¾Ð±Ð»ÐµÐ¼Ð½ÑÐ¼, Ð¼ÐµÐ¶Ð´Ñ Ð²ÐµÑÑÐ¸ÑÐ¼Ð¸ Ð¸Ð¼ÐµÑÑÑÑ <a href="tigras-5-vs-tigras-4.html" class="imCssLink" onclick="return x5engine.utils.location('tigras-5-vs-tigras-4.html', null, false)">ÑÑÑÐµÑÑÐ²ÐµÐ½Ð½ÑÐµ Ð¾ÑÐ»Ð¸ÑÐ¸Ñ</a> Ð² Ð¼ÐµÑÐ¾Ð´Ð¸ÐºÐµ Ð¿ÑÐ¾ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ. ÐÐ¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ¼ 5-Ð¹ Ð²ÐµÑÑÐ¸Ð¸ Ð²ÐµÑÑÐ¸Ñ 4-Ñ Ð¿ÑÐµÐ´Ð¾ÑÑÐ°Ð²Ð»ÑÐµÑÑÑ Ð±ÐµÑÐ¿Ð»Ð°ÑÐ½Ð¾, ÑÐ°Ðº ÑÑÐ¾ Ð»ÑÐ±Ð¸ÑÐµÐ»Ð¸ ÐºÐ»Ð°ÑÑÐ¸ÐºÐ¸ Ð¼Ð¾Ð³ÑÑ Ð½Ðµ Ð±ÐµÑÐ¿Ð¾ÐºÐ¾Ð¸ÑÑÑÑ Ð¾Ð± ÑÑÐµÐ¼Ð»ÐµÐ½Ð¸Ð¸ ÑÐ²Ð¾Ð¸Ñ Ð¸Ð½ÑÐµÑÐµÑÐ¾Ð².</div><div class="imTAJustify"><br></div><div class="imTAJustify"><span class="fs12lh1-5">CAM ÑÐ¸ÑÑÐµÐ¼Ð°</span><span class="fs12lh1-5"> "Ð¢Ð¸Ð³ÑÐ°Ñ" </span><span class="fs12lh1-5">ÑÐ¾ÑÑÐ¾Ð¸Ñ Ð¸Ð· Ð±Ð°Ð·Ð¾Ð²Ð¾Ð³Ð¾ Ð¼Ð¾Ð´ÑÐ»Ñ, ÑÐµÑÑÑÑÑ Ð¾ÑÐ½Ð¾Ð²Ð½ÑÑ Ð¼Ð¾Ð´ÑÐ»ÐµÐ¹ Ð´Ð»Ñ ÑÑÐ°Ð½ÐºÐ¾Ð²: </span>1) <span class="fs12lh1-5"><a href="cam-moduli.html#frezernyi-modul" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/kub_na_pov_stole.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;Ð¤ÑÐµÐ·ÐµÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ Ð´Ð»Ñ ÑÑÐµÐ·ÐµÑÐ½ÑÑ ÑÑÐ°Ð½ÐºÐ¾Ð² Ð¸  Ð¾Ð±ÑÐ°Ð±Ð°ÑÑÐ²Ð°ÑÑÐ¸Ñ ÑÐµÐ½ÑÑÐ¾Ð², Ð² Ñ.Ñ. Ð´Ð»Ñ Ð¾Ð±ÑÑÐ¼Ð½Ð¾Ð¹ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸ 3D&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('cam-moduli.html#frezernyi-modul', null, false)">ÑÑÐµÐ·ÐµÑÐ½ÑÑ</a></span><span class="fs12lh1-5">, 2) </span><span class="fs12lh1-5"><a href="cam-moduli.html#tokarnyi-modul" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/tokar_solid.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;Ð¢Ð¾ÐºÐ°ÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ Ð´Ð»Ñ ÑÐ¾ÐºÐ°ÑÐ½ÑÑ ÑÑÐ°Ð½ÐºÐ¾Ð²&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('cam-moduli.html#tokarnyi-modul', null, false)">ÑÐ¾ÐºÐ°ÑÐ½ÑÑ</a> Ð¸</span><span class="fs12lh1-5"> </span><span class="fs12lh1-5"><a href="cam-moduli.html#tokarnyi-modul" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/tok-frez_solid.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;Ð¢Ð¾ÐºÐ°ÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ Ð´Ð»Ñ ÑÐ¾ÐºÐ°ÑÐ½Ð¾-ÑÑÐµÐ·ÐµÑÐ½ÑÑ ÑÑÐ°Ð½ÐºÐ¾Ð²&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('cam-moduli.html#tokarnyi-modul', null, false)">ÑÐ¾ÐºÐ°ÑÐ½Ð¾-ÑÑÐµÐ·ÐµÑÐ½Ñ</a>Ñ</span><span class="fs12lh1-5">, 3) </span><span class="fs12lh1-5"><a href="cam-moduli.html#2d-modul" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/elektroer_4d.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;ÐÐ»Ð¾ÑÐºÐ¾ÐºÐ¾Ð½ÑÑÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ - Ð´Ð»Ñ ÑÐ»ÐµÐºÑÑÐ¾ÑÑÐ¾Ð·Ð¸Ð¾Ð½Ð½ÑÑ (2D Ð¸ 4D), Ð»Ð°Ð·ÐµÑÐ½ÑÑ, Ð³Ð°Ð·Ð¾ÑÐµÐ·Ð°ÑÐµÐ»ÑÐ½ÑÑ, Ð³Ð¸Ð´ÑÐ¾Ð°Ð±ÑÐ°Ð·Ð¸Ð²Ð½ÑÑ Ð¸ Ð¿ÑÐ¾ÑÐ¸Ñ Ð´Ð²ÑÑÐºÐ¾Ð¾ÑÐ´Ð¸Ð½Ð°ÑÑÑ ÑÑÐ°Ð½ÐºÐ¾Ð²&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('cam-moduli.html#2d-modul', null, false)">Ð¿ÑÐ¾Ð²Ð¾Ð»Ð¾ÑÐ½ÑÑ ÑÐ»ÐµÐºÑÑÐ¾ÑÑÐ¾Ð·Ð¸Ð¾Ð½Ð½ÑÑ (5D), Ð»Ð°Ð·ÐµÑÐ½ÑÑ Ð¸ Ð¿ÑÐ¾ÑÐ¸Ñ Ð¿Ð»Ð¾ÑÐºÐ¾ÐºÐ¾Ð½ÑÑÑÐ½ÑÑ</a></span><span class="fs12lh1-5">, 4) </span><span class="fs12lh1-5"><a href="cam-moduli.html#vyrubnoi-modul" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/koordsht_solid.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;ÐÐ¾Ð¾ÑÐ´Ð¸Ð½Ð°ÑÐ½Ð¾-ÑÑÐ°Ð¼Ð¿Ð¾Ð²Ð¾ÑÐ½ÑÐ¹ Ð¼Ð¾Ð´ÑÐ»Ñ - Ð´Ð»Ñ Ð´ÑÑÐ¾Ð¿ÑÐ¾Ð±Ð¸Ð²Ð½ÑÑ ÑÑÐ°Ð½ÐºÐ¾Ð², Ð² Ñ.Ñ. Ñ ÑÐ¿ÑÐ°Ð²Ð»ÑÐµÐ¼ÑÐ¼ Ð¿Ð¾Ð²Ð¾ÑÐ¾ÑÐ¾Ð¼ Ð¿ÑÐ°Ð½ÑÐ¾Ð½Ð¾Ð² Ð¸ Ð²ÑÐ¿Ð¾Ð¼Ð¾Ð³Ð°ÑÐµÐ»ÑÐ½ÑÐ¼Ð¸ Ð¾Ð±ÑÐ°Ð±Ð°ÑÑÐ²Ð°ÑÑÐ¸Ð¼Ð¸ Ð³Ð¾Ð»Ð¾Ð²ÐºÐ°Ð¼Ð¸&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('cam-moduli.html#vyrubnoi-modul', null, false)">ÐºÐ¾Ð¾ÑÐ´Ð¸Ð½Ð°ÑÐ½Ð¾-ÑÑÐ°Ð¼Ð¿Ð¾Ð²Ð¾ÑÐ½ÑÑ</a></span><span class="fs12lh1-5">, Ð° ÑÐ°ÐºÐ¶Ðµ</span><span class="fs12lh1-5"> Ð¼Ð¾Ð´ÑÐ»Ñ</span> <a href="optimalnyj-raskroj.html" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/raskladka.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;ÐÐ¾Ð´ÑÐ»Ñ Ð¾Ð¿ÑÐ¸Ð¼Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ÑÐ°ÑÐºÑÐ¾Ñ Ð»Ð¸ÑÑÐ¾Ð²ÑÑ Ð·Ð°Ð³Ð¾ÑÐ¾Ð²Ð¾Ðº&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('optimalnyj-raskroj.html', null, false)">Ð¾Ð¿ÑÐ¸Ð¼Ð°Ð»ÑÐ½Ð¾Ð³Ð¾ ÑÐ°ÑÐºÑÐ¾Ñ Ð»Ð¸ÑÑÐ¾Ð²ÑÑ Ð·Ð°Ð³Ð¾ÑÐ¾Ð²Ð¾Ðº</a>. Ð¡ÑÐ°Ð½ÐºÐ¸ Ð¼Ð¾Ð³ÑÑ Ð¸Ð¼ÐµÑÑ Ð»ÑÐ±ÑÐµ ÐºÐ¾Ð¼Ð¿Ð¾Ð½Ð¾Ð²ÐºÐ¸ Ð¸ Ð½ÐµÐ¾Ð³ÑÐ°Ð½Ð¸ÑÐµÐ½Ð½Ð¾Ðµ ÑÐ¸ÑÐ»Ð¾ ÐºÐ¾Ð¾ÑÐ´Ð¸Ð½Ð°Ñ.</div><div class="imTAJustify"><br></div><div class="imTAJustify"><div><span class="fs12lh1-5">ÐÐ¾ Ð²ÑÐµÑ Ð¼Ð¾Ð´ÑÐ»ÑÑ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÑÑÑÑ ÑÑÐ¾Ð¶Ð¸Ðµ Ð¼ÐµÑÐ¾Ð´Ð¸ÐºÐ¸ Ð¿ÑÐ¾ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ, Ð¼Ð°Ð½Ð¸Ð¿ÑÐ»ÑÑÐ¸Ð¸ Ð¿ÑÐ¸ Ð¿Ð¾ÑÑÑÐ¾ÐµÐ½Ð¸ÑÑ Ð¸ ÐºÐ¾Ð¼Ð°Ð½Ð´Ñ. Ð¢ÑÐ°ÐµÐºÑÐ¾ÑÐ¸Ð¸ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ¾Ð² ÑÐ¾ÑÐ¼Ð¸ÑÑÑÑÑÑ ÐºÐ°Ðº Ð°Ð²ÑÐ¾Ð¼Ð°ÑÐ¸ÑÐµÑÐºÐ¸, Ð²ÐºÐ»ÑÑÐ°Ñ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÑ ÑÐ¸Ð¿Ð¾Ð²ÑÑ ÑÐ»ÐµÐ¼ÐµÐ½ÑÐ¾Ð² ÐºÐ¾Ð½ÑÑÑÑÐºÑÐ¸Ð¹, ÑÐ»Ð¾Ð¶Ð½Ð¾Ð¹ ÑÐ¾ÑÐ¼Ñ ÐºÐ°ÑÐ¼Ð°Ð½Ð¾Ð² Ñ Ð¾ÑÑÑÐ¾Ð²Ð°Ð¼Ð¸, Ð¼Ð½Ð¾Ð³Ð¾ÑÑÑÐ¿ÐµÐ½ÑÐ°ÑÑÑ ÑÐ¾ÐºÐ°ÑÐ½ÑÑ Ð´ÐµÑÐ°Ð»ÐµÐ¹ Ð¸ Ð¿Ñ. Ñ ÑÑÑÑÐ¾Ð¼ ÑÐ¾ÑÐ¼Ñ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ°, ÑÐ°Ðº Ð¸ Ñ ÑÐ°Ð·Ð½Ð¾Ð¹ ÑÑÐµÐ¿ÐµÐ½ÑÑ ÑÑÑÐ½Ð¾Ð³Ð¾ Ð²Ð¼ÐµÑÐ°ÑÐµÐ»ÑÑÑÐ²Ð° Ð² Ð¿ÑÐ¾ÑÐµÑÑ Ð¿ÑÐ¾ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ. ÐÐ¾Ð»ÑÑÐµÐ½Ð½ÑÐµ Ð£Ð Ð¼Ð¾Ð³ÑÑ ÑÐ¾Ð´ÐµÑÐ¶Ð°ÑÑ Ð°Ð²ÑÐ¾ÑÐ¸ÐºÐ»Ñ, Ð¿Ð¾Ð´Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ñ, Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð½ÑÐµ Ð¿ÐµÑÐµÑÐ¾Ð´Ñ Ð½Ð° Ð¼ÐµÑÐºÐ¸, ÑÐ¸ÐºÐ»Ñ Ð¸ Ñ. Ð´. ÐÐ»Ñ Ð²ÑÐ±Ð¾ÑÐ° Ð¾ÑÐ½Ð°ÑÑÐºÐ¸ Ð¸ Ð¸Ð½ÑÑÑÑÐ¼ÐµÐ½ÑÐ° Ð² Ð¢Ð¸Ð³ÑÐ°ÑÐµ Ð¸Ð¼ÐµÐµÑÑÑ Ð¿Ð¾Ð¿Ð¾Ð»Ð½ÑÐµÐ¼Ð°Ñ Ð±Ð°Ð·Ð°.</span><span class="imTACenter fs12lh1-5"> </span></div><div class="imTACenter"><br></div></div><div class="imTAJustify"><span class="fs12lh1-5">ÐÐ±ÑÐ°Ð±Ð°ÑÑÐ²Ð°ÐµÐ¼ÑÐµ Ð¿Ð»Ð¾ÑÐºÐ¸Ðµ ÐºÐ¾Ð½ÑÑÑÑ, ÑÐµÐ»Ð° Ð¸ Ð¿Ð¾Ð²ÐµÑÑÐ½Ð¾ÑÑÐ¸ 3D </span><span class="fs12lh1-5">Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐ¿ÑÐ¾ÐµÐºÑÐ¸ÑÐ¾Ð²Ð°ÑÑ ÐºÐ°Ðº Ð² ÑÐ°Ð¼Ð¾Ð¼</span><span class="fs12lh1-5"> Ð¢Ð¸Ð³ÑÐ°ÑÐµ</span><span class="fs12lh1-5">, ÑÐ°Ðº Ð¸ <a href="cad-3d-import.html" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/kryshka_ugl.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;ÐÐ¼Ð¿Ð¾ÑÑ Ð³ÑÐ°ÑÐ¸ÑÐµÑÐºÐ¸Ñ Ð´Ð°Ð½Ð½ÑÑ&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('cad-3d-import.html', null, false)">Ð¸Ð¼Ð¿Ð¾ÑÑÐ¸ÑÐ¾Ð²Ð°ÑÑ</a> Ð¸Ñ Ð¸Ð· Ð»ÑÐ±Ð¾Ð¹ CAD-</span><wbr class="fs12lh1-5"><span class="fs12lh1-5">ÑÐ¸ÑÑÐµÐ¼Ñ.</span></div></div><div class="imTAJustify"><div class="imTAJustify"><br></div><div class="imTAJustify">Ð¡ Ð¿Ð¾Ð¼Ð¾ÑÑÑ Ð¼Ð¾Ð´ÑÐ»Ñ ÑÐ²ÐµÑÐ´Ð¾ÑÐµÐ»ÑÐ½Ð¾Ð³Ð¾ <a href="solid.html" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/solid.png&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;Ð¢Ð²ÐµÑÐ´Ð¾ÑÐµÐ»ÑÐ½Ð¾Ðµ Ð¼Ð¾Ð´ÐµÐ»Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÑÐ¾ÑÐ¼Ð¾Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°Ð½Ð¸Ñ Ð´ÐµÑÐ°Ð»ÐµÐ¹&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('solid.html', null, false)">Ð¼Ð¾Ð´ÐµÐ»Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð¾Ð±ÑÐ°Ð±Ð¾ÑÐºÐ¸</a> Ð² CAM-ÑÐ¸ÑÑÐµÐ¼Ðµ ÐºÐ¾Ð½ÑÑÐ¾Ð»Ð¸ÑÑÐµÑÑÑ Ð¿ÑÐ¾ÑÐµÑÑ ÑÐ¾ÑÐ¼Ð¾Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°Ð½Ð¸Ñ Ð´ÐµÑÐ°Ð»ÐµÐ¹ Ð½Ð° ÑÑÐµÐ·ÐµÑÐ½ÑÑ, ÑÐ¾ÐºÐ°ÑÐ½ÑÑ Ð¸ ÑÐ¾ÐºÐ°ÑÐ½Ð¾-<wbr>ÑÑÐµÐ·ÐµÑÐ½ÑÑ ÑÑÐ°Ð½ÐºÐ°Ñ.</div><div class="imTAJustify"><br></div><div class="imTAJustify"><span class="fs12lh1-5">Ð¢</span><span class="imTALeft fs12lh1-5">Ð¸Ð³ÑÐ°Ñ</span><span class="fs12lh1-5"> Ð² Ð·Ð½Ð°ÑÐ¸ÑÐµÐ»ÑÐ½Ð¾Ð¹ ÑÐ²Ð¾ÐµÐ¹ ÑÐ°ÑÑÐ¸ Ð¾ÑÐ½Ð¾ÑÐ¸ÑÑÑ Ðº Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð½Ð¾Ð¼Ñ Ð¾Ð±ÐµÑÐ¿ÐµÑÐµÐ½Ð¸Ñ Ñ Ð¾ÑÐºÑÑÑÑÐ¼ ÐºÐ¾Ð´Ð¾Ð¼, ÑÑÐ¾ Ð¿Ð¾Ð·Ð²Ð¾Ð»ÑÐµÑ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ¼ ÑÐ²Ð¾Ð¸Ð¼Ð¸ ÑÐ¸Ð»Ð°Ð¼Ð¸ <a href="rasshir.html" onmouseover="x5engine.imTip.Show(this, { text: 'Ð Ð°ÑÑÐ¸ÑÐµÐ½Ð¸Ñ Ð¢Ð¸Ð³ÑÐ°ÑÐ°', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('rasshir.html', null, false)">ÑÐ°ÑÑÐ¸ÑÑÑÑ ÑÑÐ½ÐºÑÐ¸Ð¾Ð½Ð°Ð»</a> Ð¢Ð¸Ð³ÑÐ°ÑÐ° Ð¸ Ð°Ð´Ð°Ð¿ÑÐ¸ÑÐ¾Ð²Ð°ÑÑ ÐµÐ³Ð¾ Ðº ÑÑÐ»Ð¾Ð²Ð¸ÑÐ¼ ÐºÐ¾Ð½ÐºÑÐµÑÐ½Ð¾Ð³Ð¾ Ð¿ÑÐ¾Ð¸Ð·Ð²Ð¾Ð´ÑÑÐ²Ð°.</span><br></div><div class="imTAJustify"><br></div><div class="imTAJustify">Ð¥Ð¾ÑÐ¸ÑÐµ Ð±ÐµÑÐ¿Ð»Ð°ÑÐ½ÑÑ CAM-ÑÐ¸ÑÑÐµÐ¼Ñ? ÐÑÐ¸ÑÑÑÐ¿Ð¸ÑÑ Ðº ÑÐ°Ð·ÑÐ°Ð±Ð¾ÑÐºÐµ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼ Ð² Ð¢Ð¸Ð³ÑÐ°ÑÐµ-4 Ð²Ñ Ð¼Ð¾Ð¶ÐµÑÐµ ÑÐ¶Ðµ ÑÐµÐ³Ð¾Ð´Ð½Ñ, Ð¸ÑÐ¿Ð¾Ð»ÑÐ·ÑÑ <a href="email.html" onmouseover="x5engine.imTip.Show(this, { text: 'Ð£ÑÐ»ÑÐ³Ð° Ð¿Ð¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ Ð£Ð Ð¿Ð¾ Ð¿ÑÐ¾ÐµÐºÑÐ°Ð¼, ÑÐ¾Ð·Ð´Ð°Ð½Ð½ÑÐ¼ Ð² email-Ð²ÐµÑÑÐ¸Ð¸ Ð¢Ð¸Ð³ÑÐ°ÑÐ°', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('email.html', null, false)">email-Ð²ÐµÑÑÐ¸Ñ</a> Ð¸ Ð¿Ð¾ÑÑÐ¿ÑÐ¾ÑÐµÑÑÐ¸ÑÑÑ Ð£Ð ÑÐµÑÐµÐ· ÐÐ½ÑÐµÑÐ½ÐµÑ Ð·Ð° ÑÐ¸Ð¼Ð²Ð¾Ð»Ð¸ÑÐµÑÐºÑÑ Ð¿Ð»Ð°ÑÑ.</div><div class="imTAJustify"><br></div><div class="imTAJustify">ÐÐ»Ñ Ð¿ÐµÑÐµÐ´Ð°ÑÐ¸ ÑÐ¿ÑÐ°Ð²Ð»ÑÑÑÐ¸Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼ Ð½Ð° ÑÑÐ°Ð½ÐºÐ¸ Ñ Ð§ÐÐ£ Ð¼Ñ Ð¿ÑÐµÐ´Ð»Ð°Ð³Ð°ÐµÐ¼ ÑÐ°Ð·Ð½Ð¾Ð¾Ð±ÑÐ°Ð·Ð½ÑÐµ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð½Ð¾-Ð°Ð¿Ð¿Ð°ÑÐ°ÑÐ½ÑÐµ <a href="peredacha.html" onmouseover="x5engine.imTip.Show(this, { text: '&amp;lt;img src=&quot;files/eszu-k_gray.jpg&quot; alt=&quot;&quot; style=&quot;width: 50%;&quot;/&amp;gt;&amp;lt;div&amp;gt;Ð£ÑÑÑÐ¾Ð¹ÑÑÐ²Ð° Ð´Ð»Ñ Ð¿ÐµÑÐµÐ´Ð°ÑÐ¸ Ð£Ð Ð½Ð° ÑÑÐ°Ð½ÐºÐ¸. Ð¡ÑÐ°Ð½Ð¾ÑÐ½ÑÐµ ÑÐµÑÐ¸&amp;lt;/div&amp;gt;', width: 180});" class="imCssLink" onclick="return x5engine.utils.location('peredacha.html', null, false)">ÑÑÑÑÐ¾Ð¹ÑÑÐ²Ð° Ð¸ ÑÑÐ°Ð½Ð¾ÑÐ½ÑÐµ ÑÐµÑÐ¸</a>.</div><div class="imTAJustify"><br></div></div>
+								</div>
+							</div>
+						
+						</div>
+						</div><div id="imPageRow_2" class="imPageRow">
+						
+						</div>
+						<div id="imCell_14" class="animable pulse" data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_14"></div><div id="imCellStyleBorders_14"></div><div id="imObjectVideo_14"><video id="imObjectVideo_14_media" src="https://tigras.ru/video/shnek.mp4" preload="metadata" controls>ÐÐ±ÑÐ°Ð±Ð¾ÑÐºÐ° ÑÐ½ÐµÐºÐ° Ñ Ð¿ÐµÑÐµÐ¼ÐµÐ½Ð½ÑÐ¼ ÑÐ°Ð³Ð¾Ð¼ Ð½Ð° ÑÐ¾ÐºÐ°ÑÐ½Ð¾-ÑÑÐµÐ·ÐµÑÐ½Ð¾Ð¼ ÑÑÐ°Ð½ÐºÐµ</video>
+						</div><script>$(function(){$('#imObjectVideo_14_media').attr('controlsList','nodownload').on('error',function(){$(this).replaceWith('<div class="object-generic-error"><div class="text-center">'+x5engine.l10n.get('error_notsupported_video')+'</div></div>');});});</script>
+						</div>
+						<script>x5engine.boot.push(function(){x5engine.utils.onElementInViewPort($('#imCell_14').get(0),function(){x5engine.utils.revealObject($("#imCell_14"))},100);});</script>
+						
+					</main>
+					<footer id="imFooter">
+						<div id="imFooterObjects"></div>
+					</footer>
+				</div>
+				<span class="imHidden"><a href="#imGoToCont" title="ÐÑÐ¾ÑÐµÑÑÑ ÑÑÑ ÑÑÑÐ°Ð½Ð¸ÑÑ Ð·Ð°Ð½Ð¾Ð²Ð¾">ÐÐ°Ð·Ð°Ð´ Ðº ÑÐ¾Ð´ÐµÑÐ¶Ð¸Ð¼Ð¾Ð¼Ñ</a></span>
+			</div>
+		</div>
+		<center>
+<br><br>
+<font color="#6600dd"><b>MP.KAMEYA@MAIL.RU &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp +7 916 235-79-72</b></font></center>
+<br><br>
+
+<table width="100%">
+<tr>
+<td style="background-color: #D8E5DE">
+<center>
+<br><br><br>
+
+
+<!-- HotLog -->
+<span id="hotlog_counter"></span>
+<span id="hotlog_dyn"></span>
+<script type="text/javascript">var hot_s=document.createElement('script');hot_s.type='text/javascript';hot_s.async=true;hot_s.src='https://js.hotlog.ru/dcounter/2555986.js';hot_d=document.getElementById('hotlog_dyn');hot_d.appendChild(hot_s);</script>
+<noscript>
+<a href="https://click.hotlog.ru/?2555986" target="_blank"><img src="https://hit20.hotlog.ru/cgi-bin/hotlog/count?s=2555986&amp;im=41" border="0" alt="HotLog"></a>
+</noscript>
+<!-- /HotLog -->
+
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=87179996&amp;from=informer" target="_blank" rel="nofollow"><img src="https://metrika-informer.com/informer/87179996/2_1_FFFFFFFF_EFEFEFFF_0_pageviews" style="width:80px; height:31px; border:0;" alt="Ð¯Ð½Ð´ÐµÐºÑ.ÐÐµÑÑÐ¸ÐºÐ°" title="Ð¯Ð½Ð´ÐµÐºÑ.ÐÐµÑÑÐ¸ÐºÐ°: Ð´Ð°Ð½Ð½ÑÐµ Ð·Ð° ÑÐµÐ³Ð¾Ð´Ð½Ñ (Ð¿ÑÐ¾ÑÐ¼Ð¾ÑÑÑ)" class="ym-advanced-informer" data-cid="87179996" data-lang="ru"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,"script","https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js","ym");ym(87179996,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/87179996" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<a href="https://webmaster.yandex.ru/siteinfo/?site=https://tigras.ru"><img width="88" height="31" alt="" border="0" src="https://yandex.ru/cycounter?https://tigras.ru&theme=light&lang=ru"/></a>
+
+
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"6291",type:"pageView",start:(new Date()).getTime()});(function(d,w,id){if(d.getElementById(id))return;var ts=d.createElement("script");ts.type="text/javascript";ts.async=true;ts.id=id;ts.src="https://top-fwz1.mail.ru/js/code.js";var f=function(){var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s);};if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",f,false);}else{f();}})(document,window,"topmailru-code");</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=6291;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru"/>
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+
+<!-- Rating Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=6291">
+<img src="https://top-fwz1.mail.ru/counter?id=6291;t=441;l=1" style="border:0;" height="31" width="88" alt="Top.Mail.Ru"/></a>
+<!-- //Rating Mail.ru logo -->
+
+
+</center>
+</td>
+</tr>
+</table>
+
+
+		<noscript class="imNoScript"><div class="alert alert-red">ÐÐ»Ñ Ð¸ÑÐ¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°Ð½Ð¸Ñ ÑÑÐ¾Ð³Ð¾ ÑÐ°Ð¹ÑÐ° Ð½ÐµÐ¾Ð±ÑÐ¾Ð´Ð¸Ð¼Ð¾ Ð²ÐºÐ»ÑÑÐ¸ÑÑ JavaScript.</div></noscript>
+	</body>
+</html>

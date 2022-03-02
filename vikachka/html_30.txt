@@ -1,0 +1,2018 @@
+<!DOCTYPE html>
+<html lang="ru" itemscope itemtype="http://schema.org/WebSite">
+	<!-- /templates/chunks/template-head.php -->
+<head>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-17011753-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-17011753-1');
+    </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '336862353653495');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=336862353653495&ev=PageView&noscript=1" /></noscript>
+    <!-- End Facebook Pixel Code -->
+    <meta charset="UTF-8">
+  <title>Консультант Плюс - официальный сайт РИЦ. Консультант + в Москве онлайн</title>
+  <base href="https://cons-plus.ru">
+  <meta name="keywords" content="консультант плюс, справочная система правовой консультант, спс консультант, консультант плюс москва, сайт консультант плюс, сайт консультант, спс консультант плюс, спс консультантплюс" />
+  <meta name="description" content="Официальный сайт РИЦ Консультант Плюс. Продажа, онлайн-консультация и техническая поддержка продуктов. ☎ +7 499 842-40-13." />
+  <meta name='yandex-verification' content='6fc3e1fbf63ed895' />
+  <meta name="yandex-verification" content="47cfcae0d0fa537c" />
+  <meta name="yandex-verification" content="e23dbdc0d4fac8fa" />
+  <meta name="facebook-domain-verification" content="bh4nced850fyl615z5dz033hwa27l8" />
+
+  <meta property="og:title" content="Консультант Плюс - официальный сайт РИЦ. Консультант + в Москве онлайн"/>
+  <meta property="og:description" content="Официальный сайт РИЦ Консультант Плюс. Продажа, онлайн-консультация и техническая поддержка продуктов. ☎ +7 499 842-40-13."/>
+  <meta property="og:type" content="website"/>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="/min/f=/css/message_system.css" />
+  <!-- <link rel="stylesheet" href="/min/f=/css/usoftforms.css" /> -->
+  <link rel="stylesheet" href="/min/f=/css/standart_styles.css">
+  <link rel="stylesheet" href="/min/f=/css/new_main.css">
+  <link rel="stylesheet" href="/min/f=/css/vendor/lightbox.css">
+  <link rel="stylesheet" href="/css/cons0915.css">
+  <link rel="stylesheet" href="/css/vendor/skeleton-grid.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css">
+  <link itemprop="url" href="https://cons-plus.ru"/>
+  <!--[if IE]>
+      <link type="text/css" rel="stylesheet" href="/css/new_main_ie.css">
+  <![endif]-->
+
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+  <!-- Uniforms activating -->
+  <script src="/js/vendor/uniforms/uniforms.js"></script>
+  <script src="/js/vendor/uniforms/uniforms_eventfunctions.js"></script>
+  <script src="/js/vendor/uniforms/uniforms_utils.js"></script>
+  <script> var uf = new Uniforms();</script>
+
+  <script src="https://cdn.gravitec.net/storage/8cd0a158be8204ef10e880d9a78126b4/client.js" async></script>
+
+  <style>
+    .roistat-multiwidget-pulsator-holder {
+      display:none;
+    }
+  </style>
+</head>	<body id="mainpage">
+
+	    <script type="text/javascript" async>
+			var _tmr = window._tmr || (window._tmr = []);
+			_tmr.push({id: "3139729", type: "pageView", start: (new Date()).getTime()});
+			(function (d, w, id) {
+			if (d.getElementById(id)) return;
+			var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+			ts.src = "https://top-fwz1.mail.ru/js/code.js";
+			var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+			if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+			})(document, window, "topmailru-code");
+	    </script><noscript><div>
+	    <img src="https://top-fwz1.mail.ru/counter?id=3139729;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+	    </div></noscript>
+	    <!-- //Rating Mail.ru counter -->
+
+		<div id="tpln" style="margin-bottom:0">
+		    <div class="ZoneIn-1">
+		        <a class="head-logo"></a>
+		        <p class="head-title">Официальный Сервисный<br /> Центр Консультант Плюс<br /> в Москве</p>
+		        <ul class="head-txt">
+		            <!-- <li>
+		                <span>Консультация специалиста</span>
+		                <a href="tel:88002507474" id="comagic_phone_1" class="roistat-phone8800">8 800 250-74-74</a>
+						<span style="">звонок бесплатный</span>
+		            </li> -->
+                    <li style="width: 105px; padding-left: 0; background: transparent;"></li>
+		            <li>
+		                <span>Отдел продаж</span>
+		                <a href="tel:+74998424013" class="roistat-phone495">+7 (499) 842-40-13</a>
+		                <span>Пн – Пт с 10:00 до 18:30</span>
+		            </li>
+                    <li style="width: 105px; padding-left: 0; background: transparent;"></li>
+		            <li style="position: relative;">
+		                <span><a href="mailto:info@cons-plus.ru">info@cons-plus.ru</a></span>
+
+		                <button class="header__button-buy uniforms show" style="font-size: 11px; text-align: center; color: #fff;" data-template="calculator_form_full" data-formid="2" data-formname="head_complect" data-opsubj="Купить Консультант Плюс" data-before-open="main_page_custom_package">Купить Консультант Плюс</button>
+
+                        <div id="fly_feedback"><p>Задать вопрос</p></div>
+		            </li>
+		        </ul>
+		    </div>
+		</div>
+
+		<div class="allnews-banner">
+			<style scoped="scoped">
+				.allnews-banner {
+					height: 50px;
+					background: url('/img/allnews-banner-bg.jpg') no-repeat center;
+					margin: 0 0 40px auto;
+					background-size: cover;
+				}
+				.allnews-banner__container {
+					width: 1240px;
+					margin: 0 auto;
+					display: flex;
+					align-items: center;
+					height: 50px;
+					font-size: 18px;
+					justify-content: center;
+					margin-bottom: 40px;
+				}
+				.allnews-banner__button {
+					margin: 0 30px;
+					background: #b03191;
+					color: white;
+					padding: 5px 30px;
+					text-decoration: none;
+				}
+			</style>
+			<div class="allnews-banner__container">
+				13 методичек для  бухгалтеров и юристов
+				<a href="/lending2/" class="allnews-banner__button">Скачать бесплатно</a>
+			</div>
+		</div>
+
+		<div id="page">
+			<div id="leftcol">
+			    <div id="logo">
+			        <a href="/" style="color: #4742aa;text-decoration: none;">
+
+			        </a>
+			    </div>
+
+
+				
+<div id="leftmenu">
+	<ul class="new-menu ">
+		<li class="cover level1 menu3817">
+			<div class="new_button orang"><span style="padding-left: 5px;">Комплекты Консультант Плюс</span></div>
+			<div class="list_lv2">
+				<ul class="level2 new_dropdown">
+					<li class="child level2"><a href="/kupit_konsultant_plyus/"><div class="menu_box">Купить КонсультантПлюс</div></a></li><li class="child level2"><a href="/spravochno_pravovaya_sistema/"><div class="menu_box">О системе Консультант Плюс</div></a></li><li class="child level2"><a href="/package_consultant/urist/"><div class="menu_box">Для юриста</div></a></li><li class="child level2"><a href="/setevaya_versiya/buhgalterya/"><div class="menu_box">Для бухгалтера</div></a></li><li class="child level2"><a href="/setevaya_versiya/konsultant_plyus_biznes_rukovoditelyu/"><div class="menu_box">Для бизнеса</div></a></li><li class="child level2"><a href="/budjetnie_organizacii/"><div class="menu_box">Для бюджетные организации</div></a></li>				</ul>
+			</div>
+			<div class="bottom_lv2"></div>
+		</li>
+		<li class="cover level1 menu3849">
+			<div class="new_button orang"><span style="padding-left: 5px;">Версии</span></div>
+			<div class="list_lv2">
+				<ul class="level2 new_dropdown">
+					<li class="child level2"><a href="/online_versia/"><div class="menu_box">Онлайн версия</div></a></li><li class="child level2"><a href="/fleshka_konsultant_plyus/"><div class="menu_box">Версия на флешке</div></a></li><li class="child level2"><a href="/dlya_mac_os/"><div class="menu_box">Версия для Mac OS</div></a></li><li class="child level2"><a href="/nekommercheskay_versia/"><div class="menu_box">Некоммерческая версия</div></a></li><li class="child level2"><a href="/demo_versia/"><div class="menu_box">Пробная версия</div></a></li>				</ul>
+			</div>
+			<div class="bottom_lv2"></div>
+		</li>
+		<li class="cover level1 menu3849">
+			<div class="new_button orang"><span style="padding-left: 5px;">Дополнительные услуги и сервисы</span></div>
+			<div class="list_lv2">
+				<ul class="level2 new_dropdown">
+					<li class="child level2"><a href="/free_demo/"><div class="menu_box">Бесплатная демонстрация</div></a></li><li class="child level2"><a href="/spravochno_pravovaya_sistema/putevoditel_po_korporativnim_sporam/"><div class="menu_box">Путеводитель по корпоративным спорам</div></a></li><li class="child level2"><a href="/putevoditel_po_trudovim_sporam/"><div class="menu_box">Путеводитель по трудовым спорам</div></a></li><li class="child level2"><a href="/spravochno_pravovaya_sistema/delovie_bumagi/"><div class="menu_box">Консультант Плюс Деловые бумаги</div></a></li><li class="child level2"><a href="/zakonodatelstvo/"><div class="menu_box">Законодательство</div></a></li><li class="child level2"><a href="/kodeksy/"><div class="menu_box">Кодексы</div></a></li>				</ul>
+			</div>
+			<div class="bottom_lv2"></div>
+		</li>
+		<li class="cover level1 menu3849">
+			<div class="new_button orang"><span style="padding-left: 5px;">О нас</span></div>
+			<div class="list_lv2">
+				<ul class="level2 new_dropdown">
+					<li class="child level2"><a href="/centr_consultant_plus/"><div class="menu_box">О Компании</div></a></li><li class="child level2"><a href="/otzivi/"><div class="menu_box">Отзывы</div></a></li><li class="child level2"><a href="/vakansii/"><div class="menu_box">Вакансии</div></a></li><li class="child level2"><a href="/oplata/"><div class="menu_box">Оплата</div></a></li>				</ul>
+			</div>
+			<div class="bottom_lv2"></div>
+		</li>
+		<li class="cover level1 menu3849">
+			<div class="new_button orang"><span style="padding-left: 5px;">Полезная информация</span></div>
+			<div class="list_lv2">
+				<ul class="level2 new_dropdown">
+					<li class="child level2"><a href="/nalogovyj_dlya_buhgaltera/"><div class="menu_box">Бухгалтеру</div></a></li><li class="child level2"><a href="/uristu/"><div class="menu_box">Юристу</div></a></li><li class="child level2"><a href="/instrukcii_1minute/"><div class="menu_box">Как найти документ за 1 минуту</div></a></li><li class="child level2"><a href="/poslednee_obnovlenie_baz/"><div class="menu_box">Обновление систем</div></a></li><li class="child level2"><a href="/obnovlenie_sistem/"><div class="menu_box">Как выполнить обновление систем?</div></a></li><li class="child level2"><a href="/press_relizi/"><div class="menu_box">Новые возможности</div></a></li><li class="child level2"><a href="/faq/"><div class="menu_box">Вопросы и Ответы</div></a></li>				</ul>
+			</div>
+			<div class="bottom_lv2"></div>
+		</li>
+	</ul>
+</div>
+
+			</div><!--
+		 --><div id="centercol">
+
+		 		
+	<!-- /templates/template__header.php -->
+	<div id="header">
+		<div class="item">
+			<a class="descr" href="/kupit_konsultant_plyus/">
+				<img src="/images/page-main/cust_compl.png" alt="Консультант Плюс - официальный сайт Консультант+ в Москве онлайн" title="Консультант Плюс">
+				<span>Расчет<br/>стоимости</span>
+			</a>
+		</div><!--
+		--><div class="item">
+			<a class="descr" href="/setevaya_versiya/buhgalterya/">
+				<img src="/img/boxes/cons-buh-2022.png" alt="Консультант Плюс - официальный сайт Консультант+ в Москве онлайн" title="Консультант Плюс">
+				<span>КонсультантПлюс<br/>Бухгалтер</span>
+			</a>
+		</div><!--
+		--><div class="item">
+			<a class="descr" href="/package_consultant/urist/">
+				<img src="/img/boxes/cons-ur-2022.png" alt="Консультант Плюс - официальный сайт Консультант+ в Москве онлайн" title="Консультант Плюс">
+				<span>КонсультантПлюс<br/>Юрист</span>
+			</a>
+		</div><!--
+		--><div class="item">
+			<a class="descr" href="/setevaya_versiya/konsultant_plyus_biznes_rukovoditelyu/">
+				<img src="/img/boxes/cons-biznes-2022.png" alt="Консультант Плюс - официальный сайт Консультант+ в Москве онлайн" title="Консультант Плюс">
+				<span>КонсультантПлюс<br/>Бизнес</span>
+			</a>
+		</div><!--
+		--><div class="item">
+			<a class="descr" href="/budjetnie_organizacii/">
+				<img src="/img/boxes/cons-budg-2022.png" alt="Консультант Плюс - официальный сайт Консультант+ в Москве онлайн" title="Консультант Плюс">
+				<span>Бюджетным<br/>организациям</span>
+			</a>
+		</div>
+	</div>
+
+
+				<div id="content">
+					<div id="findline">
+						<form action="/search/" method="get">
+							<input type="text" name="search" value="" placeholder="Поиск по сайту..." />
+							<button type="submit">Найти</button>
+						</form>
+					</div>
+					<h1>Консультант Плюс</h1>
+<p>Справочно-правовая система (СПС) &laquo;Консультант Плюс&raquo; &mdash; ключевой источник информации, требующейся для
+    эффективной трудовой деятельности. В ее базе на текущий момент свыше 223 720 164 документов. Здесь вы найдете ответ
+    на любой вопрос, связанный с бухгалтерией, работой с кадрами, юридической практикой и т. д. Каждый день количество
+    документов в программе увеличивается, а не потеряться в этой огромной виртуальной тематической библиотеке вам
+    поможет персональный набор инструментов для поиска необходимых данных.</p>
+<div class="section--consplus-18">
+    <style type="text/css">
+        .section--consplus-18 {
+            padding: 30px;
+            background: #ECE8DD;
+            margin: 30px 0 0 0;
+            overflow: hidden;
+        }
+        .section--consplus-18__h {
+            font-size: 30px;
+            display: block;
+            margin: 0 0 20px 0;
+        }
+        .section--consplus-18__list {
+            padding: 0;
+            font-size: 16px;
+            line-height: 1.2;
+            margin-bottom: 30px;
+        }
+        .section--consplus-18__list li {
+            list-style: none;
+            padding-left: 30px;
+            margin: 0 0 15px 0;
+            background: url('https://blogopraktika.ru/wp-content/uploads/2013/06/0circle101.png') no-repeat left top;
+            background-size: 20px;
+            line-height: 1.4;
+        }
+        .section--consplus-18__list li ul {
+            margin-top: 10px;
+        }
+        .section--consplus-18__list li ul li {
+            background: transparent;
+            list-style: disc;
+            padding-left: 0;
+            margin-left: 20px;
+        }
+        .section--consplus-18__link {
+            display: block;
+            float: left;
+            width: 33%;
+            color: #1616B0;
+            font-size: 16px;
+            line-height: 1.4;
+        }
+        .section--consplus-18__link-block::after {
+            display: block;
+            content: '';
+            clear: both;
+        }
+    </style> <span class="section--consplus-18__h">Консультант Плюс
+        2022    </span>
+    <ul class="section--consplus-18__list">
+        <li>Улучшенный интерфейс и новый алгоритм поиска.</li>
+        <li>Новый &laquo;умный&raquo; поиск по судебной практике</li>
+        <li>Новые информационные блоки:
+            <ul>
+                <li>кассационные и апелляционные суды</li>
+                <li>перспективы и риски судебных споров</li>
+                <li>изменения в регулировании договоров</li>
+            </ul>
+        </li>
+        <li>Расширенное федеральное законодательство.</li>
+        <li>Региональное законодательство включено бесплатно.</li>
+        <li>Конструктор исковых заявлений и конструктор договоров &ndash; бесплатно</li>
+    </ul>
+    <!-- noindex -->
+    <div class="section--consplus-18__link-block"><a href="/ceny_consplus_urist/"
+            class="section--consplus-18__link">Цены комплектов<br>
+            <span>для Юриста</span></a> <a href="/ceny_consplus_buhgalter/" class="section--consplus-18__link">Цены
+            комплектов<br>
+            <span>для Бухгалтера</span></a> <a href="/ceny_consplus_budget/" class="section--consplus-18__link">Цены
+            комплектов<br>
+            <span>для бюджетных организаций</span></a></div>
+    <!-- /noindex -->
+</div>
+<div class="page--main__free-version-block">
+    <style scoped="scoped" type="text/css">
+        .page--main__free-version-block {
+            padding: 20px;
+            height: 175px;
+            position: relative;
+            background: url('/images/main-page-free-bg.png') #5F5FA7 no-repeat 90% center;
+            margin: 0 0 30px 0;
+        }
+        .page--main__free-version-block__logo {
+            background: url('/images/main-page-free-logo.png') no-repeat center center;
+            width: 80px;
+            height: 80px;
+            background-size: 80px;
+            top: 40px;
+            position: absolute;
+        }
+        .page--main__free-version-block__text {
+            color: white;
+            position: absolute;
+            left: 120px;
+            top: 20px;
+        }
+        .page--main__free-version-block__text-1 {
+            display: block;
+            font-size: 24px;
+            width: 200px;
+        }
+        .page--main__free-version-block__text-2 {
+            display: block;
+            font-size: 36px;
+            text-transform: uppercase;
+        }
+        .page--main__free-version-block__button {
+            background-color: #8ACE29;
+            border: none;
+            color: white;
+            padding: 5px 20px;
+            box-shadow: 3px 3px gray;
+            position: absolute;
+            top: 160px;
+            left: 122px;
+        }
+    </style>
+    <div class="page--main__free-version-block__logo">&nbsp;</div>
+    <div class="page--main__free-version-block__text"><span class="page--main__free-version-block__text-1">Полная версия
+            КонсультантПлюс</span> <span class="page--main__free-version-block__text-2"> На 3 дня<br>
+            бесплатно </span></div>
+    <button class="uniforms show page--main__free-version-block__button" data-template="get_3days" data-formid="2"
+        data-formname="get_3days" data-opsubj="Подключить полную версию на 3 дня">Подключить</button>
+</div>
+<div class="content__section">
+    <h2 class="base__h2">Краткое описание системы &laquo;Консультант Плюс&raquo;</h2>
+    <p>Она состоит из нескольких разделов. Это:</p>
+    <ul>
+        <li>&bull; нормативные правовые акты РФ в области налогообложения, бухгалтерского учета и права;</li>
+        <li>&bull; основные международные правовые акты:</li>
+        <li>&bull; комментарии экспертов в области права и бухгалтерии;</li>
+        <li>&bull; тематическая периодика;</li>
+        <li>&bull; аналитика;</li>
+        <li>&bull; консультации;</li>
+        <li>&bull; формы документов;</li>
+        <li>&bull; справочная информация;</li>
+        <li>&bull; технические правила и нормы.</li>
+    </ul>
+    <p>Используя эту базу, вы найдете ответ на любой вопрос и сможете занять правильную позицию при принятии решений в
+        области права, финансов и кадров: при подготовке отчетности, в трудовых спорах и т. д.</p>
+</div>
+<div class="content__section">
+    <!-- podobrat-complect-cons-plus -->
+<div class="price__cst-compl">
+    <style type="text/css" scoped="scoped">
+        #price p {margin-bottom: 15px; }        
+        div.price__cst-compl {background: #ebeced; color: #000000; font-size: 16px; margin: 40px 0 50px; }
+        
+        .price__cst-compl .content__h2 {display: block; font-size: 18px; padding: 15px 20px 10px 20px; box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4); text-transform: uppercase; background: #6a69ad; color: #ffffff; }
+        div.price__cst-compl__wrapper {padding: 0px 0 25px; }
+        div.price__cst-compl__left-col {width: 50%; display: inline-block; vertical-align: top; margin-right: 0px; }
+        div.price__cst-compl__right-col {width: 50%; display: inline-block; margin-left: -5px; }
+        div.price__cst-compl__block {padding: 10px; border-bottom: 1px solid #b8b8b8; }
+        .price__cst-compl__left-col div.price__cst-compl__block:nth-child(1) {border-right: 1px solid #b8b8b8; }
+        .price__cst-compl__left-col div.price__cst-compl__block:nth-child(2) {border-right: 1px solid #b8b8b8; }
+        .price__cst-compl__left-col div.price__cst-compl__block:nth-child(3) {border-right: 1px solid #b8b8b8; }
+        .price__cst-compl__left-col div.price__cst-compl__block:nth-child(4) {border-right: 1px solid #b8b8b8; }
+        .price__cst-compl__left-col div.price__cst-compl__block:nth-child(5) {border-right: 1px solid #b8b8b8; }
+        div.price__cst-compl__block__item {margin-bottom: 4px; margin-top: 0px; }
+        .price__cst-compl__block__item--with-descr label {border-bottom: 1px dashed; cursor: pointer; display: inline-block; }
+        .price__cst-compl__block__item__description {display: none; padding: 10px; background: white; margin: 10px auto; font-size: 12px; }
+        .price__cst-compl__block__item__description p {padding: 0; margin: 0; }
+        .price__cst-compl__block__item input {display: none; }
+        .price__cst-compl__block__item label {font-size: 12px; }
+        .price__fake-checkbox {background-image: url("/images/fake-checkbox/checkbox.png"); width: 20px; height: 20px; display: inline-block; vertical-align: middle; margin: 0 6px 0 0; background-position: 0 0; background-repeat: no-repeat; cursor: pointer; }
+        .price__fake-checkbox.price__fake-checkbox--checked {background-image: url("/images/fake-checkbox/checkbox-checked.png") !important; }
+        .price__fake-checkbox--big {background-image: url("/images/fake-checkbox/big-checkbox.png"); width: 25px; height: 25px; margin-left: 0px; margin-right: 6px; }
+        .price__fake-checkbox--big.price__fake-checkbox--checked {background-image: url("/images/fake-checkbox/big-checkbox-checked.png") !important; }
+        .price__cst-compl__block__item--big label {text-transform: uppercase; font-weight: bold; font-size: 13px; } 
+        .content__section h3 {margin: 20px 0; }
+    </style>
+
+    <span class="content__h2">Подобрать комплект Консультант Плюс</span>
+    <div class="price__cst-compl__wrapper">
+        <div class="price__cst-compl__left-col">
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk11" value="Законодательство" type="checkbox">
+                    <label for="cstblk11">Законодательство</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Федеральное законодательство: нормативные и иные правовые акты общего характера, регулирующие наиболее значимые общественные отношения по всем отраслям хозяйственной деятельности.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk12" value="Российское законодательство версия ПРОФ" type="checkbox">
+                    <label for="cstblk12">Российское законодательство версия ПРОФ.</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Федеральное законодательство: законы и подзаконные акты; правовые акты разъяснительного характера и правоприменительные акты общего значения, а также акты отраслевого значения, связанные с экономическими и финансовыми аспектами деятельности организаций.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk13" value="Законодательство Москвы и области" type="checkbox">
+                    <label for="cstblk13">Законодательство Москвы и области</label>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk14" value="Сводное региональное законодательство" type="checkbox">
+                    <label for="cstblk14">Сводное региональное законодательство</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Информационно-правовой комплекс, объединяющий информационные банки по законодательству всех 83 субъектов Российской Федерации.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk15" value="Эксперт приложение" type="checkbox">
+                    <label for="cstblk15">Эксперт-приложение</label>
+                </div>
+            </div>
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk21" value="Законопроекты" type="checkbox">
+                    <label for="cstblk21">Законопроекты</label>
+                </div>
+            </div>
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk31" value="Финансовые консультации" type="checkbox">
+                    <label for="cstblk31">Финансовые консультации</label>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk32" value="Финансист" type="checkbox">
+                    <label for="cstblk32">Финансист</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Консультации в форме &quot;вопрос-ответ&quot; по бухгалтерскому учету и налогообложению, внешнеэкономической, банковской деятельности, валютному регулированию и другим темам. Многие консультации подготовлены специально для пользователей КонсультантПлюс - их нет в других источниках информации.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk33" value="Вопросы-ответы" type="checkbox">
+                    <label for="cstblk33">Вопросы-ответы</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Подборка консультаций по бухгалтерскому учету и налогообложению, кадровым и другим вопросам для организаций, ведущих учет по Общему плану счетов.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk34" value="Корреспонденция счетов" type="checkbox">
+                    <label for="cstblk34">Корреспонденция счетов</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Схемы бухгалтерских проводок, в которых рассмотрен порядок бухгалтерского учета отдельных операций и возможные налоговые последствия. Адресуется организациям, ведущим учет по Общему плану счетов. Все схемы содержат подробное описание ситуации, нормативное обоснование, формы первичной учетной документации и таблицу проводок.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk35" value="Путеводитель по сделкам" type="checkbox">
+                    <label for="cstblk35">Путеводитель по сделкам</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Рассматриваются вопросы бухгалтерского учета и налогообложения различных сделок, приведены таблицы проводок и практические примеры, также содержатся другие полезные сведения &ndash; общая правовая информация по сделкам, нюансы оформления, типовые формы договоров.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk36" value="Путеводитель по налогам" type="checkbox">
+                    <label for="cstblk36">Путеводитель по налогам</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит практические пособия и энциклопедии спорных ситуаций по различным видам налогов и взносов, по бухгалтерской отчетности, налоговым проверкам, другим вопросам части первой НК РФ. В пособиях приведены конкретные рекомендации, пошаговые инструкции, числовые примеры, бухгалтерские проводки, образцы заполнения документов. В энциклопедиях представлены позиции Минфина РФ, ФНС РФ, судов, независимых экспертов по спорным ситуациям.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk37" value="Путеводитель по кадровым вопросам" type="checkbox">
+                    <label for="cstblk37">Путеводитель по кадровым вопросам</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит информацию по кадровым вопросам: начиная с оформления сотрудника на работу и заканчивая его увольнением. Банк включает пошаговые инструкции, практические примеры, рекомендации по сложным ситуациям, все необходимые формы документов, образцы их заполнения.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk38" value="Судебная практика для бухгалтера" type="checkbox">
+                    <label for="cstblk38">Судебная практика для бухгалтера</label>
+                </div>
+            </div>
+            <div class="price__cst-compl__block price__cst-compl__block__item--with-descr">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk41" value="Деловые бумаги" type="checkbox">
+                    <label for="cstblk41">Деловые бумаги</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Необходимые для делопроизводства типовые формы: договоры, акты, заявления, инструкции и т.п.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk51" value="Дополнительные разделы" type="checkbox">
+                    <label for="cstblk51">Дополнительные разделы</label>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk52" value="Строительство" type="checkbox">
+                    <label for="cstblk52">Строительство</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Нормативно-техническая документация, связанная со строительством, градостроительством и архитектурой.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk53" value="Медицина и фармацевтика" type="checkbox">
+                    <label for="cstblk53">Медицина и фармацевтика</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Нормативные документы, регламентирующие медицинскую и фармацевтическую деятельность, консультации и комментарии юристов и аудиторов, разъясняющие аспекты работы медицинских и фармацевтических организаций.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="price__cst-compl__right-col">
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk61" value="Судебная практика" type="checkbox">
+                    <label for="cstblk61">Судебная практика</label>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk62" value="Подборки судебных решений" type="checkbox">
+                    <label for="cstblk62">Подборки судебных решений</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Подборки наиболее значимых судебных решений различных судов по налоговой, гражданско-правовой и другим тематикам, представленные в компактной форме.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk63" value="Суды Москвы и области" type="checkbox">
+                    <label for="cstblk63">Суды Москвы и области</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Акты 9 и 10 арбитражных апелляционных судов и акты судов общей юрисдикции уровня субъекта Российской Федерации.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk64" value="ФАС округов" type="checkbox">
+                    <label for="cstblk64">ФАС округов</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Информационный комплекс, объединяющий информационные банки судебных актов всех 10 федеральных арбитражных судов округов РФ.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk65" value="Налоговые споры" type="checkbox">
+                    <label for="cstblk65">Налоговые споры</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Судебные акты только по налоговым спорам всех 10 федеральных арбитражных судов округов РФ.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk66" value="Решения высших судов" type="checkbox">
+                    <label for="cstblk66">Решения высших судов</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Документы высших органов судебной власти (Высшего Арбитражного Суда РФ, Верховного Суда РФ, Конституционного Суда РФ); документы, касающиеся деятельности судебной системы РФ.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk67" value="Суды общей юрисдикции" type="checkbox">
+                    <label for="cstblk67">Суды общей юрисдикции</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Решения судов общей юрисдикции разных субъектов РФ, включая Москву и Санкт-Петербург.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk67" value="Кассационные и апелляционные суды" type="checkbox">
+                    <label for="cstblk67">Кассационные и апелляционные суды</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Кассационные и апелляционные суды</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk67" value="Перспективы и риски судебных споров" type="checkbox">
+                    <label for="cstblk67">Перспективы и риски судебных споров</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Перспективы и риски судебных споров</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk67" value="Изменения в регулировании договоров" type="checkbox">
+                    <label for="cstblk67">Изменения в регулировании договоров</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Изменения в регулировании договоров</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk68" value="Все апелляционные суды" type="checkbox">
+                    <label for="cstblk68">Все апелляционные суды</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Полностью включает документы всех ИБ &quot;Апелляционный суд&quot;. Банк представлен как информационный комплекс, объединяющий информационные банки судебных актов всех 20 арбитражных апелляционных судов.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big">
+                    <div class="price__fake-checkbox price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk71" value="Комментарии законодательства" type="checkbox">
+                    <label for="cstblk71">Комментарии законодательства</label>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk72" value="Путеводитель по договорной работе" type="checkbox">
+                    <label for="cstblk72">Путеводитель по договорной работе</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит информацию, необходимую юристу для составления договоров, - особенности условий для каждой стороны, примеры формулировок условий, возможные риски.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk73" value="Путеводитель по корпоративным процедурам" type="checkbox">
+                    <label for="cstblk73">Путеводитель по корпоративным процедурам</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит все необходимые сведения о порядке проведения корпоративных процедур и подготовки документов для них.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk74" value="Путеводитель по госуслугам для юр.лиц" type="checkbox">
+                    <label for="cstblk74">Путеводитель по госуслугам для юр.лиц</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит пошаговые рекомендации о порядке получения лицензий, разрешений и аккредитаций, а также подачи в госорганы различных уведомлений.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk75" value="Путеводитель по судебной практике ГК РФ" type="checkbox">
+                    <label for="cstblk75">Путеводитель по судебной практике ГК РФ</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит анализ судебной практики по 16 наиболее востребованным гражданско-правовым договорам: проблемы применения ГК РФ, позиции судов, выводы из судебной практики.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk76" value="Путеводитель по трудовым спорам" type="checkbox">
+                    <label for="cstblk76">Путеводитель по трудовым спорам</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Приведены аннотации судебных решений разных регионов и точки зрения экспертов в области трудового права.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk77" value="Путеводитель по спорам в сфере госзаказа" type="checkbox">
+                    <label for="cstblk77">Путеводитель по спорам в сфере госзаказа</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит информацию о спорных ситуациях и подходах госорганов и судов к их решению.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk78" value="Путеводитель по госзакупкам" type="checkbox">
+                    <label for="cstblk78">Путеводитель по госзакупкам</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Содержит информацию о спорных ситуациях и подходах госорганов и судов к их решению.</p>
+                    </div>
+                </div>
+                <div class="price__cst-compl__block__item">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk79" value="Правовые позиции высших судов" type="checkbox">
+                    <label for="cstblk79">Правовые позиции высших судов</label>
+                </div>
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox price__fake-checkbox--normal">&nbsp;</div>
+                    <input id="cstblk710" value="Постатейные комментарии и книги" type="checkbox">
+                    <label for="cstblk710">Постатейные комментарии и книги</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Постатейные комментарии к законам и кодексам с анализом правовых норм; книги и монографии ведущих юристов по актуальным проблемам законодательства.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="price__cst-compl__block">
+                <div class="price__cst-compl__block__item price__cst-compl__block__item--big price__cst-compl__block__item--with-descr">
+                    <div class="price__fake-checkbox  price__fake-checkbox--big">&nbsp;</div>
+                    <input id="cstblk81" value="Пресса и книги" type="checkbox">
+                    <label for="cstblk81">Пресса и книги</label>
+                    <div class="price__cst-compl__block__item__description">
+                        <p>Аналитические статьи из более чем 80 специализированных журналов и газет на актуальные темы законодательства и права, а также консультации в форме &quot;вопрос-ответ&quot; по сложным и спорным юридическим вопросам.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p style="text-align: center;margin-top: 30px;">
+            <button class="cons__button cons__button--orange uniforms show " data-template="calc_complect_calc" data-formid="2" data-formname="calc_complect" data-opsubj="Расчет цены Консультант Плюс 2015. Индивидуальный комплект" data-before-open="price_custom_complect" data-formdescr="Заказ обратного звонка с Расчет цены комплектов Консультант Плюс 2015" disabled="disabled">Рассчитать цену</button>
+        </p>
+    </div>
+    <script type="text/javascript">
+        var ParseCheckCompl = function() {
+            if($('.price__cst-compl input:checked').length > 0) {
+                $('.price__cst-compl button.show').removeAttr('disabled');
+            } else {
+                $('.price__cst-compl button.show').attr('disabled', 'disabled');
+            }
+            var str = 'Выбранные комплекты:';
+            str += '<ul>';
+            $('.price__cst-compl input:checked').each(function(i, el) {
+                if($(el).val().length > 0) {
+                    str += '<li>' + $(el).val() + '</li>';
+                }
+            });
+            str += '</ul>';
+            return str;
+        }
+        $('.price__fake-checkbox--normal').click(function() {
+            if($(this).hasClass('price__fake-checkbox--checked')) {
+                $(this).removeClass('price__fake-checkbox--checked');
+                var input = $(this).parent().find('input');
+                input.removeAttr('checked');
+            } else {
+                $(this).addClass('price__fake-checkbox--checked');
+                var input = $(this).parent().find('input');
+                input.attr('checked', 'checked');
+            }
+            $('.customcomplform input[name=type_request]').val(ParseCheckCompl());
+        });
+        $('.price__fake-checkbox--big').click(function() {
+            if($(this).hasClass('price__fake-checkbox--checked')) {
+                $(this).parents('div.price__cst-compl__block').find('.price__fake-checkbox--normal').each(function(i, el) {
+                    $(el).removeClass('price__fake-checkbox--checked');
+                    var inp = $(el).parent().find('input');
+                    inp.removeAttr('checked');
+                });
+                $(this).removeClass('price__fake-checkbox--checked');
+                var input = $(this).parent().find('input');
+                input.removeAttr('checked');
+            } else {
+                $(this).parents('div.price__cst-compl__block').find('.price__fake-checkbox--normal').each(function(i, el) {
+                    $(el).addClass('price__fake-checkbox--checked');
+                    var inp = $(el).parent().find('input');
+                    inp.attr('checked', 'checked');
+                });
+                $(this).addClass('price__fake-checkbox--checked');
+                var input = $(this).parent().find('input');
+                input.attr('checked', 'checked');
+            }
+            $('.customcomplform input[name=type_request]').val(ParseCheckCompl());
+        });
+        jQuery('.price__cst-compl__block__item--with-descr label').click(function() {
+            console.log('dfasdsada');
+            jQuery(this).parents('.price__cst-compl__block__item').find('.price__cst-compl__block__item__description').slideToggle(300);
+        });
+    </script>
+</div></div>
+<p style="margin-bottom: 30px;">Основные рубрики и подразделы можно увидеть онлайн в бесплатной демо-версии программы, с
+    которой вы можете ознакомиться на официальном сайте &laquo;Консультант Плюс&raquo;. А если у вас возникнут вопросы,
+    или вам проще воспринимать информацию на слух, наши специалисты подробно расскажут об особенностях
+    информационно-правовой системы и подберут программное решение под ключ.</p>
+<!-- 
+<div class="content__section mini-catalog">
+
+<style type="text/css">
+	.mini-catalog .content__section--reviews__gallery__item{border: 1px solid #ece8dd; box-shadow: none; margin: 0 5% 20px 5%;}
+	.mini-catalog__item {
+        display: inline-block;
+        width: 100%;
+        margin: 0 1% 10px 1%;
+        text-align: center;
+    }
+    
+    .mini-catalog__item__image {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .mini-catalog__item__h {
+        font-weight: 600;
+        display: block;
+        margin: 0 0 10px 0;
+    }
+    
+    .mini-catalog__wrapper-items {
+        text-align: center;
+    }
+</style>
+
+<span class="content__h2">Продукция Консультант Плюс</span>
+
+<div class="slick-gallery content__section--reviews__gallery" data-slick="{&quot;slidesToShow&quot;: 3, &quot;autoplay&quot;: true, &quot;autoplaySpeed&quot;: 4000}">
+	<div class="content__section--reviews__gallery__item">
+		<div class="mini-catalog__item">
+			<img src="/images/boxes/ur/urprof.png" alt="Консультант Плюс: Юрист ПРОФ" class="mini-catalog__item__image"> 
+			<span class="mini-catalog__item__h">Консультант Плюс: Юрист ПРОФ</span>            
+			<button class="cons__button uniforms show cons__button--green mini-catalog__item__button" data-template="get_price" data-formid="2" data-formname="produkciya_buy" data-opsubj="Купить Консультант Плюс: Юрист ПРОФ" data-formdescr="Пользователь хочет купить Консультант Плюс: Юрист ПРОФ">Купить</button>
+		</div>
+	</div>
+	<div class="content__section--reviews__gallery__item">
+		<div class="mini-catalog__item"><img src="/images/boxes/buh/buhprof.png" alt="Консультант Плюс: Бухгалтер ПРОФ" class="mini-catalog__item__image"> <span class="mini-catalog__item__h">Консультант Плюс: Бухгалтер ПРОФ</span>          <button class="cons__button uniforms show cons__button--green mini-catalog__item__button" data-template="get_price" data-formid="2" data-formname="produkciya_buy" data-opsubj="Купить Консультант Плюс: Бухгалтер ПРОФ" data-formdescr="Пользователь хочет купить Консультант Плюс: Бухгалтер ПРОФ">Купить</button></div>
+	</div>
+	<div class="content__section--reviews__gallery__item">
+		<div class="mini-catalog__item"><img src="/images/boxes/biz/bizbase.png" alt="Консультант Плюс Малый Бизнес +" class="mini-catalog__item__image"> <span class="mini-catalog__item__h">Консультант Плюс Малый Бизнес +</span>            <button class="cons__button uniforms show cons__button--green mini-catalog__item__button" data-template="get_price" data-formid="2" data-formname="produkciya_buy" data-opsubj="Купить КонсультантПлюс Малый Бизнес+" data-formdescr="Пользователь хочет купить комплект КонсультантПлюс Малый Бизнес+">Купить</button></div>
+	</div>
+	<div class="content__section--reviews__gallery__item">
+		<div class="mini-catalog__item"><img src="/images/boxes/biz/bizprof.png" alt="Консультант Плюс Бизнес Версия Проф" class="mini-catalog__item__image"> <span class="mini-catalog__item__h">Консультант Плюс Бизнес: Версия Проф</span>           <button class="cons__button uniforms show cons__button--green mini-catalog__item__button" data-template="get_price" data-formid="2" data-formname="produkciya_buy" data-opsubj="Купить Консультант Плюс Бизнес: Версия Проф" data-formdescr="Пользователь хочет купить Консультант Плюс Бизнес: Версия Проф">Купить</button></div>
+	</div>
+	<div class="content__section--reviews__gallery__item">
+		<div class="mini-catalog__item"><img src="/images/box/smallbis/sm_vip.png" alt="Консультант Плюс: Бизнес VIP" class="mini-catalog__item__image"> <span class="mini-catalog__item__h">Консультант Плюс: Бизнес VIP</span>            <button class="cons__button uniforms show cons__button--green mini-catalog__item__button" data-template="get_price" data-formid="2" data-formname="produkciya_buy" data-opsubj="Купить Консультант Плюс: Бизнес VIP" data-formdescr="Пользователь хочет купить Консультант Плюс: Бизнес VIP">Купить</button></div>
+	</div>
+</div>
+
+
+</div> -->
+<div class="content__section" style="margin-bottom: 0;">
+    <h2 class="content__h2">Продукция Консультант Плюс</h2>
+    <div class="packages">
+        <style scoped="scoped" type="text/css">
+            .packages {}
+            .packages::after {
+                display: block;
+                clear: both;
+                content: '';
+            }
+            .packages__item {
+                float: left;
+                width: calc(49% - 44px);
+                padding: 20px;
+                margin: 0 2% 40px 0px;
+                border: 1px solid #ececec;
+                height: 410px;
+            }
+            .packages__item:nth-child(odd) {
+                margin-right: 0;
+            }
+            .packages__item::after {
+                display: block;
+                clear: both;
+                content: '';
+            }
+            .packages__item__image-block {
+                width: 100%;
+                /*margin-right: 20px;*/
+                margin-bottom: 20px;
+                /*float: left;*/
+                display: inline-block;
+                text-align: center;
+            }
+            .packages__item__image-block img {
+                display: inline-block;
+                float: left;
+                width: 120px;
+                /*width: 100%;*/
+                margin: 0 70px 20px 70px;
+            }
+            .packages__item__text-block {
+                float: left;
+                width: 100%;
+                /*width: calc(70% - 20px);*/
+            }
+            .packages__item__h {
+                font-weight: 600;
+                color: black;
+                text-decoration: none;
+                display: block;
+                margin: 0 0 10px 0;
+                9
+            }
+            .packages__item__list li {
+                background-image: url("/images/marks/mark1.png");
+                background-position: 8px 7px;
+                background-repeat: no-repeat;
+                background-size: 10px auto;
+                list-style: outside none none;
+                margin-bottom: 15px;
+                min-height: unset;
+                padding-left: 25px;
+                text-align: left;
+            }
+        </style>
+        <div class="packages__item" style="min-height: 620px;">
+            <div class="packages__item__image-block"><img src="/img/boxes/cons-ur-2022.png"
+                    alt="Консультант Плюс Юрист 2019"> <button
+                    class="cons__button uniforms show cons__button--green mini-catalog__item__button"
+                    data-template="get_price" data-formid="2" data-formname="ur_prof_buy"
+                    data-opsubj="Купить Консультант Плюс: Юрист ПРОФ"
+                    data-formdescr="Пользователь хочет купить Консультант Плюс: Юрист ПРОФ">Купить</button></div>
+            <div class="packages__item__text-block"><a class="packages__item__h" href="/package_consultant/urist/"
+                    title="Комплект Консультант Плюс Юрист">Консультант Плюс Юрист ПРОФ:</a>
+                <ul class="packages__item__list">
+                    <li>законодательство и кодексы</li>
+                    <li>судебные практики</li>
+                    <li>комментарии к законам и кодексам</li>
+                    <li>порядок получения лицензий, разрешений и аккредитаций</li>
+                    <li>инструкции по проведению корпоративных процедур</li>
+                    <li>вся необходимая информация для составления договоров</li>
+                    <li><strong>новый &laquo;умный&raquo; поиск</strong> по судебной практике</li>
+                    <li>кассационные и апелляционные суды</li>
+                    <li>перспективы и риски судебных споров</li>
+                    <li>изменения в регулировании договоров</li>
+                </ul>
+            </div>
+        </div>
+        <div class="packages__item" style="min-height: 620px;">
+            <div class="packages__item__image-block"><img src="/img/boxes/cons-buh-2022.png"
+                    alt="Консультант Плюс Бухгалтер 2019"> <button
+                    class="cons__button uniforms show cons__button--green mini-catalog__item__button"
+                    data-template="get_price" data-formid="2" data-formname="buh_prof_buy"
+                    data-opsubj="Купить Консультатн Плюс: Бухгалтер ПРОФ"
+                    data-formdescr="Пользователь хочет купить Консультатн Плюс: Бухгалтер ПРОФ">Купить</button></div>
+            <div class="packages__item__text-block"><a class="packages__item__h"
+                    href="https://cons-plus.ru/setevaya_versiya/buhgalterya/"
+                    title="Комплект Консультант Плюс Бухгалтер">Консультант Плюс Бухгалтер ПРОФ:</a>
+                <ul class="packages__item__list">
+                    <li>законодательство, кодексы, официальные разъяснения и письма для бухгалтеров</li>
+                    <li>схемы бухгалтерских проводок по конкретным ситуациям</li>
+                    <li>консультации по бухучету, налогам и прочим кадровым вопросам</li>
+                    <li>информация по взаимоотношениям работодателя и работника</li>
+                    <li>полезные инструкции, практические примеры, образцы заполнения документов</li>
+                </ul>
+            </div>
+        </div>
+        <div class="packages__item">
+            <div class="packages__item__image-block"><img src="/img/boxes/cons-budg-2022.png"
+                    alt="Консультант Плюс бюджетные организации 2019"> <button
+                    class="cons__button uniforms show cons__button--green mini-catalog__item__button"
+                    data-template="get_price" data-formid="2" data-formname="buh_prof_buy"
+                    data-opsubj="Купить Консультатн Плюс Бюджетные организации"
+                    data-formdescr="Пользователь хочет купить Консультатн Плюс Бюджетные организации">Купить</button>
+            </div>
+            <div class="packages__item__text-block"><a class="packages__item__h" href="/budjetnie_organizacii/"
+                    title="Комплект Консультант Плюс бюджетные организации">Консультант Плюс Бюджетные организации:</a>
+                <ul class="packages__item__list">
+                    <li>кодексы и законодательство РФ 2019</li>
+                    <li>подробные примеры судебной практики</li>
+                    <li>профессиональные консультации</li>
+                    <li>различные формы документов</li>
+                </ul>
+            </div>
+        </div>
+        <div class="packages__item">
+            <div class="packages__item__image-block"><img src="/img/boxes/cons-biznes-2022.png"
+                    alt="Консультант Плюс Бизнес"> <button
+                    class="cons__button uniforms show cons__button--green mini-catalog__item__button"
+                    data-template="get_price" data-formid="2" data-formname="buh_prof_buy"
+                    data-opsubj="Купить Консультатн Плюс Бизнес"
+                    data-formdescr="Пользователь хочет купить Консультатн Плюс Бизнес">Купить</button></div>
+            <div class="packages__item__text-block"><a class="packages__item__h" href="/budjetnie_organizacii/"
+                    title="Комплект Консультант Плюс Бизнес">Консультант Плюс Бизнес:</a>
+                <ul class="packages__item__list">
+                    <li>Законодательство</li>
+                    <li>Консультационный раздел</li>
+                    <li>Комментарии законодательства</li>
+                    <li>Судебная практика</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="main_block3" style="margin-top: 0px;">
+    <style scoped="" type="text/css">
+        .title_desc {
+            font-size: 14px;
+            font-weight: 300;
+        }
+        .main_block3_1 {
+            padding: 25px 0 30px;
+            font-size: 0;
+        }
+        .main_block3_1_1 {
+            width: 25%;
+            display: inline-block;
+            position: relative;
+        }
+        .main_block3_1_1_1 {
+            background: url(images/otchetnost.png) left top no-repeat;
+        }
+        .main_block3_1_1_2 {
+            background: url(images/jurnali.png) left top no-repeat;
+        }
+        .main_block3_1_1_3 {
+            background: url(images/konsultacii.png) left top no-repeat;
+        }
+        .main_block3_1_1_4 {
+            background: url(images/seminari.png) left top no-repeat;
+        }
+        .main_block3_1_1 p {
+            font-size: 12px;
+            color: #212121;
+            text-transform: uppercase;
+            line-height: 18px;
+            font-weight: bold;
+            margin-left: 50px !important;
+        }
+        .main_block3_1_1 div {
+            color: #f90;
+            font-size: 18px;
+            font-weight: bold;
+            margin-left: 50px;
+        }
+        .main_block3_1_1 div i {
+            font-weight: 400;
+            font-style: normal;
+            line-height: 1.6;
+        }
+    </style>
+    <section class="content__section">
+        <h2 class="base__h2">Функции СПС &laquo;Консультант Плюс&raquo;</h2>
+        <ul class="base__list base__list--green-galka">
+            <li>Удобная система поиска, реализованная в программе, позволяет оперативно находить нормативные акты и
+                другую информацию, необходимую пользователю.</li>
+            <li>Возможность сравнения редакций документов дает четкое представление о нововведениях.</li>
+            <li>Наличие регламентированных и рекомендованных форм документов экономит время на поиск бланков.</li>
+            <li>Экспертные консультации к законодательным актам разъясняют информацию, которую содержат эти нормативные
+                документы.</li>
+            <li>Сервис &laquo;Путеводитель&raquo; выдает рекомендации при возникновении ситуаций, связанных с
+                налогообложением, кадрами, бухучетом и правом, когда требуется помощь опытного специалиста.</li>
+        </ul>
+    </section>
+    <h3 class="title content__h2 style=" margin-top:="">Окупаемость затрат на покупку Системы</h3>
+    <div class="title_desc">Ежегодное снижение расходов на:</div>
+    <div class="main_block3_1">
+        <div class="main_block3_1_1 main_block3_1_1_3">
+            <p>Услуги <br>
+                консалтинга</p>
+            <div>до 80000</div>
+        </div>
+        <div class="main_block3_1_1 main_block3_1_1_1">
+            <p>Электронную <br>
+                отчетность</p>
+            <div>от 5000</div>
+        </div>
+        <div class="main_block3_1_1 main_block3_1_1_2">
+            <p>Подписку на <br>
+                журналы</p>
+            <div>от 13000</div>
+        </div>
+        <div class="main_block3_1_1 main_block3_1_1_4">
+            <p>Семинары и <br>
+                обучение</p>
+            <div>до 100000</div>
+        </div>
+    </div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<section class="content__section">
+    <h3 class="content__h2">Преимущества системы</h3>
+    <ul class="base__list base__list--green-galka">
+        <li>СПС &laquo;Консультант Плюс&raquo; &mdash; это практическая профессиональная помощь, обращаться к которой вы
+            можете в любое удобное для себя время.</li>
+        <li>Быстрое получение необходимой информации. При разработке программы особое внимание уделялось системе поиска,
+            благодаря чему нужные сведения вы получаете сразу же.</li>
+        <li>Дополнительные информационные продукты. Еженедельно вы будете получать рассылку по интересующим
+            направлениям. Наши сотрудники берут интервью у ведущих экономистов, юристов и топ-менеджеров. С нами
+            откровенно беседуют ведущие специалисты Минфина, ФНС и других государственных служб. Их мнение по актуальным
+            вопросам финансово-хозяйственной деятельности вы будете узнавать одними из первых.</li>
+    </ul>
+</section>
+<section class="content__section">
+    <div class="page--main__custom-package">
+        <style scoped="" type="text/css">
+            .page--main__custom-package {
+                height: 50px;
+                background: url('/images/main-page-custom-package.png') #FFD925 no-repeat 97% center;
+                padding: 0 20px;
+                cursor: pointer;
+            }
+            .page--main__custom-package__h {
+                font-size: 20px;
+                color: #4A45B3;
+                line-height: 50px;
+                text-transform: uppercase;
+                font-weight: 700;
+            }
+        </style> <span class="page--main__custom-package__h">Консультант Плюс версии</span>
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                jQuery('.page--main__custom-package').click(function () {
+                    jQuery('.page--main__custom-complect-block').slideToggle();
+                });
+            }, false);
+        </script>
+    </div>
+    <div class="page--main__custom-complect-block" style="clear: both;display: block;">
+        <style scoped="scoped" type="text/css">
+            .page--main__custom-complect__separator-row>td {
+                height: 2px !important;
+                padding: 0;
+                margin: 0;
+                font-size: 0;
+            }
+            .page--main__custom-complect-block {
+                font-family: Arial, "Trebuchet MS", sans-serif;
+                margin: 10px 0 40px 0;
+                overflow: hidden;
+            }
+            .page--main__custom-complect__table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+            .page--main__custom-complect__package-name-cell {
+                font-size: 13px;
+                color: #fff;
+                /*color: #636ac0;*/
+                width: 240px;
+            }
+            .page--main__custom-complect__package-row>td {
+                margin-bottom: 17px;
+                background: #6a67b6;
+                /*background: #ffd925;*/
+                padding: 5px 7px;
+                border-bottom: 2px solid #B6B4B4;
+                border-right: 1px solid #d8d8d8;
+                text-transform: uppercase;
+                font-weight: bold;
+                line-height: 24px;
+                vertical-align: middle;
+            }
+            .page--main__custom-complect__h-demo-cell,
+            .page--main__custom-complect__h-full-cell {
+                font-size: 16px;
+                color: #6a67b6;
+                background-color: #ffd925;
+                /*background-color: #6a67b6;*/
+                padding: 9px;
+                box-shadow: 0px 2px 1px #b6b4b4;
+                width: 128px;
+                text-align: center;
+            }
+            .page--main__custom-complect__demo-field-cell,
+            .page--main__custom-complect__full-field-cell {
+                text-align: center;
+            }
+            .cons__custom-checkbox {
+                display: inline-block;
+                /*background-image: url(/images/fake-checkbox/big-checkbox.png);*/
+                background-image: url(/images/fake-checkbox/checkbox-round.png);
+                width: 20px;
+                height: 20px;
+                vertical-align: middle;
+                margin-right: 0px;
+                background-position: 0 0;
+                background-repeat: no-repeat;
+                margin-left: 3px;
+                cursor: pointer;
+            }
+            .cons__custom-checkbox.cons__custom-checkbox--checked {
+                /*background-image: url(/images/fake-checkbox/big-checkbox-checked.png) !important;*/
+                background-image: url(/images/fake-checkbox/checkbox-checked-round.png) !important;
+            }
+            .cons__custom-checkbox__field {
+                display: none;
+            }
+            .page--main__custom-complect__separator-row>td {
+                padding: 2px;
+            }
+        </style>
+        <table class="page--main__custom-complect__table">
+            <tbody>
+                <tr class="page--main__custom-complect__h-row">
+                    <td>&nbsp;</td>
+                    <td class="page--main__custom-complect__h-demo-cell">ДЕМО</td>
+                    <td class="page--main__custom-complect__h-full-cell">Полная версия</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Заказ документов</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Заказ документов (ДЕМО)" class="cons__custom-checkbox__field" checked="checked"
+                                type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Заказ документов (Полный)" class="cons__custom-checkbox__field" checked="checked"
+                                type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Обучение работе с К+</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Обучение работе с К+ (демо)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Обучение работе с К+ (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Периодические издания</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Периодические издания (демо)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Периодические издания (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Линия консультация 1С</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Линия консультация 1С (демо)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Линия консультация 1С (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Линия консультации СБИС</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Линия консультации СБИС (демо)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Линия консультации СБИС (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Индивидуальная новостная лента</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Индивидуальная новостная лента (демо)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Индивидуальная новостная лента (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Журнал &quot;Главная книга&quot;</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Журнал &amp;laqyo;Главная книга&raquo; (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Журнал &amp;laqyo;Главная книга&raquo; (полный)"
+                                class="cons__custom-checkbox__field" checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Вебинары</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Вебинары (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Вебинары (полный)" class="cons__custom-checkbox__field" checked="checked"
+                                type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Индивидуальный обзор законодательства
+                    </td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Индивидуальный обзор законодательства (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Индивидуальный обзор законодательства (полный)"
+                                class="cons__custom-checkbox__field" checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Абонемент на семинары и вебинары</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Абонемент на семинары и вебинары (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Абонемент на семинары и вебинары (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Бухгалтерские и правовые сборники</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Бухгалтерские и правовые сборники (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Бухгалтерские и правовые сборники (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Тематические семинары без дополнительной
+                        платы</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input
+                                value="Тематические семинары без дополнительной платы (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Тематические семинары без дополнительной платы (полный)"
+                                class="cons__custom-checkbox__field" checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Консультационные семинары</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Консультационные семинары (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Консультационные семинары (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Платные бух. и юр. услуги</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input value="Платные бух. и юр. услуги (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Платные бух. и юр. услуги (полный)" class="cons__custom-checkbox__field"
+                                checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+                <tr class="page--main__custom-complect__separator-row">
+                    <td colspan="3">&nbsp;</td>
+                </tr>
+                <tr class="page--main__custom-complect__package-row">
+                    <td class="page--main__custom-complect__package-name-cell">Помощь консультантов (помощь в поиске
+                        ответа в К+)</td>
+                    <td class="page--main__custom-complect__demo-field-cell">
+                        <div class="cons__custom-checkbox"><input
+                                value="Помощь консультантов (помощь в поиске ответа в К+) (демо)"
+                                class="cons__custom-checkbox__field" type="checkbox"></div>
+                    </td>
+                    <td class="page--main__custom-complect__full-field-cell">
+                        <div class="cons__custom-checkbox cons__custom-checkbox--checked"><input
+                                value="Помощь консультантов (помощь в поиске ответа в К+) (полный)"
+                                class="cons__custom-checkbox__field" checked="checked" type="checkbox"></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="margin-top: 10px;text-align: center;"><button
+                class="cons__button cons__button--green uniforms show calculator__open-form-button"
+                data-template="calculator_form_full" data-formid="2" data-formname="calc_complect"
+                data-opsubj="Заявка с калькулятора скидки" data-before-open="main_page_custom_package"
+                style="font-size: 14px; padding: 10px 20px; margin: 0 5px; width: 159px; float: right;white-space: nowrap;">Узнать
+                стоимость</button> <button
+                class="cons__button cons__button--green uniforms show calculator__open-form-button"
+                data-template="calc_complect_demo" data-formid="2" data-formname="calc_complect_demo"
+                data-opsubj="Заявка с калькулятора скидки" data-before-open="main_page_custom_package"
+                style="font-size: 14px; padding: 10px 10px; margin: 0 5px; width: 159px; float: right; white-space: nowrap;">Установить
+                бесплатно</button></p>
+        <div class="page--main__custom-complect__result" style="display: none">&nbsp;</div>
+    </div>
+</section>
+<section class="content__section">
+    <h3 class="content__h2">Как сделать заказ?</h3>
+    <p class="base__paragraph">Приобрести полную версию системы &laquo;Консультант Плюс&raquo; вы можете на нашем сайте.
+        Для этого оставьте заявку или обратитесь по указанному контактному телефону. Наш специалист поможет подобрать
+        оптимальную конфигурацию программного решения и рассчитает ее стоимость.</p>
+</section>
+<section class="content__section">
+    <!-- form-online-zayavka -->
+<div class="uniforms-block">
+    <form class="uniforms-inline--online-zayavka">
+        <style>
+            .uniforms-inline--online-zayavka {
+                background: #ece8dd;
+                padding: 20px 30px;
+            }
+            .uniforms-inline--online-zayavka .uniforms__h {
+                font-size: 26px;
+                color: #41136c;
+                padding: 0;
+                margin: 0 0 20px 0;
+                display: block;
+            }
+            .uniforms-inline--online-zayavka .uniforms__field-group {
+                width: 190px;
+                float: left;
+                margin: 0 20px 0 0;
+            }
+            .uniforms-inline--online-zayavka .uniforms__submit-group {
+                float: left;
+                padding-top: 29px;
+            }
+            .uniforms-inline--online-zayavka .uniforms__fields-block {
+                margin-bottom: 20px;
+            }
+            .uniforms-inline--online-zayavka .uniforms__fields-block::after {
+                content: "";
+                clear: both;
+                display: block;
+            }
+        </style>
+        <fieldset>
+            <input name="opsubj" value="Купить КонсультантПлюс" type="hidden">
+            <input name="formid" value="2" type="hidden">
+            <input name="formname" value="get_info_buh" type="hidden">
+            <input name="formdescr" value="" type="hidden">
+            <input name="type_request" value="" type="hidden">
+            <div class="uniforms__extraparam">&nbsp;</div>
+            <span class="uniforms__h">ОНЛАЙН ЗАЯВКА</span>
+
+            <div class="uniforms__fields-block">
+                <div class="uniforms__field-group">
+                    <span class="uniforms__label">Вас зовут<sup>*</sup></span>
+                    <input class="uniforms__field uniforms__field--input cons-forms0915__input" name="fio" required="required" type="text">
+                </div>
+                <div class="uniforms__field-group">
+                    <span class="uniforms__label">Ваш телефон<sup>*</sup></span>
+                    <input class="uniforms__field uniforms__field--input cons-forms0915__input" name="phone" required="required" type="text">
+                </div>
+                <div class="uniforms__submit-group" style="text-align: center;">
+                    <button class="uniforms__button-send" type="submit">Отправить</button>
+                </div>
+            </div>
+
+            <div style="font-size: 12px;margin: 20px 0">
+                <input required="required" checked="checked" name="pd" style="margin-right: 10px; float:left;width:10px" type="checkbox">
+                <div style="float:left;width: calc(100% - 30px);line-height: 1;font-size: 12px;">Я даю ООО &laquo;ИК Ю-Софт&raquo; свое <a href="/permission_personal_data/" target="_blank">согласие на обработку моих персональных данных</a>.</div>
+                <div style="clear: both;">&nbsp;</div>
+            </div>
+        </fieldset>
+        <div class="uniforms__bottom-block">&nbsp;</div>
+    </form>
+</div></section>
+<section class="content__section">
+    <h3 class="content__h2">ВАШИ ПРЕИМУЩЕСТВА ПРИ ОБРАЩЕНИИ К НАМ</h3>
+    <ul class="base__list base__list--green-galka">
+        <li><span class="base__text--bold">Экономия при приобретении продукта.</span> <br>
+            Вы платите только за то, что нужно вашему бизнесу. Наши специалисты настраивают программу &laquo;Консультант
+            Плюс&raquo; в Москве и МО под нужды и цели каждой конкретной организации.</li>
+        <li><span class="base__text--bold">Круглосуточная информационная поддержка.</span> <br>
+            На ваши вопросы ответят специалисты с опытом работы в юриспруденции и бухгалтерской сфере от 10 лет. Данный
+            вид сервиса предоставляется бесплатно.</li>
+        <li><span class="base__text--bold">Виртуальный &laquo;Личный кабинет&raquo;.</span> <br>
+            В нем вы можете общаться с менеджером, следить за обновлениями новостной ленты и тратить бонусные баллы на
+            оплату семинаров, вебинаров и т. д.</li>
+    </ul>
+    <p class="base__paragraph">Для получения более подробной информации звоните по телефону +7 (499) 842-40-13.</p>
+</section>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div class="row">
+    <div class="twelve columns"><span class="base__h2">Отзывы наших клиентов о системе Консультант Плюс</span></div>
+</div>
+<div class="row">
+    <div class="twelve columns">
+        <div class="slick-gallery content__section--reviews__gallery"
+            data-slick="{&quot;slidesToShow&quot;: 1, &quot;autoplay&quot;: true, &quot;autoplaySpeed&quot;: 4000}">
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">Установили справочную систему
+                    &laquo;Консультант-Плюс&raquo; в нашем учреждении. Теперь она доступна в каждом отделе, не нужно
+                    долго искать в интернете последние версии нужных документов. Работать стало намного комфортнее,
+                    многие проблемы стали решаться в считаные минуты.</p>
+                <span class="content__section--reviews__gallery__item__sign">Павел Кривец</span>
+            </div>
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">На обучающий семинар по работе с
+                    &laquo;Консультант Плюс&raquo; попала чисто случайно несколько лет назад. Даже не думала тогда, что
+                    буду работать вплотную с этой системой. Она действительно лучшая &ndash; есть абсолютно все,
+                    документы постоянно обновляются до самых последних версий, базы регулярно пополняются. А главное
+                    &ndash; любой материал легко найти, быстро просмотреть любую интересующую часть.</p>
+                <span class="content__section--reviews__gallery__item__sign">Елена Чирская</span>
+            </div>
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">Впервые познакомилась с &ldquo;Консультант
+                    Плюс&rdquo; в университете, будучи студенткой. Впечатлило, что всей информации в системе можно
+                    доверять всецело, как ГОСТу. Все редакции законов представлены полностью, указаны действующие и те,
+                    что утратили силу или скоро утратят. Активно пользуюсь консультантом и сейчас на работе. Как
+                    помощнику юриста - она просто необходима.</p>
+                <span class="content__section--reviews__gallery__item__sign">Анна Комягина</span>
+            </div>
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">Учусь на юридическом, третий курс. С первого
+                    года обучения пользуюсь вашей системой. У нас в университете есть даже отдельный кабинет, где на
+                    всех компьютерах поставлена ваша система и есть доступ как зарегистрированных пользователей,
+                    оформивших подписку. Особенно полезными мне кажется случаи из судебной практики, которые
+                    предоставлены в открытом доступе и где даны важные комментарии экспертов.</p>
+                <span class="content__section--reviews__gallery__item__sign">Анна Смирнова</span>
+            </div>
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">Часто обращаюсь к вашей системе как кадровик.
+                    Без нее - ну просто никак. Настолько удобно ей пользоваться и так привыкла, что даже не представляю
+                    работы без нее. нравится система за четкость и лаконичность. нет навязчивой рекламы, заоблачных
+                    профессорских объяснений и воды. Вся информация изложена предельно четко и жестко структурирована.
+                    Пожалуй, это одна из лучших систем в своем роде.</p>
+                <span class="content__section--reviews__gallery__item__sign">Алла Чернышевская</span>
+            </div>
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">Раньше пользовалась другой справочно-правовой
+                    системой, но когда сравнила с &quot;КонсультантПлюс&quot;, отдала предпочтение ей. На мой взгляд,
+                    это самая удобная СПС. База актуализируется оперативно. Довольна сервисом на 100 процентов.</p>
+                <span class="content__section--reviews__gallery__item__sign">Ирина Белозерова</span>
+            </div>
+            <div class="content__section--reviews__gallery__item">
+                <p class="content__section--reviews__gallery__item__text">За годы своей юридической практики имел дело
+                    со многими СПС и пришел к выводу, что доверять можно только &quot;КонсультантПлюс&quot;. Пользуюсь
+                    ею ежедневно. Если возникает какой-то вопрос, пишу на сайт или сразу звоню консультанту. Отвечают
+                    всегда быстро и по существу. Рекомендую Консультант плюс своим студентам &ndash; будущим юристам,
+                    как надежного помощника.</p>
+                <span class="content__section--reviews__gallery__item__sign">Виктор Степашин</span>
+            </div>
+        </div>
+    </div>
+</div>
+<p>
+    <style scoped="scoped" type="text/css">
+        .content__section--reviews__gallery__item {
+            border: 1px solid #eaeaea;
+            box-shadow: 2px 2px 5px #ddd8d8;
+            margin: 0 20px 20px 50px;
+            padding: 20px;
+            box-sizing: border-box;
+            width: 90% !important;
+        }
+        .content__section--reviews__gallery__item__text {
+            padding: 0 60px 20px 30px !important;
+        }
+        .content__section--reviews__gallery__item__sign {
+            font-style: italic;
+            font-size: 16px;
+            text-align: right;
+            display: block;
+            padding: 0 60px 0 0;
+        }
+        .slick-list {
+            margin-right: 25px;
+            margin-left: 25px;
+        }
+        .content__section--reviews__gallery__item {
+            border: 10px solid #ece8dd;
+        }
+        .slick-arrow {
+            top: 86px !important;
+        }
+        .carousel-cell {
+            padding: 10px;
+            box-sizing: border-box;
+            text-align: center;
+        }
+        .carousel-cell img {
+            width: 100%;
+        }
+        .slick-arrow {
+            position: absolute;
+            display: block;
+            width: 40px;
+            height: 40px;
+            border-radius: 20px;
+            background-color: white;
+            top: 34px;
+            font-size: 0;
+            background-repeat: no-repeat;
+            background-position: center center;
+            border: none;
+            z-index: 15000;
+            opacity: 0.6;
+            transition: linear all 0.3s;
+            cursor: pointer;
+            padding: 0;
+            outline: none;
+        }
+        .slick-arrow:hover {
+            opacity: 1;
+            box-shadow: 0 0 2px gray;
+        }
+        .slick-prev {
+            left: -10px;
+            background-image: url('/images/angle-left-solid.svg');
+        }
+        .slick-next {
+            right: -10px;
+            background-image: url('/images/angle-right-solid.svg');
+        }
+    </style>
+</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" async=""></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        if (jQuery('.slick-gallery')) {
+            var link = document.createElement('link');
+            link.href = 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css';
+            link.rel = 'stylesheet';
+            document.getElementsByTagName('head')[0].appendChild(link);
+            function SlickStarter(i) {
+                if ((typeof i == "undefined") || (parseInt(i) == NaN) || (parseInt(i) === false)) {
+                    i = 1;
+                } else {
+                    i++;
+                }
+                if (i > 6) {
+                    return;
+                }
+                if (typeof jQuery(document).slick === 'function') {
+                    jQuery('.slick-gallery').each(function (i, el) {
+                        jQuery(el).show();
+                        jQuery(el).slick();
+                    })
+                } else {
+                    setTimeout(function () {
+                        SlickStarter(i)
+                    }, 1000);
+                }
+            }
+            SlickStarter();
+        }
+    }, false);
+</script>
+<div class="content__section page--main__laws-codes">
+    <style scoped="" type="text/css">
+        .page--main__laws-codes {
+            margin: 40px 0;
+            background: #ECE8DD;
+        }
+        .page--main__laws-codes::after {
+            content: "";
+            display: block;
+            clear: both;
+        }
+        .page--main__laws-codes__h {
+            display: block;
+            text-align: center;
+            padding: 20px 0 10px 0;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        .page--main__laws-codes__column {
+            padding: 20px;
+            float: left;
+            width: calc(50% - 40px);
+        }
+        .page--main__laws-codes__link {
+            display: block;
+            line-height: 1.2;
+            margin-bottom: 15px;
+        }
+    </style> <span class="page--main__laws-codes__h">ЗАКОНЫ и КОДЕКСЫ</span>
+    <div class="page--main__laws-codes__column"><a href="/spravochno_pravovaya_sistema/versia_prof/"
+            class="page--main__laws-codes__link">ИБ &laquo;Версия ПРОФ&raquo;</a> <a
+            href="/spravochno_pravovaya_sistema/ruslaw/" class="page--main__laws-codes__link">ИБ &laquo;Российское
+            законодательство&raquo;</a> <a href="/spravochno_pravovaya_sistema/docs/"
+            class="page--main__laws-codes__link">ИБ &laquo;Нормативные документы&raquo;</a> <a href="/spravochno_pravovaya_sistema/ta/" class="page--main__laws-codes__link">ИБ &laquo;Налоги и бухучет&raquo;</a></div>
+    <div class="page--main__laws-codes__column"><a href="/spravochno_pravovaya_sistema/expert/" class="page--main__laws-codes__link">ИБ &laquo;Эксперт-приложение&raquo;</a>
+        <a href="/spravochno_pravovaya_sistema/reglaw/" class="page--main__laws-codes__link">ИБ &laquo;Сводное
+            региональное законодательство&raquo;</a> <a href="/spravochno_pravovaya_sistema/reglaw/
+" class="page--main__laws-codes__link">ИБ &laquo;Региональный выпуск&raquo;</a> <a href="/spravochno_pravovaya_sistema/ussr/
+" class="page--main__laws-codes__link">ИБ &laquo;Документы СССР&raquo;</a></div>
+</div>
+<div class="content__section about__form">
+    <div class="cons-forms0915 cons-forms0915--w500 uniforms">
+        <div class="cons-forms0915__h cons-forms0915__h--yellow">Подробности об услугах вы можете узнать, отправив
+            запрос, или просто позвонив по телефону: <br>
+            <a href="tel:+74998424013"
+                class="cons-forms0915__phone-in-h" id="comagic_phone_7">
+                +7 (499) 842-40-13            </a>
+        </div>
+        <form action="#" method="post">
+            <fieldset> <input name="formid" value="2" type="hidden"> <input name="formname" value="get_info_ur"
+                    type="hidden"> <input name="opsubj" value="Запрос о подробностей об услугах" type="hidden"> <input
+                    name="formdescr" value="У пользователя возникли вопросы по услугам" type="hidden"> <input
+                    class="cons-forms0915__input" name="phone" placeholder="Телефон*" required="required" type="text">
+                <textarea class="cons-forms0915__textarea" name="message" placeholder="Ваш вопрос"></textarea> <span
+                    class="cons-form0915__star">* Поля обязательны для заполнения</span> <button
+                    class="cons-forms0915__button cons-forms0915__button--green uniforms send"
+                    style="background-color: #279800; border-radius: 0;"
+                    onclick="yaCounter25110119.reachGoal('dopinfo');return true;">Отправить</button> </fieldset>
+        </form>
+    </div>
+</div>
+				</div><!--
+				--><div id="rightcol">
+				 	<div class="uniforms uniforms-inline cons__sidebar-right__form-block">
+				 		<style>
+				 			.cons__sidebar-right__form-block {
+								padding: 20px 10px;
+								margin-bottom: 30px;
+								background: linear-gradient(#7B7BB9,#5E5EA6);
+								position: relative;
+								color: white;
+							}
+							.cons__sidebar-right__form-block .uniforms__alert-form--head {
+								background-color: #f8d73f;
+								box-shadow: 2px 1px 3px #808080;
+								color: #4a45b3;
+								font-family: helvetica;
+								font-size: 18px;
+								font-weight: bold;
+								padding: 10px;
+								position: relative;
+								z-index: 100;
+								background-image: none;
+								width: 100%;
+								margin: -20px 0 0 -10px;
+								/*text-transform: uppercase;*/
+							}
+							.cons__sidebar-right__form-block .uniforms__h {
+								font-size: 14px;
+								padding: 0;
+								margin: 10px 0 20px 0;
+								color: inherit;
+							}
+							.cons__sidebar-right__form-block .uniforms__alert-form__span {
+								padding: 0;
+								font-size: 13px;
+							}
+							.cons__sidebar-right__form-block .uniforms__field__input {width: 90%; }
+							.cons__sidebar-right__form-block .uniforms__button-send {margin-bottom: 0; }
+						</style>
+
+						<span class="uniforms__alert-form--head">Скачать прайс-лист</span>
+						<form action="#" data-before-submit="undefined" data-after-submit="undefined" style="margin-top: 10px;">
+							<fieldset><legend class="uniforms__legend uniforms__h">Оставьте контактные данные, прайс отправим на ваш e-mail.</legend></fieldset>
+						    <input name="opsubj" value="Заказан полный прайс лист Консультант Плюс" type="hidden">
+						    <input name="formid" value="2" type="hidden">
+						    <input name="formname" value="get_price_download" type="hidden">
+						    <!-- <input name="formname" value="main_order_price" type="hidden"> -->
+						    <input name="formdescr" value="Заказан полный прайс лист Консультант Плюс" type="hidden">
+						    <input name="type_request" value="" type="hidden">
+							<fieldset>
+						        <span class="uniforms__alert-form__span">Ваш email:</span>
+						        <input class="uniforms__field__input" name="email"  value="" placeholder="Ваш e-mail" type="text">
+						        <span class="uniforms__alert-form__span">Ваш телефон: <span class="uniforms__alert-form__span--red">*</span></span>
+						        <input class="uniforms__field__input" name="phone" required="required" value="" placeholder="Ваш телефон" type="text">
+
+								<div class="uniforms__extraparam"></div>
+
+								<div style="text-align: center;margin-top: 20px">
+									<button class="cons__button cons__button--orange" type="submit" onclick="yaCounter33714634.reachGoal('skachat_price'); return true;">Скачать</button>
+								</div>
+
+								<div style="font-size: 12px;margin: 20px 0">
+									<!-- <input type="checkbox" required name="pd" checked="checked" autocomplite="off" style="margin-right: 10px; float:left;width:10px">  -->
+									<input type="checkbox" required name="pd" checked="checked" style="margin-right: 10px; float:left;width:10px">
+									<div style="float:left;width: calc(100% - 30px);line-height: 1;font-size: 10px;">Я даю ООО «ИК Ю-Софт» свое <a href="/permission_personal_data/" target="_blank" style="color:white;">согласие на обработку моих персональных данных</a>.</div>
+									<div style="clear: both;"></div>
+								</div>
+
+							</fieldset>
+						</form>
+				 	</div>
+
+					<div id="right_news">
+                        <a href="/new/" class="news__h">Новости</a>
+						<div class="news-item">
+	<span class="news-item__date">21.02.2022</span>
+	<span class="news-item__text">Анонс журнала «Главная книга» № 05 февраль 2022г.</span>
+	<a href="/new/anons_zhurnala_glavnaya_kniga_05_02_2022g/" class="news-item__link">Подробнее</a>
+</div><div class="news-item">
+	<span class="news-item__date">16.02.2022</span>
+	<span class="news-item__text">Обновлен тематический сборник — «Большая библиотека для индивидуального предпринимателя»</span>
+	<a href="/new/bb_dlya_individualnogo_predprinimatelya_20220216/" class="news-item__link">Подробнее</a>
+</div><div class="news-item">
+	<span class="news-item__date">04.02.2022</span>
+	<span class="news-item__text">Новый выпуск вебинара — «Новеллы ГК РФ»</span>
+	<a href="/new/novyj_vypusk_vebinara_novelly_gk_rf_20220203/" class="news-item__link">Подробнее</a>
+</div><div class="news-item">
+	<span class="news-item__date">03.02.2022</span>
+	<span class="news-item__text">Новый выпуск вебинара — «Инвентаризация – сверяем показатели учета»</span>
+	<a href="/new/inventarizaciya_sveryaem_pokazateli_ucheta_20220203/" class="news-item__link">Подробнее</a>
+</div><div class="news-item">
+	<span class="news-item__date">25.01.2022</span>
+	<span class="news-item__text">Обновлен тематический сборник — «Библиотека для бухгалтера: налоги и отчетность»</span>
+	<a href="/new/biblioteka_dlya_buhgaltera_nalogi_i_otchetnost_20220125/" class="news-item__link">Подробнее</a>
+</div><div class="news-item">
+	<span class="news-item__date">24.01.2022</span>
+	<span class="news-item__text">Анонс журнала «Главная книга» № 03 январь 2022г.</span>
+	<a href="/new/anons_zhurnala_glavnaya_kniga_03_01_2022g/" class="news-item__link">Подробнее</a>
+</div><div class="news-item">
+	<span class="news-item__date">11.01.2022</span>
+	<span class="news-item__text">Новый выпуск вебинара — «Безвизовые иностранные работники: правовые, кадровые, налоговые аспекты»</span>
+	<a href="/new/bezvizovye_inostrannye_rabotniki_pravovye_kadrovye_nalogovye_aspekty_20220111/" class="news-item__link">Подробнее</a>
+</div>
+
+                    </div>
+			 	</div>
+			</div>
+		</div>
+
+		
+		
+		<footer class="footer">
+            <div class="footer-wrapper">
+                <div class="footer__column footer__column--one">
+                	<span class="footer__address">107076, г. Москва, ул Краснобогатырская, д. 44, строение 1</span>
+                	<a href="tel:+74998424013" class="footer__phone roistat-phone8800">+7 (499) 842-40-13</a>
+                    <span class="date">Пн – Пт с 10:00 до 18:30</span>
+                	<a href="mailto:info@cons-plus.ru" class="footer__email">info@cons-plus.ru</a>
+                </div>
+
+                <div class="footer__column footer__column--two">
+                	<span class="footer__h">Купить Консультант Плюс</span>
+                	<ul class="footer__menu">
+                		<li class="footer__menu__item"><a href="/package_consultant/urist/" class="footer__menu__item__link">Для юриста</a></li>
+                		<li class="footer__menu__item"><a href="/setevaya_versiya/buhgalterya/" class="footer__menu__item__link">Для бухгалтера</a></li>
+                		<li class="footer__menu__item"><a href="/setevaya_versiya/konsultant_plyus_biznes_rukovoditelyu/" class="footer__menu__item__link">Для бизнеса</a></li>
+                		<li class="footer__menu__item"><a href="/budjetnie_organizacii/" class="footer__menu__item__link">Для бюджетных компаний</a></li>
+                		<li class="footer__menu__item"><a href="/kupit_konsultant_plyus/" class="footer__menu__item__link">Индивидуальный комплект</a></li>
+                	</ul>
+                </div>
+
+                <div class="footer__column footer__column--three">
+                	<span class="footer__h">О нас</span>
+                	<ul class="footer__menu">
+                		<li class="footer__menu__item"><a href="/centr_consultant_plus/" class="footer__menu__item__link">О компании</a></li>
+                		<li class="footer__menu__item"><a href="/otzivi/" class="footer__menu__item__link">Отзывы</a></li>
+                		<li class="footer__menu__item"><a href="/vakansii/" class="footer__menu__item__link">Вакансии</a></li>
+                		<li class="footer__menu__item"><a href="/oplata/" class="footer__menu__item__link">Оплата</a></li>
+                		<li class="footer__menu__item"><a href="/contact/" class="footer__menu__item__link">Контакты</a></li>
+                	</ul>
+                </div>
+
+                <div class="footer__column footer__column--four">
+                	<span class="footer__h">Услуги и сервисы</span>
+                	<ul class="footer__menu">
+                		<li class="footer__menu__item"><a href="/free_demo/" class="footer__menu__item__link">Демонстрация</a></li>
+                		<li class="footer__menu__item"><a href="/spravochno_pravovaya_sistema/putevoditel_po_korporativnim_sporam/" class="footer__menu__item__link">Путеводитель по корпоративным спорам</a></li>
+                		<li class="footer__menu__item"><a href="/putevoditel_po_trudovim_sporam/" class="footer__menu__item__link">Путеводитель по трудовым спорам</a></li>
+                		<li class="footer__menu__item"><a href="/spravochno_pravovaya_sistema/delovie_bumagi/" class="footer__menu__item__link">Деловые бумаги</a></li>
+                		<li class="footer__menu__item"><a href="/zakonodatelstvo/" class="footer__menu__item__link">Законодательство</a></li>
+                		<li class="footer__menu__item"><a href="/kodeksy/" class="footer__menu__item__link">Кодексы</a></li>
+                	</ul>
+                </div>
+
+            </div>
+
+            <div class="footer-wrapper">
+                <div class="footer__column footer__column--one">
+                	<div class="footer__column--one__logo-block"></div>
+                	<div class="footer__column--one__copyright-block">
+                		<span class="footer__copyright">&copy; Все права защищены "Ю-Софт"&nbsp;2022</span>
+                	</div>
+                	<a href="/docs/privacy-policy.pdf" title="Политика конфиденциальности" style="color: white;font-size: 12px">Политика конфиденциальности</a>
+                </div>
+
+                <div class="footer__column footer__column--two">
+                	<span class="footer__h">Версии </span>
+                	<ul class="footer__menu">
+                		<li class="footer__menu__item"><a href="/online_versia/" class="footer__menu__item__link">Онлайн-версия</a></li>
+                		<li class="footer__menu__item"><a href="/fleshka_konsultant_plyus/" class="footer__menu__item__link">На флешке</a></li>
+                		<li class="footer__menu__item"><a href="/dlya_mac_os/" class="footer__menu__item__link">Для Mac OS</a></li>
+                		<li class="footer__menu__item"><a href="/demo_versia/" class="footer__menu__item__link">Пробная версия</a></li>
+                		<li class="footer__menu__item"><a href="/nekommercheskay_versia/" class="footer__menu__item__link">Некоммерческая</a></li>
+                	</ul>
+                </div>
+
+                <div class="footer__column footer__column--three">
+                	<span class="footer__h">Полезная информация</span>
+                	<ul class="footer__menu">
+                		<li class="footer__menu__item"><a href="/nalogovyj_dlya_buhgaltera/" class="footer__menu__item__link">Бухгалтеру</a></li>
+                		<li class="footer__menu__item"><a href="/uristu/" class="footer__menu__item__link">Юристу</a></li>
+                		<li class="footer__menu__item"><a href="/instrukcii_1minute/" class="footer__menu__item__link">Как найти документ?</a></li>
+                		<li class="footer__menu__item"><a href="/poslednee_obnovlenie_baz/" class="footer__menu__item__link">Обновление системы</a></li>
+                		<li class="footer__menu__item"><a href="/obnovlenie_sistem/" class="footer__menu__item__link">Как выполнить обновление?</a></li>
+                		<li class="footer__menu__item"><a href="/press_relizi/" class="footer__menu__item__link">Новые возможности</a></li>
+                		<li class="footer__menu__item"><a href="/faq/" class="footer__menu__item__link">Вопросы и ответы</a></li>
+                	</ul>
+                </div>
+
+            </div>
+            <a id="up_scroller" title="Back to top">&uarr;</a>
+        </footer>
+
+        		
+		<script src="https://rawgit.com/RobinHerbots/Inputmask/5.x/dist/jquery.inputmask.js"></script>
+		<script>
+		    $('input[name=phone]').inputmask('+7 (999) 999-99-99', {
+		        placeholder: '+7 (___) ___-__-__',
+		        clearIfNotMatch: true
+		    });
+		</script>
+
+	    <script src="/min/f=/js/mobileRedirect.js"></script>
+	    <script src="/min/f=/js/utils.js"></script>
+	    <script src="/min/f=/js/usoftforms.js"></script>
+	    <script src="/min/f=/js/my_menu.js"></script>
+	    <script src="/min/f=/js/fly_feedback.js"> </script>
+	    <script src="/min/f=/js/vendor/lightbox.js"> </script>
+
+
+        <!-- BEGIN CALLBASKA INTEGRATION WITH ROISTAT -->
+        <script>
+			window.onRoistatModuleLoaded = function() {
+				window.roistat.registerOnVisitProcessedCallback(function() {
+					var s = document.createElement("script");
+					s.type = "text/javascript";
+					s.src = "https://my.callbaska.ru/callback.js";
+					jQuery('body').append(s);
+				});
+				window.roistat.multiwidget.isEnabled = false; //Выключить Мультивиджет на странице
+			}
+        </script>
+        <!-- END CALLBASKA INTEGRATION WITH ROISTAT -->
+		<script>(function(w, d, s, h, id) {    w.roistatProjectId = id; w.roistatHost = h;    var p = d.location.protocol == "https:" ? "https://" : "http://";    var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init";    var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);})(window, document, 'script', 'cloud.roistat.com', '92bafcaeb3f562725174936d67424c31');</script>
+
+
+		<!-- BEGIN TALKER24 CODE {literal} -->
+        <script async>
+            (function () {var widget_id = 911;var d = document;var w = window;function l() {var parentElem = document.body; var elem = d.createElement('div'); elem.id = 'widget'; var widgetIdInput = document.createElement('input');  widgetIdInput.type = 'hidden';   widgetIdInput.id = 'widget_id'; widgetIdInput.value = widget_id; parentElem.appendChild(elem); parentElem.insertBefore(widgetIdInput,elem);var s = d.createElement('script'); s.type = 'text/javascript';  s.async = true; s.charset='utf-8'; s.src = '//talker24.ru/widget/js/widget.js'; parentElem.appendChild(s);}if(d.readyState=='complete'){l(); } else {if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+        </script>
+        <!-- {/literal} END TALKER24 CODE -->
+
+		<!-- Yandex.Metrika counter --> <script async> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(25110119, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/25110119" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+	</body>
+</html>

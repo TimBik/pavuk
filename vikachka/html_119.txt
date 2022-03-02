@@ -1,0 +1,1246 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <base href="https://twin3d.ru/" />
+    <title>3D-сканирование людей, животных и реквизита для VFX, gamedev, AR, VR - twin3d</title>
+    <meta name="p:domain_verify" content="278101c847baedbde1facf7c7df7a562"/> 
+    <meta name="description" content="Главная - Twin3D">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:300,300i,400,400i,500,500i,700,700i,900,900i&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet" >
+    <link rel="stylesheet" type="text/css" charSet="UTF-8" href="/assets/template/stylesheets/slick.min.css" >
+    <link rel="stylesheet" type="text/css" href="/assets/template/stylesheets/slick-theme.min.css" >
+    <link rel="stylesheet" href="/assets/template/stylesheets/swiper.min.css" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.2/jquery.fancybox.css">
+    <link rel="stylesheet" type="text/css" href="assets/template/stylesheets/jquery.datetimepicker.min.css"/ >
+    <link href="assets/template/stylesheets/style.css" type="text/css" rel="stylesheet">
+          
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/template/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/template/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/template/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/template/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/template/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/template/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/template/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/template/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/template/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/template/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/template/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/template/images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/template/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="assets/template/images/favicons/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="assets/template/images/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff"> 
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    
+       ym(57591238, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+       });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/57591238" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    <script>window.DG_METRIKA_ID=57591238;window.DG_MACRO_GOAL='feedback-sent-macro';</script>
+    <!--Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-69479773-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-69479773-1');
+      gtag('config', 'AW-971322353');
+    </script>
+
+<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css" />
+</head>
+
+<body>
+
+<div class="body-wrap">
+    <div class="body-content">
+        
+    <div class="container-n header">
+    <div class="row header__row">
+        <div class="header__main">
+            <div class="header__left">
+                <div class="header__logo">
+                    <a class="header__logo-link" href="/">Twin3D</a>
+                </div>
+            </div>
+            <div class="header__right">
+                <button class="header__burger">
+                    <svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="#B9B9BB" d="M0 0h24v2H0zM0 7h24v2H0zM0 14h24v2H0z"></path>
+                    </svg>
+                    <span>Меню</span>
+                </button>
+                <div class="header__menu-wrap ">
+                    <button class="header__menu-close">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M15 1L1 15M1 1l14 14" stroke="#009FE3" stroke-linecap="round"></path>
+                        </svg>
+                    </button>
+                    <ul class="header__menu">
+                        <li class="header__hasSubMenu ">
+                            <span>Услуги</span>
+                            <ul class=" header__menuSub">
+                                <li><a href="virtualinfluencer">Виртуальные инфлюенсеры и ассистенты</a></li>
+                                <li ><a href="3d-scanning">3D-сканирование в полный рост</a></li>
+                                <li><a href="blendshapes">3D-сканирование мимики</a></li>
+                                <li><a href="scanning-of-animals">3D-сканирование животных и реквизита</a></li>
+                                <li><a href="rent-3d">Выездное сканирование</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="projects">Проекты</a></li>
+                        <li class="header__hasSubMenu "><a href="about">О нас</a>
+                            <ul class="header__menuSub">
+                                <li><a href="about">О компании</a></li>
+                                <li><a href="news/">Новости</a></li>
+                                <li><a href="payment">Оплата</a></li>
+                                <li><a href="management">Менеджмент</a></li>
+                            </ul>
+                        </li>
+                        
+                        <li><a href="contacts">Контакты</a></li>
+                    </ul>
+                </div>
+                <div class=" header__contacts">
+                    <div class="header__phone">
+                        <a href="tel:+7 495 125-34-35" class="header__phone-link">+7 495 125-34-35</a>
+                    </div>
+                    <div class="header__lang ">
+                        <div class="header__lang-link"><span>Ru</span></div>
+                        <div class="header__lang-drop">
+                            <div class="header__lang-drop-item active">
+                                <a href="https://twin3d.ru">РУССКИЙ</a>
+                            </div>
+                            <div class="header__lang-drop-item ">
+                                <a href="https://twin3d.pro">ENGLISH</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+ 
+
+<style>
+    @media (max-width: 767px) {
+        #container, #first-screen__canvas {
+            max-height: 460px;
+        }
+        
+        #container, #first-screen__canvas {
+            display: none;
+        }
+    }
+</style>
+
+<section class="container-n first-section section-under-header">
+    <div class="first-section__row">
+        <div class="first-section__wrap">
+            <div class="first-section__img">
+                <img id="first-img" src="assets/template/images/man.png" alt="">
+                <div id="first-screen__canvas" style="height: 960px;"></div>
+                <div class="modal modal-contact fade" id="modalTexture2D" tabindex="-1" role="dialog" aria-labelledby="modalContactUs" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content" style="padding: 10px;">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            </button>
+                            <div class="modal-body__form img-fluid">
+                                <img id="texture2D" class="img-fluid" src=""/>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="first-section__left">
+                <div class="first-section__title">
+                    СОЗДАЕМ  
+                    <span>3D-СКАНЫ</span>
+                    И МОДЕЛИ
+                </div>
+                <div class="first-section__text">
+                  людей, животных и игровых персонажей
+                </div>
+                <div class="first-section__link-wrap">
+                    <a href="#about" class="scroll-anchor first-section__link">
+                        <svg width="30" height="71" viewBox="0 0 30 71" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M24 58.8999L15 67.8999L6 58.8999" stroke="currentColor" stroke-width="4" stroke-miterlimit="3"/>
+                            <path d="M15 28V65" stroke="currentColor" stroke-width="4" stroke-miterlimit="3"/>
+                            <path d="M15 8.5V14.5" stroke="currentColor" stroke-width="4" stroke-miterlimit="3"/>
+                            <path d="M20 42H10C5.6 42 2 38.4 2 34V10C2 5.6 5.6 2 10 2H20C24.4 2 28 5.6 28 10V34C28 38.4 24.4 42 20 42Z" stroke="currentColor" stroke-width="4" stroke-miterlimit="3"/>
+                        </svg>
+                        <span>Узнать подробнее</span>
+                    </a>
+                </div>
+            </div>
+            <div class="first-section__right">
+                <div class="first-section__filter-item">
+                    <div class="first-section__filter-title">
+                        Morphtargets
+                    </div>
+                    <div class="first-section__filter-row">
+                        <label>Улыбка</label>
+                        <div id="filterSmile"></div>
+                    </div>
+                    <div class="first-section__filter-row">
+                        <label>Надутый</label>
+                        <div id="filterCondensed"></div>
+                    </div>
+                    <div class="first-section__filter-row">
+                        <label>Задумчивый</label>
+                        <div id="filterBoop"></div>
+                    </div>
+                </div>
+                <div class="first-section__filter-item">
+                    <div class="first-section__filter-title">
+                        ВЫБЕРИТЕ КАРТУ
+                    </div>
+                    <div class="first-section__filter-row">
+                        <select class="chosen">
+                           <option value="All map">Все карты</option> 
+                           <option value="Diffuse map">Diffuse map</option> 
+                           <option value="Normal map">Normal map</option> 
+                           <!-- <option value="Specular map">Specular map</option> 
+                           <option value="AO map">AO map</option>  -->
+                        </select>
+                    </div>
+                    <div class="first-section__filter-row">
+                        <a href="#" data-target="#modalTexture2D" data-toggle="modal" class="first-section__filter-btn-texture">Показать текстуру в 2D</a>
+                    </div>
+                </div>
+                <div class="first-section__filter-item">
+                    <div class="first-section__filter-title">
+                        Wireframe
+                    </div>
+                    <div class="first-section__filter-row">
+                        <div class="first-section__filter-radio">
+                            <input type="radio" name="wireframe" id="wireframe-on" class="radio-switcher">
+                            <label for="wireframe-on">ON</label>
+                        </div>
+                        <div class="first-section__filter-radio">
+                            <input type="radio" name="wireframe" id="wireframe-off" class="radio-switcher" checked>
+                            <label for="wireframe-off">OFF</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="first-section__controls">
+           <div class="first-section__controls-buttons">
+                <button class="first-section__controls-play active"></button>
+                <button class="first-section__controls-pause"></button>
+            </div>
+           <div class="first-section__controls-text">
+            Вы можете остановить проигрывание, нажав на паузу, и рассмотреть проект более тщательно.
+            </div>
+        </div>
+    </div>
+</section>
+
+<div id="about" class="about-section">
+    <div class="row-st about-section__row">
+        <div id="about-main"
+             class="title-48 about-section__title">Добро пожаловать в Twin3D </div>
+        <ul class="about-section__list">
+            <li class="title-24">Мы - профессиональный сервис создания кастомных реалистичных 3D аватаров людей и персонажей для метавселенных, VFX, GameDev, digital рекламы и NFT
+            </li>
+            <li class="title-24">Используем уникальные 3D-сканеры головы и тела по технологии фотограмметрии с матрицей 200 DSLR камер. Скорость сканирования 0,01 сек.</li>
+        </ul>
+        <div class="title-24 about-section__under-text">
+            Twin3D - лидер в России по созданию реалистичных аватаров людей ААА-качества. Работаем с 2013 года.
+        </div>
+    </div>
+    <div class="about-section__img"></div>
+    <div class="about-section__video">
+        <video width="100%" height="300" controls="" poster="assets/template/images/teh-video-poster.jpg" id="about-section__video">
+            <source src="assets/template/video/teh-video.mp4" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+        </video>
+        <div role="button" class="news-page__slider-video-poster">
+            <img src="assets/template/images/teh-video-poster.jpg"  alt="">
+        </div>
+    </div>
+</div>
+
+
+<section class="services">
+    <div class="row title-48 services__title">Области применения</div>
+    <div class="services__list">
+         <div class="services__list-col" style="background-image: url('assets/template/images/services-img-1.jpg')">
+                <div class="services__top">
+                    <div class="title-20 services__col-title">
+                       VFX
+                    </div>
+                    <div class="services__col-text">
+                      3D-сканирование и создание цифровых 3D-моделей актеров, массовки и реквизита. Цифровые каскадеры. Выездное 3D-сканирование на локации.
+                    </div>
+                </div>
+                <div class="services__icon">
+                  <img src="assets/template/images/services-icon-1.svg" alt="VFX">
+                </div>
+            </div> <div class="services__list-col" style="background-image: url('assets/template/images/services-img-2.jpg')">
+                <div class="services__top">
+                    <div class="title-20 services__col-title">
+                       GameDev
+                    </div>
+                    <div class="services__col-text">
+                      Полный цикл подготовки 3D-моделей персонажей для gamedev-проектов. Адаптация к VR, AR, Unreal Engine и Unity. Создание датасетов 3D-сканов людей для разработки конструкторов персонажей.
+                    </div>
+                </div>
+                <div class="services__icon">
+                  <img src="assets/template/images/services-icon-2.svg" alt="GameDev">
+                </div>
+            </div> <div class="services__list-col" style="background-image: url('assets/template/images/services-img-3.jpg')">
+                <div class="services__top">
+                    <div class="title-20 services__col-title">
+                       Метавселенные
+                    </div>
+                    <div class="services__col-text">
+                      Создание 3D-аватаров селебрити и персонажей для метаверсов. Мобильные 3D-сканеры для оцифровки пользователей метаверсов на мероприятиях и локациях. Оцифровка реквизита.
+                    </div>
+                </div>
+                <div class="services__icon">
+                  <img src="assets/template/images/services-icon-3.svg" alt="Метавселенные">
+                </div>
+            </div> <div class="services__list-col" style="background-image: url('assets/template/images/services-img-4.jpg')">
+                <div class="services__top">
+                    <div class="title-20 services__col-title">
+                       Искусственный интеллект
+                    </div>
+                    <div class="services__col-text">
+                      Создание датасетов 3D-сканов людей, животных и реквизита для машинного обучения нейросетей.
+                    </div>
+                </div>
+                <div class="services__icon">
+                  <img src="assets/template/images/services-icon-4.svg" alt="Искусственный интеллект">
+                </div>
+            </div> <div class="services__list-col" style="background-image: url('assets/template/images/services-img-81.jpg')">
+                <div class="services__top">
+                    <div class="title-20 services__col-title">
+                       Digital реклама и медиа
+                    </div>
+                    <div class="services__col-text">
+                      Разработка виртуальных инфлюенсеров, амбассадоров брендов и блоггеров. Разработка цифрового контента с виртуальными инфлюенсерами для digital рекламы.
+                    </div>
+                </div>
+                <div class="services__icon">
+                  <img src="assets/template/images/services-icon-8.svg" alt="Digital реклама и медиа">
+                </div>
+            </div> <div class="services__list-col" style="background-image: url('assets/template/images/services-img-7.jpg')">
+                <div class="services__top">
+                    <div class="title-20 services__col-title">
+                       NFT
+                    </div>
+                    <div class="services__col-text">
+                      Создание 3D-моделей людей, персонажей, предметов искусства и реквизита для NFT-артов.
+                    </div>
+                </div>
+                <div class="services__icon">
+                  <img src="assets/template/images/services-icon-7.svg" alt="NFT">
+                </div>
+            </div>
+    </div>
+</section>
+
+
+<section class="partners ">
+    <div class="row-st partners__row">
+        <div class="title-48 partners__title">Наши партнеры</div>
+        <div class="partners__list">
+             <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-1.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-2.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-10.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/Sensorium-Logo-Horizintal-Black.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-6.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-1cgames.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/Sber_logo.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-5.png" alt="">
+                </div></div> <div class="partners__list-col"><div class="partners__list-fon">
+                   <img src="assets/template/images/partners/logo-8.png" alt="">
+                </div></div>
+        </div>
+    </div>
+</section>
+
+
+<section id="projects" class="sectionId container-n projects ">
+    <div class="row-st projects__row">
+        
+        <div class="projects__title">
+           Наши проекты
+        </div>     
+        <div class="projects__text">
+           3D-сканирование актеров, статистов и реквизита фильмов.
+        </div>   
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" id="films-tab" data-toggle="tab" href="#films" role="tab" aria-controls="films" aria-selected="true">Фильмы и Сериалы</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="music-tab" data-toggle="tab" href="#music" role="tab" aria-controls="music" aria-selected="false">Музыкальные клипы</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="inprogress-tab" data-toggle="tab" href="#inprogress" role="tab" aria-controls="inprogress" aria-selected="false">Проекты в производстве</a>
+          </li>    
+        </ul>
+    </div>
+    <div class="tab-content" id="myTabContent">
+      <div class="tab-pane fade show active" id="films" role="tabpanel" aria-labelledby="films-tab">
+        <div class="swiper-container projects__slider">
+            <div class="projects__arrow">
+                <div class="projects__arrow-prev"></div>
+                <div class="projects__arrow-next"></div>
+            </div> 
+            <div class="swiper-wrapper">
+                <div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/aUi6fQRUP1o">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-major-thunder.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Майор Гром: Чумной Доктор»
+              </div>
+              <div class="projects__col-year">
+                  2021
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/2iQEhU5qHFA">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-psych.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Сериал «Псих»
+              </div>
+              <div class="projects__col-year">
+                  2020
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/aRlyYs-szx8">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-side-effect.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Побочный эффект»
+              </div>
+              <div class="projects__col-year">
+                  2020
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/srVdxeETLd0">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-vr-galaktiki.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Вратарь галактики»
+              </div>
+              <div class="projects__col-year">
+                  2020
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/k9qG1UpF4-0">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-led.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Лед-2
+              </div>
+              <div class="projects__col-year">
+                  2020
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/HnZbtTCSU2M">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-feya.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фея
+              </div>
+              <div class="projects__col-year">
+                  2019
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/6CdM9JrcYRg">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-devyataya.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Девятая»
+              </div>
+              <div class="projects__col-year">
+                  2019
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://www.youtube.com/watch?v=BPSpm36U1HU">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-invasion.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Вторжение»
+              </div>
+              <div class="projects__col-year">
+                  2019
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/dHpaNjLWoDU">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-souz-spaseniya.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Союз спасения»
+              </div>
+              <div class="projects__col-year">
+                  2019
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/sxvzTqAjQh4">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-rubej.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Ильинский рубеж»
+              </div>
+              <div class="projects__col-year">
+                  2019
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/GuY_GN33OPc">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-godunov.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Сериал «Годунов»
+              </div>
+              <div class="projects__col-year">
+                  2018
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/-fWbyw10wP0">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-kriposna.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Сериал «Крепостная»
+              </div>
+              <div class="projects__col-year">
+                  2018
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/yKT9Jwrkxeg">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-1.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Защитники»
+              </div>
+              <div class="projects__col-year">
+                  2017
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link">
+    <a  target="_blank" href="https://www.kino-teatr.ru/kino/movie/ros/135092/annot/">
+        <div class="projects__img" style="background-image: url(assets/template/images/cathedral.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Собор»
+              </div>
+              <div class="projects__col-year">
+                  2021
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link">
+    <a  target="_blank" href="https://kino.mail.ru/series_924489_vertinskii/">
+        <div class="projects__img" style="background-image: url(assets/template/images/pr-vertinsky.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Сериал «Вертинский»
+              </div>
+              <div class="projects__col-year">
+                  2021
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://www.youtube.com/watch?v=yLkJKxa4ce4">
+        <div class="projects__img" style="background-image: url(ряд19.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм "Ряд 19"
+              </div>
+              <div class="projects__col-year">
+                  2021
+              </div>
+          </div>
+        </div>
+     </a>
+</div>
+            </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="music" role="tabpanel" aria-labelledby="music-tab">
+        <div class="swiper-container projects__slider">
+            <div class="projects__arrow">
+                <div class="projects__arrow-prev"></div>
+                <div class="projects__arrow-next"></div>
+            </div> 
+            <div class="swiper-wrapper">
+                <div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://www.youtube.com/watch?v=4Ex7ATmh8CM">
+        <div class="projects__img" style="background-image: url(guy2.gif); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Рекламный ролик Ситимобил
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://www.youtube.com/watch?v=SAUXieOwHgA">
+        <div class="projects__img" style="background-image: url(girl.gif); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Рекламный ролик Ситимобил
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/JIFlhz3cNmA">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-husky-jager.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Хаски "Outro" для Jager Music Awards
+              </div>
+              <div class="projects__col-year">
+                  
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/PUts0MoYaxM">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-lsp.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  LSP. Онлайн-концерт на МТС Live XR 19.12.2020
+              </div>
+              <div class="projects__col-year">
+                  
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/ZfmmwvLZklU">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-6.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  ЯАVЬ «Главной»
+              </div>
+              <div class="projects__col-year">
+                  2019
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/qf3n4rESsCk">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-8.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Дима Билан «Молния»
+              </div>
+              <div class="projects__col-year">
+                  2018
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link">
+    <a  target="_blank" href="https://www.facebook.com/events/1072919696189884/permalink/1154632388018614/">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-7.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Промо клип для «Red Bull Music Fest»
+              </div>
+              <div class="projects__col-year">
+                  2018
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link">
+    <a  target="_blank" href="https://www.facebook.com/groznov.co/videos/pcb.631665687302019/393011571534614/?type=3&__tn__=HH-R&eid=ARB5jvTDwvTveAYTn0h0uetsdEjPTxgiK9mi13R_WYSn8wrFZ-DgbkTIDo-SJuJLYSV3xk-2dbpjH2uI">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-addicted.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Single «Addicted» for Artem Amchislavsky
+              </div>
+              <div class="projects__col-year">
+                  2017
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://youtu.be/rcDuLqPWWng">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-psihotronik.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Короткометражного фильм Хаски «Психотроника»
+              </div>
+              <div class="projects__col-year">
+                  2017
+              </div>
+          </div>
+        </div>
+     </a>
+</div>
+            </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="inprogress" role="tabpanel" aria-labelledby="inprogress-tab">
+        <div class="swiper-container projects__slider">
+            <div class="projects__arrow">
+                <div class="projects__arrow-prev"></div>
+                <div class="projects__arrow-next"></div>
+            </div> 
+            <div class="swiper-wrapper">
+                <div class="swiper-slide projects__col only-link in-progress">
+    
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-dad-is-the-leader.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Мой папа вождь»
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     
+</div><div class="swiper-slide projects__col only-link in-progress no-img">
+    <a  target="_blank" href="https://www.kinopoisk.ru/film/1115471/">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-voland.jpg); background-color: #BD5454">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Воланд»
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link in-progress">
+    <a  target="_blank" href="https://www.kino-teatr.ru/kino/movie/ros/131085/annot/">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-heart-parma.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Сердце Пармы»
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link in-progress">
+    <a  target="_blank" href="https://www.film.ru/movies/beshenstvo-1">
+        <div class="projects__img" style="background-image: url(assets/template/images/projects/pr-rabies.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм «Бешенство»
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col only-link in-progress no-img">
+    <a  target="_blank" href="https://www.kinopoisk.ru/series/4642890/">
+        <div class="projects__img" style="background-image: url(); background-color: #5098A8">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Сериал «Там где цветет полынь»
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div><div class="swiper-slide projects__col ">
+    <a data-fancybox  href="https://www.youtube.com/watch?v=MqGrdYfhFt4">
+        <div class="projects__img" style="background-image: url(146926.jpg); background-color: ">
+          <div class="projects__content">
+              <div class="projects__col-icon"></div>
+              <div class="projects__col-title">
+                  Фильм "Вызов"
+              </div>
+              <div class="projects__col-year">
+                  2022
+              </div>
+          </div>
+        </div>
+     </a>
+</div>
+            </div>
+        </div>  
+      </div>
+    </div>
+</section>
+
+<section class="services-l">
+     <div style="background-image:url('/assets/template/images/services-fon-1.jpg')"
+         class="services-l__item">
+        <div class="row-st services-l__content">
+            <div class="services-l__main">
+                <div class="services-l__top">
+                    <div class="title-40 services-l__top-title">Услуги</div>
+                    <div class="title-80 services-l__top-num"></div>
+                </div>
+                <div class="services-l__wrap">
+                    <div class="title-40 services-l__title">
+                        3D-сканирование людей, животных и реквизита
+                    </div>
+                    <div class="services-l__text">
+                        <p>3D-сканирование по технологии фотограмметрии и фотометрик стерео в ААА-качестве. В студии или на локации.</p>
+<ul>
+<li>Матрица 3D сканеров - 200 профессиональных DSLR-камер;</li>
+<li>Скорость сканирования - 0,01 сек;</li>
+<li>100% фотореалистичность.</li>
+</ul>
+                    </div>
+                </div>
+            </div>
+            <div class="services-l__bot"><a
+                    class="services-l__link"
+                    href="/3d-scanning"><span
+                    class="title-24">Подробнее</span>
+                <svg width="43" height="30" viewBox="0 0 43 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M27 2l12.82 13L27 28M0 15h40" stroke="#009FE3" stroke-width="4"
+                          stroke-miterlimit="3"></path>
+                </svg>
+            </a></div>
+        </div>
+    </div> <div style="background-image:url('/assets/template/images/services-fon-2.jpg')"
+         class="services-l__item">
+        <div class="row-st services-l__content">
+            <div class="services-l__main">
+                <div class="services-l__top">
+                    <div class="title-40 services-l__top-title">Услуги</div>
+                    <div class="title-80 services-l__top-num"></div>
+                </div>
+                <div class="services-l__wrap">
+                    <div class="title-40 services-l__title">
+                        3D-сканирование мимики и создание blend shapes
+                    </div>
+                    <div class="services-l__text">
+                        <p><span>Сканирование мимики - эмоций, фонем и визем для лицевой анимации. Применяем технологии фотограмметрии и фотометрик стерео для микродетализации кожи.</span></p>
+                    </div>
+                </div>
+            </div>
+            <div class="services-l__bot"><a
+                    class="services-l__link"
+                    href="/blendshapes"><span
+                    class="title-24">Подробнее</span>
+                <svg width="43" height="30" viewBox="0 0 43 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M27 2l12.82 13L27 28M0 15h40" stroke="#009FE3" stroke-width="4"
+                          stroke-miterlimit="3"></path>
+                </svg>
+            </a></div>
+        </div>
+    </div> <div style="background-image:url('/assets/template/images/services-fon-6.jpg')"
+         class="services-l__item">
+        <div class="row-st services-l__content">
+            <div class="services-l__main">
+                <div class="services-l__top">
+                    <div class="title-40 services-l__top-title">Услуги</div>
+                    <div class="title-80 services-l__top-num"></div>
+                </div>
+                <div class="services-l__wrap">
+                    <div class="title-40 services-l__title">
+                        Выездное 3D-сканирование на локации клиента
+                    </div>
+                    <div class="services-l__text">
+                        <div class="services-l__text">
+<p class="title-32 text-big">Оптимальное решение для создания аватаров селебов, актеров и массовки.</p>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div class="services-l__bot"><a
+                    class="services-l__link"
+                    href="/rent-3d"><span
+                    class="title-24">Подробнее</span>
+                <svg width="43" height="30" viewBox="0 0 43 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M27 2l12.82 13L27 28M0 15h40" stroke="#009FE3" stroke-width="4"
+                          stroke-miterlimit="3"></path>
+                </svg>
+            </a></div>
+        </div>
+    </div> <div style="background-image:url('/assets/template/images/service-top-fon-influenser-1.jpg')"
+         class="services-l__item">
+        <div class="row-st services-l__content">
+            <div class="services-l__main">
+                <div class="services-l__top">
+                    <div class="title-40 services-l__top-title">Услуги</div>
+                    <div class="title-80 services-l__top-num"></div>
+                </div>
+                <div class="services-l__wrap">
+                    <div class="title-40 services-l__title">
+                        Виртуальные инфлюенсеры и ассистенты
+                    </div>
+                    <div class="services-l__text">
+                        <p>Создание кастомных реалистичных виртуальных инфлюенсеров для брендов, цифровых блоггеров и виртуальных ассистентов.</p>
+<p>Обеспечиваем полный цикл создания персонажа и цифрового контента с ним.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="services-l__bot"><a
+                    class="services-l__link"
+                    href="/virtualinfluencer"><span
+                    class="title-24">Подробнее</span>
+                <svg width="43" height="30" viewBox="0 0 43 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M27 2l12.82 13L27 28M0 15h40" stroke="#009FE3" stroke-width="4"
+                          stroke-miterlimit="3"></path>
+                </svg>
+            </a></div>
+        </div>
+    </div>
+</section>
+
+
+<section class="faq">
+    <div class="row-st faq__row">
+        <div class="title-48 faq__title">
+            FAQ
+        </div>
+        <div class="title-24 faq__text">
+            Тут вы найдете ответы на наиболее часто задаваемые вопросы. Если вы не можете найти ответ здесь, пожалуйста, не стесняйтесь обращаться к нам.
+        </div>
+        <div class="faq__list">
+            <div class="accordion-item open">
+    <div class="accordion-head">
+        Нужно ли заранее записываться на сканирование?
+    </div>
+    <div class="accordion-content">
+        <p>Сканирование в студии осуществляется по предварительной записи, минимум за один рабочий день до планируемой даты сканирования. Наиболее надежным вариантом бронирования удобной даты или нескольких дней является заблаговременное заключение договора с нашей студией с фиксацией в нем конкретных дат и времени сканирования.</p>
+    </div>
+</div>
+<div class="accordion-item ">
+    <div class="accordion-head">
+        Какие существуют требования к одежде для успешного сканирования?
+    </div>
+    <div class="accordion-content">
+        <p>Для гарантии качественной сборки 3D-скана рекомендуем избегать черного цвета в одежде, а также блестящих, прозрачных и полупрозрачных материалов, элементов и аксессуаров.</p>
+    </div>
+</div>
+<div class="accordion-item ">
+    <div class="accordion-head">
+        Можно ли сканировать детей?
+    </div>
+    <div class="accordion-content">
+        <p>Применяемая нами технология фотограмметрии абсолютна безопасна для здоровья и позволяет сканировать моментально, за 0,01 сек. Поэтому у нас можно сканировать даже совсем маленьких детей.</p>
+    </div>
+</div>
+<div class="accordion-item ">
+    <div class="accordion-head">
+        Можно ли сканировать животных?
+    </div>
+    <div class="accordion-content">
+        <p>Применяемая нами технология фотограмметрии позволяет сканировать моментально, за 0,01 сек. Поэтому у нас можно сканировать домашних и сельскохозяйственных животных. Сканирование крупных животных, например, лошадей, осуществляется только в рамках выездного сканирования на локации.</p>
+    </div>
+</div>
+<div class="accordion-item ">
+    <div class="accordion-head">
+        В каком случае предоставляются скидки?
+    </div>
+    <div class="accordion-content">
+        <p>Мы предоставляем скидки в случае заказа свыше 5-ти 3D-моделей, а также на выездные сканирования на локации от 3-х смен. Расчет размера скидки осуществляется индивидуально.</p>
+    </div>
+</div>
+<div class="accordion-item ">
+    <div class="accordion-head">
+        Возможен ли заказать у вас сканирование на локации с выездом в другой регион или страну?
+    </div>
+    <div class="accordion-content">
+        <p>Наш 3D-сканер мобилен, возможен его вывоз на локацию в другой регион России, а также в страны Таможенного союза и страны-участницы таможенной системы Карнет АТА. Расчет стоимости выездного сканирования осуществляется индивидуально и включает в себя работу сканера, а также расходы на транспортировку оборудования и трансфер двух сотрудников студии.</p>
+    </div>
+</div>
+<div class="accordion-item ">
+    <div class="accordion-head">
+        Кому принадлежат авторские права на 3D-модели после сканирования?
+    </div>
+    <div class="accordion-content">
+        <p>Авторские права на интеллектуальную собственность - 3D-модели - переходят к клиенту после полной оплаты наших услуг по сканированию или моделированию.</p>
+    </div>
+</div>
+
+        </div> 
+    </div>
+</section>
+
+ <section class="order">
+        <div class="row-st order__row">
+        <div class="order__content">
+            <div class="title-40 order__title">
+                Остались вопросы?
+            </div>
+            <div class="order__text">
+                Подробно расскажем об этапах работ и сроках, сориентируем по стоимости
+            </div>
+            <form method="post" id="cta_form" class="order__form ajax_form" action="1" enctype="multipart/form-data">
+    <div class="order__form-row">
+        <div class="order__form-col float-parents">
+            <input name="name" type="text" id="name-l" class="floatLabel" placeholder="Ваше имя">
+            <div class="error error_name"></div> 
+        </div>
+    </div>
+    <div class="order__form-row">
+        <div class="order__form-col float-parents">
+            <input name="company" type="text" id="company-l" class="floatLabel" placeholder="Компания">
+            <div class="error error_company"></div> 
+        </div>
+    </div>
+    <div class="order__form-row">
+        <div class="order__form-col order__form-col_half float-parents">
+            <input name="email" type="text" id="email-l" class="floatLabel" placeholder="E-mail">
+            <div class="error error_email"></div> 
+        </div>
+        <div class="order__form-col order__form-col_half float-parents">
+            <input name="web-site" type="text" id="web-site-l" class="floatLabel" placeholder="Web-site">
+            <div class="error error_web-site"></div> 
+        </div>
+    </div>
+    <div class="order__form-row">
+        <div class="order__form-col float-parents">
+            <input name="question" type="text" id="question-l" class="floatLabel" placeholder="Вопросы и предложения">
+            <div class="error error_question"></div> 
+        </div>
+    </div>
+    <div class="order__form-row">
+        <div class="order__form-col">
+            <div class="order__form-add"> 
+                <input name="form_file" id="file" class="inputfile" multiple type="file">
+                <label for="file"><span>Загрузить файл</span></label> 
+            </div>
+        </div>
+    </div>
+    <div class="order__form-row">
+        <div class="order__form-col">
+            <button type="submit" class="order__form-btn">Отправить</button>
+        </div>
+    </div>
+  <div class="order__form-row">
+    <div class="order__form-col">
+      <div class="order__form-access">
+        Нажимая на кнопку «Записаться»,
+        вы соглашаетесь с 
+          <a href="/">
+            условиями обработки данных
+            и пользовательским соглашением.
+          </a>
+      </div>
+    </div>
+  </div>
+
+	<input type="hidden" name="af_action" value="6291c36b6e78720f281cbbea92c9f56c" />
+</form>
+        </div>
+    </div>
+</section>
+
+</div>
+<div class="footer">
+    <div class="row-st footer__row">
+        <div class="footer__top">
+            <div class="footer__logo"><a
+                    class="footer__logo-link" href="/">Twin3D</a></div>
+            <div class="footer__contacts">
+                <div class="footer__email"><a href="mailto:info@twin3d.ru" class="footer__email-link">info@twin3d.ru</a>
+                </div>
+                <div class="footer__phone"><a href="tel:+7 495 125-34-35" class="footer__phone-link">+7 495 125-34-35</a></div>
+            </div>
+        </div>
+        <div class="footer__menu">
+            <div class="footer__menu-col">
+                <div class="footer__menu-title">Услуги</div>
+                <ul class="footer__menu-list">
+                    <li><a href="virtualinfluencer">Виртуальные
+                        инфлюенсеры и ассистенты</a></li>
+                    <li><a href="3d-scanning">3D-сканирование в
+                        полный рост</a></li>
+                    <li><a href="blendshapes">3D-сканирование
+                        мимики</a></li>
+                    <li><a href="scanning-of-animals">3D-сканирование
+                        животных и реквизита</a></li>
+                    <li><a href="rent-3d">Выездное сканирование</a></li>
+                </ul>
+            </div>
+            <div class="footer__menu-col">
+                <div class="footer__menu-title"><a href="projects">Проекты</a>
+                </div>
+            </div>
+            <div class="footer__menu-col">
+                <div class="footer__menu-title">О нас</div>
+                <ul class="footer__menu-list">
+                    <li><a href="about">О компании</a></li>
+                    <li><a href="news/">Новости</a></li>
+                    <li><a href="payment">Оплата</a></li>
+                    <li><a href="management">Менеджмент</a></li>
+                </ul>
+            </div>
+            <div class="footer__menu-col">
+                <div class="footer__menu-title"><a href="contacts">Контакты</a>
+                </div>
+            </div>
+        </div>
+        <div class=" footer__contacts-info">
+            <div class="footer__address">г. Москва, ул. Орджоникидзе, д.11, стр.1А, блок “В”, подъезд №26, пом. 3</div>
+            <div class="footer__social">
+                <div class="jsx-3680227529 jsx-1354304200 footer__sk"><img src="assets/template/images/sk_resident2ru.jpg" alt=""></div>
+                <a href="https://www.facebook.com/twin3d/" target="_blank">
+                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M43.2 0H4.8C2.16 0 0 2.16 0 4.8v38.4C0 45.84 2.16 48 4.8 48h38.4c2.64 0 4.8-2.16 4.8-4.8V4.8C48 2.16 45.84 0 43.2 0zM30 16.44h-2.88c-.96 0-1.56.36-1.56 1.32v1.68H30L29.64 24h-4.2v12h-4.56V24H18v-4.56h3v-2.88c0-3 1.56-4.56 5.16-4.56H30v4.44z"
+                              fill="#009FE3"></path>
+                    </svg>
+                </a><a href="https://www.instagram.com/twin_3d/" target="_blank" >
+                <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M24.12 16.44c-4.2 0-7.56 3.36-7.56 7.56 0 4.2 3.36 7.56 7.56 7.56 4.2 0 7.56-3.36 7.56-7.56 0-4.2-3.36-7.56-7.56-7.56z"
+                          fill="#009FE3"></path>
+                    <path d="M43.2 0H4.8C2.16 0 0 2.16 0 4.8v38.4C0 45.84 2.16 48 4.8 48h38.4c2.64 0 4.8-2.16 4.8-4.8V4.8C48 2.16 45.96 0 43.2 0zM24.12 35.76c-6.48 0-11.64-5.28-11.64-11.76 0-6.48 5.28-11.64 11.64-11.64 6.48 0 11.64 5.28 11.64 11.64 0 6.48-5.16 11.76-11.64 11.76zm12.12-21.12c-1.56 0-2.76-1.2-2.76-2.76 0-1.56 1.2-2.76 2.76-2.76 1.56 0 2.76 1.2 2.76 2.76 0 1.56-1.2 2.76-2.76 2.76z"
+                          fill="#009FE3"></path>
+                </svg>
+            </a><a href="https://www.linkedin.com/company/twin3d" target="_blank" >
+                <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M43.2 0H4.8C2.16 0 0 2.16 0 4.8v38.4C0 45.84 2.16 48 4.8 48h38.4c2.64 0 4.8-2.16 4.8-4.8V4.8C48 2.16 45.84 0 43.2 0zM16.92 36.48h-5.76V18.24h5.64v18.24h.12zm-2.88-20.76c-1.8 0-3.24-1.44-3.24-3.24 0-1.8 1.44-3.24 3.24-3.24 1.8 0 3.24 1.44 3.24 3.24 0 1.8-1.44 3.24-3.24 3.24zm24.12 20.76h-5.64V27.6c0-2.16 0-4.8-3-4.8s-3.36 2.28-3.36 4.68v9H20.4V18.24h5.4v2.52h.12c.72-1.44 2.64-3 5.4-3 5.76 0 6.84 3.84 6.84 8.76v9.96z"
+                          fill="#009FE3"></path>
+                </svg>
+            </a><a href="https://www.artstation.com/twin3d_company" target="_blank" class="jsx-3680227529 jsx-1354304200"><svg width="48" height="48" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5 0a5 5 0 0 0-5 5v18a5 5 0 0 0 5 5h18a5 5 0 0 0 5-5V5a5 5 0 0 0-5-5H5zm2.207 19.53l-1.374-2.316h10.112l1.884 3.203H8.674c-.633 0-1.189-.361-1.467-.888zm14.697-3.174c.17.256.263.557.263.873 0 .36-.078.541-.325.962l-1.312 2.21-8.29-13.984h2.84c.634 0 1.174.346 1.452.857l5.372 9.082zM10.882 8.688l3.705 6.24h-7.41l3.705-6.24z" fill="#009FE3"></path></svg></a>
+            <a href="https://sketchfab.com/twin3d_company" target="_blank" class="jsx-3680227529 jsx-1354304200"><svg width="48" height="48" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M5 0a5 5 0 0 0-5 5v18a5 5 0 0 0 5 5h18a5 5 0 0 0 5-5V5a5 5 0 0 0-5-5H5zm2 9.84l6.997 3.677 6.997-3.678-6.997-4.006L7 9.84zm.032 8.943l5.911 3.382v-7.038l-5.911-3.17v6.826zM21 18.795l-5.89 3.372V15.15L21 11.998v6.797z" fill="#009FE3"></path></svg></a>
+            </div>
+        </div>
+        <div class="footer__links"><a href="policy">Политика в отношении
+            обработки персональных данных</a></div>
+        <div class="footer__copy">© 2013-2022 ООО "Твин3Д". Все
+            права на фотографии принадлежат компании ООО "Твин3Д" и защищены российским законодательством об авторском и
+            смежных правах. Использование материалов возможно только с предварительного письменного согласия
+            правообладателей.
+        </div>
+    </div>
+</div>
+
+</div>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+    if (screen && screen.width > 767 && $('.first-section__img').length > 0) {
+        document.write('<script type="text/javascript" src="/assets/template/dist/695.c4a1bc46.js"><\/script><script type="text/javascript" src="/assets/template/dist/app.6941813e.js"><\/script>');
+        $('#texture2D').attr('src', '/public/model/head_diffuse.jpg');
+    }
+    </script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="assets/template/javascripts/bootstrap.min.js"></script>
+    <script src="assets/template/javascripts/chosen.jquery.js"></script>
+    <script type="text/javascript" src="assets/template/javascripts/jquery.mCustomScrollbar.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/js/swiper.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.2/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="assets/template/javascripts/jquery.inputmask.js"></script>
+    <script type="text/javascript" src="assets/template/javascripts/jquery.datetimepicker.full.min.js"></script>
+    <script type="text/javascript" src="assets/template/javascripts/custom.js"></script>
+    
+    
+<script src="/assets/components/ajaxform/js/default.js"></script>
+<script type="text/javascript">AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script>
+</body>
+</html>
+
+

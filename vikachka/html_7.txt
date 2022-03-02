@@ -1,0 +1,909 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://softprime.com.ua/xmlrpc.php">
+
+    <title>SoftPrime &#8212; Лучшие программы и приложения iOS, Android. Обзор лицензионных программ и приложений iOS, Android</title>
+        <style type="text/css">
+                        body .inner-header-overlay {
+                filter: alpha(opacity=42);
+                opacity: .42;
+            }
+
+            .site .section-overlay{
+                filter: alpha(opacity=74);
+                opacity: .74;
+            }
+
+            body .owl-carousel .owl-item.active .single-slide:after {
+                content: "";
+            }
+
+            
+                        body button,
+            body input[type="button"],
+            body input[type="reset"],
+            body input[type="submit"],
+            body .scroll-up:hover,
+            body .scroll-up:focus,
+            body .btn-link-primary,
+            body .wp-block-quote,
+            body .menu-description,
+            .site .twp-content-details .continue-reading,
+            .site .mc4wp-form-fields input[type="submit"],
+            .cover-stories-featured .twp-content-details .continue-reading:before,
+            .cover-stories-featured .twp-content-details .continue-reading:after{
+                background: #d72828;
+            }
+
+            body .btn-link:link:hover,
+            body .btn-link:visited:hover,
+            .site .widget:not(.knight_social_widget) ul li a:hover,
+            .site .widget:not(.knight_social_widget) ul li a:focus{
+                color: #d72828;
+            }
+
+            body button,
+            body input[type="button"],
+            body input[type="reset"],
+            body input[type="submit"],
+            body .btn-link,
+            body .site-footer .author-info .profile-image,
+            .site .twp-content-details .continue-reading-wrapper:before{
+                border-color: #d72828;
+            }
+
+            .site .twp-content-details .continue-reading:after{
+                border-left-color: #d72828;
+            }
+
+            @media only screen and (min-width: 992px) {
+                body .main-navigation .menu > ul > li:hover > a,
+                body .main-navigation .menu > ul > li:focus > a,
+                body .main-navigation .menu > ul > li.current-menu-item > a {
+                    color: #d72828;
+                }
+            }
+
+            
+                        body .primary-bgcolor,
+            body button:hover,
+            body button:focus,
+            body input[type="button"]:hover,
+            body input[type="button"]:focus,
+            body input[type="reset"]:hover,
+            body input[type="reset"]:focus,
+            body input[type="submit"]:hover,
+            body input[type="submit"]:focus,
+            body .scroll-up {
+                background-color: #161f30;
+            }
+
+            body .primary-textcolor {
+                color: #161f30;;
+            }
+
+            body button:hover,
+            body button:focus,
+            body input[type="button"]:hover,
+            body input[type="button"]:focus,
+            body input[type="reset"]:hover,
+            body input[type="reset"]:focus,
+            body input[type="submit"]:hover,
+            body input[type="submit"]:focus {
+                border-color: #161f30;
+            }
+
+            
+                        body .site-footer .footer-bottom {
+                background: #0f0f0f;
+            }
+
+            
+            
+            
+                        body h1,
+            body h2,
+            body h3,
+            body h4,
+            body h5,
+            body h6,
+            body .main-navigation a,
+            body .primary-font {
+                font-family: Roboto Condensed !important;
+            }
+
+            
+                        body,
+            body button,
+            body input,
+            body select,
+            body textarea,
+            body .secondary-font {
+                font-family: Roboto !important;
+            }
+
+            
+                        body .site, body .site button, body .site input, body .site select, body .site textarea {
+                font-size: 18px;
+            }
+
+            
+
+                        @media only screen and (min-width: 768px){
+                body .site .slide-title {
+                    font-size: 58px !important;
+                }
+            }
+            
+                        @media only screen and (min-width: 768px){
+                body .site .entry-title {
+                    font-size: 44px !important;
+                }
+            }
+            
+                        @media only screen and (min-width: 768px){
+                body .site .entry-title.entry-title-small {
+                    font-size: 22px !important;
+                }
+            }
+            
+
+
+        </style>
+
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SoftPrime &raquo; Лента" href="https://softprime.com.ua/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/softprime.com.ua\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://softprime.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='owlcarousel-css'  href='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/owlcarousel/css/owl.carousel.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css'  href='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/ionicons/css/ionicons.min.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/bootstrap/css/bootstrap.min.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/magnific-popup/magnific-popup.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='knight-style-css'  href='https://softprime.com.ua/wp-content/themes/knight/style.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='knight-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%20Condensed:400,700|Roboto:100,300,400,500,700' type='text/css' media='all' />
+<script type='text/javascript' src='https://softprime.com.ua/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://softprime.com.ua/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://softprime.com.ua/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://softprime.com.ua/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.8" />
+
+</head>
+
+<body class="home blog group-blog hfeed right-sidebar home-content-not-enabled">
+<!-- full-screen-layout/boxed-layout -->
+<div id="page" class="site site-bg full-screen-layout">
+    <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+    <header id="masthead" class="site-header" role="banner">
+        <div class="top-bar">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-xs-12">
+                        <div class="tm-social-share">
+                            <div class="social-icons">
+                                                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-xs-12 pull-right icon-search">
+                        <form role="search" method="get" class="search-form" action="https://softprime.com.ua/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form>                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="top-branding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="site-branding">
+                                                            <span class="site-title primary-font">
+                                <a href="https://softprime.com.ua/" rel="home">
+                                    SoftPrime                                </a>
+                            </span>
+                                                            <p class="site-description">
+                                   <span>Лучшие программы и приложения iOS, Android. Обзор лицензионных программ и приложений iOS, Android</span>
+                                </p>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="top-header">
+            <nav class="main-navigation" role="navigation">
+                <span class="toggle-menu" aria-controls="primary-menu" aria-expanded="false">
+                     <span class="screen-reader-text">
+                        Primary Menu                    </span>
+                    <i class="ham"></i>
+                </span>
+                <div class="menu"><ul id="primary-menu" class="menu"><li id="menu-item-22" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-22"><a href="https://softprime.com.ua/category/programmy/">ПРОГРАММЫ</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23"><a href="https://softprime.com.ua/category/sistemy/">СИСТЕМЫ</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24"><a href="https://softprime.com.ua/category/prilozheniya/">ПРИЛОЖЕНИЯ</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25"><a href="https://softprime.com.ua/category/programmisty-rekomenduyut/">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26"><a href="https://softprime.com.ua/category/poleznoe/">ПОЛЕЗНОЕ</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27"><a href="https://softprime.com.ua/category/operatsionnye-sistemy/">ОПЕРАЦИОННЫЕ СИСТЕМЫ</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28"><a href="https://softprime.com.ua/category/razrabotki-it/">РАЗРАБОТКИ IT</a></li>
+</ul></div>            </nav>
+        </div>
+
+    </header>
+    <!-- #masthead -->
+
+    <!-- Innerpage Header Begins Here -->
+            <section class="twp-slider-wrapper">
+            <div class="container container-sm">
+                                <div class="twp-slider-1 twp-slider " data-slick='{"rtl": false}'>
+                                                <div class="single-slide">
+                                                                    <div class="slide-bg bg-image animated">
+                                        <img src="https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11.jpg">
+                                    </div>
+                                                                <div class="slide-text animated secondary-textcolor">
+                                    <div class="table-align">
+                                        <div class="table-align-cell v-align-bottom">
+                                            <h2 class="slide-title">Почему именно Carbon black?</h2>
+                                                                                            <p class="visible hidden-xs hidden-sm">Carbon black сегодня используется практически каждая уважающая себя компания. Защита конечных точек сети является приоритетной задачей для структур различного направления.</p>
+                                                                                        <a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/" class="btn-link btn-link-primary">
+                                                Подробнее <i class="ion-ios-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="single-slide">
+                                                                    <div class="slide-bg bg-image animated">
+                                        <img src="https://softprime.com.ua/wp-content/uploads/2020/11/mu.jpg">
+                                    </div>
+                                                                <div class="slide-text animated secondary-textcolor">
+                                    <div class="table-align">
+                                        <div class="table-align-cell v-align-bottom">
+                                            <h2 class="slide-title">На что нужно обратить внимание при выборе компании, которая проведет техническую защиту данных вашей компании?</h2>
+                                                                                            <p class="visible hidden-xs hidden-sm">Не редко для внедрения защитных информационных безопасность и сохранность данных или модернизация уже имеющихся программ, владельцы малого и среднего бизнеса</p>
+                                                                                        <a href="https://softprime.com.ua/programmy/na-chto-nuzhno-obratit-vnimanie-pri-vybore-kompanii-kotoraya-provedet-tehnicheskuyu-zashhitu-dannyh-vashej-kompanii/" class="btn-link btn-link-primary">
+                                                Подробнее <i class="ion-ios-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="single-slide">
+                                                                    <div class="slide-bg bg-image animated">
+                                        <img src="https://softprime.com.ua/wp-content/uploads/2020/12/2.png">
+                                    </div>
+                                                                <div class="slide-text animated secondary-textcolor">
+                                    <div class="table-align">
+                                        <div class="table-align-cell v-align-bottom">
+                                            <h2 class="slide-title">Помощники для разных ОП (операционных систем)</h2>
+                                                                                            <p class="visible hidden-xs hidden-sm">IOS и Android – это две конкурирующих ОП, которые имеют своих сторонников и противников, т.к. отличаются определенными особенностями. (далее&hellip;)</p>
+                                                                                        <a href="https://softprime.com.ua/programmy/pomoshhniki-dlya-raznyh-op-operatsionnyh-sistem/" class="btn-link btn-link-primary">
+                                                Подробнее <i class="ion-ios-arrow-right"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+        </section>
+        <!-- end slider-section -->
+            <!-- Innerpage Header Ends Here -->
+    <div id="content" class="site-content">
+    <div id="primary" class="content-area">
+        <main id="main" class="site-main" role="main">
+
+            <div class='knight-posts-lists'>
+<article id="post-151" class="post-151 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-programmisty-rekomenduyut tag-arendovat-kayak tag-kanoe-i-kayak tag-katanie-na-bajdarkah tag-kayak-v-herentals tag-kayaking-v-belgii tag-kayaking-v-reti tag-prokat-kayakov">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/programmisty-rekomenduyut/kajakken-herentals/" title="Как каякинг в Бельгии влияет на психическое состояние?">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2021/10/14/" rel="bookmark"><time class="entry-date published" datetime="2021-10-14T19:01:50+03:00">14.10.2021</time><time class="updated" datetime="2022-01-09T22:20:58+03:00">09.01.2022</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/programmisty-rekomenduyut/kajakken-herentals/">Как каякинг в Бельгии влияет на психическое состояние?</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Неоднократно опытные каякеры говорят, что самым любимым местом для катания на байдарках и других видах лодок является океан. Там они чувствуют себя максимально маленькими и поглощёнными природой.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-128" class="post-128 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe tag-almaznaya-rezka-betona tag-almaznaya-rezka-betona-kiev tag-rezka-betona tag-rezka-betona-tsena">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/poleznoe/etapy-almaznoj-rezki/" title="Этапы алмазной резки">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2021/08/05/" rel="bookmark"><time class="entry-date published" datetime="2021-08-05T14:04:47+03:00">05.08.2021</time><time class="updated" datetime="2021-08-30T12:09:52+03:00">30.08.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/poleznoe/etapy-almaznoj-rezki/">Этапы алмазной резки</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Алмазная техника обработки поверхности бетона и других твердых материалов, применяемых в сфере строительства, позволяет выполнять работы любой сложности в максимально сжатые сроки.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-144" class="post-144 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe tag-viniry tag-viniry-kiev tag-viniry-kupit tag-viniry-na-zuby tag-viniry-nedorogo-kiev tag-viniry-stoimost-kiev tag-viniry-tsena">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/poleznoe/chto-takoe-viniry-na-zuby/" title="Что такое виниры на зубы?">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/452fc95b4d2eebfa9bc5a88b8814c3e3?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/452fc95b4d2eebfa9bc5a88b8814c3e3?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/teditor/">teditor teditor</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2021/08/03/" rel="bookmark"><time class="entry-date published" datetime="2021-08-03T15:48:54+03:00">03.08.2021</time><time class="updated" datetime="2021-10-25T16:31:28+03:00">25.10.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/poleznoe/chto-takoe-viniry-na-zuby/">Что такое виниры на зубы?</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Для кого-то, слово виниры, это что-то из области фантастики. Ну а другие прекрасно знают, что это одно и ноу-хау в мире эстетической стоматологии.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-94" class="post-94 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-programmisty-rekomenduyut category-programmy category-razrabotki-it category-sistemy tag-carbon-black-tsena tag-zakazat-vmware-carbon-black tag-zashhita-konechnyh-tochek-seti tag-zashhita-ot-tselevyh-atak tag-preimushhestva-vmware-carbon-black">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/" title="Почему именно Carbon black?">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2021/04/05/" rel="bookmark"><time class="entry-date published" datetime="2021-04-05T12:28:04+03:00">05.04.2021</time><time class="updated" datetime="2021-04-27T15:28:39+03:00">27.04.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>/<a href="https://softprime.com.ua/category/programmy/" rel="category tag">ПРОГРАММЫ</a>/<a href="https://softprime.com.ua/category/razrabotki-it/" rel="category tag">РАЗРАБОТКИ IT</a>/<a href="https://softprime.com.ua/category/sistemy/" rel="category tag">СИСТЕМЫ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/">Почему именно Carbon black?</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Carbon black сегодня используется практически каждая уважающая себя компания. Защита конечных точек сети является приоритетной задачей для структур различного направления.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-59" class="post-59 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-prilozheniya category-programmisty-rekomenduyut tag-baza-dlya-rieltorov tag-programma-crm tag-programma-dlya-rieltorov tag-rieltorskaya-baza-dannyh">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/prilozheniya/pochemu-rieltoram-stoit-ispolzovat-bazy/" title="Почему риелторам стоит использовать базы">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/01/1ffee5477a63b54f46f88b809a4f252c-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2021/01/27/" rel="bookmark"><time class="entry-date published" datetime="2021-01-27T22:55:01+03:00">27.01.2021</time><time class="updated" datetime="2021-04-05T12:15:43+03:00">05.04.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/prilozheniya/" rel="category tag">ПРИЛОЖЕНИЯ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/prilozheniya/pochemu-rieltoram-stoit-ispolzovat-bazy/">Почему риелторам стоит использовать базы</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Каждый риелтор знает, сколько времени нужно потратить на то, чтобы провести сделку от начала до получения прибыли.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-37" class="post-37 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-razrabotki-it tag-kupit-chehly-dlya-ipad-8-kiev tag-chehly-dlya-ipad-8-kiev tag-chehly-dlya-ipad-8-tsena tag-chehly-k-ipad-8">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/poleznoe/chehly-dlya-ipad-8-v-kieve-osobennosti-i-preimushhestva-aksessuarov/" title="Чехлы для Ipad 8 в Киеве: особенности и преимущества аксессуаров">
+                         <img width="1000" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/01/kupit-chehly-dlya-Ipad-8-1000x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2020/12/08/" rel="bookmark"><time class="entry-date published" datetime="2020-12-08T23:06:50+03:00">08.12.2020</time><time class="updated" datetime="2021-01-13T01:05:12+03:00">13.01.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/razrabotki-it/" rel="category tag">РАЗРАБОТКИ IT</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/poleznoe/chehly-dlya-ipad-8-v-kieve-osobennosti-i-preimushhestva-aksessuarov/">Чехлы для Ipad 8 в Киеве: особенности и преимущества аксессуаров</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Чехлы для Ipad 8 можно сравнить с оправой, которая используется для бриллианта.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-79" class="post-79 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-programmisty-rekomenduyut tag-montazh-santehnicheskih-peregorodok tag-peregorodki-tsena tag-steklyannye-peregorodki tag-tualetnye-kabiny">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/programmisty-rekomenduyut/tualetnye-peregorodki-iz-ldsp/" title="Туалетные перегородки из ЛДСП">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/04/Santehnicheskie-peregorodki-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2020/12/02/" rel="bookmark"><time class="entry-date published" datetime="2020-12-02T14:24:06+03:00">02.12.2020</time><time class="updated" datetime="2021-04-05T12:21:29+03:00">05.04.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/programmisty-rekomenduyut/tualetnye-peregorodki-iz-ldsp/">Туалетные перегородки из ЛДСП</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Туалетные перегородки служат для разделения сантехнического пространства.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-49" class="post-49 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-programmisty-rekomenduyut tag-kupit-chehol-dlya-iphone-12 tag-chehly-dlya-iphone-12-v-kieve tag-chehol-dlya-iphone-12 tag-chehol-k-ajfon-12">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/programmisty-rekomenduyut/chehly-dlya-iphone-12/" title="Чехлы для iPhone 12">
+                         <img width="1000" height="576" src="https://softprime.com.ua/wp-content/uploads/2021/04/ESR-iPhone-12-case-1000x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2020/11/30/" rel="bookmark"><time class="entry-date published" datetime="2020-11-30T09:05:08+03:00">30.11.2020</time><time class="updated" datetime="2021-04-05T12:18:42+03:00">05.04.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/programmisty-rekomenduyut/chehly-dlya-iphone-12/">Чехлы для iPhone 12</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Став счастливым владельцем современного гаджета, стоит подобрать чехол для iPhone 12, способный защитить корпус смартфона от большинства механических повреждений.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-30" class="post-30 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe tag-avtokresla-tsena tag-avtokreslo-kupit-kiev tag-detskie-avtokresla-kupit tag-detskoe-avtokreslo">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/poleznoe/avtokreslo-bezopasnoe-i-komfortnoe-prisposoblenie-dlya-detok-raznogo-vozrasta/" title="Автокресло – безопасное и комфортное приспособление для деток разного возраста!">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2020/12/maxresdefault-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2020/12/maxresdefault-1024x576.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2020/12/maxresdefault-300x169.jpg 300w, https://softprime.com.ua/wp-content/uploads/2020/12/maxresdefault-768x432.jpg 768w, https://softprime.com.ua/wp-content/uploads/2020/12/maxresdefault.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2020/11/27/" rel="bookmark"><time class="entry-date published" datetime="2020-11-27T09:24:39+03:00">27.11.2020</time><time class="updated" datetime="2020-12-12T18:14:55+03:00">12.12.2020</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/poleznoe/avtokreslo-bezopasnoe-i-komfortnoe-prisposoblenie-dlya-detok-raznogo-vozrasta/">Автокресло – безопасное и комфортное приспособление для деток разного возраста!</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>На сегодняшний день автокресло детское можно встретить практически в каждом автомобиле.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+
+<article id="post-42" class="post-42 post type-post status-publish format-standard has-post-thumbnail hentry category-poleznoe category-programmisty-rekomenduyut category-programmy category-razrabotki-it category-sistemy tag-audit-informatsionnoj-bezopasnosti tag-informatsionnaya-bezopasnost tag-politika-informatsionnoj-bezopasnosti">
+        <div class="twp-article-wrapper ">
+                                      <div class='twp-content-image'>
+                     <a href="https://softprime.com.ua/programmy/na-chto-nuzhno-obratit-vnimanie-pri-vybore-kompanii-kotoraya-provedet-tehnicheskuyu-zashhitu-dannyh-vashej-kompanii/" title="На что нужно обратить внимание при выборе компании, которая проведет техническую защиту данных вашей компании?">
+                         <img width="1024" height="576" src="https://softprime.com.ua/wp-content/uploads/2020/11/mu-1024x576.jpg" class="attachment-knight-archive-post size-knight-archive-post wp-post-image" alt="" loading="lazy" />                     </a>
+                 </div>
+                         <div class="twp-knight-article" style="background-color: #fafafa; color: #666;">
+                <header class="article-header">
+                    <div class="entry-meta">
+                        <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2020/11/21/" rel="bookmark"><time class="entry-date published" datetime="2020-11-21T22:57:14+03:00">21.11.2020</time><time class="updated" datetime="2021-03-15T17:39:45+03:00">15.03.2021</time></a></span>                        <span class="post-category primary-font">
+                         <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>/<a href="https://softprime.com.ua/category/programmy/" rel="category tag">ПРОГРАММЫ</a>/<a href="https://softprime.com.ua/category/razrabotki-it/" rel="category tag">РАЗРАБОТКИ IT</a>/<a href="https://softprime.com.ua/category/sistemy/" rel="category tag">СИСТЕМЫ</a>                        </span>
+                    </div>
+                    <h2 class="entry-title">
+                        <a href="https://softprime.com.ua/programmy/na-chto-nuzhno-obratit-vnimanie-pri-vybore-kompanii-kotoraya-provedet-tehnicheskuyu-zashhitu-dannyh-vashej-kompanii/">На что нужно обратить внимание при выборе компании, которая проведет техническую защиту данных вашей компании?</a>
+                    </h2>
+                </header>
+                <div class="entry-content">
+                    <div class="twp-content-details">
+                        <p>Не редко для внедрения защитных информационных безопасность и сохранность данных или модернизация уже имеющихся программ, владельцы малого и среднего бизнеса производят при помощи внешних консультантов.</p>
+                    </div>
+                </div><!-- .entry-content -->
+            </div>
+
+            </div>
+</article><!-- #post-## -->
+</div>        <div class="load-more-posts" data-load-type="scroll">
+            <a href="javascript:void(0)" class="btn-link btn-link-load">
+                <span class="ajax-loader"></span>
+                Load More Posts                <i class="ion-ios-arrow-right"></i>
+            </a>
+        </div>
+        
+        </main><!-- #main -->
+    </div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+    <div class="theiaStickySidebar">
+	    <div class="sidebar-wrapper">
+	        <div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://softprime.com.ua/">
+				<label>
+					<span class="screen-reader-text">Найти:</span>
+					<input type="search" class="search-field" placeholder="Поиск&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Поиск" />
+			</form></div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<h5 class="widget-title bordered-widget-title">Свежие записи</h5>
+		<ul>
+											<li>
+					<a href="https://softprime.com.ua/programmisty-rekomenduyut/kajakken-herentals/">Как каякинг в Бельгии влияет на психическое состояние?</a>
+									</li>
+											<li>
+					<a href="https://softprime.com.ua/poleznoe/etapy-almaznoj-rezki/">Этапы алмазной резки</a>
+									</li>
+											<li>
+					<a href="https://softprime.com.ua/poleznoe/chto-takoe-viniry-na-zuby/">Что такое виниры на зубы?</a>
+									</li>
+											<li>
+					<a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/">Почему именно Carbon black?</a>
+									</li>
+											<li>
+					<a href="https://softprime.com.ua/prilozheniya/pochemu-rieltoram-stoit-ispolzovat-bazy/">Почему риелторам стоит использовать базы</a>
+									</li>
+					</ul>
+
+		</div><div id="archives-2" class="widget widget_archive"><h5 class="widget-title bordered-widget-title">Архивы</h5>
+			<ul>
+					<li><a href='https://softprime.com.ua/2021/10/'>Октябрь 2021</a></li>
+	<li><a href='https://softprime.com.ua/2021/08/'>Август 2021</a></li>
+	<li><a href='https://softprime.com.ua/2021/04/'>Апрель 2021</a></li>
+	<li><a href='https://softprime.com.ua/2021/01/'>Январь 2021</a></li>
+	<li><a href='https://softprime.com.ua/2020/12/'>Декабрь 2020</a></li>
+	<li><a href='https://softprime.com.ua/2020/11/'>Ноябрь 2020</a></li>
+	<li><a href='https://softprime.com.ua/2020/09/'>Сентябрь 2020</a></li>
+	<li><a href='https://softprime.com.ua/2020/06/'>Июнь 2020</a></li>
+	<li><a href='https://softprime.com.ua/2020/05/'>Май 2020</a></li>
+	<li><a href='https://softprime.com.ua/2020/04/'>Апрель 2020</a></li>
+	<li><a href='https://softprime.com.ua/2020/03/'>Март 2020</a></li>
+			</ul>
+
+			</div><div id="categories-2" class="widget widget_categories"><h5 class="widget-title bordered-widget-title">Рубрики</h5>
+			<ul>
+					<li class="cat-item cat-item-7"><a href="https://softprime.com.ua/category/operatsionnye-sistemy/">ОПЕРАЦИОННЫЕ СИСТЕМЫ</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://softprime.com.ua/category/poleznoe/">ПОЛЕЗНОЕ</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://softprime.com.ua/category/prilozheniya/">ПРИЛОЖЕНИЯ</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://softprime.com.ua/category/programmisty-rekomenduyut/">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="https://softprime.com.ua/category/programmy/">ПРОГРАММЫ</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://softprime.com.ua/category/razrabotki-it/">РАЗРАБОТКИ IT</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://softprime.com.ua/category/sistemy/">СИСТЕМЫ</a>
+</li>
+			</ul>
+
+			</div>	    </div>
+	</div>
+</aside><!-- #secondary --></div><!-- #content -->
+
+<section class="cover-stories">
+            <div class="cover-stories-featured">
+            <div class="container">
+                <div class="row">
+                                                                            <div class="col-sm-12">
+                                <div class="cover-stories-bg data-bg" data-background="https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-scaled.jpg">
+                                    <div class="section-details">
+                                                                                    <h2 class="section-title entry-title">You may also like <i class="ion-ios-arrow-thin-right"></i></h2>
+                                                                                <div class="article-featured">
+                                            <header class="article-header">
+                                                <div class="entry-meta">
+                                                    <span class="author primary-font"> <img alt='' src='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43202aec4c55fb05179b1e2f60e5ea14?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo byline' height='100' width='100' loading='lazy'/> By <a class="url" href="https://softprime.com.ua/author/editors/">editors editors</a></span><span class="posted-on primary-font"> <a href="https://softprime.com.ua/2021/10/14/" rel="bookmark"><time class="entry-date published" datetime="2021-10-14T19:01:50+03:00">14.10.2021</time><time class="updated" datetime="2022-01-09T22:20:58+03:00">09.01.2022</time></a></span>                                                    <span class="post-category primary-font">
+                                                     <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>                                                    </span>
+                                                </div>
+                                                <h2 class="entry-title">
+                                                    <a href="https://softprime.com.ua/programmisty-rekomenduyut/kajakken-herentals/">Как каякинг в Бельгии влияет на психическое состояние?</a>
+                                                </h2>
+                                            </header>
+                                                <div class="entry-content">
+                                                    <div class="twp-content-details">
+                                                        <p>Неоднократно опытные каякеры говорят, что самым любимым местом для катания на байдарках и других видах лодок является океан. Там они чувствуют себя максимально маленькими и поглощёнными природой.</p>
+                                                    </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                    <div class="section-overlay"></div>
+                                </div>
+                            </div>
+                                                                    </div>
+            </div>
+        </div>
+
+                    <div class="cover-stories-others">
+                <div class="container">
+                    <div class="row">
+                                                                    <div class="col-sm-4">
+                                                                                    <div class="image">
+                                                <a href="https://softprime.com.ua/poleznoe/etapy-almaznoj-rezki/" class="bg-image bg-image-2">
+                                                    <img src="https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200-300x200.jpg">
+                                                </a>
+                                            </div>
+                                                                                <div class="content">
+                                            <div class="entry-meta">
+                                                <span class="post-category primary-font">
+                                                     <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>                                                </span>
+                                            </div>
+                                            <h3 class="entry-title entry-title-small">
+                                                <a href="https://softprime.com.ua/poleznoe/etapy-almaznoj-rezki/">Этапы алмазной резки</a>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                                                <div class="col-sm-4">
+                                                                                    <div class="image">
+                                                <a href="https://softprime.com.ua/poleznoe/chto-takoe-viniry-na-zuby/" class="bg-image bg-image-2">
+                                                    <img src="https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev-300x200.jpg">
+                                                </a>
+                                            </div>
+                                                                                <div class="content">
+                                            <div class="entry-meta">
+                                                <span class="post-category primary-font">
+                                                     <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>                                                </span>
+                                            </div>
+                                            <h3 class="entry-title entry-title-small">
+                                                <a href="https://softprime.com.ua/poleznoe/chto-takoe-viniry-na-zuby/">Что такое виниры на зубы?</a>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                                                <div class="col-sm-4">
+                                                                                    <div class="image">
+                                                <a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/" class="bg-image bg-image-2">
+                                                    <img src="https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-300x300.jpg">
+                                                </a>
+                                            </div>
+                                                                                <div class="content">
+                                            <div class="entry-meta">
+                                                <span class="post-category primary-font">
+                                                     <a href="https://softprime.com.ua/category/poleznoe/" rel="category tag">ПОЛЕЗНОЕ</a>/<a href="https://softprime.com.ua/category/programmisty-rekomenduyut/" rel="category tag">ПРОГРАММИСТЫ РЕКОМЕНДУЮТ</a>/<a href="https://softprime.com.ua/category/programmy/" rel="category tag">ПРОГРАММЫ</a>/<a href="https://softprime.com.ua/category/razrabotki-it/" rel="category tag">РАЗРАБОТКИ IT</a>/<a href="https://softprime.com.ua/category/sistemy/" rel="category tag">СИСТЕМЫ</a>                                                </span>
+                                            </div>
+                                            <h3 class="entry-title entry-title-small">
+                                                <a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/">Почему именно Carbon black?</a>
+                                            </h3>
+                                        </div>
+                                    </div>
+                                                </div>
+                </div>
+            </div>
+            </section>
+
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+        
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="footer-branding">
+                        <div class="site-branding">
+                                                            <span class="site-title primary-font">
+                                            <a href="https://softprime.com.ua/" rel="home">
+                                                SoftPrime                                            </a>
+                                        </span>
+                                                            <p class="site-description">
+                                    <span>Лучшие программы и приложения iOS, Android. Обзор лицензионных программ и приложений iOS, Android</span>
+                                </p>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="scroll-up alt-bgcolor">
+                        <i class="ion-ios-arrow-up text-light"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="site-info text-center">
+                        <h4 class="site-copyright">
+                            Copyright All right reserved.                           
+                            
+                        </h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+
+    <div class="recommendation-panel-handle" id="recommendation-panel-handle">
+        <div class="recommendation-panel-open">
+            <i class="ion-ios-plus-empty"></i>
+        </div>
+    </div>
+                <div class="recommendation-panel-content" id="recommendation-panel-content">
+                <div class="recommendation-panel-close">
+                    <i class="ion-ios-close-empty"></i>
+                </div>
+                <div class="recommendation-panel-slider">
+                    <div class="recommendation-slides-wrapper">
+                        <div class="recommendation-slides">
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="225" src="https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-300x225.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-1024x768.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-768x576.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-1536x1152.jpg 1536w, https://softprime.com.ua/wp-content/uploads/2021/10/awtf4-2048x1536.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/programmisty-rekomenduyut/kajakken-herentals/">
+                                                Как каякинг в Бельгии влияет на психическое состояние?                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="200" src="https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200-300x200.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200-1024x683.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200-768x512.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/08/0043400a_02.1900x1200.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/poleznoe/etapy-almaznoj-rezki/">
+                                                Этапы алмазной резки                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="200" src="https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev-300x200.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev-1024x683.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev-768x512.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/10/viniry-kiev.jpg 1500w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/poleznoe/chto-takoe-viniry-na-zuby/">
+                                                Что такое виниры на зубы?                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="300" src="https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-300x300.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-1024x1024.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-150x150.jpg 150w, https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11-768x768.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/04/photo_2021-04-26_17-53-11.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/programmy/pochemu-imenno-carbon-black/">
+                                                Почему именно Carbon black?                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="200" src="https://softprime.com.ua/wp-content/uploads/2021/01/1ffee5477a63b54f46f88b809a4f252c-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/01/1ffee5477a63b54f46f88b809a4f252c-300x200.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/01/1ffee5477a63b54f46f88b809a4f252c-1024x683.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2021/01/1ffee5477a63b54f46f88b809a4f252c-768x512.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/01/1ffee5477a63b54f46f88b809a4f252c.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/prilozheniya/pochemu-rieltoram-stoit-ispolzovat-bazy/">
+                                                Почему риелторам стоит использовать базы                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="300" src="https://softprime.com.ua/wp-content/uploads/2021/01/kupit-chehly-dlya-Ipad-8-300x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/01/kupit-chehly-dlya-Ipad-8-300x300.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/01/kupit-chehly-dlya-Ipad-8-150x150.jpg 150w, https://softprime.com.ua/wp-content/uploads/2021/01/kupit-chehly-dlya-Ipad-8-768x768.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/01/kupit-chehly-dlya-Ipad-8.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/poleznoe/chehly-dlya-ipad-8-v-kieve-osobennosti-i-preimushhestva-aksessuarov/">
+                                                Чехлы для Ipad 8 в Киеве: особенности и преимущества аксессуаров                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="200" src="https://softprime.com.ua/wp-content/uploads/2021/04/Santehnicheskie-peregorodki-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/04/Santehnicheskie-peregorodki-300x200.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/04/Santehnicheskie-peregorodki-1024x682.jpg 1024w, https://softprime.com.ua/wp-content/uploads/2021/04/Santehnicheskie-peregorodki-768x512.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/04/Santehnicheskie-peregorodki.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/programmisty-rekomenduyut/tualetnye-peregorodki-iz-ldsp/">
+                                                Туалетные перегородки из ЛДСП                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                            <div class="slide-item">
+                                    <figure class="slide-item-image bg-image bg-image-0">
+                                        <img width="300" height="183" src="https://softprime.com.ua/wp-content/uploads/2021/04/ESR-iPhone-12-case-300x183.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://softprime.com.ua/wp-content/uploads/2021/04/ESR-iPhone-12-case-300x183.jpg 300w, https://softprime.com.ua/wp-content/uploads/2021/04/ESR-iPhone-12-case-768x468.jpg 768w, https://softprime.com.ua/wp-content/uploads/2021/04/ESR-iPhone-12-case.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />                                    </figure>
+                                    <div class="slide-item-details">
+                                        <h3>
+                                            <a href="https://softprime.com.ua/programmisty-rekomenduyut/chehly-dlya-iphone-12/">
+                                                Чехлы для iPhone 12                                            </a>
+                                        </h3>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/js/skip-link-focus-fix.js?ver=20151215' id='knight-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/owlcarousel/js/owl.carousel.min.js?ver=5.5.8' id='owlcarousel-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/bootstrap/js/bootstrap.min.js?ver=5.5.8' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/magnific-popup/jquery.magnific-popup.min.js?ver=5.5.8' id='jquery-magnific-popup-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/jquery-match-height/js/jquery.matchHeight.min.js?ver=5.5.8' id='match-height-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/assets/libraries/theiaStickySidebar/theia-sticky-sidebar.js?ver=5.5.8' id='theiaStickySidebar-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"ru","strings":{"mejs.download-file":"\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0444\u0430\u0439\u043b","mejs.install-flash":"Flash player \u043f\u043b\u0430\u0433\u0438\u043d \u0431\u044b\u043b \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d \u0438\u043b\u0438 \u043d\u0435 \u0431\u044b\u043b \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d \u0432 \u0432\u0430\u0448\u0435\u043c \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435 \u043f\u043b\u0430\u0433\u0438\u043d Flash player \u0438\u043b\u0438 \u0441\u043a\u0430\u0447\u0430\u0439\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u0441 https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"\u041d\u0430 \u0432\u0435\u0441\u044c \u044d\u043a\u0440\u0430\u043d","mejs.play":"\u0412\u043e\u0441\u043f\u0440\u043e\u0438\u0437\u0432\u0435\u0441\u0442\u0438","mejs.pause":"\u041f\u0430\u0443\u0437\u0430","mejs.time-slider":"\u0428\u043a\u0430\u043b\u0430 \u0432\u0440\u0435\u043c\u0435\u043d\u0438","mejs.time-help-text":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0432\u043b\u0435\u0432\u043e\/\u0432\u043f\u0440\u0430\u0432\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043e\u0434\u043d\u0443 \u0441\u0435\u043a\u0443\u043d\u0434\u0443; \u0432\u0432\u0435\u0440\u0445\/\u0432\u043d\u0438\u0437, \u0447\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u0434\u0435\u0441\u044f\u0442\u044c \u0441\u0435\u043a\u0443\u043d\u0434.","mejs.live-broadcast":"\u041f\u0440\u044f\u043c\u0430\u044f \u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u044f","mejs.volume-help-text":"\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u043a\u043b\u0430\u0432\u0438\u0448\u0438 \u0432\u0432\u0435\u0440\u0445\/\u0432\u043d\u0438\u0437, \u0447\u0442\u043e\u0431\u044b \u0443\u0432\u0435\u043b\u0438\u0447\u0438\u0442\u044c \u0438\u043b\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u044c.","mejs.unmute":"\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0432\u0443\u043a","mejs.mute":"\u0411\u0435\u0437 \u0437\u0432\u0443\u043a\u0430","mejs.volume-slider":"\u0420\u0435\u0433\u0443\u043b\u044f\u0442\u043e\u0440 \u0433\u0440\u043e\u043c\u043a\u043e\u0441\u0442\u0438","mejs.video-player":"\u0412\u0438\u0434\u0435\u043e\u043f\u043b\u0435\u0435\u0440","mejs.audio-player":"\u0410\u0443\u0434\u0438\u043e\u043f\u043b\u0435\u0435\u0440","mejs.captions-subtitles":"\u0421\u0443\u0431\u0442\u0438\u0442\u0440\u044b","mejs.captions-chapters":"\u0413\u043b\u0430\u0432\u044b","mejs.none":"\u041d\u0435\u0442","mejs.afrikaans":"\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439","mejs.albanian":"\u0410\u043b\u0431\u0430\u043d\u0441\u043a\u0438\u0439","mejs.arabic":"\u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0439","mejs.belarusian":"\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0441\u043a\u0438\u0439","mejs.bulgarian":"\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u043a\u0438\u0439","mejs.catalan":"\u041a\u0430\u0442\u0430\u043b\u043e\u043d\u0441\u043a\u0438\u0439","mejs.chinese":"\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439","mejs.chinese-simplified":"\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 (\u0443\u043f\u0440\u043e\u0449\u0435\u043d\u043d\u044b\u0439)","mejs.chinese-traditional":"\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439 (\u0442\u0440\u0430\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0439)","mejs.croatian":"\u0425\u043e\u0440\u0432\u0430\u0442\u0441\u043a\u0438\u0439","mejs.czech":"\u0427\u0435\u0448\u0441\u043a\u0438\u0439","mejs.danish":"\u0414\u0430\u0442\u0441\u043a\u0438\u0439","mejs.dutch":"\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 (\u0433\u043e\u043b\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439)","mejs.english":"\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439","mejs.estonian":"\u042d\u0441\u0442\u043e\u043d\u0441\u043a\u0438\u0439","mejs.filipino":"\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u0441\u043a\u0438\u0439","mejs.finnish":"\u0424\u0438\u043d\u0441\u043a\u0438\u0439","mejs.french":"\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439","mejs.galician":"\u0413\u0430\u043b\u0438\u0441\u0438\u0439\u0441\u043a\u0438\u0439","mejs.german":"\u041d\u0435\u043c\u0435\u0446\u043a\u0438\u0439","mejs.greek":"\u0413\u0440\u0435\u0447\u0435\u0441\u043a\u0438\u0439","mejs.haitian-creole":"\u0413\u0430\u0438\u0442\u044f\u043d\u0441\u043a\u0438\u0439 \u043a\u0440\u0435\u043e\u043b\u044c\u0441\u043a\u0438\u0439","mejs.hebrew":"\u0418\u0432\u0440\u0438\u0442","mejs.hindi":"\u0425\u0438\u043d\u0434\u0438","mejs.hungarian":"\u0412\u0435\u043d\u0433\u0435\u0440\u0441\u043a\u0438\u0439","mejs.icelandic":"\u0418\u0441\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439","mejs.indonesian":"\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u0439\u0441\u043a\u0438\u0439","mejs.irish":"\u0418\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439","mejs.italian":"\u0418\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0438\u0439","mejs.japanese":"\u042f\u043f\u043e\u043d\u0441\u043a\u0438\u0439","mejs.korean":"\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0438\u0439","mejs.latvian":"\u041b\u0430\u0442\u0432\u0438\u0439\u0441\u043a\u0438\u0439","mejs.lithuanian":"\u041b\u0438\u0442\u043e\u0432\u0441\u043a\u0438\u0439","mejs.macedonian":"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\u0439","mejs.malay":"\u041c\u0430\u043b\u0430\u0439\u0441\u043a\u0438\u0439","mejs.maltese":"\u041c\u0430\u043b\u044c\u0442\u0438\u0439\u0441\u043a\u0438\u0439","mejs.norwegian":"\u041d\u043e\u0440\u0432\u0435\u0436\u0441\u043a\u0438\u0439","mejs.persian":"\u041f\u0435\u0440\u0441\u0438\u0434\u0441\u043a\u0438\u0439","mejs.polish":"\u041f\u043e\u043b\u044c\u0441\u043a\u0438\u0439","mejs.portuguese":"\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0441\u043a\u0438\u0439","mejs.romanian":"\u0420\u0443\u043c\u044b\u043d\u0441\u043a\u0438\u0439","mejs.russian":"\u0420\u0443\u0441\u0441\u043a\u0438\u0439","mejs.serbian":"\u0421\u0435\u0440\u0431\u0441\u043a\u0438\u0439","mejs.slovak":"\u0421\u043b\u043e\u0432\u0430\u0446\u043a\u0438\u0439","mejs.slovenian":"\u0421\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0439","mejs.spanish":"\u0418\u0441\u043f\u0430\u043d\u0441\u043a\u0438\u0439","mejs.swahili":"\u0421\u0443\u0430\u0445\u0438\u043b\u0438","mejs.swedish":"\u0428\u0432\u0435\u0434\u0441\u043a\u0438\u0439","mejs.tagalog":"\u0422\u0430\u0433\u0430\u043b\u043e\u0433","mejs.thai":"\u0422\u0430\u0439\u0441\u043a\u0438\u0439","mejs.turkish":"\u0422\u0443\u0440\u0435\u0446\u043a\u0438\u0439","mejs.ukrainian":"\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439","mejs.vietnamese":"\u0412\u044c\u0435\u0442\u043d\u0430\u043c\u0441\u043a\u0438\u0439","mejs.welsh":"\u0412\u0430\u043b\u043b\u0438\u0439\u0441\u043a\u0438\u0439","mejs.yiddish":"\u0418\u0434\u0438\u0448"}};
+</script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.5.8' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.5.8' id='wp-mediaelement-js'></script>
+<script type='text/javascript' id='knight-script-js-extra'>
+/* <![CDATA[ */
+var knightVal = {"nonce":"1d251f566b","ajaxurl":"https:\/\/softprime.com.ua\/wp-admin\/admin-ajax.php","post_type":"post"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-content/themes/knight/assets/twp/js/custom-script.js?ver=5.5.8' id='knight-script-js'></script>
+<script type='text/javascript' src='https://softprime.com.ua/wp-includes/js/wp-embed.min.js?ver=5.5.8' id='wp-embed-js'></script>
+</body>
+</html>

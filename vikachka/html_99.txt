@@ -1,0 +1,1735 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://topsoft.by/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://topsoft.by';var et_post_id='311';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script>
+	<!-- This site is optimized with the Yoast SEO plugin v15.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Информационные системы «Галактика» - ООО «Топ Софт»</title>
+	<meta name="description" content="Топ Софт – передовая IT-компания, решающая сложнейшие задачи по обеспечению бизнеса своих заказчиков самыми современными информационными системами." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://topsoft.by/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Информационные системы «Галактика» - ООО «Топ Софт»" />
+	<meta property="og:description" content="Топ Софт – передовая IT-компания, решающая сложнейшие задачи по обеспечению бизнеса своих заказчиков самыми современными информационными системами." />
+	<meta property="og:url" content="https://topsoft.by/" />
+	<meta property="og:site_name" content="Информационные системы &quot;Галактика&quot;" />
+	<meta property="article:modified_time" content="2021-07-19T08:37:33+00:00" />
+	<meta property="og:image" content="https://topsoft.by/wp-content/uploads/2019/06/topsoft_main_page_preview.jpg" />
+	<meta property="og:image:width" content="1080" />
+	<meta property="og:image:height" content="540" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Написано автором">
+	<meta name="twitter:data1" content="Топ Софт">
+	<meta name="twitter:label2" content="Примерное время для чтения">
+	<meta name="twitter:data2" content="16 минут">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://topsoft.by/#organization","name":"\u041e\u041e\u041e \u00ab\u0422\u043e\u043f \u0421\u043e\u0444\u0442\u00bb","url":"https://topsoft.by/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://topsoft.by/#logo","inLanguage":"ru-RU","url":"https://topsoft.by/wp-content/uploads/2019/08/logo_topsoft.png","width":183,"height":52,"caption":"\u041e\u041e\u041e \u00ab\u0422\u043e\u043f \u0421\u043e\u0444\u0442\u00bb"},"image":{"@id":"https://topsoft.by/#logo"}},{"@type":"WebSite","@id":"https://topsoft.by/#website","url":"https://topsoft.by/","name":"\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b &quot;\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430&quot;","description":"\u041e\u041e\u041e \u00ab\u0422\u043e\u043f \u0421\u043e\u0444\u0442\u00bb \u2014 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a \u043b\u0438\u043d\u0435\u0439\u043a\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u044b\u0445 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 \u00ab\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430\u00bb.","publisher":{"@id":"https://topsoft.by/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://topsoft.by/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"ImageObject","@id":"https://topsoft.by/#primaryimage","inLanguage":"ru-RU","url":"https://topsoft.by/wp-content/uploads/2019/06/topsoft_main_page_preview.jpg","width":1080,"height":540,"caption":"\u041e\u041e\u041e \u0422\u043e\u043f \u0421\u043e\u0444\u0442"},{"@type":"WebPage","@id":"https://topsoft.by/#webpage","url":"https://topsoft.by/","name":"\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u00ab\u0413\u0430\u043b\u0430\u043a\u0442\u0438\u043a\u0430\u00bb - \u041e\u041e\u041e \u00ab\u0422\u043e\u043f \u0421\u043e\u0444\u0442\u00bb","isPartOf":{"@id":"https://topsoft.by/#website"},"about":{"@id":"https://topsoft.by/#organization"},"primaryImageOfPage":{"@id":"https://topsoft.by/#primaryimage"},"datePublished":"2019-06-24T08:08:27+00:00","dateModified":"2021-07-19T08:37:33+00:00","description":"\u0422\u043e\u043f \u0421\u043e\u0444\u0442 \u2013 \u043f\u0435\u0440\u0435\u0434\u043e\u0432\u0430\u044f IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0440\u0435\u0448\u0430\u044e\u0449\u0430\u044f \u0441\u043b\u043e\u0436\u043d\u0435\u0439\u0448\u0438\u0435 \u0437\u0430\u0434\u0430\u0447\u0438 \u043f\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u044e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0441\u0432\u043e\u0438\u0445 \u0437\u0430\u043a\u0430\u0437\u0447\u0438\u043a\u043e\u0432 \u0441\u0430\u043c\u044b\u043c\u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u043c\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u043c\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438.","inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://topsoft.by/"]}]}]}</script>
+	<meta name="google-site-verification" content="Ipe7dnqh9zurSFwgH1GnRA60TP-dFZ0ZGykQsmgBv5I" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Информационные системы &quot;Галактика&quot; &raquo; Лента" href="https://topsoft.by/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Информационные системы &quot;Галактика&quot; &raquo; Лента комментариев" href="https://topsoft.by/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/topsoft.by\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi-child v.1.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://topsoft.by/wp-includes/css/dist/block-library/style.min.css?ver=5.5.8' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://topsoft.by/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://topsoft.by/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='divi-style-css'  href='https://topsoft.by/wp-content/themes/Divi-child/style.css?ver=4.9.10' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<script type='text/javascript' src='https://topsoft.by/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.5.1' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.5.1' id='revmin-js'></script>
+<link rel="https://api.w.org/" href="https://topsoft.by/wp-json/" /><link rel="alternate" type="application/json" href="https://topsoft.by/wp-json/wp/v2/pages/311" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://topsoft.by/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://topsoft.by/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.8" />
+<link rel='shortlink' href='https://topsoft.by/' />
+<link rel="alternate" type="application/json+oembed" href="https://topsoft.by/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftopsoft.by%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://topsoft.by/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftopsoft.by%2F&#038;format=xml" />
+
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZ6HSW6');</script>
+            <!-- End Google Tag Manager -->
+        <!-- Markup (JSON-LD) structured in schema.org ver.4.8.1 START -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ООО «Топ Софт»",
+    "image": "https://topsoft.by/wp-content/uploads/2019/06/logo_topsoft.png",
+    "url": "https://topsoft.by",
+    "telephone": "+375 (17) 294 99 88",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "ул. Сурганова 28В",
+        "addressLocality": "Минск",
+        "postalCode": "220012",
+        "addressCountry": "Республика Беларусь"
+    },
+    "openingHours": [
+        "Mo-Fr 09:00-18:00"
+    ]
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://topsoft.by/"
+    },
+    "headline": "Главная",
+    "datePublished": "2019-06-24T11:08:27+0300",
+    "dateModified": "2021-07-19T11:37:33+0300",
+    "author": {
+        "@type": "Person",
+        "name": "Топ Софт"
+    },
+    "description": "",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://topsoft.by/wp-content/uploads/2019/06/topsoft_main_page_preview.jpg",
+        "width": 1080,
+        "height": 540
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "ООО «Топ Софт»",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://topsoft.by/wp-content/uploads/2019/06/logo_topsoft.png",
+            "width": 0,
+            "height": 0
+        }
+    }
+}
+</script>
+<!-- Markup (JSON-LD) structured in schema.org END -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="preload" href="https://topsoft.by/wp-content/themes/Divi/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous"><link rel="shortcut icon" href="" /><!-- Нет версии AMPHTML для этого URL. --><meta name="generator" content="Powered by Slider Revolution 5.4.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<link rel="stylesheet" id="et-core-unified-311-cached-inline-styles" href="https://topsoft.by/wp-content/et-cache/311/et-core-unified-311-16462116150205.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="home page-template-default page page-id-311 et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_primary_nav_dropdown_animation_expand et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns1 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ6HSW6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<div id="page-container">
+
+					<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-info">
+									<span id="et-info-phone">+375 (17) 294 99 88</span>
+				
+									<a href="mailto:market@topsoft.by"><span id="et-info-email">market@topsoft.by</span></a>
+				
+								</div> <!-- #et-info -->
+
+			
+				<div id="et-secondary-menu">
+								</div> <!-- #et-secondary-menu -->
+
+			</div> <!-- .container -->
+		</div> <!-- #top-header -->
+		
+	
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://topsoft.by/">
+						<img src="https://topsoft.by/wp-content/uploads/2019/06/logo_topsoft.png" alt="Информационные системы &quot;Галактика&quot;" id="logo" data-height-percentage="54" />
+						<div class="gs-logo-title">Информационные системы Галактика</div>
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-3227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3227"><a href="/products/">Продукты</a>
+<ul class="sub-menu">
+	<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://topsoft.by/products/erp/">Галактика ERP</a></li>
+	<li id="menu-item-651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-651"><a href="https://topsoft.by/products/upravlenie-aktivami/">Галактика Управлениe активами (EAM)</a></li>
+	<li id="menu-item-784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-784"><a href="https://topsoft.by/products/amm/">Галактика AMM</a></li>
+	<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a href="https://topsoft.by/products/integration-platform/">Галактика Сервисная шина предприятия (ESB)</a></li>
+	<li id="menu-item-1211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1211"><a href="https://topsoft.by/products/bi/">Галактика BI</a></li>
+	<li id="menu-item-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="https://topsoft.by/products/xafari/">Xafari Framework</a></li>
+	<li id="menu-item-7698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7698"><a href="https://topsoft.by/products/shtrihkodirovanie/">Штрихкодирование</a></li>
+</ul>
+</li>
+<li id="menu-item-7479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7479"><a href="https://topsoft.by/services/">Услуги</a>
+<ul class="sub-menu">
+	<li id="menu-item-7480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7480"><a href="https://topsoft.by/services/prom-consulting/">Промышленный консалтинг</a></li>
+</ul>
+</li>
+<li id="menu-item-5006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5006"><a href="https://topsoft.by/partners/">Партнерская сеть</a></li>
+<li id="menu-item-4787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4787"><a href="/about/">О компании</a>
+<ul class="sub-menu">
+	<li id="menu-item-4801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4801"><a href="https://topsoft.by/about/">О компании</a></li>
+	<li id="menu-item-3554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3554"><a href="https://topsoft.by/about/history/">История</a></li>
+	<li id="menu-item-4281" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4281"><a href="/about/iso/">Стандарты качества</a></li>
+	<li id="menu-item-3555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3555"><a href="https://topsoft.by/about/social/">Социальная ответственность</a></li>
+	<li id="menu-item-1075" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1075"><a href="https://topsoft.by/category/press-czentr/">Пресс-центр</a></li>
+	<li id="menu-item-1443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1443"><a href="/contacts/">Контакты</a></li>
+	<li id="menu-item-4992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4992"><a href="https://topsoft.by/about/privacy-policy/">Политика конфиденциальности</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Выбрать страницу</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://topsoft.by/">
+					<input type="search" class="et-search-field" placeholder="Поиск &hellip;" value="" name="s" title="Поиск:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+				
+<div id="main-content">
+
+
+			
+				<article id="post-311" class="post-311 page type-page status-publish has-post-thumbnail hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_module et_pb_fullwidth_code et_pb_fullwidth_code_0">
+				
+				
+				<div class="et_pb_code_inner"><link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_15_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.5.1 auto mode -->
+	<div id="rev_slider_15_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.5.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-34" data-transition="notransition" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://topsoft.by/wp-content/plugins/revslider/admin/assets/images/transparent.png" data-bgcolor='linear-gradient(90deg, rgba(8,31,65,1) 0%, rgba(8,31,65,1) 31%, rgba(0,83,139,1) 61%, rgba(0,83,139,1) 100%)' style='background:linear-gradient(90deg, rgba(8,31,65,1) 0%, rgba(8,31,65,1) 31%, rgba(0,83,139,1) 61%, rgba(0,83,139,1) 100%)' alt="" title="Главная"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+			 id="slide-34-layer-19" 
+			 data-x="['left','left','left','left']" data-hoffset="['-398','-398','-398','-398']" 
+			 data-y="['top','top','top','top']" data-voffset="['-4','-4','-4','-4']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":360,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img loading="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201933%20399'%3E%3C/svg%3E" alt="" data-ww="['2035px','2035px','2035px','2035px']" data-hh="['420px','420px','420px','420px']" width="1933" height="399" data-no-retina data-lazy-src="https://topsoft.by/wp-content/uploads/2020/03/topsoft_banner_bg.jpg"><noscript><img loading="lazy" src="https://topsoft.by/wp-content/uploads/2020/03/topsoft_banner_bg.jpg" alt="" data-ww="['2035px','2035px','2035px','2035px']" data-hh="['420px','420px','420px','420px']" width="1933" height="399" data-no-retina></noscript> </div>
+
+		<!-- LAYER NR. 2 -->
+		<h1 class="tp-caption tp-layer-selectable  tp-resizeme" 
+			 id="slide-34-layer-16" 
+			 data-x="['left','left','left','left']" data-hoffset="['100','100','101','38']" 
+			 data-y="['top','top','top','top']" data-voffset="['148','148','85','73']" 
+						data-fontsize="['31','31','20','25']"
+			data-lineheight="['33','33','20','25']"
+			data-width="['653','653','445','352']"
+			data-height="['86','86','66','none']"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":1000,"frame":"0","from":"x:left;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; min-width: 653px; max-width: 653px; max-width: 86px; max-width: 86px; white-space: normal; font-size: 31px; line-height: 33px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">Топ Софт - современные технологии цифровой трансформации бизнеса </h1>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption tp-layer-selectable  tp-resizeme" 
+			 id="slide-34-layer-17" 
+			 data-x="['left','left','left','left']" data-hoffset="['100','100','100','38']" 
+			 data-y="['top','top','top','top']" data-voffset="['236','236','171','191']" 
+						data-fontsize="['16','16','14','16']"
+			data-width="['569','569','449','348']"
+			data-height="['none','none','68','107']"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":300,"speed":1000,"frame":"0","from":"x:left;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; min-width: 569px; max-width: 569px; white-space: normal; font-size: 16px; line-height: 16px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Roboto;">Широкие компетенции в области организации бизнес-процессов </div>
+	</li>
+</ul>
+<div class="tp-bannertimer" style="height: 5px; background: rgba(0,0,0,0.15);"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_15_1'), responsiveLevels: [1240,1024,778,480], gridwidth: [1240,1024,778,480], gridheight: [400,400,330,330], sliderLayout: 'auto'});
+			
+var revapi15,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_15_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_15_1");
+	}else{
+		revapi15 = tpj("#rev_slider_15_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//topsoft.by/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"auto",
+			dottedOverlay:"none",
+			delay:6000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"on",
+				touch:{
+					touchenabled:"on",
+					touchOnDesktop:"off",
+					swipe_threshold: 75,
+					swipe_min_touches: 1,
+					swipe_direction: "horizontal",
+					drag_block_vertical: false
+				}
+			},
+			responsiveLevels:[1240,1024,778,480],
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:[1240,1024,778,480],
+			gridheight:[400,400,330,330],
+			lazyType:"none",
+			shadow:0,
+			spinner:"spinner0",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		</div><!-- END REVOLUTION SLIDER --></div>
+			</div> <!-- .et_pb_fullwidth_code -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="company" class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>О компании</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Топ Софт – передовая IT-компания, решающая сложнейшие задачи по обеспечению бизнеса своих заказчиков самыми современными информационными системами. Мы занимаемся IT-инновациями в масштабе всего Евразийского экономического союза, разрабатывая и развивая экосистему программных продуктов &#171;Галактика&#187; для управления бизнесом.</p>
+<p>Наша глубокая отраслевая экспертиза, IT-решения «под ключ» и активное взаимодействие с бизнес-сообществом создают синергический эффект и условия для опережающего технологического развития отрасли информационных технологий.</p>
+<p>Мы каждый день бросаем вызов себе и другим, глубоко вникая в цели и потребности клиентов и создавая лучшие решения для цифровой трансформации бизнеса. С «Топ Софтом» вы получаете больше, чем просто отличный продукт – вы получаете команду, которая поможет вам преодолеть препятствия на пути к успеху.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="news" class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				<div class="et_pb_code_inner"><div class="gs-catpost-box">
+    <div class="gs-catpost-nav">
+        <ul>
+                                                    <li class="gs-catpost-nav-active" data-group="gs-catpost-group-3">
+                    Пресс-центр                </li>
+                                            <li  data-group="gs-catpost-group-12">
+                    Мероприятия                </li>
+                                            <li  data-group="gs-catpost-group-14">
+                    Технологии                </li>
+                                    </ul>
+    </div>
+    <div class="gs-catpost-main">
+                    <div data-groups='["all","gs-catpost-group-15","gs-catpost-group-3","gs-catpost-group-14"]' class="gs-catpost-item ">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/press-czentr/smart-industry-vision-eho-konferenczii/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Smart Industry Vision: эхо конференции" title="Smart Industry Vision: эхо конференции" data-lazy-src="https://topsoft.by/wp-content/uploads/2020/02/social_preview.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2020/02/social_preview.jpg" alt="Smart Industry Vision: эхо конференции" title="Smart Industry Vision: эхо конференции"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/press-czentr/smart-industry-vision-eho-konferenczii/">Smart Industry Vision: эхо конференции</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        09.12.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Мы уже писали об участии компании «Топ Софт» в конференции Smart Industry Vision в рамках форума по смартификации реального сектора экономики. Кроме н                        <a href="https://topsoft.by/press-czentr/smart-industry-vision-eho-konferenczii/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-7","gs-catpost-group-3","gs-catpost-group-14"]' class="gs-catpost-item ">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/press-czentr/kak-uskorit-perehod-belorusskoj-promyshlennosti-k-industrii-4-0/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Как ускорить переход белорусской промышленности к Индустрии 4.0" title="Как ускорить переход белорусской промышленности к Индустрии 4.0" data-lazy-src="https://topsoft.by/wp-content/uploads/2020/02/social_preview.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2020/02/social_preview.jpg" alt="Как ускорить переход белорусской промышленности к Индустрии 4.0" title="Как ускорить переход белорусской промышленности к Индустрии 4.0"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/press-czentr/kak-uskorit-perehod-belorusskoj-promyshlennosti-k-industrii-4-0/">Как ускорить переход белорусской промышленности к Индустрии 4.0</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        29.11.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Недавно в Беларуси прошел II межрегиональный форум по смартификации реального сектора экономики Smart Industry Expo. Форум собрал в онлайне и в оффлай                        <a href="https://topsoft.by/press-czentr/kak-uskorit-perehod-belorusskoj-promyshlennosti-k-industrii-4-0/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-15","gs-catpost-group-3","gs-catpost-group-14"]' class="gs-catpost-item ">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/press-czentr/top-soft-predlagaet-sozdat-v-belarusi-unikalnuyu-platformu-po-upravleniyu-aktivami/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="«Топ Софт» предлагает создать в Беларуси уникальную платформу по управлению активами" title="«Топ Софт» предлагает создать в Беларуси уникальную платформу по управлению активами" data-lazy-src="https://topsoft.by/wp-content/uploads/2021/10/top-soft-predlagaet-sozdat-v-belarusi-unikalnuyu-platformu-po-upravleniyu-aktivami.png"><noscript><img src="https://topsoft.by/wp-content/uploads/2021/10/top-soft-predlagaet-sozdat-v-belarusi-unikalnuyu-platformu-po-upravleniyu-aktivami.png" alt="«Топ Софт» предлагает создать в Беларуси уникальную платформу по управлению активами" title="«Топ Софт» предлагает создать в Беларуси уникальную платформу по управлению активами"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/press-czentr/top-soft-predlagaet-sozdat-v-belarusi-unikalnuyu-platformu-po-upravleniyu-aktivami/">«Топ Софт» предлагает создать в Беларуси уникальную платформу по управлению активами</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        26.10.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        В ходе недавнего «Белорусского энергетического и экологического форума» специалисты компании «Топ Софт» представили масштабный проект единой цифровой                         <a href="https://topsoft.by/press-czentr/top-soft-predlagaet-sozdat-v-belarusi-unikalnuyu-platformu-po-upravleniyu-aktivami/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-12","gs-catpost-group-3"]' class="gs-catpost-item ">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/meropriyatiya/kak-provesti-czifrovizacziyu-proizvodstva-i-ne-pogibnut-v-borbe/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Как провести цифровизацию производства и не погибнуть в борьбе" title="Как провести цифровизацию производства и не погибнуть в борьбе" data-lazy-src="https://topsoft.by/wp-content/uploads/2020/12/preview.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2020/12/preview.jpg" alt="Как провести цифровизацию производства и не погибнуть в борьбе" title="Как провести цифровизацию производства и не погибнуть в борьбе"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/meropriyatiya/kak-provesti-czifrovizacziyu-proizvodstva-i-ne-pogibnut-v-borbe/">Как провести цифровизацию производства и не погибнуть в борьбе</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        14.06.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Стартовала серия вебинаров компании «Топ Софт», потребность в которой мы не раз обсуждали со специалистами-производственниками. В ближайшие полтора ме                        <a href="https://topsoft.by/meropriyatiya/kak-provesti-czifrovizacziyu-proizvodstva-i-ne-pogibnut-v-borbe/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-12","gs-catpost-group-3"]' class="gs-catpost-item ">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/meropriyatiya/problemy-na-belorusskih-predpriyatiyah-prepyatstvuyushhie-vnedreniyu-czifrovyh-sistem-upravleniya-proizvodstvom/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Проблемы на белорусских предприятиях, препятствующие внедрению цифровых систем управления производством" title="Проблемы на белорусских предприятиях, препятствующие внедрению цифровых систем управления производством" data-lazy-src="https://topsoft.by/wp-content/uploads/2020/12/preview.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2020/12/preview.jpg" alt="Проблемы на белорусских предприятиях, препятствующие внедрению цифровых систем управления производством" title="Проблемы на белорусских предприятиях, препятствующие внедрению цифровых систем управления производством"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/meropriyatiya/problemy-na-belorusskih-predpriyatiyah-prepyatstvuyushhie-vnedreniyu-czifrovyh-sistem-upravleniya-proizvodstvom/">Проблемы на белорусских предприятиях, препятствующие внедрению цифровых систем управления производством</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        28.05.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Вопросы цифровизации производства будут обсуждаться на вебинаре «Проблемы на белорусских предприятиях, препятствующие внедрению цифровых систем управл                        <a href="https://topsoft.by/meropriyatiya/problemy-na-belorusskih-predpriyatiyah-prepyatstvuyushhie-vnedreniyu-czifrovyh-sistem-upravleniya-proizvodstvom/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-10","gs-catpost-group-3","gs-catpost-group-14"]' class="gs-catpost-item ">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/tech/kak-priumnozhit-chelovecheskij-kapital-kompanii/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Как приумножить человеческий капитал компании" title="Как приумножить человеческий капитал компании" data-lazy-src="https://topsoft.by/wp-content/uploads/2021/04/kak-priumnozhit-chelovecheskij-kapital-kompanii_preview.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2021/04/kak-priumnozhit-chelovecheskij-kapital-kompanii_preview.jpg" alt="Как приумножить человеческий капитал компании" title="Как приумножить человеческий капитал компании"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/tech/kak-priumnozhit-chelovecheskij-kapital-kompanii/">Как приумножить человеческий капитал компании</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        02.04.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Компания «Топ Софт» представила на очередном вебинаре для наших клиентов ряд новых веб-сервисов для эффективного управления человеческим капиталом пре                        <a href="https://topsoft.by/tech/kak-priumnozhit-chelovecheskij-kapital-kompanii/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-15","gs-catpost-group-16","gs-catpost-group-10","gs-catpost-group-7","gs-catpost-group-3","gs-catpost-group-14"]' class="gs-catpost-item gs-hide">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/tech/5-strahov-finansovogo-direktora/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="5 страхов финансового директора, мешающих автоматизации бюджетных процессов в компании" title="5 страхов финансового директора, мешающих автоматизации бюджетных процессов в компании" data-lazy-src="https://topsoft.by/wp-content/uploads/2021/03/news_5-strahov-finansovogo-direktora_preview.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2021/03/news_5-strahov-finansovogo-direktora_preview.jpg" alt="5 страхов финансового директора, мешающих автоматизации бюджетных процессов в компании" title="5 страхов финансового директора, мешающих автоматизации бюджетных процессов в компании"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/tech/5-strahov-finansovogo-direktora/">5 страхов финансового директора, мешающих автоматизации бюджетных процессов в компании</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        25.03.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Автоматизация бюджетирования может сэкономить бизнесу время и деньги, но иногда финансовые директора не соглашаются менять устоявшийся подход к процес                        <a href="https://topsoft.by/tech/5-strahov-finansovogo-direktora/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-3","gs-catpost-group-14"]' class="gs-catpost-item gs-hide">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/press-czentr/kak-uluchshit-vypolnenie-zakazov-i-otnosheniya-s-zakazchikami/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Как улучшить выполнение заказов и отношения с заказчиками" title="Как улучшить выполнение заказов и отношения с заказчиками" data-lazy-src="https://topsoft.by/wp-content/uploads/2021/03/preview_novye_resheniya.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2021/03/preview_novye_resheniya.jpg" alt="Как улучшить выполнение заказов и отношения с заказчиками" title="Как улучшить выполнение заказов и отношения с заказчиками"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/press-czentr/kak-uluchshit-vypolnenie-zakazov-i-otnosheniya-s-zakazchikami/">Как улучшить выполнение заказов и отношения с заказчиками</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        05.03.2021                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Компания «Топ Софт» представляет новые решения для оптимизации работы производственной компании: «Управление заказами» и «Планировщик производства».
+                        <a href="https://topsoft.by/press-czentr/kak-uluchshit-vypolnenie-zakazov-i-otnosheniya-s-zakazchikami/">...</a>
+                    </p>
+                </div>
+            </div>
+                    <div data-groups='["all","gs-catpost-group-12","gs-catpost-group-3"]' class="gs-catpost-item gs-hide">
+                                    <div class="gs-catpost-img">
+                        <a href="https://topsoft.by/press-czentr/itogi-vebinara-besshovnaya-integracziya-informaczionnyh-sistem-predpriyatiya/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Итоги вебинара: Бесшовная интеграция информационных систем предприятия" title="Итоги вебинара: Бесшовная интеграция информационных систем предприятия" data-lazy-src="https://topsoft.by/wp-content/uploads/2020/12/preview_itogi.jpg"><noscript><img src="https://topsoft.by/wp-content/uploads/2020/12/preview_itogi.jpg" alt="Итоги вебинара: Бесшовная интеграция информационных систем предприятия" title="Итоги вебинара: Бесшовная интеграция информационных систем предприятия"></noscript></a>
+                    </div>
+                                <div class="gs-catpost-title">
+                    <h2>
+                        <a href="https://topsoft.by/press-czentr/itogi-vebinara-besshovnaya-integracziya-informaczionnyh-sistem-predpriyatiya/">Итоги вебинара: Бесшовная интеграция информационных систем предприятия</a>
+                    </h2>
+                </div>
+                <div class="gs-catpost-date">
+                    <span>
+                        11.12.2020                    </span>
+                </div>
+                <div class="gs-catpost-body">
+                    <p>
+                        Итоги вебинара: Бесшовная интеграция информационных систем предприятия
+
+Компания «Топ Софт» представила 10.12.2020 на очередном вебинаре цифровую ин                        <a href="https://topsoft.by/press-czentr/itogi-vebinara-besshovnaya-integracziya-informaczionnyh-sistem-predpriyatiya/">...</a>
+                    </p>
+                </div>
+            </div>
+            </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_light" href="/category/press-czentr/">Все новости</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_1">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #30519E;'>1000 +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>клиентов – крупных<br />и средних предприятий</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_2">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #434343;'>10 +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>информационных систем<br />класса ERP, BI, EAM и др.</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_3">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #FFC000;'>15 +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>отраслевых экспертиз<br />для ключевых секторов экономики</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 gs-main-products et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Продукты</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_4">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/erp/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/erp/products_erp_bg.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Галактика ERP</h2>
+            
+Комплексная автоматизированная система, помогает выполнять все задачи по управлению предприятием в едином информационном пространстве.
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_5">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/upravlenie-aktivami/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/upravlenie-aktivami/eam_main_menu.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Галактика Управление активами</h2>
+            
+Информационная система управления активами предприятия. Помогает осуществлять постоянный мониторинг состояния оборудования, планировать ремонты.
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_6">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/amm/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/amm/products_amm_bg.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Галактика AMM</h2>
+            
+Многофункциональная система управления для построения эффективного плана производства и развития бизнеса.
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_7">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/integration-platform/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/esb/products_esb_bg.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Галактика Сервисная шина предприятия</h2>
+            
+Платформа, которая предоставляет возможность обмениваться данными между ИС с помощью брокера сообщений.
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_8">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/bi/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/bi/bi_main_menu.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Галактика BI</h2>
+            
+Решение для интерактивного анализа корпоративной информации в единой среде, обеспечивающее глубокий анализ данных и интуитивно понятное визуальное представление результатов, необходимых для принятия управленческих решений.
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_9">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/xafari/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/xafari/products_xafari_bg.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Xafari</h2>
+            
+Xafari представляет собой .NET фреймворк для создания бизнес-приложений, включающий в себя наборы различных компонентов, редакторов и утилит.
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_10">
+				
+				
+				<div class="et_pb_code_inner"><a href="/products/shtrihkodirovanie/">
+    <dev class="gs-design-box-9">
+        <dev class="gs-design-box-9-img" style="background-image: url('/wp-content/img/shtrihkodirovanie/products_shtrihkodirovanie_bg.jpg');">
+        </dev>
+        <dev class="gs-design-box-9-text">
+            <h2>Штрихкодирование</h2>
+            
+Решение для оптимизации в реальном времени логистической системы предприятия
+        </dev>
+    </dev>
+</a>
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_11">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #FFC000;'>97%</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>всех проектов выполняется<br />в срок и в рамках бюджета</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_12">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block' title='за счет так называемых конкурентных лицензий'>
+  <div name='gs_number'>
+    <span style='background-color: #30519E;'>300%</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>эффективного<br />использования лицензий</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_13">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #434343;'>50% +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>прибыли «Топ Софт»<br />инвестирует в новые разработки</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="solutions" class="et_pb_section et_pb_section_6 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Отраслевая экспертиза</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner">Переосмыслите свои бизнес-модели и процессы,<br /> внедрив цифровизацию в свой бизнес с помощью продуктов и компетенций от «Топ Софт».</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_14">
+				
+				
+				<div class="et_pb_code_inner"><div class="gs-design-table">
+    <div>
+                        <div class="gs-design-table-row">
+                                <div class="gs-design-table-cell gs-mobile-medium-height gs-cell-1-1" data-color="rgba(0, 0, 0, 0.4)" style="width: calc(49% - 3px); min-height: 200px; cursor: auto;">
+                <div class="gs-design-table-img">
+                    <img class="gs-erp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Нефтегазовый комплекс" title="Нефтегазовый комплекс" data-lazy-src="/wp-content/img/main/oil.png" /><noscript><img class="gs-erp-img" src="/wp-content/img/main/oil.png" alt="Нефтегазовый комплекс" title="Нефтегазовый комплекс" /></noscript>
+                    <img class="gs-erp-img-hover" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Нефтегазовый комплекс" title="Нефтегазовый комплекс" style="display: none" data-lazy-src="/wp-content/img/main/oil.png"/><noscript><img class="gs-erp-img-hover" src="/wp-content/img/main/oil.png" alt="Нефтегазовый комплекс" title="Нефтегазовый комплекс" style="display: none"/></noscript>
+                </div>
+                <div class="gs-design-table-body gs-mobile-medium-height" style="width: calc(49% - 3px); min-height: 200px;">
+                    <p name="title">Нефтегазовый комплекс</p>
+                    
+                    <ul style='color:rgba(0, 0, 0, 0.4)'>
+                        <li style='list-style: none;'><span style='color:#000'>Безопасность и устойчивое развитие предприятий нефтегазовой промышленности в результате цифровой трансформации: ведение всей финансово-хозяйственной деятельности- управление сбытом нефти, нефтепродуктов и газа; управление тарифами и услугами предприятия; контроль экономических показателей и многое другое.</span></li>
+                    </ul>
+                                                    </div>
+            </div>
+                                <div class="gs-design-table-cell gs-mobile-medium-height gs-cell-1-n" data-color="rgba(0, 0, 0, 0.4)" style="width: calc(49% - 3px); min-height: 200px; cursor: auto;">
+                <div class="gs-design-table-img">
+                    <img class="gs-erp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Машиностроение" title="Машиностроение" data-lazy-src="/wp-content/img/main/mashinostr.png" /><noscript><img class="gs-erp-img" src="/wp-content/img/main/mashinostr.png" alt="Машиностроение" title="Машиностроение" /></noscript>
+                    <img class="gs-erp-img-hover" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Машиностроение" title="Машиностроение" style="display: none" data-lazy-src="/wp-content/img/main/mashinostr.png"/><noscript><img class="gs-erp-img-hover" src="/wp-content/img/main/mashinostr.png" alt="Машиностроение" title="Машиностроение" style="display: none"/></noscript>
+                </div>
+                <div class="gs-design-table-body gs-mobile-medium-height" style="width: calc(49% - 3px); min-height: 200px;">
+                    <p name="title">Машиностроение</p>
+                    
+                    <ul style='color:rgba(0, 0, 0, 0.4)'>
+                        <li style='list-style: none;'><span style='color:#000'>Расширение возможностей трансформации промышленного производства для предприятий машиностроения, авиастроения, автомобилестроения, производства оборудования, металлообработки и других: управление производством продукции, материально-техническим обеспечением, персоналом и качеством; поддержка бизнес-процессов машиностроительных предприятий и их анализ.</span></li>
+                    </ul>
+                                                    </div>
+            </div>
+                </div>
+                    <div class="gs-design-table-row">
+                                <div class="gs-design-table-cell gs-mobile-medium-height" data-color="rgba(0, 0, 0, 0.4)" style="width: calc(49% - 3px); min-height: 200px; cursor: auto;">
+                <div class="gs-design-table-img">
+                    <img class="gs-erp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Оборонно-промышленный комплекс" title="Оборонно-промышленный комплекс" data-lazy-src="/wp-content/img/main/military.png" /><noscript><img class="gs-erp-img" src="/wp-content/img/main/military.png" alt="Оборонно-промышленный комплекс" title="Оборонно-промышленный комплекс" /></noscript>
+                    <img class="gs-erp-img-hover" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Оборонно-промышленный комплекс" title="Оборонно-промышленный комплекс" style="display: none" data-lazy-src="/wp-content/img/main/military.png"/><noscript><img class="gs-erp-img-hover" src="/wp-content/img/main/military.png" alt="Оборонно-промышленный комплекс" title="Оборонно-промышленный комплекс" style="display: none"/></noscript>
+                </div>
+                <div class="gs-design-table-body gs-mobile-medium-height" style="width: calc(49% - 3px); min-height: 200px;">
+                    <p name="title">Оборонно-промышленный комплекс</p>
+                                    
+                    <ul style='color:rgba(0, 0, 0, 0.4)'>
+                        <li style='list-style: none;'><span style='color:#000'>Решение задач, стоящих перед предприятиями оборонно-промышленного комплекса, с помощью мощного сочетания технологий и комплексных информационных систем, включая ключевые функции, разработанные специально для организаций, занимающихся научно-исследовательскими работами, разработкой, производством, хранением и испытаниями военной техники, боеприпасов и амуниции.</span></li>
+                    </ul>
+                                                    </div>
+            </div>
+                                <div class="gs-design-table-cell gs-mobile-medium-height" data-color="rgba(0, 0, 0, 0.4)" style="width: calc(49% - 3px); min-height: 200px; cursor: auto;">
+                <div class="gs-design-table-img">
+                    <img class="gs-erp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Пищевая промышленность" title="Пищевая промышленность" data-lazy-src="/wp-content/img/main/food.png" /><noscript><img class="gs-erp-img" src="/wp-content/img/main/food.png" alt="Пищевая промышленность" title="Пищевая промышленность" /></noscript>
+                    <img class="gs-erp-img-hover" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Пищевая промышленность" title="Пищевая промышленность" style="display: none" data-lazy-src="/wp-content/img/main/food.png"/><noscript><img class="gs-erp-img-hover" src="/wp-content/img/main/food.png" alt="Пищевая промышленность" title="Пищевая промышленность" style="display: none"/></noscript>
+                </div>
+                <div class="gs-design-table-body gs-mobile-medium-height" style="width: calc(49% - 3px); min-height: 200px;">
+                    <p name="title">Пищевая промышленность</p>
+                    
+                    <ul style='color:rgba(0, 0, 0, 0.4)'>
+                        <li style='list-style: none;'><span style='color:#000'>Повышайте эффективность предприятий пищевой промышленности в цифровой экономике: особенности бухгалтерского учета в пищевой отрасли, специальные алгоритмы управления снабжением, сбытом, производственной программой.</span></li>
+                    </ul>
+                                                    </div>
+            </div>
+                </div>
+                    <div class="gs-design-table-row">
+                                <div class="gs-design-table-cell gs-mobile-medium-height gs-cell-n-1" data-color="rgba(0, 0, 0, 0.4)" style="width: calc(49% - 3px); min-height: 200px; cursor: auto;">
+                <div class="gs-design-table-img">
+                    <img class="gs-erp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Строительство" title="Строительство" data-lazy-src="/wp-content/img/main/buildings.png" /><noscript><img class="gs-erp-img" src="/wp-content/img/main/buildings.png" alt="Строительство" title="Строительство" /></noscript>
+                    <img class="gs-erp-img-hover" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Строительство" title="Строительство" style="display: none" data-lazy-src="/wp-content/img/main/buildings.png"/><noscript><img class="gs-erp-img-hover" src="/wp-content/img/main/buildings.png" alt="Строительство" title="Строительство" style="display: none"/></noscript>
+                </div>
+                <div class="gs-design-table-body gs-mobile-medium-height" style="width: calc(49% - 3px); min-height: 200px;">
+                    <p name="title">Строительство</p>
+                    
+                    <ul style='color:rgba(0, 0, 0, 0.4)'>
+                        <li style='list-style: none;'><span style='color:#000'>Повышение производительности и снижения рисков строительных организаций в рамках их процессов и проектов в сферах гражданского и промышленного строительства, комплексное управление и учет всех особенностей бизнес-процессов в строительстве с помощью информационных систем от «Топ Софт».</span></li>
+                    </ul>
+                                                    </div>
+            </div>
+                                <div class="gs-design-table-cell gs-mobile-medium-height gs-cell-n-n" data-color="rgba(0, 0, 0, 0.4)" style="width: calc(49% - 3px); min-height: 200px; cursor: auto;">
+                <div class="gs-design-table-img">
+                    <img class="gs-erp-img" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Агропромышленный комплекс" title="Агропромышленный комплекс" data-lazy-src="/wp-content/img/main/agro.png" /><noscript><img class="gs-erp-img" src="/wp-content/img/main/agro.png" alt="Агропромышленный комплекс" title="Агропромышленный комплекс" /></noscript>
+                    <img class="gs-erp-img-hover" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="Агропромышленный комплекс" title="Агропромышленный комплекс" style="display: none" data-lazy-src="/wp-content/img/main/agro.png"/><noscript><img class="gs-erp-img-hover" src="/wp-content/img/main/agro.png" alt="Агропромышленный комплекс" title="Агропромышленный комплекс" style="display: none"/></noscript>
+                </div>
+                <div class="gs-design-table-body gs-mobile-medium-height" style="width: calc(49% - 3px); min-height: 200px;">
+                    <p name="title">Агропромышленный комплекс</p>
+                    
+                    <ul style='color:rgba(0, 0, 0, 0.4)'>
+                        <li style='list-style: none;'><span style='color:#000'>Устойчивое развитие предприятий агропромышленного комплекса благодаря цифровой трансформации: управление финансовой и хозяйственной деятельностью, включая управление материальными, кадровыми и финансовыми ресурсами, производством продукции, качеством сырья.</span></li>
+                    </ul>
+                                                    </div>
+            </div>
+                </div>
+        </div>
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_7 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_13">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_15">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #434343;'>500 +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>ИТ-специалистов<br />работают в компании</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_16">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #FFC000;'>100 +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>профессиональных позиций<br />открывают выбор для роста<br />по горизонтали и вертикали</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_17">
+				
+				
+				<div class="et_pb_code_inner"><div class='gs-digital-block'>
+  <div name='gs_number'>
+    <span style='background-color: #30519E;'>100 +</span>
+  </div>
+  <div name='gs_text'>
+    <span style=''>студентов вузов каждый год<br />проходят практику<br />в «Топ Софте»</span>
+  </div>  
+</div></div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="services" class="et_pb_section et_pb_section_8 et_pb_with_background et_pb_section_parallax et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_14">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Услуги</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_15 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Консультационный центр</span></h4>
+						<div class="et_pb_blurb_description"><p style="color: #1b4868">
+Организация и проведение консультаций, семинаров, тренингов и подготовка специалистов  для эффективного использования функциональных возможностей программных продуктов корпорации.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_1  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Пуско-наладочные работы</span></h4>
+						<div class="et_pb_blurb_description"><p style="color: #1b4868">
+Внедряем автоматизированные системы управления на предприятиях. Мы изучаем бизнес-процессы предприятия, разрабатываем план внедрения, вводим систему в опытное использование, а затем передаем в промышленную эксплуатацию.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_31  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_2  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Техническое сопровождение</span></h4>
+						<div class="et_pb_blurb_description"><p style="color: #1b4868">
+Наши клиенты получают техническую поддержку от специалистов: мы поставляем обновления систем, проводим консультирование, предоставляем доступ к информационным ресурсам и многое другое.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_16 et_pb_row_fullwidth">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_32  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_3  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Центры компетенции</span></h4>
+						<div class="et_pb_blurb_description"><p style="color: #1b4868">
+Специалисты центров обладают экспертными знаниями бизнес-задач своей отрасли и предлагают эффективные решения для предприятий на базе систем Галактика.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_33  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_4  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>IT-консалтинг</span></h4>
+						<div class="et_pb_blurb_description"><p style="color: #1b4868">
+Перед внедрением систем автоматизации управления проводится консалтинговое изучение предприятия, его бизнес-процессов, схем документооборота, взаимоотношений с контрагентами и другого.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_34  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_5  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Безопасность данных</span></h4>
+						<div class="et_pb_blurb_description"><p style="color: #1b4868">
+Мы проводим проект по обеспечению защиты персональных данных на предприятиях: выявляем информационные системы, обрабатывающие персональную информацию, разрабатываем процедуры по ее защите, помогаем пройти аттестацию системы.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="partners" class="et_pb_section et_pb_section_9 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_17">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_35  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Партнерская сеть</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_18">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="584" height="329" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20584%20329'%3E%3C/svg%3E" alt="Партнерская сеть корпорации Галактика " title="Сеть партнеров корпорации Галактика" class="wp-image-4980" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/partners.png" /><noscript><img loading="lazy" width="584" height="329" src="https://topsoft.by/wp-content/uploads/2019/11/partners.png" alt="Партнерская сеть корпорации Галактика " title="Сеть партнеров корпорации Галактика" class="wp-image-4980" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_5 et_pb_column_37  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><a href="/partners/">Региональные партнеры</a> компании «Топ Софт» продвигают, внедряют и сопровождают наши решения, проводят обучение пользователей.</p>
+<p>Партнеры со статусом разработчика создают на базе программных продуктов «Топ Софта» собственные приложения.</p>
+<p>Все партнеры прошли в компании «Топ Софт» сертификацию, подтверждающую их статус.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div id="clients" class="et_pb_section et_pb_section_10 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_19">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_38  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Наши клиенты</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_20">
+				<div class="et_pb_column et_pb_column_1_6 et_pb_column_39  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-317" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/beltelecom.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/beltelecom.png" alt="" title="" class="wp-image-317" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_40  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-318" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/airport.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/airport.png" alt="" title="" class="wp-image-318" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_41  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-319" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/tamojnya_rb.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/tamojnya_rb.png" alt="" title="" class="wp-image-319" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_42  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-320" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/drujba.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/drujba.png" alt="" title="" class="wp-image-320" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_43  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-321" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/belkommunmash.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/belkommunmash.png" alt="" title="" class="wp-image-321" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_44  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_6">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-322" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/keramin.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/keramin.png" alt="" title="" class="wp-image-322" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_21">
+				<div class="et_pb_column et_pb_column_1_6 et_pb_column_45  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_7">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-324" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/avtoprovod.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/avtoprovod.png" alt="" title="" class="wp-image-324" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_46  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_8">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-325" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/maz.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/maz.png" alt="" title="" class="wp-image-325" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_47  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_9">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-326" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/06/oma.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/06/oma.png" alt="" title="" class="wp-image-326" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_48  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_10">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4963" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/140_.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/140_.png" alt="" title="" class="wp-image-4963" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_49  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_11">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4966" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/belgie.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/belgie.png" alt="" title="" class="wp-image-4966" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_50  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_12">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4968" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/belneftestrah_logo.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/belneftestrah_logo.png" alt="" title="" class="wp-image-4968" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_22">
+				<div class="et_pb_column et_pb_column_1_6 et_pb_column_51  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_13">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4969" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/granit_logo.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/granit_logo.png" alt="" title="" class="wp-image-4969" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_52  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_14">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4970" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/mav-logo.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/mav-logo.png" alt="" title="" class="wp-image-4970" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_53  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_15">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4971" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/metiznyi_zavod.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/metiznyi_zavod.png" alt="" title="" class="wp-image-4971" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_54  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_16">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4972" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/stadler-logo.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/stadler-logo.png" alt="" title="" class="wp-image-4972" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_55  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_17">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4973" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/stim.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/stim.png" alt="" title="" class="wp-image-4973" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_6 et_pb_column_56  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_18">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" width="172" height="78" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%2078'%3E%3C/svg%3E" alt="" title="" class="wp-image-4974" data-lazy-src="https://topsoft.by/wp-content/uploads/2019/11/taim.png" /><noscript><img loading="lazy" width="172" height="78" src="https://topsoft.by/wp-content/uploads/2019/11/taim.png" alt="" title="" class="wp-image-4974" /></noscript></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</div><!-- .et-l -->
+	
+			
+		</div><!-- #et-boc -->
+							</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+        <div id='gs-pre-footer' class='gs-pre-footer'>
+            <div class='container gs-body'>
+                <h2>Задать вопрос</h2>
+                <div name='gs-fields' class='gs-first'>
+                    <input value='' name='gs_name' class='gs-inputs' type='text' placeholder='Имя*' style='width: 100%;'>
+                    <input value='' name='gs_email' class='gs-inputs' type='text' placeholder='E-mail*' style='width: 100%;'>
+                    <input value='' name='gs_tel' class='gs-inputs' type='text' placeholder='Номер телефона' style='width: 100%;'>
+                </div>
+                <div name='gs-fields' class='gs-second'>
+                    <textarea name='gs_mess' placeholder='Сообщение' style='width: 100%;'></textarea>
+                </div>
+                <div name='gs-personal-data'>
+                    <input name='gs_checkbox_personal_data' type='checkbox' value='1' class='gs-checkbox' id='gs_checkbox_personal_data' checked='checked'>
+                    <label for='gs_checkbox_personal_data'>
+                        <span>Согласие на обработку персональных данных</span>
+                    </label>
+                </div>
+                <div name='gs-buttons'>
+                    <button name='gs_send_request'data-wpnonce='6cbaa51f56'><span>Отправить</span> 
+            <div style='display:none;' class='fbloader'>
+                <div id='blockG_1' class='fb_loaderG fb_loader_white'></div>
+                <div id='blockG_2' class='fb_loaderG fb_loader_white'></div>
+                <div id='blockG_3' class='fb_loaderG fb_loader_white'></div>
+            </div>    
+        </button>
+                </div>
+                <div name='gs-notifications'>
+                </div>
+            </div>
+        </div>
+    
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div class="gs-footer">
+    <div>
+        <div class="gs-column-1-4">&nbsp;
+            <b>ООО «Топ Софт»</b> – ведущий разработчик и поставщик информационных систем «Галактика» для автоматизации управления бизнесом в СНГ.
+            <br><br>
+            <ul>
+                <li style="padding-bottom: 10px;">Наша система менеджмента качества сертифицирована по международному стандарту ISO 9001:2015 и СТБ ISO 9001–2015.</li>
+                <li style="padding-bottom: 10px;">Наши решения используются во всех отраслях экономики.</li>
+                <li>Мы обеспечиваем полную техническую поддержку своих продуктов.</li>
+            </ul>
+            <br>
+            <a href="/" target="_blank">
+                <img alt='ООО "Топ Софт"' title='ООО "Топ Софт"' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="/wp-content/uploads/2019/06/logo_topsoft_white.png"/><noscript><img alt='ООО "Топ Софт"' title='ООО "Топ Софт"' src="/wp-content/uploads/2019/06/logo_topsoft_white.png"/></noscript>
+            </a>
+        </div>
+        <div class="gs-column-1-4">&nbsp;
+<!--            <h4>--><!--</h4>-->
+<!--            <a href="https://galaktika-soft.com/ranet-olap">--><!--</a>-->
+<!--            <a href="https://galaktika-soft.com/ranet-analytics">--><!--</a>-->
+<!--            <a href="https://galaktika-soft.com/xafari">--><!--</a>-->
+        </div>
+        <div class="gs-column-1-4">
+        </div>
+        <div class="gs-column-1-4">
+<!--            <h4>--><!--</h4>-->
+            ООО «Топ Софт»<br/>
+            220012, Республика Беларусь, г. Минск<br/>
+            ул. Сурганова 28в<br/>
+            <br/>
+            Телефоны: <br/>
+            +375 17 294-99-88<br/>
+            +375 17 294-99-99<br/>
+            <a href="mailto:sales@topsoft.by">sales@topsoft.by</a><br/>
+            Техническое сопровождение:<br/>
+            Телефон: +375 17 294-99-94<br/>
+            <a href="mailto:support@topsoft.by">support@topsoft.by</a><br/>
+        </div>
+    </div>
+        <div class="gs-footer-bottom">
+        <div class="gs-column-1-2">
+            © 2022 ООО «Топ Софт»
+            <span class="gs-sitemap-link">
+                <a href="https://topsoft.by/sitemap/">Карта сайта</a>
+            </span>
+        </div>
+        <div class="gs-column-1-2 gs-socials-icons">
+            <a href="https://www.facebook.com/topsoft.company/" class="gs-footer-social gs-facebook" rel="nofollow"></a>
+<!--            <a href="https://www.linkedin.com/company/galaktikasoft" class="gs-footer-social gs-linkedin" rel="nofollow"></a>-->
+<!--            <a href="https://twitter.com/galaktikasoft" class="gs-footer-social gs-twitter" rel="nofollow"></a>-->
+            <a href="https://www.youtube.com/channel/UC9vNUYW1o02uTF7d3Fm-Yrw" class="gs-footer-social gs-youtube" rel="nofollow"></a>
+            <a href="/feed/" class="gs-footer-social gs-rss"></a>
+        </div>
+    </div>
+</div>
+</div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+					</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+				<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel='stylesheet' id='shortcodes/gs-category-posts-css'  href='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/css/shortcodes/gs-category-posts.css' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcodes/gs-design-box-9-css'  href='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/css/shortcodes/gs-design-box-9.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://topsoft.by/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/topsoft.by\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449.","next":"\u0421\u043b\u0435\u0434."};
+var et_pb_custom = {"ajaxurl":"https:\/\/topsoft.by\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/topsoft.by\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/topsoft.by\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"acb98c8ccd","subscription_failed":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u043f\u043e\u043b\u044f \u043d\u0438\u0436\u0435, \u0447\u0442\u043e\u0431\u044b \u0443\u0431\u0435\u0434\u0438\u0442\u044c\u0441\u044f, \u0447\u0442\u043e \u0432\u044b \u0432\u0432\u0435\u043b\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e.","et_ab_log_nonce":"eea6b8e260","fill_message":"\ufeff\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u043e\u043b\u044f:","contact_error_message":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0438\u0441\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043e\u0448\u0438\u0431\u043a\u0438:","invalid":"\u041d\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b","captcha":"\u041a\u0430\u043f\u0447\u0438","prev":"\u041f\u0440\u0435\u0434","previous":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435","next":"\u0414\u0430\u043b\u0435\u0435","wrong_captcha":"\u0412\u044b \u0432\u0432\u0435\u043b\u0438 \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0432 \u043a\u0430\u043f\u0447\u0435.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"311","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/themes/Divi/js/custom.unified.js?ver=4.9.10' id='divi-custom-script-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/themes/Divi/core/admin/js/common.js?ver=4.9.10' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcOaMAUAAAAAMGX2Ope5d6Q3mr-FdM89ZTAQUWs&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcOaMAUAAAAAMGX2Ope5d6Q3mr-FdM89ZTAQUWs","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4.2' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-includes/js/wp-embed.min.js?ver=5.5.8' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/js/jquery.shuffle.min.js' id='jquery.shuffle.min-js'></script>
+<script type='text/javascript' id='gs-category-posts-js-extra'>
+/* <![CDATA[ */
+var _gsCategoryPosts = {"optionMax":"6","clickGroup":"gs-catpost-group-3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/js/gs-category-posts.js' id='gs-category-posts-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/js/gs-design-box-9.js' id='gs-design-box-9-js'></script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/js/gs-design-table.js' id='gs-design-table-js'></script>
+<script type='text/javascript' id='gs-pre-footer-js-extra'>
+/* <![CDATA[ */
+var _gsPreFooterForm = {"path":"https:\/\/topsoft.by\/wp-content\/plugins\/galaktika-engine-ru","messPersonalDataWarning":"<span style=\"color: #ecb20c;\">\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0434\u0430\u0439\u0442\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u043d\u0430 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u043f\u0435\u0440\u0435\u0434 \u043e\u0442\u043f\u0440\u0430\u0432\u043a\u043e\u0439 \u0444\u043e\u0440\u043c\u044b<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://topsoft.by/wp-content/plugins/galaktika-engine-ru/js/gs-pre-footer.js' id='gs-pre-footer-js'></script>
+<script>window.lazyLoadOptions = {
+                elements_selector: "img[data-lazy-src],.rocket-lazyload",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                }};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async src="https://topsoft.by/wp-content/plugins/rocket-lazy-load/assets/js/16.1/lazyload.min.js"></script></body>
+</html>

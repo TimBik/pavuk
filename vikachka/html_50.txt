@@ -1,0 +1,2813 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="ru">
+<head>
+<meta charset="UTF-8" />
+<title>OnlySoft™ - лицензионнoе программное обеспечение в Украине</title>
+<base href="https://onlysoft.ua/" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Лицензионное программное обеспечение купить в Украине ➥ в интернет-магазине onlysoft.ua. ☎ 098 700 1030" />
+<link href="https://onlysoft.ua/image/data/logo/os-favicon.png" rel="icon" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/stylesheet.css" />
+<!--Color scheme *******************************************-->
+     <link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/style1.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/blog/font-awesome/css/font-awesome.min.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="image/seocms.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/slideshow.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/nivo-slider.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/universlider.css" media="screen" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox-min.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen" />
+<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/common2.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/blog/blog.color.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/nivo-slider/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="catalog/view/theme/univer/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="catalog/view/theme/univer/js/slider/jquery.tmpl.min.js"></script>
+<!--[if IE 7]> 
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie7.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
+<script type="text/javascript" src="catalog/view/javascript/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('#logo img');
+</script>
+<![endif]-->
+<!--JS 
+*******************************************-->
+<script type="text/javascript" src="catalog/view/theme/univer/js/owl.carousel.js"></script>
+<script type="text/javascript" src="catalog/view/theme/univer/js/main.js"></script>
+<script type="text/javascript" src="catalog/view/theme/univer/js/responsive/enquire.min.js"></script>
+<script type="text/javascript" src="catalog/view/theme/univer/js/newselect.js"></script>
+<script type="text/javascript" src="fastorder/fast_order.js"></script>
+<!--Top Control *******************************************-->
+<script src="catalog/view/theme/univer/js/scroll/scrolltopcontrol.js" type="text/javascript"></script>
+<!--Fixed menu *******************************************-->
+<script src="catalog/view/theme/univer/js/fixmenu.js" type="text/javascript"></script>
+<!--Responsive *******************************************-->
+<script type="text/javascript" src="catalog/view/theme/univer/js/responsive/menu_script.js"></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/responsive.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/topmenu.css" />
+<!--***************************************-->
+<!--CSS *******************************************-->
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/owl.carousel.css" />
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/univer/stylesheet/owl.theme.css" />
+<!--***************************************-->
+<!-- Theme Fonts **************************************-->
+<!--***************************************-->
+<!-- Theme Custom colors **************************************-->
+<style type="text/css">
+ 
+body { 
+ 
+background-color: #ECEEF4;
+}
+@media only screen and (max-width: 1170px) {
+.containermenu{ width:100%;} 
+}
+
+ 
+ 
+ 
+#all_header { 
+ 
+background-color: #001936;
+}
+ 
+#header .header_topbox { 
+background-color: #001023;
+}
+ 
+#header .links > div a, #header .links > div, #currency a, #language span, #currency span {
+color:#FFFFFF;
+}	
+ 
+ 
+#header .links > div:hover a, #header .links > div:hover{
+color:#ECEEF4;
+}	
+ 	
+ 
+#header .links > div:hover{
+background-color:#001023;
+}	
+ 
+ 
+#header #cart .heading a, #header #cart .heading h4 {
+color:#FFFFFF;
+}	
+   
+ 
+#header .matban_box.beforetext .two{
+color:#FFFFFF;
+}
+ 		 	
+ 
+ 
+ 
+.menu > ul > li:hover,  .menu1 .mobilemenu a:hover, .categories > a:hover, .menu > ul > li a.active {
+background-color:#001023;
+}	 	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+    
+ 
+#footer{
+ 
+background-color:#001023;
+}	
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+#powered{
+background-color:#001936;
+}	
+  
+ 
+ 
+		 
+                   		      		 
+</style>   
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TQGTZR7');</script>
+<!-- End Google Tag Manager --><!--microdatapro 7.8 twitter cards start -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:creator" content="@only_soft" />
+<meta property="twitter:site" content="" />
+<meta property="twitter:title" content="" />
+<meta property="twitter:description" content="Лицензионное программное обеспечение купить в Украине ➥ в интернет-магазине onlysoft.ua. ☎ 098 700 1030" />
+<meta property="twitter:image" content="https://onlysoft.ua/image/data/logo.png" />
+<meta property="twitter:image:alt" content="" />
+<!--microdatapro 7.8 twitter cards end -->
+<!--microdatapro 7.8 open graph start -->
+<meta property="og:locale" content="ru">
+<meta property="og:rich_attachment" content="true">
+<meta property="og:site_name" content="OnlySoft">
+<meta property="og:type" content="business.business" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="Лицензионное программное обеспечение купить в Украине ➥ в интернет-магазине onlysoft.ua. ☎ 098 700 1030" />
+<meta property="og:image" content="https://onlysoft.ua/image/data/logo.png" />
+<meta property="og:image:secure_url" content="https://onlysoft.ua/image/data/logo.png" />
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="600">
+<meta property="og:url" content="https://onlysoft.ua/">
+<meta property="business:contact_data:street_address" content="ул. Гвардейцев-Широнинцев, 55" />
+<meta property="business:contact_data:locality" content="Харьков" />
+<meta property="business:contact_data:postal_code" content="61170" />
+<meta property="business:contact_data:country_name" content="Украина" />
+<meta property="place:location:latitude" content="50.013054" />
+<meta property="place:location:longitude" content="36.339543" />
+<meta property="business:contact_data:email" content="info@onlysoft.ua"/>
+<meta property="business:contact_data:phone_number" content="+38-098-700-10-30"/>
+<meta property="fb:profile_id" content="https://www.facebook.com/onlysoftukraine">
+<!--microdatapro 7.8 open graph end -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQGTZR7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+           
+<!--Move panels--> 
+<div class="movepanel">
+   
+	
+	
+  
+  
+  </div>
+<!--end move panels-->
+<div id="container">
+   <div id="all_header">
+   <div id="header">
+     <div class="header_topbox">
+     <div class="containermenu">
+     <!--Top menu box-->
+     
+				
+<script type="text/javascript">
+$(document).ready(function() {
+	$('.select2').customStyle12();
+  });
+ </script>         <div class="navButton menuResp links">
+  <!--Link Home-->
+    <!--Login or Registere-->
+     <div id="welcome"> | <a href="https://onlysoft.ua/login.html">Вход</a> | <a href="https://onlysoft.ua/quick-register.html">Регистрация</a> |  </div>
+     <!--Link Wishlist-->
+     <!--Link Compare-->
+     <!--Link Account-->
+     <!--Link Cart-->
+     <!--Link Checkout-->
+     <!--Link Brand-->
+       <!--Link Specials-->
+          <div><a href="https://onlysoft.ua/specials.html">Акции</a></div>
+       <!--Link News-->
+       <!--Custom Link-->
+           	 <div><a href="/news/" title="Новости">Новости</a></div>
+    
+           	 <div><a href="/articles/" title="Статьи">Статьи</a></div>
+    
+           	 <div><a href="/reviews/" title="Обзоры">Обзоры</a></div>
+    
+           	 <div><a href="/service/" title="Услуги">Услуги</a></div>
+    
+           	 <div><a href="/contacts/" title="Контакты">Контакты</a></div>
+    
+    
+  <!--end Custom Link-->
+  </div>
+  <!--end Top menu box-->
+  </div>
+  </div>
+  <div class="header_middle containermenu">
+  <!--Logo-->
+      <div id="logo"><img src="https://onlysoft.ua/image/data/logo.png" title="OnlySoft" alt="OnlySoft" /></div>
+   <!--end Logo-->
+  <!--Cart-->
+    <div id="cart">
+  <div class="heading">
+   <a href="https://onlysoft.ua/basket.html" class="bigcart"></a>
+    <h4>Корзина покупок</h4>
+    <a><span id="cart-total">Товаров: 0 (0.00 грн.)</span></a></div>
+  <div class="content">
+        <div class="empty">Ничего не куплено!</div>
+      </div>
+</div>  <!--end Cart-->
+ <div class="header_contact matban_box beforetext">
+  
+  <!--Contact info-->
+  <div class="contact-info-holder">
+             <div class="stylebanner opener count-3">
+         <a href="tel:098 700 1030" >
+          
+           <div class="one">
+             <img src="https://onlysoft.ua/image/data/logo/kyivstar.png" title="098 700 1030" alt="098 700 1030" />
+           </div>
+                  <div class="two"> 098 700 1030 </div>
+         </a>
+         <span></span>
+      </div>
+                     <div class="stylebanner info-slide count-3">
+         <a href="tel:099 700 1030" >
+          <div class="one">
+         <img src="https://onlysoft.ua/image/data/logo/vodafone.png" title="099 700 1030" alt="099 700 1030" /></div>         <div class="two">099 700 1030</div>
+        </a>
+         </div>
+                     <div class="stylebanner info-slide count-3">
+         <a href="tel:073 700 1030" >
+          <div class="one">
+         <img src="https://onlysoft.ua/image/data/logo/lifecell.png" title="073 700 1030" alt="073 700 1030" /></div>         <div class="two">073 700 1030</div>
+        </a>
+         </div>
+              </div>
+  <!--end Contact info--> 
+  <div id="search" class="open-search">
+<input class="sb-search-input" placeholder="Поиск"  type="text" name="filter_name" value="Поиск" onclick="this.value = '';" onkeydown="this.style.color = '#999;';" />
+<input class="sb-search-submit button-search" type="submit" value="">
+</div>
+<!--end search-->
+ </div>
+   </div>
+<div class="cont_bottom"></div>  
+</div>
+<!--Menu-->
+<div class="ma-nav-mobile-container hidden-desktop default ">
+<div class="navbar containermenu ">
+<div id="navbar-inner" class="navbar-inner navbar-inactive">
+<a class="btn btn-navbar"><div>Меню</div>
+<span class="icon-bar">  </span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+  <div id="menu" class="menu">
+  <ul  id="ma-mobilemenu" class="mobilemenu nav-collapse collapse">
+           <li  class="parent"  >
+    <a href="https://onlysoft.ua/os/" ><span>Операционные системы</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		     
+            class="parent" 
+		                            >
+             <a href="https://onlysoft.ua/os/ms-os/"><span>Microsoft</span></a>
+          
+              <!--level3-->
+                                                <div class="level3">
+                  <ul>
+                                    <li><a href="https://onlysoft.ua/os/ms-os/windows-7/">Windows 7</a></li>
+                                    <li><a href="https://onlysoft.ua/os/ms-os/windows-8/">Windows 8</a></li>
+                                    <li><a href="https://onlysoft.ua/os/ms-os/windows-10/">Windows 10</a></li>
+                                    </ul>
+                  </div>
+                                  
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/office/" ><span>Офисное ПО</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/office/abbyy-office/"><span>ABBYY</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/office/adobe-office/"><span>Adobe</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/office/ms-office/"><span>Microsoft</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/antivirus/" ><span>Антивирусы</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/antivirus/alt-n-antivirus/"><span>ALT-N Technologies</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		     
+            class="parent" 
+		                            >
+             <a href="https://onlysoft.ua/antivirus/bitdefender-antivirus/"><span>Bitdefender</span></a>
+          
+              <!--level3-->
+                                                <div class="level3">
+                  <ul>
+                                    <li><a href="https://onlysoft.ua/antivirus/bitdefender-antivirus/bd-for-home/">Bitdefender для дома</a></li>
+                                    <li><a href="https://onlysoft.ua/antivirus/bitdefender-antivirus/bd-for-business/">Bitdefender для бизнеса</a></li>
+                                    </ul>
+                  </div>
+                                  
+          
+          
+          </li>
+                                        <li 
+            		     
+            class="parent" 
+		                            >
+             <a href="https://onlysoft.ua/antivirus/drweb-antivirus/"><span>Dr.Web</span></a>
+          
+              <!--level3-->
+                                                <div class="level3">
+                  <ul>
+                                    <li><a href="https://onlysoft.ua/antivirus/drweb-antivirus/drweb-for-home/">Dr.Web для дома</a></li>
+                                    <li><a href="https://onlysoft.ua/antivirus/drweb-antivirus/drweb-for-business/">Dr.Web для бизнеса</a></li>
+                                    <li><a href="https://onlysoft.ua/antivirus/drweb-antivirus/drweb-boxes/">Dr.Web коробки</a></li>
+                                    </ul>
+                  </div>
+                                  
+          
+          
+          </li>
+                                        <li 
+            		     
+            class="parent" 
+		                            >
+             <a href="https://onlysoft.ua/antivirus/eset-antivirus/"><span>ESET</span></a>
+          
+              <!--level3-->
+                                                <div class="level3">
+                  <ul>
+                                    <li><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/">ESET для дома</a></li>
+                                    <li><a href="https://onlysoft.ua/antivirus/eset-antivirus/business/">ESET для бизнеса</a></li>
+                                    </ul>
+                  </div>
+                                  
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/antivirus/f-secure-antivirus/"><span>F-Secure</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		     
+            class="parent" 
+		                            >
+             <a href="https://onlysoft.ua/antivirus/kaspersky-antivirus/"><span>Kaspersky Lab</span></a>
+          
+              <!--level3-->
+                                                <div class="level3">
+                  <ul>
+                                    <li><a href="https://onlysoft.ua/antivirus/kaspersky-antivirus/kav/">Kaspersky Anti-Virus</a></li>
+                                    <li><a href="https://onlysoft.ua/antivirus/kaspersky-antivirus/kis/">Kaspersky Internet Security</a></li>
+                                    <li><a href="https://onlysoft.ua/antivirus/kaspersky-antivirus/kts/">Kaspersky Total Security</a></li>
+                                    </ul>
+                  </div>
+                                  
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/antivirus/norton-antivirus/"><span>Norton</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/antivirus/symantec-antivirus/"><span>Symantec</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/antivirus/trend-micro-antivirus/"><span>Trend Micro</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/graphics/" ><span>Графика и дизайн</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/graphics/adobe-graphics/"><span>Adobe</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/graphics/corel-graphics/"><span>Corel</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/mm/" ><span>Мультимедиа</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/mm/adobe-media/"><span>Adobe</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/mm/corel-media/"><span>Corel</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/mm/cyberlink-media/"><span>Cyberlink</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/mm/magix-mm/"><span>Magix</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/mm/sony-media/"><span>Sony</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/servers/" ><span>Серверное ПО</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/servers/alt-n-server/"><span>ALT-N Technologies</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/servers/kerio-server/"><span>Kerio</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/servers/mcafee-server/"><span>McAfee</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/servers/ms-server/"><span>Microsoft</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/servers/oracle-server/"><span>Oracle</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		     
+            class="parent" 
+		                            >
+             <a href="https://onlysoft.ua/servers/proxmox-server/"><span>Proxmox</span></a>
+          
+              <!--level3-->
+                                                <div class="level3">
+                  <ul>
+                                    <li><a href="https://onlysoft.ua/servers/proxmox-server/proxmox-mail-gateway/">Proxmox Mail Gateway</a></li>
+                                    <li><a href="https://onlysoft.ua/servers/proxmox-server/proxmox-virtual-environment/">Proxmox Virtual Environment</a></li>
+                                    </ul>
+                  </div>
+                                  
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/utils/" ><span>Утилиты</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/utils/zoom-utils/"><span>Zoom</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/utils/acronis-utils/"><span>Acronis</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/utils/teamviewer-utils/"><span>TeamViewer</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/cad/" ><span>САПР</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/cad/autodesk-cad/"><span>Autodesk</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/cad/corel-cad/"><span>Corel</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/cad/solidworks-cad/"><span>SolidWorks</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        <li  class="parent"  >
+    <a href="https://onlysoft.ua/for-developers/" ><span>Средства разработки</span></a>
+            <div class="topmenu default">
+                <ul>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/ms-programming/"><span>Microsoft</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/smartbear-programming/"><span>SmartBear Software</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/jetbrains-programming/"><span>JetBrains</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/allround-automations-programming/"><span>Allround Automations</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/devexpress-programming/"><span>DevExpress</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/embarcadero-programming/"><span>Embarcadero</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                                        <li 
+            		                            >
+             <a href="https://onlysoft.ua/for-developers/devart-programming/"><span>Devart</span></a>
+          
+              <!--level3-->
+                                                    
+          
+          
+          </li>
+                            </ul>
+              </div>
+          </li>
+        						
+       
+                  
+                                            
+
+						
+ </ul>
+</div>
+</div>
+</div>
+</div>
+<!--end menu-->
+</div>
+<div class="main topmain">
+<div class="container">
+<div id="notification"></div> </div></div><div class="full_container">
+
+<div class="cont_bottom"></div>
+</div><div class="main"><div class="container">
+ 
+<div id="content">
+<ul id="cmswidget-4" style="display: none;" class="cmswidget">
+</ul>
+<script>
+	$('#cmswidget-4').hide();
+		$(document).ready(function(){
+		var prefix = 'ascpw4';
+	var cmswidget = '4';
+	var data = $('#cmswidget-4').html();
+	$('#cmswidget-'+cmswidget).remove();
+
+$('#menu ul:first').append(data);;
+	$('#cmswidget-4').show();
+ 	delete data;
+	delete prefix;
+	delete cmswidget;
+		});
+	</script>
+
+ 
+
+
+<div class="slideshow slider-wrapper">
+  <div id="slideshow0" class="nivoSlider mattSlider">
+            <a href="//onlysoft.ua/utils/teamviewer-utils/"><img src="https://onlysoft.ua/image/cache/data/main-banner/210-1170x300.jpg" alt="TeamViewer" /></a>
+                <a href="//onlysoft.ua/antivirus/eset-antivirus/"><img src="https://onlysoft.ua/image/cache/data/main-banner/202-1170x300.jpg" alt="ESET" /></a>
+                <a href="//onlysoft.ua/graphics/adobe-graphics/"><img src="https://onlysoft.ua/image/cache/data/main-banner/240-1170x300.jpg" alt="Adobe Creative Cloud" /></a>
+          </div>
+</div>
+
+<script type="text/javascript"><!--
+ $(document).ready(function(){
+	$('#slideshow0').animate({opacity:1}, 50, function(){
+		$(this).nivoSlider({
+						effect: 'random',
+															directionNav:false,
+												randomStart: false,
+			});	
+	});
+	
+	});
+--></script> 
+
+<div id="univer_tabs0" class="htabs univer_tabs">
+		      	  <a href="#tab-10">Лидеры продаж</a>
+      	 	     	  <a href="#tab-20">Новинки</a>
+      	 	     	  <a href="#tab-30">Акции</a>
+      	 	</div>
+
+<div id="tab-10" class="box-product-category tabs_module">
+  <div class="box">
+	  <div class="box-content">
+		<div class="box-product">
+        
+         <div class="owl-addimage owl-carousel">  
+		  		             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-pro.html"><img src="https://onlysoft.ua/image/cache/data/zoom/zoom-200x200.jpg" alt="Zoom Pro Профессиональный" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-pro.html">Zoom Pro Профессиональный</a></div>
+               <div class="fastmodel">ZVCP1H100A</div>                              <div class="price">
+                              5728.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1013');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1013');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1013');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="Отзывов: 1" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/eset-antivirus/business/workstation/eset-endpoint-antivirus-1year-renew.html"><img src="https://onlysoft.ua/image/cache/data/eset/2021/eset-endpoint-antivirus-200x200.jpg" alt="ESET Endpoint Antivirus Продление 1 Год" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/eset-antivirus/business/workstation/eset-endpoint-antivirus-1year-renew.html">ESET Endpoint Antivirus Продление 1 Год</a></div>
+               <div class="fastmodel">EEA-1Y-R</div>                              <div class="price">
+                              522.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('78');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('78');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('78');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="Отзывов: 1" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-nod32-antivirus.html"><img src="https://onlysoft.ua/image/cache/data/eset/2016/nod32-antivirus-200x200.jpg" alt="ESET NOD32 Antivirus" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-nod32-antivirus.html">ESET NOD32 Antivirus</a></div>
+               <div class="fastmodel">ENA-1Y</div>                              <div class="price">
+                              347.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('265');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('265');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('265');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="Отзывов: 3" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-nod32-antivirus-1year-renew.html"><img src="https://onlysoft.ua/image/cache/data/eset/2016/nod32-antivirus-200x200.jpg" alt="ESET NOD32 Antivirus Продление 1 Год" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-nod32-antivirus-1year-renew.html">ESET NOD32 Antivirus Продление 1 Год</a></div>
+               <div class="fastmodel">ENA-1Y-R</div>                              <div class="price">
+                              205.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('879');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('879');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('879');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-for-teams.html"><img src="https://onlysoft.ua/image/cache/data/adobe/cc/adobe-photoshop-cc-200x200.jpg" alt="Adobe Photoshop for teams" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-for-teams.html">Adobe Photoshop for teams</a></div>
+               <div class="fastmodel">65297615BA01A12</div>                              <div class="price">
+                              13254.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('379');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('379');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('379');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-4.png" alt="Отзывов: 4" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-internet-security-1year-renew.html"><img src="https://onlysoft.ua/image/cache/data/eset/2016/internet-security-200x200.jpg" alt="ESET Internet Security Продление 1 Год" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-internet-security-1year-renew.html">ESET Internet Security Продление 1 Год</a></div>
+               <div class="fastmodel">EIS-1Y-R</div>                              <div class="price">
+                              275.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('880');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('880');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('880');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-creative-cloud-for-teams.html"><img src="https://onlysoft.ua/image/cache/data/adobe/adobe-creative-cloud-200x200.jpg" alt="Adobe Creative Cloud for teams All Apps" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-creative-cloud-for-teams.html">Adobe Creative Cloud for teams All Apps</a></div>
+               <div class="fastmodel">65297752BA01A12</div>                              <div class="price">
+                              30646.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('595');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('595');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('595');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="Отзывов: 2" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-internet-security.html"><img src="https://onlysoft.ua/image/cache/data/eset/2016/internet-security-200x200.jpg" alt="ESET Internet Security" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-internet-security.html">ESET Internet Security</a></div>
+               <div class="fastmodel">EIS-1Y</div>                              <div class="price">
+                              463.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('726');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('726');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('726');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="Отзывов: 2" /></div>
+                  
+
+                
+               
+          </div>
+
+			  		           </div>  
+		</div>
+	  </div>
+  </div>
+</div>
+<script type="text/javascript"><!--
+       $("#tab-10 .owl-addimage").owlCarousel({
+      navigation : true,
+	  stopOnHover: true,
+	  stopOnHover: true,
+      pagination : false,
+      items 	 :4,
+	   				itemsDesktop 			: [1199,3],
+		        itemsDesktopSmall 		: [979,2],
+		        itemsTablet 			: [768,1],
+				 
+				 autoPlay: 8000,	 
+
+      });
+//--></script>
+
+<div id="tab-20" class="box-product-category tabs_module">
+  <div class="box">
+	  <div class="box-content">
+		<div class="box-product">
+        
+         <div class="owl-addimage owl-carousel">  
+		  		             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/tokens-smartcards/avest-tokens-smartcards/avest-avestkey.html"><img src="https://onlysoft.ua/image/cache/data/avest/avestkey-200x200.jpg" alt="Защищенный носитель информации токен AvestKey" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/tokens-smartcards/avest-tokens-smartcards/avest-avestkey.html">Защищенный носитель информации токен AvestKey</a></div>
+               <div class="fastmodel">avestkey</div>                              <div class="price">
+                              570.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1182');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1182');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1182');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-video-webinars-1000.html"><img src="https://onlysoft.ua/image/cache/data/zoom/zoom-200x200.jpg" alt="Zoom Video Webinars 1000 " /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-video-webinars-1000.html">Zoom Video Webinars 1000 </a></div>
+               <div class="fastmodel">ZVW1000A</div>                              <div class="price">
+                              130406.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1181');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1181');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1181');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-video-webinars-500.html"><img src="https://onlysoft.ua/image/cache/data/zoom/zoom-200x200.jpg" alt="Zoom Video Webinars 500 " /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-video-webinars-500.html">Zoom Video Webinars 500 </a></div>
+               <div class="fastmodel">ZVW500A</div>                              <div class="price">
+                              26496.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1180');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1180');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1180');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/mm/adobe-media/adobe-premiere-elements-2022-rus.html"><img src="https://onlysoft.ua/image/cache/data/adobe/2022/adobe-premiere-elements-2022-200x200.jpg" alt="Adobe Premiere Elements 2022 Russian" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/mm/adobe-media/adobe-premiere-elements-2022-rus.html">Adobe Premiere Elements 2022 Russian</a></div>
+               <div class="fastmodel">65319064AD01A00</div>                              <div class="price">
+                              2525.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1179');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1179');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1179');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-elements-2022-rus.html"><img src="https://onlysoft.ua/image/cache/data/adobe/2022/adobe-photoshop-elements-2022-200x200.jpg" alt="Adobe Photoshop Elements 2022 Russian" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-elements-2022-rus.html">Adobe Photoshop Elements 2022 Russian</a></div>
+               <div class="fastmodel">65318936AD01A00</div>                              <div class="price">
+                              2525.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1178');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1178');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1178');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-premiere-elements-2022-rus.html"><img src="https://onlysoft.ua/image/cache/data/adobe/2022/adobe-photoshop-premier-elements-2022-200x200.jpg" alt="Adobe Photoshop &amp; Premiere Elements 2022 Russian" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-premiere-elements-2022-rus.html">Adobe Photoshop &amp; Premiere Elements 2022 Russian</a></div>
+               <div class="fastmodel">65319144AD01A00</div>                              <div class="price">
+                              3363.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1177');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1177');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1177');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/mm/adobe-media/adobe-premiere-elements-2022-eng.html"><img src="https://onlysoft.ua/image/cache/data/adobe/2022/adobe-premiere-elements-2022-200x200.jpg" alt="Adobe Premiere Elements 2022 English" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/mm/adobe-media/adobe-premiere-elements-2022-eng.html">Adobe Premiere Elements 2022 English</a></div>
+               <div class="fastmodel">65319003AD01A00</div>                              <div class="price">
+                              3498.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1176');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1176');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1176');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-elements-2022-eng.html"><img src="https://onlysoft.ua/image/cache/data/adobe/2022/adobe-photoshop-elements-2022-200x200.jpg" alt="Adobe Photoshop Elements 2022 English" /></a>
+                
+                 
+               
+                </div> 
+				                
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/graphics/adobe-graphics/adobe-photoshop-elements-2022-eng.html">Adobe Photoshop Elements 2022 English</a></div>
+               <div class="fastmodel">65318845AD01A00</div>                              <div class="price">
+                              3498.00 грн.               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1175');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1175');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1175');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			  		           </div>  
+		</div>
+	  </div>
+  </div>
+</div>
+<script type="text/javascript"><!--
+       $("#tab-20 .owl-addimage").owlCarousel({
+      navigation : true,
+	  stopOnHover: true,
+	  stopOnHover: true,
+      pagination : false,
+      items 	 :4,
+	   				itemsDesktop 			: [1199,3],
+		        itemsDesktopSmall 		: [979,2],
+		        itemsTablet 			: [768,1],
+				 
+				 autoPlay: 8000,	 
+
+      });
+//--></script>
+
+<div id="tab-30" class="box-product-category tabs_module">
+  <div class="box">
+	  <div class="box-content">
+		<div class="box-product">
+        
+         <div class="owl-addimage owl-carousel">  
+		  		             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-deluxe-3pc-1year-esd.html"><img src="https://onlysoft.ua/image/cache/data/symantec/2020/norton-360-deluxe-3d-200x200.jpg" alt="Norton 360 Deluxe 3ПК 1ГОД ESD " /></a>
+                
+                 
+               
+                </div> 
+				                
+                                  <div class="savemoney">- 17%</div>
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-deluxe-3pc-1year-esd.html">Norton 360 Deluxe 3ПК 1ГОД ESD </a></div>
+               <div class="fastmodel">21409592</div>                              <div class="price">
+                              <span class="price-old">815.00 грн.</span> <span class="price-new">679.00 грн.</span>
+               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1054');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1054');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1054');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-deluxe-5pc-1year-esd.html"><img src="https://onlysoft.ua/image/cache/data/symantec/2020/norton-360-deluxe-5d-200x200.jpg" alt="Norton 360 Deluxe 5ПК 1ГОД ESD " /></a>
+                
+                 
+               
+                </div> 
+				                
+                                  <div class="savemoney">- 18%</div>
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-deluxe-5pc-1year-esd.html">Norton 360 Deluxe 5ПК 1ГОД ESD </a></div>
+               <div class="fastmodel">21409553</div>                              <div class="price">
+                              <span class="price-old">891.00 грн.</span> <span class="price-new">727.00 грн.</span>
+               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1055');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1055');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1055');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-premium-10pc-1year-esd.html"><img src="https://onlysoft.ua/image/cache/data/symantec/2020/norton-360-premium-200x200.jpg" alt="Norton 360 Premium 10ПК 1ГОД ESD " /></a>
+                
+                 
+               
+                </div> 
+				                
+                                  <div class="savemoney">- 20%</div>
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-premium-10pc-1year-esd.html">Norton 360 Premium 10ПК 1ГОД ESD </a></div>
+               <div class="fastmodel">21409567</div>                              <div class="price">
+                              <span class="price-old">1283.00 грн.</span> <span class="price-new">1022.00 грн.</span>
+               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1053');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1053');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1053');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-standard-1pc-1year-esd.html"><img src="https://onlysoft.ua/image/cache/data/symantec/2020/norton-360-standard-200x200.jpg" alt="Norton 360 Standard 1ПК 1ГОД ESD " /></a>
+                
+                 
+               
+                </div> 
+				                
+                                  <div class="savemoney">- 19%</div>
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-standard-1pc-1year-esd.html">Norton 360 Standard 1ПК 1ГОД ESD </a></div>
+               <div class="fastmodel">21409591</div>                              <div class="price">
+                              <span class="price-old">645.00 грн.</span> <span class="price-new">522.00 грн.</span>
+               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1056');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1056');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1056');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/os/ms-os/windows-10-pro-ukr-usb.html"><img src="https://onlysoft.ua/image/cache/data/microsoft/windows-10-pro-200x200.jpg" alt="Windows 10 Профессиональная 32/64-bit Ukrainian USB" /></a>
+                
+                 
+               
+                </div> 
+				                
+                                  <div class="savemoney">- 14%</div>
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/os/ms-os/windows-10-pro-ukr-usb.html">Windows 10 Профессиональная 32/64-bit Ukrainian USB</a></div>
+               <div class="fastmodel">HAV-00102 (FQC-10147)</div>                              <div class="price">
+                              <span class="price-old">8160.00 грн.</span> <span class="price-new">7040.00 грн.</span>
+               <!--                <span class="stock"><br /><font style="color: green;"><b>В наличии</b></font></span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('794');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('794');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('794');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			             <div class="itemcolumns">
+               
+        <!--hover object-->              
+         
+          
+         
+   <!--end hover object-->  
+
+								<div class="image"><a href="https://onlysoft.ua/tokens-smartcards/avtor-tokens-smartcards/avtor-securetoken-337k.html"><img src="https://onlysoft.ua/image/cache/data/avtor/secure-token-337k-200x200.jpg" alt="Электронный USB-ключ SecureToken-337К" /></a>
+                
+                 
+               
+                </div> 
+				                
+                                  <div class="savemoney">- 33%</div>
+                  
+  
+
+                
+              <div class="name"><a href="https://onlysoft.ua/tokens-smartcards/avtor-tokens-smartcards/avtor-securetoken-337k.html">Электронный USB-ключ SecureToken-337К</a></div>
+               <div class="fastmodel">ST337K</div>                              <div class="price">
+                              <span class="price-old">760.00 грн.</span> <span class="price-new">510.00 грн.</span>
+               <!--                <span class="stock"><br />Нет в наличии</span>     -->
+               </div>
+                
+               
+               
+               <div class="cart">
+            			
+			   			   <input type="button" value="Нет в наличии" class="button nostock" />
+			   			   
+						</div> 
+
+                <div class="hover_but">
+                			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1089');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1089');"  title="В сравнение"></a></div>
+                             
+               </div>  
+                             <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="Отзывов: 0" /></div>
+                  
+
+                
+               
+          </div>
+
+			  		           </div>  
+		</div>
+	  </div>
+  </div>
+</div>
+<script type="text/javascript"><!--
+       $("#tab-30 .owl-addimage").owlCarousel({
+      navigation : true,
+	  stopOnHover: true,
+	  stopOnHover: true,
+      pagination : false,
+      items 	 :4,
+	   				itemsDesktop 			: [1199,3],
+		        itemsDesktopSmall 		: [979,2],
+		        itemsTablet 			: [768,1],
+				 
+				 autoPlay: 8000,	 
+
+      });
+//--></script>
+
+<script type="text/javascript"><!--
+      $('#univer_tabs0 a').tabs();
+//--></script>
+
+
+   
+    <div id="matban_box0" class="matban_box
+                  maska_text" >
+
+
+
+ 
+        <div class="box_maska">
+    
+     
+	    
+    <div class="stylebanner   count-3" id="univerbanner-00" >
+    <div class="ramka_box">
+    <a href="/for-home/">         
+        
+        <div class="one">
+        
+         <img src="https://onlysoft.ua/image/cache/data/banners/1-375x152.jpg" 
+                  alt="Программы для дома" 
+         title="Программы для дома"
+         >
+        </div>
+
+        
+               
+        
+     </a>            
+     </div>
+     </div>
+         
+    <div class="stylebanner   count-3" id="univerbanner-10" >
+    <div class="ramka_box">
+    <a href="/tokens-smartcards/">         
+        
+        <div class="one">
+        
+         <img src="https://onlysoft.ua/image/cache/data/banners/7-375x152.jpg" 
+                  alt="Токены и смарт-карты" 
+         title="Токены и смарт-карты"
+         >
+        </div>
+
+        
+               
+        
+     </a>            
+     </div>
+     </div>
+         
+    <div class="stylebanner   count-3" id="univerbanner-20" >
+    <div class="ramka_box">
+    <a href="/for-business/">         
+        
+        <div class="one">
+        
+         <img src="https://onlysoft.ua/image/cache/data/banners/2-375x152.jpg" 
+                  alt="Программы для бизнеса" 
+         title="Программы для бизнеса"
+         >
+        </div>
+
+        
+               
+        
+     </a>            
+     </div>
+     </div>
+          
+   </div>
+	
+   
+<script type="text/javascript">	
+                $(document).ready(function(){
+				 $("#matban_box0.slider_banner .owl-addbanner").owlCarousel({
+                 navigation : true,
+                 pagination : false,
+				 singleItem : true,
+				 	 				 autoPlay: 8000,	 
+					 							    });
+	
+                 });                                                                      
+               </script>
+</div>   
+
+    
+ <div class="box">
+ <div class="box-heading">Рекомендуем</div>
+  <div class="box-content featur">
+  <div class="box-product">
+
+        
+                        <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/os/ms-os/windows-10-pro-ukr-usb.html" data-image="https://onlysoft.ua/image/cache/data/microsoft/windows-10-pro-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/microsoft/windows-10-pro-200x200.jpg" alt="Windows 10 Профессиональная 32/64-bit Ukrainian USB" ></a>
+                      
+                   
+                   </div>
+
+                                                  <div class="savemoney">- 14%</div>
+                
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/os/ms-os/windows-10-pro-ukr-usb.html">Windows 10 Профессиональная 32/64-bit Ukrainian USB</a></div>
+                 <div class="fastmodel">HAV-00102 (FQC-10147)</div>                              <div class="price">
+                              <span class="price-old">8160.00 грн.</span> <span class="price-new">7040.00 грн.</span>
+                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('794');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('794');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('794');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="На основании 0 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/tokens-smartcards/avtor-tokens-smartcards/avtor-securetoken-338m.html" data-image="https://onlysoft.ua/image/cache/data/avtor/secure-token-338m-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/avtor/secure-token-338m-200x200.jpg" alt="Электронный USB-ключ SecureToken-338M" ></a>
+                      
+                   
+                   </div>
+
+                                    
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/tokens-smartcards/avtor-tokens-smartcards/avtor-securetoken-338m.html">Электронный USB-ключ SecureToken-338M</a></div>
+                 <div class="fastmodel">ST338M</div>                              <div class="price">
+                              680.00 грн.                              </div>
+               
+               <div class="cart">
+            			
+			   			    <input type="button" value="Предзаказ" onclick="addToCart('1090');" class="button" />
+			   			   
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1090');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1090');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="На основании 2 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/tokens-smartcards/avtor-tokens-smartcards/avtor-securetoken-338s.html" data-image="https://onlysoft.ua/image/cache/data/avtor/secure-token-338s-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/avtor/secure-token-338s-200x200.jpg" alt="Электронный USB-ключ SecureToken-338S" ></a>
+                      
+                   
+                   </div>
+
+                                    
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/tokens-smartcards/avtor-tokens-smartcards/avtor-securetoken-338s.html">Электронный USB-ключ SecureToken-338S</a></div>
+                 <div class="fastmodel">ST338S</div>                              <div class="price">
+                              950.00 грн.                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1091');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1091');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1091');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="На основании 0 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-premium-10pc-1year-esd.html" data-image="https://onlysoft.ua/image/cache/data/symantec/2020/norton-360-premium-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/symantec/2020/norton-360-premium-200x200.jpg" alt="Norton 360 Premium 10ПК 1ГОД ESD " ></a>
+                      
+                   
+                   </div>
+
+                                                  <div class="savemoney">- 20%</div>
+                
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/antivirus/norton-antivirus/norton-360-premium-10pc-1year-esd.html">Norton 360 Premium 10ПК 1ГОД ESD </a></div>
+                 <div class="fastmodel">21409567</div>                              <div class="price">
+                              <span class="price-old">1283.00 грн.</span> <span class="price-new">1022.00 грн.</span>
+                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1053');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1053');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1053');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="На основании 0 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-pro.html" data-image="https://onlysoft.ua/image/cache/data/zoom/zoom-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/zoom/zoom-200x200.jpg" alt="Zoom Pro Профессиональный" ></a>
+                      
+                   
+                   </div>
+
+                                    
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/utils/zoom-utils/zoom-pro.html">Zoom Pro Профессиональный</a></div>
+                 <div class="fastmodel">ZVCP1H100A</div>                              <div class="price">
+                              5728.00 грн.                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1013');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1013');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1013');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="На основании 1 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-internet-security.html" data-image="https://onlysoft.ua/image/cache/data/eset/2016/internet-security-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/eset/2016/internet-security-200x200.jpg" alt="ESET Internet Security" ></a>
+                      
+                   
+                   </div>
+
+                                    
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/antivirus/eset-antivirus/home/eset-internet-security.html">ESET Internet Security</a></div>
+                 <div class="fastmodel">EIS-1Y</div>                              <div class="price">
+                              463.00 грн.                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('726');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('726');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('726');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-5.png" alt="На основании 2 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/office/adobe-office/adobe-acrobat-std-2020-ukr.html" data-image="https://onlysoft.ua/image/cache/data/adobe/new/adobe-acrobat-2020-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/adobe/new/adobe-acrobat-2020-200x200.jpg" alt="Adobe Acrobat Standard 2020 Ukrainian" ></a>
+                      
+                   
+                   </div>
+
+                                    
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/office/adobe-office/adobe-acrobat-std-2020-ukr.html">Adobe Acrobat Standard 2020 Ukrainian</a></div>
+                 <div class="fastmodel">65310938AD01A00</div>                              <div class="price">
+                              7331.00 грн.                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('818');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('818');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('818');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="На основании 0 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+                     <div class="itemcolumns">
+               
+       <!--hover object-->              
+       
+        
+              	  
+         
+   <!--end hover object-->  
+                 
+                 
+                  
+                   <div class="image"><a href="https://onlysoft.ua/office/ms-office/office-home-and-business-2021-esd.html" data-image="https://onlysoft.ua/image/cache/data/microsoft/2021ESD/office-hb-2021-esd-200x200.jpg"><img src="https://onlysoft.ua/image/cache/data/microsoft/2021ESD/office-hb-2021-esd-200x200.jpg" alt="Office для дома и бизнеса 2021 ESD" ></a>
+                      
+                   
+                   </div>
+
+                                    
+  
+                             
+                <div class="name"><a href="https://onlysoft.ua/office/ms-office/office-home-and-business-2021-esd.html">Office для дома и бизнеса 2021 ESD</a></div>
+                 <div class="fastmodel">T5D-03484</div>                              <div class="price">
+                              8094.00 грн.                              </div>
+               
+               <div class="cart">
+            			<input type="button" value="Купить" onclick="addToCart('1165');" class="button" />
+						</div> 
+
+                <div class="hover_but">
+            
+		  	   			   <div class="singleclick_wrapper"><a class="singleclick" title="Быстрый заказ">Быстрый заказ</a></div>
+			                                 <div class="wishlist"><a onclick="addToWishList('1165');" title="В закладки" ></a></div>
+                                             <div class="compare"><a onclick="addToCompare('1165');"  title="В сравнение"></a></div>
+                            
+               </div>
+  
+                              <div class="rating"><img src="catalog/view/theme/univer/image/stars-0.png" alt="На основании 0 отзывов." /></div>
+                
+               
+
+
+              
+        </div>
+
+      
+      
+       
+   </div> </div>  
+  
+   </div>  
+<h1 style="display: none;">OnlySoft™ - лицензионнoе программное обеспечение в Украине</h1>
+</div>
+  <div class="cont_bottom"></div>
+     <div class="contbot">
+  <div id="cmswidget-5" class="cmswidget">
+<div>   <div class="seocmspro_content blog-content">
+						<style>
+			 .record_columns .column_width_5 {
+			 	width: 49%; padding-right: 5px;			 }
+			</style>
+
+	<div id="record_columns-5" class="record_columns ">
+
+				<div class="content-records column_width_5">
+				<div class="divider100"></div>
+
+                                        <div class="name marginbottom5">
+						<h2 class="ascp-list-title-widget"><a href="https://onlysoft.ua/news/eset-internet-security-effektivnaya-onlayn-zashchita-so-skidkoy-50.html" class="ascp-list-title-widget modal_5 " data-cmswidget="5" data-template_modal="">ESET Internet Security: эффективная онлайн-защита со скидкой 50%</a></h2>
+						</div>
+						
+                   					<div class="image blog-image sc-widget-image-block ">
+											<div class="image sc-widget-image ">
+														<a href="https://onlysoft.ua/news/eset-internet-security-effektivnaya-onlayn-zashchita-so-skidkoy-50.html" title="ESET Internet Security: эффективная онлайн-защита со скидкой 50%" class="modal_5 " data-cmswidget="5" data-template_modal="">
+								<img src="https://onlysoft.ua/image/cache/adaptive/data/news/eset-general-150x150.jpg" class="img-responsive" title="ESET Internet Security: эффективная онлайн-защита со скидкой 50%" alt="ESET Internet Security: эффективная онлайн-защита со скидкой 50%" />
+							</a>
+													</div>
+					
+					
+					</div>
+
+                                        <div class="sc-widget-content">
+                        
+
+                    					<div class="description record_description">Только&nbsp;с 22 ноября по 28 ноября 2021 года&nbsp;включительно&nbsp;пользователям предоставляется уникальная возможность ...&nbsp;
+
+					
+
+					<br>
+<br>
+<a href="https://onlysoft.ua/news/eset-internet-security-effektivnaya-onlayn-zashchita-so-skidkoy-50.html" class="button btn btn-primary seocms_further " title="ESET Internet Security: эффективная онлайн-защита со скидкой 50%"  data-cmswidget="5" >Подробнее</a>
+					</div>
+                    
+					<div class="divider100"></div>
+
+					                    <div class="blog_bottom">
+					       	<ul class="ascp_horizont ascp_list_info ul55">
+
+									
+																											<li  class="blog-data-record">
+									19 ноября 2021 14:43									</li>
+																		
+
+									
+									
+									
+
+									
+		                 </ul>
+
+		                <ul class="ascp_horizont ascp_list_info ul45">
+
+									
+									
+							</ul>
+                    </div>
+					<div class="divider100"></div>
+
+		 				</div>
+	</div>
+				<div class="content-records column_width_5">
+				<div class="divider100"></div>
+
+                                        <div class="name marginbottom5">
+						<h2 class="ascp-list-title-widget"><a href="https://onlysoft.ua/news/adobe-vypustila-premiere-i-photoshop-elements-2022.html" class="ascp-list-title-widget modal_5 " data-cmswidget="5" data-template_modal="">Adobe выпустила Premiere и Photoshop Elements 2022</a></h2>
+						</div>
+						
+                   					<div class="image blog-image sc-widget-image-block ">
+											<div class="image sc-widget-image ">
+														<a href="https://onlysoft.ua/news/adobe-vypustila-premiere-i-photoshop-elements-2022.html" title="Adobe выпустила Premiere и Photoshop Elements 2022" class="modal_5 " data-cmswidget="5" data-template_modal="">
+								<img src="https://onlysoft.ua/image/cache/adaptive/data/news/adobe-150x150.jpg" class="img-responsive" title="Adobe выпустила Premiere и Photoshop Elements 2022" alt="Adobe выпустила Premiere и Photoshop Elements 2022" />
+							</a>
+													</div>
+					
+					
+					</div>
+
+                                        <div class="sc-widget-content">
+                        
+
+                    					<div class="description record_description">Компания Adobe представила большие обновления программ Adobe Photoshop Elements и Premiere Elements, которые обновились до версии&nbsp;2022.&nbsp;
+
+					
+
+					<br>
+<br>
+<a href="https://onlysoft.ua/news/adobe-vypustila-premiere-i-photoshop-elements-2022.html" class="button btn btn-primary seocms_further " title="Adobe выпустила Premiere и Photoshop Elements 2022"  data-cmswidget="5" >Подробнее</a>
+					</div>
+                    
+					<div class="divider100"></div>
+
+					                    <div class="blog_bottom">
+					       	<ul class="ascp_horizont ascp_list_info ul55">
+
+									
+																											<li  class="blog-data-record">
+									08 октября 2021 15:19									</li>
+																		
+
+									
+									
+									
+
+									
+		                 </ul>
+
+		                <ul class="ascp_horizont ascp_list_info ul45">
+
+									
+									
+							</ul>
+                    </div>
+					<div class="divider100"></div>
+
+		 				</div>
+	</div>
+	
+</div>
+
+			           <div class="divider100"></div>
+
+
+
+
+            
+			
+		</div>
+</div></div>
+
+
+<script>
+	$('#cmswidget-5').hide();
+		$(document).ready(function(){
+			var prefix = 'ascpw5';
+		var cmswidget = '5';
+		var heading_title = 'Главная - Новости';
+	    var records = '2';
+	    var total = '114';
+		var data = $('#cmswidget-5').clone();
+		$('#cmswidget-'+cmswidget).remove();
+
+$('.contact-info-content').html(data);;
+		$('#cmswidget-5').show();
+		delete records;
+		delete total;
+		delete data;
+		delete prefix;
+		delete cmswidget;
+		});
+	</script>
+
+
+<div class="contact-info-foot box">
+<div class="box-heading">
+<a href="//onlysoft.ua/news/">Новости</a>  
+</div>
+</br>
+<div class="contact-info-content">
+</div>  
+</div>
+</div>
+ <div class="cont_bottom"></div>
+</div>
+</div><!--end main-->       
+<div id="footer">
+<div class="containermenu">
+<div>
+    <div class="column">
+    <h3>Информация</h3>
+    <ul>
+            <li><a href="https://onlysoft.ua/about-us.html">О компании</a></li>
+            <li><a href="https://onlysoft.ua/payment.html">Оплата</a></li>
+            <li><a href="https://onlysoft.ua/delivery.html">Доставка</a></li>
+            <li><a href="https://onlysoft.ua/return.html">Возврат товара</a></li>
+            <li><a href="https://onlysoft.ua/policy.html">Публичная оферта</a></li>
+            <li><a href="https://onlysoft.ua/agreement.html">Условия соглашения</a></li>
+          </ul>
+  </div>
+    <div class="column">
+    <h3>Личный кабинет</h3>
+    <ul>
+      <li><a href="https://onlysoft.ua/my-account.html">Личный кабинет</a></li>
+      <li><a href="https://onlysoft.ua/order-history.html">История заказов</a></li>
+      <li><a href="https://onlysoft.ua/wishlist.html">Закладки</a></li>
+      <li><a href="https://onlysoft.ua/newsletter.html">Рассылка</a></li>
+    </ul> 
+    </div>
+ <span class="ctr"></span>
+   <!--custom block --> 
+   <div class="customblock_footer column "> 
+    <div>
+         <h3>ДОСТАВКА</h3>
+          <p><strong style="font-size: 14px;">Доставляем программное обеспечение в</strong></p>
+
+<p>Киев, Харьков, Одесса, Днепр, Запорожье, Львов, Кривой Рог, Николаев, Мариуполь, Винница, Херсон, Полтава, Чернигов, Черкассы, Житомир, Сумы, Хмельницкий, Ровно, Кропивницкий, Черновцы, Кременчуг, Ивано-Франковск, Тернополь, Белая Церковь, Луцк, Мелитополь, Ужгород и в другие города Украины.</p>
+      </div>
+  </div> 
+  <!--end custom block-->  
+    <div class="column contact">
+  <ul>
+         <li class="phone_f">+38 098 700 1030<br>
++38 099 700 1030<br>
++38 073 700 1030
+</li>
+                     <li class="email_f"><a href="mailto:info@onlysoft.ua">info@onlysoft.ua</a></li>
+                <li class="skype_f"><a href="skype://info.onlysoft">info.onlysoft</a></li>
+               <li class="address_f">г. Харьков, Украина</li>
+    
+    </ul>
+  </div>
+  <div class="extras">
+    <ul>
+          <li><img src="https://onlysoft.ua/image/cache/data/paymetod/mastercard-50x30.png" alt="MasterCard" title="MasterCard"></li>
+           <li><img src="https://onlysoft.ua/image/cache/data/paymetod/visa-50x30.png" alt="VISA" title="VISA"></li>
+           <li><img src="https://onlysoft.ua/image/cache/data/paymetod/privat24-50x30.png" alt="Приват24" title="Приват24"></li>
+           <li><img src="https://onlysoft.ua/image/cache/data/paymetod/liqpay-50x30.png" alt="LiqPay" title="LiqPay"></li>
+        </ul>
+   </div>
+</div>
+</div>
+</div><!--end footer-->
+<!--powered-->
+<div id="powered">
+<div  class="containermenu">
+<div>
+ <!--Copyright-->   
+ <div class="copyright">
+       © 2014 - 2022 OnlySoft™      </div>
+ <!--end Copyright--> 
+ <!--Network icons--> 
+        <div class="soc_network">
+             <div><a href="https://www.facebook.com/onlysoftukraine" style="background-image:url('https://onlysoft.ua/image/cache/data/socnet/facebook-24x24.png');" title="Facebook" target="_blank"></a></div>
+              <div><a href="https://twitter.com/only_soft" style="background-image:url('https://onlysoft.ua/image/cache/data/socnet/twitter-24x24.png');" title="Twitter" target="_blank"></a></div>
+              <div><a href="https://www.youtube.com/OnlySoftUaKharkiv" style="background-image:url('https://onlysoft.ua/image/cache/data/socnet/youtube-24x24.png');" title="YouTube" target="_blank"></a></div>
+         </div>
+       <!--end Network icons-->
+ <div class="extras">
+ <ul> 
+             <li><a href="https://onlysoft.ua/contact-us.html">Связаться с нами</a></li>
+                    <li><a href="https://onlysoft.ua/vendors.html">Производители</a></li>
+                                                <li><a href="https://onlysoft.ua/sitemap.html">Карта сайта</a></li>
+           </ul>
+     </div>
+ <div class="cont_bottom"></div>
+ </div>
+ </div>
+ </div>
+<!--end powered--> 
+ <div style="display:none">
+           <div id="fast_order_form"  class="viewcategory">
+            <input id="product_name" type="hidden" value="">
+             <input id="product_model" type="hidden" value="">
+            <input id="product_price" type="hidden" value="">
+			
+			
+             <h2 id="singleclick_title">&nbsp;</h2>
+             <p><b>Быстрый заказ</b><br>
+             Пожалуйста, укажите имя и свой номер телефона, чтобы мы могли связаться с Вами</p>
+              <div class="customer_name"><div></div><input type="text" id="customer_name" placeholder="Имя "/></div>
+              <div class="customer_phone"><div></div><input type="text" id="customer_phone" placeholder="Номер телефона "/></div>
+               <textarea  id="customer_message" name="customer_message" rows="3" placeholder="Комментарий "></textarea>	
+                <input id="pr" type="text" placeholder="Введите код">     
+		<img src='fastorder/img/4.gif' alt='captcha'><img src='fastorder/img/3.gif' alt='captcha'><img src='fastorder/img/6.gif' alt='captcha'><img src='fastorder/img/7.gif' alt='captcha'>         
+       <input id="captcha" type="hidden" value="4367">
+
+
+              <p id="fast_order_result"></p>
+              <button class="fast_order_button button"><span>Отправить</span></button>
+            </div>
+                </div> <script type="text/javascript">
+$(document).ready(function() {
+	$('.select1').customStyle1();
+  });
+ </script>
+</div>
+
+                
+                <script type="text/javascript" src="catalog/view/javascript/TLSCookiesEU.js"></script>
+                
+            
+<div class="config_counters"><!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'muuKkGAqXB';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<!-- {/literal} END JIVOSITE CODE --></div>
+
+<!--microdatapro 7.8 company start [microdata] -->
+<span itemscope itemtype="https://schema.org/Store">
+<meta itemprop="name" content="OnlySoft" />
+<link itemprop="url" href="https://onlysoft.ua/" />
+<link itemprop="image" href="https://onlysoft.ua/image/data/logo.png" />
+<link itemprop="logo" href="https://onlysoft.ua/image/cache/data/logo-144x144.png" />
+<meta itemprop="email" content="info@onlysoft.ua" />
+<meta itemprop="priceRange" content="UAH" />
+<meta itemprop="hasMap" content="https://goo.gl/maps/YiYrDKEZViB2" />
+<meta itemprop="telephone" content="+38-098-700-10-30" />
+<meta itemprop="telephone" content="+38-099-700-10-30" />
+<meta itemprop="telephone" content="+38-073-700-10-30" />
+<link itemprop="sameAs" href="https://www.facebook.com/onlysoftukraine/" />
+<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+<meta itemprop="addressLocality" content="Харьков, Украина" />
+<meta itemprop="postalCode" content="61170" />
+<meta itemprop="streetAddress" content="ул. Гвардейцев-Широнинцев, 55" />
+</span>
+<span itemprop="location" itemscope itemtype="https://schema.org/Place">
+<meta itemprop="name" content="OnlySoft" />
+<link itemprop="image" href="https://onlysoft.ua/image/data/logo.png" />
+<meta itemprop="telephone" content="+38-098-700-10-30" />
+<meta itemprop="telephone" content="+38-099-700-10-30" />
+<meta itemprop="telephone" content="+38-073-700-10-30" />
+<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+<meta itemprop="addressLocality" content="Харьков, Украина" />
+<meta itemprop="postalCode" content="61170" />
+<meta itemprop="streetAddress" content="ул. Гвардейцев-Широнинцев, 55" />
+</span>
+<span itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates">
+<meta itemprop="latitude" content="50.013054" />
+<meta itemprop="longitude" content="36.339543" />
+<span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+<meta itemprop="streetAddress" content="ул. Гвардейцев-Широнинцев, 55" />
+<meta itemprop="addressLocality" content="Харьков, Украина" />
+<meta itemprop="postalCode" content="61170" />
+</span>
+</span>
+</span>
+<span itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+<meta itemprop="target" content="https://onlysoft.ua/index.php?route=product/search&search={search_term_string}"/>
+<input type="hidden" itemprop="query-input" name="search_term_string">
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="https://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="https://schema.org/Monday" />
+<meta itemprop="opens" content="9:00" />
+<meta itemprop="closes" content="18:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="https://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="https://schema.org/Tuesday" />
+<meta itemprop="opens" content="9:00" />
+<meta itemprop="closes" content="18:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="https://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="https://schema.org/Wednesday" />
+<meta itemprop="opens" content="9:00" />
+<meta itemprop="closes" content="18:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="https://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="https://schema.org/Thursday" />
+<meta itemprop="opens" content="9:00" />
+<meta itemprop="closes" content="18:00" />
+</span>
+<span itemprop="openingHoursSpecification" itemscope itemtype="https://schema.org/OpeningHoursSpecification">
+<link itemprop="dayOfWeek" href="https://schema.org/Friday" />
+<meta itemprop="opens" content="9:00" />
+<meta itemprop="closes" content="18:00" />
+</span>
+</span>
+<!--microdatapro 7.8 company end [microdata] -->
+<!--microdatapro 7.8 search start [json-ld] -->
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WebSite",
+"url": "https://onlysoft.ua/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": {
+"@type": "EntryPoint",
+"urlTemplate": "https://onlysoft.ua/index.php?route=product/search&search={search_term_string}"
+},
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+<!--microdatapro 7.8 search end [json-ld] -->
+<!--microdatapro 7.8 company start [json-ld] -->
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Store",
+"name": "OnlySoft",
+"url": "https://onlysoft.ua/",
+"image": "https://onlysoft.ua/image/data/logo.png",
+"logo": "https://onlysoft.ua/image/cache/data/logo-144x144.png",
+"telephone" : "+38-098-700-10-30",
+"email": "info@onlysoft.ua",
+"priceRange": "UAH",
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Харьков, Украина",
+"postalCode": "61170",
+"streetAddress": "ул. Гвардейцев-Широнинцев, 55"
+},
+"location": {
+"@type": "Place",
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "Харьков, Украина",
+"postalCode": "61170",
+"streetAddress": "ул. Гвардейцев-Широнинцев, 55"
+},
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "50.013054",
+"longitude": "36.339543"
+}
+},
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://onlysoft.ua/index.php?route=product/search&search={search_term_string}",
+"query-input": "required name=search_term_string"
+},
+"contactPoint" : [
+{
+"@type" : "ContactPoint",
+"telephone" : "+38-098-700-10-30",
+"contactType" : "customer service"
+},{
+"@type" : "ContactPoint",
+"telephone" : "+38-099-700-10-30",
+"contactType" : "customer service"
+},{
+"@type" : "ContactPoint",
+"telephone" : "+38-073-700-10-30",
+"contactType" : "customer service"
+}],
+"sameAs" : [
+"https://www.facebook.com/onlysoftukraine/"],
+"openingHoursSpecification":[
+{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Monday",
+"opens": "9:00",
+"closes": "18:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Tuesday",
+"opens": "9:00",
+"closes": "18:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Wednesday",
+"opens": "9:00",
+"closes": "18:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Thursday",
+"opens": "9:00",
+"closes": "18:00"
+},{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": "Friday",
+"opens": "9:00",
+"closes": "18:00"
+}]
+}
+</script>
+<!--microdatapro 7.8 company end [json-ld] -->
+<!--microdatapro 7.8 company start [hCard] -->
+<span class="vcard">
+<span class="fn org"><span class="value-title" title="OnlySoft"></span></span>
+<span class="org"><span class="value-title" title="OnlySoft"></span></span>
+<span class="url"><span class="value-title" title="https://onlysoft.ua/"></span></span>
+<span class="adr">
+<span class="locality"><span class="value-title" title="Харьков, Украина"></span></span>
+<span class="street-address"><span class="value-title" title="ул. Гвардейцев-Широнинцев, 55"></span></span>
+<span class="postal-code"><span class="value-title" title="61170"></span></span>
+</span>
+<span class="geo">
+<span class="latitude"><span class="value-title" title="50.013054"></span></span>
+<span class="longitude"><span class="value-title" title="36.339543"></span></span>
+</span>
+<span class="tel"><span class="value-title" title="+38-098-700-10-30"></span></span>
+<span class="tel"><span class="value-title" title="+38-099-700-10-30"></span></span>
+<span class="tel"><span class="value-title" title="+38-073-700-10-30"></span></span>
+<span class="photo"><span class="value-title" title="https://onlysoft.ua/image/data/logo.png"></span></span>
+</span>
+<!--microdatapro 7.8 company end [hCard ] -->
+</body></html>

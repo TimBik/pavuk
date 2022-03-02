@@ -1,0 +1,271 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Решение задач с e-olymp  ||  - решение e-olimp</title>
+<meta name="description" content="Решение задач с e-olymp  решение e-olimp">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="canonical" href="https://devexe.top/"/>
+<meta name="theme-color" content="#2B9CA0">
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/ddfbdcb1-5356-2b0b-f408-5873393aae46.webPlatform.png">
+    <link rel="apple-touch-icon" sizes="32x32" href="/images/17f91dd6-3497-18c3-cf88-91993323f978.webPlatform.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/1c697eb0-a9d7-9aaf-3838-1d252ff41ef8.webPlatform.png">
+    
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/ec1a364c-42dd-66f1-0946-c4cf62ecf2c1.webPlatform.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/712e27b9-c8e3-013d-60dc-bda283b8deb1.webPlatform.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/024314af-8531-f8a3-98ec-510ef1b76ce6.webPlatform.png">
+    <link rel="apple-touch-icon" sizes="192x192" href="/images/4b8cb8a8-3009-1649-55cc-12e674c8dd13.webPlatform.png">
+    <link rel="apple-touch-icon" sizes="300x300" href="/images/05296ee7-be96-a202-7f8c-58e399d754cb.webPlatform.png">
+<link rel='manifest' href='../manifest.json'>
+<style>
+*{margin:0;padding:0;}
+.grid{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
+}
+.squit{
+	box-sizing: border-box;
+	padding-top: 13px;
+	background-color: rgb(64,171,0);
+	margin:1px;
+	height: 45px;
+    width: 45px;
+    text-align: center;
+    text-decoration:none;
+    color:#fff;
+}
+.squit:hover{
+	background-color: rgb(108, 241, 29);
+	box-shadow: inset 0px 0px 40px -6px rgba(0,0,0,0.75);
+	
+}
+</style>
+<meta name="yandex-verification" content="e7f3679f212b23e7" />
+
+</head>
+
+<body>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129659635-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129659635-1');
+</script>
+<div class="ribbon" style="background: #2B9CA0;height: 280px;margin-bottom: -255px;"></div>
+<div style=" border-top: #ff0a2c 4px solid; margin: 0 auto;padding: 20px;max-width: 980px;background: #fff;border-radius: 2px;margin-bottom: 45px;box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);"> 
+<h1 style="text-align:center;margin-bottom:50px"> Решение задач с e-olymp </h1>
+<section class="grid">
+
+			<a href="https://devexe.top/eolimp/1" class="squit" title="Простая задача?"><span >1</span></a>
+			<a href="https://devexe.top/eolimp/2" class="squit" title="Цифры"><span >2</span></a>
+			<a href="https://devexe.top/eolimp/115" class="squit" title="Спичечная модель"><span >3</span></a>
+			<a href="https://devexe.top/eolimp/83" class="squit" title="Две окружности"><span >4</span></a>
+			<a href="https://devexe.top/eolimp/116" class="squit" title="Римские числа"><span >7</span></a>
+			<a href="https://devexe.top/eolimp/117" class="squit" title="Спички"><span >8</span></a>
+			<a href="https://devexe.top/eolimp/118" class="squit" title="Заяц-неудачник"><span >14</span></a>
+			<a href="https://devexe.top/eolimp/119" class="squit" title="Мышка и зернышки"><span >15</span></a>
+			<a href="https://devexe.top/eolimp/3" class="squit" title="Садовник-художник"><span >17</span></a>
+			<a href="https://devexe.top/eolimp/91" class="squit" title="Степень симметрии"><span >19</span></a>
+			<a href="https://devexe.top/eolimp/4" class="squit" title="Сколько можно?"><span >20</span></a>
+			<a href="https://devexe.top/eolimp/79" class="squit" title="Циклические сдвиги"><span >27</span></a>
+			<a href="https://devexe.top/eolimp/121" class="squit" title="Почта спонсора"><span >37</span></a>
+			<a href="https://devexe.top/eolimp/120" class="squit" title="Охрана елочек"><span >38</span></a>
+			<a href="https://devexe.top/eolimp/122" class="squit" title="Паркет из треугольников C++"><span >47</span></a>
+			<a href="https://devexe.top/eolimp/107" class="squit" title="Биллиард C++"><span >58</span></a>
+			<a href="https://devexe.top/eolimp/123" class="squit" title="Факториал C++"><span >62</span></a>
+			<a href="https://devexe.top/eolimp/5" class="squit" title="Анфиса и цветы"><span >63</span></a>
+			<a href="https://devexe.top/eolimp/124" class="squit" title="Друзья Винни C++"><span >69</span></a>
+			<a href="https://devexe.top/eolimp/125" class="squit" title="Числа Фибоначчи C++"><span >73</span></a>
+			<a href="https://devexe.top/eolimp/6" class="squit" title="Пираты и монеты"><span >75</span></a>
+			<a href="https://devexe.top/eolimp/127" class="squit" title="Развлечения гномов C++"><span >80</span></a>
+			<a href="https://devexe.top/eolimp/126" class="squit" title="Скидки C++"><span >80</span></a>
+			<a href="https://devexe.top/eolimp/128" class="squit" title="Спираль C++"><span >85</span></a>
+			<a href="https://devexe.top/eolimp/129" class="squit" title="Водопровод - 2 C++"><span >86</span></a>
+			<a href="https://devexe.top/eolimp/130" class="squit" title="Робот C++"><span >87</span></a>
+			<a href="https://devexe.top/eolimp/131" class="squit" title="Подпроекты C++"><span >92</span></a>
+			<a href="https://devexe.top/eolimp/7" class="squit" title="Среднее число C++"><span >108</span></a>
+			<a href="https://devexe.top/eolimp/9" class="squit" title="Нумерация C++"><span >109</span></a>
+			<a href="https://devexe.top/eolimp/132" class="squit" title="Игра C++"><span >110</span></a>
+			<a href="https://devexe.top/eolimp/133" class="squit" title="Часы C++"><span >111</span></a>
+			<a href="https://devexe.top/eolimp/134" class="squit" title="Торт C++"><span >112</span></a>
+			<a href="https://devexe.top/eolimp/135" class="squit" title="Шарики C++"><span >113</span></a>
+			<a href="https://devexe.top/eolimp/97" class="squit" title="Две цифры C++"><span >115</span></a>
+			<a href="https://devexe.top/eolimp/136" class="squit" title="Степень двойки C++"><span >119</span></a>
+			<a href="https://devexe.top/eolimp/137" class="squit" title="Количество нулей у факториала C++"><span >123</span></a>
+			<a href="https://devexe.top/eolimp/80" class="squit" title="Делители числа N! C++"><span >124</span></a>
+			<a href="https://devexe.top/eolimp/92" class="squit" title="Олимпиада C++"><span >125</span></a>
+			<a href="https://devexe.top/eolimp/138" class="squit" title="Номер квартиры C++"><span >126</span></a>
+			<a href="https://devexe.top/eolimp/8" class="squit" title="Баксы в банке Free Pascal"><span >127</span></a>
+			<a href="https://devexe.top/eolimp/10" class="squit" title="Счастливые билеты C++"><span >128</span></a>
+			<a href="https://devexe.top/eolimp/11" class="squit" title="Клеточки в окружности C++"><span >129</span></a>
+			<a href="https://devexe.top/eolimp/12" class="squit" title="Слова C++"><span >131</span></a>
+			<a href="https://devexe.top/eolimp/13" class="squit" title="Квадрат и точки C++"><span >133</span></a>
+			<a href="https://devexe.top/eolimp/139" class="squit" title="Две окружности - 2 C++"><span >134</span></a>
+			<a href="https://devexe.top/eolimp/140" class="squit" title="НОК C++"><span >135</span></a>
+			<a href="https://devexe.top/eolimp/84" class="squit" title="Отрезок C++"><span >136</span></a>
+			<a href="https://devexe.top/eolimp/14" class="squit" title="НОД ( НСД ) С++"><span >137</span></a>
+			<a href="https://devexe.top/eolimp/15" class="squit" title="Точка и отрезок C++"><span >142</span></a>
+			<a href="https://devexe.top/eolimp/141" class="squit" title="Точка и треугольник C++"><span >143</span></a>
+			<a href="https://devexe.top/eolimp/142" class="squit" title="Квадраты C++"><span >145</span></a>
+			<a href="https://devexe.top/eolimp/143" class="squit" title="Квадраты - 2 C++"><span >146</span></a>
+			<a href="https://devexe.top/eolimp/16" class="squit" title="Выборы вождя Pascal"><span >176</span></a>
+			<a href="https://devexe.top/eolimp/145" class="squit" title="Покер C++"><span >177</span></a>
+			<a href="https://devexe.top/eolimp/146" class="squit" title="Распределение C++"><span >179</span></a>
+			<a href="https://devexe.top/eolimp/147" class="squit" title="Орки будущего C++"><span >182</span></a>
+			<a href="https://devexe.top/eolimp/144" class="squit" title="Новый ряд Фибоначчи C++"><span >185</span></a>
+			<a href="https://devexe.top/eolimp/148" class="squit" title="Просто Фибоначчи C++"><span >192</span></a>
+			<a href="https://devexe.top/eolimp/149" class="squit" title="Сумма цифр C++"><span >193</span></a>
+			<a href="https://devexe.top/eolimp/150" class="squit" title="Произведение цифр C++"><span >194</span></a>
+			<a href="https://devexe.top/eolimp/151" class="squit" title="Четырехугольник - 2  С++"><span >200</span></a>
+			<a href="https://devexe.top/eolimp/152" class="squit" title="Компотозаготовка C++"><span >215</span></a>
+			<a href="https://devexe.top/eolimp/153" class="squit" title="Центральное отопление C++"><span >219</span></a>
+			<a href="https://devexe.top/eolimp/154" class="squit" title="Олимпиада и Интернет C++"><span >226</span></a>
+			<a href="https://devexe.top/eolimp/155" class="squit" title="Несчастливый автобус"><span >247</span></a>
+			<a href="https://devexe.top/eolimp/156" class="squit" title="Тыквенная каша C++"><span >260</span></a>
+			<a href="https://devexe.top/eolimp/101" class="squit" title="Лесенка С++"><span >262</span></a>
+			<a href="https://devexe.top/eolimp/98" class="squit" title="Три единицы C++"><span >263</span></a>
+			<a href="https://devexe.top/eolimp/157" class="squit" title="Произведение C++"><span >272</span></a>
+			<a href="https://devexe.top/eolimp/82" class="squit" title="Возведение в степень C++"><span >273</span></a>
+			<a href="https://devexe.top/eolimp/158" class="squit" title="Уборка территории C++"><span >280</span></a>
+			<a href="https://devexe.top/eolimp/159" class="squit" title="Биномиальные коэффициенты 2"><span >319</span></a>
+			<a href="https://devexe.top/eolimp/160" class="squit" title="Числа C++"><span >324</span></a>
+			<a href="https://devexe.top/eolimp/161" class="squit" title="Опасный маршрут C++"><span >325</span></a>
+			<a href="https://devexe.top/eolimp/78" class="squit" title="Количество слов C++"><span >329</span></a>
+			<a href="https://devexe.top/eolimp/114" class="squit" title="Слово чемпион C++"><span >330</span></a>
+			<a href="https://devexe.top/eolimp/162" class="squit" title="Перестановка C++"><span >354</span></a>
+			<a href="https://devexe.top/eolimp/17" class="squit" title="Максимальная зарплата C++"><span >357</span></a>
+			<a href="https://devexe.top/eolimp/18" class="squit" title="Страшное число C++"><span >381</span></a>
+			<a href="https://devexe.top/eolimp/19" class="squit" title="Грушевое дерево C++"><span >382</span></a>
+			<a href="https://devexe.top/eolimp/163" class="squit" title="Гистограмма C++"><span >383</span></a>
+			<a href="https://devexe.top/eolimp/20" class="squit" title="Превращение C++"><span >388</span></a>
+			<a href="https://devexe.top/eolimp/21" class="squit" title=""Простые" числа C++"><span >395</span></a>
+			<a href="https://devexe.top/eolimp/164" class="squit" title="Торт для Серёжи C++"><span >398</span></a>
+			<a href="https://devexe.top/eolimp/165" class="squit" title="Уравнение C++"><span >414</span></a>
+			<a href="https://devexe.top/eolimp/166" class="squit" title="Задача 3n + 1"><span >419</span></a>
+			<a href="https://devexe.top/eolimp/22" class="squit" title="Клавиатура С++"><span >462</span></a>
+			<a href="https://devexe.top/eolimp/167" class="squit" title="Дерево C++"><span >468</span></a>
+			<a href="https://devexe.top/eolimp/93" class="squit" title="Максимум C++"><span >474</span></a>
+			<a href="https://devexe.top/eolimp/23" class="squit" title="Гласные C++ "><span >494</span></a>
+			<a href="https://devexe.top/eolimp/108" class="squit" title="Простые числа (2) C++"><span >836</span></a>
+			<a href="https://devexe.top/eolimp/24" class="squit" title="Разложение на простые множители C++"><span >842</span></a>
+			<a href="https://devexe.top/eolimp/25" class="squit" title="Уровень учебных достижений C++"><span >902</span></a>
+			<a href="https://devexe.top/eolimp/26" class="squit" title="Первая или последняя? C++"><span >903</span></a>
+			<a href="https://devexe.top/eolimp/27" class="squit" title="Увеличить на 2 C++"><span >904</span></a>
+			<a href="https://devexe.top/eolimp/28" class="squit" title="Какой треугольник? C++"><span >905</span></a>
+			<a href="https://devexe.top/eolimp/29" class="squit" title="Первый не больший за 2,5 C++"><span >907</span></a>
+			<a href="https://devexe.top/eolimp/30" class="squit" title="Среднее арифметическое положительных C++"><span >910</span></a>
+			<a href="https://devexe.top/eolimp/31" class="squit" title="Модуль максимального C++"><span >914</span></a>
+			<a href="https://devexe.top/eolimp/32" class="squit" title="Прямоугольный или нет? C++"><span >915</span></a>
+			<a href="https://devexe.top/eolimp/33" class="squit" title="Какая четверть? C++"><span >918</span></a>
+			<a href="https://devexe.top/eolimp/106" class="squit" title="Используй функцию C++"><span >920</span></a>
+			<a href="https://devexe.top/eolimp/34" class="squit" title="Сдвинь элементы Pascal"><span >922</span></a>
+			<a href="https://devexe.top/eolimp/35" class="squit" title="Время года C++"><span >923</span></a>
+			<a href="https://devexe.top/eolimp/36" class="squit" title="Отношение произведения к сумме C++"><span >931</span></a>
+			<a href="https://devexe.top/eolimp/168" class="squit" title="Высота треугольника"><span >932</span></a>
+			<a href="https://devexe.top/eolimp/37" class="squit" title="Сумма цифр двуцифрового числа C++"><span >933</span></a>
+			<a href="https://devexe.top/eolimp/103" class="squit" title="Высоты треугольника C++"><span >934</span></a>
+			<a href="https://devexe.top/eolimp/38" class="squit" title="Разложение трицифрового числа C++"><span >935</span></a>
+			<a href="https://devexe.top/eolimp/39" class="squit" title="Произведение цифр трицифрового числа C++"><span >937</span></a>
+			<a href="https://devexe.top/eolimp/40" class="squit" title="Квадрат суммы C++"><span >939</span></a>
+			<a href="https://devexe.top/eolimp/41" class="squit" title="Площадь треугольника C++"><span >940</span></a>
+			<a href="https://devexe.top/eolimp/42" class="squit" title="Разность C++"><span >941</span></a>
+			<a href="https://devexe.top/eolimp/43" class="squit" title="Диагонали C++"><span >942</span></a>
+			<a href="https://devexe.top/eolimp/44" class="squit" title="Обмен крайних C++"><span >943</span></a>
+			<a href="https://devexe.top/eolimp/45" class="squit" title="Без средней C++"><span >945</span></a>
+			<a href="https://devexe.top/eolimp/46" class="squit" title="Обратный порядок C++"><span >947</span></a>
+			<a href="https://devexe.top/eolimp/47" class="squit" title="Обмен C++"><span >951</span></a>
+			<a href="https://devexe.top/eolimp/52" class="squit" title="Четырехцифровое без средних C++"><span >951</span></a>
+			<a href="https://devexe.top/eolimp/48" class="squit" title=" Остаток C++"><span >953</span></a>
+			<a href="https://devexe.top/eolimp/49" class="squit" title="Квадрат суммы C++"><span >955</span></a>
+			<a href="https://devexe.top/eolimp/50" class="squit" title="Квадратный корень C++"><span >957</span></a>
+			<a href="https://devexe.top/eolimp/51" class="squit" title="Сумма крайних C++"><span >959</span></a>
+			<a href="https://devexe.top/eolimp/53" class="squit" title="Наибольшая сторона четырёхугольника C++"><span >962</span></a>
+			<a href="https://devexe.top/eolimp/54" class="squit" title="Сортировка времени C++"><span >972</span></a>
+			<a href="https://devexe.top/eolimp/95" class="squit" title="Большая сортировка С++"><span >973</span></a>
+			<a href="https://devexe.top/eolimp/94" class="squit" title="Личные дела C++"><span >1344</span></a>
+			<a href="https://devexe.top/eolimp/100" class="squit" title="Хитрая сортировка С++"><span >1462</span></a>
+			<a href="https://devexe.top/eolimp/55" class="squit" title="НОД двух чисел C++"><span >1601</span></a>
+			<a href="https://devexe.top/eolimp/102" class="squit" title="НОК двух натуральных чисел C++"><span >1602</span></a>
+			<a href="https://devexe.top/eolimp/56" class="squit" title="Сумма цифр числа С++"><span >1603</span></a>
+			<a href="https://devexe.top/eolimp/57" class="squit" title="Произведение чётных цифр числа C++"><span >1604</span></a>
+			<a href="https://devexe.top/eolimp/58" class="squit" title="Вторая цифра числа C++"><span >1605</span></a>
+			<a href="https://devexe.top/eolimp/59" class="squit" title="Сумма первой и последней цифр числа C++"><span >1606</span></a>
+			<a href="https://devexe.top/eolimp/60" class="squit" title="Число в обратном порядке C++"><span >1607</span></a>
+			<a href="https://devexe.top/eolimp/61" class="squit" title="Число-палиндром C++"><span >1608</span></a>
+			<a href="https://devexe.top/eolimp/62" class="squit" title="Количество заданных цифр в числе C++"><span >1609</span></a>
+			<a href="https://devexe.top/eolimp/63" class="squit" title="Результаты олимпиады C++"><span >1962</span></a>
+			<a href="https://devexe.top/eolimp/109" class="squit" title="Месяц C++"><span >2044</span></a>
+			<a href="https://devexe.top/eolimp/87" class="squit" title="Три грибника C++"><span >2071</span></a>
+			<a href="https://devexe.top/eolimp/96" class="squit" title="Два массива C++"><span >2099</span></a>
+			<a href="https://devexe.top/eolimp/99" class="squit" title="Юбилей Винни-Пуха C++"><span >2459</span></a>
+			<a href="https://devexe.top/eolimp/64" class="squit" title="Конкатенация строк C++"><span >2496</span></a>
+			<a href="https://devexe.top/eolimp/110" class="squit" title="Разложение на простые C++"><span >2606</span></a>
+			<a href="https://devexe.top/eolimp/65" class="squit" title="Потерянная карточка C++"><span >2616</span></a>
+			<a href="https://devexe.top/eolimp/105" class="squit" title="Взрывоопасность C++"><span >2707</span></a>
+			<a href="https://devexe.top/eolimp/81" class="squit" title="Быстрое возведение в степень C++"><span >2814</span></a>
+			<a href="https://devexe.top/eolimp/66" class="squit" title="Сумма чисел на промежутке C++"><span >2860</span></a>
+			<a href="https://devexe.top/eolimp/67" class="squit" title="Сумма нечетных чисел C++"><span >2861</span></a>
+			<a href="https://devexe.top/eolimp/68" class="squit" title="Количество делителей C++"><span >2862</span></a>
+			<a href="https://devexe.top/eolimp/69" class="squit" title="Нечетные делители C++"><span >2863</span></a>
+			<a href="https://devexe.top/eolimp/70" class="squit" title="Табулирование функции C++"><span >2864</span></a>
+			<a href="https://devexe.top/eolimp/104" class="squit" title="Многоугольники C++"><span >2987</span></a>
+			<a href="https://devexe.top/eolimp/113" class="squit" title="Кузнечик C++"><span >4051</span></a>
+			<a href="https://devexe.top/eolimp/112" class="squit" title=" Словарь C++ / Cортировка массива строк "><span >5089</span></a>
+			<a href="https://devexe.top/eolimp/71" class="squit" title="Прямоугольник, накрытый квадратами C++"><span >5155</span></a>
+			<a href="https://devexe.top/eolimp/72" class="squit" title="Трицифровое число C++"><span >5628</span></a>
+			<a href="https://devexe.top/eolimp/111" class="squit" title="Вася и транспортир C++"><span >5711</span></a>
+			<a href="https://devexe.top/eolimp/73" class="squit" title="Спальные вагоны C++"><span >7326</span></a>
+			<a href="https://devexe.top/eolimp/74" class="squit" title="Делимость на 3 C++"><span >7330</span></a>
+			<a href="https://devexe.top/eolimp/86" class="squit" title="Пирожки С++"><span >7336</span></a>
+			<a href="https://devexe.top/eolimp/85" class="squit" title="Скидки C++"><span >7337</span></a>
+			<a href="https://devexe.top/eolimp/88" class="squit" title="Поле-чудес С++"><span >7340</span></a>
+			<a href="https://devexe.top/eolimp/89" class="squit" title="Молоко и пирожок C++"><span >7365</span></a>
+			<a href="https://devexe.top/eolimp/90" class="squit" title="Сколько до Нового Года? C++"><span >7366</span></a>
+			<a href="https://devexe.top/eolimp/75" class="squit" title="Друзья Степана C++"><span >7401</span></a>
+			<a href="https://devexe.top/eolimp/76" class="squit" title="Любимая игра C++"><span >7402</span></a>
+			<a href="https://devexe.top/eolimp/169" class="squit" title="Сумма делителей"><span >8279</span></a>
+	
+</section>
+<br>
+<section style="display:grid;">
+<a href="/povysheniye_prodazh_s_pomoshchyu_veb-form.php">Повышение продаж с помощью веб-форм</a>
+<a href="/zada4a/razlozheniye_chisla_na_prostyye_mnozhiteli.php">Разложение числа на простые множители</a>
+<a href="/kak_kachestvennyy_kontent_sposobstvuyet_prodvizheniyu_sayta.php">Как качественный контент способствует продвижению сайта</a>
+<a href="/kak_vybrat_hosting.php">Как выбрать хостинг</a>
+<a href="/kak_pisat_SEO_teksty.php">Как писать SEO-тексты?</a>
+<a href="/chto_takoye_SEO_optimizatsiya_sayta.php">Что такое SEO оптимизация сайта</a>
+</section>
+<br><br><a rel="nofollow" href="https://mirohost.net/?partner=959192">Хостинг</a>
+<p>Есть решение которого нет на сайте? Пиши <a href="mailto:admin@devexe.top">admin@devexe.top</a></p>
+</div>
+</div>
+
+<script src="/resourse/highlight.min.js"></script>
+
+<script type="text/javascript">
+    var head = document.head
+            , link = document.createElement('link');
+    link.type = 'text/css';
+    link.rel = 'stylesheet';
+    link.href = '/resourse/a11y-dark.min.css';
+    head.appendChild(link);
+</script>
+<script>hljs.initHighlightingOnLoad();</script>
+<script>
+    window.ao_subid = "";
+</script>
+<script src="//js.mamydirect.com/js/?h=I24zLEza" type="text/javascript" async></script>
+<script
+  type="module"
+  src="https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate"
+>
+
+</script>
+
+<pwa-update></pwa-update>
+</body>
+</html>

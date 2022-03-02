@@ -1,0 +1,2318 @@
+<!DOCTYPE html>
+<html class="lang-ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="NOVARDIS, NOVARDIS Consulting, Новардис, внедрение SAP, решения SAP, партнер SAP, партнер hybris, решения hybris, электронная коммерция, e-commerce, SAP, hybris, hybris партнер, партнер SAP, внедрение SAP, SAP for Retail, решения SAP" />
+<meta name="description" content="Единственный в России партнер SAP, имеющий право оказывать лицензионное сопровождение по всем продуктам SAP" />
+<link href="/bitrix/cache/css/s1/novardis/page_fa3cb8bbe8e27caa8fd791b48ea96000/page_fa3cb8bbe8e27caa8fd791b48ea96000.css?16274687152912" type="text/css"  rel="stylesheet" />
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "acb05c20096fdecb0a7c46ea5c4f9567"]); _ba.push(["host", "novardis.com"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+    <title>NOVARDIS - внедрение решений на базе SAP и SAP Customer Experience</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <link rel="stylesheet" href="/css/colorbox.css?v=7">
+    <link rel="stylesheet" href="/css/all.css?v=7">
+    <link rel="stylesheet" href="/css/responsive.css?v=7">
+    <link rel="stylesheet" href="/css/new.css?v=7">
+       <meta name='yandex-verification' content='4684e5417f33ede2' />
+        <meta name='yandex-verification' content='6b2af831e40eab0b' />
+        <meta name="google-site-verification" content="YbaRAoYAsV1ImO6UzRaNjc0BjioTShJd8DeewSmNU20" />
+        <meta name="google-site-verification" content="xCMk01RhK_DOQfJzNaryxtYPTq6snfWNaWw7XTQi09Y" />
+
+    <script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+
+    
+    <meta property="og:url" content="http://novardis.com/" />
+    <meta property="og:title"  content="NOVARDIS - внедрение решений на базе SAP и SAP Customer Experience" />
+    <meta property="og:image" content="http://novardis.com" />
+    <meta property="og:type"  content="article" />
+    <meta property="fb:app_id"  content="359389251115325" />
+
+
+
+</head>
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(76112335, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/76112335" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter —>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CFV356DWC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-CFV356DWC8');
+</script>
+
+
+<body class="homepage">
+
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '359389251115325',
+            xfbml      : true,
+            version    : 'v2.7'
+        });
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<div id="testresp"></div>
+
+
+<main id="main">
+
+    
+
+    <section class="slider" id="intro-slider">
+        <a href="#" class="arrow-prev">&lt;</a>
+
+        <div class="holder hide">
+            <ul>
+                 <li class="slide active"><a href="/resheniya/sap-ewm-novardis-ewm">
+       <img src="/images/content/ico01-slider.png" width="182" height="145" alt="" class="icon" style="top: 0;margin-left: -579px;z-index: 50;">
+   </a><a href="/resheniya/sap-erp">
+       <img src="/images/content/ico03-slider.png" width="143" height="190" alt="" class="icon bottom" style="bottom: 0; margin-left: -547px;z-index: 50;">
+   </a><a href="/resheniya/sap-fr-novardis-fr/">
+       <img src="/images/content/ico04-slider.png" width="143" height="190" alt="" class="icon bottom right" style="bottom: 0; margin-left: 494px;z-index: 50;">
+   </a>
+                    <div class="item-holder">
+                        <img class="image"
+                            style="left: -10px;"
+                            width="488"
+                            height="603"
+                            src="/upload/iblock/e81/UM6A32381.png" alt="">
+                        <div class="txt">
+                            <div class="slider-head-text">NOVARDIS – надежный партнер по внедрению SAP</div>
+                            <ul>
+	<li>Более 400 компетентных консультантов SAP</li>
+	<li>Первое внедрение в России SAP for Retail, SAP EWM, SAP F&amp;R, SAP TM, SAP PI, SAP CAR, SAP S/4HANA в рознице</li>
+	<li>Преднастроенные решения на базе SAP для розничной торговли, дистрибуции, производства ТНП и автомобилестроения</li>
+</ul>
+                            <a href="/resheniya" class="btn">Подробнее</a>
+                       </div>
+                   </div></li> <li class="slide active"><a href="/resheniya/sap-ewm-novardis-ewm">
+       <img src="/images/content/ico01-slider.png" width="182" height="145" alt="" class="icon" style="top: 0;margin-left: -579px;z-index: 50;">
+   </a><a href="/resheniya/sap-fr-novardis-fr/">
+       <img src="/images/content/ico04-slider.png" width="143" height="190" alt="" class="icon bottom right" style="bottom: 0; margin-left: 494px;z-index: 50;">
+   </a><a href="/resheniya/#num2">
+       <img src="/images/content/ico02-slider.png" width="104" height="127" alt="" class="icon right" style="top: 0;margin-left: 478px;z-index: 50;">
+   </a>
+                    <div class="item-holder">
+                        <img class="image"
+                            style="left: 0;top: 0px;"
+                            width="488"
+                            height="603"
+                            src="/upload/iblock/4b9/Directora-novardis-488%D1%856032.png" alt="">
+                        <div class="txt">
+                            <div class="slider-head-text">Преимущества работы с NOVARDIS</div>
+                            <ul>
+	<li>Более 450 реализованных проектов</li>
+	<li>Более 400 консультантов и экспертов SAP</li>
+	<li>15-летний стаж работы команды</li>
+	<li>Нацеленность на успех</li>
+	<li>Личный контроль топ-менеджмента за каждым проектом</li>
+</ul>
+                            <a href="/company" class="btn">Подробнее</a>
+                       </div>
+                   </div></li> <li class="slide active"><a href="/resheniya/sap-erp">
+       <img src="/images/content/ico03-slider.png" width="143" height="190" alt="" class="icon bottom" style="bottom: 0; margin-left: -547px;z-index: 50;">
+   </a><a href="/resheniya/#num2">
+       <img src="/images/content/ico02-slider.png" width="104" height="127" alt="" class="icon right" style="top: 0;margin-left: 478px;z-index: 50;">
+   </a>
+                    <div class="item-holder">
+                        <img class="image"
+                            style="left: 0px;top: -2px;"
+                            width="488"
+                            height="601"
+                            src="/upload/iblock/7ef/banner-resheniya-hybris-e-commerce-novardis-488x603%20%282%29-2-2.png" alt="">
+                        <div class="txt">
+                            <div class="slider-head-text">Решения e-commerce на базе SAP Customer Experience</div>
+                            <ul>
+	<li>В нашей команде более 70 специалистов SAP Customer Experience</li>
+	<li>Реальные проекты внедрения e-commerce в ритейле</li>
+	<li>Мы понимаем специфику и имеем опыт проектов<br>
+	 в B2B и B2C-сегментах</li>
+	<li>Решения e-commerce для ритейла, дистрибуции,<br>
+	 производства ТНП, телекома, банков</li>
+</ul>
+                            <a href="/resheniya/e-commerce-hybris" class="btn">Подробнее</a>
+                       </div>
+                   </div></li> <li class="slide active">
+                    <div class="item-holder only-image">
+                        <a href="http://www.novardis.com/clients/"><img
+                            style="width:1200px; height: auto;"
+                            src="/upload/iblock/435/new-banner-novardis-1200x603px_1.png" alt=""></a>
+                   </div></li>            </ul>
+        </div>
+        <a href="#" class="arrow-next">&gt;</a>
+    </section>
+ <section class="solutions" id="solutions">
+<div class="red-block">
+	<div class="rb-holder">
+		<h2>Решения</h2>
+		<ul class="solutions-list">
+			<li><a href="/otrasli/retail/" style="background-image: url(/netcat_files/387/577/h_40f66a9342a77c0bfa21007c3ff21a0e);">Розничная торговля</a></li>
+			<li><a href="/otrasli/wholesale-distribution/" style="background-image: url(/netcat_files/387/577/h_8cb62c2ca0e3504d0b699cfd7a195380);">Оптовая торговля</a></li>
+			<li><a href="/otrasli/online-commerce/" style="background-image: url(/netcat_files/387/577/h_4cf05abb9260c9be6c5606ac5b72b62d);">Online-торговля</a></li>
+			<li><a href="/otrasli/proizvodstvo-tnp/" style="background-image: url(/netcat_files/387/577/h_e1f6c225708dfef2ca4e462a4ccf8dbc);">Производство ТНП</a></li>
+			<li><a href="/otrasli/avtomobilestroenie/" style="background-image: url(/netcat_files/387/577/h_8d136005b6f808757601d371373c648e);">Автомобилестроение</a></li>
+		</ul>
+	</div>
+</div>
+ 
+    <div class="tabset-slider">
+        <a href="javascript:void(0);" class="arrow-prev">&lt;</a>
+        <div class="holder swiper-container">
+            <ul class="swiper-wrapper"><li class="swiper-slide active">
+          <a href="javascript:void(0);" data-href="tab1">
+            <span class="ttl">Управление предприятием</span>
+            <span class="icon-holder"><img src="/upload/iblock/377/solution2-01-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab2">
+            <span class="ttl">Транспортная логистика</span>
+            <span class="icon-holder"><img src="/upload/iblock/97f/solution2-02-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab3">
+            <span class="ttl">Управление складами</span>
+            <span class="icon-holder"><img src="/upload/iblock/f99/solution2-03-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab4">
+            <span class="ttl">Электронная коммерция (e-commerce)</span>
+            <span class="icon-holder"><img src="/upload/iblock/6dd/solution2-05-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab5">
+            <span class="ttl">Прогнозирование спроса и планирование запасов</span>
+            <span class="icon-holder"><img src="/upload/iblock/10a/solution2-04-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab6">
+            <span class="ttl">Управление цепочками поставок</span>
+            <span class="icon-holder"><img src="/upload/iblock/077/solution2-11-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab7">
+            <span class="ttl">Бизнес-аналитика</span>
+            <span class="icon-holder"><img src="/upload/iblock/6e0/solution2-06-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab8">
+            <span class="ttl">Взаимоотношения с клиентами</span>
+            <span class="icon-holder"><img src="/upload/iblock/92c/ico08-solutions.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab9">
+            <span class="ttl">Управление персоналом</span>
+            <span class="icon-holder"><img src="/upload/iblock/ae9/solution2-08-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li><li class="swiper-slide ">
+          <a href="javascript:void(0);" data-href="tab10">
+            <span class="ttl">Преднастроенные решения</span>
+            <span class="icon-holder"><img src="/upload/iblock/256/solution2-12-icon.png" width="59" height="120" alt=""></span>
+          </a>
+        </li></ul>
+        </div>
+        <a href="javascript:void(0);" class="arrow-next">&gt;</a>
+
+    </div>
+
+
+    <div class="tab-content-holder"><div class="tab-content active clearfix" data-tab="tab1">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Управление предприятием</div>
+    <div style="margin: 10px 0 20px;">SAP ERP (Enterprise Resource Planning)</div>
+    <p>Охватывает все сферы финансового и управленческого учетов, производства и операций, предоставляя при этом мощные аналитические инструменты.</p>
+<div style="font: bold 21px/30px &quot;PT Sans&quot;, Arial, Helvetica, sans-serif; margin: 31px 0px 18px; font-size-adjust: none; font-stretch: normal;">Решения для:</div>
+<ul style="font: bold 16px/30px &quot;PT Sans&quot;, Arial, Helvetica, sans-serif; list-style: none; margin: 0px 0px 49px; padding: 0px; font-size-adjust: none; font-stretch: normal;">
+<li style="margin: 0px 0px 10px;"><img alt="" height="20" src="/images/content/ico01.png" style="margin: 1px 25px 0px 2px; vertical-align: top;" width="25" />Розничной торговли</li>
+<li style="margin: 0px 0px 10px;"><img alt="" height="22" src="/images/content/ico02.png" style="margin: 1px 25px 0px 2px; vertical-align: top;" width="25" />Оптовой торговли</li>
+<li style="margin: 0px 0px 10px;"><img alt="" height="23" src="/images/content/ico03.png" style="margin: 1px 27px 0px 2px; vertical-align: top;" width="23" />Производителей товаров народного потребления</li>
+<li style="margin: 0px 0px 10px;"><img alt="" height="27" src="/images/content/ico04.png" style="margin: 1px 19px 0px 2px; vertical-align: top;" width="31" />Автомобилестроения</li></ul>
+<a href="/resheniya/#num3" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="/upload/iblock/077/predpriyatie.jpg" width="470" alt="" style="border-radius:10px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;box-shadow: 0px 12px 27px rgba(50, 50, 50, 0.75); " >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab2">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Транспортная логистика</div>
+    <div style="margin: 10px 0 20px;">SAP TM (Transportation Management)</div>
+    <p>Система класса TMS для планирования и оперативного управления транспортировками, осуществляемыми как по заранее заданным маршрутам (магистральная транспортировка), так и внутри города, когда маршрут движения явно не задан, а известны лишь начальная, конечная и промежуточные точки.</p>
+<p></p>
+<p><a href="/resheniya/sap-tm">SAP ТМ</a> &ndash; система для планирования и оперативного управления транспортировками<br />
+SAP SCM EM (Event Management) &ndash; система для трекинга грузов и транспортировок</p>
+<p></p>
+<a href="/resheniya/sap-tm/" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="/upload/iblock/173/transport.jpg" width="470" alt="" style="border-radius:10px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;box-shadow: 0px 12px 27px rgba(50, 50, 50, 0.75); " >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab3">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Управление складами</div>
+    <div style="margin: 10px 0 20px;">SAP EWM (Extended Warehouse Management)</div>
+    <p>WMS-система для комплексной автоматизации товародвижения и оптимизации помещений складов. Внедрение SAP EWM обеспечивает слаженную работу всех подразделений, связанных с доставкой, транспортировкой, перемещениями и складированием товара.</p>
+<p>С помощью SAP EWM сотрудники торговой организации могут точнее прогнозировать запасы на складах, четко контролировать поставки и получать товары в заданном количестве и в срок.</p>
+<a href="/resheniya/sap-ewm-novardis-ewm" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="/upload/iblock/6f9/sklad.jpg" width="470" alt="" style="border-radius:10px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;box-shadow: 0px 12px 27px rgba(50, 50, 50, 0.75); " >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab4">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Электронная коммерция (e-commerce)</div>
+    <div style="margin: 10px 0 20px;">E-commerce решения на лидирующей в мире платформе – hybris</div>
+    <p>
+	Самый широкий в своем классе набор функционала: поддержка многоканальной коммерции, управление данными, интеграция с соцсетями, обработка больших объемов данных, готовые приложения для мобильных устройств и поддержка нескольких веб-сайтов. Преднастроенные решения для B2C, B2B и B2B2C-коммерции.
+</p>
+<p>
+	<strong>Отраслевые решения hybris для электронной коммерции:</strong>
+</p>
+<ul>
+	<li><a href="/resheniya/hybris-b2c-commerce/">SAP CX B2C Commerce</a></li>
+	<li><a href="/resheniya/hybris-b2b-commerce/">оптовая торговля</a></li>
+	<li><a href="/resheniya/hybris-b2b-commerce/">производство ТНП</a></li>
+	<li><a href="/resheniya/e-commerce-dlya-strahovaniya-hybris-insurance/">страхование</a></li>
+	<li><a href="/resheniya/e-commerce-dlya-telekom/">телекоммуникации</a></li>
+</ul>
+<a href="/resheniya/e-commerce-hybris/" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="" width="" alt=""  >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab5">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Прогнозирование спроса и планирование запасов</div>
+    <div style="margin: 10px 0 20px;">SAP F&R (SAP SCM Forecasting & Replenishment for Retail 5.2)</div>
+    <p>Система для прогнозирования спроса на товары и планирования запасов торговой компании.</p>
+<p><strong>Результаты использования SAP F&amp;R:</strong></p>
+<ul>
+<li>повышение точности прогнозирования спроса на товары;</li>
+<li>оптимизация запаса РЦ и магазинов;</li>
+<li>оптимизация циклов заказов;</li>
+<li>сокращение времени расчета потребностей в товарах;</li>
+<li>сокращение трудозатрат отдела закупок;</li>
+<li>получение дополнительных инструментов исследования динамики спроса на товары;</li>
+<li>прозрачность цепочки поставок.</li></ul>
+<a href="/resheniya/sap-fr-novardis-fr/" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="/upload/iblock/2f1/prognoz.jpg" width="450" alt="" style="border-radius:10px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;box-shadow: 0px 12px 27px rgba(50, 50, 50, 0.75); " >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab6">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Управление цепочками поставок</div>
+    <div style="margin: 10px 0 20px;">SAP SCM (Supply Chain Management)</div>
+    <p>Система SAP SCM для управления логистической сетью помогает эффективно управлять складами, транспортировками и прогнозировать уровень запасов.</p>
+<p><strong>Компетенции NOVARDIS в рамках внедрения SAP SCM:&nbsp;</strong></p>
+<ul>
+<li>проектирование логистических цепочек;</li>
+<li>планирование сбыта и поставок;</li>
+<li>планирование транспортировок;</li>
+<li>управление событиями в логистической цепочке;</li>
+<li>управление складом;</li>
+<li>выполнение транспортировок;</li>
+<li>внедрение портальных решений для эффективного взаимодействия сотрудников компании, поставщиков и клиентов.</li></ul>
+<a href="/resheniya/sap-scm/" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="" width="" alt=""  >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab7">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Бизнес-аналитика</div>
+    <div style="margin: 10px 0 20px;"></div>
+    <p><a href="/resheniya/sap-bibo/">SAP BusinessObjects</a> обеспечивает быстрый сбор и анализ информации из различных источников, наглядную визуализацию данных, отслеживание информации о состоянии бизнеса в реальном времени, повсеместный доступ к данным и предоставление средств для выработки групповых решений.</p>
+<p></p>
+<p><a href="/resheniya/sap-hana/">SAP HANA</a> позволяет ускорить процессы бизнес-анализа благодаря технологии in-memory (обработке данных в оперативной памяти).</p>
+<a href="/resheniya/sap-bibo/" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="" width="" alt=""  >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab8">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Взаимоотношения с клиентами</div>
+    <div style="margin: 10px 0 20px;">SAP CRM (Customer Relationship Management).</div>
+    <p>Комплексное решение для управления взаимоотношениями с клиентами объединяет инструменты для сотрудников отделов продаж, маркетинга и обслуживания.</p>
+<p>SAP CRM позволяет увидеть исчерпывающую картину по всем аспектам взаимодействия с клиентами: от заключения договоров, выставления счетов и их оплаты до контроля выполнения заказов и проведения дальнейших продаж.</p>
+<a href="/resheniya/sap-crm/" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="" width="" alt=""  >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab9">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Управление персоналом</div>
+    <div style="margin: 10px 0 20px;"></div>
+    <p>Решения SAP позволяют усовершенствовать кадровую политику в соответствии с лучшими мировыми практиками, уменьшить затраты на управление персоналом, привлечь и удержать наиболее талантливых специалистов.</p>
+<p><strong>Решения для управления персоналом на базе SAP:</strong></p>
+<ul>
+<li>SAP ERP HCM &ndash; управление человеческим капиталом</li>
+<li>SAP WFM &ndash; планирование гибких графиков рабочего времени и прогноз потребностей в кадрах</li>
+<li>SAP E-Recruiting &ndash; управление поиском и наймом персонала</li></ul>
+<a href="/resheniya/#num9" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="" width="470" alt="" style="border-radius:10px;-webkit-border-radius: 10px;
+-moz-border-radius: 10px;box-shadow: 0px 12px 27px rgba(50, 50, 50, 0.75); " >
+  </div>
+</div><div class="tab-content  clearfix" data-tab="tab10">
+  <div class="txt">
+    <div style="font: bold 24px/36px 'PT Sans', Arial, Helvetica, sans-serif;text-transform: uppercase; margin: 0 0 -7px;">Преднастроенные решения</div>
+    <div style="margin: 10px 0 20px;"></div>
+    <p>Возможность получить комплексную систему на базе SAP в определенном объеме, в умеренный срок и при фиксированных инвестиционных затратах.</p>
+<p>Такой результат достигается благодаря предварительным настройкам решений и дополнительной функциональности, в которой учтены особенности отрасли заказчика и требования российского законодательства. Все решение <strong>NOVARDIS</strong> сертифицированы компанией SAP.</p>
+<ul>
+<li><strong>Novardis Retail</strong> &ndash; ERP-система для розничной торговли на базе SAP for Retail</li>
+<li><strong>Novardis EWM </strong>&ndash; расширенное управления складской логистикой</li>
+<li><strong>Novardis F&amp;R</strong> &ndash; преднастроенное решение для прогнозирования спроса и планирования запасов в рознице</li>
+<li><strong>Novardis HCM</strong> &ndash; преднастроенное решение для управления персоналом</li>
+<li><strong>Novardis Supplier and B2B Customer Portal </strong>&ndash; портал для поставщиков и оптовых клиентов</li>
+<li><strong>Novardis CRM Loyalty Management</strong> &ndash; инструмент управления лояльностью</li>
+<li><strong>Novardis Multichannel Sales and e-commerce</strong> &ndash; преднастроенное решение для многоканальной коммерции</li></ul>
+<p></p>
+<a href="/resheniya/#num1" class="btn">Подробнее</a>
+  </div>
+  <div class="img">
+    <img src="/upload/iblock/f43/certificate.jpg" width="420" alt=""  >
+  </div>
+</div></div> </section>
+
+    <section id="clients" class="clients">
+        <div class="heading">
+            <h2>клиенты</h2>
+            <div class="sub-ttl">Более 10 000 сотрудников наших клиентов используют решения NOVARDIS</div>
+
+        </div><div class="reviews">
+            <img src="/images/img-clients.png" width="631" height="500" alt="" class="before">
+            <div class="holder">
+                <ul>
+
+                    <li class="active">
+                        <blockquote cite="#">
+                            <cite>Денис Бобров, ИТ-директор «Талосто»:</cite>
+                            <q><p>&laquo;Внедрение SAP позволило нам оптимизировать затраты на персонал, оптимизировать запасы, повысить достоверность отчетности, повысить объем продаж на 10% в год и на порядок сократить количество обращений пользователей в ИТ-отдел&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Внедрение SAP TM  в компании «М.Видео»:</cite>
+                            <q><p>&laquo;Решение NOVARDIS на базе SAP Transportation Management (SAP TM) позволило увеличить процент покрытия потребности магазинов с 93% до 98% при пополнении магазинов и поднять уровень своевременности доставки в сезон высоких продаж с 95% до 98%&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Всеволод Кузьмич, директор по ИТ компании «Лента»:</cite>
+                            <q><p>&laquo;Специалисты NOVARDIS поддерживают системы логистического контура на базе ПО SAP компании &laquo;Лента&raquo; в режиме 24 часа в сутки/7 дней в неделю. Важно, что Центр поддержки NOVARDIS осуществляет сопровождение строго в соответствии с Соглашением об уровне сервиса (SLA). Таким образом качество услуг гарантируется за счет соблюдения&nbsp;четких временных, качественных и количественных параметров (KPI)&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Алексей Бондарюк, руководитель группы WMS компании «Эльдорадо»:</cite>
+                            <q><p>&laquo;Наряду с вопросами поддержки компания &ldquo;Эльдорадо&rdquo; активно привлекает архитекторов SAP EWM компании NOVARDIS &ndash; компетентных специалистов, имеющих разносторонний опыт для решения задач развития системы. Благодаря этому мы получаем возможность более эффективно и комфортно распределять ресурсы внутренней ИТ-команды &ldquo;Эльдорадо&rdquo;&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Алексей Красовский, генеральный директор «Посуда Центр»:</cite>
+                            <q><p>&laquo;Решение&nbsp;SAP for Retail позволяет нам разделять магазины на группы по любым критериям, и поэтому управление ассортиментными категориями ведется не в разрезе абстрактных подразделений, а в зависимости от совокупности характеристик конкретных торговых точек. Такая оптимизация помогает нам сократить время на проведение анализа продаж прошлых периодов и более оперативно принимать управленческие решения&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Алексей Пронин, глава представительства SAP Hybris в России и странах СНГ:</cite>
+                            <q><p>&laquo;Мы уверены, что партнерство с NOVARDIS, чьи эксперты обладают большим опытом в области внедрения решений для электронной коммерции и знанием реалий российского розничного рынка, сделает решения SAP Hybris более доступными для российских компаний&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Ирина Дементьева, директор по управлению поставками, дистрибуцией и логистикой «М.Видео»:</cite>
+                            <q><p>&laquo;Новая система планирования и управления клиентскими доставками на базе SAP TM, созданная совместно с NOVARDIS, уже спустя месяц промышленной эксплуатации выдержала испытание &laquo;высоким сезоном&raquo;. Компания прошла его с увеличением доли удовлетворенных клиентов и ростом показателей своевременности доставки по Москве&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Алексей Бондарюк, руководитель группы WMS, «Эльдорадо»:</cite>
+                            <q><p>&laquo;Уже более двух лет специалисты Центра поддержки NOVARDIS обеспечивают сопровождение складского решения &laquo;Эльдорадо&raquo; в режиме 24/7, оперативно реагируют на обращения пользователей и качественно решают поставленные задачи. Хочется отметить высокий профессионализм и пунктуальность специалистов NOVARDIS, их готовность идти навстречу, а также внимание к потребностям нашего бизнеса и способность эти потребности предвидеть&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Игорь Васюков, исполнительный директор «Посуда Центр»:</cite>
+                            <q><p>&laquo;Благодаря порталу для поставщиков и оптовых клиентов мы имеем единую точку информационного и экономического взаимодействия. Часть операций, которые раньше выполнялись менеджерами по закупкам в ручном режиме, сейчас автоматизированы. Мы рассчитываем, что это поможет нам увеличить количество оптовых сделок с дополнительными заказами в четыре раза, а также повысить лояльность оптовых покупателей и имидж нашей компании в целом&raquo;.</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Антон Корнеев, руководитель проекта SAP TM, «М.Видео»:</cite>
+                            <q><p>«С внедрением решения SAP TM компания «М.Видео» получила легко масштабируемую информационную платформу для автоматизации процессов транспортной логистики, имеющую достаточный запас мощности для поддержки роста компании. Благодаря автоматизированным рабочим местам для наших сотрудников и контрагентов мы переложили все процессы в систему, что позволило не только ускорить их, но и сделать прозрачнее и понятнее для всех участников».</p></q>
+                        </blockquote>
+                    </li><li class="">
+                        <blockquote cite="#">
+                            <cite>Дмитрий Заузолков, ИТ-директор «Посуда Центр»:</cite>
+                            <q><p>&laquo;В этом году мы активизировали развитие нашего оптового направления и запустили с помощью компании NOVARDIS корпоративный портал, который позволяет упростить общение как между менеджером и оптовым клиентом, так и между менеджером и поставщиком&raquo;.</p></q>
+                        </blockquote>
+                    </li>
+
+
+                </ul>
+                <a href="javascript:void(0);" class="arrow-prev">&lt;</a>
+                <a href="javascript:void(0);" class="arrow-next">&gt;</a>
+            </div>
+        </div>
+    </section>
+
+ 
+            <div class="clients-gallery">
+                <a href="javascript:void(0);" class="arrow-prev">&lt;</a>
+
+                <div class="holder swiper-container">
+                    <ul class="swiper-wrapper">
+                        <li class="swiper-slide"><img src="/upload/iblock/20f/riv.png" height="35" alt="РИВ ГОШ" /></li><li class="swiper-slide"><img src="/upload/iblock/c21/faberlic.png" height="55" alt="Faberlic" /></li><li class="swiper-slide"><img src="/upload/iblock/5da/biocad-logo.png" height="70" alt="BIOCAD" /></li><li class="swiper-slide"><img src="/upload/iblock/827/MTS_Logo_rus_r.png" height="50" alt="МТС" /></li><li class="swiper-slide"><img src="/upload/iblock/4f0/1024px-Magnit_logo.svg.png" height="40" alt="Магнит" /></li><li class="swiper-slide"><img src="/upload/iblock/915/spar.png" height="35" alt="SPAR" /></li><li class="swiper-slide"><img src="/upload/iblock/aec/logo-pulkovo.png" height="50" alt="Пулково" /></li><li class="swiper-slide"><img src="/upload/iblock/1e6/Lenta_logo.png" height="52" alt="Лента" /></li><li class="swiper-slide"><img src="/upload/iblock/05a/logo-ru.png" height="90" alt="М.Видео" /></li><li class="swiper-slide"><img src="/upload/iblock/d80/Globus_.png" height="76" alt="Глобус" /></li><li class="swiper-slide"><img src="/upload/iblock/e77/logo05-client.png" height="42" alt="Комус" /></li><li class="swiper-slide"><img src="/upload/iblock/2c9/pc_logo_2016_RGB.png" height="76" alt="Посуда Центр" /></li><li class="swiper-slide"><img src="/upload/iblock/b6b/logo07-client.png" height="32" alt="PRISMA" /></li><li class="swiper-slide"><img src="/upload/iblock/9d3/kesko__.png" height="30" alt="Kesko" /></li><li class="swiper-slide"><img src="/upload/iblock/152/vostok_zapad.png" height="60" alt="Восток-Запад" /></li><li class="swiper-slide"><img src="/upload/iblock/e89/logo-tehnosila1.png" height="52" alt="Техносила" /></li><li class="swiper-slide"><img src="/upload/iblock/e69/mareven_food.png" height="75" alt="MAREVEN FOOD CENTRAL" /></li><li class="swiper-slide"><img src="/upload/iblock/462/logo-jcb.png" height="52" alt="JCB" /></li><li class="swiper-slide"><img src="/upload/iblock/b80/hyundai_logo.png" height="52" alt="Hysco" /></li><li class="swiper-slide"><img src="/upload/iblock/2ea/logo_mega.png" height="32" alt="Мегафон" /></li><li class="swiper-slide"><img src="/upload/iblock/eb4/585.jpg" height="50" alt="585" /></li><li class="swiper-slide"><img src="/upload/iblock/91d/logo-talosto.png" height="52" alt="Талосто" /></li><li class="swiper-slide"><img src="/upload/iblock/a29/logo-megapolis.png" height="52" alt="Мегаполис" /></li><li class="swiper-slide"><img src="/upload/iblock/d34/castorama_new.png" height="60" alt="Castorama" /></li><li class="swiper-slide"><img src="/upload/iblock/166/ohapka_logo.jpg" height="52" alt="Охапка" /></li><li class="swiper-slide"><img src="/upload/iblock/7b7/VW_Logo.png" height="100" alt="Volkswagen" /></li><li class="swiper-slide"><img src="/upload/iblock/f35/Kia-logo-2560x1440.png" height="70" alt="KIA" /></li><li class="swiper-slide"><img src="/upload/iblock/b74/Mega_Gruppe_logo.png" height="50" alt="Mega Gruppe" /></li><li class="swiper-slide"><img src="/upload/iblock/e35/Heineken_International_log.png" height="40" alt="хайнекен новый" /></li><li class="swiper-slide"><img src="/upload/iblock/199/1453799848_detmir_logo.png" height="50" alt="Детский мир" /></li><li class="swiper-slide"><img src="/upload/iblock/7fa/Apteka_36_6.svg.png" height="81" alt="Аптечная сеть 36,6" /></li>
+                    </ul>
+                </div>
+                <div class="text-section">
+                    <p>
+                        <a href="/clients/">Посмотреть всех клиентов</a>
+                    </p>
+                </div>
+                <a href="javascript:void(0);" class="arrow-next">&gt;</a>
+            </div>
+
+ 
+    <section id="news" class="news">
+        <div class="news-holder">
+            <div id="num2" style="height:20px;"></div>
+            <h2>Новости</h2>
+
+            <div class="news-gallery">
+                <div class="holder swiper-container">
+                    <ul class="swiper-wrapper">
+                        <li class="swiper-slide">
+  <a href="/press/mechtaesh-postroit-kareru-v-it-kompanii-otkryt-nabor-na-sap-stazhirovku-v-novardis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/815/220_163_2/Стажировка макеты2-05 (1).jpg" width="220" height="163" alt="Мечтаешь построить карьеру в IT-компании?  Открыт набор на SAP-стажировку в NOVARDIS!" title="Мечтаешь построить карьеру в IT-компании?  Открыт набор на SAP-стажировку в NOVARDIS!" />
+       </span>
+    <em class="date">29.12.2021</em>
+    <span class="p">Мечтаешь построить карьеру в IT-компании?  Открыт набор на SAP-стажировку в NOVARDIS!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/v-magnite-startoval-klyuchevoy-etap-transformatsii-erp-na-baze-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c70/220_163_2/magnit для сайта.jpg" width="220" height="163" alt="В «Магните» стартовал ключевой этап трансформации ERP на базе SAP" title="В «Магните» стартовал ключевой этап трансформации ERP на базе SAP" />
+       </span>
+    <em class="date">23.12.2021</em>
+    <span class="p">В «Магните» стартовал ключевой этап трансформации ERP на базе SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/kompaniya-faberlic-vyshla-na-rynki-ssha-evropy-i-sng-c-pomoshchyu-produktov-sap-cx.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/dcf/220_163_2/faber для сайта.jpg" width="220" height="163" alt="Компания Faberlic вышла на рынки США, Европы и СНГ c помощью продуктов SAP CX" title="Компания Faberlic вышла на рынки США, Европы и СНГ c помощью продуктов SAP CX" />
+       </span>
+    <em class="date">22.12.2021</em>
+    <span class="p">Компания Faberlic вышла на рынки США, Европы и СНГ c помощью продуктов SAP CX</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/gk-damate-avtomatizirovala-logistiku-na-penzenskom-zavode-s-pomoshchyu-resheniy-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/386/220_163_2/дамате сайт1.jpg" width="220" height="163" alt="ГК «Дамате» автоматизировала логистику на пензенском заводе с помощью решений SAP" title="ГК «Дамате» автоматизировала логистику на пензенском заводе с помощью решений SAP" />
+       </span>
+    <em class="date">26.11.2021</em>
+    <span class="p">ГК «Дамате» автоматизировала логистику на пензенском заводе с помощью решений SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-otkryvaet-predstavitelstvo-v-belgorode.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d7c/220_163_2/Белгород  thumbnail 800х593.jpg" width="220" height="163" alt="NOVARDIS открывает представительство в Белгороде" title="NOVARDIS открывает представительство в Белгороде" />
+       </span>
+    <em class="date">16.11.2021</em>
+    <span class="p">NOVARDIS открывает представительство в Белгороде</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-edgarom-shabanovym-prezidentom-gk-riv-gosh.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/057/220_163_2/DSC04850-для сайта.jpg" width="220" height="163" alt="ТОП-менеджер» с Эдгаром Шабановым, президентом ГК «РИВ ГОШ»" title="ТОП-менеджер» с Эдгаром Шабановым, президентом ГК «РИВ ГОШ»" />
+       </span>
+    <em class="date">08.11.2021</em>
+    <span class="p">ТОП-менеджер» с Эдгаром Шабановым, президентом ГК «РИВ ГОШ»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-denisom-korovinym-it-biznes-partnerom-kompanii-lenta-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/b86/220_163_2/DSC04884-для сайта.jpg" width="220" height="163" alt="«ТОП-менеджер» с Денисом Коровиным, ИТ бизнес-партнером компании «Лента»." title="«ТОП-менеджер» с Денисом Коровиным, ИТ бизнес-партнером компании «Лента»." />
+       </span>
+    <em class="date">01.11.2021</em>
+    <span class="p">«ТОП-менеджер» с Денисом Коровиным, ИТ бизнес-партнером компании «Лента».</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-prinyal-uchastie-v-biznes-konferentsii-innovatsionnyy-den-almaty-2021.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/9a3/220_163_2/Инновационный день КЗ.jpg" width="220" height="163" alt="NOVARDIS принял участие в бизнес-конференции «Инновационный день Алматы 2021»" title="NOVARDIS принял участие в бизнес-конференции «Инновационный день Алматы 2021»" />
+       </span>
+    <em class="date">22.10.2021</em>
+    <span class="p">NOVARDIS принял участие в бизнес-конференции «Инновационный день Алматы 2021»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-prinyal-uchastie-v-konferentsii-logistika-lekarstvennykh-sredstv.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/163/220_163_2/Логистика конференция.jpg" width="220" height="163" alt="NOVARDIS принял участие в конференции «Логистика лекарственных средств»" title="NOVARDIS принял участие в конференции «Логистика лекарственных средств»" />
+       </span>
+    <em class="date">21.10.2021</em>
+    <span class="p">NOVARDIS принял участие в конференции «Логистика лекарственных средств»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/-top-menedzher-c-sergeem-klimashem-zamestitelem-generalnogo-direktora-kuratorom-bloka-it-i-tekhnolog.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/de6/220_163_2/Сергей Климаш.jpg" width="220" height="163" alt=" «ТОП-менеджер» c Сергеем Климашем, зам. генерального директора, куратором блока ИТ и технологии «СберЛогистика» " title=" «ТОП-менеджер» c Сергеем Климашем, зам. генерального директора, куратором блока ИТ и технологии «СберЛогистика» " />
+       </span>
+    <em class="date">18.10.2021</em>
+    <span class="p"> «ТОП-менеджер» c Сергеем Климашем, зам. генерального директора, куратором блока ИТ и технологии «СберЛогистика» </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/set-supermarketov-napitkov-vinlab-zapustila-crm-sistemu-sap-marketing.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/511/220_163_2/Thumbnail vinlab.jpg" width="220" height="163" alt="Сеть супермаркетов напитков «ВинЛаб» запустила CRM-систему SAP Marketing" title="Сеть супермаркетов напитков «ВинЛаб» запустила CRM-систему SAP Marketing" />
+       </span>
+    <em class="date">15.10.2021</em>
+    <span class="p">Сеть супермаркетов напитков «ВинЛаб» запустила CRM-систему SAP Marketing</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/proekty-novardis-zavoevali-platinu-i-zoloto-na-sap-value-award-2021.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/129/220_163_2/SAP VALUE thumbnail награждение.jpg" width="220" height="163" alt="Проекты NOVARDIS завоевали платину и золото на SAP Value Award 2021" title="Проекты NOVARDIS завоевали платину и золото на SAP Value Award 2021" />
+       </span>
+    <em class="date">07.10.2021</em>
+    <span class="p">Проекты NOVARDIS завоевали платину и золото на SAP Value Award 2021</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-vakhidom-kiassa-direktorom-po-logistike-splat.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c96/220_163_2/Вахид Киасса.jpg" width="220" height="163" alt="«ТОП-менеджер» с Вахидом Киасса, директором по логистике Splat" title="«ТОП-менеджер» с Вахидом Киасса, директором по логистике Splat" />
+       </span>
+    <em class="date">06.10.2021</em>
+    <span class="p">«ТОП-менеджер» с Вахидом Киасса, директором по логистике Splat</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-denisom-tomashevskim-generalnym-direktorom-ecco-russia.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/6ab/220_163_2/Денис Томашевский.jpg" width="220" height="163" alt="«ТОП-менеджер» с Денисом Томашевским, генеральным директором ECCO Russia" title="«ТОП-менеджер» с Денисом Томашевским, генеральным директором ECCO Russia" />
+       </span>
+    <em class="date">30.09.2021</em>
+    <span class="p">«ТОП-менеджер» с Денисом Томашевским, генеральным директором ECCO Russia</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-prinyal-uchastie-v-new-retail-forum.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f70/220_163_2/Thumbnail new retail forum.jpg" width="220" height="163" alt="NOVARDIS принял участие в New Retail Forum" title="NOVARDIS принял участие в New Retail Forum" />
+       </span>
+    <em class="date">09.09.2021</em>
+    <span class="p">NOVARDIS принял участие в New Retail Forum</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-prinyal-uchastie-v-bolshoy-vstreche-redis-business-class-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c10/220_163_2/Thumbnail REDIS-2.jpg" width="220" height="163" alt="NOVARDIS принял участие в Большой встрече Redis Business Class" title="NOVARDIS принял участие в Большой встрече Redis Business Class" />
+       </span>
+    <em class="date">08.09.2021</em>
+    <span class="p">NOVARDIS принял участие в Большой встрече Redis Business Class</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-voshel-v-top-15-krupneyshikh-postavshchikov-it-v-riteyle.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f10/220_163_2/Thumbnail Рейтинг.jpg" width="220" height="163" alt="NOVARDIS вошел в ТОП-15 крупнейших поставщиков ИТ в ритейле" title="NOVARDIS вошел в ТОП-15 крупнейших поставщиков ИТ в ритейле" />
+       </span>
+    <em class="date">19.08.2021</em>
+    <span class="p">NOVARDIS вошел в ТОП-15 крупнейших поставщиков ИТ в ритейле</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-otkryvaet-predstavitelstvo-v-kazakhstane.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/9f5/220_163_2/Thumbnail Forbes.jpg" width="220" height="163" alt="NOVARDIS открывает представительство в Казахстане" title="NOVARDIS открывает представительство в Казахстане" />
+       </span>
+    <em class="date">18.08.2021</em>
+    <span class="p">NOVARDIS открывает представительство в Казахстане</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-stazhirovka-v-kompanii-novardis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f0c/220_163_2/thumbnail стажировка2.jpg" width="220" height="163" alt="Мечтаешь построить карьеру в IT-компании? Открыт набор на SAP-стажировку в NOVARDIS" title="Мечтаешь построить карьеру в IT-компании? Открыт набор на SAP-стажировку в NOVARDIS" />
+       </span>
+    <em class="date">21.07.2021</em>
+    <span class="p">Мечтаешь построить карьеру в IT-компании? Открыт набор на SAP-стажировку в NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/tsifrovaya-transformatsiya-heineken-kak-rossiyskiy-tsifrovoy-proekt-stal-prototipom-dlya-tirazhirova.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/836/220_163_2/WhatsApp Image 2021-07-20 at 13.28.55.jpeg" width="220" height="163" alt=" Как российский цифровой проект стал прототипом для тиражирования по всему миру" title=" Как российский цифровой проект стал прототипом для тиражирования по всему миру" />
+       </span>
+    <em class="date">20.07.2021</em>
+    <span class="p"> Как российский цифровой проект стал прототипом для тиражирования по всему миру</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-prinyal-uchastie-v-delovom-piknike-v-kachestve-platinovogo-partnera.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/7a5/220_163_2/216965402_4203540006402194_4978130262907260335_n.jpg" width="220" height="163" alt="NOVARDIS принял участие в &quot;Деловом пикнике&quot; в качестве платинового партнера" title="NOVARDIS принял участие в &quot;Деловом пикнике&quot; в качестве платинового партнера" />
+       </span>
+    <em class="date">13.07.2021</em>
+    <span class="p">NOVARDIS принял участие в &quot;Деловом пикнике&quot; в качестве платинового партнера</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/statya-proektnaya-metodologiya-i-podkhod-k-roll-out-kompanii-novardis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/1b2/220_163_2/840px-2021-07-09_10-41-46.jpg" width="220" height="163" alt="Статья: проектная методология и подход к roll-out компании NOVARDIS" title="Статья: проектная методология и подход к roll-out компании NOVARDIS" />
+       </span>
+    <em class="date">12.07.2021</em>
+    <span class="p">Статья: проектная методология и подход к roll-out компании NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/intervyu-s-valeriem-kaplenko-direktorom-po-informatsionnym-tekhnologiyam-faberlic-o-vnedrenii-sap-co.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/51c/220_163_2/Валерий_Капленко_376.jpg" width="220" height="163" alt="Интервью с Валерием Капленко, Директором по информационным технологиям FABERLIC" title="Интервью с Валерием Капленко, Директором по информационным технологиям FABERLIC" />
+       </span>
+    <em class="date">09.07.2021</em>
+    <span class="p">Интервью с Валерием Капленко, Директором по информационным технологиям FABERLIC</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-prinyal-uchastie-v-biznes-konferentsii-innovatsionnyy-den-minsk-2021.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/376/220_163_2/210351955_4184718731617655_862375977991619087_n.jpg" width="220" height="163" alt="NOVARDIS принял участие в бизнес-конференции &quot;Инновационный день. Минск 2021&quot;" title="NOVARDIS принял участие в бизнес-конференции &quot;Инновационный день. Минск 2021&quot;" />
+       </span>
+    <em class="date">07.07.2021</em>
+    <span class="p">NOVARDIS принял участие в бизнес-конференции &quot;Инновационный день. Минск 2021&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/set-riv-gosh-vyshla-na-novyy-uroven-tsifrovizatsii-vmeste-s-novardis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/89b/220_163_2/XXL.jpg" width="220" height="163" alt="Сеть РИВ ГОШ вышла на новый уровень цифровизации вместе с NOVARDIS" title="Сеть РИВ ГОШ вышла на новый уровень цифровизации вместе с NOVARDIS" />
+       </span>
+    <em class="date">06.07.2021</em>
+    <span class="p">Сеть РИВ ГОШ вышла на новый уровень цифровизации вместе с NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/intervyu-s-upravlyayushchim-partnerom-novardis-markom-roytenbergom.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/3e4/220_163_2/207156005_4172864839469711_1829825926243122350_n.jpg" width="220" height="163" alt="Интервью с Марком Ройтенбергом, управляющим партнером NOVARDIS" title="Интервью с Марком Ройтенбергом, управляющим партнером NOVARDIS" />
+       </span>
+    <em class="date">05.07.2021</em>
+    <span class="p">Интервью с Марком Ройтенбергом, управляющим партнером NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-platinovyy-partner-delovogo-piknika.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c75/220_163_2/190571126_3491617744272025_4949000996449286379_n.jpg" width="220" height="163" alt="NOVARDIS — платиновый партнер «Делового пикника»" title="NOVARDIS — платиновый партнер «Делового пикника»" />
+       </span>
+    <em class="date">01.07.2021</em>
+    <span class="p">NOVARDIS — платиновый партнер «Делового пикника»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novaya-seriya-m-video-eldorado-biznes-seriala-sap-now.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/33a/220_163_2/Безымянный2.png" width="220" height="163" alt="Новая серия “М.Видео-Эльдорадо” бизнес-сериала SAP NOW" title="Новая серия “М.Видео-Эльдорадо” бизнес-сериала SAP NOW" />
+       </span>
+    <em class="date">24.06.2021</em>
+    <span class="p">Новая серия “М.Видео-Эльдорадо” бизнес-сериала SAP NOW</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novaya-seriya-posvyashchennaya-faberlic-uzhe-dostupna-dlya-prosmotra-na-sap-now.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/fbe/220_163_2/7a472f2f5d.jpg" width="220" height="163" alt="Новая серия бизнес-сериала SAP NOW — кейс Faberlic" title="Новая серия бизнес-сериала SAP NOW — кейс Faberlic" />
+       </span>
+    <em class="date">17.06.2021</em>
+    <span class="p">Новая серия бизнес-сериала SAP NOW — кейс Faberlic</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-so-svetlanoy-medvedevoy-direktorom-programmy-transformatsii-erp-magnit.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/5b5/220_163_2/thumbnail.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; со Светланой Медведевой, директором Программы трансформации ERP &quot;МАГНИТ&quot;" title="&quot;Мистер и Миссис SAP&quot; со Светланой Медведевой, директором Программы трансформации ERP &quot;МАГНИТ&quot;" />
+       </span>
+    <em class="date">15.06.2021</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; со Светланой Медведевой, директором Программы трансформации ERP &quot;МАГНИТ&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/start-sapphire-now-2021.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/be7/220_163_2/WhatsApp Image 2021-06-03 at 17.41.19 (1) (1).jpeg" width="220" height="163" alt="Старт SAPPHIRE NOW 2021!" title="Старт SAPPHIRE NOW 2021!" />
+       </span>
+    <em class="date">03.06.2021</em>
+    <span class="p">Старт SAPPHIRE NOW 2021!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-s-andreem-filatovym-generalnym-direktorom-sap-cis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/8ae/220_163_2/thumbnail.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; с Андреем Филатовым, генеральным директором SAP CIS" title="&quot;Мистер и Миссис SAP&quot; с Андреем Филатовым, генеральным директором SAP CIS" />
+       </span>
+    <em class="date">29.05.2021</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; с Андреем Филатовым, генеральным директором SAP CIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-partner-summer-camp-2021.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c4e/220_163_2/Thumbnail.jpg" width="220" height="163" alt="NOVARDIS — партнер SUMMER CAMP 2021" title="NOVARDIS — партнер SUMMER CAMP 2021" />
+       </span>
+    <em class="date">25.05.2021</em>
+    <span class="p">NOVARDIS — партнер SUMMER CAMP 2021</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novye-sezony-peredach-top-menedzher-i-mr-mrs-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/105/220_163_2/44bc222d3bb7f34bc17d52de217c0a7278c6df475f551939b5a5fb366a889d1b.JPG" width="220" height="163" alt="Новый сезон передач “ТОП-Менеджер” и “Mr. & Mrs. SAP”" title="Новый сезон передач “ТОП-Менеджер” и “Mr. & Mrs. SAP”" />
+       </span>
+    <em class="date">19.05.2021</em>
+    <span class="p">Новый сезон передач “ТОП-Менеджер” и “Mr. & Mrs. SAP”</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/biocad-mts-riteyl-i-damate-predstavili-keysy-po-vnedreniyu-sistem-na-baze-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/1fe/220_163_2/превью.jpg" width="220" height="163" alt="BIOCAD, «МТС Ритейл» и Дамате представили кейсы по внедрению систем на базе SAP" title="BIOCAD, «МТС Ритейл» и Дамате представили кейсы по внедрению систем на базе SAP" />
+       </span>
+    <em class="date">13.05.2021</em>
+    <span class="p">BIOCAD, «МТС Ритейл» и Дамате представили кейсы по внедрению систем на базе SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/kompaniya-biocad-avtomatizirovala-upravlenie-skladami-na-baze-sap-ewm.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/735/220_163_2/биокад.jpg" width="220" height="163" alt="Компания BIOCAD автоматизировала управление складами на базе SAP EWM" title="Компания BIOCAD автоматизировала управление складами на базе SAP EWM" />
+       </span>
+    <em class="date">11.05.2021</em>
+    <span class="p">Компания BIOCAD автоматизировала управление складами на базе SAP EWM</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/start-forum-sap-now-2021-v-novom-formate-biznes-seriala.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/689/220_163_2/thumbnail (1).jpg" width="220" height="163" alt="Старт форума SAP NOW 2021 в новом формате бизнес-сериала" title="Старт форума SAP NOW 2021 в новом формате бизнес-сериала" />
+       </span>
+    <em class="date">04.05.2021</em>
+    <span class="p">Старт форума SAP NOW 2021 в новом формате бизнес-сериала</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/28-aprelya-novardis-sovmestno-s-sap-cis-prinyali-uchastie-v-meropriyatii-ato-events-gruzovye-avtoper.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/aae/220_163_2/178494944_5765947636749489_6818648125786692951_n.jpg" width="220" height="163" alt="Novardis и SAP — делегаты конференции ATO events 2021" title="Novardis и SAP — делегаты конференции ATO events 2021" />
+       </span>
+    <em class="date">28.04.2021</em>
+    <span class="p">Novardis и SAP — делегаты конференции ATO events 2021</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/grand-winner-konkursa-sap-quality-awards-2021-proekt-click-collect-v-lenta.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f55/220_163_2/Thumbnail Итоги QA.jpg" width="220" height="163" alt="Grand winner конкурса SAP Quality Awards 2021 — проект Click & Collect в “Лента”" title="Grand winner конкурса SAP Quality Awards 2021 — проект Click & Collect в “Лента”" />
+       </span>
+    <em class="date">27.04.2021</em>
+    <span class="p">Grand winner конкурса SAP Quality Awards 2021 — проект Click & Collect в “Лента”</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-generalnyy-partner-retail-tech-2021.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/b26/220_163_2/превью.jpg" width="220" height="163" alt="NOVARDIS  – генеральный партнер Retail TECH 2021" title="NOVARDIS  – генеральный партнер Retail TECH 2021" />
+       </span>
+    <em class="date">22.04.2021</em>
+    <span class="p">NOVARDIS  – генеральный партнер Retail TECH 2021</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/raspredelitelnyy-tsentr-mts-rabotaet-v-edinoy-informatsionnoy-sisteme-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/a72/220_163_2/MTS-salon-_-2GIS.jpg" width="220" height="163" alt="Распределительный центр МТС работает в единой информационной системе SAP" title="Распределительный центр МТС работает в единой информационной системе SAP" />
+       </span>
+    <em class="date">01.04.2021</em>
+    <span class="p">Распределительный центр МТС работает в единой информационной системе SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/statya-novardis-na-portale-khabr-kak-my-pereveli-federalnuyu-set-magazinov-v-onlayn-za-60-dney-i-ne-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/6e6/220_163_2/40452a0d06dc40a23a9ba36f453436b9.png" width="220" height="163" alt="Мегапост на Хабр о кейсе внедрения Click & Collect" title="Мегапост на Хабр о кейсе внедрения Click & Collect" />
+       </span>
+    <em class="date">29.03.2021</em>
+    <span class="p">Мегапост на Хабр о кейсе внедрения Click & Collect</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/vebinare-sap-i-one-story.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/cb8/220_163_2/thumbnail Вебина 4 марта.jpg" width="220" height="163" alt="Вебинар SAP и One story по мотивам NRF" title="Вебинар SAP и One story по мотивам NRF" />
+       </span>
+    <em class="date">04.03.2021</em>
+    <span class="p">Вебинар SAP и One story по мотивам NRF</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/handelslogistik-globus-automatisiert-in-russland-deutschland-und-tschechien.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/943/220_163_2/thumbnail Logistic Heute 2.jpg" width="220" height="163" alt="Handelslogistik: Globus automatisiert in Russland, Deutschland und Tschechien" title="Handelslogistik: Globus automatisiert in Russland, Deutschland und Tschechien" />
+       </span>
+    <em class="date">28.01.2021</em>
+    <span class="p">Handelslogistik: Globus automatisiert in Russland, Deutschland und Tschechien</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/proekty-novardis-voshli-v-top-uspeshnykh-keysov-rbk-2020-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f30/220_163_2/thumbnail ЛЕНТА и связной.jpg" width="220" height="163" alt="Проекты NOVARDIS вошли в ТОП успешных кейсов РБК 2020 " title="Проекты NOVARDIS вошли в ТОП успешных кейсов РБК 2020 " />
+       </span>
+    <em class="date">14.01.2021</em>
+    <span class="p">Проекты NOVARDIS вошли в ТОП успешных кейсов РБК 2020 </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/statya-novardis-na-portale-new-retail-pandemiya-stala-zheltoy-kartochkoy-dlya-roznichnoy-torgovli.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/5dc/220_163_2/thumbnail желтая карточка2.jpg" width="220" height="163" alt="Статья NOVARDIS на портале New Retail &quot;Пандемия стала «желтой карточкой» для розничной торговли&quot;" title="Статья NOVARDIS на портале New Retail &quot;Пандемия стала «желтой карточкой» для розничной торговли&quot;" />
+       </span>
+    <em class="date">25.12.2020</em>
+    <span class="p">Статья NOVARDIS на портале New Retail &quot;Пандемия стала «желтой карточкой» для розничной торговли&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/intervyu-s-direktorom-tsentra-kompetentsiy-novardis-kirillom-korchaginym.html">
+    <span class="visual"><img src="/upload/iblock/090/thumbnail (1).png" width="220" height="163" alt="Интервью с директором Центра компетенций NOVARDIS Кириллом Корчагиным" title="Интервью с директором Центра компетенций NOVARDIS Кириллом Корчагиным" />
+       </span>
+    <em class="date">17.12.2020</em>
+    <span class="p">Интервью с директором Центра компетенций NOVARDIS Кириллом Корчагиным</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/statya-novardis-na-portale-tadviser-skachok-na-novyy-uroven-rentabelnosti-vozmozhen-s-pomoshchyu-pro.html">
+    <span class="visual"><img src="/upload/iblock/c80/thumbnail (3).png" width="220" height="163" alt="Статья NOVARDIS на портале TAdviser “Скачок на новый уровень рентабельности возможен с помощью Process Mining by Celonis”" title="Статья NOVARDIS на портале TAdviser “Скачок на новый уровень рентабельности возможен с помощью Process Mining by Celonis”" />
+       </span>
+    <em class="date">14.12.2020</em>
+    <span class="p">Статья NOVARDIS на портале TAdviser “Скачок на новый уровень рентабельности возможен с помощью Process Mining by Celonis”</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/intervyu-i-podkast-s-aleksandrom-niznikom-o-sprose-na-erp-sistemy-v-rossii.html">
+    <span class="visual"><img src="/upload/iblock/154/11.12.20_интервью-подкастTAdviser_превью.png" width="220" height="163" alt="Интервью и подкаст с Александром  Низником “О спросе на ERP-системы в России”" title="Интервью и подкаст с Александром  Низником “О спросе на ERP-системы в России”" />
+       </span>
+    <em class="date">11.12.2020</em>
+    <span class="p">Интервью и подкаст с Александром  Низником “О спросе на ERP-системы в России”</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/globus-avtomatiziruet-sklady-v-rossii-germanii-i-chekhii-na-baze-sap.html">
+    <span class="visual"><img src="/upload/iblock/3e6/08.12.20_Пресс-релиз Globus_превью.png" width="220" height="163" alt="«Глобус» автоматизирует склады в России, Германии и Чехии на базе SAP" title="«Глобус» автоматизирует склады в России, Германии и Чехии на базе SAP" />
+       </span>
+    <em class="date">07.12.2020</em>
+    <span class="p">«Глобус» автоматизирует склады в России, Германии и Чехии на базе SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/uralskie-roznichnye-seti-spar-i-molniya-rasshiryat-prisutstvie-na-rynke-s-sap-s-4hana.html">
+    <span class="visual"><img src="/upload/iblock/606/26.11.20_Пресс-релиз SPAR Урал_превью.png" width="220" height="163" alt="Уральские розничные сети Spar и &quot;Молния&quot; расширят присутствие на рынке с SAP S/4HANA" title="Уральские розничные сети Spar и &quot;Молния&quot; расширят присутствие на рынке с SAP S/4HANA" />
+       </span>
+    <em class="date">26.11.2020</em>
+    <span class="p">Уральские розничные сети Spar и &quot;Молния&quot; расширят присутствие на рынке с SAP S/4HANA</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/statya-novardis-na-portale-cnews-kak-autsorsing-podderzhki-pomog-biznesu-upravlyat-riskami-v-pandemi.html">
+    <span class="visual"><img src="/upload/iblock/2eb/23.11.20_Статья на Cnews_превью.png" width="220" height="163" alt="Статья NOVARDIS на портале CNews &quot;Как аутсорсинг поддержки помог бизнесу управлять рисками в пандемию&quot;" title="Статья NOVARDIS на портале CNews &quot;Как аутсорсинг поддержки помог бизнесу управлять рисками в пандемию&quot;" />
+       </span>
+    <em class="date">23.11.2020</em>
+    <span class="p">Статья NOVARDIS на портале CNews &quot;Как аутсорсинг поддержки помог бизнесу управлять рисками в пандемию&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/lenta-zapustila-sistemu-click-collect-v-150-gipermarketakh-rossii.html">
+    <span class="visual"><img src="/upload/iblock/abe/02.11.20_Пресс-релиз Лента_превью.png" width="220" height="163" alt="«Лента» запустила систему Click&Collect в 150 гипермаркетах России" title="«Лента» запустила систему Click&Collect в 150 гипермаркетах России" />
+       </span>
+    <em class="date">02.11.2020</em>
+    <span class="p">«Лента» запустила систему Click&Collect в 150 гипермаркетах России</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/magnit-zapustil-programmu-transformatsii-erp.html">
+    <span class="visual"><img src="/upload/iblock/072/09.11.20_Пресс-релиз Магнит_превью.png" width="220" height="163" alt="«Магнит» запустил программу трансформации ERP" title="«Магнит» запустил программу трансформации ERP" />
+       </span>
+    <em class="date">26.10.2020</em>
+    <span class="p">«Магнит» запустил программу трансформации ERP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-generalnyy-partner-na-forume-sap-biznes-kampus-2020.html">
+    <span class="visual"><img src="/upload/iblock/181/15.10.20_SAP Бизнес Кампус_превью.png" width="220" height="163" alt="NOVARDIS – генеральный партнер на форуме SAP Бизнес Кампус 2020" title="NOVARDIS – генеральный партнер на форуме SAP Бизнес Кампус 2020" />
+       </span>
+    <em class="date">12.10.2020</em>
+    <span class="p">NOVARDIS – генеральный партнер на форуме SAP Бизнес Кампус 2020</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/proekty-novardis-poluchili-serebro-i-bronzu-na-premii-sap-value-award-2020.html">
+    <span class="visual"><img src="/upload/iblock/4c9/08.10.20_SAP Value Award_превью.png" width="220" height="163" alt="Проекты NOVARDIS получили серебро и бронзу на премии SAP Value Award 2020" title="Проекты NOVARDIS получили серебро и бронзу на премии SAP Value Award 2020" />
+       </span>
+    <em class="date">08.10.2020</em>
+    <span class="p">Проекты NOVARDIS получили серебро и бронзу на премии SAP Value Award 2020</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/zapusk-platformy-sapphire-now-converge.html">
+    <span class="visual"><img src="/upload/iblock/075/09.09.20_Открытие платформы SAPHIRE NOW Convergeво_превью.png" width="220" height="163" alt="Запуск платформы SAPPHIRE NOW Converge" title="Запуск платформы SAPPHIRE NOW Converge" />
+       </span>
+    <em class="date">08.09.2020</em>
+    <span class="p">Запуск платформы SAPPHIRE NOW Converge</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/aeroport-pulkovo-zavershil-vnedrenie-tsifrovoy-platformy-sap-s-4hana.html">
+    <span class="visual"><img src="/upload/iblock/d9b/08.09.20_Пресс-релиз Пулково_превью.png" width="220" height="163" alt="Аэропорт Пулково завершил внедрение цифровой платформы SAP S/4HANA" title="Аэропорт Пулково завершил внедрение цифровой платформы SAP S/4HANA" />
+       </span>
+    <em class="date">08.09.2020</em>
+    <span class="p">Аэропорт Пулково завершил внедрение цифровой платформы SAP S/4HANA</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/priglashaem-na-onlayn-vebinar-digital-retail-assistant.html">
+    <span class="visual"><img src="/upload/iblock/751/27.08.20_Вебинар DRA_превью.png" width="220" height="163" alt="Приглашаем на онлайн-вебинар &quot;Digital Retail Assistant: цифровой помощник продавца консультанта&quot;" title="Приглашаем на онлайн-вебинар &quot;Digital Retail Assistant: цифровой помощник продавца консультанта&quot;" />
+       </span>
+    <em class="date">20.08.2020</em>
+    <span class="p">Приглашаем на онлайн-вебинар &quot;Digital Retail Assistant: цифровой помощник продавца консультанта&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/vstuplenie-novardis-v-rossiysko-germanskuyu-vneshnetorgovuyu-palatu.html">
+    <span class="visual"><img src="/upload/iblock/b19/13.08.20_Вступление в ВТП_превью.png" width="220" height="163" alt="Вступление NOVARDIS в Российско-Германскую внешнеторговую палату" title="Вступление NOVARDIS в Российско-Германскую внешнеторговую палату" />
+       </span>
+    <em class="date">13.08.2020</em>
+    <span class="p">Вступление NOVARDIS в Российско-Германскую внешнеторговую палату</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/proekt-novardis-poluchil-zoloto-na-premii-sap-quality-awards-2020.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/2c3/220_163_2/Sap Quality awards 220x163.jpg" width="220" height="163" alt="Проект NOVARDIS получил золото на премии SAP Quality Awards 2020" title="Проект NOVARDIS получил золото на премии SAP Quality Awards 2020" />
+       </span>
+    <em class="date">27.07.2020</em>
+    <span class="p">Проект NOVARDIS получил золото на премии SAP Quality Awards 2020</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/eksperty-kompanii-novardis-voshli-zhyuri-khakatona-aviasap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/e1b/220_163_2/маи фото.jpg" width="220" height="163" alt="Эксперты компании NOVARDIS вошли в жюри хакатона AVIASAP" title="Эксперты компании NOVARDIS вошли в жюри хакатона AVIASAP" />
+       </span>
+    <em class="date">05.03.2020</em>
+    <span class="p">Эксперты компании NOVARDIS вошли в жюри хакатона AVIASAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-laureat-sap-partner-excellence-award-2020.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/46f/220_163_2/фото.jpg" width="220" height="163" alt=" NOVARDIS - лауреат SAP Partner Excellence Award 2020" title=" NOVARDIS - лауреат SAP Partner Excellence Award 2020" />
+       </span>
+    <em class="date">16.01.2020</em>
+    <span class="p"> NOVARDIS - лауреат SAP Partner Excellence Award 2020</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novayear2020.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/03f/220_163_2/IMG_5745.jpg" width="220" height="163" alt="#NOVAYEAR2020" title="#NOVAYEAR2020" />
+       </span>
+    <em class="date">26.12.2019</em>
+    <span class="p">#NOVAYEAR2020</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-generalnyy-partner-sap-biznes-kampus-2019.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/451/220_163_2/75323377_2591705894252288_349127295807520768_n.jpg" width="220" height="163" alt="NOVARDIS – генеральный партнер SAP Бизнес Кампус 2019" title="NOVARDIS – генеральный партнер SAP Бизнес Кампус 2019" />
+       </span>
+    <em class="date">01.11.2019</em>
+    <span class="p">NOVARDIS – генеральный партнер SAP Бизнес Кампус 2019</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/proekt-novardis-poluchil-zoloto-na-premii-sap-value-award-2019.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/681/220_163_2/_KOR3262 (003).JPG" width="220" height="163" alt="Проект NOVARDIS получил золото на премии SAP Value Award 2019" title="Проект NOVARDIS получил золото на премии SAP Value Award 2019" />
+       </span>
+    <em class="date">11.10.2019</em>
+    <span class="p">Проект NOVARDIS получил золото на премии SAP Value Award 2019</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novatrip2019-vnov-bet-vse-rekordy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/e38/220_163_2/66.png" width="220" height="163" alt="#NOVATRIP2019 вновь бьет все рекорды" title="#NOVATRIP2019 вновь бьет все рекорды" />
+       </span>
+    <em class="date">07.10.2019</em>
+    <span class="p">#NOVATRIP2019 вновь бьет все рекорды</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-v-top-15-krupneyshikh-postavshchikov-it-autsorsinga-v-rossii.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/0b3/220_163_2/It_retail_(1).jpg" width="220" height="163" alt="NOVARDIS в ТОП-15 крупнейших поставщиков ИТ-аутсорсинга в России" title="NOVARDIS в ТОП-15 крупнейших поставщиков ИТ-аутсорсинга в России" />
+       </span>
+    <em class="date">01.10.2019</em>
+    <span class="p">NOVARDIS в ТОП-15 крупнейших поставщиков ИТ-аутсорсинга в России</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-zapuskaet-v-pulkovo-tsifrovuyu-transformatsiyu.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c26/220_163_2/ayeroport-pulkovo.jpg" width="220" height="163" alt="NOVARDIS запускает в Пулково цифровую трансформацию" title="NOVARDIS запускает в Пулково цифровую трансформацию" />
+       </span>
+    <em class="date">07.06.2019</em>
+    <span class="p">NOVARDIS запускает в Пулково цифровую трансформацию</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-v-chisle-krupneyshikh-it-kompaniy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/4b4/220_163_2/Банер_победа.jpg" width="220" height="163" alt="NOVARDIS в числе крупнейших ИТ-компаний" title="NOVARDIS в числе крупнейших ИТ-компаний" />
+       </span>
+    <em class="date">23.05.2019</em>
+    <span class="p">NOVARDIS в числе крупнейших ИТ-компаний</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/innovatsionnyy-proekt-heineken-priznan-luchshim-na-sap-quality-awards-2019.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/53a/220_163_2/_KOR3986.jpg" width="220" height="163" alt="Инновационный проект HEINEKEN признан лучшим на SAP Quality Awards 2019" title="Инновационный проект HEINEKEN признан лучшим на SAP Quality Awards 2019" />
+       </span>
+    <em class="date">24.04.2019</em>
+    <span class="p">Инновационный проект HEINEKEN признан лучшим на SAP Quality Awards 2019</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-forum-2019-krupneyshee-sobytie-v-sfere-it.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/ab2/220_163_2/58586590_2554116211279057_81176986428375040_o.jpg" width="220" height="163" alt="SAP FORUM 2019 – крупнейшее событие в сфере IT" title="SAP FORUM 2019 – крупнейшее событие в сфере IT" />
+       </span>
+    <em class="date">22.04.2019</em>
+    <span class="p">SAP FORUM 2019 – крупнейшее событие в сфере IT</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-priglashaet-na-sap-forum-2019.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d43/220_163_2/SAP приглашение обложка 1280х720.jpg" width="220" height="163" alt="NOVARDIS приглашает на SAP Forum 2019" title="NOVARDIS приглашает на SAP Forum 2019" />
+       </span>
+    <em class="date">16.04.2019</em>
+    <span class="p">NOVARDIS приглашает на SAP Forum 2019</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/15-let-sap-for-retail-v-rossii.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/cda/220_163_2/photo-363 (1).jpg" width="220" height="163" alt=" 15 лет SAP for Retail в России" title=" 15 лет SAP for Retail в России" />
+       </span>
+    <em class="date">10.04.2019</em>
+    <span class="p"> 15 лет SAP for Retail в России</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-v-chisle-luchshikh-kompaniy-po-cx-v-mire.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/009/220_163_2/SAP Pinnacle.jpg" width="220" height="163" alt="NOVARDIS в числе лучших компаний по CX в мире" title="NOVARDIS в числе лучших компаний по CX в мире" />
+       </span>
+    <em class="date">27.03.2019</em>
+    <span class="p">NOVARDIS в числе лучших компаний по CX в мире</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-valeriem-kaplenko.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/443/220_163_2/IMG_8769.JPG" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Валерием Капленко - IT-директором Faberlic" title="&quot;ТОП-Менеджер&quot; с Валерием Капленко - IT-директором Faberlic" />
+       </span>
+    <em class="date">18.02.2019</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Валерием Капленко - IT-директором Faberlic</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-sergeem-sergeevym-it-direktorom-gk-m-video-eldorado.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d2a/220_163_2/WhatsApp Image 2019-02-04 at 10.01.32.jpeg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Сергеем Сергеевым – IT-директором ГК &quot;М.Видео-Эльдорадо&quot;" title="&quot;ТОП-Менеджер&quot; с Сергеем Сергеевым – IT-директором ГК &quot;М.Видео-Эльдорадо&quot;" />
+       </span>
+    <em class="date">06.02.2019</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Сергеем Сергеевым – IT-директором ГК &quot;М.Видео-Эльдорадо&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/heineken-uspeshno-vnedril-sap-ewm-v-rossii-i-teper-tirazhiruet-reshenie-na-vse-svoi-zavody-v-evrope.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/a3b/220_163_2/heineken.jpg" width="220" height="163" alt="Heineken успешно внедрил SAP EWM в России и теперь тиражирует решение на все свои заводы в Европе" title="Heineken успешно внедрил SAP EWM в России и теперь тиражирует решение на все свои заводы в Европе" />
+       </span>
+    <em class="date">05.02.2019</em>
+    <span class="p">Heineken успешно внедрил SAP EWM в России и теперь тиражирует решение на все свои заводы в Европе</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-sponsor-rossiyskoy-delegatsii-top-menedzherov-riteyla-v-nyu-yorke.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/67d/220_163_2/NRF обложка.jpg" width="220" height="163" alt="NOVARDIS - спонсор российской делегации топ-менеджеров ритейла в Нью-Йорке" title="NOVARDIS - спонсор российской делегации топ-менеджеров ритейла в Нью-Йорке" />
+       </span>
+    <em class="date">31.01.2019</em>
+    <span class="p">NOVARDIS - спонсор российской делегации топ-менеджеров ритейла в Нью-Йорке</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novaparty-2019.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/e63/220_163_2/1545341147_cf8770.jpg" width="220" height="163" alt="NOVAPARTY 2019" title="NOVAPARTY 2019" />
+       </span>
+    <em class="date">24.12.2018</em>
+    <span class="p">NOVAPARTY 2019</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-andreem-orlovym-it-ekspertom-v-oblasti-realizatsii-elektronnoy-kommertsii.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/971/220_163_2/probOrlov.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Андреем Орловым - IT-экспертом в области реализации электронной коммерции" title="&quot;ТОП-Менеджер&quot; с Андреем Орловым - IT-экспертом в области реализации электронной коммерции" />
+       </span>
+    <em class="date">05.12.2018</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Андреем Орловым - IT-экспертом в области реализации электронной коммерции</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/avtorskiy-master-klass-aleksandra-niznika-v-mirea-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/47a/220_163_2/46513155_2003986556357561_6487306890949689344_o.jpg" width="220" height="163" alt="Авторский мастер-класс Александра Низника в МИРЭА " title="Авторский мастер-класс Александра Низника в МИРЭА " />
+       </span>
+    <em class="date">03.12.2018</em>
+    <span class="p">Авторский мастер-класс Александра Низника в МИРЭА </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-c-vadimom-uryasom-zamestitelem-generalnogo-direktora-po-informatsionnym-tekhnologiyam-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/fc9/220_163_2/ПРО БИЗНЕС.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; c Вадимом Урьясом, заместителем генерального директора по ИТ АО &quot;Первая Грузовая Компания&quot;" title="&quot;ТОП-Менеджер&quot; c Вадимом Урьясом, заместителем генерального директора по ИТ АО &quot;Первая Грузовая Компания&quot;" />
+       </span>
+    <em class="date">28.11.2018</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; c Вадимом Урьясом, заместителем генерального директора по ИТ АО &quot;Первая Грузовая Компания&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/globus-postroil-tsifrovoy-fundament-na-baze-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f92/220_163_2/Глобус.jpg" width="220" height="163" alt="«Глобус» построил цифровой фундамент на базе SAP" title="«Глобус» построил цифровой фундамент на базе SAP" />
+       </span>
+    <em class="date">02.11.2018</em>
+    <span class="p">«Глобус» построил цифровой фундамент на базе SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-biznes-kampus-2018.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/745/220_163_2/fd5a5cd8-3268-48e6-bb93-06c14cb88459.jpg" width="220" height="163" alt="SAP Бизнес Кампус 2018" title="SAP Бизнес Кампус 2018" />
+       </span>
+    <em class="date">26.10.2018</em>
+    <span class="p">SAP Бизнес Кампус 2018</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-s-sergeem-pankratovym-prodolzhenie.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/635/220_163_2/29386416_2038055002885797_2114344350358962176_o.jpg" width="220" height="163" alt="&quot;Мистер и миссис SAP&quot; с Сергеем Панкратовым, директором по маркетингу SAP CIS. Продолжение." title="&quot;Мистер и миссис SAP&quot; с Сергеем Панкратовым, директором по маркетингу SAP CIS. Продолжение." />
+       </span>
+    <em class="date">24.10.2018</em>
+    <span class="p">&quot;Мистер и миссис SAP&quot; с Сергеем Панкратовым, директором по маркетингу SAP CIS. Продолжение.</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-s-sergeem-pankratovym.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/254/220_163_2/Безымянный.png" width="220" height="163" alt="&quot;Мистер и миссис SAP&quot; с Сергеем Панкратовым, директором по маркетингу SAP CIS" title="&quot;Мистер и миссис SAP&quot; с Сергеем Панкратовым, директором по маркетингу SAP CIS" />
+       </span>
+    <em class="date">23.10.2018</em>
+    <span class="p">&quot;Мистер и миссис SAP&quot; с Сергеем Панкратовым, директором по маркетингу SAP CIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novatrip-2018-samoe-yarkoe-sobytie-ukhodyashchey-oseni.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/324/220_163_2/1.jpg" width="220" height="163" alt="NOVATRIP 2018 – САМОЕ ЯРКОЕ СОБЫТИЕ УХОДЯЩЕЙ ОСЕНИ" title="NOVATRIP 2018 – САМОЕ ЯРКОЕ СОБЫТИЕ УХОДЯЩЕЙ ОСЕНИ" />
+       </span>
+    <em class="date">17.10.2018</em>
+    <span class="p">NOVATRIP 2018 – САМОЕ ЯРКОЕ СОБЫТИЕ УХОДЯЩЕЙ ОСЕНИ</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-ekaterinoy-sokolovoy-finansovym-direktorom-m-video-eldorado-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/8fd/220_163_2/IMG_6349.JPG" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Екатериной Соколовой, финансовым директором М.Видео-Эльдорадо " title="&quot;ТОП-Менеджер&quot; с Екатериной Соколовой, финансовым директором М.Видео-Эльдорадо " />
+       </span>
+    <em class="date">03.10.2018</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Екатериной Соколовой, финансовым директором М.Видео-Эльдорадо </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-andreem-polonchukom-direktorom-ecommerce-svyaznoy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/1b2/220_163_2/preview_pol.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Андреем Полончуком, директором e-commerce «Связной»" title="&quot;ТОП-Менеджер&quot; с Андреем Полончуком, директором e-commerce «Связной»" />
+       </span>
+    <em class="date">22.05.2018</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Андреем Полончуком, директором e-commerce «Связной»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-forum-sap-digital-exchange-moskva-2018.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/126/220_163_2/IMG_7753_ (1)111.jpg" width="220" height="163" alt="SAP Forum & SAP Digital Exchange Москва 2018" title="SAP Forum & SAP Digital Exchange Москва 2018" />
+       </span>
+    <em class="date">18.04.2018</em>
+    <span class="p">SAP Forum & SAP Digital Exchange Москва 2018</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/priglashaem-vas-na-sap-forum-moscow-2018.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/ac4/220_163_2/29872298_1prev.jpg" width="220" height="163" alt="Приглашаем Вас на SAP Forum Moscow 2018" title="Приглашаем Вас на SAP Forum Moscow 2018" />
+       </span>
+    <em class="date">09.04.2018</em>
+    <span class="p">Приглашаем Вас на SAP Forum Moscow 2018</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-v-reytinge-top-100-rabotodateley-za-2017-god.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/217/220_163_2/DSC_0815__.jpg" width="220" height="163" alt="NOVARDIS в рейтинге ТОП-100 работодателей за 2017 год" title="NOVARDIS в рейтинге ТОП-100 работодателей за 2017 год" />
+       </span>
+    <em class="date">04.04.2018</em>
+    <span class="p">NOVARDIS в рейтинге ТОП-100 работодателей за 2017 год</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-c-kirillom-cherburinym-i-lyudmiloy-gvozdevoy-abi-product.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/566/220_163_2/дытдылта.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; c Кириллом Чербуниным и Людмилой Гвоздевой, ABI PRODUCT" title="&quot;Мистер и Миссис SAP&quot; c Кириллом Чербуниным и Людмилой Гвоздевой, ABI PRODUCT" />
+       </span>
+    <em class="date">21.02.2018</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; c Кириллом Чербуниным и Людмилой Гвоздевой, ABI PRODUCT</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-ekaterinoy-bnatovoy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/614/220_163_2/bnatova_11.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Екатериной Бнатовой, генеральным директором Телеканала «БУМ ТВ»" title="&quot;ТОП-Менеджер&quot; с Екатериной Бнатовой, генеральным директором Телеканала «БУМ ТВ»" />
+       </span>
+    <em class="date">12.02.2018</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Екатериной Бнатовой, генеральным директором Телеканала «БУМ ТВ»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-dmitriem-marinichevym-prodolzhenie.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/cea/220_163_2/preview_youtube_11.jpg" width="220" height="163" alt="Продолжение передачи &quot;ТОП-Менеджер&quot; с Дмитрием Мариничевым" title="Продолжение передачи &quot;ТОП-Менеджер&quot; с Дмитрием Мариничевым" />
+       </span>
+    <em class="date">24.01.2018</em>
+    <span class="p">Продолжение передачи &quot;ТОП-Менеджер&quot; с Дмитрием Мариничевым</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-dmitriem-marinichevym-predprinimatelem.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/2b9/220_163_2/marinichev_preview.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Дмитрием Мариничевым, предпринимателем, интернет-омбудсменом" title="&quot;ТОП-Менеджер&quot; с Дмитрием Мариничевым, предпринимателем, интернет-омбудсменом" />
+       </span>
+    <em class="date">22.01.2018</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Дмитрием Мариничевым, предпринимателем, интернет-омбудсменом</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/lenta-s-pomoshchu-sap-stanovitsya-real-time-riteylerom.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/4f1/220_163_2/лента-на-ЖБИ.jpg" width="220" height="163" alt="«Лента» с помощью SAP становится real-time ритейлером" title="«Лента» с помощью SAP становится real-time ритейлером" />
+       </span>
+    <em class="date">19.01.2018</em>
+    <span class="p">«Лента» с помощью SAP становится real-time ритейлером</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-pozdravlyaet-s-novym-2018-godom.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/a56/220_163_2/prev_2018.jpg" width="220" height="163" alt="NOVARDIS ПОЗДРАВЛЯЕТ С НОВЫМ 2018 ГОДОМ!" title="NOVARDIS ПОЗДРАВЛЯЕТ С НОВЫМ 2018 ГОДОМ!" />
+       </span>
+    <em class="date">28.12.2017</em>
+    <span class="p">NOVARDIS ПОЗДРАВЛЯЕТ С НОВЫМ 2018 ГОДОМ!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novaparty2018.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/29b/220_163_2/prev.jpg" width="220" height="163" alt="#NOVAPARTY2018" title="#NOVAPARTY2018" />
+       </span>
+    <em class="date">26.12.2017</em>
+    <span class="p">#NOVAPARTY2018</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-retail-consumer-industries-forum-2017.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/a92/220_163_2/alexander_web.jpg" width="220" height="163" alt="SAP Retail & Consumer Industries Forum 2017" title="SAP Retail & Consumer Industries Forum 2017" />
+       </span>
+    <em class="date">31.10.2017</em>
+    <span class="p">SAP Retail & Consumer Industries Forum 2017</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-glavnyy-eksponat-karernogo-foruma-nayti-it-2017.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/46c/220_163_2/fint-it (1).jpg" width="220" height="163" alt="NOVARDIS - главный экспонат карьерного форума «Найти IT» 2017" title="NOVARDIS - главный экспонат карьерного форума «Найти IT» 2017" />
+       </span>
+    <em class="date">20.10.2017</em>
+    <span class="p">NOVARDIS - главный экспонат карьерного форума «Найти IT» 2017</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-generalnyy-partner-sap-trade-forum-2017.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/94d/220_163_2/preview_sap.jpg" width="220" height="163" alt="NOVARDIS - генеральный партнер SAP Trade Forum 2017!" title="NOVARDIS - генеральный партнер SAP Trade Forum 2017!" />
+       </span>
+    <em class="date">12.10.2017</em>
+    <span class="p">NOVARDIS - генеральный партнер SAP Trade Forum 2017!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/vyezdnoy-korporativ-novardis-v-turtsii-v-ocherednoy-raz-prevzoshel-vse-ozhidaniya.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/252/220_163_2/hashtag_preview.jpg" width="220" height="163" alt="Выездной корпоратив NOVARDIS в Турции в очередной раз превзошел все ожидания" title="Выездной корпоратив NOVARDIS в Турции в очередной раз превзошел все ожидания" />
+       </span>
+    <em class="date">10.10.2017</em>
+    <span class="p">Выездной корпоратив NOVARDIS в Турции в очередной раз превзошел все ожидания</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/v-rezultate-upornoy-borby-pobeditelem-konkursa-novardisworldwide-stal-artem-mikshin.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/e4c/220_163_2/DSC_0721_.jpg" width="220" height="163" alt="В результате упорной борьбы победителем конкурса NOVARDISWORLDWIDE стал Артем Микшин!" title="В результате упорной борьбы победителем конкурса NOVARDISWORLDWIDE стал Артем Микшин!" />
+       </span>
+    <em class="date">06.10.2017</em>
+    <span class="p">В результате упорной борьбы победителем конкурса NOVARDISWORLDWIDE стал Артем Микшин!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-aleksandrom-vasilevym-generalnym-direktorom-kompanii-korablik-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/ddf/220_163_2/IMG_8176__.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Александром Васильевым, генеральным директором компании &quot;Кораблик&quot; " title="&quot;ТОП-Менеджер&quot; с Александром Васильевым, генеральным директором компании &quot;Кораблик&quot; " />
+       </span>
+    <em class="date">04.10.2017</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Александром Васильевым, генеральным директором компании &quot;Кораблик&quot; </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/klienty-novardis-oderzhali-pobedu-srazu-v-dvukh-nominatsiyakh-premii-sap-value-award-2017.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c3b/220_163_2/preview_1.jpg" width="220" height="163" alt="Клиенты NOVARDIS одержали победу сразу в двух номинациях премии SAP Value Award 2017" title="Клиенты NOVARDIS одержали победу сразу в двух номинациях премии SAP Value Award 2017" />
+       </span>
+    <em class="date">04.10.2017</em>
+    <span class="p">Клиенты NOVARDIS одержали победу сразу в двух номинациях премии SAP Value Award 2017</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sredniy-biznes-nazval-sap-hybris-luchshey-korporativnoy-programmoy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/0d2/220_163_2/previewa1.png" width="220" height="163" alt="Средний бизнес назвал SAP Hybris лучшей корпоративной программой" title="Средний бизнес назвал SAP Hybris лучшей корпоративной программой" />
+       </span>
+    <em class="date">02.10.2017</em>
+    <span class="p">Средний бизнес назвал SAP Hybris лучшей корпоративной программой</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/proekty-novardis-nominirovany-na-sap-value-award-2017.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/2b2/220_163_2/preview_value.jpg" width="220" height="163" alt="Проекты NOVARDIS номинированы на премию SAP Value Award 2017" title="Проекты NOVARDIS номинированы на премию SAP Value Award 2017" />
+       </span>
+    <em class="date">15.09.2017</em>
+    <span class="p">Проекты NOVARDIS номинированы на премию SAP Value Award 2017</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-anatoliem-korneevym-vitse-prezidentom-kompanii-simple.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c48/220_163_2/korneeev.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Анатолием Корнеевым, вице-президентом компании Simple" title="&quot;ТОП-Менеджер&quot; с Анатолием Корнеевым, вице-президентом компании Simple" />
+       </span>
+    <em class="date">07.09.2017</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Анатолием Корнеевым, вице-президентом компании Simple</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-elenoy-bebeshko-rukovoditelem-sluzhby-metodologii-tele2-i-evgeniemzavyalovy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/2bf/220_163_2/IMG_3056 (1).JPG" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; c Еленой Бебешко и Евгением Завьяловым, TELE2" title="&quot;Мистер и Миссис SAP&quot; c Еленой Бебешко и Евгением Завьяловым, TELE2" />
+       </span>
+    <em class="date">24.08.2017</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; c Еленой Бебешко и Евгением Завьяловым, TELE2</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-ivanom-glushkovym-zamestitelem-generalnogo-direktor-stada-cis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/323/220_163_2/mms_preview_august.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Иваном Глушковым, заместителем генерального директора STADA CIS" title="&quot;ТОП-Менеджер&quot; с Иваном Глушковым, заместителем генерального директора STADA CIS" />
+       </span>
+    <em class="date">10.08.2017</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Иваном Глушковым, заместителем генерального директора STADA CIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/vladimir-korolev-m-video-pri-podderzhke-sap-masshtab-prevrashchaetsya-v-ekonomiyu.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/a8a/220_163_2/Korol_vl_220.png" width="220" height="163" alt="Владимир Королев, «М.Видео»: при поддержке SAP масштаб превращается в экономию" title="Владимир Королев, «М.Видео»: при поддержке SAP масштаб превращается в экономию" />
+       </span>
+    <em class="date">04.08.2017</em>
+    <span class="p">Владимир Королев, «М.Видео»: при поддержке SAP масштаб превращается в экономию</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/pao-aptechnaya-set-36-6-zapuskaet-sobstvennuyu-internet-apteku-na-baze-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/127/220_163_2/366nova.jpg" width="220" height="163" alt="ПАО «Аптечная сеть 36,6» запускает собственную интернет-аптеку на базе SAP" title="ПАО «Аптечная сеть 36,6» запускает собственную интернет-аптеку на базе SAP" />
+       </span>
+    <em class="date">22.06.2017</em>
+    <span class="p">ПАО «Аптечная сеть 36,6» запускает собственную интернет-аптеку на базе SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-maksimom-basovym-generalnym-direktorom-gruppy-kompaniy-rusagro.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/e33/220_163_2/preview_mms.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Максимом Басовым, генеральным директором ООО &quot;Группы Компаний &quot;Русагро&quot;" title="&quot;ТОП-Менеджер&quot; с Максимом Басовым, генеральным директором ООО &quot;Группы Компаний &quot;Русагро&quot;" />
+       </span>
+    <em class="date">08.06.2017</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Максимом Басовым, генеральным директором ООО &quot;Группы Компаний &quot;Русагро&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/videoreportazh-kak-tsifrovaya-transformatsiya-menyaet-rossiyskiy-biznes.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/3d5/220_163_2/preview__.jpg" width="220" height="163" alt="Видеорепортаж: Как цифровая трансформация меняет российский бизнес" title="Видеорепортаж: Как цифровая трансформация меняет российский бизнес" />
+       </span>
+    <em class="date">02.06.2017</em>
+    <span class="p">Видеорепортаж: Как цифровая трансформация меняет российский бизнес</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-antonom-semenovym-generalnym-direktorom-gk-belay-dacha.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/977/220_163_2/IMG_6756_pre11.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Антоном Семеновым, генеральным директором ГК &quot;Белая Дача&quot;" title="&quot;ТОП-Менеджер&quot; с Антоном Семеновым, генеральным директором ГК &quot;Белая Дача&quot;" />
+       </span>
+    <em class="date">25.05.2017</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Антоном Семеновым, генеральным директором ГК &quot;Белая Дача&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/top-menedzher-s-romanom-ershovym-generalnym-direktorom-kompanii-askona.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/1c5/220_163_2/IMG_6715_1.jpg" width="220" height="163" alt="&quot;ТОП-Менеджер&quot; с Романом Ершовым, генеральным директором компании &quot;Аскона&quot;" title="&quot;ТОП-Менеджер&quot; с Романом Ершовым, генеральным директором компании &quot;Аскона&quot;" />
+       </span>
+    <em class="date">11.05.2017</em>
+    <span class="p">&quot;ТОП-Менеджер&quot; с Романом Ершовым, генеральным директором компании &quot;Аскона&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/komus-razvivaet-kanal-internet-prodazh-s-pomoshchyu-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/8ff/220_163_2/preview_komus.jpg" width="220" height="163" alt="«Комус» развивает канал интернет-продаж с помощью SAP " title="«Комус» развивает канал интернет-продаж с помощью SAP " />
+       </span>
+    <em class="date">03.05.2017</em>
+    <span class="p">«Комус» развивает канал интернет-продаж с помощью SAP </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/tsifrovoe-nastoyashchee-i-magazin-budushchego-na-sap-forum-2017.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/fe9/220_163_2/IMG-20170413-WA0038_.jpg" width="220" height="163" alt="Цифровое настоящее и магазин будущего на SAP Forum 2017" title="Цифровое настоящее и магазин будущего на SAP Forum 2017" />
+       </span>
+    <em class="date">21.04.2017</em>
+    <span class="p">Цифровое настоящее и магазин будущего на SAP Forum 2017</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/priglashaem-vas-na-sap-forum-moscow-2017-kotoryy-sostoitsya-13-aprelya-v-krokus-ekspo-.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/17a/220_163_2/превью___1.jpg" width="220" height="163" alt="Приглашаем Вас на SAP Forum Moscow 2017, который состоится 13 апреля в Крокус Экспо " title="Приглашаем Вас на SAP Forum Moscow 2017, который состоится 13 апреля в Крокус Экспо " />
+       </span>
+    <em class="date">10.04.2017</em>
+    <span class="p">Приглашаем Вас на SAP Forum Moscow 2017, который состоится 13 апреля в Крокус Экспо </span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-forum-2017-v-krokus-ekspo.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/9b8/220_163_2/image_preview.jpg" width="220" height="163" alt="Главное событие года: SAP Forum Moscow 2017 в Крокус Экспо" title="Главное событие года: SAP Forum Moscow 2017 в Крокус Экспо" />
+       </span>
+    <em class="date">24.03.2017</em>
+    <span class="p">Главное событие года: SAP Forum Moscow 2017 в Крокус Экспо</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/soft-pogloshchaet-mir.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/aeb/220_163_2/soft_preview.jpg" width="220" height="163" alt="Софт поглощает мир: как передовые технологии помогают ритейлу развиваться" title="Софт поглощает мир: как передовые технологии помогают ритейлу развиваться" />
+       </span>
+    <em class="date">20.03.2017</em>
+    <span class="p">Софт поглощает мир: как передовые технологии помогают ритейлу развиваться</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/samoletik-novardis-peresek-otmetku-v-1-million-mil.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/0f5/220_163_2/nww_preview.jpg" width="220" height="163" alt="Самолетик NOVARDIS пересек отметку в 1 миллион миль!" title="Самолетик NOVARDIS пересек отметку в 1 миллион миль!" />
+       </span>
+    <em class="date">16.03.2017</em>
+    <span class="p">Самолетик NOVARDIS пересек отметку в 1 миллион миль!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/business-school-s-andreem-orlovym-vitse-prezid-entom-po-infrastrukture-riv-gosh.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/e76/220_163_2/SPVJNAS.jpg" width="220" height="163" alt="NOVARDIS Business School с Андреем Орловым, вице-презид­ентом по инфраструктуре­ &quot;Рив Гош&quot;" title="NOVARDIS Business School с Андреем Орловым, вице-презид­ентом по инфраструктуре­ &quot;Рив Гош&quot;" />
+       </span>
+    <em class="date">24.01.2017</em>
+    <span class="p">NOVARDIS Business School с Андреем Орловым, вице-презид­ентом по инфраструктуре­ &quot;Рив Гош&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mister-i-missis-sap-s-andreem-filatovym-generalnim-direktorom-ibm-rossiya-i-sng.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d47/220_163_2/IMG_5556_.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; с Андреем Филатовым, генеральным директором IBM Россия и СНГ" title="&quot;Мистер и Миссис SAP&quot; с Андреем Филатовым, генеральным директором IBM Россия и СНГ" />
+       </span>
+    <em class="date">18.01.2017</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; с Андреем Филатовым, генеральным директором IBM Россия и СНГ</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-pozdravlyaet-s-novym-godom.html">
+    <span class="visual"><img src="/upload/iblock/d69/фон_нг.jpg" width="220" height="163" alt="NOVARDIS поздравляет с Новым Годом!" title="NOVARDIS поздравляет с Новым Годом!" />
+       </span>
+    <em class="date">30.12.2016</em>
+    <span class="p">NOVARDIS поздравляет с Новым Годом!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/itogi-konkursa-sap-quality-awards-2016.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/06a/220_163_2/preview_q.jpg" width="220" height="163" alt="Итоги конкурса SAP QUALITY AWARDS 2016" title="Итоги конкурса SAP QUALITY AWARDS 2016" />
+       </span>
+    <em class="date">20.12.2016</em>
+    <span class="p">Итоги конкурса SAP QUALITY AWARDS 2016</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novogodniy-prazdnik-dvukh-stolits.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/fba/220_163_2/IMG_311644.jpg" width="220" height="163" alt="Новогодний праздник двух столиц" title="Новогодний праздник двух столиц" />
+       </span>
+    <em class="date">16.12.2016</em>
+    <span class="p">Новогодний праздник двух столиц</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/video-dostuchatsya-do-klienta-kakie-tekhnologii-stimuliruyut-onlayn-torgovlyu.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/474/220_163_2/видос_АН1.jpg" width="220" height="163" alt="Видеорепортаж. Достучаться до клиента: какие технологии стимулируют онлайн-торговлю" title="Видеорепортаж. Достучаться до клиента: какие технологии стимулируют онлайн-торговлю" />
+       </span>
+    <em class="date">12.12.2016</em>
+    <span class="p">Видеорепортаж. Достучаться до клиента: какие технологии стимулируют онлайн-торговлю</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mr-mrs-sap-andrey-orlov-1-1.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/ccc/220_163_2/2342223.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; с Андреем Орловым, вице-презид­ентом по инфраструктуре­ &quot;Рив Гош&quot;" title="&quot;Мистер и Миссис SAP&quot; с Андреем Орловым, вице-презид­ентом по инфраструктуре­ &quot;Рив Гош&quot;" />
+       </span>
+    <em class="date">07.12.2016</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; с Андреем Орловым, вице-презид­ентом по инфраструктуре­ &quot;Рив Гош&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/m-video-povyshaet-kachestvo-dostavki-s-pomoshchyu-mobilnogo-prilozheniya-dlya-ekspeditorov-ot-rossiy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/101/220_163_2/Delivery.jpg" width="220" height="163" alt="«М.Видео» повышает качество доставки с помощью мобильного приложения для экспедиторов под руководством NOVARDIS" title="«М.Видео» повышает качество доставки с помощью мобильного приложения для экспедиторов под руководством NOVARDIS" />
+       </span>
+    <em class="date">29.11.2016</em>
+    <span class="p">«М.Видео» повышает качество доставки с помощью мобильного приложения для экспедиторов под руководством NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/m-video-v-pyat-raz-sokratila-vremya-obrabotki-promoaktsiy-pri-perekhode-na-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/fd4/220_163_2/about-a-company.jpg" width="220" height="163" alt="«М.Видео» в пять раз сократила время обработки промоакций при переходе на SAP" title="«М.Видео» в пять раз сократила время обработки промоакций при переходе на SAP" />
+       </span>
+    <em class="date">22.11.2016</em>
+    <span class="p">«М.Видео» в пять раз сократила время обработки промоакций при переходе на SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/potrebitelskiy-rynok-v-tsifrovuyu-epokhu-stal-glavnoy-temoy-dlya-obsuzhdeniya-na-sap-retail-consumer.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/abf/220_163_2/preview.jpg" width="220" height="163" alt="Потребительский рынок в цифровую эпоху стал главной темой для обсуждения на SAP Retail & Consumer Industries forum 2016" title="Потребительский рынок в цифровую эпоху стал главной темой для обсуждения на SAP Retail & Consumer Industries forum 2016" />
+       </span>
+    <em class="date">10.11.2016</em>
+    <span class="p">Потребительский рынок в цифровую эпоху стал главной темой для обсуждения на SAP Retail & Consumer Industries forum 2016</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/olimpiyskaya-sbornaya-novardis-na-korporative-v-sochi.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d2c/220_163_2/1_preview.jpg" width="220" height="163" alt="Олимпийская сборная NOVARDIS на корпоративе в Сочи" title="Олимпийская сборная NOVARDIS на корпоративе в Сочи" />
+       </span>
+    <em class="date">07.11.2016</em>
+    <span class="p">Олимпийская сборная NOVARDIS на корпоративе в Сочи</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/start-konkursa-novardisworldwide.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/fc0/220_163_2/ролап_thelastone65465 (1).png" width="220" height="163" alt="Cтарт конкурса NOVARDISWORLDWIDE!" title="Cтарт конкурса NOVARDISWORLDWIDE!" />
+       </span>
+    <em class="date">28.10.2016</em>
+    <span class="p">Cтарт конкурса NOVARDISWORLDWIDE!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mr-mrs-vlad-sarnackiy.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/5bd/220_163_2/45 (1).jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; с Владом Сарнацким, руководителем по корпоративным IT системам ПАО &quot;МегаФон&quot;" title="&quot;Мистер и Миссис SAP&quot; с Владом Сарнацким, руководителем по корпоративным IT системам ПАО &quot;МегаФон&quot;" />
+       </span>
+    <em class="date">20.10.2016</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; с Владом Сарнацким, руководителем по корпоративным IT системам ПАО &quot;МегаФон&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mr-mrs-evgeniy-malgin.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/1eb/220_163_2/IMG_6740_ (1).jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; c Евгением Мальгиным, генеральным директором ООО &quot;Прайс-Лидер&quot;" title="&quot;Мистер и Миссис SAP&quot; c Евгением Мальгиным, генеральным директором ООО &quot;Прайс-Лидер&quot;" />
+       </span>
+    <em class="date">05.10.2016</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; c Евгением Мальгиным, генеральным директором ООО &quot;Прайс-Лидер&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/retail-today-stiraya-grani.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f66/220_163_2/ico-destinonegocio-venta-cr1 (1).jpg" width="220" height="163" alt="Александр Низник: Скорость принятия решений в ритейле - главное конкурентное преимущество" title="Александр Низник: Скорость принятия решений в ритейле - главное конкурентное преимущество" />
+       </span>
+    <em class="date">04.10.2016</em>
+    <span class="p">Александр Низник: Скорость принятия решений в ритейле - главное конкурентное преимущество</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/m-video-vnedrenie-resheniya-e-tender-sap-srm.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d75/220_163_2/Без названия1.jpg" width="220" height="163" alt="«М.Видео» перевела взаимоотношения с поставщиками на новый уровень с помощью решения E-tender на базе SAP SRM" title="«М.Видео» перевела взаимоотношения с поставщиками на новый уровень с помощью решения E-tender на базе SAP SRM" />
+       </span>
+    <em class="date">26.08.2016</em>
+    <span class="p">«М.Видео» перевела взаимоотношения с поставщиками на новый уровень с помощью решения E-tender на базе SAP SRM</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/set-magazinov-ohapka-avtomatizirovala-sklad-novardis-ewm.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/985/220_163_2/ohapka_preview.jpg" width="220" height="163" alt="Сеть магазинов «Охапка» автоматизировала склад с помощью решения NOVARDIS EWM" title="Сеть магазинов «Охапка» автоматизировала склад с помощью решения NOVARDIS EWM" />
+       </span>
+    <em class="date">20.07.2016</em>
+    <span class="p">Сеть магазинов «Охапка» автоматизировала склад с помощью решения NOVARDIS EWM</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mr-mrs-sap-zhukov-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/58d/220_163_2/sait_nov.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; с Андреем Жуковым, директором по продажам в секторе розничной и оптовой торговли, SAP СНГ" title="&quot;Мистер и Миссис SAP&quot; с Андреем Жуковым, директором по продажам в секторе розничной и оптовой торговли, SAP СНГ" />
+       </span>
+    <em class="date">06.07.2016</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; с Андреем Жуковым, директором по продажам в секторе розничной и оптовой торговли, SAP СНГ</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mr-mrs-sap-bobrov-denis.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/cd3/220_163_2/SDc.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; c Денисом Бобровым, IT-директором &quot;Талосто&quot;" title="&quot;Мистер и Миссис SAP&quot; c Денисом Бобровым, IT-директором &quot;Талосто&quot;" />
+       </span>
+    <em class="date">22.06.2016</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; c Денисом Бобровым, IT-директором &quot;Талосто&quot;</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/omnilizaciya-novyi-trend-v-it-retaile.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d40/220_163_2/превью_АН1.jpg" width="220" height="163" alt="Видеорепортаж: «Омнилизация» – новый ИТ-тренд в ритейле" title="Видеорепортаж: «Омнилизация» – новый ИТ-тренд в ритейле" />
+       </span>
+    <em class="date">23.05.2016</em>
+    <span class="p">Видеорепортаж: «Омнилизация» – новый ИТ-тренд в ритейле</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-lider-po-vnedreniu-sap-for-retail-po-dannym-issledovaniya-cnews.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/3e8/220_163_2/Preview_cnews_.jpg" width="220" height="163" alt="NOVARDIS - неоспоримый лидер по внедрению SAP For Retail в России и СНГ, согласно результатам исследования CNEWS ANALYTICS" title="NOVARDIS - неоспоримый лидер по внедрению SAP For Retail в России и СНГ, согласно результатам исследования CNEWS ANALYTICS" />
+       </span>
+    <em class="date">20.05.2016</em>
+    <span class="p">NOVARDIS - неоспоримый лидер по внедрению SAP For Retail в России и СНГ, согласно результатам исследования CNEWS ANALYTICS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mr-mrs-sap-pavel-gontarev.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/40a/220_163_2/daz.jpg" width="220" height="163" alt="&quot;Мистер и Миссис SAP&quot; c Павлом Гонтаревым, генеральным директором SAP СНГ" title="&quot;Мистер и Миссис SAP&quot; c Павлом Гонтаревым, генеральным директором SAP СНГ" />
+       </span>
+    <em class="date">16.05.2016</em>
+    <span class="p">&quot;Мистер и Миссис SAP&quot; c Павлом Гонтаревым, генеральным директором SAP СНГ</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/osnovnye-tendencii-v-retail-sap-forum-2016.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/667/220_163_2/omni_channel_preview.jpg" width="220" height="163" alt="Цифровая трансформация бизнеса и основные тенденции будущего в ритейле стали главными темами на SAP FORUM MOSCOW 2016" title="Цифровая трансформация бизнеса и основные тенденции будущего в ритейле стали главными темами на SAP FORUM MOSCOW 2016" />
+       </span>
+    <em class="date">04.05.2016</em>
+    <span class="p">Цифровая трансформация бизнеса и основные тенденции будущего в ритейле стали главными темами на SAP FORUM MOSCOW 2016</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/kompaniya-novardis-telekanal-pro-biznes-sap.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d2a/220_163_2/preview_1.jpg" width="220" height="163" alt="Компания NOVARDIS и телеканал &quot;Про бизнес ТВ&quot; запустили первую в России передачу о внедрениях программных продуктов SAP в ведущих компаниях России и стран СНГ" title="Компания NOVARDIS и телеканал &quot;Про бизнес ТВ&quot; запустили первую в России передачу о внедрениях программных продуктов SAP в ведущих компаниях России и стран СНГ" />
+       </span>
+    <em class="date">27.04.2016</em>
+    <span class="p">Компания NOVARDIS и телеканал &quot;Про бизнес ТВ&quot; запустили первую в России передачу о внедрениях программных продуктов SAP в ведущих компаниях России и стран СНГ</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/obzor-novovvedenii-hybris-commerce-6-0.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d25/220_163_2/hybris.jpg" width="220" height="163" alt="Обзор нововведений hybris Commerce 6.0" title="Обзор нововведений hybris Commerce 6.0" />
+       </span>
+    <em class="date">01.03.2016</em>
+    <span class="p">Обзор нововведений hybris Commerce 6.0</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novosti_70.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/b2e/220_163_2/23754_2.jpg" width="220" height="163" alt="Традиции лидерства. Компания NOVARDIS закрепила статус ведущего партнера SAP Hybris" title="Традиции лидерства. Компания NOVARDIS закрепила статус ведущего партнера SAP Hybris" />
+       </span>
+    <em class="date">20.02.2016</em>
+    <span class="p">Традиции лидерства. Компания NOVARDIS закрепила статус ведущего партнера SAP Hybris</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/interview-komus-sergey-antonov.html">
+    <span class="visual"><img src="/upload/iblock/df1/komus.jpg" width="220" height="163" alt="Сайт под нагрузкой: интервью с Сергеем Антоновым, «Комус»" title="Сайт под нагрузкой: интервью с Сергеем Антоновым, «Комус»" />
+       </span>
+    <em class="date">12.01.2016</em>
+    <span class="p">Сайт под нагрузкой: интервью с Сергеем Антоновым, «Комус»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/dve-stolici-novii-god-2016.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/a2a/220_163_2/dve_stolici_zagl.png" width="220" height="163" alt="Две столицы: новогодний корпоратив NOVARDIS" title="Две столицы: новогодний корпоратив NOVARDIS" />
+       </span>
+    <em class="date">23.12.2015</em>
+    <span class="p">Две столицы: новогодний корпоратив NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/obzor-hybris-Commerce-Suite.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/d25/220_163_2/news-hybris-commerce-suite.jpg" width="220" height="163" alt="Обзор hybris Commerce Suite 5.7.0" title="Обзор hybris Commerce Suite 5.7.0" />
+       </span>
+    <em class="date">29.10.2015</em>
+    <span class="p">Обзор hybris Commerce Suite 5.7.0</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/b2b-goes-to-e-commerce.html">
+    <span class="visual"><img src="/upload/iblock/b87/b2b-goes-to-e-commerce.png" width="220" height="163" alt="B2B идет в e-commerce" title="B2B идет в e-commerce" />
+       </span>
+    <em class="date">25.10.2015</em>
+    <span class="p">B2B идет в e-commerce</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-sap-trade-and-ci-forum-2015-pomni-ob-omni.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/85c/220_163_2/DSC_4736.JPG" width="220" height="163" alt="Призыв NOVARDIS «Помни об OMNI» на SAP Trade & Consumer Industries Forum 2015, или будущее за лидерами." title="Призыв NOVARDIS «Помни об OMNI» на SAP Trade & Consumer Industries Forum 2015, или будущее за лидерами." />
+       </span>
+    <em class="date">20.10.2015</em>
+    <span class="p">Призыв NOVARDIS «Помни об OMNI» на SAP Trade & Consumer Industries Forum 2015, или будущее за лидерами.</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-sap-trade-and-ci-forum-2015.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/ae7/220_163_2/news-sap-trade-ci-forum-2015-02_.png" width="220" height="163" alt="Будущее ритейла обсуждалось на SAP Trade & Consumer Industries Forum 2015" title="Будущее ритейла обсуждалось на SAP Trade & Consumer Industries Forum 2015" />
+       </span>
+    <em class="date">20.10.2015</em>
+    <span class="p">Будущее ритейла обсуждалось на SAP Trade & Consumer Industries Forum 2015</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/future-of-retail-v-online.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/bbf/220_163_2/cnews-sap-trade-ci-forum-2015.png" width="220" height="163" alt="Видео: Будущее ритейла – в онлайне" title="Видео: Будущее ритейла – в онлайне" />
+       </span>
+    <em class="date">20.10.2015</em>
+    <span class="p">Видео: Будущее ритейла – в онлайне</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-sap-partner-center-of-expertise-PCoE.html">
+    <span class="visual"><img src="/upload/iblock/395/sap_partner_PCoE.png" width="220" height="163" alt="NOVARDIS – единственный партнер SAP в России, авторизованный на оказание сервисной поддержки по всем решениям SAP" title="NOVARDIS – единственный партнер SAP в России, авторизованный на оказание сервисной поддержки по всем решениям SAP" />
+       </span>
+    <em class="date">13.10.2015</em>
+    <span class="p">NOVARDIS – единственный партнер SAP в России, авторизованный на оказание сервисной поддержки по всем решениям SAP</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-sap-recognized-expertise-reciever.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/c00/220_163_2/novardis-sap-rex.png" width="220" height="163" alt="Компания NOVARDIS – единственный в России обладатель сертификата SAP Recognized Expertise в ритейле" title="Компания NOVARDIS – единственный в России обладатель сертификата SAP Recognized Expertise в ритейле" />
+       </span>
+    <em class="date">12.10.2015</em>
+    <span class="p">Компания NOVARDIS – единственный в России обладатель сертификата SAP Recognized Expertise в ритейле</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-team-meeting-repino.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/66d/220_163_2/repino3.png" width="220" height="163" alt="Корпоратив NOVARDIS на побережье Финского залива в Репино" title="Корпоратив NOVARDIS на побережье Финского залива в Репино" />
+       </span>
+    <em class="date">02.10.2015</em>
+    <span class="p">Корпоратив NOVARDIS на побережье Финского залива в Репино</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mvideo-sap-bw-on-hana.html">
+    <span class="visual"><img src="/upload/iblock/01f/news-mvideo-sap-bw-on-hana.png" width="220" height="163" alt="В «М.Видео» реализовано планирование розничных продаж на платформе SAP BW on HANA" title="В «М.Видео» реализовано планирование розничных продаж на платформе SAP BW on HANA" />
+       </span>
+    <em class="date">11.08.2015</em>
+    <span class="p">В «М.Видео» реализовано планирование розничных продаж на платформе SAP BW on HANA</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mvideo-interview-sap-tm-irina-dementieva.html">
+    <span class="visual"><img src="/upload/iblock/537/mvideo-sap-tm-interview.png" width="220" height="163" alt="Интервью: как «М.Видео» оптимизировала управление транспортом" title="Интервью: как «М.Видео» оптимизировала управление транспортом" />
+       </span>
+    <em class="date">08.07.2015</em>
+    <span class="p">Интервью: как «М.Видео» оптимизировала управление транспортом</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/retailer-top-200-2015-report.html">
+    <span class="visual"><img src="/upload/iblock/d1f/news-rrtop200-2015-report.png" width="220" height="163" alt="Исследование RETAILER RUSSIA TOP-200: управленческие решения в период экономической неопределенности" title="Исследование RETAILER RUSSIA TOP-200: управленческие решения в период экономической неопределенности" />
+       </span>
+    <em class="date">22.06.2015</em>
+    <span class="p">Исследование RETAILER RUSSIA TOP-200: управленческие решения в период экономической неопределенности</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mvideo-sap-wfm.html">
+    <span class="visual"><img src="/upload/iblock/cb5/news-mvideo-sap-wfm.png" width="220" height="163" alt="Новый проект NOVARDIS: в сети «М.Видео» реализовано решение SAP Workforce Management" title="Новый проект NOVARDIS: в сети «М.Видео» реализовано решение SAP Workforce Management" />
+       </span>
+    <em class="date">15.06.2015</em>
+    <span class="p">Новый проект NOVARDIS: в сети «М.Видео» реализовано решение SAP Workforce Management</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/russian-retail-awards-2015.html">
+    <span class="visual"><img src="/upload/iblock/432/news-retail-awards-2015.png" width="220" height="163" alt="Компании «ЛЕНТА», «М.Видео», Globus и «Посуда Центр» стали победителями конкурса Russian Retail Awards" title="Компании «ЛЕНТА», «М.Видео», Globus и «Посуда Центр» стали победителями конкурса Russian Retail Awards" />
+       </span>
+    <em class="date">09.06.2015</em>
+    <span class="p">Компании «ЛЕНТА», «М.Видео», Globus и «Посуда Центр» стали победителями конкурса Russian Retail Awards</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/retailer-russia-top-200-2015-anons.html">
+    <span class="visual"><img src="/upload/iblock/654/news-retailer-russia-top-200-2015-anons.png" width="220" height="163" alt="NOVARDIS – официальный партнер конференции Retailer Russia TOP-200 DAY 2015" title="NOVARDIS – официальный партнер конференции Retailer Russia TOP-200 DAY 2015" />
+       </span>
+    <em class="date">05.06.2015</em>
+    <span class="p">NOVARDIS – официальный партнер конференции Retailer Russia TOP-200 DAY 2015</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/obzor-hybris-Financial-Services.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/684/220_163_2/news-hybris-financial-services_.jpg" width="220" height="163" alt="Обзор решения hybris Financial Services" title="Обзор решения hybris Financial Services" />
+       </span>
+    <em class="date">29.05.2015</em>
+    <span class="p">Обзор решения hybris Financial Services</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/prisma-novardis-retail-sap-erp.html">
+    <span class="visual"><img src="/upload/iblock/4e1/news-prisma-sap-erp-novardis-retail.png" width="220" height="163" alt="Розничная сеть PRISMA экспортирует решение NOVARDIS Retail в Европу" title="Розничная сеть PRISMA экспортирует решение NOVARDIS Retail в Европу" />
+       </span>
+    <em class="date">26.05.2015</em>
+    <span class="p">Розничная сеть PRISMA экспортирует решение NOVARDIS Retail в Европу</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/megapolis-sap-ewm.html">
+    <span class="visual"><img src="/upload/iblock/992/news-megapolis-sap-ewm.png" width="220" height="163" alt="ГК «Мегаполис» автоматизировала склад с помощью решения NOVARDIS EWM" title="ГК «Мегаполис» автоматизировала склад с помощью решения NOVARDIS EWM" />
+       </span>
+    <em class="date">19.05.2015</em>
+    <span class="p">ГК «Мегаполис» автоматизировала склад с помощью решения NOVARDIS EWM</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-forum-2015-video-cnews.html">
+    <span class="visual"><img src="/upload/iblock/33f/news-video-sap-forum-2015.png" width="220" height="163" alt="Видео: E-commerce и секреты бизнес-апгрейда" title="Видео: E-commerce и секреты бизнес-апгрейда" />
+       </span>
+    <em class="date">30.04.2015</em>
+    <span class="p">Видео: E-commerce и секреты бизнес-апгрейда</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/Online-Retail-Russia-2015-report.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/750/220_163_2/novardis_online_retail.russia.2015_04.jpg" width="220" height="163" alt="X международный конгресс Online Retail Russia 2015: как это было" title="X международный конгресс Online Retail Russia 2015: как это было" />
+       </span>
+    <em class="date">24.04.2015</em>
+    <span class="p">X международный конгресс Online Retail Russia 2015: как это было</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-forum-2015-video-orekhov.html">
+    <span class="visual"><img src="/upload/iblock/ec9/news-orekhov-video.png" width="220" height="163" alt="Видео: эксклюзивное интервью Вячеслава Орехова" title="Видео: эксклюзивное интервью Вячеслава Орехова" />
+       </span>
+    <em class="date">22.04.2015</em>
+    <span class="p">Видео: эксклюзивное интервью Вячеслава Орехова</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mvideo-sap-quality-awards-2014-winner.html">
+    <span class="visual"><img src="/upload/iblock/404/news-sap-quality-awards-2014-mvideo.png" width="220" height="163" alt="Компания «М.Видео» стала призером конкурса SAP Quality Awards 2014" title="Компания «М.Видео» стала призером конкурса SAP Quality Awards 2014" />
+       </span>
+    <em class="date">21.04.2015</em>
+    <span class="p">Компания «М.Видео» стала призером конкурса SAP Quality Awards 2014</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/gartner-hybris-marketing-lider.html">
+    <span class="visual"><img src="/upload/iblock/139/news-gartner-hybris-marketing.png" width="220" height="163" alt="Gartner назвала SAP hybris лидером по решениям для управления маркетингом" title="Gartner назвала SAP hybris лидером по решениям для управления маркетингом" />
+       </span>
+    <em class="date">20.04.2015</em>
+    <span class="p">Gartner назвала SAP hybris лидером по решениям для управления маркетингом</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/review-hybris-marketing.html">
+    <span class="visual"><img src="/upload/iblock/edf/news-hybris-marketing.png" width="220" height="163" alt="Обзор решения hybris Marketing" title="Обзор решения hybris Marketing" />
+       </span>
+    <em class="date">17.04.2015</em>
+    <span class="p">Обзор решения hybris Marketing</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-forum-2015-report.html">
+    <span class="visual"><img src="/upload/iblock/d2b/news-sap-forum-2015-report.png" width="220" height="163" alt="NOVARDIS представил ритейл в режиме non-stop на SAP Forum 2015" title="NOVARDIS представил ритейл в режиме non-stop на SAP Forum 2015" />
+       </span>
+    <em class="date">11.04.2015</em>
+    <span class="p">NOVARDIS представил ритейл в режиме non-stop на SAP Forum 2015</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/fabrisio-granzha-eldorado-hybris-sap-2015.html">
+    <span class="visual"><img src="/upload/iblock/ab4/news-eldorado-fabricio-2015.png" width="220" height="163" alt="Фабрисио Гранжа, «Эльдорадо»: «Правильно выстроенная инфраструктура — основа omni-channel»" title="Фабрисио Гранжа, «Эльдорадо»: «Правильно выстроенная инфраструктура — основа omni-channel»" />
+       </span>
+    <em class="date">06.04.2015</em>
+    <span class="p">Фабрисио Гранжа, «Эльдорадо»: «Правильно выстроенная инфраструктура — основа omni-channel»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-business-school-grechko.html">
+    <span class="visual"><img src="/upload/iblock/955/news-novardis-business-school-grechko.png" width="220" height="163" alt="Встреча с ЛЕГЕНДОЙ российской космонавтики в рамках NOVARDIS Business School" title="Встреча с ЛЕГЕНДОЙ российской космонавтики в рамках NOVARDIS Business School" />
+       </span>
+    <em class="date">24.03.2015</em>
+    <span class="p">Встреча с ЛЕГЕНДОЙ российской космонавтики в рамках NOVARDIS Business School</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-hybris-partner-of-the-year-2014.html">
+    <span class="visual"><img src="/upload/iblock/6fe/news-novardis-hybris-partner-of-the-year.png" width="220" height="163" alt="NOVARDIS вошла в тройку лучших партнеров SAP hybris в регионе EMEA" title="NOVARDIS вошла в тройку лучших партнеров SAP hybris в регионе EMEA" />
+       </span>
+    <em class="date">15.02.2015</em>
+    <span class="p">NOVARDIS вошла в тройку лучших партнеров SAP hybris в регионе EMEA</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mvideo-sap-tm-proekt-goda-2014.html">
+    <span class="visual"><img src="/upload/iblock/a1e/news-mvideo-sap-tm-pobeditel-proekt-goda-2014-novardis-min.png" width="220" height="163" alt="Поздравляем компанию «М.Видео» с победой в конкурсе «Проект Года 2014»!" title="Поздравляем компанию «М.Видео» с победой в конкурсе «Проект Года 2014»!" />
+       </span>
+    <em class="date">30.01.2015</em>
+    <span class="p">Поздравляем компанию «М.Видео» с победой в конкурсе «Проект Года 2014»!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/forrester-q1-2015-b2c-commerce-sap-hybris.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/805/220_163_2/news-forrester-b2c-commerce-q1-2015-sap-hybris-novardis.png" width="220" height="163" alt="Forrester Research назвала hybris лидером среди решений для B2C-коммерции" title="Forrester Research назвала hybris лидером среди решений для B2C-коммерции" />
+       </span>
+    <em class="date">26.01.2015</em>
+    <span class="p">Forrester Research назвала hybris лидером среди решений для B2C-коммерции</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/e-grosery-zhizn-bez-tyzhelyh-sumok.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/7d7/220_163_2/e-grocery.png" width="220" height="163" alt="E-Grocery – жизнь без тяжелых сумок. Статья Александра Низника, генерального директора NOVARDIS" title="E-Grocery – жизнь без тяжелых сумок. Статья Александра Низника, генерального директора NOVARDIS" />
+       </span>
+    <em class="date">25.01.2015</em>
+    <span class="p">E-Grocery – жизнь без тяжелых сумок. Статья Александра Низника, генерального директора NOVARDIS</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/video-sap-trade-forum-2014.html">
+    <span class="visual"><img src="/upload/iblock/88d/video-sap-trade-fmcg-forum-2014.png" width="220" height="163" alt="Видео: Чем омнитехнологии полезны бизнесу?" title="Видео: Чем омнитехнологии полезны бизнесу?" />
+       </span>
+    <em class="date">15.12.2014</em>
+    <span class="p">Видео: Чем омнитехнологии полезны бизнесу?</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/Online-Retail-Russia-2014-report.html">
+    <span class="visual"><img src="/upload/iblock/514/news-online-retail-russia-2014-report.png" width="220" height="163" alt="Чем запомнился IX Форум Online Retail Russia?" title="Чем запомнился IX Форум Online Retail Russia?" />
+       </span>
+    <em class="date">03.12.2014</em>
+    <span class="p">Чем запомнился IX Форум Online Retail Russia?</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/nisnik-interview-pro-business.html">
+    <span class="visual"><img src="/upload/iblock/837/news-alexander-nisnik-sap-hybris-novardis.png" width="220" height="163" alt="Видео: Генеральный директор NOVARDIS Александр Низник в программе «ТЕХНОЛОГИИ ДЛЯ БИЗНЕСА»" title="Видео: Генеральный директор NOVARDIS Александр Низник в программе «ТЕХНОЛОГИИ ДЛЯ БИЗНЕСА»" />
+       </span>
+    <em class="date">01.12.2014</em>
+    <span class="p">Видео: Генеральный директор NOVARDIS Александр Низник в программе «ТЕХНОЛОГИИ ДЛЯ БИЗНЕСА»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-trade-forum-2014-report.html">
+    <span class="visual"><img src="/upload/iblock/588/itogi-sap-trade-forum-2014.png" width="220" height="163" alt="SAP Trade & FMCG Forum 2014: Что делать, когда клиент не хочет ждать?" title="SAP Trade & FMCG Forum 2014: Что делать, когда клиент не хочет ждать?" />
+       </span>
+    <em class="date">10.11.2014</em>
+    <span class="p">SAP Trade & FMCG Forum 2014: Что делать, когда клиент не хочет ждать?</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/interview-denis-bobrov-talosto-sap-erp.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/2f5/220_163_2/news-denis-bobrov-talosto-sap-erp.png" width="220" height="163" alt="Рецепт оптимизации от «Талосто»" title="Рецепт оптимизации от «Талосто»" />
+       </span>
+    <em class="date">20.10.2014</em>
+    <span class="p">Рецепт оптимизации от «Талосто»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/interview-aleksei-pronin-hybris-e-commerce.html">
+    <span class="visual"><img src="/upload/iblock/04a/news-pronin-hybris-novardis-e-commerce.png" width="220" height="163" alt="Российский e-commerce заговорил на языке hybris" title="Российский e-commerce заговорил на языке hybris" />
+       </span>
+    <em class="date">09.10.2014</em>
+    <span class="p">Российский e-commerce заговорил на языке hybris</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/gartner-hybris-lider-po-resheniyam-e-commerce-2014.html">
+    <span class="visual"><img src="/upload/iblock/553/news-gartner-hybris-lider-e-commerce-2014.png" width="220" height="163" alt="Gartner назвала hybris лидером по решениям для электронной коммерции" title="Gartner назвала hybris лидером по решениям для электронной коммерции" />
+       </span>
+    <em class="date">07.10.2014</em>
+    <span class="p">Gartner назвала hybris лидером по решениям для электронной коммерции</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/fabrisio-granzha-eldorado-hybris-sap.html">
+    <span class="visual"><img src="/upload/iblock/d6f/news-fabricio-eldorado-sap-hybris-novardis.png" width="220" height="163" alt="Видео: Секреты онлайн-экспансии «Эльдорадо»" title="Видео: Секреты онлайн-экспансии «Эльдорадо»" />
+       </span>
+    <em class="date">17.09.2014</em>
+    <span class="p">Видео: Секреты онлайн-экспансии «Эльдорадо»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/ot-tvitta-do-zakaza.html">
+    <span class="visual"><img src="/upload/iblock/33e/news-IT-v-retail-2014.png" width="220" height="163" alt="От твитта до заказа, или как найти идеальный маршрут к сердцу клиента?" title="От твитта до заказа, или как найти идеальный маршрут к сердцу клиента?" />
+       </span>
+    <em class="date">15.09.2014</em>
+    <span class="p">От твитта до заказа, или как найти идеальный маршрут к сердцу клиента?</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/eldorado-e-commerce-multichannel-hybris.html">
+    <span class="visual"><img src="/upload/iblock/e3a/news-eldorado-novak.png" width="220" height="163" alt="Павел Новак, «Эльдорадо»: «Мы только в начале пути»" title="Павел Новак, «Эльдорадо»: «Мы только в начале пути»" />
+       </span>
+    <em class="date">18.08.2014</em>
+    <span class="p">Павел Новак, «Эльдорадо»: «Мы только в начале пути»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/skhema-proezda.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/434/220_163_2/ВХОД.jpg" width="220" height="163" alt="Схема проезда" title="Схема проезда" />
+       </span>
+    <em class="date">07.08.2014</em>
+    <span class="p">Схема проезда</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/skhema-proezda-ofis-v-spb.html">
+    <span class="visual"><img src="/upload/resize_cache/iblock/f2c/220_163_2/spb_map_peview.jpg" width="220" height="163" alt="Схема проезда: офис в СПб" title="Схема проезда: офис в СПб" />
+       </span>
+    <em class="date">07.08.2014</em>
+    <span class="p">Схема проезда: офис в СПб</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/forrester-research-nazvala-hybris-liderom.html">
+    <span class="visual"><img src="/upload/iblock/19a/news-forrester-digital-experience-delivery-platforms-q3-2014-hybris.png" width="220" height="163" alt="Forrester Research назвала hybris лидером среди цифровых решений" title="Forrester Research назвала hybris лидером среди цифровых решений" />
+       </span>
+    <em class="date">01.08.2014</em>
+    <span class="p">Forrester Research назвала hybris лидером среди цифровых решений</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/hybris-Google-Glasses-iBeacons.html">
+    <span class="visual"><img src="/upload/iblock/0f3/news-google-glass.png" width="220" height="163" alt="Видео: SAP Hybris + Google Glasses + iBeacons = посмотрите, как это работает!" title="Видео: SAP Hybris + Google Glasses + iBeacons = посмотрите, как это работает!" />
+       </span>
+    <em class="date">02.07.2014</em>
+    <span class="p">Видео: SAP Hybris + Google Glasses + iBeacons = посмотрите, как это работает!</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/mvideo-sap-tm.html">
+    <span class="visual"><img src="/upload/iblock/c58/news-mvideo-sap-tm-interview.png" width="220" height="163" alt="«М.Видео» управляет транспортной логистикой с помощью SAP TM" title="«М.Видео» управляет транспортной логистикой с помощью SAP TM" />
+       </span>
+    <em class="date">17.06.2014</em>
+    <span class="p">«М.Видео» управляет транспортной логистикой с помощью SAP TM</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/retailer-top200-report.html">
+    <span class="visual"><img src="/upload/iblock/c61/news-retailer-top-200-2014.png" width="220" height="163" alt="Точки роста и новые драйверы на конференции Retailer Russia TOP-200" title="Точки роста и новые драйверы на конференции Retailer Russia TOP-200" />
+       </span>
+    <em class="date">05.06.2014</em>
+    <span class="p">Точки роста и новые драйверы на конференции Retailer Russia TOP-200</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/forrester-hybris-lider-e-commerce.html">
+    <span class="visual"><img src="/upload/iblock/985/news-forrester-ecommerce-hybris-pim-2014-2.png" width="220" height="163" alt="Forrester Research назвала hybris лидером  по технологиям управления информацией о продукте" title="Forrester Research назвала hybris лидером  по технологиям управления информацией о продукте" />
+       </span>
+    <em class="date">28.05.2014</em>
+    <span class="p">Forrester Research назвала hybris лидером  по технологиям управления информацией о продукте</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/video-sap-forum-2014.html">
+    <span class="visual"><img src="/upload/iblock/1d1/news-SAP-Forum-2014-report.png" width="220" height="163" alt="Репортаж: новые тренды на SAP Форуме 2014" title="Репортаж: новые тренды на SAP Форуме 2014" />
+       </span>
+    <em class="date">29.04.2014</em>
+    <span class="p">Репортаж: новые тренды на SAP Форуме 2014</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-na-sap-forum-2014.html">
+    <span class="visual"><img src="/upload/iblock/32e/news-sap-forum-2014.png" width="220" height="163" alt="NOVARDIS на SAP Forum 2014" title="NOVARDIS на SAP Forum 2014" />
+       </span>
+    <em class="date">11.04.2014</em>
+    <span class="p">NOVARDIS на SAP Forum 2014</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-sap-fr.html">
+    <span class="visual"><img src="/upload/iblock/830/news-novardis-fr-sap.png" width="220" height="163" alt="Новое решение NOVARDIS на основе SAP F&R для прогнозирования спроса и планирования запасов" title="Новое решение NOVARDIS на основе SAP F&R для прогнозирования спроса и планирования запасов" />
+       </span>
+    <em class="date">19.03.2014</em>
+    <span class="p">Новое решение NOVARDIS на основе SAP F&R для прогнозирования спроса и планирования запасов</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-rastet-vdvoe-bystree-rynka-itogi-2013-goda.html">
+    <span class="visual"><img src="/upload/iblock/19b/news-sap-itogi-2013-Orehov.png" width="220" height="163" alt="SAP растет вдвое быстрее рынка: ИТОГИ 2013 ГОДА" title="SAP растет вдвое быстрее рынка: ИТОГИ 2013 ГОДА" />
+       </span>
+    <em class="date">13.03.2014</em>
+    <span class="p">SAP растет вдвое быстрее рынка: ИТОГИ 2013 ГОДА</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/hybris-partner-2014.html">
+    <span class="visual"><img src="/upload/iblock/7d0/news-hybris-partner-summit-2014.png" width="220" height="163" alt="NOVARDIS на ежегодном Саммите партнеров hybris Global Partner 2014" title="NOVARDIS на ежегодном Саммите партнеров hybris Global Partner 2014" />
+       </span>
+    <em class="date">01.02.2014</em>
+    <span class="p">NOVARDIS на ежегодном Саммите партнеров hybris Global Partner 2014</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/retail-big-show-2014.html">
+    <span class="visual"><img src="/upload/iblock/484/news-retail-big-show-ny-2014.png" width="220" height="163" alt="NOVARDIS выступила партнером бизнес-тура российской делегации на Retail’s Big Show 2014" title="NOVARDIS выступила партнером бизнес-тура российской делегации на Retail’s Big Show 2014" />
+       </span>
+    <em class="date">20.01.2014</em>
+    <span class="p">NOVARDIS выступила партнером бизнес-тура российской делегации на Retail’s Big Show 2014</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-v-dubae.html">
+    <span class="visual"><img src="/upload/iblock/9ad/news-dubai-novardis.png" width="220" height="163" alt="Корпоратив NOVARDIS в Дубае" title="Корпоратив NOVARDIS в Дубае" />
+       </span>
+    <em class="date">16.12.2013</em>
+    <span class="p">Корпоратив NOVARDIS в Дубае</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-business-school.html">
+    <span class="visual"><img src="/upload/iblock/6d4/news-novardis-business-school.png" width="220" height="163" alt="NOVARDIS Business School" title="NOVARDIS Business School" />
+       </span>
+    <em class="date">06.12.2013</em>
+    <span class="p">NOVARDIS Business School</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/lenta-project2013.html">
+    <span class="visual"><img src="/upload/iblock/d15/news-lenta-projekt-goda-sap-ewm.png" width="220" height="163" alt="NOVARDIS внедрила SAP EWM в компании «Лента»" title="NOVARDIS внедрила SAP EWM в компании «Лента»" />
+       </span>
+    <em class="date">01.11.2013</em>
+    <span class="p">NOVARDIS внедрила SAP EWM в компании «Лента»</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-rasskazyvaet-o-budushem-tehnologij-v-rite.html">
+    <span class="visual"><img src="/upload/iblock/f2e/news-retail-detail-2013-Nisnik.png" width="220" height="163" alt="NOVARDIS рассказывает о будущем технологий в ритейле" title="NOVARDIS рассказывает о будущем технологий в ритейле" />
+       </span>
+    <em class="date">28.10.2013</em>
+    <span class="p">NOVARDIS рассказывает о будущем технологий в ритейле</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/sap-trade-forum-2013.html">
+    <span class="visual"><img src="/upload/iblock/062/news-sap-trade-forum-2013-retail.png" width="220" height="163" alt="Золотой NOVARDIS на SAP Trade & FMCG Forum 2013" title="Золотой NOVARDIS на SAP Trade & FMCG Forum 2013" />
+       </span>
+    <em class="date">07.10.2013</em>
+    <span class="p">Золотой NOVARDIS на SAP Trade & FMCG Forum 2013</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/retail-summit-2013.html">
+    <span class="visual"><img src="/upload/iblock/148/news-retail-business-russia-CIS-2013.png" width="220" height="163" alt="NOVARDIS на Retail Business Russia & CIS 2013" title="NOVARDIS на Retail Business Russia & CIS 2013" />
+       </span>
+    <em class="date">30.09.2013</em>
+    <span class="p">NOVARDIS на Retail Business Russia & CIS 2013</span>
+  </a>
+</li><li class="swiper-slide">
+  <a href="/press/novardis-rasshiryaet-linejku-reshenij-dlya-elektro.html">
+    <span class="visual"><img src="/upload/iblock/884/news-hybris-partner.png" width="220" height="163" alt="Партнерство NOVARDIS и hybris (подразделение SAP) – расширение линейки решений для электронной коммерции" title="Партнерство NOVARDIS и hybris (подразделение SAP) – расширение линейки решений для электронной коммерции" />
+       </span>
+    <em class="date">20.08.2013</em>
+    <span class="p">Партнерство NOVARDIS и hybris (подразделение SAP) – расширение линейки решений для электронной коммерции</span>
+  </a>
+</li>                    </ul>
+                </div>
+                <a href="javascript:void(0);" class="arrow-prev">&nbsp;lt;</a>
+                <a href="javascript:void(0);" class="arrow-next">&nbsp;gt;</a>
+            </div>
+        </div>
+    </section>
+
+ <section id="contacts" class="contacts">
+<div class="contacts-holder clearfix">
+	<div class="fl-left">
+		<h2>Контакты</h2>
+		<div class="sub-ttl">
+			 С нами можно связаться любым удобным для Вас способом
+		</div>
+		<div class="contacts-block">
+			<h3>Офис в Санкт-Петербурге</h3>
+			<ul>
+				<li class="address">Санкт-Петербург, 199106, Детская ул., д. 5A</li>
+				<li class="phone">+7 (812) 655 60 01</li>
+				<li class="fax">+7 (812) 655 60 01</li>
+				<li class="email"><a href="mailto:info@novardis.com">info@novardis.com</a></li>
+			</ul>
+			<div class="show" data-lat="59.9286677" data-lng="30.2524209">
+ <a href="javascript:void(0);">Показать на карте</a>
+			</div>
+		</div>
+		<div class="contacts-block">
+			<h3>Офис в Москве</h3>
+			<ul>
+				<li>123112, Москва, Пресненская наб., д. 8, стр. 1, деловой комплекс "Москва-Сити", башня "Санкт-Петербург", 8 этаж</li>
+				<li class="phone">+7 (495) 782 28 89</li>
+				<li class="email"><a href="mailto:info@novardis.com">info@novardis.com</a></li>
+			</ul>
+			<p class="show">
+ <a href="javascript:void(0);">Показать на карте</a>
+			</p>
+			<h3>Офис в Нур-Султане</h3>
+			<ul>
+				<li>010000, Республика Казахстан, Нур-Султан, проспект Мангилик Ел, д. 55/7, павильон С 3.5, кабинет 201</li>
+				<li><a href="mailto:kz@novardis.com">kz@novardis.com</a></li>
+			</ul>
+		</div>
+		<ul class="social-nw">
+			<li><a class="fb" href="https://www.facebook.com/novardisconsulting">Facebook</a></li>
+			<li><a class="yt" href="https://www.youtube.com/user/Novardisvideo" rel="nofollow">YouTube</a></li>
+		</ul>
+	</div>
+	<div class="form feedback_mainpage" id="contacts_section_form">
+		<h3>С вами свяжется наш эксперт</h3>
+		 <!----><!---->
+
+
+
+<form name="SIMPLE_FORM_3" action="/" method="POST" enctype="multipart/form-data"><input type="hidden" name="sessid" id="sessid" value="e28a066d3d853c51ffe3935f9dab8092" /><input type="hidden" name="WEB_FORM_ID" value="3" />
+    <div class="custom msg " name="msg"
+         style=" ">
+        
+    </div>
+<label for="form-id-0">Имя *</label><input type="text"  class="inputtext"  name="form_text_29" value="" size="0" /><label for="form-id-01">Сфера ответственности</label><input type="text"  class="inputtext"  name="form_text_31" value="" size="0" /><label for="form-id-02">Мобильный телефон *</label><input type="text"  class="inputtext"  name="form_text_32" value="" size="0" /><label for="form-id-03">E-mail *</label><input type="text"  class="inputtext"  name="form_email_33" value="" size="0" /><label for="form-id-04">Ваш вопрос</label><textarea name="form_textarea_34" cols="30" rows="10"  class="inputtextarea" ></textarea>    <!--input
+        class="button2"
+        type="button"
+        value="Отправить"
+        onclick="AJAXform('contacts_section_form','/obratnaya-svyaz/feedback_mainpage.php')" -->
+    
+	<div class="check-row">
+		<div class="pivacy-checkbox-wrap">
+			<input id="acceptPersonalDataProcessing" name="accept_personal_data_processing" value="Y" type="checkbox">
+						Выражаю согласие на обработку ООО "Новардис Консалтинг" моих персональных данных на условиях, изложенных <a id="popupPrivacyLink" class="lb-privacy cboxElement js-no-reopen" href="/obratnaya-svyaz/accept_privacy.php">здесь</a>
+					</div>
+	</div>
+	<a href="#" id="contactsFormSendLink" class="btn btn-disabled" onclick="AJAXform('contacts_section_form','/obratnaya-svyaz/feedback_mainpage.php')">Отправить</a>
+
+    <input type="hidden" name="web_form_submit" value="Y" />
+    <!--    <input value="test" type="submit" name="web_form_submit" />-->
+
+
+</form>	</div>
+</div>
+<div id="map-holder">
+	<div id="map">
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A623fe2e7255825fb29080f91f9afb869bcd961e140d3793dd5594c90171bbb76&amp;width=100%25&amp;height=427&amp;lang=ru_RU&amp;scroll=true"></script>
+	</div>
+</div>
+ </section>
+<div id="side-menu">
+	<ul>
+		<li> <a href="#header"> <i><img width="40" src="images/icons/ico01-add-menu.png" height="80" alt=""></i>Наверх </a> </li>
+		<li> <a href="#solutions"> <i><img width="40" src="images/icons/ico02-add-menu.png" height="80" alt=""></i>Решения </a> </li>
+		<li> <a href="#clients"> <i><img width="40" src="images/icons/ico03-add-menu.png" height="80" alt=""></i>Клиенты </a> </li>
+		<li> <a href="#news"> <i><img width="40" src="images/icons/ico04-add-menu.png" height="80" alt=""></i>Новости </a> </li>
+		<li> <a href="#contacts"> <i><img width="40" src="images/icons/ico05-add-menu.png" height="80" alt=""></i>Контакты </a> </li>
+		<li> <a href="#footer"> <i><img width="40" src="images/icons/ico06-add-menu.png" height="80" alt=""></i>Поиск </a> </li>
+	</ul>
+</div>
+
+</main>
+<header id="header" data-name="">
+    
+    <div class="header-holder clearfix">
+        <div class="logo">
+            <a href="/">Novardis. We know how</a>
+        </div>
+        <div class="fl-right">
+            <div class="l-phones">
+                <div class="lng"><a href="/en/">English</a></div><ul class="phones">
+	<li>
+	<div class="ttl">
+		 Санкт-Петербург
+	</div>
+	 +7 (812) 655 60 01</li>
+	<li>
+	<div class="ttl">
+		 Москва
+	</div>
+	 +7 (495) 782 28 89 </li>
+</ul>            </div>
+            <div class="s_ad">
+                <img src="/images/content/ad-sap.png" width="248" height="107" alt="sap">
+            </div>
+        </div>
+    </div>
+    <nav id="nav">
+            <ul>
+
+    
+        
+        
+            
+                                    <li class=""><a href="/company/"><span>О компании</span></a></li>
+                
+            
+        
+        
+    
+        
+        
+            
+                                    <li class=""><a href="/resheniya/"><span>Решения</span></a></li>
+                
+            
+        
+        
+    
+        
+        
+            
+                                    <li class=""><a href="/clients/"><span>Клиенты</span></a></li>
+                
+            
+        
+        
+    
+        
+        
+            
+                                    <li class=""><a href="/press/"><span>Новости</span></a></li>
+                
+            
+        
+        
+    
+        
+        
+            
+                                    <li class=""><a href="/contacts/"><span>Контакты</span></a></li>
+                
+            
+        
+        
+    
+        
+        
+            
+                                    <li class=""><a href="/rabota/"><span>Карьера</span></a></li>
+                
+            
+        
+        
+    
+        
+        
+            
+                                    <li class=""><a href="/mister-i-missis-sap/"><span>Мистер и Миссис SAP</span></a></li>
+                
+            
+        
+        
+    
+    
+    </ul>
+    </nav>
+</header>
+<footer id="footer">
+    <div class="footer-columns">
+        <div class="holder clearfix">
+            
+
+<div class="column-group">
+	<div class="column">
+	    <div class="ttl"><a href="/resheniya/">Решения</a></div>
+	    <ul>
+	        <li><a href="/resheniya/#num3">Управление предприятием</a></li>
+	        <li><a href="/resheniya/sap-scm">Управление цепочками поставок</a></li>
+	        <li><a href="/resheniya/sap-tm">Транспортная логистика</a></li>
+	        <li><a href="/resheniya/sap-ewm-novardis-ewm">Управление складами</a></li>
+	        <li><a href="/resheniya/sap-fr-novardis-fr">Прогнозирование спроса</a></li>
+	        <li><a href="/resheniya/e-commerce-hybris">Электронная коммерция (e-commerce)</a></li>
+	        <li><a href="/resheniya/#num7" rel="nofollow">Бизнес-аналитика</a></li>
+	        <li><a href="/resheniya/sap-crm" rel="nofollow">Взаимоотношения с клиентами</a></li>
+	        <li><a href="/resheniya/#num9" rel="nofollow">Управление персоналом</a></li>
+	        <li><a href="/resheniya/#num1">Преднастроенные решения NOVARDIS</a></li></ul></div>
+	<div class="column">
+	    <div class="ttl">Отрасли</div>
+	    <ul>
+	        <li><a href="/otrasli/retail" rel="nofollow">Розничная торговля</a></li>
+	        <li><a href="/otrasli/wholesale-distribution" rel="nofollow">Оптовая торговля</a></li>
+	        <li><a href="/otrasli/online-commerce" rel="nofollow">Online-торговля</a></li>
+	        <li><a href="/otrasli/proizvodstvo-tnp" rel="nofollow">Производство ТНП</a></li>
+	        <li><a href="/otrasli/avtomobilestroenie" rel="nofollow">Автомобилестроение</a></li></ul>
+	    <div class="ttl"><a href="/services" rel="nofollow">Услуги</a></div>
+	    <ul>
+	        <li><a href="/services/#num1" rel="nofollow">Внедрение</a></li>
+	        <li><a href="/services/#num2" rel="nofollow">Техническая поддержка</a></li>
+	        <li><a href="/services/#num3" rel="nofollow">Продажа лицензий</a></li></ul></div>
+</div>
+<div class="column-group">
+	<div class="column">
+	    <div class="ttl">Novardis</div>
+	    <ul>
+	        <li><a href="/company" rel="nofollow">О компании</a></li>
+	        <li><a href="/company/#num4" rel="nofollow">Руководство</a></li>
+	        <li><a href="/clients" rel="nofollow">Клиенты</a></li>
+	        <li><a href="/rabota" rel="nofollow">Карьера</a></li>
+	        <li><a href="/contacts" rel="nofollow">Контакты</a></li>
+	        <li><a href="/privacy" rel="nofollow">Политика конфиденциальности</a></li></ul></div>
+	<div class="column">
+	    <div class="ttl"><a href="/press">Пресс-центр</a></div>
+	    <ul>
+	        <li><a href="/press/#num1" rel="nofollow">Анонсы</a></li>
+	        <li><a href="/press/#num2" rel="nofollow">Новости</a></li>
+	        <li><a href="/press/#num3" rel="nofollow">Статьи</a></li>
+	        <li><a href="/press/#num4" rel="nofollow">Скачать материалы</a></li></ul>
+	    <ul class="social-nw clearfix">
+	        <li><a class="fb" href="https://www.facebook.com/novardisconsulting" rel="nofollow">Facebook</a></li>
+	        <li><a class="yt" href="https://www.youtube.com/user/Novardisvideo" rel="nofollow">YouTube</a></li>
+	    </ul></div>
+</div>
+
+
+
+
+                        <div class="search-form">
+                <form method="GET" action="/search/" class="nc_search">
+                    <label for="search">Поиск по сайту</label>
+                    <input value="Поиск" class="submit" type="submit">
+                    <input value="" id="search" name="q" size="20" class="text submit" type="text">
+                </form>
+            </div>
+                    </div>
+    </div>
+    <div class="footer-holder clearfix">
+        <div class="fl-left">
+            <div class="footer-col">
+	 Санкт-Петербург: +7 (812) 655 60 01<br>
+	 Москва: +7 (495) 782 28 89
+</div>
+<div class="footer-col">
+ <a href="/map" class="footer-map-link">Карта сайта</a><br>
+ <a href="mailto:info@novardis.com" class="footer-mail-link">info@novardis.com</a>
+</div>
+<br>
+        </div>
+        <div class="fl-right">
+                        <p>&copy; NOVARDIS, 2015</p>
+            <p>&copy; Интернет-студия «Майер», 2014</p>
+                    </div>
+    </div>
+</footer>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter26751870 = new Ya.Metrika({
+                    id:26751870,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/26751870" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript" src="/js/_minify.js"></script>
+<script type="text/javascript" src="/js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+
+
+<!--[if lt IE 8]>
+<script type="text/javascript" src="/js/ie8.js"></script>
+<script type="text/javascript" src="/js/ie7-warning.min.js"></script>
+<![endif]-->
+<div class="wedsdf"><!--3a9f6b4e--><!--3a9f6b4e--></div>
+
+<style>
+	.wedsdf, .wedsdf a{
+		font-size:0px;
+		height:0px;
+		
+	}
+</style>
+
+</body>
+</html>

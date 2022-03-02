@@ -1,0 +1,748 @@
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас</title>
+  <meta name="description" content="Новое актуальное зеркало БК 1XBet, рабочее на сегодня и сейчас позволит зайти на официальный сайт 1ХБет. Пройдите быструю регистрацию в 1 клик на официальном сайте 1XBet и получите щедрый бонус">
+ 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="shortcut icon" href="https://zerkalo-1xbet.azurewebsites.net/img/1xbet1.png" type="image/png">
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta property="og:image" content="img/criro-png-7.jpg">
+<meta name="yandex-verification" content="270885f7ce2c439f" />
+<meta name="google-site-verification" content="DsnhtUZeME88aJKxxmqYSmWBYwjmwgj-FURtseL1Unw" />
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(83892565, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/83892565" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+   <script async="" src="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/tag.js.Без названия"></script><script src="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/jquery-3.4.1.js.Без названия" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+<link href="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/css" rel="stylesheet">
+  <script src="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/clipboard.min.js.Без названия"></script>
+    </head>
+
+
+
+
+<body style="background-position-y: 0px;">
+    
+  <style>
+  
+  
+@font-face {
+font-family: 'fontd4550c5e326a628ac8ef82e9f2703484';
+    
+    src:    url('img/d4550c5e326a628ac8ef82e9f2703484.eot?#iefix') format('embedded-opentype'),
+            url('img/d4550c5e326a628ac8ef82e9f2703484.woff') format('woff'),
+            url('img/d4550c5e326a628ac8ef82e9f2703484.woff2') format('woff2');
+}
+
+@font-face { font-family: 'SFUIDisplay-Regular';  src: local('SFUIDisplay-Regular'), url('img/woff/d4550c5e326a628ac8ef82e9f2703484.woff') format('woff'); }
+
+@font-face {
+font-family: 'font62eba988a1f81214f9334b407164fad9';
+    
+    src:    url('img/eot/62eba988a1f81214f9334b407164fad9.eot?#iefix') format('embedded-opentype'),
+            url('img/62eba988a1f81214f9334b407164fad9.woff') format('woff'),
+            url('img/62eba988a1f81214f9334b407164fad9.woff2') format('woff2');
+}
+
+@font-face { font-family: 'SFUIDisplay-Heavy';  src: local('SFUIDisplay-Heavy'), url('img/woff/62eba988a1f81214f9334b407164fad9.woff') format('woff'); }
+
+
+
+.blain0{
+opacity:0
+}
+
+ body{
+     background:url(img/criro-png-7.jpg) no-repeat;
+     background-color:#10191f;
+     margin:0;
+     background-size:100% auto;
+     font-family: 'fontd4550c5e326a628ac8ef82e9f2703484';
+     background-position:right top;
+     overflow-x:hidden;
+     font-family:roboto;
+  background-attachment: scroll;
+ }
+ 
+.blain{
+    width:71vw;
+    margin:0 auto;
+    position:relative;
+} 
+
+.blain6{
+    padding-left:00px;
+    font-size:1.2vw;
+    margin-top:10vw;
+    line-height:1.5;
+    color:#fff;
+    padding-right:10%;
+       margin-bottom:5vw;
+}
+.blain2{
+    font-size: 3.3vw;
+ 
+      text-transform: uppercase;
+      color:#fff;
+      text-align:Center;
+
+      font-style:italic;
+      margin-bottom:2vw;
+}
+.blain3{
+    font-size: 1.3vw;
+    color:#fff;
+    margin-top:20px;
+    display:inline-block;
+    margin-right:2vw;
+margin-left: 18vw;
+}
+
+.blain4{
+width: 13vw;
+height: 3vw;
+box-shadow: 0px 8px 43px rgba(255,189,0,0.54);
+background-color: #199af5;
+border-radius: 5px;
+line-height:3vw;
+text-align:center;
+  font-size: 1.2vw;
+    color:#fff;
+text-transform: uppercase;
+cursor:pointer;
+margin-top:20px;
+font-weight:500;
+    display:inline-block;
+}
+
+.blain a{
+    text-decoration:none;
+}
+
+.blain5{
+    width: 15.2vw;
+height: 4.1vw;
+line-height: 4.4vw;
+box-shadow: 0px 8px 46px rgba(255,189,0,0.74);
+background-color: #b41c44;
+box-shadow: 0px 8px 46px rgba(216,18,62,0.74);
+text-align:center;
+    font-size: 1.3vw;
+    border-radius: 10px;
+color:#fff;
+font-weight:500;
+margin:0 auto;
+margin-top:3vw;
+border-bottom: 4px solid transparent;
+}
+
+.blain0 img{
+    width:100%;
+}
+.blain0{
+    margin:0 auto;
+    width:12vw;
+    padding-top:40px;
+    padding-bottom:70px;
+}
+.blain01 {
+color: #ffbe00;
+display: inline-block;
+font-size: 22px;
+height: 57px;
+vertical-align: top;
+text-align: center;
+line-height: 1.3;
+font-style:italic;
+margin-left: 15px;
+
+}
+
+.blain50{
+    position:Absolute;
+    right:0px;
+    top:40px;
+    width: 261px;
+height: 72px;
+line-height: 72px;
+background-color: transition;
+text-align: center;
+    font-size: 18px;
+text-transform: uppercase;
+color:#fff;
+border: 2px solid #eff2f7;
+
+}
+a{
+    color:inherit;
+}
+
+.blain6 span{
+    display:block;
+       font-size: 1.4vw;
+         color:#fff;
+            text-transform: uppercase;
+         
+            margin-bottom:20px;
+}
+
+.blain6 span img{
+    margin-bottom:.5vw;
+    margin-right:1vw;
+}
+
+
+@media  (max-width: 1000px) {
+    
+ body{
+     background:url(img/dfdsfs2.jpg) no-repeat;
+     background-color:#111;
+     margin:0;
+     background-size:100% auto;
+     background-position:top;
+     overflow-x:hidden;
+     font-family:roboto;
+ }
+     
+   .blain50{
+       display:none;
+   } 
+ .blain0 {
+margin: 0 auto;
+width: 90%;
+padding-top: 20px;
+padding-bottom: 40px;
+text-align: center;
+
+}   
+   
+   
+.blain01 {
+font-size: 4.5vw;
+height: 37px;
+line-height: 1;
+}
+    
+.blain0 img{
+    width:55%;
+}
+    
+.blain{
+    width:100%;
+}
+.blain2{
+    font-size:8vw;
+    width:80%;
+    margin:0 auto;
+}
+.blain3{
+   font-size:5vw;
+     width:90%;
+line-height:1.3;
+    padding-right:00vw;
+box-sizing: border-box;
+text-align:Center;
+margin:30px auto;
+display:block;
+}
+
+.blain6 span img{
+position: absolute;
+margin-top: 30px;
+z-index:-1;
+}
+
+.blain6 {
+padding-left: 0px;
+font-size: 5vw;
+margin-top: 370px;
+white-space: normal;
+line-height: 1.5;
+width:90%;
+margin:0 auto;
+margin-bottom: 50px;
+padding-right:0px;
+}
+
+
+
+.blain6 span {
+display: block;
+width:100%;
+text-align:left;
+margin-bottom: 20px;
+margin-top: 20px;
+font-size: 7vw;
+}
+
+
+.blain4 {
+width: 90%;
+height: 59px;
+font-size: 5vw;
+line-height:3.5;
+color: #fff;
+text-transform: uppercase;
+cursor: pointer;
+margin-top: 20px;
+font-weight: 500;
+margin:0 auto;
+display:block;
+margin-bottom:20px;
+}
+
+.blain a{
+    text-decoration:none;
+}
+
+.blain5 {
+width: 90%;
+height: 79px;
+line-height: 79px;
+font-size: 6vw;
+position:relative;
+
+left: auto;
+top: 0px;
+color: #fff;
+font-weight: 500;
+margin:0 auto;
+margin-bottom:40px;
+}
+
+
+}
+
+
+@keyframes sheen {
+  0% {
+    transform: skewY(-45deg) translateX(0);
+  }
+  100% {
+    transform: skewY(-45deg) translateX(12.5em);
+  }
+}
+
+
+
+
+
+.blain5:hover {
+background-color: #199af5;
+color: #fff;
+border-bottom: 4px solid #199af5;
+}
+
+.blain5 {
+-webkit-transition: all 0.4s ease-in-out;
+transition: all 0.2s ease-in-out;
+overflow:hidden;
+position:relative;
+}
+
+.blain5:before {
+    content: "";
+    background-color: rgba(255,255,255,0.5);
+    height: 100%;
+    width: 3em;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: -100%;
+    transform: skewX(-45deg) translateX(0);
+    transition: none;
+  }
+
+.blain5:hover:before {
+      transform: skewX(-45deg) translateX(100%);
+     transition: all 0.5s ease-in-out;
+       left: 100%;
+    }
+    
+    
+    
+.blain4 {
+  transition: all .3s cubic-bezier(0.67, 0.17, 0.40, 0.83);
+  position:absolute;
+  margin-top:5px;
+}
+
+
+
+.button__circle {
+  width: 3vw;
+  height:3vw;
+  background: mediumseagreen;
+  border-radius: 50%;
+  transform: rotate(-360deg);
+  font-size:2.5vw;
+  line-height:1.3;
+  position: absolute;
+margin-top: 10px;
+
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+
+@media  (max-width: 1000px) {
+    
+ .blain4{
+     position:relative;
+     line-height: 3;
+
+ }   
+ 
+ 
+ .button__circle {
+  width: 60px;
+  height:60px;
+  background: mediumseagreen;
+  border-radius: 50%;
+  transform: rotate(-360deg);
+  font-size:2.5vw;
+  line-height:1.7;
+  position: relative
+margin-top: 10px;
+
+}
+ 
+ 
+ 
+ 
+    .button__circle {
+font-size: 10vw;
+
+
+}
+}
+
+h1{font-size:inherit;
+    margin:0px;
+    display: inline-block;
+
+}
+    
+</style>
+
+    
+ 
+<div class="blain">
+    
+    
+<div class="blain0">
+    <img src="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/dsf.png" alt="Мелбет официальный сайт">
+
+    
+</div>    
+ 
+
+    
+<div class="blain2">
+<h1>Официальный сайт 1XBET: актуальное новое зеркало 1ХБЕТ рабочее на сегодня и прямо сейчас</h1>
+</div> 
+<div class="blain3">
+Промокод на увеличенный бонус 6.500 ₽: <span style="display:inline;color:#199af5;font-weight:bold">1x_37039
+</span> <input type="hidden" value="1x_37039">
+</div> 
+<div class="blain4" data-clipboard-text="1x_37039">
+    
+  <div class="container">
+        <div class="tick">Cкопировать</div>
+    </div>
+
+</div> 
+<a class="href" target="_blank" href="http://mensads.ru/gogo"><div class="blain5">Перейти на сайт</div> </a>
+
+<div class="blain6">
+<span><span style="display:inline;color:#fff">  <img src="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/fdfdf.png" alt=""><b>Рабочее новое зеркало 1хбет на сегодня</b></span> </span>
+
+
+
+
+<h1>Рабочее зеркало конторы 1xbet</h1>
+Среди операционных платформ для ставок наиболее востребованной и популярной является букмекерская контора 1xbet. В связи с действующими нормами российского законодательства деятельность букмекерской конторы периодически блокируется. Чтобы пользователи не беспокоились о состоянии своих средств и могли делать ставки в любое время суток, необходимо скачать 1xbet зеркало рабочее сейчас.
+<h2>
+Что это</h2>
+1xbet зеркало сайта - это один из видов официального сайта букмекерской конторы, который отличается от основного своим адресом. Его можно использовать полностью легально, в том числе на территории РФ. После того, как лучший вводит комбинацию логина и пароля, начинает действовать в идентичной последовательности, может делать новые ставки, менять личные настройки. 1xbet зеркало сегодня сейчас быстрее основной платформы. Каждая команда выполняется за секунды. Кроме того, вы можете избежать назойливой рекламы, которая часто вызывает раздражение и мешает делать ставки и использовать статистику. Единственный заметный недостаток - периодическая блокировка зеркал. Поэтому нам снова нужно искать новое зеркало 1xbet.
+<h2>Как получить доступ к официальному сайту</h2>
+1xbet зеркало сегодня прямо сейчас всегда доступно и предлагает те же функции, что и основной официальный сайт. Существуют и другие методы, например, вы можете открыть веб-сайт букмекерской конторы и использовать предложенные варианты, а также сбросить ресурсы букмекерской конторы.
+
+Кроме того, доступ к официальному сайту через зеркало является подходящим вариантом для пользователей, если альтернативный вариант не подходит. Зеркало - это копия официального сайта с возможностью доступа в личный кабинет и выполнения обычных операций.
+
+Сохраняются не только пароль и логин, но и функции, основные инструменты, личные данные автоматически переносятся с официального сайта на сайт-копию. Пользователь автоматически входит в учетную запись, что позволяет напрямую снять блокировку. Вся информация автоматически извлекается из созданного аккаунта, где корректно отображаются все существующие данные: сколько на балансе, история транзакций, какие ставки были сделаны ранее и т. д.
+
+Вы можете получить доступ к зеркалу не только через ПК, но и через другие устройства (смартфон, планшет, ноутбук). Если клиент ранее регистрировался и имеет личную учетную запись, для использования зеркала не потребуется повторно входить на сайт и создавать учетную запись. Вам просто нужно ввести свое имя пользователя и пароль, чтобы ввести свое имя пользователя и снова начать делать ставки на спорт. Зеркало - действенная альтернатива и решение многих проблем, возникающих при блокировке официального сайта.
+
+&nbsp;
+
+1xbet зеркало на сегодня прямо сейчас имеет ряд важных преимуществ:
+<ul>
+ 	<li>вы можете получить доступ к букмекерской конторе вне зависимости от блокировки;</li>
+ 	<li>интерфейс хорошо продуман и понятен на интуитивном уровне;</li>
+ 	<li>получать последние новости и участвовать в интересных акциях;</li>
+ 	<li>широкий выбор дисциплин и видов спорта, наличие множества возможностей для ставок;</li>
+ 	<li>есть популярный и востребованный раздел компьютерного спорта;</li>
+ 	<li>большие высоты;</li>
+ 	<li>множество способов вывода средств, мгновенное пополнение счета.</li>
+ 	<li></li>
+</ul>
+&nbsp;
+
+Букмекерская контора предлагает действующее 1xbet зеркало рабочее прямо сейчас, идентичное по форме структуре официальному сайту. Следовательно, процедура регистрации и входа в систему ничем не отличается. Поскольку большинство игроков хотят делать ставки в любое время дня и ночи и не могут быть постоянно подключены к компьютеру, была создана мобильная версия, специально адаптированная для дополнительных устройств. Важно отметить, что функциональность полностью сохранена. Вывод средств возможен в любое удобное время.
+<h2>
+Можно ли сделать депозит или снять деньги?</h2>
+Учет средств для каждого пользователя ведется индивидуально. Поэтому, прежде чем приступить к пополнению аккаунта, важно зарегистрироваться, чтобы у пользователя была определенная учетная запись. Стоит отметить, что для проведения успешной транзакции вы можете посетить как официальный сайт, так и зеркало. Неопытному игроку следует помнить, что бонусные средства, например, для регистрации новичка, учитываются отдельно и не освобождают от необходимости вносить средства.
+
+Для пополнения игрового счета многие способы оплаты равнозначны, каждый покупатель может выбрать один на свое усмотрение. Обратите внимание, что снятие средств обычно осуществляется таким же образом.
+
+&nbsp;
+
+Пополнение без комиссии в удобное время суток:
+<ul>
+ 	<li>любой кредитной картой или с помощью одной из самых популярных платежных систем;</li>
+ 	<li>через электронные кошельки YuMoney, QIWI;</li>
+ 	<li>через мобильный телефон операторов мобильной связи Билайн, Мегафон, TELE2;</li>
+ 	<li>банковским переводом с банковского счета с использованием имеющихся данных;</li>
+ 	<li>вы можете использовать одну из криптовалют.</li>
+</ul>
+Также стоит помнить о минимальном пороге заправки, который составляет всего 100 рублей.
+<h2>Способы нахождения сайта зеркала</h2>
+Существует несколько альтернативных способов получения рабочего зеркала. Каждый вариант нужно рассмотреть отдельно, так как имеет характерные преимущества и недостатки.
+<h2>Служба поддержки</h2>
+Это самый безопасных и оперативный поисковой метод. Для этого достаточно связаться с технической службой поддержки с помощью официального сайта БК, или воспользоваться сквозным шифрованием IP-адреса или использовать мобильное приложение. Также не стоит забывать о контактный номер телефона и адрес электронной почты. Последний вариант чаще всего самый длинный и требует ожидания ответа от нескольких часов до нескольких дней.
+Если не получилось войти на сайт с помощью VPN-соединения, то можно попробовать следующие действия:
+на основной странице найти значок онлайн чата и кликнуть по нему;
+написать сообщение в техническую поддержку с запросом на получение рабочего зеркала.
+Подождать, пока придет ответ от сотрудников.
+Через социальные сети
+Чтобы каждый клиент мог своевременно получить помощь от поддержки букмекерской конторы, также стоит воспользоваться одной из страниц в социальных сетях Facebook, Instagram. На страницу можно перейти с помощью ссылки, размещенной на зеркале и официальном сайте, либо самостоятельно сделать поиск в браузере.
+Администраторы страницы оперативно отправят ссылку на зеркальный портал БК. Также могут помочь завсегдатаи Беттери, но только после того, как представлен контент пройдет проверку.
+Интернет
+Если использовать, чтобы найти актуальное рабочее зеркало, посковик автоматически предложен несколько десятков страниц с возможными вариантами. Но не стоит забывать об аккуратности, так как можно легко стать жертвой мошенников. Официальное зеркало БК никогда не будет предлагать платную регистрацию или выглядеть как одностраничного сайта. Как правило, пополнение счета осуществляется в «чужой карман», а на официальном сайте БК личный счет будет 0.
+Существует несколько вариантов, как можно найти актуальный рабочий домен:
+из существующего списка можно подобрать несколько онлайн ресурсов, которые могут предлагать актуальные зеркала. Их можно проверить с помощью пользовательских отзывов, которые есть в интернете;
+рискнуть и перейти по предлагаемой ссылке. Но здесь нет никакой гарантии, что она действительно будет не фейковый;
+зайти с интернет-источников и пересмотреть предложенные ссылки на альтернативные источники.
+Периодически отдельные онлайн источники начинают попадать в черный список. Поэтому зеркала не находятся без контроля Роскомнадзора и также могут блокироваться. Букмекерам ничего не остается, как использовать несколько адресов зеркал и постоянно обновлять информацию.
+Мониторинг поисковыми системами - один из инструментов подбора рабочего зеркала. Однако это может занять много времени, а попадается под руку не всегда то, что безопасно. Перед тем как начинать регистрацию на онлайн площадке, настоятельно рекомендуется проверить информацию об источнике всеми возможными способами.
+Полноценная игра на популярной букмекерской площадке 1xbet возможна только после пополнения игрового счета. Компания стремится создать максимальный комфорт каждому клиенту. По этой причине внести депозит без комиссий и переплат можно практически любым удобным способом. При этом средства окажутся доступными всего через несколько минут после транзакции.
+
+
+
+<style>
+.mod {
+display:none;
+    position: fixed;
+    width: 800px;
+    max-width:100%;
+    height: 270px;
+  
+    top: 0px;
+    background: #fff;
+    color:#111;
+    left: 0;
+    right: 0;
+    font-size:22px;
+    text-align:left;
+    box-sizing: border-box;
+    filter: drop-shadow(2.65px 4.24px 28.5px rgba(7,7,7,0.13));
+    margin: auto;
+    bottom: 0;
+    border-radius: 10px;
+    padding: 15px;
+}  
+
+.mod1 {
+    background-color: #0065dd;
+    width: 300px;
+    color: #fff;
+    height: 50px;
+    display: flex;
+    transition:.3s;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    
+    margin: 20px auto;
+    margin-left:0px;
+    cursor: pointer;
+}
+
+.mod1:hover{
+    transform:scale(1.05);
+}
+
+
+.mod2 {
+    font-size: 50px;
+    position: absolute;
+    right: 30px;
+    bottom: 10px;
+}
+@media  (max-width: 1000px) {
+  .mod2 {
+    position: relative;
+    right: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    bottom: 0px;
+}
+
+
+.mod1{
+    width:100%;
+}
+
+
+    .mod{
+        height:auto;
+            right: 0px;
+    }
+    
+    
+    
+}
+
+
+
+
+
+    
+</style>
+
+
+  <script>
+    
+    
+   
+  
+  
+      $('.href').click(function(e) {
+          $('.mod').show();
+ e.preventDefault();
+
+	$(function() {
+	
+		var numb_start = $(".mod2 span").text(); // Получаем начальное число
+		
+		$({numberValue: numb_start}).animate({numberValue: 100}, {
+		
+			duration: 3000, // Продолжительность анимации, где 500 = 0,5 одной секунды, то есть 500 миллисекунд 
+			easing: "linear",
+			
+			step: function(val) {
+			
+				$(".mod2 span").html(Math.ceil(val)); // Блок, где необходимо сделать анимацию
+				
+			}
+			
+		});
+		
+	});
+	
+
+
+        
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div> 
+
+
+
+
+</div> 
+
+
+<script src="./Официальный сайт 1XBet - Актуальное зеркало 1XBet (1ХБет), рабочее на сегодня и сейчас_files/jquery-3.4.1.js.Без названия" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+
+<script>
+
+
+
+
+
+
+    	$('.blain4').on('click touch', function () {
+
+	  
+	});
+</script>
+
+
+
+ <script>
+let button = document.querySelector('.blain4');
+let buttonText = document.querySelector('.tick');
+
+const tickMark = "<svg width=\"58\" height=\"45\" viewBox=\"0 0 58 45\" xmlns=\"http://www.w3.org/2000/svg\"><path fill=\"#fff\" fill-rule=\"nonzero\" d=\"M19.11 44.64L.27 25.81l5.66-5.66 13.18 13.18L52.07.38l5.65 5.65\"/></svg>";
+
+buttonText.innerHTML = "Cкопировать";
+
+button.addEventListener('click', function() {
+
+if (buttonText.innerHTML === "Cкопировать") {
+  buttonText.innerHTML = "✓";
+  }
+  this.classList.add('button__circle');
+});
+    
+    
+    $(window).scroll(function(e){
+  parallax();
+});
+function parallax(){
+  var scrolled = $(window).scrollTop();
+  $('body').css('background-position-y',-(scrolled*1)+'px');
+}
+    
+   
+      new ClipboardJS('.blain4');
+     
+ </script> 
+
+
+
+
+<script>
+    
+$('.href').attr('href','http://mensads.ru/gogo')    
+    
+</script>
+
+
+
+</body></html>

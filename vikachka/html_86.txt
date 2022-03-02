@@ -1,0 +1,1008 @@
+﻿<!--DOCTYPE html -->
+<html><head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://www.googletagmanager.com/gtag/js?id=UA-133178848-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133178848-1');
+</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- TITLE OF SITE -->
+    <title>Создание сайтов в Бресте, заказать сайт, интернет-магазин  | Брест Юникодинг</title>
+
+    <meta name="description" content="Юникодинг: создание сайтов, интернет-магазинов, lending page, каталогов в Бресте и за его пределами. Заказать сайт на cms, php, python, JavaScript. Разработка ПО, ERP системы Odoo">
+    <meta name="keywords" content="создание сайтов, создание мобильных приложений, заказать сайт, купить интернет-магазин, odoo поддержка, odoo программирование, php программирование, web дизайн, графический дизайн, мобильные приложения, javascript программирование, парсинг, автоматизация веб-задач, python программирование Ruby on Rails программирование, Net программирование">
+    <meta name="author" content="Unicoding LLC">
+    <meta name="google-site-verification" content="GA-FYw_aDeYkS3Vbtd_Up_JHyAxt_JeX_ReBE62dTQ8" />
+
+
+    <!-- =========================
+       STYLESHEETS
+    ============================== -->
+    <!-- BOOTSTRAP CSS -->
+    <link rel="stylesheet" href="css/plugins/bootstrap.min.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+    	/*------------------------------------------*/
+		/*  Red Buttons
+		/*------------------------------------------*/
+		.btn-red,
+		a.inverse.btn-red,
+		.inverse a.btn-red {
+		    background-color: #FF0000;
+		}
+
+
+
+
+
+
+		/*------------------------------------------*/
+		/*   Back to Top Button
+		/*------------------------------------------*/
+		.top {
+		    background: #FF0000 url("../images/top-arrow.svg") no-repeat center 50%;
+
+		}
+
+		#route_chat, #route_contactForm {
+		    display: none;
+		}
+
+
+
+
+
+    </style>
+<link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="favicon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="favicon/manifest.json">
+<link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#ff0000">
+<link rel="shortcut icon" href="favicon/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Unicoding LLC">
+<meta name="application-name" content="Unicoding LLC">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="favicon/mstile-144x144.png">
+<meta name="msapplication-config" content="favicon/browserconfig.xml"/>
+<meta name="theme-color" content="#ffffff"/>
+<title>Создание сайтов в Бресте, заказать сайт или интернет-магазин| Брест Веб-студия Юникодинг</title>
+    <meta name="description" content="Юникодинг: создание сайтов, интернет-магазинов, lending page, каталогов в Бресте и за его пределами. Заказать сайт на cms, php, python, JavaScript. Разработка ПО, ERP системы Odoo">
+    <meta name="keywords" content="заказать сайт, заказать сайт брест, создание сайтов, создание сайтов в бресте, разработка сайтов, заказать разработку сайтов, разработка сайтов в бресте">
+    <meta property="og:title" content="Создание сайтов в Бресте, заказать сайт | Брест Веб-студия Юникодинг">
+    <meta property="og:description" content="Юникодинг: создание сайтов, интернет-магазинов, lending page, каталогов в Бресте и за его пределами. Заказать сайт на cms, php, python, JavaScript. Разработка ПО, ERP системы Odoo">
+    <meta property="og:image" content="images/uploads/logm.png">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://unicoding.by">
+    <meta name="DC.title" content="Создание сайтов в Бресте, заказать сайт или интернет-магазин| Брест Веб-студия Юникодинг">
+    <meta name="DC.creator" content="Гречанюк В.С">
+    <meta name="DC.subject" content="заказать сайт, заказать сайт брест, создание сайтов, создание сайтов в бресте, разработка сайтов, заказать разработку сайтов, разработка сайтов в бресте">
+    <meta name="DC.description" content="Юникодинг: создание сайтов, интернет-магазинов, lending page, каталогов в Бресте и за его пределами. Заказать сайт на cms, php, python, JavaScript. Разработка ПО, ERP системы Odoo">
+    <meta name="DC.language" content="ru-RU">
+    <meta name="DC.coverage" content="World">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@unicodingby">
+	<meta name="twitter:title" content="Созданием сайтов на любых CMS">
+	<meta name="twitter:description" content="Юникодинг: создание сайтов, интернет-магазинов, lending page, каталогов в Бресте и за его пределами. Заказать сайт на cms, php, python, JavaScript. Разработка ПО, ERP системы Odoo">
+	<meta name="twitter:image" content="images/uploads/logm.png">
+
+<meta name="p:domain_verify" content="369eebfacbfcacc0f534ff2206469443"/>
+
+<style>
+    /*Критический css*/
+    @font-face{font-family:'Montserrat';src:url(css/custom-fonts/Montserrat/montserrat.eot);src:url(css/custom-fonts/Montserrat/montserrat.eot?#iefix) format("embedded-opentype"),url(css/custom-fonts/Montserrat/montserrat.woff2) format("woff2"),url(css/custom-fonts/Montserrat/montserrat.woff) format("woff"),url(css/custom-fonts/Montserrat/montserrat.ttf) format("truetype");font-weight:400;font-style:normal;}
+    body{font-family:"Montserrat","Lato","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.25;color:#69696E;font-weight:400;-webkit-font-smoothing:antialiased;padding:0;margin:0;}
+    @font-face{font-family:'iconfont';src:url(fonts/iconfont.eot?9q8fxx);src:url(fonts/iconfont.eot?9q8fxx#iefix) format("embedded-opentype"),url(fonts/iconfont.ttf?9q8fxx) format("truetype"),url(fonts/iconfont.woff?9q8fxx) format("woff"),url(fonts/iconfont.svg?9q8fxx#iconfont) format("svg");font-weight:400;font-style:normal;}
+    i{font-family:'iconfont';speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+    .icon-clock2:before{content:"\e370";}
+    a,a:link,a:visited,a:hover,a:active{color:#000;text-decoration:none;outline:0;-webkit-transition:all .25s ease-out;-moz-transition:all .25s ease-out;-ms-transition:all .25s ease-out;-o-transition:all .25s ease-out;transition:all .25s ease-out;}
+    .p-y-lg{padding-top:120px!important;padding-bottom:120px!important}
+    .top-bar{padding:20px;border-bottom:1px solid #EFF1F4;color:#404B55;font-size:14px;opacity:1;z-index:1;overflow:inherit!important;}
+    section{position:relative;overflow:hidden;}
+    .top-bar .schedule{float:left;}
+    .top-bar .schedule i,.top-bar .contact-info i{font-size:20px;font-weight:700;margin-right:5px;vertical-align:text-bottom;}
+    .top-bar .contact-info{float:right;}
+    .hide-block{display:inline-block;position:relative;}
+    .contact-info span{vertical-align: middle;}
+    .toggle-hide-block{transform:translate3d(0,0,0);transition:.2s;display:inline-block;vertical-align:middle;width:10px;height:10px;}
+    .toggle-hide-block:after{content:'';position:absolute;top:50%;left:50%;width:6px;height:6px;margin:-5px 0 0 -3px;border-left:1px solid;border-bottom:1px solid;-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg);}
+    #all-contacts-inner{right:0;left:auto;}
+    .hide-block-inner{position:absolute;cursor:default;top:100%;left:0;padding-top:20px;opacity:0;-ms-transform:scaleY(0);-webkit-transform:scaleY(0);transform:scaleY(0) translate3d(0,0,0);pointer-events:none;transition:transform .3s,opacity .3s;}
+    #all-contacts-inner .hide-block-content{width:365px;}
+    .hide-block-content{background:#fff;text-align:left;border:2px solid #e8ebed;padding:20px;display:none;}
+    .hide-block-content .img-left img{display:inline-block;vertical-align:middle;}
+    .hide-block-content .img-left a{display:inline-block;vertical-align:middle;font-size:19px;}
+    .hide-block-content .img-left .info{display:inline-block;vertical-align:middle;padding-left:20px;font-size:12px;font-weight:400;line-height:16px;color:#999;}
+    .empty-tr{height:7px;}
+    .lang-list{opacity:.8;}
+    .lang-list ul{list-style-type:none;padding:0;}
+    .lang-list li{margin:0 10px 10px;}
+    .navbar{background-color:#fff;box-shadow:0 1px 1px rgba(0,0,0,.1);border:none;margin-bottom:0;padding:20px;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;transition:all .5s ease-in-out;}
+    .navbar-nav>li{position:relative;}
+    .navbar-nav>li>a{color:#404B55;font-size:15px;font-weight:700;opacity:.8;padding:9px 15px;border-radius:5px;margin-right:2px;}
+    .btn-nav,a.btn-nav,.navbar-nav>li>a.btn-nav{color:#404B55;margin-right:0;margin-bottom:0;opacity:1!important;-webkit-transition:all .5s ease-in-out;-moz-transition:all .5s ease-in-out;-o-transition:all .5s ease-in-out;transition:all .5s ease-in-out;}
+    .navbar-nav>li>a.btn-red{background-color:transparent;}
+    .section-header{margin-bottom:50px;}
+    h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6,p,.lead{margin-top:0;margin-bottom:10px;}
+    h2,.h2{font-weight:900;font-size:42px;line-height:46px;}
+    .lead{font-size:22px;line-height:26px;font-weight:400;}
+    p{font-size:16px;line-height:20px;}
+    .features-block p{margin-bottom:0;}
+    .navbar-toggle{border:none;padding:5px 8px 3px;}
+    @media only screen and (max-width: 991px){.navbar-header{float:none;}}
+    @media (min-width: 768px){.navbar-toggle{display:none;}}
+    @media only screen and (max-width: 991px){.navbar-toggle{display:block}.navbar-collapse.collapse.in{display:block!important;}.navbar-nav{float:none!important;margin:7.5px 0;}.navbar-nav>li{float:none;}.navbar-nav>li>a.btn-nav{border-bottom:none;margin:10px 0 5px 10px;padding:10px 15px;display:inline-block;width:auto;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;}}
+    @media only screen and (max-width: 767px){.top-bar .schedule,.top-bar .contact-info{display:block;float:none;text-align:right;font-size:13px;}.top-bar .contact-info{margin-top:4px;}}
+    @media only screen and (max-width: 479px){.all-contacts{float:left;}}
+    .success,.failed{display:none;padding:10px;border-radius:5px;font-size:17px;line-height:20px;color:#fff}
+    .form-horizontal .form-group{margin-right:-15px;margin-left:-15px}
+    .form-control{background:#e8ebed;color:#657380;font-size:15px;font-weight:700;padding:16px;width:100%;height:auto;outline:0;border:2px solid #e8ebed;box-shadow:none;-webkit-transition:all .2s;-moz-transition:all .2s;-ms-transition:all .2s;-o-transition:all .2s;transition:all .2s}
+    .contact ul{padding-left:0;list-style-type:none}
+    .contact .contact-info li{margin-bottom:20px;font-size:15px;line-height:15px;font-weight:900}
+    .contact .contact-info li i{font-size:25px;font-weight:700;vertical-align:text-top;margin-right:20px}
+    .hero{height:700px}
+    .vertical-center-rel{position:relative}
+    .vertical-center-abs,.vertical-center-rel{top:50%;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%);-o-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+    .hero h1{margin-bottom:20px}
+    .p-t-md{padding-top:60px!important}
+    .text-white{color:#fff}
+    h1,.h1{font-weight:900;font-size:52px;line-height:56px;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+    .hero .lead{font-weight:700}
+    .m-b-md{margin-bottom:25px!important}
+    @media only screen and (max-width: 991px) {.hero,.hero.height-800{height:600px}.lead{font-size:20px;line-height:24px}  }
+    .pricing-3pf .info{padding:20px 10px;border-radius:10px;margin-bottom:20px}
+    .pricing-3pf .info .price{font-size:95px;font-weight:900;padding-top:30px;padding-bottom:50px}
+    .pricing-3pf .info .price .currency{font-size:50px;font-weight:400;vertical-align:super;margin-right:-15px}
+    .pricing-3pf .info .price .cents{font-size:30px;font-weight:400;vertical-align:bottom;margin-left:-15px}
+    .btn,a.btn{display:inline-block;color:#fff;padding:11px 18px;margin-bottom:7px;margin-right:5px;font-size:15px;font-weight:900;letter-spacing:1px;vertical-align:middle;white-space:pre-line;text-align:center;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;cursor:pointer;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-ms-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}
+    .pricing-3pf .details h5{font-size:20px;line-height:20px;margin-bottom:5px}
+    .pricing-3pf .details p{font-size:17px;line-height:17px}
+    .pricing-3pf .details ul{padding-left:0;list-style-type:none}
+    @media only screen and (max-width: 991px) {.pricing-3pf .details{margin-bottom:80px}}
+    .blog-list{margin-bottom:70px;padding-bottom:70px;border-bottom:3px solid #efefef}
+    .blog-post img{width:100%;height:auto}
+    .blog-post .date{float:left;width:80px;padding:10px;background:#439FE0;color:#fff;font-size:20px;line-height:22px;text-align:center;margin-top:25px;margin-right:15px;font-weight:900;border-radius:7px}
+    .blog-post .date span{display:block;font-size:12px}
+    .blog-post h4,.blog-post .post-meta{margin-left:95px;font-size:29px;line-height:29px}
+    .blog-post h4{padding-top:25px}
+    .blog-post h4 a,.blog-post .post-meta a{color:#69696E;font-weight:900}
+    .blog-post h4,.blog-post .post-meta{margin-left:95px;font-size:29px;line-height:29px}
+    .blog-post .post-meta{padding-left:0;list-style-type:none;font-size:13px}
+    .blog-post .post-meta li{display:inline-block;margin-bottom:10px;margin-right:20px}
+    .blog-post .post-meta li i{margin-right:5px}
+    .overlay {position: absolute;top: 0;left: 0;width: 100%;height: 100%;z-index: 0;zoom: 1;filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#80000000', endColorstr='#80000000');background: transparent;background: rgba(51, 51, 51, 0.5);}
+</style>
+<meta name="google-site-verification" content="O1rkjo_lMt9Fg_tUJaeXh8UcLQ7n4OJutafsbfYUc1c" />
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1138687693208393');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1138687693208393&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+<body data-spy="scroll" data-target="#main-navbar">
+
+
+    <div class="main-container" id="page">
+
+
+
+
+
+
+
+
+
+
+        <header id="nav5-1">
+
+            <!-- Top Bar -->
+            <section class="top-bar bg-edit" style="">
+                <div class="container p-l-0">
+                    <!-- Working Hours -->
+                    <div class="schedule text-edit" data-selector="Footer"><i class="icon-clock2"></i> График работы: Пн-Пт 9:00-18:00</div>
+                    <!-- Contact Info -->
+                    <div class="contact-info text-edit" data-selector="Footer">
+                        <div class="all-contacts hide-block m-r clearfix text-edit  wow  zoomIn">
+                            <img src="images/uploads/1458590711_mail.svg" alt="юникодинг брест" style="width: 30px; height: 30px; border-radius: 0px; border: 1px none rgb(64, 75, 85);"/>
+                            <span>info@unicoding.by</span>
+                            <div class="toggle-hide-block" id="contacts-toggle"></div>
+                            <div class="hide-block-inner" id="all-contacts-inner">
+                                <div class="hide-block-content">
+                                    <table>
+                                        <tr class="img-left clearfix text-edit" style="font-weight: bold;">
+                                            <td><img src="images/uploads/1458590729_skype.svg" alt="создание сайтов юникодинг" style="width: 30px; height: 30px; margin-right: 9px;border-radius: 0px; border: 1px none rgb(64, 75, 85);"/></td>
+                                            <td><a href="skype:www.isys.by?chat" title="Нажмите, чтобы начать общение" > www.isys.by</a></td>
+                                            <td><span class="info">Наш скайп </br>для связи</span></td>
+                                        </tr>
+                                        <tr class="empty-tr"></tr>
+                                        <tr class="img-left clearfix text-edit" style="font-weight: bold;">
+                                            <td><img src="images/uploads/viber-logo.svg" alt="юникодинг" style="width: 30px; height: 30px; border-radius: 0px; margin-right: 9px;border: 1px none rgb(64, 75, 85);"/></td>
+                                            <td><a href="viber://chat?number=+375297936792" title="Нажмите, чтобы позвонить" > <span class="small-size">+375(29)</span>7936792</a></td>
+                                            <td><span class="info">МТС, Viber </br>Whatsapp, telegram</span></td>
+                                        </tr>
+                                        <tr class="empty-tr"></tr>
+                                        <tr class="img-left clearfix text-edit" style="font-weight: bold;">
+                                            <td><img src="images/uploads/telegram-logo.svg" alt="заказать сайт в бресте" style="width: 30px; height: 30px; border-radius: 0px; margin-right: 9px;border: 1px none rgb(64, 75, 85);"/></td>
+                                            <td><a href="https://telegram.im/@unicoding_bot" title="Нажмите, чтобы связаться в telegram" target="_blank"> unicoding</a></td>
+                                            <td><span class="info">Наш telegram </br>для связи</span></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="language hide-block clearfix text-edit  wow  zoomIn">
+                            <img src="images/uploads/1458590711_mail.svg" alt="юникодинг брест сайт" style="width: 30px; height: 30px; opacity: 0;margin-right:-30px;border-radius: 0px; border: 1px none rgb(64, 75, 85);"/>
+                            <span class="current-language">Русский</span>
+                            <div class="toggle-hide-block" id="language-toggle"></div>
+                            <div class="hide-block-inner" id="language-inner">
+                                <div class="hide-block-content">
+                                    <div class="lang-list">
+                                        <ul>
+                                            <li><a href="/">Русский</a></li>
+                                            <li><!--noindex--><a href="https://unicoding.by/shop" rel="nofollow">English</a><!--/noindex--></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- /End Container -->
+            </section>
+
+
+            <nav class="navbar nav-2 bg-edit affix-top" id="main-navbar">
+                <div class="container">
+
+                    <div class="navbar-header">
+                        <!-- Menu Button for Mobile Devices -->
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        <a href="/" class="navbar-brand smooth-scroll"><img src="images/uploads/unicoding-supernew-2.svg" alt="logo" style="width: 150px; height: 45px; border-radius: 0px; border: 1px none rgb(67, 159, 224);"/></a>
+
+                    </div>
+
+                    <div class="collapse navbar-collapse" id="navbar-collapse" aria-expanded="false">
+                        <!-- Menu Links -->
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="/" class="btn-nav btn-red   smooth-scroll">Услуги</a></li>
+                            <li><a href="/shop">Shop</a></li>
+                            <li><a href="/why-choose-us" class=" smooth-scroll">Почему мы?</a></li>
+                            <li><a href="/prices" class=" smooth-scroll">Цены</a></li>
+                            <li><a href="/portfolio" class=" smooth-scroll">Портфолио</a></li>
+                            <li><a href="/company" class=" smooth-scroll">Фирма</a></li>
+                            <li><a href="/blog" class=" smooth-scroll">Блог</a></li>
+                            <li><a href="/contact-us" class=" smooth-scroll">Контакты</a></li>
+                        </ul>
+                    </div><!-- /End Navbar Collapse -->
+
+                </div><!-- /End Container -->
+            </nav><!-- /End Nav -->
+        </header>
+
+
+
+        ﻿<section class="p-y-lg bg-edit" id="features2-1" style="background-color:rgba(0,0,0,0)">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="section-header text-center wow fadeIn animated animated animated" style="visibility:visible">
+                    <h1 class="h2">Создание сайтов в Бресте и за его пределами</h1>
+                    <p class="lead">Мы предлагаем своим клиентам команду квалифицированных специалистов из Беларуси, которые обеспечивают самые высокие стандарты качества и приемлемую стоимость разработки. Заказать сайт у нас - это возможность получить имиджевый ресурс с продуманным функционалом и удобной структурой.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row text-center features-block c3">
+           <div class="col-sm-4 wow zoomIn        animated animated animated animated animated" style="visibility: visible; animation-name: zoomIn;">
+                        <a title="Odoo программирование и поддержка (CRM &amp; ERP)" href="/odoo-developement"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайтов и erp система" src="images/uploads/1458145087_odoo_logo_rgb_black.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Odoo программирование и поддержка (CRM &amp; ERP)</h4></a>
+                        <p>Мы являемся официальными партнерами Odoo, и работаем в системе Odoo последние 3 года, наша команда высококвалифицированных разработчиков Odoo может настроить и создать нужные модули, способные удовлетворить любые потребности Вашего бизнеса.</p>
+                    </div>
+            <div class="col-sm-4 wow zoomIn">
+               <a title="Создание сайтов, PHP программирование" href="/php-development"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="Создание сайтов в бресте" src="images/uploads/1458153873_php.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание сайтов, PHP программирование</h4></a>
+                        <p>Наши PHP-программисты могут помочь Вашему бизнесу и справятся с созданием, доработкой любых веб-проектов, включая: WordPress, Shopify, Magento, Drupal, Joomla, OpenCart и многое другое.У нас можно заказать сайт любой сложности.</p>
+                    </div>
+            <div class="col-sm-4 wow zoomIn">
+                <a title="Web-дизайн &amp; Графический дизайн" href="/web-and-graphic-design"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать сайт брест" src="images/uploads/1458153813_BT_responsive.svg">
+                        <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Web-дизайн &amp; Графический дизайн</h4></a>
+                        <p>Наши эксперты по Веб-графике могут помочь Вашему бизнесу и реализовать практически любой дизайн-проект, в том числе: логотип, дизайн сайта, Flash, лэндинг страницы и многое другое.</p>
+                    </div>
+        </div>
+        <div class="row text-center features-block c3 new-row-md">
+            <div class="col-sm-4 wow zoomIn">
+                <a title="JavaScript программирование" href="/js-development"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать сайт" src="images/uploads/1482861333_js.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">JavaScript программирование</h4></a>
+                        <p>Наши JavaScript разработчики могут помочь вашему бизнесу справиться с любым веб-проектом, как со стороны сервера на Node.js, Meteor или MeteorJS, PhantomJS; так и со стороны клиента: React.js, Angular2 (также, AngularJS), JQuery. Мы умеем создавать сайты высокого уровня.</p>
+                    </div>
+            <div class="col-sm-4 wow zoomIn">
+                <a title="Создание сайтов, .NET программирование" href="/net-development"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта юникодинг" src="images/uploads/Microsoft_.NET_Logo_black.svg">
+                        <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание сайтов, .NET программирование</h4></a>
+                        <p>Наши .NET эксперты могут помочь Вашему бизнесу и справятся с любыми веб-проектами, включая: SQL, Javascript, ADO.NET, C# and ASP.NET. При создании сайтов в Бресте и за его пределами, наша команда полностью погружается в ваш проект. Мы оправдываем ожидания клиентов!</p>
+                    </div>
+            <div class="col-sm-4 wow zoomIn">
+                 <a title="Адаптивная верстка и мобильная версия" href="/mobile-development"><img style="height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать сайт в юникодинге" src="images/uploads/1458154179_device-mobile.svg">
+                        <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Адаптивная верстка и мобильная версия</h4></a>
+                        <p>Наши опытные верстальщики готовы адаптировать ваш сайт под всевозможные разрешения экранов. При необходимости создаем можем создать мобильную версию сайта, что сегодня открывает большие перспективы перед интернет проектом.</p>
+                    </div>
+        </div>
+        <div class="row text-center features-block c3 new-row-md">
+            <div class="col-sm-4 wow zoomIn">
+                 <a title="Оптимизация и продвижение сайтов" href="/seo-prodvizhenie-saitov"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать разработку сайта" src="images/seosvg.svg">
+                             <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Оптимизация и продвижение сайтов</h4></a>
+                         <p>Оптимизация и seo-продвижение сайтов мы производим заказчикам, которые уже являются нашими клиентами. Чтобы заказать seo, вам необходимо создать сайт у нас. Мы можем гарантировать результаты только своих разработок!</p>
+                     </div>
+            <div class="col-sm-4 wow zoomIn">
+               <a title="Автоматизация веб-задач, Парсинг" href="/parsing"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта заказать брест" src="images/uploads/1464273919_Double_Loop.svg">
+                        <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Автоматизация веб-задач, Парсинг</h4></a>
+                        <p>Наши специалисты по парсингу помогут вашему бизнесу получить email, товары, услуги с любых веб источников,
+мы можем автоматизировать в течение нескольких минут любую работу в браузере, которую вы делали вручную и т.д.</p>
+                    </div>
+            <div class="col-sm-4 wow zoomIn">
+                 <a title="Python программирование" href="/python"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать создание сайта" src="images/uploads/python.svg">
+                             <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Python <br>программирование</h4></a>
+                         <p>Наши специалисты помогут решить любые вопросы с самописными Python-проектами, в том числе с cms Django и отдельными модулями. Заказать сайт и любой интернет-ресурс можно в Бресте, Беларуси и других странах.</p>
+                     </div>
+        </div>
+    </div>
+</section>
+<section class="p-y-lg bg-edit" id="features2-1" style="background-color:#eee">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="section-header text-center wow fadeIn animated animated animated" style="visibility:visible">
+                 <h2>Наши услуги</h2>
+                            <p class="lead">Создаем сайты с нуля для различных целей бизнеса, а также дорабатываем уже существующие сайты под меняющиеся задачи и ориентиры.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row text-center features-block c3">
+                    <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание интернет-магазина" href="/store-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта интернет-магазина" src="images/uploads/store-service.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание интернет-магазина</h4></a>
+                        <p>Используем как готовые cms, так и собственную разработку</p>
+                    </div>
+                    <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание корпоративного сайта" href="/corporate-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта корпоративного" src="images/uploads/corporate-service.png">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание корпоративного сайта</h4></a>
+                        <p>Разработаем сайт для удобства работы с клиентами, партнерами</p>
+                    </div>
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание сайта-визитки" href="/business-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта визитки брест" src="images/uploads/business-service.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание сайта-визитки</h4></a>
+                        <p>Спроектируем классный имиджевый информационный сайт.</p>
+                    </div>
+                </div>
+                <div class="row text-center features-block c3 new-row-md">
+                    <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание сайтов на cms" href="/migrate-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать сайт на cms" src="images/uploads/migrate-service1.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание сайтов на cms</h4></a>
+                        <p>Разрабатываем и переносим сайты на любые cms. Ограничений в выборе нет.</p>
+                    </div>
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание сайта каталога" href="/catalog-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать сайт брест цены" src="images/uploads/catalog-service.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание сайта каталога</h4></a>
+                        <p>Создадим сайт с самой полной информацией о ваших товарах и услугах</p>
+                    </div>
+                    <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Внесение доработок на сайт" href="/modify-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта в бресте с нуля" src="images/uploads/modify-service.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Внесение доработок на сайт</h4></a>
+                        <p>Внесем изменения любой сложности, напишем, если потребуется собственные модули.</p>
+                    </div>
+
+                </div>
+                <div class="row text-center features-block c3 new-row-md">
+                    <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание сложного уникального сайта" href="/difficult-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создать сложный сайт" src="images/uploads/difficult-site-service.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание сложного уникального сайта</h4></a>
+                        <p>Разработаем простой и понятный сайт специально под ваши цели и задачи.</p>
+                    </div>
+                     <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Создание уникальной landing page" href="/landing-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="заказать лендинг" src="images/uploads/landing-service.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Создание уникальной landing page</h4></a>
+                        <p>Создадим landing с высокой конверсией. Заказать сайт лендинг - увеличить продажи!</p>
+                    </div>
+
+                    <!-- Feature Item -->
+                    <div class="col-sm-4 wow zoomIn         animated animated animated animated animated" style="visibility: visible;">
+                        <a title="Поддержка и администрирование сайта" href="/support-service"><img style="width: 128px; height: 128px; border-radius: 0px; border: 1px none rgb(105, 105, 110);" alt="создание сайта на cms" src="images/uploads/support-img2.svg">
+                            <h4 style="font-size: 23px; font-weight: 900; text-decoration: underline; background-color: rgba(0, 0, 0, 0);">Поддержка и администрирование сайта</h4></a>
+                        <p>Поддерживаем сайты на любымх CMS качественно и с гарантией результата</p>
+                    </div>
+                </div>
+    </div>
+</section>
+ <section id="hero1-1" class="hero bg-video video-play">
+            <div class="overlay"></div>            
+            
+            <div class="container vertical-center-rel">
+                <div class="row">
+                    <div class="col-md-7">
+                        <h3 class="h2" style="color:#ffffff">Хотите создать сайт и получить прибыль?</h3><br>
+                        <p class="lead text-white m-b-md ">Закажите создание узкоспециализрованного Landing Page для продвижения позиций основого сайта<br><br>
+                        Эффективный метод</p>
+                        <a href="http://landingpage.unicoding.by" rel="nofollow" class="btn btn-shadow btn-red text-uppercase btn-md smooth-scroll" style="border-radius: 4px; font-size: 16px; box-shadow: rgb(255, 0, 0) 0px 4px 0px 0px; border: 2.4px solid rgb(255, 0, 0); background-color: rgb(255, 0, 0);">Узнать больше<i class="fa fa-arrow-right m-l"></i></a>
+
+                    </div>
+        </div>
+    </div>
+</section>
+<section id="portfolio1-1" class="p-y-lg bg-edit" style="outline-offset:-3px;background-color:rgba(0,0,0,0)">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="section-header text-center wow fadeIn animated" style="visibility:hidden;animation-name:none">
+                    <h2>КЛИЕНТЫ</h2>
+                            <p class="lead">Они довольны нашей работой</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated" style="display: inline-block; visibility: visible; animation-name: zoomIn;">
+                            
+                            <figure><img src="images/logo_black_favorite.svg" class="img-responsive" alt="создание сайта для компании" style="border-radius: 0px; border: 1px none rgb(105, 105, 110); height: 100px; width: 263px;">
+                                
+                            </figure>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated" data-wow-delay="0.2s" style="display: inline-block; visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                            
+                            <figure><img src="images/uploads/targowy.svg" class="img-responsive" alt="они уже заказали сайт" style="height: 100px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 263px;">
+                                
+                            </figure>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated" data-wow-delay="0.4s" style="display: inline-block; visibility: visible; animation-delay: 0.4s; animation-name: zoomIn;">
+                            
+                            <figure><img src="images/uploads/empyrean.svg" class="img-responsive" alt="мы создали им сайт" style="border-radius: 0px; border: 1px none rgb(105, 105, 110); height: 100px; width: 263px;">
+                                
+                            </figure>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated" data-wow-delay="0.6s" style="display: inline-block; visibility: visible; animation-delay: 0.6s; animation-name: zoomIn;">
+                            
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/tayer.png" class="img-responsive" alt="быстрое создание сайтов" style="border-radius: 0px; border: 1px none rgb(105, 105, 110); height: 60px; width: 262px;">
+                               
+                            </figure>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="0.8s" style="display: inline-block; visibility: visible; animation-delay: 0.8s; animation-name: zoomIn;">
+                            
+                            <figure><img src="images/uploads/vesnaletto.svg" class="img-responsive" alt="заказ качественного сайта" style="border-radius: 0px; border: 1px none rgb(105, 105, 110); height: 100px; width: 263px;">
+                                
+                            </figure>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+                            
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/nashamoda.png" class="img-responsive" alt="создан сайт премиум" style="height: 42px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 262px;">
+                                
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/belpodium.png" class="img-responsive" alt="брестская студия создание сайтов" style="height: 70px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 262px;">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/annamajewska.svg" class="img-responsive" alt="заказчик юникодинг" style="height: 90px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 262px;">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/lushe.png" class="img-responsive" alt="разработка сайта в бресте" style="height: 67px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 262px;">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/solei.png" class="img-responsive" alt="заказали разработку сайта" style="width: 193px; height: 44px; border-radius: 0px; border: 1px none rgb(105, 105, 110);">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/bazalini.png" class="img-responsive" alt="создание хорошего сайта брест" style="width: 206px; height: 65px; border-radius: 0px; border: 1px none rgb(105, 105, 110);">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/joboffer.svg" class="img-responsive" alt="заказать достойный сайт брест" style="height: 80px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 262px;">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/anabel.png" class="img-responsive" alt="качественное создание сайтов" style="width: 224px; height: 80px; border-radius: 0px; border: 1px none rgb(105, 105, 110);">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/classicdampf.png" class="img-responsive" alt="клиенты по созданию веб-сайта брест" style="width: 103px; height: 100px; border-radius: 0px; border: 1px none rgb(105, 105, 110);">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/tekstilno.svg" class="img-responsive" alt="заказать простой сайт" style="height: 80px; border-radius: 0px; border: 1px none rgb(105, 105, 110); width: 262px;">
+
+                            </figure>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-6 m-b-md clearfix text-center">
+                        <div class="h caption-1 wow zoomIn          animated animated animated animated animated animated" data-wow-delay="1s" style="display: inline-block; visibility: visible; animation-delay: 1s; animation-name: zoomIn;">
+
+                            <figure style="height: 100px;display: table-cell;vertical-align: middle;"><img src="images/uploads/furniopt.png" class="img-responsive" alt="создать сайт цены брест" style="width: 195px; height: 100px; border-radius: 0px; border: 1px none rgb(105, 105, 110);">
+
+                            </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="social3-2" class="p-y-lg insta-col bg-edit bg-dark" style="background-color:#bfbfbf">
+    <div class="container">
+        <div class="row y-middle c2">
+            <div class="col-md-6 col-md-push-6 text-center text-white">
+                <div class="instagram-title">
+                    <h3 class="f-w-900"><i class="fa fa-instagram"></i> unicoding</h3>
+                    <h5 class="m-t-md f-w-900">Мы делаем сложные вещи простыми</h5>
+                    <p>Следи за нами <a href="https://www.instagram.com/unicoding" class="f-w-900 inverse">@unicoding</a> на instagram.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-md-pull-6">
+                <!-- SnapWidget -->
+				<script src="https://snapwidget.com/js/snapwidget.js"></script>
+				<iframe src="https://snapwidget.com/embed/552432" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="p-y-lg bg-edit socials insta-col">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 section-header text-center wow fadeIn    animated animated animated" style="visibility: visible; animation-name: fadeIn;">
+                <h2>Мы на You<span class="custom-decorate">Tube</span></h2>
+            </div>
+        </div>
+        <div class="row y-middle c2">
+            <div class="col-md-6 col-xs-12 text-center">
+                <div class="socials-title">
+                    <h2 class="f-w-900"><i class="fa fa-youtube"></i> unicoding</h2>
+                    <h5 class="m-t-md f-w-900">Мы делаем сложные вещи простыми</h5>
+                    <p>Follow <a href="https://www.youtube.com/channel/UCDnhBuI-bjnHs1UsU9If0PA" class="f-w-900">@unicoding</a> on youtube.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xs-12">
+                <div class="youtube-widget">
+                    <div class="youtube-widget-item">
+                        <a href="https://www.youtube.com/watch?v=I4R-wOTGjxU" target="_blank" class="youtube-widget-item-link" title="Instagram LifeHack Automatic Click 'Like' SAFE">
+                            <span class="youtube-widget-item-thumbnail">
+                                <img src="images/uploads/youtube-video-instagram-lifeHack.jpg" alt="Instagram LifeHack Automatic Click 'Like' SAFE">
+                            </span>
+                            <span class="youtube-widget-item-duration">02:09</span>
+                            <span class="youtube-widget-item-play"></span>
+                        </a>
+                    </div>
+                    <div class="youtube-widget-item">
+                        <a href="https://www.youtube.com/watch?v=5cIN8qoNyXg" target="_blank" class="youtube-widget-item-link" title="Odoo 12 Замутить бизнес Урок 1 Настройка, Контакты, Банк, Банковские счета, Мультивалюты, Сотрудники">
+                            <span class="youtube-widget-item-thumbnail">
+                                <img src="images/uploads/youtube-video-odoo12-business.jpg" alt="Odoo 12 Замутить бизнес Урок 1 Настройка, Контакты, Банк, Банковские счета, Мультивалюты, Сотрудники">
+                            </span>
+                            <span class="youtube-widget-item-duration">24:52</span>
+                            <span class="youtube-widget-item-play"></span>
+                        </a>
+                    </div>
+                    <div class="youtube-widget-item">
+                        <a href="https://www.youtube.com/watch?v=wo780hXn3sA" target="_blank" class="youtube-widget-item-link" title="Odoo 12 замутить бизнес">
+                            <span class="youtube-widget-item-thumbnail">
+                                <img src="images/uploads/youtube-video-odoo12.jpg" alt="Odoo 12 замутить бизнес">
+                            </span>
+                            <span class="youtube-widget-item-duration">03:22</span>
+                            <span class="youtube-widget-item-play"></span>
+                        </a>
+                    </div>
+                    <div class="youtube-widget-item">
+                        <a href="https://www.youtube.com/watch?v=tn6KWMpdY6w" target="_blank" class="youtube-widget-item-link" title="Купить в Польше БЕЗ ВИЗЫ легко">
+                            <span class="youtube-widget-item-thumbnail">
+                                <img src="images/uploads/youtube-video-buy-in-Poland.jpg" alt="Купить в Польше БЕЗ ВИЗЫ легко">
+                            </span>
+                            <span class="youtube-widget-item-duration">15:50</span>
+                            <span class="youtube-widget-item-play"></span>
+                        </a>
+                    </div>
+                    <div class="youtube-widget-item">
+                        <a href="https://www.youtube.com/watch?v=3I1SDzIhNWY" target="_blank" class="youtube-widget-item-link" title="ШОК!!! НАЙТИ человека ВКОНТАКТЕ по ЛИЦУ">
+                            <span class="youtube-widget-item-thumbnail">
+                                <img src="images/uploads/youtube-video-find-person.jpg" alt="ШОК!!! НАЙТИ человека ВКОНТАКТЕ по ЛИЦУ">
+                            </span>
+                            <span class="youtube-widget-item-duration">01:58</span>
+                            <span class="youtube-widget-item-play"></span>
+                        </a>
+                    </div>
+                    <div class="youtube-widget-item">
+                        <a href="https://www.youtube.com/watch?v=wRaxAnX9RkM" target="_blank" class="youtube-widget-item-link" title="Web Design Studio Unicoding  (Created with @Magisto)">
+                            <span class="youtube-widget-item-thumbnail">
+                                <img src="images/uploads/youtube-video-unicoding-studio.jpg" alt="Web Design Studio Unicoding  (Created with @Magisto)">
+                            </span>
+                            <span class="youtube-widget-item-duration">00:44</span>
+                            <span class="youtube-widget-item-play"></span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+        <!-- =========================
+            CTA SECTION
+        ============================== -->
+        <section id="cta2" class="p-y cta bg-edit bg-blue" style="outline-offset: -3px;  background-color: rgb(224, 85, 85);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1 text-center single-line">
+                        <p class="lead text-white m-r-md" style="font-weight: 200;">Есть вопросы? Давайте, мы перезвоним Вам в течение 40 секунд!</p>
+                        <a href="#callbackhunter" class="btn btn-ghost btn-md" style="font-weight: 200;">ЗАКАЗАТЬ ЗВОНОК<i class="icon-call m-l"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+
+
+
+
+        <!-- =========================
+           SOCIAL WIDGET
+        ============================== -->
+
+
+
+        <!-- =========================
+           SOCIAL WIDGET
+        ============================== -->
+
+
+
+        <!-- =========================
+           SOCIAL WIDGET
+        ============================== -->
+
+
+
+
+        <!-- =========================
+           SOCIAL WIDGET
+        ============================== -->
+
+
+        <section id="social1-2" class="p-y-lg bg-edit bg-grey" style="background-color: rgb(239, 241, 244);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1 text-center">
+                        <div class="col-md-4">
+                            <a target="_blank" href="https://twitter.com/intent/tweet?text=Создание сайтов и мобильных приложений в Беларуси-http://unicoding.by/" rel="nofollow" class="share-block twt"><i class="fa fa-twitter"></i>Поделиться в Twitter</a>
+                        </div>
+                        <div class="col-md-4">
+                            <a target="_blank" href="http://www.facebook.com/sharer/sharer.php?u=http://unicoding.by/" rel="nofollow" class="share-block fb"><i class="fa fa-facebook"></i>Поделиться в Facebook</a>
+                        </div>
+                        <div class="col-md-4">
+                            <a target="_blank" href="https://plus.google.com/share?url=http://unicoding.by/" rel="nofollow" class="share-block gp"><i class="fa fa-google-plus"></i>Поделиться в Google+</a>
+                        </div>
+                    </div>
+                </div><!-- /End Row -->
+            </div><!-- /End Container -->
+
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- =========================
+             FOOTER
+        ============================== -->
+
+
+
+        <!-- =========================
+             FOOTER
+        ============================== -->
+
+	   <!-- microdata -->
+<div style="display:none;" itemscope itemtype="https://schema.org/Organization">
+<span itemprop="name">Создание сайтов в Бресте, заказать сайт или интернет-магазин| Брест Веб-студия Юникодинг</span>
+<link itemprop="url" href="https://unicoding.by"/>
+  <meta itemprop="logo" content="images/uploads/unicoding-supernew-2.svg">
+  <meta itemprop="description" content="Юникодинг: создание сайтов, интернет-магазинов, lending page, каталогов в Бресте и за его пределами. Заказать сайт на cms, php, python, JavaScript. Разработка ПО, ERP системы Odoo">
+  <span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+    <meta itemprop="addressCountry" content="Беларусь">
+    <meta itemprop="addressRegion" content="Брестская область">
+    <span itemprop="addressLocality">г. Брест</span>
+    <span itemprop="streetAddress">ул. Воровского, 31</span>
+  </span>
+  <span itemprop="telephone">+375(29)793-67-92</span>
+  <span  itemprop="location" itemscope itemtype="https://schema.org/Place">
+    <meta itemprop="name" content="Создание сайтов в Бресте, заказать сайт или интернет-магазинов| Брест Веб-студия Юникодинг">
+    <meta itemprop="telephone" content="+375(29)793-67-92">
+    <span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+      <meta itemprop="addressCountry" content="Беларусь">
+      <meta itemprop="addressRegion" content="Брестская область">
+      <meta itemprop="addressLocality" content="г. Брест">
+      <meta itemprop="streetAddress" content="ул. Воровского, 31">
+    </span>
+  </span>
+</div>
+<!-- /microdata -->
+
+
+
+
+
+    </div><!-- /End Main Container -->
+
+    <!-- Back to Top Button -->
+
+    <a href="#" class="top">Наверх</a>
+
+
+
+	<!-- CALL BACK -->
+    <script type="text/javascript" src="//cdn.callbackhunter.com/cbh.js?hunter_code=c03f23db0a03174476e6cc1e527ff290" charset="UTF-8"></script>
+
+    <!-- =========================
+         SCRIPTS
+    ============================== -->
+    <script id="twitter-wjs" src="js/plugins/widgets.js"></script><script src="js/plugins/jquery1.11.2.min.js"></script>
+    <script src="js/plugins/bootstrap.min.js"></script>
+    <script src="js/plugins/jquery.easing.1.3.min.js"></script>
+    <script src="js/plugins/jquery.countTo.js"></script>
+    <script src="js/plugins/jquery.formchimp.min.js"></script>
+    <script src="js/plugins/jquery.jCounter-0.1.4.js"></script>
+    <script src="js/plugins/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins/jquery.vide.min.js"></script>
+    <script src="js/plugins/owl.carousel.min.js"></script>
+
+    <script src="js/plugins/twitterFetcher_min.js"></script>
+    <script src="js/plugins/wow.min.js"></script>
+    <script src="js/plugins/picker.js"></script>
+    <script src="js/plugins/picker.date.js"></script>
+    <!-- Custom Script -->
+    <script src="js/custom.js"></script>
+
+
+
+<iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;"></iframe>
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(27087365, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/27087365" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+ <footer id="footer6-1" class="footer f6 p-y-md bg-edit bg-grey">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Logo and Text -->
+                    <div class="col-md-3">
+                        <img src="images/uploads/UN-gray.svg" alt="Юникодинг брест" style="width: 200px; height: 200px;"/>
+                    </div>
+                    <!-- Footer Links -->
+                    <div class="col-md-3">
+                        <h5><strong>Юникодинг</strong></h5>
+                        <ul class="footer-links m-t">
+                            <li class="m-b"><a href="https://unicoding.by" class="edit">Услуги</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/contact-us" class="edit">Контакты</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/portfolio" class="edit">Портфолио</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/public-agreement" class="edit">Публичный договор</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/minsk" class="edit">Услуги в Минске</a></li>
+                        </ul>
+                    </div>
+                    <!-- Footer Links -->
+                    <div class="col-md-3">
+                        <h5><strong>Создание сайтов</strong></h5>
+                        <ul class="footer-links m-t">
+                            <li class="m-b"><a href="https://unicoding.by/store-service" class="edit">Интернет-магазин</a></li>
+                            <li class="m-b"><a href="http://landingpage.unicoding.by/" rel="nofollow" class="edit">Лендинг Пейдж</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/catalog-service" class="edit">Каталог товаров</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/business-service" class="edit">Сайт-визитка</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/corporate-service" class="edit">Корпоративный</a></li>
+                        </ul>
+                    </div>
+                    <!-- Footer Links -->
+                    <div class="col-md-3">
+                        <h5><strong>Программирование</strong></h5>
+                        <ul class="footer-links m-t">
+                            <li class="m-b"><a href="https://unicoding.by/php-development" class="edit">Разработка на PHP</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/odoo-developement" class="edit">Разработка ERP Odoo</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/python" class="edit">Разработка Python</a></li>
+                            <li class="m-b"><a href="https://unicoding.by/js-development" class="edit">Разработка на JS</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-12 text-center">
+                        <p class="m-t" style="margin-top: 23px;">Copyright © LLC Unicoding - 2021. Все права защищены</p><p>
+                            ИП Гречанюк В.С. УНП 291001153<br/>
+                            Адрес: 224000, Беларусь, Брест, ул. Воровского 31<br/>
+                            Свидетельство №291001153 от 01.09.2010 Администрацией Московского р-на г.Брест<br/>
+                            Торговый реестр РБ с номером 501749
+                        </p>
+                        <div class="footer-social social-btn m-t-md inverse">
+                           <a href="https://unicoding.business.site" rel="nofollow" class="sb-google-plus"><i class="fa fa-google-plus" alt="юникодинг гугл"></i></a>
+                            <a href="https://www.instagram.com/unicoding" rel="nofollow" class="sb-instagram"><i class="fa fa-instagram" alt="юникодинг инстаграмм"></i></a>
+                            <a href="https://twitter.com/unicodingby" rel="nofollow" class="sb-twitter"><i class="fa fa-twitter" alt="юникодинг твиттер"></i></a>
+                            <a href="https://www.pinterest.com/unicoding" rel="nofollow" class="sb-pinterest"><i class="fa fa-pinterest" alt="юникодинг пинтерест"></i></a>
+                        </div>
+						<div class="footer-payment m-t-md"><img src="images/logos-payment.png" class="img-responsive"></div>
+                    </div>
+                </div><!--end of row-->
+            </div><!--end of container-->
+        </footer>
+
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<!--<script type='text/javascript'>
+(function(){ var widget_id = 'IPM6J5WYfG';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>-->
+<!-- {/literal} END JIVOSITE CODE -->
+
+<script>
+    document.addEventListener('click', function(e) {
+        var map = document.querySelector('#map-wrap iframe');
+        if ($("#map-wrap").length > 0) {
+            if(e.target.id === 'map-wrap') {
+                map.style.pointerEvents = 'all';
+            } else {
+                map.style.pointerEvents = 'none';
+            }
+        }
+    });
+</script>
+
+<script>
+window.replainSettings = { id: 'bfae8f12-fc1b-4ed0-b6e1-fd1b0d4c186a' };
+(function(u){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;
+var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);
+})('https://widget.replain.cc/dist/client.js');
+</script>
+
+
+
+</body></html>

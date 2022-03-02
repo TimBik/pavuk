@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head><!--[if IE 8]><script src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.6.0/ie8.js"></script><![endif]--><link rel="dns-prefetch" href="//use.fontawesome.com"><link rel="dns-prefetch" href="//s.w.org"><link rel="dns-prefetch" href="//top-fwz1.mail.ru"><link rel="dns-prefetch" href="//mc.yandex.ru"><script>!function(e,t){function n(){for(var e,n=t.getElementsByTagName("link"),r=0;r<n.length;r++)"preload"===(e=n[r]).rel&&"style"===e.getAttribute("as")&&(!function(e,n,r){function a(){l.addEventListener&&l.removeEventListener("load",a),l.media=r||"all"}var l=t.createElement("link");l.rel="stylesheet",l.href=e,l.media="only x";l.addEventListener&&l.addEventListener("load",a);(function e(){t.body?n.parentNode.insertBefore(l,n):setTimeout(e)})(),function e(){for(var n=t.styleSheets,r=n.length;r--;)if(n[r].href===l.href)return a();setTimeout(e)}()}(e.href,e,e.media),e.rel=null)}function r(){n(),clearInterval(a)}try{if(t.createElement("link").relList.supports("preload"))return}catch(e){}var a=setInterval(n,300);e.addEventListener&&e.addEventListener("load",r),e.attachEvent&&e.attachEvent("onload",r),n()}(window,document);</script><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//fonts.gstatic.com"><link rel="preconnect" href="//fonts.googleapis.com" crossorigin="anonymous"><link rel="preconnect" href="//fonts.gstatic.com" crossorigin="anonymous"><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap"><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<script async src="//www.googletagmanager.com/gtag/js?id=AW-707771147"></script>
+	<script charset="UTF-8" src="//web.webpushs.com/js/push/955c693f00507b5ddb5324ab6d3f0285_1.js" async></script>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<script type="text/javascript" id="nelio-ab-testing-kickoff">/*nelio-ab-testing-kickoff*//* <![CDATA[ */( function() { var ua = window.navigator.userAgent || ''; if ( -1 !== ua.indexOf( 'MSIE ' ) || -1 !== ua.indexOf( 'Trident/' ) ) { window.nabAddSingleAction = function() {}; window.nabDoSingleAction = function() {}; return; } function hideContent() { var element = document.getElementById( 'nab-alternative-loader-style' ); if ( ! element ) { return; } var style = 'html::before, body::before { background:#fff; content:""; width:100vw; height:100vh; position:fixed; z-index:999999999; }'; if ( element.styleSheet ) { element.styleSheet.cssText = style; } else { element.innerHTML = ''; element.appendChild( document.createTextNode( style ) ); } } hideContent(); var queues = {}; var triggeredEvents = []; window.nabAddSingleAction = function( event, fn ) { try { if ( triggeredEvents.includes( event ) ) { fn(); return; } var queue = queues[ event ] || []; queue.push( fn ); queues[ event ] = queue; } catch ( e ) {} }; window.nabDoSingleAction = function( event ) { if ( triggeredEvents.includes( event ) ) { return; } triggeredEvents.push( event ); var queue = queues[ event ] || []; queue.reverse(); while ( queue.length ) { var fn = queue.pop(); fn(); } }; window.nabAddSingleAction( 'valid-content', function() { var element = document.getElementById( 'nab-alternative-loader-style' ); if ( element && element.parentNode ) { element.parentNode.removeChild( element ); } try { var event = document.createEvent( 'HTMLEvents' ); event.initEvent( 'resize', true, false ); document.dispatchEvent( event ); } catch ( e ) {} } ); window.addEventListener( 'load', function() { setTimeout( function() { window.nabDoSingleAction( 'valid-content' ); }, 2500 ); } ); } )(); /* ]]> */</script>
+<script type="text/javascript" src="wp-content/plugins/nelio-ab-testing/assets/dist/js/alternative-loader.js?version=d668178bf2dc3630db1a7103aa1524cc" id="nelio-ab-testing-alternative-loader-js"></script>
+<script type="text/javascript" id="nelio-ab-testing-alternative-loader-js-after">/*nelio-ab-testing-alternative-loader*//* <![CDATA[ */window.nabAddSingleAction( "alt-loader-init-available", function() { nabloader.init( {"gdprCookie":false,"hideQueryArgs":false,"ignoreTrailingSlash":true,"whenIsGeoDataRequired":"never","isStagingSite":false,"maxCombinations":24,"numOfAlternatives":0,"participationChance":100,"referrerParam":"utm_referrer","site":"2d9835a7-ed61-4e45-9843-736f8ff9d25a","experiments":[],"isTestedPostRequest":false} ); } );/* ]]> */</script>
+
+	
+	<style>html{font-size:62.5%;overflow-y:scroll;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body{border:0;font-style:inherit;outline:0;padding:0;vertical-align:baseline;word-break:break-word}a,div,form,label,li,span{font-size:100%;font-weight:inherit;margin:0}a,div,form,h1,h2,h3,html,label,li,p,span,strong,ul{border:0;font-family:inherit;font-style:inherit;outline:0;padding:0;vertical-align:baseline;word-break:break-word}body,h1,h2,h3,html{margin:0}p,strong,ul{font-size:100%}html,p,ul{font-weight:inherit}strong{margin:0}*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}body,input{color:#333;line-height:1.5;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body{background:#fff;font-size:14px}article,figure,header,main,nav{display:block}a img{border:0;padding:10px}input{font-family:Montserrat,sans-serif;font-weight:400}h1,h2,h3,strong{font-weight:700}i{font-style:italic}h1,h2,h3{font-size:36px}h2,h3{font-size:30px}h3{font-size:25px}ul{margin:0 0 15px 20px;list-style:disc}li>ul{margin-bottom:0;margin-left:15px}img{height:auto;max-width:100%}#pl-8160 #panel-8160-0-0-0,.logo .logo-text p,figure,input{margin:0}p{margin:0 0 30px}img,input{vertical-align:middle}input{font-size:100%}input[type=search],input[type=submit]{-webkit-appearance:none;border-radius:0;-webkit-border-radius:0}input[type=submit]{background:#333;color:#fff;font-size:14px;line-height:13px;border:0;padding:10px 15px;font-weight:400;display:inline-block;position:relative;text-shadow:none}input[type=search]{color:#666;border:1px solid #ccc;height:36px;width:100%;padding:3px 6px}a{color:#000;text-decoration:none}.entry-content:after,.entry-content:before,.site-content:after,.site-content:before,.site-header:after,.site-header:before,.tg-container:after,.tg-container:before{content:"";display:table}.entry-content:after,.site-content:after,.site-header:after,.tg-container:after{clear:both}.site-header *{color:#fff}.full-width{overflow:hidden}.tg-column-wrapper{clear:both;margin-left:-3%}.tg-container{max-width:1200px;margin:0 auto}.overlay{background-color:rgba(0,0,0,.5);position:absolute;top:0;left:0;width:100%;height:100%}#primary{float:left;width:65.5%}#scroll-up{border-radius:3px;bottom:20px;color:#fff;display:none;padding:10px 16px;position:fixed;opacity:.5;z-index:9999}.site{background-color:#fff}.full-width #primary{float:none;width:100%}.header-top{background-color:#004480}.header-top .contact-info{line-height:30px;float:left}.header-top .tg-column-wrapper{margin-left:0;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.header-top .left-content,.header-top .right-content{-webkit-box-flex:1;-ms-flex:1;flex:1}#site-navigation,.header-top .right-content ul{float:right}.header-top .contact-info{list-style:none;margin:0}.header-top .social-menu{list-style:none}.header-top .contact-info li{float:left;font-size:12px;color:#384554;margin-right:30px;padding:5px 0}.header-top .contact-info li:last-child{margin-right:0}.header-top .social-menu{line-height:30px;margin:0}.header-top .social-menu li{float:right;margin-left:10px;font-size:12px;padding:5px 0}.social-menu{list-style:none}.social-menu li a{background-color:#fff;border-radius:100%;font-size:12px;font-family:fontawesome;text-align:center;display:block;line-height:30px;height:30px;width:30px;color:#99a3b0}.social-menu li a[href*="facebook.com"]:before{content:"\f39e"}.social-menu li a[href*="ok.ru"]:before{content:"\f263"}.social-menu li a[href*="vk.com"]:before{content:"\f189"}.social-menu li a[href*="instagram.com"]:before{content:"\f16d"}.logo{float:left;padding:0}.logo .logo-text{float:left;margin-left:12px;padding:11px 0}.logo-text .site-title{font-size:22px;font-weight:500;line-height:24px}#site-navigation .menu-toggle{display:none}#site-navigation ul{margin:0;list-style:none}#site-navigation ul li{float:left;padding:23px 30px 23px 0;position:relative}#site-navigation ul li a{font-size:14px}#site-navigation ul li:last-child{padding-right:0}#site-navigation ul.sub-menu{background-color:#fff;min-width:300px;padding:0;position:absolute;-webkit-box-shadow:1px 1px 6px rgba(0,0,0,.2);box-shadow:1px 1px 6px rgba(0,0,0,.2);right:50%;top:90%;-webkit-transform:translateX(50%);transform:translateX(50%);opacity:0;visibility:hidden;z-index:9}#site-navigation ul li ul li{padding:10px;text-align:left;width:100%}#site-navigation .sub-menu li.menu-item-has-children ul{left:50%;opacity:0;visibility:hidden}#site-navigation .sub-menu>li>a{color:#004480}#site-navigation .sub-menu li.menu-item-has-children ul li a{color:#4c5867}.header-bottom{background:#005cab}.header-bottom .tg-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.header-bottom .site-navigation-wrapper{-webkit-box-flex:6;-ms-flex:6;flex:6}.header-bottom .header-action-container{display:-webkit-box;display:-ms-flexbox;display:flex}.header-bottom .search-wrap{float:right;padding:20px 0 20px 40px;position:relative}.header-bottom .search-icon{color:#99a3b0;font-size:14px;height:30px;width:30px;line-height:30px;text-align:center;border:1px solid #9ca6b2;border-radius:100%}.header-bottom .search-box{opacity:0;visibility:hidden;position:absolute;width:300px;top:100%;right:-10px;background-color:#fff;-webkit-box-shadow:1px 1px 6px rgba(0,0,0,.2);box-shadow:1px 1px 6px rgba(0,0,0,.2);padding:20px}.header-bottom .cart-wrap{float:right;padding:20px 0 20px 30px;position:relative}.header-bottom .flash-cart-views{font-size:14px;height:30px;width:30px;line-height:30px;text-align:center;border:1px solid #9ca6b2;border-radius:100%}.header-bottom .flash-cart-views a{color:#99a3b0;position:relative}.header-bottom .flash-cart-views a span{background-color:#30afb8;border-radius:100%;font-size:12px;left:17px;height:20px;width:20px;line-height:20px;text-align:center;position:absolute;top:-10px;color:#fff}.header-bottom .widget_shopping_cart{opacity:0;visibility:hidden;position:absolute;top:100%;right:-10px;min-width:250px;-webkit-box-shadow:1px 1px 6px rgba(0,0,0,.2);box-shadow:1px 1px 6px rgba(0,0,0,.2);background-color:#fff;padding:15px;z-index:99}.tg-slider-widget .swiper-button-next{background-image:unset;right:0;width:50px;height:50px;visibility:hidden;opacity:0}.tg-slider-widget .swiper-button-next:before,.tg-slider-widget .swiper-button-prev:before{content:"\";font-family:fontawesome;font-size:30px;background:#fff;width:50px;height:50px;line-height:50px;text-align:center;display:block}.tg-slider-widget .swiper-button-prev{background-image:unset;left:0;width:50px;height:50px;visibility:hidden;opacity:0}.tg-slider-widget .swiper-button-prev:before{content:"\"}.tg-slider-widget .swiper-wrapper{position:relative}.tg-slider-widget .swiper-slide{width:100%!important}.tg-slider-widget .slider-content{text-align:center;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.tg-slider-widget .caption-title{font-size:48px;font-weight:800;line-height:1.5;text-transform:uppercase}.tg-slider-widget.slider-light .btn-wrapper a,.tg-slider-widget.slider-light .caption-desc,.tg-slider-widget.slider-light .caption-title{text-shadow:1px 1px #fff}.tg-slider-widget .caption-desc{font-size:24px;line-height:35px;margin:10px 0 30px;text-transform:capitalize}.tg-slider-widget .btn-wrapper{display:inline-block}.tg-slider-widget .btn-wrapper a{border:3px solid #313b48;display:inline-block;font-size:20px;padding:7px 26px}.tg-slider-widget.slider-light .slider-image .overlay{background-color:transparent}.slider-image{text-align:center;background-position:center center;background-repeat:no-repeat}.section-title-wrapper{margin-bottom:30px!important}.section-title{font-weight:700;text-align:center;text-transform:uppercase;position:relative;margin:20px 0}.section-title:before{background:#e1e1e1 0 0;bottom:-5px;content:"";height:1px;left:50%;margin-left:-50px;position:absolute;width:100px}.section-title:after{content:"";left:50%;position:absolute;background:#30afb8 0 0;bottom:-6px;height:3px;margin-left:-15px;width:30px}.entry-content{margin-top:12px}.woocommerce ul.products li.product a img{padding:0;width:100%;height:auto;display:block;margin:0 0 1em;box-shadow:none}.woocommerce ul.products li.product .button{color:#fff}.footer-contact *{font-size:14px}.screen-reader-text{-webkit-clip-path:inset(50%);clip-path:inset(50%);overflow-wrap:normal!important}.panel-grid.panel-has-style>.panel-row-style,.panel-grid.panel-no-style{display:flex;-ms-flex-wrap:wrap;flex-wrap:nowrap;-ms-justify-content:space-between;justify-content:space-between}.panel-grid-cell{-ms-box-sizing:border-box;box-sizing:border-box}.panel-grid-cell .so-panel{zoom:1}.panel-grid-cell .so-panel:before{content:"";display:block}.mc4wp-form-theme input:after,.mc4wp-form-theme label:after,.panel-grid-cell .so-panel:after{content:"";display:table;clear:both}.panel-grid-cell .panel-last-child{margin-bottom:0}body.siteorigin-panels-before-js:not(.siteorigin-panels-css-container){overflow-x:hidden}body.siteorigin-panels-before-js:not(.siteorigin-panels-css-container) .siteorigin-panels-stretch{margin-right:-1000px!important;margin-left:-1000px!important;padding-right:1000px!important;padding-left:1000px!important}:root{--woocommerce:#a46497;--wc-green:#7ad03a;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#a46497;--wc-primary-text:#fff;--wc-secondary:#ebe9eb;--wc-secondary-text:#515151;--wc-highlight:#77a464;--wc-highligh-text:#fff;--wc-content-bg:#fff;--wc-subtext:#767676}.woocommerce img{height:auto;max-width:100%}.woocommerce ul.products{margin:0 0 1em;padding:0;list-style:none outside;clear:both}.woocommerce ul.products li.product{float:left;padding:0;position:relative;width:22.05%;margin:0 3.8% 2.992em 0}.screen-reader-text{position:absolute!important;word-wrap:normal!important}.woocommerce ul.products:after,.woocommerce ul.products:before{content:" ";display:table}.woocommerce ul.products li.first,.woocommerce ul.products:after{clear:both}.woocommerce ul.products li{list-style:none outside}.woocommerce ul.products li.product .woocommerce-loop-product__title{padding:.5em 0;margin:0;font-size:1em}.woocommerce ul.products li.product a{text-decoration:none}.woocommerce ul.products li.product .button{margin-top:1em}.woocommerce ul.products li.product .price{color:#77a464;display:block;font-weight:400;margin-bottom:.5em;font-size:.857em}.woocommerce a.button{font-size:100%;margin:0;line-height:1;position:relative;text-decoration:none;overflow:visible;padding:.618em 1em;font-weight:700;border-radius:3px;left:auto;color:#515151;background-color:#ebe9eb;border:0;display:inline-block;background-image:none;box-shadow:none;text-shadow:none}.mc4wp-form-theme input,.mc4wp-form-theme label{width:auto;display:block;box-sizing:border-box;height:auto;vertical-align:baseline;line-height:normal}.mc4wp-form-theme label{font-weight:700;margin-bottom:6px}.fa{font:14px/1 FontAwesome;font-size:inherit}.header-bottom .tg-container{max-width:none;padding:0 30px}.logo{max-width:30%}.product,.wrapper_block{overflow:hidden}.wrapper_block{height:173px;position:relative}.site-content{min-height:70vh}.wrapper_block img{margin:auto!important;position:absolute;top:0;bottom:0;left:0;right:0}.woocommerce-loop-product__title{min-height:46px;text-overflow:ellipsis;display:-webkit-box;padding-bottom:0!important;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.section-title .button{background-color:#005cab;color:#fff;line-height:1;position:relative;text-decoration:none;overflow:visible;padding:10px;font-size:14px;font-weight:700;border-radius:3px;vertical-align:middle;white-space:nowrap;display:inline-block;margin:0 0 0 30px}.product .price{min-height:36px}.wrapper_button{display:block;text-align:center;margin:10px 0}.button.action{background-color:#005cab!important;color:#fff!important}.slider_products ul.products li.product{width:100%!important}.widget_shopping_cart *,.woocommerce-loop-product__title{color:#000}.copy_to_click,.site-main{position:relative}.products .woocommerce-Price-amount.amount{font-size:14px}.tg-slider-widget .btn-wrapper a{opacity:0;width:100%}.tg-slider-widget.slider-light .caption-desc{display:none}.slider-content .tg-container,.tg-slider-widget .btn-wrapper,.tg-slider-widget .slider-content,.tg-slider-widget.slider-light .btn-wrapper a{height:100%;max-width:100%;width:100%}#scroll-up{right:130px}.woocommerce-Price-amount.amount{display:block;color:#005cab}.entry-content a,.tg-slider-widget .btn-wrapper a{color:#005cab}#scroll-up,.header-bottom .cart-wrap .flash-cart-views a span,.section-title:after,.woocommerce ul.products li.product .button{background-color:#005cab}.tg-slider-widget .btn-wrapper a{border-color:#005cab}.entry-content,.section-title,.section-title-wrapper .section-title,.tg-slider-widget .caption-title,.tg-slider-widget .swiper-button-next:before,.tg-slider-widget .swiper-button-prev:before{color:#1e1b1b}.screen-reader-text{top:-10000em;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0}:root{--page-title-display:block}.swiper-container .swiper-slide figure{line-height:0}.swiper-wrapper{-webkit-transform:translateZ(0);transform:translateZ(0)}.swiper-slide{-ms-flex-negative:0}.swiper-button-next,.swiper-button-prev{background:no-repeat 50%}.swiper-pagination{-webkit-transform:translateZ(0);transform:translateZ(0)}.swiper-container{margin:0 auto;position:relative;overflow:hidden;z-index:1}.swiper-slide,.swiper-wrapper{width:100%;height:100%;position:relative}.swiper-wrapper{z-index:1;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-o-transform:translate(0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.swiper-slide{-webkit-flex-shrink:0;-ms-flex:0 0 auto;flex-shrink:0}.swiper-button-next,.swiper-button-prev{position:absolute;top:50%;width:27px;height:44px;margin-top:-22px;z-index:10;-moz-background-size:27px 44px;-webkit-background-size:27px 44px;background-size:27px 44px;background-position:center;background-repeat:no-repeat}.swiper-button-prev{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E");left:10px;right:auto}.swiper-button-next{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2027%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23007aff'%2F%3E%3C%2Fsvg%3E");right:10px;left:auto}.swiper-pagination{position:absolute;text-align:center;-webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0);z-index:10}#pgc-8160-0-0,#pgc-8160-1-0,#pgc-8160-2-0{width:100%;width:calc(100% - (0*30px))}#pg-8160-0,#pg-8160-1,#pg-8160-2,#pl-8160 .so-panel,#pl-8160 .so-panel:last-of-type{margin-bottom:0}#pl-8160 #panel-8160-1-0-0{margin:10px}#pg-8160-0.panel-has-style>.panel-row-style,#pg-8160-1.panel-no-style,#pg-8160-2.panel-no-style{-webkit-align-items:flex-start;align-items:flex-start}#panel-8160-0-0-0>.panel-widget-style{padding:0}body{font-family:Montserrat;font-weight:400}.clearfix:after,.clearfix:before{content:' ';display:table;line-height:0;clear:both}.fa{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1;font-family:"Font Awesome 5 Free";font-weight:900}.fa-bars:before{content:"\f0c9"}.fa-envelope:before{content:"\f0e0"}.fa-opencart:before{content:"\f23d"}.fa-phone:before{content:"\f095"}.fa-search:before{content:"\f002"}.fa-skype:before{content:"\f17e"}.elementor-kit-9308{--e-global-color-primary:#005cab;--e-global-color-secondary:#54595f;--e-global-color-text:#000;--e-global-color-accent:#61ce70;--e-global-color-1ef69a7f:#6ec1e4;--e-global-color-45ca644c:#7a7a7a;--e-global-color-5aa5b2f:#4054b2;--e-global-color-88fbf4a:#23a455;--e-global-color-4c7efb3f:#000;--e-global-color-eab843c:#fff;--e-global-typography-primary-font-family:"Open Sans";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Open Sans";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Open Sans";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Open Sans";--e-global-typography-accent-font-weight:500}.fa.fa-opencart,.fa.fa-skype{font-family:"Font Awesome 5 Brands";font-weight:400}@media screen and (max-width:986px){.logo{max-width:100%}#site-navigation .menu{background:#fff 0 0;display:none;left:0;position:absolute;top:100%;width:100%;z-index:9999;padding:0 20px}}@media screen and (max-width:768px){.slider_desktop{display:none!important}}@media screen and (min-width:768px){.slider_desktop{display:flex;max-height:525px!important}}@media (max-width:480px){.logo{max-width:75%}.logo .site-title{font-size:2em!important;margin-bottom:10px}.header-bottom .tg-container{padding:0}.woocommerce ul.products li.product,.woocommerce[class*=columns-] ul.products li.product{width:100%!important}.tg-slider-widget::before{content:" ";display:block;clear:both}.logo-text{padding:20px 0}.logo .logo-text .site-title{line-height:24px}.tg-slider-widget.slider-content-center .caption-desc{font-size:12px;line-height:16px}.tg-slider-widget.slider-content-center .caption-title{font-size:14px;line-height:18px}.tg-slider-widget .btn-wrapper a{font-size:10px;padding:2px 15px}.logo .site-title{line-height:24px}.site-description{font-size:12px}.logo{padding:20px 0}.slider-arrow,.tg-slider-widget .caption-desc{display:none}.header-top ul.contact-info li{text-align:center;width:100%}.tg-slider-widget .caption-title{margin-bottom:10px}.header-bottom .search-wrap{display:none}.header-bottom .cart-wrap{padding:20px 10px}}@media (max-width:1200px){.tg-container{padding:0 1%;width:98%}}@media (max-width:980px){.cart-wrap,.logo,.search-wrap{z-index:99}.header-bottom{position:relative}#site-navigation{float:right;padding:20px 0}#site-navigation .menu{background:#fff 0 0;display:none;left:0;position:absolute;top:100%;width:100%;z-index:9999;padding:0 20px}#site-navigation .menu-toggle{display:inline-block;font-size:20px}#site-navigation ul li{float:none;margin-right:0;padding:0;position:relative;border-bottom:1px solid rgba(0,0,0,.1)}#site-navigation ul li:last-child{border-bottom:0}#site-navigation ul.sub-menu::before{display:none}#site-navigation ul.sub-menu{background:#fff 0 0;display:none;border-radius:0;min-width:100%;position:static;top:0;-webkit-transform:translate(0);-moz-transform:translate(0);-ms-transform:translate(0);-o-transform:translate(0);transform:translate(0);box-shadow:none;padding-left:20px;border-top:1px solid rgba(0,0,0,.1)}#site-navigation ul>li a{line-height:42px;padding:0 15px}#site-navigation ul.sub-menu li a,#site-navigation ul.sub-menu li ul.sub-menu li a{color:#4c5867;display:block;line-height:42px;padding:0 0 0 20px;text-align:left}#site-navigation ul.sub-menu li{padding:0}#site-navigation ul li ul.sub-menu li.menu-item-has-children ul,#site-navigation ul.sub-menu{left:0;opacity:1;visibility:visible}}@media (max-width:768px){.tg-slider-widget .caption-title{font-size:30px;line-height:1.5}.tg-slider-widget .caption-desc{font-size:16px;line-height:1.5;margin:10px 0}#primary{float:none;width:100%}.header-top{display:none}}@media (max-width:600px){.header-top .tg-container{text-align:center}.header-top .contact-info,.header-top .social-menu{float:none;line-height:24px;display:inline-block}.header-top .tg-column-wrapper{flex-direction:column;text-align:center}}@media (max-width:320px){.tg-slider-widget .caption-desc{display:none}.tg-slider-widget .caption-title{margin-bottom:10px}}@media (max-width:780px){#pg-8160-0,#pg-8160-0.panel-has-style>.panel-row-style,#pg-8160-1,#pg-8160-1.panel-no-style,#pg-8160-2,#pg-8160-2.panel-no-style{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}#pg-8160-0>.panel-row-style>.panel-grid-cell,#pg-8160-1>.panel-grid-cell,#pg-8160-2>.panel-grid-cell{width:100%;margin-right:0}#pg-8160-0,#pg-8160-1,#pg-8160-2{margin-bottom:px}#pl-8160 .panel-grid-cell{padding:0}}@media only screen and (max-width:768px){:root{--woocommerce:#a46497;--wc-green:#7ad03a;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#a46497;--wc-primary-text:#fff;--wc-secondary:#ebe9eb;--wc-secondary-text:#515151;--wc-highlight:#77a464;--wc-highligh-text:#fff;--wc-content-bg:#fff;--wc-subtext:#767676}.woocommerce ul.products[class*=columns-] li.product{width:48%;float:left;clear:both;margin:0 0 2.992em}.woocommerce ul.products[class*=columns-] li.product:nth-child(2n){float:right;clear:none!important}}img.lazy{display:none}</style><link media="all" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_22f1a5d3123ea391e0d1587a153f60d2.css" rel="preload" as="style" onload="this.rel='stylesheet'"><noscript><link media="all" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_22f1a5d3123ea391e0d1587a153f60d2.css" rel="stylesheet"></noscript><link media="only screen and (max-width: 768px)" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_541e2ced151704f4ff1844c6de47ec02.css" rel="preload" as="style" onload="this.rel='stylesheet'"><noscript><link media="only screen and (max-width: 768px)" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_541e2ced151704f4ff1844c6de47ec02.css" rel="stylesheet"></noscript><link media="screen" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_7c10fcaaf0701f36a7b737e3ac4d40ff.css" rel="preload" as="style" onload="this.rel='stylesheet'"><noscript><link media="screen" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_7c10fcaaf0701f36a7b737e3ac4d40ff.css" rel="stylesheet"></noscript><title>Автоматизация торговли на 1С - Первая система</title>
+	<link rel="canonical" href="https://1-sys.ru/">
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Автоматизация торговли на 1С - Первая система" />
+	<meta property="og:description" content="Наша компания специализируется на автоматизации торговли в Астрахани. Сюда относится автоматизация розничного магазина одежды и обуви, автоматизация продуктового магазина и... Читать полностью" />
+	<meta property="og:url" content="https://1-sys.ru/" />
+	<meta property="og:site_name" content="Первая система" />
+	<meta property="article:publisher" content="https://www.facebook.com/1sysru/" />
+	<meta property="article:modified_time" content="2021-07-28T10:46:38+00:00" />
+	<meta property="og:image" content="https://1-sys.ru/wp-content/uploads/2017/11/Telegram_Bot_logo.jpg" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Примерное время для чтения" />
+	<meta name="twitter:data1" content="1 минута" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://1-sys.ru/#organization","name":"Первая система","url":"https://1-sys.ru/","sameAs":["https://www.facebook.com/1sysru/","https://www.instagram.com/1_sys_tm/"],"logo":{"@type":"ImageObject","@id":"https://1-sys.ru/#logo","inLanguage":"ru-RU","url":"https://1-sys.ru/wp-content/uploads/yoaxSR9ZKqw.jpg","contentUrl":"https://1-sys.ru/wp-content/uploads/yoaxSR9ZKqw.jpg","width":200,"height":500,"caption":"Первая система"},"image":{"@id":"https://1-sys.ru/#logo"}},{"@type":"WebSite","@id":"https://1-sys.ru/#website","url":"https://1-sys.ru/","name":"Первая система","description":"Профессиональная автоматизация торговых компаний и магазинов","publisher":{"@id":"https://1-sys.ru/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://1-sys.ru/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"ImageObject","@id":"https://1-sys.ru/#primaryimage","inLanguage":"ru-RU","url":"https://1-sys.ru/wp-content/uploads/2017/11/Telegram_Bot_logo.jpg","contentUrl":"https://1-sys.ru/wp-content/uploads/2017/11/Telegram_Bot_logo.jpg","width":600,"height":600,"caption":"Чат бот телеграмм на 1С"},{"@type":"WebPage","@id":"https://1-sys.ru/#webpage","url":"https://1-sys.ru/","name":"Автоматизация торговли на 1С - Первая система","isPartOf":{"@id":"https://1-sys.ru/#website"},"about":{"@id":"https://1-sys.ru/#organization"},"primaryImageOfPage":{"@id":"https://1-sys.ru/#primaryimage"},"datePublished":"2019-10-28T05:56:03+00:00","dateModified":"2021-07-28T10:46:38+00:00","breadcrumb":{"@id":"https://1-sys.ru/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://1-sys.ru/"]}]},{"@type":"BreadcrumbList","@id":"https://1-sys.ru/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница"}]}]}</script>
+	<meta name="google-site-verification" content="UA-61024749-3" />
+	
+
+
+
+
+<link href="https://fonts.gstatic.com" crossorigin rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="Первая система &raquo; Лента" href="https://1-sys.ru/feed/">
+<link rel="alternate" type="application/rss+xml" title="Первая система &raquo; Лента комментариев" href="https://1-sys.ru/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/1-sys.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='fancybox-ie-css'  href='https://1-sys.ru/wp-content/plugins/easy-fancybox/css/jquery.fancybox-ie.min.css?ver=1.3.24' type='text/css' media='screen' />
+<style id='fancybox-ie-inline-css' type='text/css'>
+/* IE6 */
+.fancybox-ie6 #fancybox-close{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_close.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-left-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_nav_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-right-ico{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_nav_right.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-over{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_title_over.png",sizingMethod="scale");zoom:1}
+.fancybox-ie6 #fancybox-title-float-left{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_title_left.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-main{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_title_main.png",sizingMethod="scale")}
+.fancybox-ie6 #fancybox-title-float-right{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_title_right.png",sizingMethod="scale")}
+#fancybox-loading.fancybox-ie6 div{background:transparent;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_loading.png",sizingMethod="scale")}
+/* IE6, IE7, IE8 */
+.fancybox-ie #fancybox-title-over{background-image:url(https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_title_over.png)}
+.fancybox-ie #fancybox-bg-n{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_n.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-ne{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_ne.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-e{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_e.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-se{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_se.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-s{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_s.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_sw.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_w.png",sizingMethod="scale")}
+.fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="https://1-sys.ru/wp-content/plugins/easy-fancybox/images/fancy_shadow_nw.png",sizingMethod="scale")}
+</style>
+<![endif]-->
+<link rel="preload" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" type="text/css" media="all" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" as="style" onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" type="text/css" media="all" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous"></noscript>
+
+
+
+<link rel="preload" id="elementor-post-9308-css" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_single_2465e96bde1e70ae25fb1402f52fc0be.css?ver=1635717251" type="text/css" media="all" as="style" onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" id="elementor-post-9308-css" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_single_2465e96bde1e70ae25fb1402f52fc0be.css?ver=1635717251" type="text/css" media="all"></noscript>
+<link rel="preload" id="elementor-global-css" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_single_48ec23ef149d128a80d26125e743f713.css?ver=1635717251" type="text/css" media="all" as="style" onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" id="elementor-global-css" href="https://1-sys.ru/wp-content/cache/autoptimize/css/autoptimize_single_48ec23ef149d128a80d26125e743f713.css?ver=1635717251" type="text/css" media="all"></noscript>
+
+
+<link rel="preload" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css" type="text/css" media="all" integrity="sha384-/EdpJd7d6gGFiQ/vhh7iOjiZdf4+6K4al/XrX6FxxZwDSrAdWxAynr4p/EA/vyPQ" crossorigin="anonymous" as="style" onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" id="font-awesome-official-v4shim-css" href="https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css" type="text/css" media="all" integrity="sha384-/EdpJd7d6gGFiQ/vhh7iOjiZdf4+6K4al/XrX6FxxZwDSrAdWxAynr4p/EA/vyPQ" crossorigin="anonymous"></noscript>
+
+
+<script type="text/javascript" src="wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+
+<script type="text/javascript" id="urvanov_syntax_highlighter_js-js-extra">
+/* <![CDATA[ */
+var UrvanovSyntaxHighlighterSyntaxSettings = {"version":"2.8.24","is_admin":"0","ajaxurl":"https:\/\/1-sys.ru\/wp-admin\/admin-ajax.php","prefix":"urvanov-syntax-highlighter-","setting":"urvanov-syntax-highlighter-setting","selected":"urvanov-syntax-highlighter-setting-selected","changed":"urvanov-syntax-highlighter-setting-changed","special":"urvanov-syntax-highlighter-setting-special","orig_value":"data-orig-value","debug":""};
+var UrvanovSyntaxHighlighterSyntaxStrings = {"copy":"Copied to the buffer","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script>
+<script type="text/javascript" src="wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" id="nelio-ab-testing-main-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "nelio-ab-testing", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type="text/javascript" src="wp-content/plugins/nelio-ab-testing/assets/dist/js/main.js?ver=59a1f7a7a1b73f8e560203c0e9ecd5d7" id="nelio-ab-testing-main-js"></script>
+<script type="text/javascript" id="nelio-ab-testing-main-js-after">
+		window.nabAddSingleAction( "main-init-available", function() { nab.init( {"currentPostId":8160,"experiments":[],"heatmapTracking":[],"optimizeXPath":true,"gdprCookie":false,"participationChance":100,"siteId":"2d9835a7-ed61-4e45-9843-736f8ff9d25a","timezone":"+03:00","trackingUrl":"https:\/\/api.nelioabtesting.com\/v1\/site\/2d9835a7-ed61-4e45-9843-736f8ff9d25a\/event"} ); } );
+		window.nabAddSingleAction( "main-ready", function() { nab.view( [] ); } );
+</script>
+<link rel="https://api.w.org/" href="https://1-sys.ru/wp-json/"><link rel="alternate" type="application/json" href="https://1-sys.ru/wp-json/wp/v2/pages/8160"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://1-sys.ru/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://1-sys.ru/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.3" />
+<meta name="generator" content="WooCommerce 5.6.0" />
+<link rel="shortlink" href="https://1-sys.ru/">
+<link rel="alternate" type="application/json+oembed" href="https://1-sys.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2F1-sys.ru%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://1-sys.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2F1-sys.ru%2F&#038;format=xml">
+<script type="text/javascript">var ajaxurl = "https://1-sys.ru/wp-admin/admin-ajax.php";</script>
+	
+	<meta name="description" content="[siteorigin_widget class=&quot;FT_Widget_Slider&quot;][/siteorigin_widget][siteorigin_widget class=&quot;FT_Widget_Heading&quot;][/siteorigin_widget] Наша компания специализируется на автоматизации торговли в Астрахани. Сюда относится автоматизация розничного магазина одежды и обуви, автоматизация продуктового магазина и другой розничной торговли; автоматизация оптовой торговли, автоматизация общепита. Заказать расчет стоимости [siteorigin_widget class=&quot;WP_Widget_Custom_HTML&quot;][/siteorigin_widget] 120 000&nbsp;&#8381; В корзину 11 500&nbsp;&#8381; В корзину 20 000&nbsp;&#8381; В корзину 19 500&nbsp;&#8381; В корзину 11 500&nbsp;&#8381; В&hellip;" />
+	<meta property="og:type" content='article' />
+	<meta property="og:title" content="Автоматизация торговли на 1С - Первая система" />
+	<meta property="og:url" content="https://1-sys.ru/" />
+	<meta property="og:image" content="https://1-sys.ru/wp-content/themes/flash/screenshot.png" />
+	<meta property="og:description" content="[siteorigin_widget class=&quot;FT_Widget_Slider&quot;][/siteorigin_widget][siteorigin_widget class=&quot;FT_Widget_Heading&quot;][/siteorigin_widget] Наша компания специализируется на автоматизации торговли в Астрахани. Сюда относится автоматизация розничного магазина одежды и обуви, автоматизация продуктового магазина и другой розничной торговли; автоматизация оптовой торговли, автоматизация общепита. Заказать расчет стоимости [siteorigin_widget class=&quot;WP_Widget_Custom_HTML&quot;][/siteorigin_widget] 120 000&nbsp;&#8381; В корзину 11 500&nbsp;&#8381; В корзину 20 000&nbsp;&#8381; В корзину 19 500&nbsp;&#8381; В корзину 11 500&nbsp;&#8381; В&hellip;" />
+	
+
+	
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	                <link rel="preload" as="style" onload="this.rel='stylesheet'" href="/s/8ff234.css"><noscript><link rel="stylesheet" href="/s/8ff234.css"></noscript></head>
+
+<body class="home page-template-default page page-id-8160 theme-flash siteorigin-panels siteorigin-panels-before-js siteorigin-panels-home woocommerce-no-js group-blog non-transparent left-logo-right-menu full-width elementor-default elementor-kit-9308 elementor-page elementor-page-8160">
+	
+	<script type="text/javascript">
+		var _tmr = window._tmr || (window._tmr = []);
+		_tmr.push({
+			id: "3149738",
+			type: "pageView",
+			start: (new Date()).getTime()
+		});
+		(function(d, w, id) {
+			if (d.getElementById(id)) return;
+			var ts = d.createElement("script");
+			ts.type = "text/javascript";
+			ts.async = true;
+			ts.id = id;
+			ts.src = "https://top-fwz1.mail.ru/js/code.js";
+			var f = function() {
+				var s = d.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(ts, s);
+			};
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else {
+				f();
+			}
+		})(document, window, "topmailru-code");
+	</script>
+	<noscript>
+		<div>
+			<img src="//top-fwz1.mail.ru/counter?id=3149738;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru">
+		</div>
+	</noscript>
+	
+	
+	<script type="text/javascript">
+		(function(m, e, t, r, i, k, a) {
+			m[i] = m[i] || function() {
+				(m[i].a = m[i].a || []).push(arguments)
+			};
+			m[i].l = 1 * new Date();
+			k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+		})
+		(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+		ym(17280340, "init", {
+			clickmap: true,
+			trackLinks: true,
+			accurateTrackBounce: true,
+			ecommerce: "dataLayer"
+		});
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+
+		gtag('config', 'AW-707771147');
+	</script>
+	<noscript>
+		<div><img src="//mc.yandex.ru/watch/17280340" style="position:absolute; left:-9999px;" alt=""></div>
+	</noscript>
+	
+	
+	
+	
+	<div id="page" class="site">
+		<a class="skip-link screen-reader-text" href="#content">Перейти к содержимому</a>
+
+		
+		<header id="masthead" class="site-header" role="banner">
+							<div class="header-top">
+					<div class="tg-container">
+						<div class="tg-column-wrapper clearfix">
+							<div class="left-content">
+																<ul class="contact-info">
+									<li class="copy_to_click"><i class="fa fa-phone"></i> <a href="tel:(8512)64-55-05">(8512) 64-55-05</a></li>
+									<li class="copy_to_click"><i class="fa fa-envelope"></i> <a href="mailto:info@1-sys.ru">info@1-sys.ru</a></li>
+									<li class="copy_to_click"><i class="fa fa-skype"></i> <a href="skype:live:2958a4fe5c3d45e8?chat">dmitriy.cherkasov86@mail.ru</a></li>
+								</ul>
+							</div>
+							<div class="right-content">
+								<div class="menu-%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%b5%d1%82%d0%b8-container"><ul id="menu-%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%b5%d1%82%d0%b8" class="social-menu"><li id="menu-item-8355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8355"><a target="_blank" rel="noopener" href="https://vk.com/1systm"><span class="screen-reader-text">vk</span></a></li>
+<li id="menu-item-8356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8356"><a target="_blank" rel="noopener" href="https://www.facebook.com/1sysru/"><span class="screen-reader-text">facebook</span></a></li>
+<li id="menu-item-8377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8377"><a target="_blank" rel="noopener" href="https://www.instagram.com/1_sys_tm/"><span class="screen-reader-text">insta</span></a></li>
+<li id="menu-item-8379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8379"><a target="_blank" rel="noopener" href="https://ok.ru/group/53167627632869"><span class="screen-reader-text">ok</span></a></li>
+</ul></div>							</div>
+						</div>
+					</div>
+				</div>
+			
+			<div class="header-bottom">
+				<div class="tg-container">
+
+					<div class="logo">
+						
+						<div class="logo-text site-branding">
+															<h1 class="site-title"><a href="https://1-sys.ru/" rel="home">Первая система</a></h1>
+															<p class="site-description">Профессиональная автоматизация торговых компаний и магазинов</p>
+													</div>
+					</div>
+					<div class="site-navigation-wrapper">
+						<nav id="site-navigation" class="main-navigation" role="navigation">
+							<div class="menu-toggle">
+								<i class="fa fa-bars"></i>
+							</div>
+							<div class="menu-primary-container"><ul id="primary-menu" class="menu"><li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-548"><a href="https://1-sys.ru/product-category/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-1%D1%81/">ПРОГРАММЫ 1С</a></li>
+<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-545"><a href="https://1-sys.ru/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/">УСЛУГИ</a>
+<ul class="sub-menu">
+	<li id="menu-item-4344" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4344"><a href="https://1-sys.ru/service/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd%d0%b0/">АВТОМАТИЗАЦИЯ МАГАЗИНА</a></li>
+	<li id="menu-item-4296" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4296"><a href="https://1-sys.ru/service/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%be%d0%b2-%d0%b1%d0%b0%d1%80%d0%be%d0%b2-%d0%ba%d0%b0%d1%84%d0%b5/">АВТОМАТИЗАЦИЯ КАФЕ</a></li>
+	<li id="menu-item-6362" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-6362"><a href="https://1-sys.ru/service/audit/">АУДИТ ИНФОРМАЦИОННЫХ БАЗ 1С</a></li>
+	<li id="menu-item-4247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4247"><a href="https://1-sys.ru/%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-1%d1%81/">ПРОГРАММИРОВАНИЕ 1С</a></li>
+	<li id="menu-item-4301" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4301"><a href="https://1-sys.ru/service/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-1%d1%81/">ОБСЛУЖИВАНИЕ 1С</a></li>
+	<li id="menu-item-9694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9694"><a href="https://1-sys.ru/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/bonusnaya-sistema-v-1s/">БОНУСНАЯ СИСТЕМА ДЛЯ 1С</a></li>
+	<li id="menu-item-9334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9334"><a href="https://1-sys.ru/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/sozdanie-internet-magazina/">ИНТЕРНЕТ-МАГАЗИН ДЛЯ ТОРГОВОЙ КОМПАНИИ</a></li>
+	<li id="menu-item-7939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7939"><a href="https://1-sys.ru/%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8/kontekstnaya-reklama/">КОНТЕКСТНАЯ И ТАРГЕТИРОВАННАЯ РЕКЛАМА ДЛЯ ВАШЕГО БИЗНЕСА</a></li>
+	<li id="menu-item-4300" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4300"><a href="https://1-sys.ru/service/%d0%b0%d1%80%d0%b5%d0%bd%d0%b4%d0%b0-%d1%82%d0%b5%d1%80%d0%bc%d0%b8%d0%bd%d0%b0%d0%bb%d0%b0-%d1%81%d0%b1%d0%be%d1%80%d0%b0-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d1%82%d1%81%d0%b4-%d0%b2-%d0%b0%d1%81/">АРЕНДА ТСД</a></li>
+	<li id="menu-item-4299" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4299"><a href="https://1-sys.ru/service/%d0%be%d0%b1%d0%bc%d0%b5%d0%bd-%d1%81-1%d1%81%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d0%b8%d0%b5%d0%b9/">ОБМЕН С 1С:БУХГАЛТЕРИЕЙ</a></li>
+	<li id="menu-item-4298" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4298"><a href="https://1-sys.ru/service/%d0%bf%d0%b5%d1%80%d0%b5%d0%bd%d0%be%d1%81-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%b8%d0%b7-1%d1%81-%d1%82%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%bb%d1%8f-%d0%b8-%d1%81%d0%ba%d0%bb%d0%b0%d0%b4-7-7-%d0%b2/">ПЕРЕХОД С 1С:7.7 НА 1С:8.3</a></li>
+	<li id="menu-item-4297" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-4297"><a href="https://1-sys.ru/service/%d1%81%d0%b2%d0%b5%d1%80%d1%82%d0%ba%d0%b0-%d0%b1%d0%b0%d0%b7%d1%8b-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-1%d1%81/">СВЕРТКА БАЗЫ ДАННЫХ 1С</a></li>
+</ul>
+</li>
+<li id="menu-item-547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-547"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/">РЕШЕНИЯ</a>
+<ul class="sub-menu">
+	<li id="menu-item-1864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1864"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/">БЕСПЛАТНЫЕ ОБРАБОТКИ</a></li>
+	<li id="menu-item-1867" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1867"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%BF%D0%B0%D1%81%D0%B0%D0%BC%D0%B8/">УПРАВЛЕНИЕ ЗАПАСАМИ</a></li>
+	<li id="menu-item-1868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1868"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-crm/">ЭЛЕМЕНТЫ CRM</a></li>
+	<li id="menu-item-1869" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1869"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-%D1%83%D1%87%D0%B5%D1%82/">ФИНАНСОВЫЙ УЧЕТ</a></li>
+	<li id="menu-item-1870" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1870"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%B5%D0%B3%D0%B0%D0%B8%D1%81/">ЕГАИС</a></li>
+	<li id="menu-item-1871" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1871"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D1%80%D0%B0%D0%B2-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/">НАСТРОЙКА ПРАВ</a></li>
+	<li id="menu-item-1872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1872"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%B8%D0%BD%D0%B2%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/">ИНВЕНТАРИЗАЦИЯ</a></li>
+	<li id="menu-item-1873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1873"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%B1%D1%83%D1%85%D0%B3%D0%B0%D0%BB%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D1%87%D0%B5%D1%82/">БУХГАЛТЕРСКИЙ УЧЕТ</a></li>
+	<li id="menu-item-1874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1874"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE%D0%B2/">ДЛЯ ИНТЕРНЕТ-МАГАЗИНОВ</a></li>
+	<li id="menu-item-1875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1875"><a href="/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/%D0%BF%D1%80%D0%BE%D1%87%D0%B5%D0%B5/">ПРОЧЕЕ</a></li>
+</ul>
+</li>
+<li id="menu-item-549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-549"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/">ОБОРУДОВАНИЕ</a>
+<ul class="sub-menu">
+	<li id="menu-item-2951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2951"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/o%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D0%B0%D1%81%D1%81%D1%8B-%D0%BF%D0%BE%D0%B4-54-%D1%84%D0%B7/">ОНЛАЙН-КАССЫ</a></li>
+	<li id="menu-item-2947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2947"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%B2%D1%81%D0%B5-%D0%B4%D0%BB%D1%8F-%D0%B5%D0%B3%D0%B0%D0%B8%D1%81/">ВСЕ ДЛЯ ЕГАИС</a></li>
+	<li id="menu-item-4286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4286"><a href="https://1-sys.ru/%d0%bf%d0%be%d0%b4%d0%bc%d0%b5%d0%bd%d0%bd%d1%8b%d0%b9-%d1%84%d0%be%d0%bd%d0%b4-%d0%be%d0%b1%d0%be%d1%80%d1%83%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b2-%d0%b0%d1%81%d1%82%d1%80%d0%b0%d1%85/">ПОДМЕННЫЙ ФОНД</a></li>
+	<li id="menu-item-3508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3508"><a href="https://1-sys.ru/2d-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%b0%d0%bf%d1%82%d0%b5%d0%ba/">МАРКИРОВКА ЛЕКАРСТВ И 2D СКАНЕРЫ ДЛЯ АПТЕК</a></li>
+	<li id="menu-item-2945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2945"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/pos-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/">POS-СИСТЕМЫ</a></li>
+	<li id="menu-item-2948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2948"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B-%D0%B2%D0%B0%D0%BB%D1%8E%D1%82/">ДЕТЕКТОРЫ ВАЛЮТ</a></li>
+	<li id="menu-item-2949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2949"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BA%D0%B8%D0%BE%D1%81%D0%BA%D0%B8/">МИКРОКИОСКИ</a></li>
+	<li id="menu-item-2950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2950"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BC%D0%BE%D0%BD%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8/">КОМПЬЮТЕРЫ И МОНОБЛОКИ</a></li>
+	<li id="menu-item-2952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2952"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BF%D0%BE%D1%81-%D0%BF%D0%B5%D1%80%D0%B8%D1%84%D0%B5%D1%80%D0%B8%D1%8F/">ПОС-ПЕРИФЕРИЯ</a></li>
+	<li id="menu-item-2953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2953"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D1%85-%D0%BA%D0%B0%D1%80%D1%82/">ПРИНТЕР ПЛАСТИКОВЫХ КАРТ</a></li>
+	<li id="menu-item-2954" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2954"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80-%D1%87%D0%B5%D0%BA%D0%BE%D0%B2/">ПРИНТЕР ЧЕКОВ</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2955"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8B-%D0%B5%D0%BD%D0%B2%D0%B4/">ПРИНТЕРЫ ЕНВД</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2956"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8B-%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BE%D0%BA/">ПРИНТЕРЫ ЭТИКЕТОК</a></li>
+	<li id="menu-item-2957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2957"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D0%BA%D0%B0%D0%BD%D0%B5%D1%80%D1%8B-%D1%88%D1%82%D1%80%D0%B8%D1%85%D0%BA%D0%BE%D0%B4%D0%B0/">СКАНЕРЫ ШТРИХКОДА</a></li>
+	<li id="menu-item-2958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2958"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA-%D0%B1%D0%B0%D0%BD%D0%BA%D0%BD%D0%BE%D1%82/">СЧЕТЧИК БАНКНОТ</a></li>
+	<li id="menu-item-2959" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2959"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8B-%D1%81%D0%B1%D0%BE%D1%80%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/">ТЕРМИНАЛЫ СБОРА ДАННЫХ</a></li>
+	<li id="menu-item-2960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2960"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%8D%D0%BA%D0%B2%D0%B0%D0%B9%D1%80%D0%B8%D0%BD%D0%B3/">ЭКВАЙРИНГ</a></li>
+	<li id="menu-item-2961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2961"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2%D0%B5%D1%81%D1%8B/">ЭЛЕКТРОННЫЕ ВЕСЫ</a></li>
+	<li id="menu-item-2946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2946"><a href="/product-category/%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%B0%D0%BA%D1%81%D0%B5%D1%81%D1%81%D1%83%D0%B0%D1%80%D1%8B/">АКСЕССУАРЫ</a></li>
+</ul>
+</li>
+<li id="menu-item-8826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8826"><a href="https://1-sys.ru/lessons/">ОБУЧЕНИЕ 1С</a></li>
+<li id="menu-item-550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-550"><a href="#">КОМПАНИЯ</a>
+<ul class="sub-menu">
+	<li id="menu-item-1891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1891"><a href="https://1-sys.ru/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/">О КОМПАНИИ</a></li>
+	<li id="menu-item-1888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1888"><a href="https://1-sys.ru/%d0%bf%d1%80%d0%b5%d0%b8%d0%bc%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0/">ПРЕИМУЩЕСТВА</a></li>
+	<li id="menu-item-3625" class="menu-item menu-item-type-post_type_archive menu-item-object-project menu-item-3625"><a href="https://1-sys.ru/project/">ПРОЕКТЫ</a></li>
+	<li id="menu-item-3529" class="menu-item menu-item-type-post_type_archive menu-item-object-reviews menu-item-3529"><a href="https://1-sys.ru/отзывы/">ОТЗЫВЫ</a></li>
+	<li id="menu-item-3791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3791"><a href="https://1-sys.ru/%d0%bd%d0%b0%d0%bf%d0%b8%d1%88%d0%b8%d1%82%d0%b5-%d0%be%d1%82%d0%b7%d1%8b%d0%b2/">НАПИСАТЬ ОТЗЫВ</a></li>
+	<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="https://1-sys.ru/%d0%b1%d0%bb%d0%be%d0%b3/">БЛОГ</a></li>
+	<li id="menu-item-7014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7014"><a href="https://1-sys.ru/sdelay-sam/">СДЕЛАЙ САМ</a></li>
+	<li id="menu-item-1890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1890"><a href="https://1-sys.ru/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/">ВАКАНСИИ</a></li>
+	<li id="menu-item-1889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1889"><a href="https://1-sys.ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">КОНТАКТЫ</a></li>
+</ul>
+</li>
+</ul></div>						</nav>
+
+						
+											</div>
+
+					<div class="header-action-container">
+
+													<div class="search-wrap">
+								<div class="search-icon">
+									<i class="fa fa-search"></i>
+								</div>
+								<div class="search-box">
+									<div class="ya-site-form ya-site-form_inited_no" data-bem="{&quot;action&quot;:&quot;https://1-sys.ru/search/&quot;,&quot;arrow&quot;:true,&quot;bg&quot;:&quot;#005cab&quot;,&quot;fontsize&quot;:12,&quot;fg&quot;:&quot;#000000&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;logo&quot;:&quot;rb&quot;,&quot;publicname&quot;:&quot;Поиск по сайту Первая система&quot;,&quot;suggest&quot;:true,&quot;target&quot;:&quot;_self&quot;,&quot;tld&quot;:&quot;ru&quot;,&quot;type&quot;:2,&quot;usebigdictionary&quot;:true,&quot;searchid&quot;:2369112,&quot;input_fg&quot;:&quot;#000000&quot;,&quot;input_bg&quot;:&quot;#ffffff&quot;,&quot;input_fontStyle&quot;:&quot;normal&quot;,&quot;input_fontWeight&quot;:&quot;normal&quot;,&quot;input_placeholder&quot;:null,&quot;input_placeholderColor&quot;:&quot;#000000&quot;,&quot;input_borderColor&quot;:&quot;#005cab&quot;}">
+	<form action="https://yandex.ru/search/site/" method="get" target="_self" accept-charset="utf-8"><input type="hidden" name="searchid" value="2369112" /><input type="hidden" name="l10n" value="ru" /><input type="hidden" name="reqenc" value="" /><input type="search" name="text" value="" /><input type="submit" value="Найти" /></form>
+</div>
+
+<script type="text/javascript">
+	(function(w, d, c) {
+		var s = d.createElement('script'),
+			h = d.getElementsByTagName('script')[0],
+			e = d.documentElement;
+		if ((' ' + e.className + ' ').indexOf(' ya-page_js_yes ') === -1) {
+			e.className += ' ya-page_js_yes';
+		}
+		s.type = 'text/javascript';
+		s.async = true;
+		s.charset = 'utf-8';
+		s.src = (d.location.protocol === 'https:' ? 'https:' : 'http:') + '//site.yandex.net/v2.0/js/all.js';
+		h.parentNode.insertBefore(s, h);
+		(w[c] || (w[c] = [])).push(function() {
+			Ya.Site.Form.init()
+		})
+	})(window, document, 'yandex_site_callbacks');
+</script>								</div>
+							</div>
+																			<div class="cart-wrap">
+								<div class="flash-cart-views">
+
+									
+									<a href="https://1-sys.ru/cart/" class="wcmenucart-contents">
+										<i class="fa fa-opencart"></i>
+										<span class="cart-value">0</span>
+									</a>
+								</div>
+								<div class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Корзина</h2><div class="widget_shopping_cart_content"></div></div>							</div>
+											</div>
+				</div>
+			</div>
+		</header>
+
+		
+		
+		
+		
+		<div id="content" class="site-content">
+			<div class="tg-container">
+	
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+<article id="post-8160" class="post-8160 page type-page status-publish hentry">
+
+	
+	<div class="entry-content">
+		<div id="pl-8160"  class="panel-layout" ><div id="pg-8160-0"  class="panel-grid panel-has-style" ><div class="slider_desktop siteorigin-panels-stretch panel-row-style panel-row-style-for-8160-0" data-stretch-type="full-stretched" ><div id="pgc-8160-0-0"  class="panel-grid-cell" ><div id="panel-8160-0-0-0" class="so-panel widget widget_themegrill_flash_slider tg-section tg-slider-widget panel-first-child panel-last-child widgetopts-SO" data-index="0" ><div class="slider_desktop panel-widget-style panel-widget-style-for-8160-0-0-0" ><div class="tg-slider-widget slider-light slider-content-center slider-control-center full-width">
+	<div class="swiper-container">
+		<div class="swiper-wrapper">
+			
+					<div class="swiper-slide">
+						<figure class="slider-image" >
+							<img width="1903" height="500" src="wp-content/uploads/2019/11/Автоматизация-без-капса-1.jpg" alt="" title="">
+							<div class="overlay"></div>
+						</figure>
+						<div class="slider-content">
+							<div class="tg-container">
+								<div class="caption-title"></div>
+								<div class="caption-desc"></div>
+																	<div class="btn-wrapper">
+										<a href="https://1-sys.ru/service/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd%d0%b0/">asdasda</a>
+									</div>
+															</div>
+						</div>
+					</div>
+
+				
+					<div class="swiper-slide">
+						<figure class="slider-image" >
+							<img width="1903" height="500" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" title="" class="lazy" data-src="https://1-sys.ru/wp-content/uploads/2019/11/Программы-1С-1.jpg"><noscript><img width="1903" height="500" src="https://1-sys.ru/wp-content/uploads/2019/11/Программы-1С-1.jpg" alt="" title=""></noscript>
+							<div class="overlay"></div>
+						</figure>
+						<div class="slider-content">
+							<div class="tg-container">
+								<div class="caption-title"></div>
+								<div class="caption-desc"></div>
+																	<div class="btn-wrapper">
+										<a href="https://1-sys.ru/product-category/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-1%D1%81/">asdasda</a>
+									</div>
+															</div>
+						</div>
+					</div>
+
+				
+					<div class="swiper-slide">
+						<figure class="slider-image" >
+							<img width="1903" height="500" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" title="" class="lazy" data-src="https://1-sys.ru/wp-content/uploads/2019/11/Тех.поддержка-1.jpg"><noscript><img width="1903" height="500" src="https://1-sys.ru/wp-content/uploads/2019/11/Тех.поддержка-1.jpg" alt="" title=""></noscript>
+							<div class="overlay"></div>
+						</figure>
+						<div class="slider-content">
+							<div class="tg-container">
+								<div class="caption-title"></div>
+								<div class="caption-desc"></div>
+																	<div class="btn-wrapper">
+										<a href="https://1-sys.ru/service/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-1%d1%81/">asdasda</a>
+									</div>
+															</div>
+						</div>
+					</div>
+
+				
+					<div class="swiper-slide">
+						<figure class="slider-image" >
+							<img width="1903" height="500" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" title="" class="lazy" data-src="https://1-sys.ru/wp-content/uploads/2019/12/Купить-1С-и-баннеры-6-11-19-18-50.jpg"><noscript><img width="1903" height="500" src="https://1-sys.ru/wp-content/uploads/2019/12/Купить-1С-и-баннеры-6-11-19-18-50.jpg" alt="" title=""></noscript>
+							<div class="overlay"></div>
+						</figure>
+						<div class="slider-content">
+							<div class="tg-container">
+								<div class="caption-title"></div>
+								<div class="caption-desc"></div>
+																	<div class="btn-wrapper">
+										<a href="https://1-sys.ru/product-category/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F/">asdasda</a>
+									</div>
+															</div>
+						</div>
+					</div>
+
+						</div>
+		<div class="swiper-pagination"></div>
+		<div class="slider-arrow">
+			<div class="swiper-button-next"></div>
+			<div class="swiper-button-prev"></div>
+		</div>
+	</div>
+</div>
+</div></div></div></div></div><div id="pg-8160-1"  class="panel-grid panel-no-style" ><div id="pgc-8160-1-0"  class="panel-grid-cell" ><div id="panel-8160-1-0-0" class="so-panel widget widget_themegrill_flash_heading tg-widget section-title-wrapper panel-first-child widgetopts-SO" data-index="1" >	<h3 class="section-title">Автоматизация торговли на 1С</h3>
+</div><div id="panel-8160-1-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="2" >			<div class="textwidget">Наша компания специализируется на автоматизации торговли в Астрахани. Сюда относится автоматизация розничного магазина одежды и обуви, автоматизация продуктового магазина и другой розничной торговли; автоматизация оптовой торговли, автоматизация общепита.
+
+<strong class="woocommerce wrapper_button"><a class="button action" href="solutions/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/">Заказать расчет стоимости</a></strong></div>
+		</div></div></div><div id="pg-8160-2"  class="panel-grid panel-no-style" ><div id="pgc-8160-2-0"  class="panel-grid-cell" ><div id="panel-8160-2-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child widgetopts-SO" data-index="3" ><div class="textwidget custom-html-widget"><h3 class="section-title">
+	Наши популярные решения для 1С
+	<a rel="nofollow" href="https://1-sys.ru/%d0%bd%d0%b0%d1%88%d0%b8-%d0%bf%d0%be%d0%bf%d1%83%d0%bb%d1%8f%d1%80%d0%bd%d1%8b%d0%b5-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-1%d1%81/" class="button">перейти</a>
+</h3></div></div><div id="panel-8160-2-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="4" ><div class="slider_products panel-widget-style panel-widget-style-for-8160-2-0-1" >			<div class="textwidget"><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-3983 status-publish first instock product_cat-15 product_cat--crm product_tag-598 product_tag-599 product_tag-600 product_tag-601 product_tag-602 product_tag-603 product_tag-604 product_tag-605 product_tag-606 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/%d1%80%d0%b0%d0%b7%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-%d1%87%d0%b0%d1%82-%d0%b1%d0%be%d1%82%d0%b0-%d0%bd%d0%b0-1%d1%81-%d0%b4%d0%bb%d1%8f-telegram/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="600" height="600" data-src="https://1-sys.ru/wp-content/uploads/2017/11/Telegram_Bot_logo.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/11/Telegram_Bot_logo.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Чат-бот на 1С для Telegram</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>120 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=3983" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-3293 status-publish instock product_cat-15 product_cat--crm product_tag-598 product_tag-599 product_tag-600 product_tag-601 product_tag-602 product_tag-603 product_tag-604 product_tag-605 product_tag-606 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%b8%d1%81%d0%ba%d0%be%d0%bd%d1%82%d0%bd%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-uds-game-%d1%81-1%d1%81/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="1080" height="607" data-src="https://1-sys.ru/wp-content/uploads/2017/09/13.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/09/13.png"></noscript></div><h2 class="woocommerce-loop-product__title">Интеграция дисконтной системы UDS с 1С</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11 500&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=3293" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-3285 status-publish instock product_cat-15 product_cat--crm product_tag-598 product_tag-599 product_tag-600 product_tag-601 product_tag-602 product_tag-603 product_tag-604 product_tag-605 product_tag-606 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%ba%d1%83%d0%bf%d0%be%d0%bd%d0%be%d0%b2-%d0%bd%d0%b0-%d1%81%d0%ba%d0%b8%d0%b4%d0%ba%d1%83-%d0%b2-1%d1%81-%d1%83%d1%82/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="550" height="200" data-src="https://1-sys.ru/wp-content/uploads/W-discount-1_opt-1-2.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/W-discount-1_opt-1-2.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Использование купонов на скидку в УТ 10.3</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>20 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=3285" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-455 status-publish last instock product_cat-15 product_cat-518 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/delay-dept/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="346" height="215" data-src="https://1-sys.ru/wp-content/uploads/2017/06/f2de1ab00f35bdd2a1e724c1d4d7ee1d.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/f2de1ab00f35bdd2a1e724c1d4d7ee1d.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Систематизация работы с должниками в 1С</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>19 500&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=455" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-413 status-publish first instock product_cat-15 product_cat-520 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/zagruzka-nakladnykh-postavshchikov-v-1c-iz-excel/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="378" height="378" data-src="https://1-sys.ru/wp-content/uploads/product10.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/product10.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Загрузка накладных поставщиков в 1С из Excel</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>11 500&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=413" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-403 status-publish instock product_cat-15 product_cat-516 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/poisk-i-zagruzka-izobrazheniy-tovarov-v-1s-ut-11-roznitsa-2-x-upp/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="600" height="600" data-src="https://1-sys.ru/wp-content/uploads/2017/06/загрузка-изображений-на-сайт.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/загрузка-изображений-на-сайт.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Загрузка изображений в 1С (УТ 11, Розница 2.x, УПП)</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>17 500&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=403" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-393 status-publish instock product_cat-15 product_cat-516 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/obrabotka-dlya-razmeshcheniya-zakazov-1c-v-sdek/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="378" height="378" data-src="https://1-sys.ru/wp-content/uploads/product15.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/product15.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Обработка для размещения заказов 1С в СДЭК</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>8 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=393" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-349 status-publish last instock product_cat-15 product_cat-520 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/pomoshchnik-poiska-nelikvidov-dlya-ut-11/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="378" height="378" data-src="https://1-sys.ru/wp-content/uploads/product9.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/product9.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Помощник работы с залежавшимся товаром и неликвидами для УТ 11, Розница 2</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>7 500&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=349" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-341 status-publish first instock product_cat-15 product_cat-520 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/pomoshchnik-zakupok/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="300" height="300" data-src="https://1-sys.ru/wp-content/uploads/2017/06/ПЗ-preview-14.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/ПЗ-preview-14.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Решение &#171;Помощник закупок&#187; по методу Min/Max для 1C</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>35 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=341" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+</ul>
+</div></div>
+		</div></div></div></div><div id="pg-8160-3"  class="panel-grid panel-no-style" ><div id="pgc-8160-3-0"  class="panel-grid-cell" ><div id="panel-8160-3-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child widgetopts-SO" data-index="5" ><div class="textwidget custom-html-widget"><h3 class="section-title">
+	Акционные товары
+	<a rel="nofollow" href="https://1-sys.ru/onsale/" class="button">перейти</a>
+</h3></div></div><div id="panel-8160-3-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="6" ><div class="slider_products panel-widget-style panel-widget-style-for-8160-3-0-1" >			<div class="textwidget"><div class="woocommerce columns-4 "></div></div>
+		</div></div></div></div><div id="pg-8160-4"  class="panel-grid panel-no-style" ><div id="pgc-8160-4-0"  class="panel-grid-cell" ><div id="panel-8160-4-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child widgetopts-SO" data-index="7" ><div class="textwidget custom-html-widget"><h3 class="section-title">
+	Наши новые обработки и отчеты для 1С
+	<a rel="nofollow" href="https://1-sys.ru/%d0%bd%d0%b0%d1%88%d0%b8-%d0%bd%d0%be%d0%b2%d1%8b%d0%b5-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8-%d0%b8-%d0%be%d1%82%d1%87%d0%b5%d1%82%d1%8b-%d0%b4%d0%bb%d1%8f-1%d1%81/" class="button">перейти</a>
+</h3></div></div><div id="panel-8160-4-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="8" ><div class="slider_products panel-widget-style panel-widget-style-for-8160-4-0-1" >			<div class="textwidget"><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-9521 status-publish first instock product_cat-15 product_cat-520 product_tag-1c product_tag-613 product_tag-694 product_tag-600 product_tag-696 product_tag-603 product_tag-695 product_tag-605 product_tag-606 has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/raschet-marshrutov-dostavki-1c/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="600" height="600" data-src="https://1-sys.ru/wp-content/uploads/2020/04/pasted-image-0-4-1.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2020/04/pasted-image-0-4-1.png"></noscript></div><h2 class="woocommerce-loop-product__title">Расчет маршрутов доставки в 1С</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>25 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=9521" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-9113 status-publish instock product_cat-521 product_cat-15 product_tag-1c product_tag-613 product_tag-694 product_tag-600 product_tag-696 product_tag-603 product_tag-695 product_tag-605 product_tag-606 has-post-thumbnail downloadable sold-individually shipping-taxable purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/ochistka-registra-svedeniy/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="1175" height="734" data-src="https://1-sys.ru/wp-content/uploads/2020/01/2019-01-06_063932-1.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2020/01/2019-01-06_063932-1.png"></noscript></div><h2 class="woocommerce-loop-product__title">Очистка регистра сведений для 1С (Бесплатно)</h2></a><a rel="nofollow" href="https://1-sys.ru/product/ochistka-registra-svedeniy/" data-quantity="1" 
+			 class="button product_type_simple ">Cкачать</a></li>
+<li class="product type-product post-9105 status-publish instock product_cat-521 product_cat-15 product_tag-1c product_tag-613 product_tag-694 product_tag-600 product_tag-696 product_tag-603 product_tag-695 product_tag-605 product_tag-606 has-post-thumbnail downloadable sold-individually shipping-taxable purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/vedomost-po-skladam/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="1445" height="676" data-src="https://1-sys.ru/wp-content/uploads/2020/01/2014-12-17_124059.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2020/01/2014-12-17_124059.png"></noscript></div><h2 class="woocommerce-loop-product__title">Ведомость по складам расширенная для УТ 10.3 (Бесплатно)</h2></a><a rel="nofollow" href="https://1-sys.ru/product/vedomost-po-skladam/" data-quantity="1" 
+			 class="button product_type_simple ">Cкачать</a></li>
+<li class="product type-product post-9100 status-publish last instock product_cat-521 product_cat-15 product_tag-1c product_tag-613 product_tag-694 product_tag-600 product_tag-696 product_tag-603 product_tag-695 product_tag-605 product_tag-606 has-post-thumbnail downloadable virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/pechatnaya-forma-zakaz-pokupatelya/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="618" height="571" data-src="https://1-sys.ru/wp-content/uploads/2020/01/Печатная-форма-1.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2020/01/Печатная-форма-1.png"></noscript></div><h2 class="woocommerce-loop-product__title">Печатная форма заказ покупателя с картинками для 1С (Бесплатно)</h2></a><a rel="nofollow" href="https://1-sys.ru/product/pechatnaya-forma-zakaz-pokupatelya/" data-quantity="1" 
+			 class="button product_type_simple ">Cкачать</a></li>
+<li class="product type-product post-9087 status-publish first instock product_cat-521 product_cat-15 product_tag-1c product_tag-613 product_tag-694 product_tag-600 product_tag-696 product_tag-603 product_tag-695 product_tag-605 product_tag-606 has-post-thumbnail downloadable virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/prays-list-s-kartinkami/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="837" height="603" data-src="https://1-sys.ru/wp-content/uploads/2020/01/Прайс-лист1с-1.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2020/01/Прайс-лист1с-1.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Прайс-лист с картинками (Бесплатно)</h2></a><a rel="nofollow" href="https://1-sys.ru/product/prays-list-s-kartinkami/" data-quantity="1" 
+			 class="button product_type_simple ">Cкачать</a></li>
+<li class="product type-product post-8673 status-publish instock product_cat-15 product_cat-518 product_tag-598 product_tag-crm product_tag-599 product_tag-600 product_tag-627 product_tag-562 product_tag-605 product_tag-606 product_tag-630 has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/system-control-and-accounting-working-time-employees-in-1s/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="600" height="600" data-src="https://1-sys.ru/wp-content/uploads/2019/11/Время.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2019/11/Время.png"></noscript></div><h2 class="woocommerce-loop-product__title">Система контроля и учета рабочего времени сотрудников в 1С</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>17 500&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=8673" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+</ul>
+</div></div>
+		</div></div></div></div><div id="pg-8160-5"  class="panel-grid panel-no-style" ><div id="pgc-8160-5-0"  class="panel-grid-cell" ><div id="panel-8160-5-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child widgetopts-SO" data-index="9" ><div class="textwidget custom-html-widget"><h3 class="section-title">
+	Новые статьи в нашем блоге 
+	<a rel="nofollow" href="/%d0%b1%d0%bb%d0%be%d0%b3/" class="button">перейти в раздел</a>
+</h3></div></div><div id="panel-8160-5-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="10" ><div class="slider_posts panel-widget-style panel-widget-style-for-8160-5-0-1" >			<div class="textwidget"><div class="woocommerce columns-3"><ul class="products"><li class="product type-product status-publish has-post-thumbnail clearfix instock virtual purchasable product-type-simple first ">
+				<a href="https://1-sys.ru/uvelichivayem-prodazhi-na-ng/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+					<img width="800" height="445" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-theshop-small size-theshop-small wp-post-image lazy" alt="Продажи" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-srcset="wp-content/uploads/2020/12/Shablon_kartinki_1__kopia.jpg 800w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-300x167.jpg 300w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-150x83.jpg 150w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-768x427.jpg 768w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-600x334.jpg 600w, https://1-sys.ru/wp-content/uploads/2020/12/Shablon_kartinki_1__kopia.jpg"><noscript><img width="800" height="445" src="https://1-sys.ru/wp-content/uploads/2020/12/Shablon_kartinki_1__kopia.jpg" class="attachment-theshop-small size-theshop-small wp-post-image" alt="Продажи" loading="lazy" srcset="wp-content/uploads/2020/12/Shablon_kartinki_1__kopia.jpg 800w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-300x167.jpg 300w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-150x83.jpg 150w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-768x427.jpg 768w,wp-content/uploads/2020/12/Shablon_kartinki_1__kopia-600x334.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"></noscript>
+					<h2 class="woocommerce-loop-product__title" style="margin-bottom:0px !important;">Увеличиваем продажи перед Новым годом!</h2>
+				</a>
+			</li><li class="product type-product status-publish has-post-thumbnail clearfix instock virtual purchasable product-type-simple">
+				<a href="https://1-sys.ru/sokrashchayem-raskhody-kompanii/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+					<img width="800" height="445" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-theshop-small size-theshop-small wp-post-image lazy" alt="Сокращаем расходы" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-srcset="wp-content/uploads/2020/11/Сокращаем-расходы.jpg 800w,wp-content/uploads/2020/11/Сокращаем-расходы-300x167.jpg 300w,wp-content/uploads/2020/11/Сокращаем-расходы-150x83.jpg 150w,wp-content/uploads/2020/11/Сокращаем-расходы-768x427.jpg 768w,wp-content/uploads/2020/11/Сокращаем-расходы-600x334.jpg 600w, https://1-sys.ru/wp-content/uploads/2020/11/Сокращаем-расходы.jpg"><noscript><img width="800" height="445" src="https://1-sys.ru/wp-content/uploads/2020/11/Сокращаем-расходы.jpg" class="attachment-theshop-small size-theshop-small wp-post-image" alt="Сокращаем расходы" loading="lazy" srcset="wp-content/uploads/2020/11/Сокращаем-расходы.jpg 800w,wp-content/uploads/2020/11/Сокращаем-расходы-300x167.jpg 300w,wp-content/uploads/2020/11/Сокращаем-расходы-150x83.jpg 150w,wp-content/uploads/2020/11/Сокращаем-расходы-768x427.jpg 768w,wp-content/uploads/2020/11/Сокращаем-расходы-600x334.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"></noscript>
+					<h2 class="woocommerce-loop-product__title" style="margin-bottom:0px !important;">Сокращаем расходы компании в период кризиса</h2>
+				</a>
+			</li><li class="product type-product status-publish has-post-thumbnail clearfix instock virtual purchasable product-type-simple last ">
+				<a href="https://1-sys.ru/perehodim-na-sql/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+					<img width="800" height="445" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-theshop-small size-theshop-small wp-post-image lazy" alt="SQL" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-srcset="wp-content/uploads/2020/09/SQ.jpg 800w,wp-content/uploads/2020/09/SQ-300x167.jpg 300w,wp-content/uploads/2020/09/SQ-150x83.jpg 150w,wp-content/uploads/2020/09/SQ-768x427.jpg 768w,wp-content/uploads/2020/09/SQ-600x334.jpg 600w, https://1-sys.ru/wp-content/uploads/2020/09/SQ.jpg"><noscript><img width="800" height="445" src="https://1-sys.ru/wp-content/uploads/2020/09/SQ.jpg" class="attachment-theshop-small size-theshop-small wp-post-image" alt="SQL" loading="lazy" srcset="wp-content/uploads/2020/09/SQ.jpg 800w,wp-content/uploads/2020/09/SQ-300x167.jpg 300w,wp-content/uploads/2020/09/SQ-150x83.jpg 150w,wp-content/uploads/2020/09/SQ-768x427.jpg 768w,wp-content/uploads/2020/09/SQ-600x334.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"></noscript>
+					<h2 class="woocommerce-loop-product__title" style="margin-bottom:0px !important;">Когда нужно переходить с файловой базы 1С на SQL?</h2>
+				</a>
+			</li><li class="product type-product status-publish has-post-thumbnail clearfix instock virtual purchasable product-type-simple first ">
+				<a href="https://1-sys.ru/upravlyayem-kliyentskim-opytom/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+					<img width="800" height="445" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-theshop-small size-theshop-small wp-post-image lazy" alt="Клиентский опыт" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-srcset="wp-content/uploads/2020/09/178.jpg 800w,wp-content/uploads/2020/09/178-300x167.jpg 300w,wp-content/uploads/2020/09/178-150x83.jpg 150w,wp-content/uploads/2020/09/178-768x427.jpg 768w,wp-content/uploads/2020/09/178-600x334.jpg 600w, https://1-sys.ru/wp-content/uploads/2020/09/178.jpg"><noscript><img width="800" height="445" src="https://1-sys.ru/wp-content/uploads/2020/09/178.jpg" class="attachment-theshop-small size-theshop-small wp-post-image" alt="Клиентский опыт" loading="lazy" srcset="wp-content/uploads/2020/09/178.jpg 800w,wp-content/uploads/2020/09/178-300x167.jpg 300w,wp-content/uploads/2020/09/178-150x83.jpg 150w,wp-content/uploads/2020/09/178-768x427.jpg 768w,wp-content/uploads/2020/09/178-600x334.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"></noscript>
+					<h2 class="woocommerce-loop-product__title" style="margin-bottom:0px !important;">Управляем клиентским опытом</h2>
+				</a>
+			</li><li class="product type-product status-publish has-post-thumbnail clearfix instock virtual purchasable product-type-simple">
+				<a href="https://1-sys.ru/pravilno-gotovim-udalenku/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+					<img width="800" height="445" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-theshop-small size-theshop-small wp-post-image lazy" alt="как правильно готовить удаленку" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-srcset="wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y.jpg 800w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-300x167.jpg 300w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-150x83.jpg 150w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-768x427.jpg 768w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-600x334.jpg 600w, https://1-sys.ru/wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y.jpg"><noscript><img width="800" height="445" src="https://1-sys.ru/wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y.jpg" class="attachment-theshop-small size-theshop-small wp-post-image" alt="как правильно готовить удаленку" loading="lazy" srcset="wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y.jpg 800w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-300x167.jpg 300w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-150x83.jpg 150w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-768x427.jpg 768w,wp-content/uploads/2020/09/EXjsAqLWsAQ9f7y-600x334.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"></noscript>
+					<h2 class="woocommerce-loop-product__title" style="margin-bottom:0px !important;">Как правильно готовить удаленку? Если введут повторную изоляцию</h2>
+				</a>
+			</li><li class="product type-product status-publish has-post-thumbnail clearfix instock virtual purchasable product-type-simple last ">
+				<a href="https://1-sys.ru/roznitsa-v-postpandemiyu/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+					<img width="800" height="445" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-theshop-small size-theshop-small wp-post-image lazy" alt="Розница в постпандемию" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" data-srcset="wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия.jpg 800w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-300x167.jpg 300w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-150x83.jpg 150w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-768x427.jpg 768w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-600x334.jpg 600w, https://1-sys.ru/wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия.jpg"><noscript><img width="800" height="445" src="https://1-sys.ru/wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия.jpg" class="attachment-theshop-small size-theshop-small wp-post-image" alt="Розница в постпандемию" loading="lazy" srcset="wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия.jpg 800w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-300x167.jpg 300w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-150x83.jpg 150w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-768x427.jpg 768w,wp-content/uploads/2020/09/Шаблон-картинки-1-—-копия-600x334.jpg 600w" sizes="(max-width: 800px) 100vw, 800px"></noscript>
+					<h2 class="woocommerce-loop-product__title" style="margin-bottom:0px !important;">Что делать рознице в период постпандемии?</h2>
+				</a>
+			</li></ul></div></div>
+		</div></div></div></div><div id="pg-8160-6"  class="panel-grid panel-no-style" ><div id="pgc-8160-6-0"  class="panel-grid-cell" ><div id="panel-8160-6-0-0" class="so-panel widget widget_themegrill_flash_heading tg-widget section-title-wrapper panel-first-child widgetopts-SO" data-index="11" >	<h3 class="section-title">Отзывы</h3>
+</div><div id="panel-8160-6-0-1" class="so-panel widget widget_themegrill_flash_testimonial tg-section testimonial-section panel-last-child widgetopts-SO" data-index="12" ><div class="tg-testimonial-widget">
+	<div class="testimonial-container swiper-container">
+		<div class="testimonial-wrapper swiper-wrapper">
+						<div class="testimonial-slide swiper-slide">
+				<div class="testimonial-content-wrapper">
+					<div class="testimonial-icon"><i class="fa fa-quote-left"></i> </div>
+										<div class="testimonial-content">Чтобы отвечать возросшим требованиям по качеству управления ассортиментом товаров и услуг, отношений с клиентами и поставщиками, управления складскими запасами,  было принято решение о переходе на программный продукт «1С:Управление Торговлей 8».
+Работы по переходу были поручены специалистам компании Первая Система. В процессе внедрения, был произведен перенос накопленных данных из предыдущей системы на базе «1С:Торговля и Склад 7.7», настройка и конфигурирование системы под наши требования, обучение персонала по работе с программой.
+Система успешно введена в промышленную эксплуатацию.</div>
+									</div>
+				<div class="testimonial-client-detail">
+										<div class="testimonial-img"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Подольская Альвина Маисевна" class="lazy" width="604" height="348" data-src="https://1-sys.ru/wp-content/uploads/ангара.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/ангара.jpg" alt="Подольская Альвина Маисевна"></noscript></div>
+										<div class="client-detail-block">
+												<h3 class="testimonial-title">Подольская Альвина Маисевна</h3>
+																		<h4 class="testimonial-degicnation">Заместитель генерального директора ООО ПКФ «Ангара»</h4>
+											</div>
+				</div>
+			</div>
+						<div class="testimonial-slide swiper-slide">
+				<div class="testimonial-content-wrapper">
+					<div class="testimonial-icon"><i class="fa fa-quote-left"></i> </div>
+										<div class="testimonial-content">В этих условиях, когда буквально каждый час был на счету, Первая Система порадовала тем, что максимально ответственно подошла к порученным задачам и провела все работы самостоятельно, без дополнительного контроля и принуждения, который нередко был нужен при работе с другими компаниями.
+Автоматизация стояла в ряду наших важных задач и позволила вести анализ продаж и эффективности проведения рекламных кампаний, учет остатков на складе и в магазинах, рассчитывать зарплату консультантов, значительно облегчив управление сетью.</div>
+									</div>
+				<div class="testimonial-client-detail">
+										<div class="testimonial-img"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Зинина Ольга Владимировна" class="lazy" width="836" height="480" data-src="https://1-sys.ru/wp-content/uploads/мегаоптика-1.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/мегаоптика-1.jpg" alt="Зинина Ольга Владимировна"></noscript></div>
+										<div class="client-detail-block">
+												<h3 class="testimonial-title">Зинина Ольга Владимировна</h3>
+																		<h4 class="testimonial-degicnation">Директор ООО «МегаОптика»</h4>
+											</div>
+				</div>
+			</div>
+						<div class="testimonial-slide swiper-slide">
+				<div class="testimonial-content-wrapper">
+					<div class="testimonial-icon"><i class="fa fa-quote-left"></i> </div>
+										<div class="testimonial-content">Завтра мы должны работать лучше, чем сегодня.
+Именно поэтому я постоянно занимаюсь совершенствованием работы своего магазина.
+Немаловажными элементами этого являются учет и анализ данных.
+Было принято решение о переводе работы магазина на следующую версию программы 1С:Управление Торговлей 8.
+Решение поставленной задачи было доверено специалистам вашей компании.
+Я положительно оцениваю квалификацию и подход к делу ваших специалистов и готов рекомендовать вас в качестве надежного и ответственного партнера.</div>
+									</div>
+				<div class="testimonial-client-detail">
+										<div class="testimonial-img"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Лыков Артем Викторович" class="lazy" width="802" height="461" data-src="https://1-sys.ru/wp-content/uploads/бекас.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/бекас.jpg" alt="Лыков Артем Викторович"></noscript></div>
+										<div class="client-detail-block">
+												<h3 class="testimonial-title">Лыков Артем Викторович</h3>
+																		<h4 class="testimonial-degicnation">Директор ООО «Калибр»</h4>
+											</div>
+				</div>
+			</div>
+						<div class="testimonial-slide swiper-slide">
+				<div class="testimonial-content-wrapper">
+					<div class="testimonial-icon"><i class="fa fa-quote-left"></i> </div>
+										<div class="testimonial-content">Для выполнения работ по переходу на 1С:Управление Торговлей 8 мы выбрали компанию Первая Система: специализированную организацию по автоматизации торговли, обладатель статуса «Центр Компетенции по Торговле» от 1С.
+Нашим партнером был осуществлен перенос справочников и документов, влияющих на продажи и остатки. Стандартная конфигурация программы также была доработана с учетом нашей специфики.
+Работы производились параллельно несколькими сотрудника, благодаря чему переход на новую программу был выполнен в короткие сроки и не повлиял на работу салонов-магазинов.</div>
+									</div>
+				<div class="testimonial-client-detail">
+										<div class="testimonial-img"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Гаринович Светлана Владимировна" class="lazy" width="1052" height="605" data-src="https://1-sys.ru/wp-content/uploads/изюминка.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/изюминка.jpg" alt="Гаринович Светлана Владимировна"></noscript></div>
+										<div class="client-detail-block">
+												<h3 class="testimonial-title">Гаринович Светлана Владимировна</h3>
+																		<h4 class="testimonial-degicnation">Управляющий сети мебельных салонов «Изюминка»</h4>
+											</div>
+				</div>
+			</div>
+					</div>
+		<div class="swiper-pagination testimonial-pager"></div>
+	</div>
+</div>
+</div></div></div><div id="pg-8160-7"  class="panel-grid panel-no-style" ><div id="pgc-8160-7-0"  class="panel-grid-cell" ><div id="panel-8160-7-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child widgetopts-SO" data-index="13" ><div class="textwidget custom-html-widget"><h3 class="section-title">
+	ПРОГРАММЫ 1С
+	<a rel="nofollow" href="/product-category/программы-1с/" class="button">перейти в раздел</a>
+</h3></div></div><div id="panel-8160-7-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="14" ><div class="slider_products panel-widget-style panel-widget-style-for-8160-7-0-1" >			<div class="textwidget"><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-497 status-publish first instock product_cat-18 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/litsenziya-na-server-1s-predpriyatie-8-3/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="569" height="569" data-src="https://1-sys.ru/wp-content/uploads/2017/06/На-сервер-1С-8.3.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/На-сервер-1С-8.3.png"></noscript></div><h2 class="woocommerce-loop-product__title">Лицензия на сервер 1С:Предприятие 8.3</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>50 400&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=497" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-489 status-publish instock product_cat-18 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/roznitsa-8-bazovaya-versiya/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="569" height="569" data-src="https://1-sys.ru/wp-content/uploads/2017/06/Розница-база.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/Розница-база.png"></noscript></div><h2 class="woocommerce-loop-product__title">Розница 8. Базовая версия</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3 300&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=489" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-481 status-publish instock product_cat-18 has-post-thumbnail virtual sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/1s-bukhgalteriya-8-bazovaya-versiya-elektronnaya-postavka/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="569" height="569" data-src="https://1-sys.ru/wp-content/uploads/2017/06/Элпоставка-1.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/Элпоставка-1.png"></noscript></div><h2 class="woocommerce-loop-product__title">1С:Бухгалтерия 8. Базовая версия. Электронная поставка</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3 300&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=481" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-473 status-publish last instock product_cat-18 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/upravlenie-torgovley-8-prof/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="569" height="569" data-src="https://1-sys.ru/wp-content/uploads/2017/06/УТ-8-Проф.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/УТ-8-Проф.png"></noscript></div><h2 class="woocommerce-loop-product__title">Управление торговлей 8. ПРОФ</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>22 600&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=473" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-465 status-publish first instock product_cat-18 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/litsenziya-na-5-rabochikh-mest/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="569" height="569" data-src="https://1-sys.ru/wp-content/uploads/2017/06/5-рабочих-мест.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/5-рабочих-мест.png"></noscript></div><h2 class="woocommerce-loop-product__title">Лицензия на 5 рабочих мест</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>21 600&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=465" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-463 status-publish instock product_cat-18 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/litsenziya-na-1-rabochee-mesto/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="569" height="569" data-src="https://1-sys.ru/wp-content/uploads/2017/06/1-рабочее-место.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/1-рабочее-место.png"></noscript></div><h2 class="woocommerce-loop-product__title">Лицензия на 1 рабочее место</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>6 300&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=463" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+</ul>
+</div></div>
+		</div></div></div></div><div id="pg-8160-8"  class="panel-grid panel-no-style" ><div id="pgc-8160-8-0"  class="panel-grid-cell" ><div id="panel-8160-8-0-0" class="widget_text so-panel widget widget_custom_html panel-first-child widgetopts-SO" data-index="15" ><div class="textwidget custom-html-widget"><h3 class="section-title">
+	Торговое оборудование
+	<a rel="nofollow" href="/product-category/оборудование//" class="button">перейти в раздел</a>
+</h3></div></div><div id="panel-8160-8-0-1" class="so-panel widget widget_text panel-last-child widgetopts-SO" data-index="16" ><div class="slider_products panel-widget-style panel-widget-style-for-8160-8-0-1" >			<div class="textwidget"><div class="woocommerce columns-4 "><ul class="products columns-4">
+<li class="product type-product post-6686 status-publish first instock product_cat-o---54- product_tag-598 product_tag-599 product_tag-600 product_tag-601 product_tag-602 product_tag-603 product_tag-604 product_tag-605 product_tag-606 has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/ficsnakop36mes/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="200" height="200" data-src="https://1-sys.ru/wp-content/uploads/2019/03/Разъяснения-ФНС-об-использовании-фискального-накопителя-на-36-месяцев.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2019/03/Разъяснения-ФНС-об-использовании-фискального-накопителя-на-36-месяцев.png"></noscript></div><h2 class="woocommerce-loop-product__title">Фискальный накопитель 36 месяцев</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>12 400&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=6686" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-3845 status-publish instock product_cat-545 product_cat-541 product_tag-598 product_tag-599 product_tag-600 product_tag-601 product_tag-602 product_tag-603 product_tag-604 product_tag-605 product_tag-606 has-post-thumbnail sold-individually shipping-taxable purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/youjie-honeywell-zl2200-%d1%81%d0%ba%d0%b0%d0%bd%d0%b5%d1%80-%d1%88%d1%82%d1%80%d0%b8%d1%85-%d0%ba%d0%be%d0%b4%d0%be%d0%b2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="650" height="650" data-src="https://1-sys.ru/wp-content/uploads/youjie-01-650x650.jpg"><noscript><img src="https://1-sys.ru/wp-content/uploads/youjie-01-650x650.jpg"></noscript></div><h2 class="woocommerce-loop-product__title">Youjie (honeywell) zl2200 сканер штрих-кодов</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>2 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=3845" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-2922 status-publish instock product_cat-537 product_tag-598 product_tag-599 product_tag-600 product_tag-601 product_tag-602 product_tag-603 product_tag-604 product_tag-605 product_tag-606 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/sensornyy_terminal_atol_viva_ii_mini/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="240" height="300" data-src="https://1-sys.ru/wp-content/uploads/2017/06/1c4f2abb41bb8724c1502890bb9727aa.jpeg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/1c4f2abb41bb8724c1502890bb9727aa.jpeg"></noscript></div><h2 class="woocommerce-loop-product__title">Сенсорный терминал АТОЛ ViVA II MINI</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>43 524&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=2922" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-2867 status-publish last instock product_cat-532 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/vesy_fasovochnye_m_er_326_afl_15_2_lcd/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="300" height="300" data-src="https://1-sys.ru/wp-content/uploads/2017/06/ce394f1ec84b00f1238a2a1ddd9984a7.jpeg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/ce394f1ec84b00f1238a2a1ddd9984a7.jpeg"></noscript></div><h2 class="woocommerce-loop-product__title">Весы фасовочные M-ER 326 AFL 15.2 LCD</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>3 250&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=2867" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-2782 status-publish first instock product_cat-o---54- has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/%d0%b0%d1%82%d0%be%d0%bb-30%d1%84-%d1%84%d0%b8%d1%81%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%80%d0%b5%d0%b3%d0%b8%d1%81%d1%82%d1%80%d0%b0%d1%82%d0%be%d1%80/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="300" height="199" data-src="https://1-sys.ru/wp-content/uploads/2017/06/0bd7ab2b248628ff5fa01e900e2f796c.jpeg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/0bd7ab2b248628ff5fa01e900e2f796c.jpeg"></noscript></div><h2 class="woocommerce-loop-product__title">АТОЛ 30Ф Фискальный регистратор</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>19 000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=2782" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-2662 status-publish instock product_cat-pos- has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/pos_sistema_atol_riteyl_egais_smart_1/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="300" height="243" data-src="https://1-sys.ru/wp-content/uploads/2017/06/c1d27667b631cdc82126d000fd5cec02.jpeg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/c1d27667b631cdc82126d000fd5cec02.jpeg"></noscript></div><h2 class="woocommerce-loop-product__title">POS-система АТОЛ Ритейл ЕГАИС Smart</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>67 990&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=2662" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-2616 status-publish instock product_cat-o---54- has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/fiskalnyy_nakopitel/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="300" height="187" data-src="https://1-sys.ru/wp-content/uploads/2017/06/bcc9b54c14719d96b024093df3143642.png"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/bcc9b54c14719d96b024093df3143642.png"></noscript></div><h2 class="woocommerce-loop-product__title">Фискальный накопитель на 15 месяцев</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>8 200&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=2616" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+<li class="product type-product post-2508 status-publish last instock product_cat-528 has-post-thumbnail sold-individually purchasable product-type-simple">
+	<a href="https://1-sys.ru/product/terminal_sbora_dannykh_symbol_mc95khkh/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="wrapper_block"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="lazy" width="116" height="300" data-src="https://1-sys.ru/wp-content/uploads/2017/06/440d1363b2dd50c5dfe58fa091251f90.jpeg"><noscript><img src="https://1-sys.ru/wp-content/uploads/2017/06/440d1363b2dd50c5dfe58fa091251f90.jpeg"></noscript></div><h2 class="woocommerce-loop-product__title">Терминал сбора данных SYMBOL MC95хх</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>189 559&nbsp;<span class="woocommerce-Price-currencySymbol">&#8381;</span></bdi></span></span>
+</a><a href="?add-to-cart=2508" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" >В корзину</a></li>
+</ul>
+</div></div>
+		</div></div></div></div></div>	</div>
+
+	
+	
+</article>
+
+		</main>
+	</div>
+
+	
+
+</div>
+</div>
+<div class="footer-contact">
+	<div class="mx-auto container">
+		<div class="inner_cont">
+			<ul class="contact-info">
+				<li><i class="fa fa-phone"></i>
+					<a href="tel:(8512)223-221">(8512) 223-221</a></li>
+				<li><i class="fa fa-envelope"></i>
+					<a href="mailto:info@1-sys.ru">info@1-sys.ru</a></li>
+				<li><i class="fa fa-skype"></i>
+					<a href="skype:live:2958a4fe5c3d45e8?chat">sergey1sys</a></li>
+			</ul>
+		</div>
+		<div class="inner_cont">
+			<div class="menu-%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%b5%d1%82%d0%b8-container"><ul id="menu-%d1%81%d0%be%d1%86%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d1%81%d0%b5%d1%82%d0%b8-1" class="social-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8355"><a target="_blank" rel="noopener" href="https://vk.com/1systm"><span class="screen-reader-text">vk</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8356"><a target="_blank" rel="noopener" href="https://www.facebook.com/1sysru/"><span class="screen-reader-text">facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8377"><a target="_blank" rel="noopener" href="https://www.instagram.com/1_sys_tm/"><span class="screen-reader-text">insta</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8379"><a target="_blank" rel="noopener" href="https://ok.ru/group/53167627632869"><span class="screen-reader-text">ok</span></a></li>
+</ul></div>		</div>
+	</div>
+</div>
+</div>
+
+
+<footer id="colophon" class="footer-layout site-footer" role="contentinfo">
+	<div id="top-footer">
+	<div class="tg-container">
+		<div class="tg-column-wrapper">
+
+							<div class="tg-column-4 footer-block">
+
+				<section id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-footer1-container"><ul id="menu-footer1" class="menu"><li id="menu-item-8300" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8300"><a href="https://1-sys.ru/product-category/%d0%bf%d1%80%d0%be%d0%b3%d1%80%d0%b0%d0%bc%d0%bc%d1%8b-1%d1%81/">Программы 1С</a></li>
+<li id="menu-item-8783" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8783"><a href="https://1-sys.ru/product-category/obucheniye-1c/">Обучение 1С</a></li>
+<li id="menu-item-8296" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8296"><a href="https://1-sys.ru/product-category/%d0%be%d0%b1%d0%be%d1%80%d1%83%d0%b4%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/">Оборудование</a></li>
+<li id="menu-item-8301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8301"><a href="https://1-sys.ru/услуги/">Услуги</a>
+<ul class="sub-menu">
+	<li id="menu-item-8298" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-8298"><a href="https://1-sys.ru/service/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd%d0%b0/">Автоматизация магазина</a></li>
+	<li id="menu-item-8299" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-8299"><a href="https://1-sys.ru/service/%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%be%d0%b2-%d0%b1%d0%b0%d1%80%d0%be%d0%b2-%d0%ba%d0%b0%d1%84%d0%b5/">Автоматизация кафе</a></li>
+	<li id="menu-item-8302" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-8302"><a href="https://1-sys.ru/service/%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-1%d1%81/">Обслуживание 1С</a></li>
+	<li id="menu-item-8303" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-8303"><a href="https://1-sys.ru/service/%d1%81%d0%b2%d0%b5%d1%80%d1%82%d0%ba%d0%b0-%d0%b1%d0%b0%d0%b7%d1%8b-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-1%d1%81/">Свертка базы данных 1С</a></li>
+	<li id="menu-item-8304" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-8304"><a href="https://1-sys.ru/service/%d0%bf%d0%b5%d1%80%d0%b5%d0%bd%d0%be%d1%81-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%b8%d0%b7-1%d1%81-%d1%82%d0%be%d1%80%d0%b3%d0%be%d0%b2%d0%bb%d1%8f-%d0%b8-%d1%81%d0%ba%d0%bb%d0%b0%d0%b4-7-7-%d0%b2/">Переход с 1С:7.7 на 1С:8.3</a></li>
+	<li id="menu-item-8305" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-8305"><a href="https://1-sys.ru/service/%d0%be%d0%b1%d0%bc%d0%b5%d0%bd-%d1%81-1%d1%81%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d0%b8%d0%b5%d0%b9/">Обмен с 1С:Бухгалтерией</a></li>
+</ul>
+</li>
+</ul></div></section>				</div>
+
+							<div class="tg-column-4 footer-block">
+
+				<section id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer2-container"><ul id="menu-footer2" class="menu"><li id="menu-item-8306" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-8306"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/">Решения</a>
+<ul class="sub-menu">
+	<li id="menu-item-8307" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8307"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%b1%d0%b5%d1%81%d0%bf%d0%bb%d0%b0%d1%82%d0%bd%d1%8b%d0%b5-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8/">Бесплатные обработки</a></li>
+	<li id="menu-item-8308" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8308"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d1%81%d0%ba%d0%b8%d0%b9-%d1%83%d1%87%d0%b5%d1%82/">Бухгалтерский учет</a></li>
+	<li id="menu-item-8309" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8309"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%b4%d0%bb%d1%8f-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd%d0%be%d0%b2/">Для интернет-магазинов</a></li>
+	<li id="menu-item-8310" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8310"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%b5%d0%b3%d0%b0%d0%b8%d1%81/">ЕГАИС</a></li>
+	<li id="menu-item-8311" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8311"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%b8%d0%bd%d0%b2%d0%b5%d0%bd%d1%82%d0%b0%d1%80%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f/">Инвентаризация</a></li>
+	<li id="menu-item-8312" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8312"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b9%d0%ba%d0%b0-%d0%bf%d1%80%d0%b0%d0%b2-%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d0%b5%d0%b9/">Настройка прав</a></li>
+	<li id="menu-item-8314" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8314"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0%d0%bf%d0%b0%d1%81%d0%b0%d0%bc%d0%b8/">Управление запасами</a></li>
+	<li id="menu-item-8315" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8315"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d1%84%d0%b8%d0%bd%d0%b0%d0%bd%d1%81%d0%be%d0%b2%d1%8b%d0%b9-%d1%83%d1%87%d0%b5%d1%82/">Финансовый учет</a></li>
+	<li id="menu-item-8316" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8316"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d1%8d%d0%bb%d0%b5%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-crm/">Элементы CRM</a></li>
+	<li id="menu-item-8313" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8313"><a href="https://1-sys.ru/product-category/%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d1%8f/%d0%bf%d1%80%d0%be%d1%87%d0%b5%d0%b5/">Прочее</a></li>
+</ul>
+</li>
+</ul></div></section>				</div>
+
+							<div class="tg-column-4 footer-block">
+
+				<section id="nav_menu-4" class="widget widget_nav_menu"><div class="menu-footer3-container"><ul id="menu-footer3" class="menu"><li id="menu-item-8317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8317"><a href="#">Компания</a>
+<ul class="sub-menu">
+	<li id="menu-item-8321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8321"><a href="https://1-sys.ru/%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D1%8B/">Отзывы</a></li>
+	<li id="menu-item-8318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8318"><a href="https://1-sys.ru/%d0%be-%d0%ba%d0%be%d0%bc%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8/">О компании</a></li>
+	<li id="menu-item-8319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8319"><a href="https://1-sys.ru/%d0%bf%d1%80%d0%b5%d0%b8%d0%bc%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0/">Преимущества</a></li>
+	<li id="menu-item-8320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8320"><a href="https://1-sys.ru/%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be-%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b5-%d0%be%d0%b1%d1%81%d0%bb%d1%83%d0%b6%d0%b8%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f/">Соглашение о качестве обслуживания</a></li>
+	<li id="menu-item-8322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8322"><a href="https://1-sys.ru/%d0%b2%d0%b0%d0%ba%d0%b0%d0%bd%d1%81%d0%b8%d0%b8/">Вакансии</a></li>
+	<li id="menu-item-8323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8323"><a href="https://1-sys.ru/%d0%b1%d0%bb%d0%be%d0%b3/">Блог</a></li>
+	<li id="menu-item-8324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8324"><a href="https://1-sys.ru/category/новости/">Новости</a></li>
+	<li id="menu-item-8325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8325"><a href="https://1-sys.ru/%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b/">Контакты</a></li>
+</ul>
+</li>
+</ul></div></section>				</div>
+
+							<div class="tg-column-4 footer-block">
+
+				<section id="text-2" class="widget widget_text">			<div class="textwidget"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2063 mc4wp-form-theme mc4wp-form-theme-red" method="post" data-id="2063" data-name="toSidebar" ><div class="mc4wp-form-fields"><p class="mcf_label">
+	<label class="mcf_label1">Получайте</label>
+	<label class="mcf_label2">новые статьи</label>
+	<label class="mcf_label3">по электронной почте</label>
+	<input type="email" name="EMAIL" placeholder="Ваша@почта" required />
+</p>
+<p>
+    <input type="submit" value="Подписаться">
+</p></div><label style="display: none !important;">Оставьте это поле пустым, если вы человек: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1646213675" /><input type="hidden" name="_mc4wp_form_id" value="2063" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form></div>
+		</section>				</div>
+
+					</div>
+	</div>
+</div>
+
+	<div id="bottom-footer">
+		<div class="tg-container">
+
+					<div class="copyright">
+			<span class="copyright-text">
+				<p>
+					Все цены, указанные на сайте 1-sys.ru приведены как справочная информация и не являются публичной офертой, определяемой положениями статьи 437 Гражданского кодекса Российской Федерации и могут быть изменены в любое время без предупреждения. Для получения подробной информации о стоимости, сроках и условиях поставки обратитесь по телефону +7(8512)223-221, +7(800)302-24-54, 70-10-30.
+				</p>
+				2008 — 2019 © ПЕРВАЯ СИСТЕМА
+			</span>
+		</div>
+
+			
+		</div>
+	</div>
+</footer>
+
+
+	<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+</div>
+
+
+
+		
+		<script async src="//www.googletagmanager.com/gtag/js?id=UA-148401292-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-148401292-1');
+		</script>
+
+	<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/1-sys.ru\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+
+
+
+
+<script type="text/javascript" id="custom-products-for-woocommerce-public-js-extra">
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/1-sys.ru\/wp-admin\/admin-ajax.php","requiredComponentsMessage":"Please select all required components"};
+var site_object = {"baseurl":"https:\/\/1-sys.ru"};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="nelio-ab-testing-woocommerce-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "nelio-ab-testing", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type="text/javascript" src="wp-content/plugins/nelio-ab-testing/assets/dist/js/woocommerce.js?ver=61d2519c1e4120a2f7759b4dd152cd6a" id="nelio-ab-testing-woocommerce-js"></script>
+<script type="text/javascript" id="nelio-ab-testing-woocommerce-js-after">
+nabAddSingleAction( "valid-content", function() { nabwoocommerce.setAlternativeInSession( "https:\/\/1-sys.ru\/wp-admin\/admin-ajax.php" ); } )
+</script>
+
+
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b45da5fb129d7f7955eb03fdeb468eac","fragment_name":"wc_fragments_b45da5fb129d7f7955eb03fdeb468eac","request_timeout":"5000"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="jquery-fancybox-js-after">
+var fb_timeout, fb_opts={'overlayShow':false,'hideOnOverlayClick':true,'showCloseButton':true,'margin':20,'centerOnScroll':false,'enableEscapeButton':true,'autoScale':true };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery('.nofancybox,a.wp-block-file__button,a.pin-it-button,a[href*="pinterest.com/pin/create"],a[href*="facebook.com/share"],a[href*="twitter.com/share"]').addClass('nolightbox');
+/* IMG */
+var fb_IMG_select='a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpg"]:not(.nolightbox),a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a),area[href*=".jpeg"]:not(.nolightbox),a[href*=".png"]:not(.nolightbox,li.nolightbox>a),area[href*=".png"]:not(.nolightbox),a[href*=".webp"]:not(.nolightbox,li.nolightbox>a),area[href*=".webp"]:not(.nolightbox),a[href*=".gif"]:not(.nolightbox,li.nolightbox>a),area[href*=".gif"]:not(.nolightbox),a[href*=".image"]:not(.nolightbox,li.nolightbox>a),area[href*=".image"]:not(.nolightbox),a[href*=".upload"]:not(.nolightbox,li.nolightbox>a),area[href*=".upload"]:not(.nolightbox),a[href*=".wp-content/uploads/https://lh6.googleusercontent.com/WMr_1fByaKCNc1-8od95lifv1d9ILWbykdrdd0Ci1hCNfZJ8VGfq-e0YMxqK2khEEbCOBPhvkNY51xBEI1VLkdiwpYOjschlNvrGjFhYlYwyC3Y3emfbF6QxO2bf17ZHnRmjgDdL"]:not(.nolightbox,li.nolightbox>a),area[href*=".wp-content/uploads/https://lh6.googleusercontent.com/WMr_1fByaKCNc1-8od95lifv1d9ILWbykdrdd0Ci1hCNfZJ8VGfq-e0YMxqK2khEEbCOBPhvkNY51xBEI1VLkdiwpYOjschlNvrGjFhYlYwyC3Y3emfbF6QxO2bf17ZHnRmjgDdL"]:not(.nolightbox)';
+jQuery(fb_IMG_select).addClass('fancybox image').attr('rel','gallery');
+jQuery('a.fancybox,area.fancybox,li.fancybox a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'image','transitionIn':'none','easingIn':'easeOutBack','transitionOut':'none','easingOut':'easeInBack','opacity':false,'hideOnContentClick':true,'titleShow':false,'titlePosition':'over','titleFromAlt':false,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':true}))});
+/* Inline */
+jQuery('a.fancybox-inline,area.fancybox-inline,li.fancybox-inline a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'inline','autoDimensions':true,'scrolling':'no','easingIn':'easeOutBack','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':false}))});
+/* PDF */
+jQuery('a[href*=".pdf"],area[href*=".pdf"],a[href*=".PDF"],area[href*=".PDF"]').not('.nolightbox,li.nolightbox>a').addClass('fancybox-pdf');
+jQuery('a.fancybox-pdf,area.fancybox-pdf,li.fancybox-pdf a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':'90%','height':'90%','padding':10,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'autoDimensions':false,'scrolling':'no'}))});
+/* SWF */
+jQuery('a[href*=".swf"],area[href*=".swf"],a[href*=".SWF"],area[href*=".SWF"]').not('.nolightbox,li.nolightbox>a').addClass('fancybox-swf');
+jQuery('a.fancybox-swf,area.fancybox-swf,li.fancybox-swf a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'swf','width':680,'height':495,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'swf':{'wmode':'opaque','allowfullscreen':true}}))});
+/* SVG */
+jQuery('a[href*=".svg"],area[href*=".svg"],a[href*=".SVG"],area[href*=".SVG"]').not('.nolightbox,li.nolightbox>a').addClass('fancybox-svg');
+jQuery('a.fancybox-svg,area.fancybox-svg,li.fancybox-svg a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'svg','width':680,'height':495,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'svg':{'wmode':'opaque','allowfullscreen':true}}))});
+/* YouTube */
+jQuery('a.fancybox-youtube,area.fancybox-youtube,li.fancybox-youtube a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','keepRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':false,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fs=0")>-1)?false:true;o.href=a[i].href.replace(/https?:\/\/(?:www\.)?youtu(?:\.be\/([^\?]+)\??|be\.com\/watch\?(.*(?=v=))v=([^&]+))(.*)/gi,"https://www.youtube.com/embed/$1$3?$2$4&autoplay=1");}}))});
+/* Vimeo */
+jQuery('a[href*="vimeo.com/"],area[href*="vimeo.com/"]').filter(function(){return this.href.match(/\/(?:[0-9]+|video\/)/);}).not('.nolightbox,li.nolightbox>a').addClass('fancybox-vimeo');
+jQuery('a.fancybox-vimeo,area.fancybox-vimeo,li.fancybox-vimeo a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':500,'height':281,'keepRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fullscreen=0")>-1)?false:true;o.href=a[i].href.replace(/https?:\/\/(?:www\.)?vimeo\.com\/([0-9]+)\??(.*)/gi,"https://player.vimeo.com/video/$1?$2&autoplay=1");}}))});
+/* Dailymotion */
+jQuery('a[href*="dailymotion.com/"],area[href*="dailymotion.com/"]').filter(function(){return this.href.match(/\/video\//);}).not('.nolightbox,li.nolightbox>a').addClass('fancybox-dailymotion');
+jQuery('a.fancybox-dailymotion,area.fancybox-dailymotion,li.fancybox-dailymotion a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':560,'height':315,'keepRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':true,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fullscreen=0")>-1)?false:true;o.href=a[i].href.replace(/^https?:\/\/(?:www\.)?dailymotion.com\/video\/([^\?]+)(.*)/gi,"https://www.dailymotion.com/embed/video/$1?$2&autoPlay=1");}}))});
+/* iFrame */
+jQuery('a.fancybox-iframe,area.fancybox-iframe,li.fancybox-iframe a').each(function(){jQuery(this).fancybox(jQuery.extend({},fb_opts,{'type':'iframe','width':'70%','height':'90%','titleShow':false,'titlePosition':'float','titleFromAlt':true,'allowfullscreen':false}))});};
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+};
+var easy_fancybox_auto=function(){setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+jQuery(easy_fancybox_auto);
+</script>
+
+
+
+<script type="text/javascript" id="siteorigin-panels-front-styles-js-extra">
+/* <![CDATA[ */
+var panelsStyles = {"fullContainer":"body","stretchRows":"1"};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript">document.body.className = document.body.className.replace("siteorigin-panels-before-js","");</script>    <script src="//code.jivosite.com/widget/TQwlrqYQqf" async></script>
+<script src="//web.webformscr.com/apps/fc3/build/loader.js" sp-form-id="f5f9c2c0651e75b1f3fbaa3fd8058bc397c6e169ee71b97ed2ffad27346b7127"></script>
+<script defer src="wp-content/cache/autoptimize/js/autoptimize_a737aa257a5c5bb9c04e2f78312104cf.js"></script><script src="/s/98694e.js" async defer></script></body>
+
+</html>
+<!-- Dynamic page generated in 1.155 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-03-02 12:34:36 -->
+
+<!-- Compression = gzip -->

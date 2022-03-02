@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="ru-RU"><head>
+	    <meta charset="utf-8">
+    <title>Цифровая революция вашего бизнеса | REVOLUTION </title>
+<meta name="description" content="Наша компания предлагает комплексные IT-решения для Вас и Вашего бизнеса. Позвоните к нам +7 (843) 206-07-65 или напишите info@revo-studio.ru, и мы расскажем, как можно реализовать Вашу идею!">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="author" content="Digital-агентство REVOLUTION">
+<meta name="theme-color" content="#ff0d40">
+<meta name="google-site-verification" content="6sJmfzxcQF5OCg5HqJMvNuXS88Ddtya3dRT8PLOpiWY">
+<meta name="msapplication-navbutton-color" content="#ff0d40">
+<meta name="apple-mobile-web-app-status-bar-style" content="#ff0d40">
+<meta name="yandex-verification" content="a76f3abd90475544">
+<link rel="icon" sizes="192x192" href="assets/images/nice-highres.png">
+<base href="https://revo-studio.ru/">
+<link rel="shortcut icon" href="favicon.ico">
+<link rel="apple-touch-icon" href="assets/images/apple-icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="57x57" href="assets/images/apple-icons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="72x72" href="assets/images/apple-icons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="assets/images/apple-icons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="assets/images/apple-icons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="assets/images/apple-icons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="assets/images/apple-icons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="assets/images/apple-icons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-icons/apple-touch-icon-180x180.png">
+
+<!-- CDN -->
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400&amp;display=swap&amp;subset=cyrillic" rel="stylesheet">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+<link rel="stylesheet" href="assets/libs/animate/animate.css">
+<link rel="stylesheet" href="assets/compiled/css/basic.css?t=1646213669">
+
+<link rel="stylesheet" href="assets/compiled/css/devices/standard.css?t=1646213669">
+
+
+    <link rel="stylesheet" href="assets/compiled/css/pages/mainpage.css?t=1646213669">
+
+<meta property="business:contact_data:email" content="info@revo-studio.ru">
+<meta property="business:contact_data:phone_number" content="">
+<meta property="business:contact_data:website" content="https://revo-studio.ru/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="REVOLUTION">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="Наша компания предлагает комплексные IT-решения для Вас и Вашего бизнеса. Позвоните к нам +7 (843) 206-07-65 или напишите info@revo-studio.ru, и мы расскажем, как можно реализовать Вашу идею!">
+<meta name="twitter:creator" content="REVOLUTION">
+<meta name="twitter:image:src" content="https://revo-studio.ru//assets/images/brand/logo_150x150px.png">
+<meta name="twitter:domain" content="https://revo-studio.ru/">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:type" content="website">
+<meta property="og:title" content="">
+<meta property="og:description" content="Наша компания предлагает комплексные IT-решения для Вас и Вашего бизнеса. Позвоните к нам +7 (843) 206-07-65 или напишите info@revo-studio.ru, и мы расскажем, как можно реализовать Вашу идею!">
+<meta property="og:image" content="https://revo-studio.ru//assets/images/brand/logo_150x150px.png">
+<meta property="og:url" content="https://revo-studio.ru/">
+<meta property="og:site_name" content="REVOLUTION">
+<meta property="og:see_also" content="https://revo-studio.ru//">
+<meta name="cmsmagazine" content="dae30888d78f62b31041797de26e2809">
+<meta name="yandex-verification" content="4134d168891df10f">	    
+	<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css">
+<script src="https://www.google.com/recaptcha/api.js?onload=ReCaptchaCallbackV3&amp;render=6LcoGd8UAAAAAMu31_0EELLrqFBjNSh4tZt8qYRg" async></script>
+</head>
+	        <body class="main_page_body">
+            
+        <div id="cover-header">
+    <div class="phone">
+        <a href="tel:+78432060765" rel="nofollow" onclick="ym(54645607, 'reachGoal', 'phone_kazan'); return true;">+7 (843) 206-07-65</a>
+    </div>
+    <nav id="cover-header-nav-menu--wrapper">
+        <div class="container">
+            <div id="cover-header-nav-menu" class="row">
+                <div class="d-none d-md-block col-md-2"></div>
+                <div class="col-md-3">
+                    <div class="menu"><p class="menu-item"><a href="blog" class="menu-link">Блог</a></p><p class="menu-item"><a href="contacts" class="menu-link">Контакты</a></p></div>                </div>
+                <div class="col-md-3">
+                    <div class="menu"><p class="menu-item"><a href="services" class="menu-link">Услуги</a></p><div class="submenu"><p class="menu-item"><a href="services/development" class="menu-link">Разработка</a></p><p class="menu-item"><a href="services/internet-marketing" class="menu-link">Интернет-маркетинг</a></p><p class="menu-item"><a href="services/support" class="menu-link">Поддержка</a></p></div></div>                </div>
+                <div class="col-md-4">
+                    <div class="menu"><p class="menu-item"><a href="for-company" class="menu-link">О нас</a></p><div class="submenu"><p class="menu-item"><a href="privacy-policy" class="menu-link">Политика конфиденциальности</a></p><p class="menu-item"><a href="soglasie-na-obrabotku-personalnyix-dannyix" class="menu-link">Обработка личных данных</a></p><p class="menu-item"><a href="requisites" class="menu-link">Реквизиты</a></p><p class="menu-item"><a href="faq" class="menu-link">FAQ</a></p></div></div>                </div>
+            </div>
+        </div>
+    </nav>
+</div>
+<div id="fixed-header">
+    <div class="content">
+        <div class="logo">
+            <a href="/">
+                <img src="assets/images/logo_round.png" alt="Логотип digital–агентства Revolution" title="Логотип digital–агентства Revolution" class="logo">
+            </a>
+        </div>
+        <div id="burger-wrapper">
+            <div id="burger" class="close">
+                <div class="b-line"></div>
+                <div class="b-line"></div>
+                <div class="b-line"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<header id="desktop_header">
+    <div class="container">
+        <div class="row navi-line">
+            <div class="col left-panel">
+            </div>
+            <div class="col-5 central-panel">
+                <ul class=""><li class="first"><a href="for-company">О нас</a></li><li><a href="services">Услуги</a></li><li><a href="blog">Блог</a></li><li class="last"><a href="contacts">Контакты</a></li></ul>            </div>
+            <div class="col right-panel">
+                <a href="mailto:info@revo-studio.ru" onclick="ym(64645315,'reachGoal','email'); ga('send', 'event', 'email', 'send'); return true;" rel="nofollow">
+                    <span>info@revo-studio.ru</span>
+                    <small>По всем вопросам</small>
+                </a>
+            </div>    
+            <div class="col right-panel">
+                <a href="tel:+78432060765" rel="nofollow" onclick="ym(54645607, 'reachGoal', 'phone_kazan'); return true;">
+                    <span>+7 (843) 206-07-65</span>
+                    <small>Офисная АТС</small>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>        
+        
+		
+    <div id="mainwindow">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-8 col-md-8 col-lg-8 col-xl-8">
+                <div class="maincaption">
+                    <p class="h3">Цифровая революция вашего бизнеса</p>
+                    <p class="h4">Сайты / приложения / реклама и продвижение</p>
+                </div>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4 col-lg-4 col-xl-4 right-panel">
+                <a href="#servicesCall" data-fancybox="" class="btn btn-danger circle custom custom1 animated heartBeat infinite delay-2s slower"><p><span>Start</span><small>начать работу</small></p></a>
+            </div>
+        </div>
+        <div class="row mt-5 mt-lg-3 last-row">
+            <div class="col-12 col-sm-4 col-md-4 col-lg-4 col-xl-3 desc">
+                <p class="h5"><a href="for-company" target="blank" rel="nofollow">Комплексные<br>решения</a></p>
+                <p class="desc-text">Цель нашей работы – снять максимальное количество проблем клиента, что бы он остался доволен.</p>
+                <a href="mailto:info@revo-studio.ru" rel="nofollow" onclick="ym(64645315,'reachGoal','email'); ga('send', 'event', 'email', 'send'); return true;" class="btn btn-danger btn-round">Написать нам</a>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4 col-lg-4 col-xl-3 desc">
+                <p class="h5"><a href="for-company" target="blank" rel="nofollow">Гибкий подход<br>к любому бизнесу</a></p>
+                <p class="desc-text">Мы глубоко вникаем в продукт различной тематики. Нас не напугать спецификой бизнеса.</p>
+                <a href="assets/files/Prezentatsia_Revolution_Studio_2020.pdf" onclick="ym(64645315,'reachGoal','presentation'); ga('send', 'event', 'presentation', 'download'); return true" class="btn btn-outline-light btn-round" download>Скачать презентацию</a>
+            </div>
+            <div class="col-12 col-sm-4 col-md-4 col-lg-4 col-xl-3 desc">
+                <p class="h5"><a href="for-company" target="blank" rel="nofollow">Долгосрочное<br>сотрудничество</a></p>
+                <p class="desc-text">Около 80% наших клиентов, возвращаются с новыми идеями*</p>
+                <p class="desc-text"><small>* Цифра постоянно растёт!</small></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="servicesCall" style="display: none;">
+    <p class="h2">Начать работу</p>
+    <form action="" method="post" class="ajax_form" onsubmit="ym(64645315,'reachGoal','servicesCall'); ga('send', 'event', 'call_back', 'onsubmit'); return true;">
+    <input type="text" id="noner_servicesCall" name="noner_servicesCall" value="" style="display:none;">
+    <input type="hidden" id="enjbfvgf" name="enjbfvgf" value="">
+    <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 form-group">
+            <label class="control-label" for="af_namestrterte">Ваше Имя*</label>
+            <div class="controls">
+                <input type="text" id="af_namestrterte" name="namestrterte" value="" placeholder="" class="form-control" required>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 form-group">
+            <label class="control-label" for="af_phonefdhfghfh">Контактный Телефон*</label>
+            <div class="controls">
+                <input type="text" id="af_phonefdhfghfh" name="phonefdhfghfh" value="" placeholder="" class="form-control" required>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-6 form-group">
+            <label class="control-label" for="af_emailtynubyvn">Электронная почта*</label>
+            <div class="controls">
+                <input type="email" id="af_emailtynubyvn" name="emailtynubyvn" value="" placeholder="" class="form-control" required>
+            </div>
+        </div>
+    </div>
+    
+    <span class="error_g-recaptcha-response error error_message"></span>
+    <input type="hidden" name="g-recaptcha-response">
+    <div class="form-group agree">
+        <p>Нажимая на кнопку "Отправить", я даю согласие на обработку, хранение и передачу третьим лицам своих персональных данных в соответствии с Федеральным законом от 27.06.2006г. №152-ФЗ "О персональных данных".</p>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-dark">Отправить</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="a8a96bdf4f7f7265afc02c0cdab24b30">
+</form></div>    <div id="agency_content">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-12 col-sm-12 col-md-6 offset-md-1 col-lg-6 offset-lg-1 col-xl-6 offset-xl-1 left-flex">
+                <div class="wrapper">
+                    <h2 class="h1">О нас</h2>
+                    <p>Мы компания, которая предлагает комплексные IT-решения для Вас или Вашего бизнеса.</p>
+<p>Вникаем в вашу нишу и выбираем оптимальную стратегию в зависимости от доступного бюджета.</p>
+<p>Цель всей нашей работы - достигнуть максимального результата, за минимально возможные финансовые и временные затраты.</p>                </div>
+            </div>
+            <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                <img data-src="assets/images/target.jpg" alt="О нас REVOLUTION" title="О нас REVOLUTION" class="mw-100">
+            </div>
+        </div>
+    </div>
+</div>    <div id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <h2>Наши услуги</h2>
+            </div>
+        </div>
+        <div class="row services-row justify-content-center">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-4 services-item">
+    <a href="services/development" class="outer">
+        <p class="h5">Разработка</p>
+        <p></p><p>Разработка сайтов,<br>мобильных и веб-приложений.</p>
+        <p>Подробнее &gt;&gt;</p>
+    </a>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-4 services-item">
+    <a href="services/internet-marketing" class="outer">
+        <p class="h5">Интернет-маркетинг</p>
+        <p></p><p>SEO и SMM продвижение.<br> Таргетированная и контекстная реклама.</p>
+        <p>Подробнее &gt;&gt;</p>
+    </a>
+</div>
+<div class="col-12 col-sm-6 col-md-4 col-lg-4 services-item">
+    <a href="services/support" class="outer">
+        <p class="h5">Поддержка</p>
+        <p></p><p>Техническая и информационная поддержка<br>IT-продуктов.</p>
+        <p>Подробнее &gt;&gt;</p>
+    </a>
+</div>        </div>
+    </div>
+</div>
+    <div id="works">
+    <div class="container">
+        <div class="row no-gutters">
+            <div class="col-6 col-md-4 one-work">
+            <a href="http://ees.kz" rel="nofollow" target="blank">
+                <img src="assets/images/resources/66/ees.jpg" alt="Разработка сайта ТОО «EES Kazakhstan»" title="Разработка сайта ТОО «EES Kazakhstan»" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">EES Kazakhstan</p>
+                <p class="introtext">Разработка интернет-магазина по продаже вентиляционного оборудования</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="https://ultash.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/76/bgspdwbwihi.jpg" alt="Разработка новой версии сайта Юлташ" title="Разработка новой версии сайта Юлташ" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">Кафе Юлташ</p>
+                <p class="introtext">Разработка новой версии сайта доставки еды из кафе «Юлташ»</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="http://myschool2.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/68/nosh2.jpg" alt="Разработка сайта «МБОУ НОШ №2»" title="Разработка сайта «МБОУ НОШ №2»" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">МБОУ НОШ №2</p>
+                <p class="introtext">Разработка корпоративного сайта для начальной школы в соответствии со всеми ГОСТ-стандартами</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="http://megaiva.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/70/mega-iva.jpg" alt="Разработка сайта сети магазинов «Мега-Ивушка»" title="Разработка сайта сети магазинов «Мега-Ивушка»" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">Мега-Ивушка</p>
+                <p class="introtext">Разработка интернет-магазина для сети «Мега-Ивушка» по продаже текстиля</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="https://ipnstankostroenie.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/77/3vyc4gre.jpg" alt="Разработка сайта ИПН Станкостроение (РОСАТОМ)" title="Разработка сайта ИПН Станкостроение (РОСАТОМ)" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">ИПН Станкостроение</p>
+                <p class="introtext">Разработка новой версии сайта ИПН Станкостроение (РОСАТОМ)</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="https://revo-studio.ru/blog/case-proshiny21" rel="nofollow" target="blank">
+                <img src="assets/images/resources/50/proshinyi.jpg" alt="Разработка и продвижение сайта ProШины21" title="Разработка и продвижение сайта ProШины21" class="mw-100">
+            <div class="intro black-color">
+                <p class="h4">ProШины21</p>
+                <p class="introtext">Разработка и продвижение интернет-магазина «ProШины21» по продаже шин и дисков</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="https://kfsu.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/52/kfsu.jpg" alt="Разработка и реклама сайта КФСУ" title="Разработка и реклама сайта КФСУ" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">КФСУ</p>
+                <p class="introtext">Разработка и реклама корпоративного сайта «Коломенской фабрики сувенирной продукции»</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="https://damilo.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/53/damilo.jpg" alt="Разработка сайта Damilo" title="Разработка сайта Damilo" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">Damilo</p>
+                <p class="introtext">Разработка корпоративного сайта по продаже трикотажной продукции «Damilo»</p>
+            </div>
+        </a>
+</div>
+<div class="col-6 col-md-4 one-work">
+            <a href="https://totaldiesel.ru" rel="nofollow" target="blank">
+                <img src="assets/images/resources/51/total.jpg" alt="Разработка сайта Totaldiesel" title="Разработка сайта Totaldiesel" class="mw-100">
+            <div class="intro white-color">
+                <p class="h4">Totaldiesel</p>
+                <p class="introtext">Разработка интернет-магазина «Тоталдизель» по продаже автозапчастей</p>
+            </div>
+        </a>
+</div>        </div>
+    </div>
+</div>    <div id="awards">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <p class="h2">Наши награды</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-6 col-sm-6 col-md-6 col-lg col-xl custom-href award" data-href="https://ratingruneta.ru/web/cheboksary/" data-target="blank">
+    <div class="one-award-item">
+        <div class="caption">
+            <p class="year">2020</p>
+            <p class="result">5 место</p>
+            <p class="nomination">Рейтинг ведущих разработчиков сайтов Чебоксар</p>
+            <p class="event">Рейтинг Рунета</p>
+        </div>
+    </div>
+</div><div class="col-6 col-sm-6 col-md-6 col-lg col-xl custom-href award" data-href="https://ratingruneta.ru/web/modx/" data-target="blank">
+    <div class="one-award-item">
+        <div class="caption">
+            <p class="year">2020</p>
+            <p class="result">29 место</p>
+            <p class="nomination">Рейтинг разработчиков сайтов на MODX</p>
+            <p class="event">Рейтинг Рунета</p>
+        </div>
+    </div>
+</div><div class="col-6 col-sm-6 col-md-6 col-lg col-xl custom-href award" data-href="https://wadline.ru/modx/ru" data-target="blank">
+    <div class="one-award-item">
+        <div class="caption">
+            <p class="year">2020</p>
+            <p class="result">10 место</p>
+            <p class="nomination">Рейтинг разработчиков на MODx / Россия</p>
+            <p class="event">WADLINE</p>
+        </div>
+    </div>
+</div><div class="col-6 col-sm-6 col-md-6 col-lg col-xl custom-href award" data-href="https://wadline.ru/seo/ru" data-target="blank">
+    <div class="one-award-item">
+        <div class="caption">
+            <p class="year">2020</p>
+            <p class="result">20 место</p>
+            <p class="nomination">Рейтинг SEO агентств / Россия</p>
+            <p class="event">WADLINE</p>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+</div>    <div id="clients">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12">
+                <p class="h2">Наши клиенты</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="owl-carousel">
+                    <div><img src="assets/images/clients_logo/chemk лого1.png" alt="Чебоксарский электромеханический колледж, Чебоксары" title="Чебоксарский электромеханический колледж, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/каравай лого1.png" alt="Сеть пекарен «Каравай», Чебоксары" title="Сеть пекарен «Каравай», Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/Bia mara лого1.png" alt="Ресторан BIA MARA, Чебоксары" title="Ресторан BIA MARA, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/ecobuilding лого1.png" alt="EcoBuilding Group, Чебоксары" title="EcoBuilding Group, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/кфсу лого1.png" alt="Коломенская фабрика сувенирной упаковки, Коломна" title="Коломенская фабрика сувенирной упаковки, Коломна" class="mw-100"></div><div><img src="assets/images/clients_logo/totaldiesel лого1.png" alt="TotalDiesel, Москва" title="TotalDiesel, Москва" class="mw-100"></div><div><img src="assets/images/clients_logo/картины лого1.png" alt="ДаКартина, Москва" title="ДаКартина, Москва" class="mw-100"></div><div><img src="assets/images/clients_logo/академия экскурсий лого1.png" alt="Академия экскурсий и праздников, Санкт-Петербург" title="Академия экскурсий и праздников, Санкт-Петербург" class="mw-100"></div><div><img src="assets/images/clients_logo/big-expo-ru лого (1).png" alt="Big-Expo.ru, Чебоксары" title="Big-Expo.ru, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/тригон лого1.png" alt="Тригон, Чебоксары" title="Тригон, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/cardis лого1.jpg" alt="Компания «Кардис», Нижний Новгород" title="Компания «Кардис», Нижний Новгород" class="mw-100"></div><div><img src="assets/images/clients_logo/школа 2 лого1.png" alt="Начальная общеобразовательная школа №2, Чебоксары" title="Начальная общеобразовательная школа №2, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/ProШины21 лого1.png" alt="ProШины21, Чебоксары" title="ProШины21, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/пироснаб лого1.png" alt="ПИРОСНАБ ПОВОЛЖЬЕ, Чебоксары" title="ПИРОСНАБ ПОВОЛЖЬЕ, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/уралтрейлер лого1.jpg" alt="«УРАЛТРЕЙЛЕР», Екатеринбург" title="«УРАЛТРЕЙЛЕР», Екатеринбург" class="mw-100"></div><div><img src="assets/images/clients_logo/трейлеравто лого1.png" alt="«ТРЕЙЛЕРАВТО», Домодедово" title="«ТРЕЙЛЕРАВТО», Домодедово" class="mw-100"></div><div><img src="assets/images/clients_logo/bigfasad лого1.png" alt="BigFasad.ru, Чебоксары" title="BigFasad.ru, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/техн ремонта лого1.png" alt="Технология ремонта, Москва" title="Технология ремонта, Москва" class="mw-100"></div><div><img src="assets/images/clients_logo/luckyстрой лого1.png" alt="LuckyСтрой, Пермь" title="LuckyСтрой, Пермь" class="mw-100"></div><div><img src="assets/images/clients_logo/музтон лого1.png" alt="МузТон, Новосибирск" title="МузТон, Новосибирск" class="mw-100"></div><div><img src="assets/images/clients_logo/ирис лого1.png" alt="IRIS: текстильная компания, Москва" title="IRIS: текстильная компания, Москва" class="mw-100"></div><div><img src="assets/images/clients_logo/ферекс лого..png" alt="Технология надежности, Чебоксары" title="Технология надежности, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/промэл21 лого11.png" alt="ПромЭл, Чебоксары" title="ПромЭл, Чебоксары" class="mw-100"></div><div><img src="assets/images/clients_logo/ees-kz лого1.png" alt="«EES Kazakhstan» Продажа вентиляционного оборудования, Алматы" title="«EES Kazakhstan» Продажа вентиляционного оборудования, Алматы" class="mw-100"></div>                </div>    
+            </div>
+        </div>
+    </div>
+</div>    <div id="startWork">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <p class="h2">Начать работу</p>
+                <p>Свяжитесь с нами через простую форму. Пора начать цифровую революцию вашего бизнеса!</p>
+                <form action="" method="post" class="ajax_form" onsubmit="ym(64645315,'reachGoal','startWork'); ga('send', 'event', 'start_work', 'onsubmit'); return true;">
+    <input type="text" id="noner_startWork" name="noner_startWork" value="" style="display:none;">
+    <input type="hidden" id="uintybjy" name="uintybjy" value="">
+    <div class="row">
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 form-group">
+            <label class="control-label" for="af_nameyuinkbvfgndb">Ваше Имя</label>
+            <div class="controls">
+                <input type="text" id="af_nameyuinkbvfgndb" name="nameyuinkbvfgndb" value="" placeholder="" class="form-control" required>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 form-group">
+            <label class="control-label" for="af_phoneyuinbvth">Контактный Телефон</label>
+            <div class="controls">
+                <input type="text" id="af_phoneyuinbvth" name="phoneyuinbvth" value="" placeholder="" class="form-control" required>
+            </div>
+        </div>
+        <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 form-group">
+            <label class="control-label" for="af_emailiyonubjvfd">Электронная почта</label>
+            <div class="controls">
+                <input type="email" id="af_emailiyonubjvfd" name="emailiyonubjvfd" value="" placeholder="" class="form-control" required>
+            </div>
+        </div>
+    </div>
+    
+    <span class="error_g-recaptcha-response error error_message"></span>
+    <input type="hidden" name="g-recaptcha-response">
+    <div class="form-group agree">
+        <p>Нажимая на кнопку "Отправить", я даю согласие на обработку, хранение и передачу третьим лицам своих персональных данных в соответствии с Федеральным законом от 27.06.2006г. №152-ФЗ "О персональных данных".</p>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-outline-light">Отправить</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="ab065568171ce87f8c07ea1ab6fca0e0">
+</form>            </div>
+        </div>
+    </div>
+</div>
+    	
+		
+        <footer>
+    <div class="container">
+        <div class="row align-items-center menu-row">
+            <div class="col-2 col-sm-2 col-md-2 col-lg-2 col-xl-2">
+                <a href="/"><img src="assets/images/logo_round.png" alt="Логотип digital–агентства Revolution" title="Логотип digital–агентства Revolution" class="logo"></a>
+            </div>
+            <div class="col col-sm col-md col-lg col-xl text-logo">
+                <p class="first">Digital-агентство REVOLUTION</p>
+                <p class="last">Цифровая революция вашего бизнеса</p>
+            </div>
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl menu text-right">
+                <ul class=""><li class="first"><a href="for-company">О нас</a></li><li><a href="services">Услуги</a></li><li><a href="blog">Блог</a></li><li class="last"><a href="contacts">Контакты</a></li></ul>            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-12 col-sm-8 col-md-8 col-lg-9">
+                <div class="social">
+                    <a href="https://vk.com/da_revolution" target="blank" rel="nofollow">vkontakte: <span>/da_revolution</span></a>
+                    <a href="https://www.instagram.com/rus_revostudio/" target="blank" rel="nofollow">instagram: <span>/rus_revostudio</span></a>
+                    <a href="https://www.facebook.com/rusdarevolution/" target="blank" rel="nofollow">facebook: <span>/rusdarevolution</span></a>
+                </div>
+                <div class="contacts">
+                    <a href="mailto:info@revo-studio.ru" onclick="ym(64645315,'reachGoal','email'); ga('send', 'event', 'email', 'send'); return true;" rel="nofollow">info@revo-studio.ru</a>
+                    <a href="tel:+78432060765" onclick="ym(64645315,'reachGoal','phone_footer'); ga('send', 'event', 'phone', 'call'); return true;" rel="nofollow">+7 (843) 206-07-65</a>
+                    <a href="$">пн-пт: с 10:00 до 19:00</a>
+                </div>
+                <div class="present">
+                    <a href="assets/files/price.pdf" onclick="ym(64645315,'reachGoal','price'); ga('send', 'event', 'price', 'download'); return true" class="btn btn-outline-light" download>Скачать актуальный прайс-лист на наши услуги</a>
+                </div>
+            </div> 
+            <div class="col-12 col-sm-4 col-md-4 col-lg-3 right-menu">
+                <ul class=""><li class="first"><a href="privacy-policy">Политика конфиденциальности</a></li><li><a href="soglasie-na-obrabotku-personalnyix-dannyix">Обработка личных данных</a></li><li><a href="requisites">Реквизиты</a></li><li class="last"><a href="faq">FAQ</a></li></ul>            </div> 
+        </div>
+        
+        <div class="row">
+            <div class="col text-right">
+                2018 – 2021 © REVOLUTION. Все права защищены.
+            </div> 
+        </div>
+    </div>
+</footer>        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+<script src="assets/js/counters.js"></script>
+<script src="assets/scripts/scripts.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="assets/scripts/main_page.js"></script>
+	<script src="/assets/components/ajaxform/js/default.js"></script>
+<script>AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","pageId":1});</script>
+
+        <script>
+            var ReCaptchaCallbackV3 = function() {
+                grecaptcha.ready(function() {
+                    grecaptcha.reset = grecaptchaExecute;
+                    grecaptcha.reset();
+                });
+            };
+            function grecaptchaExecute() {
+                grecaptcha.execute("6LcoGd8UAAAAAMu31_0EELLrqFBjNSh4tZt8qYRg", { action: "servicesCall" }).then(function(token) {
+                    var fieldsToken = document.querySelectorAll("[name ='g-recaptcha-response']");
+                    Array.prototype.forEach.call(fieldsToken, function(el, i){
+                        el.value = token;
+                    });
+                });
+            };
+        </script>
+    
+
+<script src="https://vk.com/js/api/openapi.js?168"></script>
+
+
+<div id="vk_community_messages"></div>
+<script>VK.Widgets.CommunityMessages("vk_community_messages", 130045321, { expandTimeout: "30000",tooltipButtonText: "Мы поможем разобраться!" });</script>
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "Digital-агентство REVOLUTION",
+  "url" : "https://revo-studio.ru/",
+  "sameAs" : [
+    "https://vk.com/da_revolution",
+    "https://workspace.ru/contractors/revo-studio/",
+    "https://wadline.ru/revostudio",
+    "https://www.instagram.com/rus_revostudio/",
+    "https://www.facebook.com/rusdarevolution/",
+    "https://www.behance.net/revostudio"
+  ]
+}
+</script>
+
+</body>
+</html>

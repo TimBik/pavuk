@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="windows-1251" />
+<!--
+Ãîñïîäè Èèñóñå Õðèñòå, Ñûíå Áîæèé, îãðàäè
+ðàáà Òâîåãî Ìèõàèëà ñâÿòûìè Òâîèìè àíãåëû,
+ìîëèòâàìè Âñåïðå÷èñòûÿ Âëàäû÷èöû íàøåÿ
+Áîãîðîäèöû è Ïðèñíîäåâû Ìàðèè, ñèëîþ
+×åñòíàãî è Æèâîòâîðÿùàãî Êðåñòà, ñâÿòàãî
+àðõèñòðàòèãà Áîæèÿ Ìèõàèëà è ïðî÷èõ Íåáåñíûõ
+ñèë áåñïëîòíûõ, ñâÿòàãî ïðîðîêà, Ïðåäòå÷è
+è Êðåñòèòåëÿ Ãîñïîäíÿ Èîàííà, ñâÿòàãî
+àïîñòîëà è åâàíãåëèñòà Èîàííà Áîãîñëîâà,
+ñâÿùåííîìó÷åíèêà Êèïðèàíà è ìó÷åíèöû
+Èóñòèíû, ñâÿòèòåëÿ Íèêîëàÿ, àðõèåïèñêîïà
+Ìèð Ëèêèéñêèõ, ×óäîòâîðöà, ñâÿòèòåëÿ Ëüâà,
+åïèñêîïà Êàòàíñêàãî, ñâÿòèòåëÿ Íèêèòû
+Íîâãîðîäñêàãî, ñâÿòèòåëÿ Èîàñàôà Áåëãîðîäñêàãî,
+ñâÿòèòåëÿ Ìèòðîôàíà Âîðîíåæñêàãî, ïðåïîäîáíàãî
+Ñåðãèÿ, èãóìåíà Ðàäîíåæñêàãî, ïðåïîäîáíûõ
+Çîñèìû è Ñàââàòèÿ Ñîëîâåöêèõ, ïðåïîäîáíàãî
+Ñåðàôèìà Ñàðîâñêàãî, ÷óäîòâîðöà, ñâÿòûõ
+ìó÷åíèö Âåðû, Íàäåæäû, Ëþáîâè è ìàòåðè èõ
+Ñîôèè, ñâÿòàãî ìó÷åíèêà Òðèôîíà, ñâÿòûõ è
+ïðàâåäíûõ áîãîîòåö Èîàêèìà è Àííû è âñåõ
+ñâÿòûõ Òâîèõ, ïîìîçè ðàáó Òâîåìó Ìèõàèëó,
+èçáàâè åãî îò âñåõ íàâåò âðàæèèõ, îò âñÿêàãî
+çëà, êîëäîâñòâà, âîëøåáñòâà, ÷àðîäåéñòâà è
+îò ëóêàâûõ ÷åëîâåê, äà íå âîçìîãóò îíè
+ïðè÷èíèòè åìó íèêîåãî çëà. Ãîñïîäè, ñâåòîì
+Òâîåãî ñèÿíèÿ ñîõðàíè ðàáà Òâîåãî Ìèõàèëà
+çàóòðà, è ïîëóäíå, è âå÷åð, è íà ñîí ãðÿäóùàãî
+è ñèëîþ áëàãîäàòè Òâîåÿ îòâðàòè è óäàëè
+âñÿêàÿ çëàÿ íå÷åñòèÿ, äåéñòâóåìàÿ ïî íàóùåíèþ
+äèàâîëà. Àùå êîå çëî çàìûñëåíî èëè ñîäåëàíî
+åñòü, âîçâðàòè åãî ïàêè â ïðåèñïîäíþþ. ßêî
+Òâîå åñòü öàðñòâî, è ñèëà, è ñëàâà, Îòöà è
+Ñûíà è Ñâÿòàãî Äóõà. Àìèíü.
+-->
+<!--
+Æèâûé â ïîìîùè Âûøíÿãî, â êðîâå Áîãà Íåáåñíàãî âîäâîðèòñÿ. Ðå÷åò Ãîñïîäåâè: Çàñòóïíèê ìîé åñè
+è Ïðèáåæèùå ìîå, Áîã ìîé, óïîâàþ íà Íåãî. ßêî Òîé èçáàâèò òÿ îò ñåòè ëîâ÷è, è îò ñëîâåñè
+ìÿòåæíà, ïëåùìà Ñâîèìà îñåíèò òÿ, è ïîä êðèëå Åãî íàäååøèñÿ: îðóæèåì îáûäåò òÿ èñòèíà Åãî.
+Íå óáîèøèñÿ îò ñòðàõà íîùíàãî, îò ñòðåëû ëåòÿùèÿ âî äíè, îò âåùè âî òìå ïðåõîäÿùèÿ, îò ñðÿùà,
+è áåñà ïîëóäåííàãî. Ïàäåò îò ñòðàíû òâîåÿ òûñÿùà, è òìà îäåñíóþ òåáå, ê òåáå æå íå ïðèáëèæèòñÿ,
+îáà÷å î÷èìà òâîèìà ñìîòðèøè, è âîçäàÿíèå ãðåøíèêîâ óçðèøè. ßêî Òû, Ãîñïîäè, óïîâàíèå ìîå,
+Âûøíÿãî ïîëîæèë åñè ïðèáåæèùå òâîå. Íå ïðèèäåò ê òåáå çëî, è ðàíà íå ïðèáëèæèòñÿ òåëåñè òâîåìó,
+ÿêî Àíãåëîì Ñâîèì çàïîâåñòü î òåáå, ñîõðàíèòè òÿ âî âñåõ ïóòåõ òâîèõ. Íà ðóêàõ âîçìóò òÿ, äà
+íå êîãäà ïðåòêíåøè î êàìåíü íîãó òâîþ, íà àñïèäà è âàñèëèñêà íàñòóïèøè, è ïîïåðøè ëüâà è çìèÿ.
+ßêî íà Ìÿ óïîâà, è èçáàâëþ è: ïîêðûþ è, ÿêî ïîçíà èìÿ Ìîå. Âîççîâåò êî Ìíå, è óñëûøó åãî; ñ íèì
+åñìü â ñêîðáè; èçìó åãî, è ïðîñëàâëþ åãî, äîëãîòîþ äíåé èñïîëíþ åãî, è ÿâëþ åìó ñïàñåíèå Ìîå.
+-->
+<!--
+Ñëàâà Îòöó è Ñûíó è Ñâÿòîìó Äóõó, è íûíå, è ïðèñíî, è âî âåêè âåêîâ! Àìèíü!
+-->
+
+ <meta name="robots" content="index,follow">
+ <meta name="author" content="M. E. Shmelev" />
+ <meta name="generator" content="Quick Òÿï-Ëÿï Html 3.4" />
+ <title>Super-M</title>
+ <style type="text/css">
+ body {
+  background-image: url(smfon.gif);
+  background-color:black;
+  color:#d8d8d8;
+  margin:0;
+  font-family:Verdana, sans-serif;
+  voice-family:male;
+  speech-rate:slow;
+  volume:loud;
+ }
+ a:link {
+  color: #60a082;
+  voice-family:child;
+ }
+ a:visited {
+  color: #60a082;
+  voice-family:child;
+ }
+ a:hover {color: white}
+ address {
+  color:#858585;
+  font-family:Lucida Console, Courier, monopace;
+  font-style:normal;
+  font-weight:normal;
+  text-align:center;
+  font-size:12px;
+  voice-family: female;
+  stress: 60;
+  richness: 75;
+  pause-before: 50%; pause-after: 50%;
+  azimuth:far-right;
+  speech-rate:x-slow;
+  pitch:x-low;
+  display:block;
+ }
+ hr {
+  color:#5a5a5a;
+ }
+ h1 {
+  color:#c4bfd5;
+  font-family:Times New Roman, Times, serif;
+  font-size:15pt;
+  text-align:center;
+  voice-family: female;
+  stress: 20;
+  richness: 70;
+  pause-before: 70%; pause-after: 30%;
+  azimuth:center-left;
+ }
+ h1.nav {
+  color:#8b8bf5;
+  font-family:Arial, sans-serif;
+  font-size:9px;
+ }
+ nav {
+   text-align:center;
+   font-size:8px;
+ }
+ p {
+   margin:5px;
+ }
+ p.txt {
+  color:#acacac;
+  font-family:Tahoma, Arial, sans-serif;
+  font-size:10px;
+  font-weight:bold;
+  text-align:justify;
+  margin:8px;
+ }
+ h1.m {color:white; text-align:center; font-size:16pt; font-family:sans-serif;}
+ p.m {color:white; font-size:10pt; text-align:justify; font-style:normal;}
+ .luna {
+   color:black;
+   text-shadow:white 0px 0px 5px;
+ }
+ ul {
+  color:#8f8f8f;
+  font-family:Lucida Console, Courier, monopace;
+  font-style:normal;
+  font-weight:normal;
+  text-align:justify;
+  font-size:10px;
+  list-style-image:url(another/newschk.gif);
+  margin-left:20px;
+ }
+ h1.news {
+  color:#a2a2a2;
+  font-family:Lucida Console, Courier, monopace;
+  font-weight:bold;
+  text-align:justify;
+  font-size:11px;
+  cursor:help;
+ }
+ h1.opros {
+   font-family:Arial, sans-serif;
+   font-size:16px;
+ }
+ h1.news1 {
+  font-family:Tahoma, sans-serif;
+  font-weight:bold;
+  text-align:center;
+  font-size:18px;
+  text-shadow:#00f042 1px 1px 1px;
+  margin-left:15%;
+  margin-right:15%;
+  margin-top:0px;
+  margin-bottom:16px;
+  padding:8px;
+  border:1px solid #00f042;
+  border-radius:8px;
+ }
+ h1.news2 {
+  font-family:Arial, sans-serif;
+  font-weight:bold;
+  text-align:center;
+  font-size:18px;
+  text-shadow:#00f042 1px 1px 1px;
+ }
+ textarea.cleverText {
+   background-color:black;
+   background-image: url(smfon.gif);
+   color:#bdc7e7;
+   font-family:Tahoma, sans-serif;
+   font-size:11px;
+   width:98%;
+   height:80px;
+   border:0;
+ }
+ .myAns {
+   background-color:transparent;
+   color:#bdc8e8;
+   width:98%;
+   border:0;
+ }
+ input.yo {
+  background-image:url(misc/1.png); color:#520052; font-family:Courier New;
+ }
+ input.yo2 {
+  background-image:url(misc/1.png); color:#520052; font-family:Courier New;
+  font-weight:bold; font-style:italic; border: 2px solid red;
+ }
+ p.pv {
+  text-align:center;
+  color:white;
+  font-family:Arial, sans-serif;
+  font-size:25pt;
+ }
+ td.foot {
+   text-align:left;
+   vertical-align:top;
+   padding:5px;
+   font-family:Arial, sans-serif;
+   font-size:11pt;
+   width:25%;
+ }
+ h2 {
+   text-align:left;
+   color:#b598eb;
+   font-family:Bookman Old Style, serif;
+   font-size:15pt;
+   font-style:italic;
+   text-shadow:white 1px 1px 1px;
+ }
+ td.foot a {
+   color:#00ff00;
+   text-decoration:none;
+ }
+ td.foot a:hover {
+   color:#ffb888;
+   text-decoration:none;
+ }
+ </style>
+<script language="JavaScript">
+<!--// author Super-M, 2004
+function djYo() {
+ var btext;
+ btext = "<html><head><title>.......<\/title>\n"+
+  "<script language=\"JavaScript\"><"+"!--\/\/x\n";
+ btext += "var buf=\"\";\n"+
+  "function doBred() {\n"+
+  "var num;\nnum=Math.floor(Math.random()*128);\n"+
+  "num+=128;\nbuf=\"&#\"+num+\"; \"+buf;\n";
+ btext += " var fd=ifrm.document;\nfd.open();\n"+
+  " fd.write(\"<html><head><style type=text\\\/css>\"+\n"+
+  " \"body {background-color:black; background-image:url(another/moon.gif); color:blue;}\"+"+
+  "\n\"<\\\/style><\\\/head><body>\"+buf+\"<\\\/body><\\\/html>\");";
+ btext += "\n fd.close();\nsetTimeout(\"doBred()\",100);\n"+
+  " }\n\/\/--><\/script>\n<style type=text\/css>\n"+
+  "body {background-color:black; background-image:url(another/moon.gif);\n"+
+  "color:red; margin:0}\n iframe {background-color:transparent;}<\/style>\n<body onload=\"doBred()\">\n"+
+  "<h1>íó âîò&iexcl; ëóíà ðàçìíîæèëàñü<\/h1>\n";
+ btext += "<iframe name=\"ifrm\" width=\"98%\" height=\"80%\">"+
+  "<\/body><\/html>";
+ document.open();
+ document.write(btext);
+ document.close();
+ }
+//-->
+</script>
+<script language="JavaScript">
+<!--//
+function showMol()
+{
+  var molId = document.getElementById("molitva");
+  molId.style.display = "block";
+}
+
+function hideAdv()
+{//reklamka
+  var rekId = document.getElementById("reklamka");
+  rekId.style.display = "none";
+}
+//-->
+ </script>
+ <script language="JavaScript" src="indx.js"></script>
+ <script language="JavaScript" src="another/cookie.js"></script>
+ <script language="JavaScript" src="another/nav.js"></script>
+ <LINK title="The page in English"
+   type="text/html" rel="Alternate" hreflang="en-us"
+   href="./eng/" />
+ <LINK title="Î ñàéòå"
+   type="text/html" rel="Help"
+   href="about.htm" />
+ <link rel="SHORTCUT ICON" href="favicon.ico" />
+ <!-- Put the following javascript before the closing </head> tag. -->
+<script>
+  (function() {
+    var cx = '009177698870086410303:yd1n4zvjres';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.ru/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+</head>
+<body onunload="writeAllCookies()" onload="showView(); privetUser(); scrollit_r2l(100);">
+
+<noscript><span style="font-size:20px;">Áåç JavaScript çäåñü ñèäåòü íå â êàéô!</span></noscript>
+
+<script language="JavaScript">
+<!--//
+sm_file="_ind";
+readAllCookies();
+//-->
+</script>
+<p class="txt" lang="en-us">Alternative languages:&nbsp;&nbsp;&nbsp;<a href="./eng/"><img src="sw_to_en.gif" border="0" width="80" height="20" alt="Switch to English" style="vertical-align:middle;"></a></p>
+
+<p class="txt">Ïðîøó âåðóþùèõ ïîñåòèòåëåé ÷èòàòü <a href="javascript:showMol()">ýòó ìîëèòâó</a>.</p>
+<div style="display:none" id="molitva">
+<h1 class="m"><a name="m"></a>&dagger;</h1>
+<p class="m">
+Âëàäûêî, Âñåäåðæèòåëþ, Ñâÿòûé Öàðþ, íàêàçóÿé è íå óìåðùâëÿÿé, óòâåðæäàÿé íèçïàäàþùèÿ è âîçâîäÿé íèçâåðæåííûÿ, òåëåñíûå ÷åëîâåêîâ ñêîðáè èñïðàâëÿÿé, ìîëèìñÿ òåáå, Áîæå íàø, ðàáà Òâîåãî Ìèõàèëà íåìîùñòâóþùà ïîñåòè ìèëîñòåþ Òâîåþ, ïðîñòè åìó âñÿêîå ñîãðåøåíèå âîëüíîå è íåâîëüíîå. Åé, Ãîñïîäè, âðà÷åáíóþ Òâîþ ñèëó ñ íåáåñå íèçïîñëè, ïðèêîñíèñÿ òåëåñè, óãàñè îãíåâèöó, óêðîòè ñòðàñòü è âñÿêóþ íåìîùü òàÿùóþñÿ, áóäè âðà÷ ðàáà Òâîåãî Ìèõàèëà, âîçäâèãíè åãî îò îäðà áîëåçíåííàãî è îò ëîæà îçëîáëåíèÿ öåëà è âñåñîâåðøåííà, äàðóé åãî Öåðêâè Òâîåé áëàãîóãîæäàþùà è òâîðÿùà âîëþ Òâîþ. Òâîå áî åñòü, åæå ìèëîâàòè è ñïàñàòè íû, Áîæå íàø, è Òåáå ñëàâó âîçñûëàåì, Îòöó è Ñûíó è Ñâÿòîìó Äóõó, íûíå è ïðèñíî è âî âåêè âåêîâ. Àìèíü.
+</p>
+</div>
+
+<table style="width:100%" border="0" align="center">
+<tr>
+  <td style="width:70px; vertical-align:top;">
+  <nav>
+  <h1 class="nav">&darr; <span style="color:#9637ff">Í</span><span style="color:#9b50e1">à</span><span style="color:#a069c2">â</span><span style="color:#a682a3">è</span><span style="color:#ab9b84">ã</span><span style="color:#b0b466">à</span><span style="color:#b6cd47">ò</span><span style="color:#bbe628">î</span><span style="color:#c1ff09">ð</span> &darr;</h1>
+  <script language="JavaScript">
+<!--//
+insNav(0);
+//-->
+  </script>
+  <noscript><a href="misc/sitemap.htm" style="font-size:16px;">Êàðòà ñàéòà</a></noscript>
+  </nav>
+  </td>
+  <td>
+    <table style="width:100%" border="0" align="center">
+    <tr>
+      <td style="width:370px; text-align:center; vertical-align:middle;">
+        <img src="another/moon.gif" onclick="djYo()" height="365" width="365" border="0" /><h1><!--noindex--><small><a href="another/briefing.htm" target="_blank" rel="nofollow">Çà÷åì çäåñü ýòà ëóíà?</a></small><!--/noindex--></h1>
+      </td>
+      <td style="width:400px; text-align:justify; vertical-align:middle;">
+        <p style="text-align:justify">
+        Ñîëíöå è <nobr>Ëóíà &mdash;</nobr> ñîâñåì íå áëèçíåöû-áðàòüÿ. Ñîëíöå&nbsp;&mdash; ýòî çâåçäà, Ëóíà&nbsp;&mdash; ýòî ïëàíåòîèä. <span class="luna">Ïî÷åìó Ëóíà íå èç ÷óãóíà?</span> Ýòîò è äðóãèå âîïðîñû áåñïîêîÿò ÷åëîâå÷åñòâî íà ïðîòÿæåíèè òûñÿ÷ ëåò. <a href="http://super-m.savesoul.ru/cgi-bin/gest.cgi" target="_blank">Âûñêàæèòå è Âû</a> ñâî¸ ìíåíèå íà ýòîò ñ÷¸ò.</p>
+        
+<!-- // WR-Golos v 1.1  -  22.12.2013 ã. // Ãîëîñîâàíèå ¹ 1 -->
+
+<script language=JavaScript><!--
+function gosub() {WRSub=window.open('http://super-m.savesoul.ru/Polls/vote.php?id=1','WRGolos','width=450,height=350,left=250,top=100'); WRSub.focus();}
+function gorez() {WRSub=window.open('http://super-m.savesoul.ru/Polls/rezult.php?id=1','WRRezultGolos','width=450,height=350,left=250,top=100'); WRSub.focus();}//-->
+</script>
+
+<TABLE cellPadding=3 align=center border=0><TBODY><TR><TD vAlign=top align=middle>
+<TABLE cellSpacing=1 cellPadding=0 align=center border=0><TR><TD>
+<TABLE bgcolor=#000000 cellSpacing=0 cellPadding=1 align=center border=0>
+<FORM name=wrvote action='http://super-m.savesoul.ru/Polls/vote.php?id=1' method=post target='WRGolos'>
+<TR><TD colspan=3 align=middle bgColor=#0a0079><h1 class="opros"><span style="color:#9637ff">×</span><span style="color:#973ef6">ò</span><span style="color:#9946ed">î</span><span style="color:#9a4ee3"> </span><span style="color:#9c55da">õ</span><span style="color:#9e5dd0">î</span><span style="color:#9f65c7">ð</span><span style="color:#a16cbd">î</span><span style="color:#a374b4">ø</span><span style="color:#a47caa">å</span><span style="color:#a683a1">ã</span><span style="color:#a88b97">î</span><span style="color:#a9938e"> </span><span style="color:#ab9b84">í</span><span style="color:#ada27b">à</span><span style="color:#aeaa72"> </span><span style="color:#b0b268">ý</span><span style="color:#b2b95f">ò</span><span style="color:#b3c155">î</span><span style="color:#b5c94c">ì</span><span style="color:#b7d042"> </span><span style="color:#b8d839">ñ</span><span style="color:#bae02f">à</span><span style="color:#bce726">é</span><span style="color:#bdef1c">ò</span><span style="color:#bff713">å</span><span style="color:#c1ff09">?</span></h1></TD></TR>
+<TR><TD colspan=3><img src='http://super-m.savesoul.ru/Polls/images/l1.gif' width=100% height=1></TD></TR>
+
+<TR><TD><TABLE border=0 cellSpacing=0 cellPadding=2 width=100%><TBODY><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='1'></TD>
+<TD><FONT face=arial size=2><B> âñ¸</B></FONT></TD>
+</TR><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='2'></TD>
+<TD><FONT face=arial size=2><B> ïðîãðàììû, èñõîäíèêè</B></FONT></TD>
+</TR><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='3'></TD>
+<TD><FONT face=arial size=2><B> èêîíêè (çíà÷êè)</B></FONT></TD>
+</TR><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='4'></TD>
+<TD><FONT face=arial size=2><B> äèçàéí</B></FONT></TD>
+</TR><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='5'></TD>
+<TD><FONT face=arial size=2><B> àäìèí :)</B></FONT></TD>
+</TR><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='6'></TD>
+<TD><FONT face=arial size=2><B> äðóãîå</B> (<a href="http://super-m.savesoul.ru/cgi-bin/gest.cgi">÷òî?</a>)</FONT></TD>
+</TR><TR>
+<TD width=55> </TD><TD><INPUT name='votec' type=radio value='7'></TD>
+<TD><FONT face=arial size=2><B> íè÷åãî</B></FONT></TD>
+</TR><TR><TD colspan=3 align=center><INPUT type=image alt='ïðîãîëîñîâàòü' src='http://super-m.savesoul.ru/Polls/images/vote.gif'  onClick='gosub();' border=0></TD></TR>
+</FORM></TBODY></TABLE>
+</TBODY></TABLE>
+</TBODY></TABLE>
+<A href='http://super-m.savesoul.ru/Polls/rezult.php?id=1' onClick='gorez();' target='WRRezultGolos'>Ðåçóëüòàòû</A>
+</TD></TR></TABLE>
+
+      </td>
+      <td style="text-align:justify; vertical-align:top;">
+        <h1 class="news1">ÍÎÂÎÑÒÈ-ÍÎÂÎÑÒÈ-ÍÎÂÎÑÒÈ</h1>
+        <script language="JavaScript">
+        <!--//
+        writeUserMsg("#8f8f8f", "#e7e7e7", "#7e7e7e");
+        //-->
+        </script>
+<h1><span style="text-decoration: overline">
+<script language="JavaScript">
+<!-- // HIDE FROM OLD BROWSERS
+// ÝÒÎ ÇÀÏÈØÅÒ ÄÀÒÓ ÏÎÑËÅÄÍÅÃÎ ÈÇÌÅÍÅÍÈß
+// ÌÎÆÅÒÅ ÍÈ×ÅÃÎ ÍÅ ÌÅÍßÒÜ Â ÝÒÎÌ ÑÊÐÈÏÒÅ
+function makeArray(arraySize) {
+     this.length = arraySize
+     return this
+}
+monthNames = new makeArray(12)
+monthNames[1] = "ÿíâàðÿ"
+monthNames[2] = "ôåâðàëÿ"
+monthNames[3] = "ìàðòà"
+monthNames[4] = "àïðåëÿ"
+monthNames[5] = "ìàÿ"
+monthNames[6] = "èþíÿ"
+monthNames[7] = "èþëÿ"
+monthNames[8] = "àâãóñòà"
+monthNames[9] = "ñåíòÿáðÿ"
+monthNames[10] = "îêòÿáðÿ"
+monthNames[11] = "íîÿáðÿ"
+monthNames[12] = "äåêàáðÿ"
+updated = new Date(document.lastModified)
+theMonth = monthNames[updated.getMonth() + 1]
+theDate = updated.getDate()
+theYear = updated.getYear()
+if (theYear<2000)
+{
+  if (theYear<100)
+    theYear+=2000
+  else
+    theYear+=1900
+}
+document.write("Îáíîâëåíèå îò "+theDate+" "+theMonth+" "+theYear+
+ " <abbr title='ãîäà'>ã.</abbr>")
+// END HIDING -->
+</script>
+</span></h1>
+
+<script type="text/javascript">var css=".visualping-container-vertical{position:relative;width:100%;overflow:hidden;margin:0 auto;height:152px;max-width:240px}.vpiframe-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}iframe{border:0}@media only screen and (min-width:767px) and (max-width:979px){.visualping-container{position:relative;width:100%;overflow:hidden;margin:0 auto;height:180px;max-width:240px} .containerprivacy{margin-bottom:15px;text-align:center;}}@media only screen and (max-width:767px){.visualping-container{-webkit-box-sizing:inherit;-moz-box-sizing:inherit;box-sizing:inherit;max-width:95%!important}} .containerprivacy{width:100%;padding: 0 10px 14px 10px; line-height: 1; position:absolute; bottom: 0;text-align:center;}@media only screen and (max-width:1200px){.containerprivacy{padding-bottom: 0;}} .privacyline{font-size:9px;color:#8c8c8c;padding-left:2px;padding-top: 0;opacity:0.6; font-family:sans-serif;} a.vpprivatelink{text-decoration: underline} a.vpprivatelink:visited {color:inherit;} .vplogo{ width: 90px;height: 13px;}";var head = document.head || document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css'; if (style.styleSheet){style.styleSheet.cssText = css;}else{style.appendChild(document.createTextNode(css));}head.appendChild(style);document.write('<div class="visualping-container-vertical"><div class="vpiframe-container"><iframe src="https://visualping.io/externalfiles/widget/vpwidget2.html?clientid=41081&tpl=1b&btnColor=007f00&font=&btnTextColor=&url=' + parent.document.URL + '&mode=text&trigger=1&precrop=10_130_600_300"></iframe></div><div class="containerprivacy"><span class="privacyline">We keep your email <a href="https://visualping.io/privacy" target="_blank" class="vpprivatelink">private</a></span> <a href="https://visualping.io/" target="_blank" class="vplogolink"><img src="https://visualping.io/assets/img/logo-blue@2x.png" class="vplogo"></a></div></div>');</script>
+      <div style="width:100%; background-color:black; padding:3px; position:relative">
+<h1 class="news">
+ <a title="Íåìíîãî ïîòîìó ÷òî âñåõ íå ïåðå÷èñëèøü"><span style="color:#9637ff">Í</span><span style="color:#9740f4">å</span><span style="color:#9949e9">ì</span><span style="color:#9b52de">í</span><span style="color:#9d5bd3">î</span><span style="color:#9f64c8">ã</span><span style="color:#a16dbc">î</span><span style="color:#a376b1"> </span><span style="color:#a57fa6">í</span><span style="color:#a7889b">î</span><span style="color:#a99190">â</span><span style="color:#ab9b84">î</span><span style="color:#ada479">ñ</span><span style="color:#afad6e">ò</span><span style="color:#b1b663">å</span><span style="color:#b3bf58">é</span><span style="color:#b5c84d"> </span><span style="color:#b7d141">ñ</span><span style="color:#b9da36">à</span><span style="color:#bbe32b">é</span><span style="color:#bdec20">ò</span><span style="color:#bff515">à</span><span style="color:#c1ff09">:</span></a></h1>
+<ul>
+<li>Îòêðûëñÿ äðóæåñòâåííûé ñàéò &laquo;<a href="http://antievil.hrencore.ru/">Àíòèçëî</a>&raquo;.</li>
+<li>Ïðîäîëæàþ ïðèãëàøàòü âñåõ èñïûòàòü íà ñåáå êðàéíèå âåðñèè ìîèõ áåñïëàòíûõ ïðîãðàìì äëÿ ÏÊ: &laquo;Quick Òÿï-Ëÿï Html&raquo; v3.5, &laquo;Åæåäíåâíèê&raquo; v1.9, &laquo;Son hServer&raquo; v1.3.2.296, &laquo;Steganographia Fresh&raquo; v1.0, &laquo;Quick Òÿï-Ëÿï GB&raquo; v0.8.2.54, &laquo;TextToSC&raquo; v0.8.1, &laquo;SM GradientHTML&raquo; v0.5.1, &laquo;EsoCalc GUI&raquo; v0.5.1, &laquo;Quick Òÿï-Ëÿï C++&raquo; v0.3.2.13, &laquo;SM StarRelax&raquo; v0.3.0.8, &laquo;FromAndToMacCRs&raquo; v0.3, &laquo;Console Cryptor&raquo; v0.3, &laquo;SM Passw Maker&raquo; v0.2 è äðóãèõ. <a href="./programs/">Êà÷àòü â ìî¸ì íîâåíüêîì êàòàëîãå &laquo;Èãðû è ïðîãðàììû&raquo;</a>. Èñõîäíûå òåêñòû èìåþòñÿ ïî÷òè äëÿ âñåõ.<!--noindex--> Áàã-ðåïîðòû&nbsp;&mdash; ïëèç â <a href="misc/fb.htm" rel="nofollow">&laquo;Îáðàòíóþ ñâÿçü&raquo;</a>.<!--/noindex--></li>
+</ul></div>
+      </td>
+    </tr>
+    </table>
+    <p style="text-align:justify">
+    Âñ¸, ÷òî Âû óâèäèòå è íàéä¸òå íà ÝÒÎÌ (ÍÅÎÔÈÖÈÀËÜÍÎÌ) ÑÀÉÒÅ&nbsp;&mdash; <span style="color:white">ñîâåðøåííî áåñïëàòíî</span>! Åñëè áóäåòå öèòèðîâàòü ñàéò, òî, â ñîîòâåòñòâèè ñ ïðàâèëàìè ñåòåâîé ýòèêè, ñòàâüòå ññûëêó íà íåãî. À <span style="color:yellow">åñëè çàõîòèòå</span> ìàòåðèàëüíî îòáëàãîäàðèòü ìåíÿ (àâòîðà òî åñòü) çà îðèãèíàëüíûé ñàéò, èíòåðåñíûé/ïîëåçíûé êîíòåíò, òî ïðîøó íå ñòåñíÿòüñÿ è ïîëüçîâàòüñÿ íèæåñëåäóþùèìè ðåêâèçèòàìè<br />
+<span style="background-color:#a000a0; color:white; font-weight:bold;">&rarr;&nbsp;ÞMoney-êîøåë¸ê: </span><span style="background-color:#00ff00; color:black; font-weight:normal; letter-spacing:3px;">41001299429504</span><br />
+Êòî íå èìååò ñâîåãî êîøåëüêà íà ÞMoney (ßíäåêñ.Äåíüãàõ), ìîæåò âîñïîëüçîâàòüñÿ ïëàò¸æíûì òåðìèíàëîì èëè áàíêîìàòîì. Óäà÷è!
+    </p>
+    
+    <form name="MarqueeForm"><div style="text-align:center;">
+    <input type="text" name="it" style="width:85%; background-color:transparent; border:0; color:white; font-size:16px;" />
+    </div></form>
+    
+    <div id="flyby" style="left:10px; background-color:#41507f; border: thick outset #71809f; speak:none">
+    <form name="formochka">
+        <h1 class="news2"><span style="color:#9637ff">Ï</span><span style="color:#9843f0">ð</span><span style="color:#9b50e1">è</span><span style="color:#9e5cd1">â</span><span style="color:#a069c2">å</span><span style="color:#a375b3">ò</span><span style="color:#a682a3"> </span><span style="color:#a88e94">î</span><span style="color:#ab9b84">ò</span><span style="color:#aea775"> </span><span style="color:#b0b466">S</span><span style="color:#b3c056">u</span><span style="color:#b6cd47">p</span><span style="color:#b8d938">e</span><span style="color:#bbe628">r</span><span style="color:#bef219">-</span><span style="color:#c1ff09">M</span></h1>
+        <textarea name="priv" class="cleverText" readonly>0 ïðèâåòîâ</textarea><br>
+        <b>Õîòèòå óáðàòü ýòè ïðèâåòñòâèÿ?</b><br>
+            <input type="text" size="20" name="userAnswer" onkeyup="doIntellect()" style="width:50%;"><br />
+            <big>&uarr; &uarr; &uarr;</big> (<b>ñþäà ïèñàòü îòâåò</b>, òîëüêî íå çàáóäüòå îá ýòèêåòå...)<br><input type="text" size="70" name="myAnswer" readonly class="myAns">
+            <br>
+            <button title="Ñðî÷íûé âûêëþ÷àòåëü ìîåé âåæëèâîñòè" type=button onclick="mesagiOff()">Íåêîãäà! Âûðóáàé ñðî÷íî!</button>
+            <a href="tune.htm">íàñòðîèòü...</a>
+    </form>
+    </div>
+    
+    <table style="width:100%" border="0" align="center">
+    <tr>
+      <td style="width:50%; text-align:center; vertical-align:middle;">
+    <h1><span style="color:#9637ff">Ï</span><span style="color:#9946ed">î</span><span style="color:#9c55da">è</span><span style="color:#9f65c7">ñ</span><span style="color:#a374b4">ê</span><span style="color:#a683a1"> </span><span style="color:#a9938e">ï</span><span style="color:#ada27b">î</span><span style="color:#b0b268"> </span><span style="color:#b3c155">ñ</span><span style="color:#b7d042">à</span><span style="color:#bae02f">é</span><span style="color:#bdef1c">ò</span><span style="color:#c1ff09">ó</span></h1>
+
+<div style="text-align:center;">
+<FORM ACTION="http://search.freefind.com/find.html" METHOD="GET"  target="_self">
+<FONT size=1 face="arial,helvetica" >
+<INPUT TYPE="HIDDEN" NAME="id" VALUE="6749854">
+<INPUT TYPE="HIDDEN" NAME="pageid" VALUE="r">
+<INPUT TYPE="HIDDEN" NAME="mode" VALUE="ALL">
+<INPUT type="HIDDEN" name="n" value="0">
+<INPUT TYPE="TEXT" NAME="query" SIZE="15" class="yo"><small> 
+<INPUT TYPE="SUBMIT" class="yo2" VALUE=" Èñêàòü "><br>
+</small>powered by <A HREF="http://www.freefind.com">
+FreeFind</A></font>
+</FORM>
+</div>
+
+<h1><span style="color:#8000ff">Ï</span><span style="color:#8011ee">î</span><span style="color:#8022dd">è</span><span style="color:#8033cc">ñ</span><span style="color:#8044bb">ê</span><span style="color:#8055aa"> </span><span style="color:#806699">ï</span><span style="color:#807788">î</span><span style="color:#808877"> </span><span style="color:#809966">ï</span><span style="color:#80aa55">î</span><span style="color:#80bb44">ð</span><span style="color:#80cc33">ò</span><span style="color:#80dd22">à</span><span style="color:#80ee11">ë</span><span style="color:#80ff00">ó</span></h1>
+
+<!-- Place this tag where you want both of the search box and the search results to render -->
+<gcse:search></gcse:search>
+
+      </td>
+      <td style="width:50%; text-align:center; vertical-align:middle;">
+    <h1><span style="color:#ce5eff">Ï</span><span style="color:#c178d5">î</span><span style="color:#b493aa">ç</span><span style="color:#a7ae80">è</span><span style="color:#9ac955">ö</span><span style="color:#8de42b">è</span><span style="color:#80ff00">ÿ</span></h1>
+    <p class="pv"><a href="http://egida.by/forum/34-4748-1" target="_blank">Ïîìîæåì Êñþøå!</a><br />
+ÌÛ <a href="http://antigun.savesoul.ru/" target="_blank">ïðîòèâ áåñêîíòðîëüíîãî îáîðîòà îðóæèÿ</a> È <a href="http://antievil.hrencore.ru/" target="_blank">ÏÐÎÒÈÂ ÇËÀ</a>!
+    </p>
+      </td>
+    </tr>
+    </table>
+
+  </td>
+</tr>
+</table>
+
+<a href="http://www.stihi.ru/avtor/antigun"><img src="http://www.stihi.ru/images/author88x31.gif" width="88" height="31" border="1" alt="Ìèõàèë Øìåëåâ íà ñåðâåðå Ñòèõè.ðó"></a>
+
+<a href="/counter/info.php" title="Ñòàòèñòèêà
+Âñåãî õèòîâ:
+Õèòîâ ñåãîäíÿ:
+Õîñòîâ ñåãîäíÿ:"><img src="/counter/counter.php" width=88 height=31 border=0></a>
+
+<a href="http://www.vsego.ru" title="Êàòàëîã ñàéòîâ Âñåãî.RU" target="_blank">
+<img src="http://www.vsego.ru/images/bkat8831.gif" alt="Êàòàëîã ñàéòîâ Âñåãî.RU" border="0" width="88" height="31"></a>
+
+<!--popcatru--><a href="https://www.popcat.ru/" title="Íàø ñàéò â êàòàëîãå ïîïóëÿðíûõ ñàéòîâ PopCat.ru" target="_blank"><img src="https://www.popcat.ru/images/sitelogo.gif" height="31" width="88" style="border:0;" alt="Áåëûé êàòàëîã ñàéòîâ PopCat.ru"></a><!--/popcatru-->
+
+<a href="https://www.opennet.ru" target="_blank"><img src="https://www.opennet.ru/ob31x88_2.gif" height="31" width="88" border="0" alt="Ïðîåêò OpenNET"></a>
+
+<hr />
+
+<footer>
+<table style="width:100%" border="0" align="center">
+<tr>
+  <td class="foot">
+<div style="text-align:center;">
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,gplus,twitter,delicious,digg,linkedin,surfingbird,whatsapp" data-size="s"></div>
+</div>
+    <h2>Ìîè èãðû</h2>
+    <a href="http://logovo-tigra.ru/news/sdelana-igra-4d-mines-for-windows.html">4D Mines for Windows</a><br />
+    <a href="http://super-m.savesoul.ru/programs/view.php?id=1547580822789">Êâàäðàò Çàêîíà</a>
+    <h2>Èçáðàííîå</h2>
+    <a href="http://super-m.savesoul.ru/programs/view.php?id=1547586173354">Son hServer</a><br />
+    <a href="http://antigun.savesoul.ru/forum/">Ìîé ôîðóì</a><br />
+    <a href="http://catalog.savesoul.ru/">Êàòàëîã ñàéòîâ</a><br />
+    <a href="http://antigun.savesoul.ru/boards.htm">Äîñêè îáúÿâëåíèé</a>
+  </td>
+  <td class="foot">
+    <h2>Äëÿ âåñåëüÿ</h2>
+    <a href="http://antipravda.hrencore.ru/">Àíòèïðàâäà îíëàéí</a><br />
+    <a href="antitrue/recept.htm">Çâåðñòâà Äîêòîðà Û</a><br />
+    <a href="misc/lejpol.htm">Ëåæà÷èå ïîëèöåéñêèå</a><br />
+    <a href="zotd/">ÇîÒÄ</a><br />
+    <a href="anketa/">Àíêåòà ïîëüçîâàòåëÿ</a><br />
+    <a href="http://doloy-geev.hrencore.ru/">Áîðåìñÿ ïðîòèâ ËÃÁÒ</a>
+  </td>
+  <td class="foot">
+    <h2>Ñîôò</h2>
+    <a href="http://super-m.savesoul.ru/programs/">Äëÿ ÏÊ ïîä âèíäîé</a><br />
+    <a href="http://linux.logovo-tigra.ru/">Äëÿ ÏÊ ïîä Ëèíóêñîì</a><br />
+    <a href="http://antigun.savesoul.ru/server-side/">Ñåðâåðíûå ñêðèïòû íà PHP</a><br />
+    <a href="http://antigun.savesoul.ru/mods/">Ìîè ìîäû &laquo;mod SM&raquo; äëÿ WR-Forum, WR-Katalog, WR-Board simple</a><br />
+    <a href="support/htmljava.htm">Êëèåíòñêèå ÿâàñêðèïòû + ãîñòåâàÿ íà Perl</a><br />
+    <a href="http://u.logovo-tigra.ru/">SM UnicodeComposer</a><br />
+    <a href="http://password-maker.logovo-tigra.ru/">Îíëàéí ãåíåðàòîð ïàðîëåé</a><br />
+    <a href="http://esocalc.logovo-tigra.ru/">Ýçîòåðè÷åñêèé êàëüêóëÿòîð phpEsoCalc</a><br />
+    <a href="http://unforum.logovo-tigra.ru/">UnForum Online</a><br />
+    <a href="http://cpp.logovo-tigra.ru/">Quick Òÿï-Ëÿï C++ Online</a><br />
+    <a href="http://edit-web-online.logovo-tigra.ru/">SM Web Òðåíàæ¸ð</a>
+  </td>
+  <td class="foot">
+    <nav>
+    <a href="about.htm">Î ñàéòå</a><br /><br />
+    <a href="misc/fb.htm">Êîíòàêòû</a> / <a href="knopki/">Êíîïêè</a><br /><br />
+    <a href="http://luminopher.hrencore.ru/">Ëþìèíîôåð</a>
+    </nav>
+    <hr />
+    <address>Ðàçðàáîòêà, äèçàéí è íàïîëíåíèå ñàéòà: <span style="color:#9637ff">S</span><span style="color:#9d58d6">u</span><span style="color:#a479ad">p</span><span style="color:#ab9b84">e</span><span style="color:#b2bc5b">r</span><span style="color:#b9dd32">-</span><span style="color:#c1ff09">M</span>, 2001-<script type="text/javascript">
+<!--//simple current year. copyleft Super-M, 2022
+now = new Date();
+theYear = now.getYear();
+if (theYear<2000)
+{
+  if (theYear<100)
+    theYear+=2000;
+  else
+    theYear+=1900;
+}
+document.write(theYear);
+//-->
+</script>.<br /><br />
+    Ïåðåïå÷àòêà ìàòåðèàëîâ äàííîãî ñàéòà äîïóñêàåòñÿ ïðè óêàçàíèè ññûëêè íà èñòî÷íèê.<br />
+    <br />
+    <img src="misc/eSM.png" alt="logo" title="" width="64" height="64" border="0" />
+    </address>
+  </td>
+</tr>
+</table>
+ <style type="text/css">
+ div#vhod {
+   z-index:1; bottom:0px; right:0px; position:fixed;
+   background-color:#ffcd91; border:0px;
+   border-radius:5px 0px 0px 0px; padding:5px;
+   color:green; font-size:11px; text-align:center;
+   text-shadow:black 1px 1px 1px;
+ }
+ div#vhod a {
+   color:navy;
+   text-decoration:none;
+   text-shadow:none;
+ }
+ div#vhod a:hover {
+   color:blue;
+   text-decoration:underline;
+   text-shadow:none;
+ }
+ </style>
+<div id="vhod">
+&#9733; <a href="http://dnevnik.savesoul.ru/" title="Çäåñü ÿ äíåâíèêóþ">Äíåâíèê SaveSoul.Ru</a> &#9733;<br />
+&#9733; <a href="http://www.savesoul.ru/forum/" title="Ïñèõèàòðè÷åñêèé è îêîëîïñèõèàòðè÷åñêèé ôîðóì">S-Ôîðóì</a> &#9733; <a href="http://catalog.savesoul.ru/" title="Êàòàëîã Âàøèõ ñàéòîâ">Êàòàëîã ñàéòîâ</a> &#9733;<br />
+&#9733; <a href="http://antigun.savesoul.ru/forum/" title="AntiGun-ôîðóì">A-ôîðóì</a> &#9733; <a href="http://members.hrencore.ru/" title="HREN&plusmn;CORE-ôîðóì">H-ôîðóì</a> &#9733;
+<div style="font-size:8px; color:blue; text-shadow:none;">ÌÎÈ ÔÎÐÓÌÛ. ÏÐÈÕÎÄÈÒÅ!</div>
+&#9733; <a href="http://antigun.savesoul.ru/boards.htm" title="Äîñêè äëÿ Âàøèõ îáúÿâëåíèé, è íå òîëüêî ïî ïñèõèàòðèè">Äîñêè îáúÿâëåíèé</a> &#9733; <a href="http://www.savesoul.ru/Biblioteka/" title="Áèáëèîòåêà ìàòåðèàëîâ ïî ïñèõèàòðèè">Áèáëèîòåêà</a> &#9733;<br />
+&#9733; <a href="javascript:closeFlyby();" title="Ñïðÿòàòü ýòè ññûëêè"><i><u>Âûêë.</u></i></a> <span style="color:red;">&#9435;</span>
+</div>
+ <script type="text/javascript">
+ <!--//
+ function closeFlyby()
+ {
+   var obj=document.getElementById("vhod");
+   obj.style.display="none";
+ }//end closeFlyby()
+ //-->
+ </script>
+ <!-- Cookie Warning by SM -->
+ <style type="text/css">
+ div#coocoo {
+   z-index:3; bottom:0px; left:0px; width:100%;
+   position:fixed; background-color:white;
+   border:1px solid blue; border-radius:5px 5px 0px 0px; padding:5px;
+   color:black; font-size:14px; text-align:center;
+   text-shadow:green -1px -1px 1px;
+   display:block;
+ }
+ td.leftCoocoo {
+   width:60%;
+   text-align:center;
+   vertical-align:top;
+   font-family:Bookman Old Style, serif;
+   font-size:16px;
+   color:black;
+ }
+ td.rightCoocoo {
+   width:40%;
+   text-align:center;
+   vertical-align:middle;
+   font-family:Verdana, sans-serif;
+   font-size:14px;
+   color:blue;
+ }
+ button.coocooYes {
+   padding:8px;
+   margin:8px;
+   background-color:#3cc700;
+   color:white;
+   border:1px solid blue;
+   border-radius:5px 0px 0px 5px;
+ }
+ button.coocooNo {
+   padding:8px;
+   margin:8px;
+   background-color:#e73c20;
+   color:black;
+   border:1px solid black;
+   border-radius:0px 5px 5px 0px;
+ }
+ div#qqplus {
+   z-index:4; bottom:0px; left:0px;
+   position:fixed; background-color:white;
+   border:1px solid blue; border-radius:0px 5px 0px 0px; padding:5px;
+   color:blue; font-size:10px; text-align:left;
+   text-shadow:green -1px -1px 1px;
+   display:none;
+ }
+ </style>
+ <script type="text/javascript">
+ <!--//
+function CoocooGetCookieVal(name)
+{
+  var v_offset, v_end, ret, tmp_str, srch_str;
+  tmp_str=document.cookie;
+  srch_str=name+"=";
+  v_offset=tmp_str.indexOf(srch_str);
+  if (v_offset==-1)
+    ret="";
+  else
+  {
+    v_end=tmp_str.indexOf(";", v_offset);
+    if (v_end==-1) v_end=tmp_str.length;
+    ret=tmp_str.substring(v_offset+srch_str.length, v_end);
+  }//end else
+  return unescape(ret);
+}//end CoocooGetCookieVal
+
+function CoocooSetCookie(name, value, expires, path, domain, secure)
+{
+	var curCookie = name + "=" + escape(value) +
+		((expires) ? "; expires=" + expires.toGMTString() : "") +
+		((path) ? "; path=" + path : "") +
+		((domain) ? "; domain=" + domain : "") +
+		((secure) ? "; secure" : "")
+	if ((name + "=" + escape(value)).length <= 4000)
+		document.cookie = curCookie
+	else
+		if (confirm("Cookie ïðåâûñèëè 4KB è áóäóò îáðåçàíû!"))
+			document.cookie = curCookie
+}//end CoocooSetCookie
+
+var coo_coocoook=CoocooGetCookieVal("qqok");
+
+function CoocooWriteAllCookies()
+{
+  var exp_date=new Date();
+  exp_date.setMonth(exp_date.getMonth()+10);
+  CoocooSetCookie("qqok", coo_coocoook, exp_date);
+}//end CoocooWriteAllCookies
+
+ function checkCoocoo()
+ {
+   var obj, obj2;
+   if (coo_coocoook=="Y")
+   {
+     obj=document.getElementById("coocoo");
+     obj.style.display="none";
+     obj2=document.getElementById("qqplus");
+     obj2.style.display="block";
+   }
+ }//end checkCoocoo()
+ function closeCoocooYes()
+ {
+   var obj=document.getElementById("coocoo");
+   var obj2=document.getElementById("qqplus");
+   obj.style.display="none";
+   obj2.style.display="block";
+   coo_coocoook="Y";
+   CoocooWriteAllCookies();
+ }//end closeCoocooYes()
+ function closeCoocooNo()
+ {
+   coo_coocoook="";
+   CoocooWriteAllCookies();
+   alert("Âñåãî äîáðîãî!");
+   document.location="https:/"+"/www.google.com/";
+ }//end closeCoocooNo()
+ function onclickCoocoo()
+ {
+   var obj=document.getElementById("coocoo");
+   var obj2=document.getElementById("qqplus");
+   obj.style.display="block";
+   obj2.style.display="none";
+ }//end onclickCoocoo()
+ //-->
+ </script>
+ <div id="coocoo">
+ <table style="width:100%" border="0" cellspacing="0" cellpadding="3" align="center">
+ <tr>
+   <td class="leftCoocoo">
+     Ýòîò ñàéò èñïîëüçóåò êóêè (Cookie). Ýòî äåëàåòñÿ ñ öåëüþ îáåñïå÷èòü óäîáñòâî ïîëüçîâàíèÿ ñàéòîì è ðåàëèçîâàòü ðÿä íåîáõîäèìûõ ôóíêöèé, â ÷àñòíîñòè ïîëüçîâàòåëüñêèå íàñòðîéêè. Íàø ñàéò íå èñïîëüçóåò êóêè äëÿ ñáîðà êîíôèäåíöèàëüíîé èíôîðìàöèè î Âàñ è Âàøåì êîìïüþòåðå. Íî åñëè Âàñ íå óñòðàèâàåò èñïîëüçîâàíèå êóêîâ, Âû ìîæåòå îòêàçàòüñÿ îò íåãî. Ê ñîæàëåíèþ, â òàêîì ñëó÷àå ìû íå ñìîæåì îáåñïå÷èòü äëÿ Âàñ ïîëíîöåííîå ôóíêöèîíèðîâàíèå ñàéòà.
+   </td>
+   <td class="rightCoocoo">
+     <form name="coocooForm" action="return false;">
+     Âû ñîãëàñíû ñ òåì, ÷òî íàø ñàéò áóäåò èñïîëüçîâàòü êóêè?
+     <br />
+     <br />
+     <button type="button" class="coocooYes" title="Ðàçðåøèòü èñïîëüçîâàíèå êóêîâ" onclick="closeCoocooYes();">Ñîãëàñåí</button>
+     &nbsp;
+     <button type="button" class="coocooNo" title="Îòêàçàòüñÿ îò èñïîëüçîâàíèÿ êóêîâ íà ôîðóìå è óéòè ñ ñàéòà" onclick="closeCoocooNo();">ß ïðîòèâ</button>
+     </form>
+   </td>
+ </tr>
+ </table>
+ </div>
+ <div id="qqplus">
+ Cookie <a href="javascript:onclickCoocoo();" title="×òîáû èçìåíèòü íàñòðîéêè êóêîâ, ù¸ëêíèòå">ON</a>
+ </div>
+ <script type="text/javascript">checkCoocoo();</script>
+ <!-- / Cookie Warning by SM -->
+</footer>
+</body>
+</html>

@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+<html xml:lang="ru" lang="ru" class="">
+<head>
+	<script data-skip-moving="true">
+					!function(f,b,e,v,n,t,s)
+				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plbitrix';
+				n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t,s)}(window, document,'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '890874117741418');
+				fbq('track', 'PageView');
+				</script> <script data-skip-moving="true">
+					(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+				var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),
+				dl=l!='dataLayer'?'&l='+l:'';
+				j.async=true;
+				j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+				f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5PRQZV4');
+				</script> <script data-skip-moving="true">
+					(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+			m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+			(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+			ym('82663708', "init", {
+				id:'82663708',
+				clickmap:true,
+				trackLinks:true,
+				accurateTrackBounce:true,
+				webvisor:true,
+				trackHash:true
+			});
+				</script> <script async 
+					src="https://www.googletagmanager.com/gtag/js?id=UA-124504104-1" 
+					data-skip-moving="true"
+				></script> <script data-skip-moving="true">
+					window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments)};
+				gtag("js", new Date());
+				gtag("config", "UA-124504104-1");
+				</script>	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+	<meta name="HandheldFriendly" content="true" >
+	<meta name="MobileOptimized" content="width">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>Модули для Битрикс24 | Oktobit24</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="модули битрикс24, битрикс 24, автоматизация менеджмента" />
+<meta name="description" content="Модули для Битрикс24 которые повышают эффективность сотрудников, усиливают контроль над результатом и помогают грамотно управлять компанией." />
+<style type="text/css">
+							:root {
+								--theme-color-b24button: var(--primary);
+							}
+						</style>
+<style type="text/css">
+				:root {
+					--primary: #ee4136 !important;
+					--primary-darken-1: hsl(3.59, 84%, 55%);
+					--primary-darken-2: hsl(3.59, 84%, 52%);
+					--primary-darken-3: hsl(3.59, 84%, 47%);
+					--primary-lighten-1: hsl(3.59, 84%, 67%);
+					--primary-opacity-0: rgba(238, 65, 54, 0);
+					--primary-opacity-0_1: rgba(238, 65, 54, 0.1);
+					--primary-opacity-0_2: rgba(238, 65, 54, 0.2);
+					--primary-opacity-0_3: rgba(238, 65, 54, 0.3);
+					--primary-opacity-0_4: rgba(238, 65, 54, 0.4);
+					--primary-opacity-0_5: rgba(238, 65, 54, 0.5);
+					--primary-opacity-0_6: rgba(238, 65, 54, 0.6);
+					--primary-opacity-0_7: rgba(238, 65, 54, 0.7);
+					--primary-opacity-0_8: rgba(238, 65, 54, 0.8);
+					--primary-opacity-0_9: rgba(238, 65, 54, 0.9);
+					--theme-color-main: #333333;
+					--theme-color-secondary: hsl(3.59, 20%, 80%);
+					--theme-color-title: #333333;
+					--theme-color-strict-inverse: #ffffff;
+				}
+			</style>
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/js/intranet/intranet-common.min.css?164219027962422" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/oktoprint.tasks/css/style.css?16421902821727" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16425860092409" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?164258600423804" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/sidepanel/css/sidepanel.min.css?16425860048080" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/buttons/src/css/ui.buttons.css?164258600920592" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/buttons/src/css/ui.buttons.ie.css?164258600938907" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/switcher/ui.switcher.min.css?16425860092335" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/oktoprint.bonusesandpenalties/css/style.css?16421902821727" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/oktoprint.employeemission/css/style.css?1642203072668" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/landing/css/landing_public.min.css?1642190279250" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/components/bitrix/landing.pub/templates/.default/style.min.css?164220176637024" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/components/bitrix/landing.cookies/templates/.default/style.min.css?16422003766332" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/templates/landing24/assets/vendor/bootstrap/bootstrap.min.css?1642202886156324" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/landing24/theme.min.css?1642202897578769" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/landing24/assets/css/custom-grid.min.css?164219036538" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/bitrix/templates/landing24/template_styles.min.css?16422016282316" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+
+
+
+
+<meta name="robots" content="all" />
+<!-- Yandex.Metrika counter -->
+<script data-skip-moving="true" type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(82663708, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/82663708" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script data-skip-moving="true" async src="https://www.googletagmanager.com/gtag/js?id=UA-124504104-1"></script>
+<script data-skip-moving="true">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124504104-1');
+</script>
+<link rel="preload" href="/bitrix/templates/landing24/assets/vendor/icon/fab/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin>
+<link rel="preload" href="/bitrix/templates/landing24/assets/vendor/icon/fab/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin>
+<style>.fa-facebook:before{content:"\f09a";}.fa-instagram:before{content:"\f16d";}</style>
+<link rel="preload" href="/bitrix/templates/landing24/assets/vendor/icon/far/font.woff" as="font" crossorigin="anonymous" type="font/woff" crossorigin>
+<link rel="preload" href="/bitrix/templates/landing24/assets/vendor/icon/far/font.woff2" as="font" crossorigin="anonymous" type="font/woff2" crossorigin>
+<style>.fa-phone:before{content:"\f095";}.fa-envelope:before{content:"\f0e0";}.fa-home:before{content:"\f015";}</style>
+<style>.fa-chevron-left:before{content:"\f053";}.fa-chevron-right:before{content:"\f054";}</style>
+<style>.fa-hourglass-2:before{content:"\f254";}.fa-money:before{content:"\f3d1";}.fa-signal:before{content:"\f012";}.fa-volume-control-phone:before{content:"\f2a0";}</style>
+<style>.fa-dashboard:before{content:"\f625";}.fa-sort-amount-asc:before{content:"\f160";}.fa-exchange:before{content:"\f0ec";}.fa-sign-language:before{content:"\f2a7";}</style>
+<style>.fa-angle-left:before{content:"\f104";}.fa-angle-right:before{content:"\f105";}</style>
+<style>.fa-cogs:before{content:"\f085";}.fa-cog:before{content:"\f013";}.fa-spinner:before{content:"\f110";}.fa-rocket:before{content:"\f135";}</style>
+<style>
+					body {
+						--landing-font-family: Roboto
+					}
+				</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900">
+<style>
+				body {
+					font-weight: 400;
+					font-family: Roboto;
+					-webkit-font-smoothing: antialiased;
+					-moz-osx-font-smoothing: grayscale;
+					-moz-font-feature-settings: "liga", "kern";
+					text-rendering: optimizelegibility;
+				}
+			</style>
+<style>
+				h1, h2, h3, h4, h5, h6 {
+					font-family: Roboto;
+				}
+			</style>
+<style>
+			html {font-size: 14px;}
+			body {font-size: 1rem;}
+			.g-font-size-default {font-size: 1rem;}
+		</style>
+<style>
+				body {
+					line-height: 1.6;
+					font-weight: 400;
+				}
+				
+				.h1, .h2, .h3, .h4, .h5, .h6, .h7,
+				h1, h2, h3, h4, h5, h6 {
+					font-weight: 400;
+				}
+			</style>
+
+
+<meta property="og:title" content="Модули Oktobit24 для Битрикс24" /><meta property="og:description" content="Повышают эффективность сотрудников, усиливают контроль над результатом и помогают грамотно управлять компанией." /><meta property="og:image" content="//corp.oktoprint.ru/upload/landing/522/Banner_Oktobit24_1x.png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="675" /><meta property="og:type" content="website" /><meta property="twitter:title" content="Модули Oktobit24 для Битрикс24" /><meta property="twitter:description" content="Повышают эффективность сотрудников, усиливают контроль над результатом и помогают грамотно управлять компанией." /><meta property="twitter:image" content="//corp.oktoprint.ru/upload/landing/522/Banner_Oktobit24_1x.png" /><meta name="twitter:card" content="summary_large_image" /><meta property="twitter:type" content="website" /> <meta property="Bitrix24SiteType" content="store" /> <meta property="og:url" content="https://oktobit24.ru/" />
+<link rel="canonical" href="https://oktobit24.ru/"/><meta name="yandex-verification" content="2cfe64153c44b269" /> <meta name="google-site-verification" content="nQySWWT78mhScHvlOGFKym4bABtoJkQrtfBx1wQICDw" /> <link rel="icon" type="image/png" href="/upload/resize_cache/landing/ddf/16_16_2/oktobit120x120.png" sizes="16x16"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/ddf/32_32_2/oktobit120x120.png" sizes="32x32"><link rel="icon" type="image/png" href="/upload/resize_cache/landing/ddf/96_96_2/oktobit120x120.png" sizes="96x96"><link rel="apple-touch-icon" href="/upload/landing/ddf/oktobit120x120.png" sizes="120x120"><link rel="apple-touch-icon" href="/upload/landing/ddf/oktobit120x120.png" sizes="180x180"><link rel="apple-touch-icon" href="/upload/landing/ddf/oktobit120x120.png" sizes="152x152"><link rel="apple-touch-icon" href="/upload/landing/ddf/oktobit120x120.png" sizes="167x167"></head>
+<body class="landing-b24button-use-style" data-event-tracker='["click","show"]' data-event-tracker-label-from="href">
+<noscript>
+					<img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=890874117741418&ev=PageView&noscript=1"/>
+				</noscript> <noscript>
+					<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5PRQZV4" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+				</noscript> <noscript>
+				<img src="https://mc.yandex.ru/watch/82663708" style="position:absolute; left:-9999px;" alt="" />
+			</noscript><main class="w-100 landing-public-mode" ><div class="landing-header"><div id="block2938" class="block-wrapper block-0-menu-15-photography"><header class="landing-block u-header u-header--sticky u-header--relative">
+	<!-- Top Bar -->
+	<div class="landing-block-node-top-block landing-semantic-background-color u-header__section u-header__section--hidden g-transition-0_3 g-pt-15 g-pb-15 g-bg-black">
+		<div class="container">
+			<div class="row flex-column flex-md-row align-items-center justify-content-md-end text-uppercase g-font-weight-700 g-font-size-13 g-mt-minus-10">
+				<div class="col-auto text-center text-md-left g-font-size-10 mr-md-auto g-mt-10"><div class="landing-block-node-card-menu-contact d-inline-block g-mb-8 g-mb-0--md g-mr-10 g-mr-30--sm" data-card-preset="contact-link">
+						<div class="landing-block-node-menu-contact-title landing-semantic-text-small d-inline-block g-color-gray-dark-v5"> </div>
+						<a href="tel:+7 (499) 288-01-26" class="landing-block-node-menu-contact-link landing-semantic-link-small d-inline-block g-font-weight-700 g-color-white" target="_self">+7 (499) 288-01-26</a>
+					</div><div class="landing-block-node-card-menu-contact d-inline-block g-mb-8 g-mb-0--md g-mr-10 g-mr-30--sm" data-card-preset="contact-link">
+						<div class="landing-block-node-menu-contact-title landing-semantic-text-small d-inline-block g-color-gray-dark-v5"> </div>
+						<a href="mailto:b24@oktobit24.ru?subject=Запрос с сайта" class="landing-block-node-menu-contact-link landing-semantic-link-small d-inline-block g-font-weight-700 g-color-white" target="_self">b24@oktobit24.ru</a>
+					</div><div class="landing-block-node-card-menu-contact d-inline-block g-mb-8 g-mb-0--md g-mr-10 g-mr-30--sm" data-card-preset="contact-text">
+						<div class="landing-block-node-menu-contact-title landing-semantic-text-small d-inline-block g-color-gray-dark-v5"> </div>
+						<div class="landing-block-node-menu-contact-text landing-semantic-link-small d-inline-block g-font-weight-700 g-color-white">Пн-Пт: 09.00 -18.00</div>
+					</div></div>
+
+			</div>
+		</div>
+	</div>
+	<!-- End Top Bar -->
+
+	<div class="landing-block-node-bottom-block landing-semantic-background-color u-header__section u-header__section--light g-py-30 g-bg-main" data-header-fix-moment-classes="u-shadow-v27">
+		<nav class="navbar navbar-expand-lg p-0 g-px-15">
+			<div class="container">
+				<!-- Logo -->
+				<a href="https://oktobit24.ru/" class="navbar-brand landing-block-node-menu-logo-link u-header__logo p-0" target="_self">
+					<img class="landing-block-node-menu-logo u-header__logo-img u-header__logo-img--main g-max-width-180" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjkiIGhlaWdodD0iMzMiPjxyZWN0IGlkPSJiYWNrZ3JvdW5kcmVjdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgeD0iMCIgeT0iMCIgZmlsbD0iI2RkZCIgZmlsbC1vcGFjaXR5PSIuNyIgc3Ryb2tlPSJub25lIi8+PC9zdmc+" alt="Набор модулей Битрикс24 для эффективного менеджмента" data-fileid="5079314" data-fileid2x="5079315" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/145/logo_s7raPjxg_3_1x.png" loading="lazy" data-srcset="/upload/landing/e01/logo_s7raPjxg_3_2x.png 2x" />
+				</a>
+				<!-- End Logo -->
+
+				<!-- Navigation -->
+				<div class="collapse navbar-collapse align-items-center flex-sm-row" id="navBar2937">
+					<ul class="landing-block-node-menu-list js-scroll-nav navbar-nav col-lg-10 text-uppercase g-font-weight-700 g-font-size-11 g-pt-20 g-pt-0--lg ml-auto g-mr-20"><li class="landing-block-node-menu-list-item nav-item g-mx-20--lg g-mb-7 g-mb-0--lg">
+							<a href="https://oktobit24.ru/catalog/clothes/bitrix_lic/" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0" data-url="#catalogSection9978" target="_self">Битрикс24</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-20--lg g-mb-7 g-mb-0--lg">
+							<a href="https://oktobit24.ru/#block3587" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0" target="_self">Модули OKTOBIT24</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-20--lg g-mb-7 g-mb-0--lg">
+							<a href="https://oktobit24.ru/#block3604" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0" target="_self">Услуги</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-20--lg g-mb-7 g-mb-0--lg">
+							<a href="https://oktobit24.ru/#block3519" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0" target="_self">О нас</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-20--lg g-mb-7 g-mb-0--lg">
+							<a href="https://oktobit24.ru/kontakty/" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0" target="_self">Контакты</a>
+						</li><li class="landing-block-node-menu-list-item nav-item g-mx-20--lg g-mb-7 g-mb-0--lg">
+							<a href="https://oktobit24.ru/blog/" class="landing-block-node-menu-list-item-link landing-semantic-menu-h-text nav-link p-0" target="_self">Блог</a>
+						</li></ul>
+					<ul class="list-inline mb-0 landing-block-node-menu-list-social d-lg-flex flex-wrap justify-content-end col-lg-2 g-px-0"><li class="landing-block-card-social list-inline-item g-ma-3" data-card-preset="facebook">
+							<a class="landing-block-card-social-icon-link landing-semantic-menu-h-text d-block u-icon-v3 u-icon-size--sm g-rounded-50x g-bg-gray-light-v4 g-color-gray-light-v1 g-bg-primary--hover g-color-white--hover g-font-size-14" href="https://www.facebook.com/Oktobit24" target="_blank">
+								<i class="landing-block-card-social-icon fa fa-facebook" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</a>
+						</li><li class="landing-block-card-social list-inline-item g-ma-3" data-card-preset="instagram">
+							<a class="landing-block-card-social-icon-link landing-semantic-menu-h-text d-block u-icon-v3 u-icon-size--sm g-rounded-50x g-bg-gray-light-v4 g-color-gray-light-v1 g-bg-primary--hover g-color-white--hover g-font-size-14" href="https://www.instagram.com/oktobit24/" target="_blank">
+								<i class="landing-block-card-social-icon fa fa-instagram" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</a>
+						</li></ul>
+				</div>
+				<!-- End Navigation -->
+
+				<!-- Responsive Toggle Button -->
+				<button class="navbar-toggler btn g-line-height-1 g-brd-none g-pa-0 ml-auto" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar2937" data-toggle="collapse" data-target="#navBar2937">
+                <span class="hamburger hamburger--slider">
+                  <span class="hamburger-box">
+                    <span class="hamburger-inner"></span>
+                  </span>
+                </span>
+				</button>
+				<!-- End Responsive Toggle Button -->
+			</div>
+		</nav>
+	</div>
+</header></div></div> 
+								<div class="landing-main"><a id="workarea"></a><div id="block3585" class="block-wrapper block-49-3-two-cols-video-text-fix"><section class="landing-block g-pt-50 g-pb-20">
+	<div class="container">
+		<div class="row">
+			<div class="landing-block-node-text-container d-flex js-animation slideInLeft col-md-6 col-lg-6 g-pb-20 g-pb-0--md">
+				<div>
+					<h2 class="landing-block-node-title landing-semantic-title-small text-uppercase g-font-weight-700 mb-0 g-mb-15 g-font-size-20">Эффективно управляйте бизнес-процессами компании и сокращайте расходы до 10 раз!</h2>
+					<div class="landing-block-node-text landing-semantic-text-medium g-font-size-16 g-color-gray-dark-v1"><div><br /></div><div>Административные модули для Битрикс24 помогают грамотно управлять компанией и контролировать работу сотрудников.</div><ul><li>в 2 раза быстрее сотрудники закрывают задачи,</li><li>в 4 раза сокращаются расходы на корпоративное ПО,</li><li>в 10 раз экономнее мобильная связь в компании, </li><li>вся команда может работать удаленно, имея полноценный набор инструментов.</li></ul></div>
+				</div>
+			</div>
+			<div class="landing-block-node-video-col js-animation slideInRight col-md-6 col-lg-6">
+				<div class="landing-block-node-video-container embed-responsive embed-responsive-16by9 mx-auto w-100">
+					<div class="landing-block-node-video embed-responsive-item g-video-preview w-100" data-src="https://www.youtube.com/embed/zgcKqJedrbo?autoplay=1&controls=0&loop=1&mute=0&rel=0&start=0&html5=1&v=zgcKqJedrbo&t=1s&enablejsapi=1&origin=https://corp.oktoprint.ru" data-source="https://www.youtube.com/watch?v=zgcKqJedrbo&t=1s" data-preview="//img.youtube.com/vi/zgcKqJedrbo/sddefault.jpg" style="background-image: url('//img.youtube.com/vi/zgcKqJedrbo/sddefault.jpg');"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div><div id="block3722" class="block-wrapper block-13-2-one-col-fix-button"><section class="landing-block text-center g-bg-transparent g-pb-75 g-pt-10">
+	<div class="container">
+		<a class="landing-block-node-button landing-semantic-link-image-medium btn g-btn-type-solid g-btn-size-md g-btn-px-m g-btn-primary rounded-0 text-uppercase" href="https://corp.oktoprint.ru/pub/form/7_obratnaya_svyaz/96j4lo/" target="_popup">Получить консультацию бесплатно</a>
+	</div>
+</section></div><div id="block3600" class="block-wrapper block-27-one-col-fix-title-and-text-2"><section class="landing-block js-animation fadeInUp g-pt-10 g-pb-10 g-bg-gray-light-v4">
+
+	<div class="landing-block-node-text-container landing-semantic-text-width container g-max-width-800">
+		<div class="text-center">
+			<h2 class="landing-block-node-title landing-semantic-title-medium h2">Что входит в Октобит24?</h2>
+			<div class="landing-block-node-text landing-semantic-text-medium g-font-size-16 g-pb-1"><p>7 уникальных модулей для коробочной версии Битрикс24, каждый из которых можно приобрести отдельно. Интеграция и техническая поддержка входит в пакет услуг. </p></div>
+		</div>
+	</div>
+
+</section></div><div id="block3587" class="block-wrapper block-44-4-slider-5-cols-with-prices"><section class="landing-block landing-semantic-background-color g-bg-bluepink-lineargradien g-pt-0 g-pr-auto g-pl-auto g-pb-40 g-mt-40">
+	<!-- Product Blocks -->
+	<div class="js-carousel g-px-25 row" data-infinite="true" data-slides-show="5" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-45 g-color-white g-bg-primary g-color-primary--hover g-bg-white--hover" data-arrow-left-classes="fa fa-chevron-left g-left-0" data-arrow-right-classes="fa fa-chevron-right g-right-0" data-responsive="[{
+               &quot;breakpoint&quot;: 1200,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 5
+               }
+             }, {
+               &quot;breakpoint&quot;: 992,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 3
+               }
+             }, {
+               &quot;breakpoint&quot;: 768,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 2
+               }
+             }, {
+               &quot;breakpoint&quot;: 576,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 1
+               }
+             }]" data-init-classes-exclude="[{
+				 &quot;selector&quot;: &quot;.landing-block-node-card&quot;,
+				 &quot;class&quot;: &quot;col-12 col-sm-4 col-lg-3&quot;
+			   }, {
+				 &quot;selector&quot;: &quot;.js-carousel&quot;,
+				 &quot;class&quot;: &quot;row&quot;
+			   }]"><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-color-white g-transition-0_3 g-bg-black-opacity-0_8 g-bg-pinterest--hover" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6422863" data-fileid2x="6422864" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/organizuyushchayaskhema/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/b4f/MODUL_ORGSKHEMA_1x.png" loading="lazy" data-srcset="/upload/landing/0f8/MODUL_ORGSKHEMA_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation g-color-white g-mb-5 bounce g-font-weight-700 g-text-transform-none text-center g-font-size-0">МОДУЛЬ «ОРГСХЕМА»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation g-color-gray-light-v3 animation-none text-left animated"><ul><li>Эффективная структура предприятия.</li><li>Ценный конечный продукт для каждого сотрудника. 
+Возможность закрепления нескольких постов за одним пользователем.</li><li>Построение разных цепочек согласования по   бизнес-процессам. </li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-font-weight-700 g-font-size-11 g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10 g-letter-spacing-inherit g-line-height-0 g-mb-auto text-center g-color-white g-bg-primary-dark-v3" href="#"><a href="https://oktobit24.ru/modules/organizuyushchayaskhema/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-theme-travel-bg-black-v1 g-bg-primary--hover g-color-white g-transition-0_3" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6424413" data-fileid2x="6424414" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/tasks/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/759/MODUL_ZADACHI_1x.png" loading="lazy" data-srcset="/upload/landing/ea9/MODUL_ZADACHI_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation fadeInRight text-uppercase g-font-weight-700 g-color-white g-mb-5 text-center g-font-size-0">МОДУЛЬ «ЗАДАЧИ+»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation fadeInLeft g-color-white-opacity-0_8"><ul><li>Прогресс-бар выполнения задачи для визуального контроля</li><li> Запрет на внесение корректировок во времени.</li><li>Обязателен комментарий перед завершением задачи. <br /></li><li>Прогресс бар в модуле &quot;рабочий отчёт&quot;.</li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-line-height-1 g-font-weight-700 g-font-size-11 g-bg-primary g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10" href="#"><a href="https://oktobit24.ru/modules/tasks/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-theme-travel-bg-black-v1 g-bg-primary--hover g-color-white g-transition-0_3" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6424452" data-fileid2x="6424453" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/bonus/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/453/MODUL_BONUSY_I_PENI_1x.png" loading="lazy" data-srcset="/upload/landing/3f6/MODUL_BONUSY_I_PENI_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation fadeInRight text-uppercase g-font-weight-700 g-color-white g-mb-5 text-center g-font-size-0">МОДУЛЬ «БОНУСЫ И ПЕНИ»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation fadeInLeft g-color-white-opacity-0_8"><ul><li>Система наград и штрафов.</li><li>Начисление руководителем бонусов/пеней в панеле задачи по завершению.</li><li>Общая статистика бонусов и пеней по задачам в одном месте.</li><li>Возможность расчёта бонусами за проставленные штрафы.</li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-line-height-1 g-font-weight-700 g-font-size-11 g-bg-primary g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10" href="#"><a href="https://oktobit24.ru/modules/bonus/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-theme-travel-bg-black-v1 g-bg-primary--hover g-color-white g-transition-0_3" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6486230" data-fileid2x="6486229" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/modulrabochiyotchet/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/af0/MODUL_RABOCHIY_OTCHET_1x.png" loading="lazy" data-srcset="/upload/landing/14b/MODUL_RABOCHIY_OTCHET_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation fadeInRight text-uppercase g-font-weight-700 g-color-white g-mb-5 text-center g-font-size-0">МОДУЛЬ «РАБОЧИй ОТЧЁТ»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation fadeInLeft g-color-white-opacity-0_8"><ul><li>Фиксация времени по задачам.</li><li>Экономия времени на заполнение отчёта и плана. <br /></li><li>Лёгкий контроль и возможность отправить отчёт на доработку. <br /></li><li>Вложенные цели и статитики для каждого сотрудника.</li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-line-height-1 g-font-weight-700 g-font-size-11 g-bg-primary g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10" href="#"><a href="https://oktobit24.ru/modules/modulrabochiyotchet/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-theme-travel-bg-black-v1 g-bg-primary--hover g-color-white g-transition-0_3" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6486244" data-fileid2x="6486245" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/modul_statistiki_bitrix24/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/8f5/MODUL_STATISTIKI_1x.png" loading="lazy" data-srcset="/upload/landing/763/MODUL_STATISTIKI_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation fadeInRight text-uppercase g-font-weight-700 g-color-white g-mb-5 text-center g-font-size-0">МОДУЛЬ «СТАТИСТИКИ»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation fadeInLeft g-color-white-opacity-0_8"><ul><li>Объективная оценка эффективности сотрудников.</li><li>Возможность настроить любые статистики для сбора данных.</li><li>Графики по каждому показателю.</li><li>Запрет на исправление статистик за прошедший период.</li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-line-height-1 g-font-weight-700 g-font-size-11 g-bg-primary g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10" href="#"><a href="https://oktobit24.ru/catalog/item/modul_oktobit24_statistiki/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-color-white g-transition-0_3 g-bg-black-opacity-0_8 g-bg-pinterest--hover" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6486235" data-fileid2x="6486236" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/modulzrs/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/432/MODUL_ZRS_1x.png" loading="lazy" data-srcset="/upload/landing/1db/MODUL_ZRS_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation g-color-white g-mb-5 bounce g-font-weight-700 g-text-transform-none text-center g-font-size-0">МОДУЛЬ «ЗРС»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation g-color-gray-light-v3 animation-none text-left animated"><ul><li>Автоматизация процесса согласования нестандартных ситуаций. </li><li>Классическая форма ЗРС в виде выстроенного бизнес-процесса.</li><li>Экономия времени руководителей на принятие решений.</li><li>Рост ответственности сотрудников.  </li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-font-weight-700 g-font-size-11 g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10 g-letter-spacing-inherit g-line-height-0 g-mb-auto text-center g-color-white g-bg-primary-dark-v3" href="#"><a href="https://oktobit24.ru/modules/modulzrs/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div><div class="landing-block-node-card js-slide g-px-7 col-12 col-sm-4 col-lg-3">
+			<div class="landing-block-node-card-container h-100 g-pos-rel g-text-underline--none--hover g-parent g-color-white g-transition-0_3 g-bg-black-opacity-0_8 g-bg-pinterest--hover" href="#">
+				<img class="landing-block-node-card-img img-fluid w-100" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMjI1Ij48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="6422881" data-fileid2x="6422882" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;https://oktobit24.ru/modules/modulsico/&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:true}" data-lazy-img="Y" data-src="/upload/landing/e1c/MODUL_ORGSKHEMA_1x.png" loading="lazy" data-srcset="/upload/landing/af4/MODUL_ORGSKHEMA_2x.png 2x" />
+				<div class="g-pa-20">
+					<div class="g-mb-20">
+						<h3 class="landing-block-node-card-title landing-semantic-subtitle-image-small js-animation g-color-white g-mb-5 bounce g-font-weight-700 g-text-transform-none text-center g-font-size-0">МОДУЛЬ «ИЦО»</h3>
+						<div class="landing-block-node-card-text landing-semantic-text-image-small js-animation g-color-gray-light-v3 animation-none text-left animated"><ul><li>Общая картина положения дел в компании с помощью статистик.</li><li>Быстрое информирование руководства об «узких» местах и угрозах.</li><li>Гибкая система фильтров для настройки и сохранения показателей.</li><li>Вывод графиков на печать</li></ul></div>
+					</div>
+					<div class="landing-block-node-card-price landing-semantic-link-image-small js-animation fadeInRight d-inline-block g-font-weight-700 g-font-size-11 g-color-primary--parent-hover g-bg-white--parent-hover g-pa-10 g-letter-spacing-inherit g-line-height-0 g-mb-auto text-center g-color-white g-bg-primary-dark-v3" href="#"><a href="https://oktobit24.ru/modules/modulsico/" target="_self">УЗНАТЬ БОЛЬШЕ</a></div>
+				</div>
+			</div>
+		</div></div>
+	<!-- Product Blocks -->
+</section></div><div id="block3602" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-bg-gray-light-v4 g-pt-15">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Какой результат вы получите после интеграции модулей Октобит24?</h2>
+
+</section></div><div id="block3601" class="block-wrapper block-34-3-four-cols-countdown"><section class="landing-block landing-semantic-background-color g-pt-40 g-pb-40 g-bg-gray-light-v4">
+	<div class="container">
+		<div class="row landing-block-inner"><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center g-mb-40 g-mb-0--lg landing-card">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-hourglass-2"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Экономите время в 2 раза.</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>В 2 раза сократится время откликов сотрудников на задачи и входящие обращение, и в 2 раза вырастет количество завершенных задач</p></div>
+			</div><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center g-mb-40 g-mb-0--lg">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-money"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Сократите расходы в 4 раза.</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>До 4 раз сократите расходы на поддержку и доработку корпоративного ПО.</p></div>
+			</div><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center g-mb-40 g-mb-0--md landing-card">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-signal"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Работайте эффективно из любой точки мира.</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>70% сотрудников перейдет на удаленную работу без нарушения рабочего процесса.</p></div>
+			</div><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-volume-control-phone"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Платите в 10 раз меньше за счет IP-телефонии.</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>Снизьте расходы до 10 раз на корпоративную мобильную связь за счет внедрения  IP-телефонии.</p></div>
+			</div></div>
+	</div>
+</section></div><div id="block3603" class="block-wrapper block-13-2-one-col-fix-button"><section class="landing-block text-center g-bg-gray-light-v4 g-pt-auto g-pb-20">
+	<div class="container">
+		<a class="landing-block-node-button landing-semantic-link-image-medium btn g-btn-type-solid g-btn-size-md g-btn-px-m g-btn-primary rounded-0 text-uppercase" href="https://corp.oktoprint.ru/pub/form/7_obratnaya_svyaz/96j4lo/" target="_popup">Заказать бесплатную презентацию!</a>
+	</div>
+</section></div><div id="block3607" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-pb-auto g-pt-70">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Легкая интеграция в ваш бизнес за 4 шага</h2>
+
+</section></div><div id="block3604" class="block-wrapper block-36-1-shedule"><section class="landing-block g-pt-40 g-pb-40">
+	<div class="landing-block-node-timeline-container u-timeline-v3-2-wrap container">
+		<div class=""><div class="landing-block-node-card js-animation fadeInUp u-timeline-v3-2 d-block text-center text-md-left g-parent u-link-v5 g-pt-25 g-pb-25 g-pl-10 g-pr-10" href="#">
+				<div class="u-timeline-v3-2__icon g-absolute-centered--y g-z-index-3 g-line-height-0 g-width-16 g-height-16 g-ml-minus-8">
+					<i class="landing-block-node-card-time-dot d-inline-block g-width-16 g-height-16 g-bg-white g-brd-5 g-brd-style-solid g-brd-gray-light-v4 g-rounded-50"></i>
+				</div>
+
+				<div class="row mx-0">
+					<div class="col-md-5 order-2 order-md-1 d-flex align-items-center align-content-start flex-wrap flex-lg-nowrap px-0">
+						<div class="landing-block-node-card-time-line u-heading-v1-4 order-2 order-lg-1 g-brd-gray-light-v2 w-100 g-mb-0 g-mt-20--md g-mt-0--lg g-mx-10--md g-mx-0--lg">
+							<div class="landing-block-node-card-time landing-semantic-link-image-small text-center g-pos-rel g-width-110 g-line-height-1_6 g-font-weight-700 g-color-white g-font-size-14 g-bg-gray-dark-v1 g-bg-primary--parent-hover g-py-5 g-px-10 mx-auto g-ml-0--lg g-transition-0_2 g-transition--ease-in">Шаг 1</div>
+						</div>
+						<div class="landing-block-node-card-img-container col-auto d-md-flex order-1 order-lg-2 u-bg-overlay g-bg-black-opacity-0_3--after g-bg-white-opacity-0--after--parent-hover g-overflow-hidden g-rounded-50x px-0 g-mb-20 g-mb-0--md g-mr-30--lg mx-auto g-width-120 g-width-170--md g-height-120 g-height-170--md g-transition-0_2 g-transition--ease-in g-pointer-events-before-after-none">
+							<img class="landing-block-node-card-img img-fluid g-rounded-50x" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzAiIGhlaWdodD0iMTcwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" srcset="" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn.bitrix24.site/bitrix/images/landing/business/200x200/img1.jpg" loading="lazy" />
+						</div>
+					</div>
+
+					<div class="col-md-7 order-1 landing-block-node-card-inner d-flex landing-block-node-card-inner d-flex order-md-2 px-0 g-mb-15 g-mb-0--md">
+						<div class="media d-block d-md-flex">
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-subtitle landing-semantic-subtitle-medium-primary text-uppercase g-font-weight-700 g-font-size-12 g-color-primary g-mb-5">OKTOBIT24</h4>
+								<h3 class="landing-block-node-card-title landing-semantic-title-small text-uppercase g-font-weight-700 g-font-size-23 g-mb-10">Бесплатная презентация.</h3>
+								<div class="landing-block-node-card-text landing-semantic-text-medium g-color-gray-dark-v5 mb-0"><p>В удобное для вас время назначим бесплатную презентацию Октобит24 и подберем такую схему работы, которая удобна именно вам.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><div class="landing-block-node-card js-animation fadeInUp u-timeline-v3-2 d-block text-center text-md-left g-parent u-link-v5 g-pt-25 g-pb-25 g-pl-10 g-pr-10" href="#">
+				<div class="u-timeline-v3-2__icon g-absolute-centered--y g-z-index-3 g-line-height-0 g-width-16 g-height-16 g-ml-minus-8">
+					<i class="landing-block-node-card-time-dot d-inline-block g-width-16 g-height-16 g-bg-white g-brd-5 g-brd-style-solid g-brd-gray-light-v4 g-rounded-50"></i>
+				</div>
+
+				<div class="row mx-0">
+					<div class="col-md-5 order-2 order-md-1 d-flex align-items-center align-content-start flex-wrap flex-lg-nowrap px-0">
+						<div class="landing-block-node-card-time-line u-heading-v1-4 order-2 order-lg-1 g-brd-gray-light-v2 w-100 g-mb-0 g-mt-20--md g-mt-0--lg g-mx-10--md g-mx-0--lg">
+							<div class="landing-block-node-card-time landing-semantic-link-image-small text-center g-pos-rel g-width-110 g-line-height-1_6 g-font-weight-700 g-color-white g-font-size-14 g-bg-gray-dark-v1 g-bg-primary--parent-hover g-py-5 g-px-10 mx-auto g-ml-0--lg g-transition-0_2 g-transition--ease-in">Шаг 2</div>
+						</div>
+						<div class="landing-block-node-card-img-container col-auto d-md-flex order-1 order-lg-2 u-bg-overlay g-bg-black-opacity-0_3--after g-bg-white-opacity-0--after--parent-hover g-overflow-hidden g-rounded-50x px-0 g-mb-20 g-mb-0--md g-mr-30--lg mx-auto g-width-120 g-width-170--md g-height-120 g-height-170--md g-transition-0_2 g-transition--ease-in g-pointer-events-before-after-none">
+							<img class="landing-block-node-card-img img-fluid g-rounded-50x" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzAiIGhlaWdodD0iMTcwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" srcset="" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn.bitrix24.site/bitrix/images/landing/business/200x200/img2.jpg" loading="lazy" />
+						</div>
+					</div>
+
+					<div class="col-md-7 order-1 landing-block-node-card-inner d-flex order-md-2 px-0 g-mb-15 g-mb-0--md">
+						<div class="media d-block d-md-flex">
+
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-subtitle landing-semantic-subtitle-medium-primary text-uppercase g-font-weight-700 g-font-size-12 g-color-primary g-mb-5">OKTOBIT24</h4>
+								<h3 class="landing-block-node-card-title landing-semantic-title-small text-uppercase g-font-weight-700 g-font-size-23 g-mb-10">Установка и настройка.</h3>
+								<div class="landing-block-node-card-text landing-semantic-text-medium g-color-gray-dark-v5 mb-0"><p>Технические специалисты приедут к вам в офис и проведут все необходимые работы по интеграции и настройке коробочной версии Битрикс24 (при необходимости) и всех нужных модулей Октобит24.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><div class="landing-block-node-card js-animation fadeInUp u-timeline-v3-2 d-block text-center text-md-left g-parent u-link-v5 g-pt-25 g-pb-25 g-pl-10 g-pr-10" href="#">
+				<div class="u-timeline-v3-2__icon g-absolute-centered--y g-z-index-3 g-line-height-0 g-width-16 g-height-16 g-ml-minus-8">
+					<i class="landing-block-node-card-time-dot d-inline-block g-width-16 g-height-16 g-bg-white g-brd-5 g-brd-style-solid g-brd-gray-light-v4 g-rounded-50"></i>
+				</div>
+
+				<div class="row mx-0">
+					<div class="col-md-5 order-2 order-md-1 d-flex align-items-center align-content-start flex-wrap flex-lg-nowrap px-0">
+						<div class="landing-block-node-card-time-line u-heading-v1-4 order-2 order-lg-1 g-brd-gray-light-v2 w-100 g-mb-0 g-mt-20--md g-mt-0--lg g-mx-10--md g-mx-0--lg">
+							<div class="landing-block-node-card-time landing-semantic-link-image-small text-center g-pos-rel g-width-110 g-line-height-1_6 g-font-weight-700 g-color-white g-font-size-14 g-bg-gray-dark-v1 g-bg-primary--parent-hover g-py-5 g-px-10 mx-auto g-ml-0--lg g-transition-0_2 g-transition--ease-in">Шаг 3</div>
+						</div>
+						<div class="landing-block-node-card-img-container col-auto d-md-flex order-1 order-lg-2 u-bg-overlay g-bg-black-opacity-0_3--after g-bg-white-opacity-0--after--parent-hover g-overflow-hidden g-rounded-50x px-0 g-mb-20 g-mb-0--md g-mr-30--lg mx-auto g-width-120 g-width-170--md g-height-120 g-height-170--md g-transition-0_2 g-transition--ease-in g-pointer-events-before-after-none">
+							<img class="landing-block-node-card-img img-fluid g-rounded-50x" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzAiIGhlaWdodD0iMTcwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" srcset="" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn.bitrix24.site/bitrix/images/landing/business/200x200/img3.jpg" loading="lazy" />
+						</div>
+					</div>
+
+					<div class="col-md-7 order-1 landing-block-node-card-inner d-flex order-md-2 px-0 g-mb-15 g-mb-0--md">
+						<div class="media d-block d-md-flex">
+
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-subtitle landing-semantic-subtitle-medium-primary text-uppercase g-font-weight-700 g-font-size-12 g-color-primary g-mb-5">OKTOBIT24</h4>
+								<h3 class="landing-block-node-card-title landing-semantic-title-small text-uppercase g-font-weight-700 g-font-size-23 g-mb-10">Полный пакет документации.</h3>
+								<div class="landing-block-node-card-text landing-semantic-text-medium g-color-gray-dark-v5 mb-0"><p>Вы получаете полный доступ ко всем обучающим материалам Октобит24. В любой момент каждый ваш сотрудник может найти нужную информацию. </p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><div class="landing-block-node-card js-animation fadeInUp u-timeline-v3-2 d-block text-center text-md-left g-parent u-link-v5 g-pt-25 g-pb-25 g-pl-10 g-pr-10" href="#">
+				<div class="u-timeline-v3-2__icon g-absolute-centered--y g-z-index-3 g-line-height-0 g-width-16 g-height-16 g-ml-minus-8">
+					<i class="landing-block-node-card-time-dot d-inline-block g-width-16 g-height-16 g-bg-white g-brd-5 g-brd-style-solid g-brd-gray-light-v4 g-rounded-50"></i>
+				</div>
+
+				<div class="row mx-0">
+					<div class="col-md-5 order-2 order-md-1 d-flex align-items-center align-content-start flex-wrap flex-lg-nowrap px-0">
+						<div class="landing-block-node-card-time-line u-heading-v1-4 order-2 order-lg-1 g-brd-gray-light-v2 w-100 g-mb-0 g-mt-20--md g-mt-0--lg g-mx-10--md g-mx-0--lg">
+							<div class="landing-block-node-card-time landing-semantic-link-image-small text-center g-pos-rel g-width-110 g-line-height-1_6 g-font-weight-700 g-color-white g-font-size-14 g-bg-gray-dark-v1 g-bg-primary--parent-hover g-py-5 g-px-10 mx-auto g-ml-0--lg g-transition-0_2 g-transition--ease-in">Шаг 4</div>
+						</div>
+						<div class="landing-block-node-card-img-container col-auto d-md-flex order-1 order-lg-2 u-bg-overlay g-bg-black-opacity-0_3--after g-bg-white-opacity-0--after--parent-hover g-overflow-hidden g-rounded-50x px-0 g-mb-20 g-mb-0--md g-mr-30--lg mx-auto g-width-120 g-width-170--md g-height-120 g-height-170--md g-transition-0_2 g-transition--ease-in g-pointer-events-before-after-none">
+							<img class="landing-block-node-card-img img-fluid g-rounded-50x" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzAiIGhlaWdodD0iMTEzIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" srcset="" data-fileid="6424076" data-fileid2x="6424077" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="https://cdn.bitrix24.site/bitrix/images/landing/business/200x200/img4.jpg" loading="lazy" />
+						</div>
+					</div>
+
+					<div class="col-md-7 order-1 landing-block-node-card-inner d-flex landing-block-node-card-inner d-flex order-md-2 px-0 g-mb-15 g-mb-0--md">
+						<div class="media d-block d-md-flex">
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-subtitle landing-semantic-subtitle-medium-primary text-uppercase g-font-weight-700 g-font-size-12 g-color-primary g-mb-5">OKTOBIT24</h4>
+								<h3 class="landing-block-node-card-title landing-semantic-title-small text-uppercase g-font-weight-700 g-font-size-23 g-mb-10">ОБУЧЕНИЕ АДМИНИСТРИРОВАНИЮ МОДУЛЕЙ</h3>
+								<div class="landing-block-node-card-text landing-semantic-text-medium g-color-gray-dark-v5 mb-0"><p>Мы подготовим вашего администратора корпоративного портала к управлению модулями, чтобы информация в них всегда была актуальной.</p></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div></div>
+	</div>
+</section></div><div id="block3716" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-bg-gray-light-v4 g-pt-70">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Как Октобит24 помогает процветать вашему бизнесу?</h2>
+
+</section></div><div id="block3714" class="block-wrapper block-34-3-four-cols-countdown"><section class="landing-block landing-semantic-background-color g-pt-40 g-pb-40 g-bg-gray-light-v4">
+	<div class="container">
+		<div class="row landing-block-inner"><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center g-mb-40 g-mb-0--lg landing-card">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-dashboard"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Эффективность работы в компании</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>В это понятие мы вкладываем не только экономию ресурсов компании, но и максимальную отдачу от каждого человека, действия или процесса. Модули Октобит24 помогли нам ликвидировать хаос. С помощью административной технологии мы выстроили собственную структуру, разобрали зоны ответственности каждого сотрудника, и тем самым значительно ускорились.</p></div>
+			</div><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center g-mb-40 g-mb-0--lg">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-sort-amount-asc"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Автоматизация бизнес-процессов</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>С помощью модулей нам удалось разработать бизнес-процессы для ускорения взаимодействий между сотрудниками и тем самым ликвидировать ненужные запросы и передвижения. Мы полагаемся на современное программное обеспечение там, где это возможно, чтобы исключить время на создание, подтверждение и ожидание в пользу скорости принятия решений.</p></div>
+			</div><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center g-mb-40 g-mb-0--md landing-card">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-exchange"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Ускорение внутренней коммуникации.</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>Мы полностью перевели внутреннюю коммуникацию сотрудников в Битрикс24. Они находятся онлайн в течение рабочего дня и могут быстро связываться и сотрудничать друг с другом без необходимости встреч и звонков. Это помогает нам незамедлительно реагировать на происходящее и быть независимыми от внешних не всегда благоприятных ситуаций.</p></div>
+			</div><div class="landing-block-node-card js-animation fadeInUp col-md-6 col-lg-3 text-center">
+					<span class="landing-block-node-card-icon-container landing-semantic-color-primary u-icon-v1 u-icon-size--lg g-mb-15 g-color-primary m-auto">
+						<i class="landing-block-node-card-icon fa fa-sign-language"></i>
+					</span>
+				<h3 class="landing-block-node-card-number landing-semantic-subtitle-big mb-0 g-color-black g-font-size-18">Искоренение ненужных действий.</h3>
+				<div class="landing-block-node-card-number-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-11 g-mb-20 g-color-black"> </div>
+				<div class="landing-block-node-card-text landing-semantic-text-small mb-0 g-color-black"><p>Мы не тратим время на создание ненужных действий. Вся отчетность в компании автоматизирована и приведена к единому стандарту, каждый сотрудник имеет возможность оценки своей эффективности , работа с проектами и задачами максимально прозрачна. Рабочее время наших сотрудников направлено на достижение результатов.</p></div>
+			</div></div>
+	</div>
+</section></div><div id="block3715" class="block-wrapper block-13-2-one-col-fix-button"><section class="landing-block text-center g-bg-gray-light-v4 g-pt-auto g-pb-20">
+	<div class="container">
+		<a class="landing-block-node-button landing-semantic-link-image-medium btn g-btn-type-solid g-btn-size-md g-btn-px-m g-btn-primary rounded-0 text-uppercase" href="https://corp.oktoprint.ru/pub/form/7_obratnaya_svyaz/96j4lo/" target="_popup">Заказать бесплатную презентацию!</a>
+	</div>
+</section></div><div id="block3718" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-bg-gray-light-v5 g-pt-70">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Отзывы наших клиентов. <br /></h2>
+
+</section></div><div id="block3509" class="block-wrapper block-23-big-carousel-blocks"><section class="landing-block js-animation fadeIn g-bg-gray-light-v5 g-pt-auto g-pb-60">
+
+        <div class="js-carousel row" data-autoplay="true" data-pause-hover="true" data-infinite="true" data-speed="10000" data-slides-show="4" data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-60 g-font-size-40 g-color-white g-bg-primary" data-arrow-left-classes="fa fa-angle-left g-left-10" data-arrow-right-classes="fa fa-angle-right g-right-10" data-responsive="[{
+               &quot;breakpoint&quot;: 1200,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 4
+               }
+             }, {
+               &quot;breakpoint&quot;: 992,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 2
+               }
+             }, {
+               &quot;breakpoint&quot;: 576,
+               &quot;settings&quot;: {
+                 &quot;slidesToShow&quot;: 1
+               }
+             }]" data-init-classes-exclude="[{
+				 &quot;selector&quot;: &quot;.landing-block-card-carousel-element&quot;,
+				 &quot;class&quot;: &quot;col-12 col-sm-6 col-lg-3&quot;
+			   }, {
+				 &quot;selector&quot;: &quot;.js-carousel&quot;,
+				 &quot;class&quot;: &quot;row&quot;
+			   }]"><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5925453" data-fileid2x="5925454" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/f97/Screen_Shot_2021_06_11_at_12.39.06_1x.png" loading="lazy" data-srcset="/upload/landing/bf6/Screen_Shot_2021_06_11_at_12.39.06_2x.png 2x" />
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">Анна Иванова</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-font-size-10 g-color-gray-dark-v5 g-font-weight-900 g-text-shadow-none">руководитель отделения построения строительной компании<p><p><br /></p></p></div>
+                    <blockquote class="landing-block-node-text u-blockquote-v7 g-line-height-1_5 g-color-gray-dark-v5 g-bg-primary--before mb-0"><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;">Мы долго искали решение для оргсхемы компании, которое бы помогло объединить наш Битрикс и ту схему, которую мы составили на бумаге. </span><br /></p><p><p><span style="font-size: 1rem;"> Модуль от Октобит24 мы нашли наиболее подходящим нашим задумкам:</span><span style="font-size: 1rem;"> он достаточно близок к оригиналу, легко меняется под реалии компании, его можно изменить в несколько нажатий кнопки. Лично мне нравится, что оргсхема помогает выстраивать бизнес-процессы и при параллельном подчинении сотрудник всегда имеет право выбора линии согласования заявок. </span><span style="font-size: 1rem;"> </span></p><p><p><p><span style="font-size: 1rem;">Плюс, каждый сотрудник быстро может найти себя на оргсхеме и получить всю информацию об обязанностях, документах, руководителях и прочем.</span><br /></p><p><p><p></p><p></p></p></p></p></p></p></blockquote>
+                </div>
+            </div><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5925520" data-fileid2x="5925521" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/a8d/Screen_Shot_2021_06_11_at_12.39.58_1x.png" loading="lazy" data-srcset="/upload/landing/081/Screen_Shot_2021_06_11_at_12.39.58_2x.png 2x" />
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">МАКСИМ ВАХОВСКИЙ</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-color-gray-dark-v5 g-text-shadow-none g-font-weight-900 g-font-size-10">ИСПОЛНИТЕЛЬНЫЙ ДИРЕКТОР КОНСАЛТИНГОВОГО АГЕНТСТВА
+
+<p><br /></p><p><br /></p></div>
+                    <blockquote class="landing-block-node-text u-blockquote-v7 g-line-height-1_5 g-color-gray-dark-v5 g-bg-primary--before mb-0"><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;">Моя цель была в поиске комплексного решения для корпоративного портала, которое помогло бы приблизить компанию к полному переходу на административную систему управления.</span><br /></p><p></p><p> Радует, что здесь мы смогли не только получить оргсхему с возможностью расстановки пользователей так, как удобно нам. Например, мы оцифровали процессы согласования, избавившись от бумажных бланков, значительно улучшили качество работы сотрудников над проектами, ликвидировали несколько «белых пятен», которые были у меня.</p><p> Собственнику нравится более упорядоченная отчётность. А мне – возможность получить электронный вариант ИЦО. <br /></p><p></p><p></p><p></p><p></p></blockquote>
+                </div>
+            </div><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5925457" data-fileid2x="5925458" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/115/Screen_Shot_2021_06_11_at_12.40.42_1x.png" loading="lazy" data-srcset="/upload/landing/14c/Screen_Shot_2021_06_11_at_12.40.42_2x.png 2x" />
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">Николай Яковлев</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-font-size-10 g-color-gray-dark-v5 g-font-weight-900 g-text-shadow-none">владелец собственного бизнеса<p><br /></p><p><br /></p></div>
+                    <blockquote class="landing-block-node-text u-blockquote-v7 g-line-height-1_5 g-color-gray-dark-v5 g-bg-primary--before mb-0"><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;">Для меня как для владельца важен порядок, прозрачность и чёткое понимание затрат. </span></p><p><span style="font-size: 1rem;">Для компании приобрёл несколько модулей, которые ориентированы на улучшение работы именно в этих направлениях. 
+
+Опыт использования у нас пока небольшой, но уже могу сказать, что значительно ускорилась отчётность, сотрудники стали более собранными и быстрыми. Благодаря рабочим отчётам в компании образовался строгий учёт времени, и мы стремимся его улучшать. </span><br /></p><p><span style="font-size: 1rem;"> Думаю, для высшего руководства на этапе внедрения помогут бонусы и пени для сотрудников, которые уклоняются от работы по новым правилам.</span></p><p><span style="font-size: 1rem;"><br /></span></p></blockquote>
+                </div>
+            </div><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5925462" data-fileid2x="5925463" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/b91/Screen_Shot_2021_06_11_at_12.43.41_1x.png" loading="lazy" data-srcset="/upload/landing/cf2/Screen_Shot_2021_06_11_at_12.43.41_2x.png 2x" />
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">Инна Коваленко</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-font-size-10 g-color-gray-dark-v5 g-font-weight-900 g-text-shadow-none">сотрудник логистической компании<p><br /></p><p><br /></p></div>
+                    <blockquote class="landing-block-node-text u-blockquote-v7 g-line-height-1_5 g-color-gray-dark-v5 g-bg-primary--before mb-0"><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;">Мы перешли на Битрикс24 со всеми модулями Октобит24 сразу и постепенно привыкаем к новому формату работы. </span></p><p><span style="font-size: 1rem;">Все поставили себе мобильные приложения на телефоны и отказались от мессенджеров и почты для общения с коллегами.  </span><span style="font-size: 1rem;">Мне нравится использовать задачи как личный планировщик вместо блокнотов. По ним стало намного легче сдавать отчёт руководителю. Я больше не веду списки дел каждого 
+дня, чтобы в пятницу их обработать и долго готовить по ним отчёт. </span></p><p><span style="font-size: 1rem;">Не все сразу могут привыкнуть к такой форме работы, но потом становится понятно, что на самом деле такой портал помогает в работе, а не мешает. С ним сложно что-то забыть или упустить.</span><br /></p></blockquote>
+                </div>
+            </div><div class="landing-block-card-carousel-element js-slide g-pt-60 g-pb-5 g-px-15 col-12 col-sm-6 col-lg-3">
+                <div class="text-center u-shadow-v10 g-bg-white g-pa-0-35-35--sm g-pa-0-20-20">
+                    <img class="landing-block-node-img rounded-circle mx-auto g-width-100 g-brd-10 g-brd-around g-brd-gray-light-v5 g-pull-50x-up" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5925465" data-fileid2x="5925466" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/800/Screen_Shot_2021_06_11_at_12.44.52_1x.png" loading="lazy" data-srcset="/upload/landing/003/Screen_Shot_2021_06_11_at_12.44.52_2x.png 2x" />
+
+                    <h4 class="landing-block-node-title text-uppercase g-font-weight-700 mb-0">Елена Вайнер</h4>
+                    <div class="landing-block-node-subtitle text-uppercase g-font-style-normal g-font-size-10 g-color-gray-dark-v5 g-font-weight-900 g-text-shadow-none">заместитель генерального директора коммерческой компании<p><p><br /></p></p></div>
+                    <blockquote class="landing-block-node-text u-blockquote-v7 g-line-height-1_5 g-color-gray-dark-v5 g-bg-primary--before mb-0"><p><span style="font-size: 1rem;"><br /></span></p><p><span style="font-size: 1rem;">Считаю, что в современном бизнесе не обойтись без подобных решений. </span><br /></p><p><p><p><p>Для себя мы взяли отчётность, статистики и информационный центр организации как комплекс, который поможет нам следить за состоянием дел в бизнесе и вовремя реагировать на падение показателей. </p><p>Для себя я отметила достаточное количество вариантов статистик и возможность оцифровки даже самых сложных должностей в компании.</p><p>Конечно, для его внедрения требуется, чтобы в компании был человек, который будет поддерживать работу портала и передавать знания новым сотрудникам.</p><p><br /></p><p></p><p></p></p></p></p></blockquote>
+                </div>
+            </div></div>
+
+    </section></div><div id="block3611" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-pb-10 g-bg-gray-light-v5 g-pt-70">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Наш личный опыт внедрения Октобит24</h2>
+
+</section></div><div id="block3519" class="block-wrapper block-19-2-features-with-img-right"><section class="landing-block landing-semantic-background-color g-bg-main g-pt-auto g-pb-120">
+	<div class="container">
+		<div class="row">
+
+			<div class="landing-block-node-text-container col-md-7 col-lg-7 d-flex text-center text-md-left">
+				<div>
+					<div class="text-uppercase g-mb-20">
+						<h4 class="landing-block-node-subtitle landing-semantic-subtitle-small g-font-weight-700 g-font-size-11 g-mb-15"> </h4>
+						<h2 class="landing-block-node-title landing-semantic-title-medium g-line-height-1_3 g-font-size-36 mb-0"> </h2>
+					</div>
+
+					<div class="landing-block-node-text landing-semantic-text-medium g-mb-65"> </div>
+
+					<div class="landing-block-node-cards-container"><div class="landing-block-node-card media d-block d-md-flex text-center text-md-left g-mb-30">
+							<div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+							<span class="landing-block-node-card-icon-border u-icon-v2 u-icon-size--lg g-font-size-26 g-color-primary g-rounded-50x">
+								<i class="landing-block-node-card-icon fa fa-cogs" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</span>
+							</div>
+
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-title landing-semantic-title-small h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Что было до БИТРИКС24:</h4>
+								<div class="landing-block-node-card-text landing-semantic-text-medium mb-0"><p>За последние годы, компания«<span style="font-weight: bold;">ОктоПринт Сервис</span>» успела поработать с несколькими системами управления, в том числе, от лидеров мирового рынка корпоративного ПО. Среди них знакомые многим продукты. В качестве CRM мы использовали <span style="font-weight: bold;">MS Dynamics</span>, корпоративный портал и бизнес-процессы построили на <span style="font-weight: bold;">SharePoint</span>, учёт и статистику вели с помощью <span style="font-weight: bold;">КСУ</span> (Комплексная Система Управления) на базе <span style="font-weight: bold;">1С</span>.</p></div>
+							</div>
+						</div><div class="landing-block-node-card media d-block d-md-flex text-center text-md-left g-mb-30">
+							<div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+							<span class="landing-block-node-card-icon-border u-icon-v2 u-icon-size--lg g-font-size-26 g-color-primary g-rounded-50x">
+								<i class="landing-block-node-card-icon fa fa-cog" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</span>
+							</div>
+
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-title landing-semantic-title-small h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">Наш опыт интеграции Битрикс24:</h4>
+								<div class="landing-block-node-card-text landing-semantic-text-medium mb-0"><p>В 2017 году была внедрена коробочная версия <span style="font-weight: bold;">Битрикс24</span>, которая закрыла многие потребности в автоматизации, отчётности и взаимодействии с клиентами. Теперь вместо нескольких систем, требующих постоянной доработки и новых инструментов интеграции, используется одна.</p></div>
+							</div>
+						</div><div class="landing-block-node-card media d-block d-md-flex text-center text-md-left g-mb-30">
+							<div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+							<span class="landing-block-node-card-icon-border u-icon-v2 u-icon-size--lg g-font-size-26 g-color-primary g-rounded-50x">
+								<i class="landing-block-node-card-icon fa fa-spinner" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</span>
+							</div>
+
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-title landing-semantic-title-small h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">КАК ПОЯВИЛСЯ ОКТОБИТ24:</h4>
+								<div class="landing-block-node-card-text landing-semantic-text-medium mb-0"><p>Руководство видело ещё бóльшие возможности к совершенствованию, и, к счастью, модульная система <span style="font-weight: bold;">Битрикс24</span> позволяла их осуществить.Так внутри «<span style="font-weight: bold;">ОктоПринт Сервис</span>» появился <span style="font-weight: bold;">Октобит24</span>. Разработанные <span style="font-weight: bold;">Октобит24</span> модули помогли доработать функцию управления и контроля на корпоративном портале.</p></div>
+							</div>
+						</div><div class="landing-block-node-card media d-block d-md-flex text-center text-md-left g-mb-30">
+							<div class="d-md-flex align-self-center g-mb-30 g-mb-0--md g-mr-30--md">
+							<span class="landing-block-node-card-icon-border u-icon-v2 u-icon-size--lg g-font-size-26 g-color-primary g-rounded-50x">
+								<i class="landing-block-node-card-icon fa fa-rocket" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+							</span>
+							</div>
+
+							<div class="media-body align-self-center">
+								<h4 class="landing-block-node-card-title landing-semantic-title-small h6 text-uppercase g-font-weight-700 g-color-black g-mb-15">ТЕПЕРЬ ОКТОБИТ24 МОЖЕТ ПРИОБРЕСТИ КАЖДЫЙ!</h4>
+								<div class="landing-block-node-card-text landing-semantic-text-medium mb-0"><p>Продукт получился дешевле, проще и удобнее иностранных аналогов.Он получился настолько удачным, что наши партнёры, отметив улучшение качества управления персоналом, захотели приобрести подобную систему для собственного бизнеса.        Так Октобит24 вышел на открытый рынок.<br /></p></div>
+							</div>
+						</div></div>
+				</div>
+			</div>
+			<div class="col-md-5 col-lg-5 text-center g-overflow-hidden">
+				<img class="landing-block-node-img js-animation slideInRight img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDUiIGhlaWdodD0iNzczIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5937076" data-fileid2x="5937075" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/d53/b_2x_1x.png" loading="lazy" data-srcset="/upload/landing/e8d/b_2x_2x.png 2x" />
+			</div>
+		</div>
+	</div>
+</section></div><div id="block3720" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-pb-10 g-bg-gray-light-v5 g-pt-14">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Личное обращение генерального директора ОКТОПРИНТ СЕРВИС</h2>
+
+</section></div><div id="block3495" class="block-wrapper block-31-4-two-cols-img-text-fix"><section class="landing-block g-pt-auto g-pb-auto">
+	<div class="container">
+		<div class="row landing-block-node-block align-items-center">
+			<div class="col-md-6 col-lg-6 order-2 order-md-1">
+				<img class="landing-block-node-img js-animation img-fluid animation-none animated" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1NDAiIGhlaWdodD0iNTQwIj48cmVjdCBpZD0iYmFja2dyb3VuZHJlY3QiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHg9IjAiIHk9IjAiIGZpbGw9IiNkZGQiIGZpbGwtb3BhY2l0eT0iLjciIHN0cm9rZT0ibm9uZSIvPjwvc3ZnPg==" alt="" data-fileid="5023341" data-fileid2x="5023342" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}" data-lazy-img="Y" data-src="/upload/landing/65a/540_1x_sm_1_1x_1x.png" loading="lazy" data-srcset="/upload/landing/a40/540_1x_sm_1_1x_2x.png 2x" />
+			</div>
+
+			<div class="landing-block-node-text-container js-animation col-md-6 col-lg-6 g-pb-20 g-pb-0--md order-1 order-md-2 animation-none animated">
+				<h2 class="landing-block-node-title landing-semantic-subtitle-medium text-uppercase g-font-weight-700 g-font-size-26 mb-0 g-mb-15"> </h2>
+				<div class="landing-block-node-text landing-semantic-text-medium g-color-black-opacity-0_9 g-mb-auto g-letter-spacing-inherit g-font-size-16"><p>За 10+ лет управления компанией, я прошёл много разных обучений, протестировал большое количество различных программ и инструментов с целью автоматизации и повышения эффективности своего бизнеса, и весь мой опыт воплотился в решении <span style="font-weight: bold;">Октобит24</span>.</p><p>Вы сэкономите деньги, время и усилия, если внедрите наши модули. </p><p>Успехов Вам!!! </p><p><br /></p><p><br /></p><p>Олег Красноборов, генеральный директор <span style="font-weight: bold;">ОктоПринтСервис</span>.<br /></p></div>
+			</div>
+		</div>
+	</div>
+</section></div><div id="b3911" class="block-wrapper block-27-3-one-col-fix-title"><section class="landing-block js-animation fadeInUp text-center g-pb-10 g-bg-gray-light-v5 g-pt-14">
+
+	<h2 class="landing-block-node-title landing-semantic-title-medium g-my-0 container g-pl-0 g-pr-0">Запишитесь на подробную консультацию прямо сейчас!</h2>
+
+</section></div><div id="b3909" class="block-wrapper block-33-13-form-2-light-no-text"><section class="g-pos-rel landing-block g-pt-100 g-pb-100">
+
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-6 mx-auto">
+				<div class="bitrix24forms g-brd-white-opacity-0_6 u-form-alert-v4" data-b24form-use-style="Y" data-b24form-embed="" data-b24form-design="{&quot;dark&quot;:false,&quot;style&quot;:&quot;classic&quot;,&quot;shadow&quot;:false,&quot;compact&quot;:false,&quot;color&quot;:{&quot;primary&quot;:&quot;--primary&quot;,&quot;primaryText&quot;:&quot;#fff&quot;,&quot;text&quot;:&quot;#000&quot;,&quot;background&quot;:&quot;#ffffff00&quot;,&quot;fieldBorder&quot;:&quot;#fff&quot;,&quot;fieldBackground&quot;:&quot;#f7f7f7&quot;,&quot;fieldFocusBackground&quot;:&quot;#eee&quot;},&quot;border&quot;:{&quot;top&quot;:false,&quot;bottom&quot;:false,&quot;left&quot;:false,&quot;right&quot;:false}}" data-b24form="7|96j4lo|https://corp.oktoprint.ru/upload/crm/form/loader_7_96j4lo.js"><div class="g-landing-alert">CRM-форма появится здесь</div></div>
+			</div>
+		</div>
+	</div>
+</section></div>
+	<div class="bx-landing-cookies-popup" id="bx-landing-cookies-popup">
+		<div class="bx-landing-cookies-popup-title">Cookie-файлы</div>
+		<div class="bx-landing-cookies-popup-content">
+			<div class="bx-landing-cookies-main-agreement"></div>
+			<div class="bx-landing-cookies-popup-subtitle">Настройка cookie-файлов</div>
+			<div class="bx-landing-cookies-popup-subtitle-detail">Детальная информация о целях обработки данных и поставщиках, которые мы используем на наших сайтах</div>
+
+			<div>
+				<div class="bx-landing-cookies-main-agreement-block">
+					<span class="bx-landing-cookies-main-agreement-block-name">Аналитические Cookie-файлы</span>
+					<span class="bx-landing-cookies-switcher" data-type="analytic">Отключить все</span>
+				</div>
+				<div class="bx-landing-cookies-analytic-agreements"></div>
+			</div>
+
+			<div>
+				<div class="bx-landing-cookies-main-agreement-block">
+					<span class="bx-landing-cookies-main-agreement-block-name">Технические Cookie-файлы</span>
+				</div>
+				<div class="bx-landing-cookies-technical-agreements" data-type="technical"></div>
+			</div>
+
+			<div>
+				<div class="bx-landing-cookies-main-agreement-block">
+					<span class="bx-landing-cookies-main-agreement-block-name">Другие Cookie-файлы</span>
+				</div>
+				<div class="bx-landing-cookies-other-agreements" data-type="other"></div>
+			</div>
+
+		</div>
+		<div class="bx-landing-cookies-popup-footer">
+			<button class="ui-btn ui-btn-lg ui-btn-primary ui-btn-round bx-landing-cookies-button-save">
+				Понятно			</button>
+			<button class="ui-btn ui-btn-lg ui-btn-light-border ui-btn-round bx-landing-cookies-button-cancel" style="display: none;" >
+				Отказаться от всех			</button>
+		</div>
+		<span class="bx-landing-cookies-button-close"></span>
+	</div>
+	<div class="bx-landing-cookies-popup-warning" id="bx-landing-cookies-popup-warning">
+		<div class="bx-landing-cookies-popup-warning-inner">
+			<div class="bx-landing-cookies-popup-warning-left">
+				<span class="bx-landing-cookies-popup-warning-text">Мы используем файлы Cookie для улучшения работы, персонализации и повышения удобства пользования нашим сайтом. Продолжая посещать сайт, вы соглашаетесь на использование нами файлов Cookie.</span>
+				<span class="bx-landing-cookies-popup-warning-link" id="bx-landing-cookies-opt-link">Подробнее о нашей политике в отношении Cookie.</span>
+			</div>
+			<div class="bx-landing-cookies-popup-warning-right">
+				<span class="ui-btn ui-btn-lg ui-btn-light-border ui-btn-round" id="bx-landing-cookies-opt">
+					Подробнее				</span>
+				<span class="ui-btn ui-btn-lg ui-btn-primary ui-btn-round" id="bx-landing-cookies-accept">
+					Понятно				</span>
+			</div>
+		</div>
+	</div>
+	<div class="bx-landing-cookies-popup-notice" id="bx-landing-cookies-popup-notice"
+		 style="left: 75px; bottom: 23px;				 background:#ff5722;
+				 color:#fff;">
+		<div class="bx-landing-cookies-popup-notice-svg-wrap">
+			<svg style="fill:#fff;" xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="#FFF" class="bx-landing-cookies-popup-notice-svg">
+				<path fill-rule="evenodd" d="M7.328.07c.463 0 .917.043 1.356.125.21.04.3.289.228.49a1.5 1.5 0 001.27 1.99h.001a.22.22 0 01.213.243 3.218 3.218 0 003.837 3.453c.18-.035.365.078.384.26A7.328 7.328 0 117.329.07zm.263 10.054a1.427 1.427 0 100 2.854 1.427 1.427 0 000-2.854zM3.697 7.792a.884.884 0 100 1.769.884.884 0 000-1.769zm5.476-.488a.884.884 0 100 1.768.884.884 0 000-1.768zM5.806 3.628a1.427 1.427 0 100 2.854 1.427 1.427 0 000-2.854z"></path>
+			</svg>
+		</div>
+		<span class="bx-landing-cookies-popup-notice-text-wrap">
+			<span class="bx-landing-cookies-popup-notice-text">Cookies</span>
+		</span>
+
+	</div>
+
+<style>
+	.bx-landing-cookies-popup-content .ui-switcher,
+	.bx-landing-cookies-popup-content .bx-landing-cookies-switcher {
+		display: none;
+	}
+</style>
+
+</div> 
+							<div class="landing-footer"><div id="b3872" class="block-wrapper block-35-2-footer-dark"><section class="landing-semantic-background-color g-pt-60 g-pb-60 g-bg-gray-dark-v1">
+	<div class="container">
+		<div class="row">
+			<div class="landing-block-node-main-card js-animation fadeInLeft col-sm-12 col-md-6 col-lg-6 g-mb-25 g-mb-0--lg">
+				<h2 class="landing-block-node-title landing-semantic-subtitle-small text-uppercase g-color-white g-font-weight-700 g-font-size-16 g-mb-20">контакты</h2>
+				<div class="landing-block-node-text landing-semantic-text-medium g-color-gray-light-v1 g-mb-20"><p>ЭФФЕКТИВНО УПРАВЛЯЙТЕ БИЗНЕС-ПРОЦЕССАМИ</p></div>
+
+				<address class="g-mb-20"><div class="landing-block-card-contact d-flex g-pos-rel g-mb-7" data-card-preset="link">
+						<div class="landing-block-node-card-contact-icon-container g-color-gray-light-v1">
+							<i class="landing-block-node-card-contact-icon fa g-pr-5 fa-phone" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+						</div>
+						<div>
+							<span class="landing-block-node-card-contact-text landing-semantic-text-medium g-color-gray-light-v1">Телефон:</span>
+							<a class="landing-block-node-card-contact-link landing-semantic-link-medium g-color-gray-light-v1 g-font-weight-700" href="tel:+7 (495) 789-8081" target="_blank">+7 (499) 288-01-26</a>
+						</div>
+					</div><div class="landing-block-card-contact d-flex g-pos-rel g-mb-7" data-card-preset="link">
+						<div class="landing-block-node-card-contact-icon-container g-color-gray-light-v1">
+							<i class="landing-block-node-card-contact-icon fa g-pr-5 fa-envelope" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+						</div>
+						<div>
+							<span class="landing-block-node-card-contact-text landing-semantic-text-medium g-color-gray-light-v1">Email:</span>
+							<a class="landing-block-node-card-contact-link landing-semantic-link-medium g-color-gray-light-v1 g-font-weight-700" href="mailto:info@oktoprint.ru" target="_blank">B24@OKTOBIT24.RU</a>
+						</div>
+					</div><div class="landing-block-card-contact d-flex g-pos-rel g-mb-7" data-card-preset="text">
+						<div class="landing-block-node-card-contact-icon-container g-color-gray-light-v1">
+							<i class="landing-block-node-card-contact-icon fa fa-home g-pr-5" data-pseudo-url="{&quot;text&quot;:&quot;&quot;,&quot;href&quot;:&quot;&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;enabled&quot;:false}"></i>
+						</div>
+						<div class="landing-block-node-card-contact-text landing-semantic-text-medium g-color-gray-light-v1">Рабочее время ПН-ПТ: 09.00 -18.00</div>
+					</div></address>
+
+			</div>
+
+
+			<div class="landing-block-node-column js-animation fadeInRight col-sm-12 col-md-2 col-lg-2 g-mb-25 g-mb-0--lg">
+				<h2 class="landing-block-node-title landing-semantic-subtitle-small text-uppercase g-color-white g-font-weight-700 g-font-size-16 g-mb-20">Меню</h2>
+				<ul class="landing-block-card-list1 list-unstyled g-mb-30"><li class="landing-block-card-list1-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/catalog/clothes/bitrix_lic/" target="_self">БИТРИКС24</a>
+					</li><li class="landing-block-card-list1-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/#block3587" target="_self">МОДУЛИ OKTOBIT24</a>
+					</li><li class="landing-block-card-list1-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/#block3604" target="_self">УСЛУГИ</a>
+					</li><li class="landing-block-card-list1-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/#block3519" target="_self">О НАС</a>
+					</li><li class="landing-block-card-list1-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/footer/#b3872" target="_self">КОНТАКТЫ</a>
+					</li><li class="landing-block-card-list1-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/blog/" target="_self">БЛОГ</a>
+					</li></ul>
+			</div>
+
+			<div class="landing-block-node-column js-animation bounceInRight col-sm-12 col-md-2 col-lg-2 g-mb-25 g-mb-0--lg">
+				<h2 class="landing-block-node-title landing-semantic-subtitle-small text-uppercase g-color-white g-font-weight-700 g-font-size-16 g-mb-20">Модули</h2>
+				<ul class="landing-block-card-list2 list-unstyled g-mb-30"><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/bonus/" target="_self">БОНУСЫ И ПЕНИ</a>
+					</li><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/tasks/" target="_self">ЗАДАЧИ+</a>
+					</li><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/organizuyushchayaskhema/" target="_self">ОРГСХЕМА</a>
+					</li><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/modulrabochiyotchet/" target="_self">РАБОЧИЙ ОТЧЕТ</a>
+					</li><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/catalog/item/modul_oktobit24_statistiki/" target="_self">СТАТИСТИКИ СОТРУДНИКОВ</a>
+					</li><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/modulzrs/" target="_self">ЗРС</a>
+					</li><li class="landing-block-card-list2-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/modulsico/" target="_self">ИЦО</a>
+					</li></ul>
+			</div>
+
+			<div class="landing-block-node-column js-animation bounceInRight col-sm-12 col-md-2 col-lg-2">
+				<h2 class="landing-block-node-title landing-semantic-subtitle-small text-uppercase g-color-white g-font-weight-700 g-font-size-16 g-mb-20">БЛОГ</h2>
+				<ul class="landing-block-card-list1 list-unstyled g-mb-30"><li class="landing-block-card-list3-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/modules/" target="_self">Модули</a>
+					</li><li class="landing-block-card-list3-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/blog/principles/" target="_self">Управления компанией</a>
+					</li><li class="landing-block-card-list3-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/blog/effectivnaya-sistema-upravlenia/" target="_self">Эффективная система</a>
+					</li><li class="landing-block-card-list3-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/blog/kak-kontrolirovat-sotrudnikov/" target="_self">Контроль работы</a>
+					</li><li class="landing-block-card-list3-item g-mb-10">
+						<a class="landing-block-node-list-item landing-semantic-menu-h-text g-color-gray-dark-v5" href="https://oktobit24.ru/blog/kak-avtomatizirovat-rabochie-otchety-sotrudnikov/" target="_self">Автоматизация</a>
+					</li></ul>
+			</div>
+
+		</div>
+	</div>
+</section></div><div id="b3874" class="block-wrapper block-17-copyright"><section class="landing-block js-animation animation-none g-pt-30 g-pb-15">
+	<div class="landing-semantic-text-medium text-center g-pa-10">
+		<div class="g-width-600 mx-auto">
+			<div class="landing-block-node-text landing-semantic-text-medium js-animation animation-none"><p>© 2022 OKTOBIT24.RU</p></div>
+		</div>
+	</div>
+</section></div></div>
+
+</main>
+<script data-skip-moving="true">
+					(function(w,d,u,b){ 'use strict';
+					var s=d.createElement('script');var r=(Date.now()/1000|0);s.async=1;s.src=u+'?'+r;
+					var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+				})(window,document,'https://corp.oktoprint.ru/upload/crm/site_button/loader_2_zzf3t4.js');
+				</script>
+
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1642586004262964"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'pull_server_enabled':'Y','pull_config_timestamp':'1642205130','pull_guest_mode':'N','pull_guest_user_id':'0'});(window.BX||top.BX).message({'PULL_OLD_REVISION':'Для продолжения корректной работы с сайтом необходимо перезагрузить страницу.'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'CORE_CLIPBOARD_COPY_SUCCESS':'Скопировано','CORE_CLIPBOARD_COPY_FAILURE':'Не удалось скопировать'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'MAIN_SIDEPANEL_CLOSE':'Закрыть','MAIN_SIDEPANEL_PRINT':'Печать','MAIN_SIDEPANEL_NEW_WINDOW':'Открыть в новом окне','MAIN_SIDEPANEL_COPY_LINK':'Скопировать ссылку'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'UI_BUTTONS_SAVE_BTN_TEXT':'Сохранить','UI_BUTTONS_CREATE_BTN_TEXT':'Создать','UI_BUTTONS_ADD_BTN_TEXT':'Добавить','UI_BUTTONS_SEND_BTN_TEXT':'Отправить','UI_BUTTONS_CANCEL_BTN_TEXT':'Отменить','UI_BUTTONS_CLOSE_BTN_TEXT':'Закрыть','UI_BUTTONS_APPLY_BTN_TEXT':'Применить'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'UI_SWITCHER_ON':'вкл','UI_SWITCHER_OFF':'выкл'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213564','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'e1a13f74c252864fd95caa5756998253'});</script><script type="text/javascript" src="/bitrix/js/main/jquery/jquery-3.3.1.min.min.js?164258600486873"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/protobuf.min.js?164219028276433"></script>
+<script type="text/javascript" src="/bitrix/js/pull/protobuf/model.min.js?164219028214190"></script>
+<script type="text/javascript" src="/bitrix/js/rest/client/rest.client.min.js?16422007409240"></script>
+<script type="text/javascript" src="/bitrix/js/pull/client/pull.client.min.js?164220159644687"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_fx.min.js?16425860049768"></script>
+<script type="text/javascript" src="/bitrix/js/main/pageobject/pageobject.min.js?1642586004570"></script>
+<script type="text/javascript" src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?164258600462622"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_clipboard.min.js?16425860042222"></script>
+<script type="text/javascript" src="/bitrix/js/main/sidepanel/manager.min.js?164258600419354"></script>
+<script type="text/javascript" src="/bitrix/js/main/sidepanel/slider.min.js?164258600430691"></script>
+<script type="text/javascript" src="/bitrix/js/ui/buttons/dist/ui.buttons.bundle.min.js?164258600940698"></script>
+<script type="text/javascript" src="/bitrix/js/ui/switcher/ui.switcher.min.js?16425860093500"></script>
+<script type="text/javascript" src="/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.min.js?16425860047124"></script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+<script>
+	(function(w,d,u){
+		var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+	})(window,document,'https://corp.oktoprint.ru/upload/landing/assets/assets_webpack_a98ae03cc3_1644482760.js');
+</script>
+
+
+
+<script type="text/javascript" src="/bitrix/templates/landing24/assets/js/helpers/lazyload.min.js?16422028972095"></script>
+<script type="text/javascript" src="/bitrix/components/bitrix/landing.pub/templates/.default/script.min.js?16422019234520"></script>
+<script type="text/javascript" src="/bitrix/components/bitrix/landing.cookies/templates/.default/script.min.js?164220103910691"></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+<script>
+	// don't use BX.ready here
+	window.addEventListener('load', function()
+	{
+		new BX.Landing.Cookies({
+			enable: true,
+			siteId: 18,
+			onlyInformation: true,
+			availableCodes: ["ga","gtm","ym","fbp","vkp","yt","gmap"],
+			idButtonOpt: 'bx-landing-cookies-opt',
+			idButtonOptLink: 'bx-landing-cookies-opt-link',
+			idButtonAccept: 'bx-landing-cookies-accept',
+			idAgreementPopup: 'bx-landing-cookies-popup',
+			idAgreementSmallPopup: 'bx-landing-cookies-popup-warning',
+			idCookiesNotice: 'bx-landing-cookies-popup-notice',
+			classNameMainAgreement: 'bx-landing-cookies-main-agreement',
+			classNameAnalyticAgreements: 'bx-landing-cookies-analytic-agreements',
+			classNameTechnicalAgreements: 'bx-landing-cookies-technical-agreements',
+			classNameOtherAgreements: 'bx-landing-cookies-other-agreements',
+			classNameButtonSave: 'bx-landing-cookies-button-save',
+			classNameButtonCancel: 'bx-landing-cookies-button-cancel',
+			classNameButtonClose: 'bx-landing-cookies-button-close',
+			classNameCookiesSwitcher: 'bx-landing-cookies-switcher',
+			agreementAjaxPath: '/bitrix/services/main/ajax.php',
+			messages: {
+				acceptAll: 'Принять все',
+				acceptModified: 'Сохранить и принять',
+				declineAll: 'Отказаться от всех',
+				declineModified: 'Отменить',
+				switcherOn: 'Включить все',
+				switcherOff: 'Отключить все'
+			}
+		});
+	});
+</script>
+<script>
+	(function(w,d,u){
+		var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+		var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+	})(window,document,'https://corp.oktoprint.ru/upload/crm/tag/call.tracker.js');
+</script>
+</body>
+</html>

@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://lepkov.ru/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<meta name='robots' content='index, max-image-preview:large' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Айти Просто</title>
+	<meta name="description" content="Авторский IT блог Айти Просто про Windows, Linux, Webdev, 1C." />
+	<link rel="canonical" href="https://lepkov.ru/" />
+	<link rel="next" href="https://lepkov.ru/page/2/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Айти Просто" />
+	<meta property="og:description" content="Авторский IT блог Айти Просто про Windows, Linux, Webdev, 1C." />
+	<meta property="og:url" content="https://lepkov.ru/" />
+	<meta property="og:site_name" content="Айти Просто" />
+	<meta property="og:image" content="https://lepkov.ru/wp-content/uploads/2017/10/tweak.png" />
+	<meta property="og:image:width" content="300" />
+	<meta property="og:image:height" content="300" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@FeelLikeWinner" />
+	<meta name="google-site-verification" content="vaoifjQua8rBlvacU2Zv9BV2DraYJlKZxOl8_jy_1m0" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="amphtml" href="https://lepkov.ru/?amp" /><link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Айти Просто &raquo; Лента" href="https://lepkov.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Айти Просто &raquo; Лента комментариев" href="https://lepkov.ru/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lepkov.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://lepkov.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ads-for-wp-front-css-css'  href='https://lepkov.ru/wp-content/plugins/ads-for-wp/public/assets/css/adsforwp-front.min.css?ver=1.9.16.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rp-public-styles-css'  href='https://lepkov.ru/wp-content/plugins/reading-progress-bar/public/css/rp-public.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://lepkov.ru/wp-content/themes/Divi/style.dev.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='extension-styles-css'  href='https://lepkov.ru/wp-content/plugins/schema-and-structured-data-for-wp/modules/divi-builder/styles/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://lepkov.ru/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://lepkov.ru/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-child-css'  href='https://lepkov.ru/wp-content/themes/Divichild/style.css?ver=202109031043' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-css'  href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-v4-shim-css'  href='https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.1' type='text/css' media='all' />
+<style id='bfa-font-awesome-v4-shim-inline-css' type='text/css'>
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg#fontawesome') format('svg');
+				unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+			}
+		
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='https://lepkov.ru/wp-includes/css/dashicons.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='https://lepkov.ru/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+.addtoany_content { text-align:center; }
+</style>
+<script type='text/javascript' src='https://lepkov.ru/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Отправить",
+	Save: "Сохранить",
+	Subscribe: "Подписаться",
+	Email: "E-mail",
+	Bookmark: "В закладки!",
+	ShowAll: "Показать все",
+	ShowLess: "Показать остальное",
+	FindServices: "Найти сервис(ы)",
+	FindAnyServiceToAddTo: "Найти сервис и добавить",
+	PoweredBy: "Работает на",
+	ShareViaEmail: "Поделиться по электронной почте",
+	SubscribeViaEmail: "Подписаться по электронной почте",
+	BookmarkInYourBrowser: "Добавить в закладки",
+	BookmarkInstructions: "Нажмите Ctrl+D или \u2318+D, чтобы добавить страницу в закладки",
+	AddToYourFavorites: "Добавить в Избранное",
+	SendFromWebOrProgram: "Отправлять с любого email-адреса или email-программы",
+	EmailProgram: "Почтовая программа",
+	More: "Подробнее&#8230;",
+	ThanksForSharing: "Спасибо, что поделились!",
+	ThanksForFollowing: "Спасибо за подписку!"
+};
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' async src='https://lepkov.ru/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/plugins/reading-progress-bar/public/js/rp-public.js?ver=5.8.3' id='rp-public-scripts-js'></script>
+<link rel="https://api.w.org/" href="https://lepkov.ru/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lepkov.ru/xmlrpc.php?rsd" />
+        <script type="text/javascript">              
+              jQuery(document).ready( function($) {    
+                  if ($('#adsforwp-hidden-block').length == 0 ) {
+                       $.getScript("https://lepkov.ru/front.js");
+                  }
+              });
+         </script>
+         
+<link rel="stylesheet" id="code-highlighter-css"  href="https://lepkov.ru/wp-content/plugins/ah-prism-syntax-highlighter/inc/css/coy_theme.css" type="text/css" media="all" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><link rel="preload" href="https://lepkov.ru/wp-content/themes/Divi/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous">
+<!-- Schema & Structured Data For WP v1.9.94 - -->
+<script type="application/ld+json" class="saswp-schema-markup-output">
+[{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/lepkov.ru\/#\u0420\u0443\u0431\u0440\u0438\u043a\u0438","name":"\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0438","url":"https:\/\/lepkov.ru\/instructions\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/lepkov.ru\/#\u0420\u0443\u0431\u0440\u0438\u043a\u0438","name":"\u0422\u0435\u043a\u0443\u0447\u043a\u0430","url":"https:\/\/lepkov.ru\/quick-solution\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/lepkov.ru\/#\u0420\u0443\u0431\u0440\u0438\u043a\u0438","name":"Windows","url":"https:\/\/lepkov.ru\/windows\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/lepkov.ru\/#\u0420\u0443\u0431\u0440\u0438\u043a\u0438","name":"Linux","url":"https:\/\/lepkov.ru\/linux\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/lepkov.ru\/#\u0420\u0443\u0431\u0440\u0438\u043a\u0438","name":"WEBDEV","url":"https:\/\/lepkov.ru\/webdevelopment\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","@id":"https:\/\/lepkov.ru\/#\u0420\u0443\u0431\u0440\u0438\u043a\u0438","name":"\u0420\u0435\u0437\u044e\u043c\u0435","url":"http:\/\/cv.lepkov.ru"}]},
+
+{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"https:\/\/lepkov.ru#website","headline":"\u0410\u0439\u0442\u0438 \u041f\u0440\u043e\u0441\u0442\u043e","name":"\u0410\u0439\u0442\u0438 \u041f\u0440\u043e\u0441\u0442\u043e","description":"\u0410\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u0439 IT \u0431\u043b\u043e\u0433 \u0410\u0439\u0442\u0438 \u041f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u043e Windows, Linux, Webdev, 1C.","url":"https:\/\/lepkov.ru","potentialAction":{"@type":"SearchAction","target":"https:\/\/lepkov.ru\/?s={search_term_string}","query-input":"required name=search_term_string"}},
+
+{"@context":"https:\/\/schema.org","@type":"Person","@id":"https:\/\/lepkov.ru#Person","name":"Andrew Lepkov","jobTitle":"System Engineer","url":"https:\/\/lepkov.ru","sameAs":["https:\/\/vk.com\/andrewlepkov","https:\/\/twitter.com\/FeelLikeWinner","https:\/\/www.instagram.com\/alepkov"],"image":{"@type":"ImageObject","url":"https:\/\/lepkov.ru\/wp-content\/uploads\/2020\/11\/footer-logo-200x200-4.png","width":"200","height":"200"},"telephone":""}]
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109512748-1"></script>
+<!-- VK -->
+<script type="text/javascript" src="https://vk.com/js/api/openapi.js?168"></script>
+<!-- VK -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109512748-1');
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6831140718035475",
+    enable_page_level_ads: true
+  });
+</script>
+
+<!-- Clarity tracking code for https://lepkov.ru/ -->
+<script>
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "5cuspoel2q");
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter49752745 = new Ya.Metrika2({
+                    id:49752745,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49752745" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+document.addEventListener("DOMContentLoaded",function(){
+const body = document.querySelector('body');
+if (body.classList.contains('home')) {
+let stickyBadge = document.createElement("span");
+stickyBadge.innerHTML = "ЗАКРЕПЛЕНО";
+stickyBadge.id = "stickyBadge";
+let stickyPost = document.getElementById("post-615");
+stickyPost.insertBefore(stickyBadge, stickyPost.childNodes[4]);
+}});
+</script>
+<link rel="icon" href="https://lepkov.ru/wp-content/uploads/2017/10/apple-icon-114x114.png" sizes="32x32" />
+<link rel="icon" href="https://lepkov.ru/wp-content/uploads/2017/10/apple-icon-114x114.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lepkov.ru/wp-content/uploads/2017/10/apple-icon-114x114.png" />
+<meta name="msapplication-TileImage" content="https://lepkov.ru/wp-content/uploads/2017/10/apple-icon-114x114.png" />
+<style id="et-divi-customizer-global-cached-inline-styles">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:15px}.et_pb_slide_content,.et_pb_best_value{font-size:17px}h1,h2,h3,h4,h5,h6{color:#2ea3f2}body{line-height:1.8em}#top-menu li a{font-size:18px}body.et_vertical_nav .container.et_search_form_container .et-search-form input{font-size:18px!important}#top-menu li a,.et_search_form_container input{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;letter-spacing:1px}.et_search_form_container input::-moz-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;letter-spacing:1px}.et_search_form_container input::-webkit-input-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;letter-spacing:1px}.et_search_form_container input:-ms-input-placeholder{font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;letter-spacing:1px}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}.footer-widget h4{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}#footer-widgets .footer-widget li:before{top:9.75px}#footer-info,#footer-info a{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}h1,h2,h3,h4,h5,h6,.et_quote_content blockquote p,.et_pb_slide_description .et_pb_slide_title{font-weight:bold;font-style:normal;text-transform:none;text-decoration:underline}body.home-posts #left-area .et_pb_post .post-meta,body.archive #left-area .et_pb_post .post-meta,body.search #left-area .et_pb_post .post-meta,body.single #left-area .et_pb_post .post-meta{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}body.home-posts #left-area .et_pb_post h2,body.archive #left-area .et_pb_post h2,body.search #left-area .et_pb_post h2,body.single .et_post_meta_wrapper h1{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}.et_slide_in_menu_container,.et_slide_in_menu_container .et-search-field{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-moz-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-webkit-input-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field:-ms-input-placeholder{letter-spacing:px}@media only screen and (min-width:981px){.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:11.88px}.et_header_style_split #main-header .centered-inline-logo-wrap{width:auto;height:66.8px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:auto;height:46px}.et_header_style_split .centered-inline-logo-wrap #logo,.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:auto;max-height:100%}body.home-posts #left-area .et_pb_post .post-meta,body.archive #left-area .et_pb_post .post-meta,body.search #left-area .et_pb_post .post-meta,body.single #left-area .et_pb_post .post-meta{font-size:15px}body.home-posts #left-area .et_pb_post h2,body.archive #left-area .et_pb_post h2,body.search #left-area .et_pb_post h2{font-size:24.266666666667px}body.single .et_post_meta_wrapper h1{font-size:28px}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}h1,h1.et_pb_contact_main_title,.et_pb_title_container h1{font-size:28px}h2,.product .related h2,.et_pb_column_1_2 .et_quote_content blockquote p{font-size:24px}h3{font-size:20px}h4,.et_pb_circle_counter h3,.et_pb_number_counter h3,.et_pb_column_1_3 .et_pb_post h2,.et_pb_column_1_4 .et_pb_post h2,.et_pb_blog_grid h2,.et_pb_column_1_3 .et_quote_content blockquote p,.et_pb_column_3_8 .et_quote_content blockquote p,.et_pb_column_1_4 .et_quote_content blockquote p,.et_pb_blog_grid .et_quote_content blockquote p,.et_pb_column_1_3 .et_link_content h2,.et_pb_column_3_8 .et_link_content h2,.et_pb_column_1_4 .et_link_content h2,.et_pb_blog_grid .et_link_content h2,.et_pb_column_1_3 .et_audio_content h2,.et_pb_column_3_8 .et_audio_content h2,.et_pb_column_1_4 .et_audio_content h2,.et_pb_blog_grid .et_audio_content h2,.et_pb_column_3_8 .et_pb_audio_module_content h2,.et_pb_column_1_3 .et_pb_audio_module_content h2,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2{font-size:16px}h5{font-size:14px}h6{font-size:13px}.et_pb_slide_description .et_pb_slide_title{font-size:42px}.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.et_pb_gallery_grid .et_pb_gallery_item h3,.et_pb_portfolio_grid .et_pb_portfolio_item h2,.et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2,.et_pb_column_1_4 .et_pb_audio_module_content h2{font-size:14px}	h1,h2,h3,h4,h5,h6{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#main-header,#et-top-navigation{font-family:'Roboto Condensed',Helvetica,Arial,Lucida,sans-serif}</style></head>
+<body class="home blog et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_flip et_secondary_nav_dropdown_animation_fade et_header_style_split et_pb_footer_columns4 home-posts et_cover_background et_pb_gutter et_pb_gutters3 et_right_sidebar et_divi_theme et-db">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://lepkov.ru/">
+						<img src="https://lepkov.ru/wp-content/uploads/2021/09/lepkov-logo1-6.png" alt="Айти Просто" id="logo" data-height-percentage="80" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="https://lepkov.ru/instructions/">Инструкции</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="https://lepkov.ru/quick-solution/">Текучка</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="https://lepkov.ru/windows/">Windows</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-454"><a href="https://lepkov.ru/linux/">Linux</a></li>
+<li id="menu-item-1309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1309"><a href="https://lepkov.ru/cheatsheets/">ШПАРГАЛКИ</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="http://cv.lepkov.ru">Резюме</a></li>
+</ul>						</nav>
+					
+					
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Выбрать страницу</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://lepkov.ru/">
+					<input type="search" class="et-search-field" placeholder="Поиск &hellip;" value="" name="s" title="Поиск:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+		
+					<article id="post-615" class="et_pb_post post-615 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-itthings tag-linux tag-windows">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/cheatsheets/">
+								<img src="https://lepkov.ru/wp-content/uploads/2017/10/tweak.png" alt="CheatSheets Шпаргалки Linux Windows ПО" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/cheatsheets/">CheatSheets Шпаргалки Linux Windows ПО</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 942<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">17 Окт 2019</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/itthings/" rel="category tag">Разное</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/cheatsheets/#respond">Нет комментариев</a></span></p><p>Здесь Вы найдёте самые частоиспользуемые и необходимые команды для работы с разным ПО внутри разных ОС.</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1287" class="et_pb_post post-1287 post type-post status-publish format-standard has-post-thumbnail hentry category-itthings">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/happy-birthday-2021/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/11/happybirthday-1024x675.jpg" alt="С Днем Рождения меня и мой блог ! :) Видео итоги + Розыгрыш !" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2021/11/happybirthday-1024x675.jpg 1080w, https://lepkov.ru/wp-content/uploads/2021/11/happybirthday-980x980.jpg 980w, https://lepkov.ru/wp-content/uploads/2021/11/happybirthday-480x480.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/happy-birthday-2021/">С Днем Рождения меня и мой блог ! :) Видео итоги + Розыгрыш !</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 242<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">26 Ноя 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/itthings/" rel="category tag">Разное</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/happy-birthday-2021/#respond">Нет комментариев</a></span></p><p>Видео итоги года + Анонс розыгрыша внутри 🙂</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1268" class="et_pb_post post-1268 post type-post status-publish format-standard has-post-thumbnail hentry category-instructions tag-cheatsheet tag-docker tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/docker-cheatsheet/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/10/docker-logo.png" alt="DOCKER cheatSheet || Шпаргалка 2022" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/docker-cheatsheet/">DOCKER cheatSheet || Шпаргалка 2022</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 885<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">11 Окт 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/docker-cheatsheet/#respond">Нет комментариев</a></span></p><p>Самые частоиспользуемые команды в Docker</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1259" class="et_pb_post post-1259 post type-post status-publish format-standard has-post-thumbnail hentry category-instructions tag-linux tag-ssh tag-windows">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/ssh-login-to-linux-using-certificate/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/10/ssg-logo-1.png" alt="SSH авторизация в Linux по сертификату / ключу" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/ssh-login-to-linux-using-certificate/">SSH авторизация в Linux по сертификату / ключу</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 605<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">9 Окт 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/ssh-login-to-linux-using-certificate/#respond">Нет комментариев</a></span></p><p>За пару минут делаем себе SSH доступ по ключу</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1215" class="et_pb_post post-1215 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-quick-solution tag-debian tag-troubleshooting tag-windows tag-wsl">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/bring-windows-store-back/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/09/WindowsStoreLogo-1.png" alt="[РЕШЕНО] Восстановить Магазин Windows Store 2022" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/bring-windows-store-back/">[РЕШЕНО] Восстановить Магазин Windows Store 2022</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 6&nbsp;011<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">2 Сен 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/quick-solution/" rel="category tag">Текучка</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/bring-windows-store-back/#respond">8 коммент.</a></span></p><p>Рабочий быстрый способ вернуть Магазин Microsoft Windows Store на Windows 11, 10, Server </p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1194" class="et_pb_post post-1194 post type-post status-publish format-standard has-post-thumbnail hentry category-linux category-itthings tag-cheatsheet tag-linux tag-ufw tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/ufw-cheatsheet/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/08/firewall-logo-2.png" alt="UFW cheatSheet || Шпаргалка" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/ufw-cheatsheet/">UFW cheatSheet || Шпаргалка</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 450<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">24 Авг 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/linux/" rel="category tag">Linux</a>, <a href="https://lepkov.ru/itthings/" rel="category tag">Разное</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/ufw-cheatsheet/#respond">Нет комментариев</a></span></p><p>Самые частоиспользуемые команды UFW</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1189" class="et_pb_post post-1189 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-quick-solution tag-sql-server tag-windows">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/resheno-ms-sql-prava-uchetnoj-zapisi-programmy-ustanovki/">
+								<img src="https://lepkov.ru/wp-content/uploads/2017/10/tweak.png" alt="CheatSheets Шпаргалки Linux Windows ПО" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/resheno-ms-sql-prava-uchetnoj-zapisi-programmy-ustanovki/">[РЕШЕНО] MS SQL Права учетной записи программы установки</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 1&nbsp;436<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">21 Авг 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/quick-solution/" rel="category tag">Текучка</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/resheno-ms-sql-prava-uchetnoj-zapisi-programmy-ustanovki/#respond">Нет комментариев</a></span></p><p>Разбираемся с ошибкой Проверка правила &#8220;Права учетной записи программ установки&#8221; окончилась неудачно.</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1169" class="et_pb_post post-1169 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-instructions tag-windows">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/golden-image-sysprep/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/08/win10logo.png" alt="Как сделать золотой образ Windows ? SYSPREP !" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/golden-image-sysprep/">Как сделать золотой образ Windows ? SYSPREP !</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 2&nbsp;910<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">15 Авг 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/golden-image-sysprep/#respond">Нет комментариев</a></span></p><p>Создаем золотой образ Windows 10  правильно</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1152" class="et_pb_post post-1152 post type-post status-publish format-standard has-post-thumbnail hentry category-itthings tag-cheatsheet tag-git tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/git-cheatsheet/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/08/Git_icon2.png" alt="GIT cheatSheet || Шпаргалка" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/git-cheatsheet/">GIT cheatSheet || Шпаргалка</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 429<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">7 Авг 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/itthings/" rel="category tag">Разное</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/git-cheatsheet/#respond">Нет комментариев</a></span></p><p>Самые часто используемые команды для работы с GIT</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1107" class="et_pb_post post-1107 post type-post status-publish format-standard has-post-thumbnail hentry category-linux category-quick-solution tag-asterisk">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/fix-asterisk-busy-problem/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/05/asterisk-logo-920x675.jpg" alt="[РЕШЕНО] ASTERISK Everyone is busy/congested at this time" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2021/05/asterisk-logo-920x675.jpg 1080w, https://lepkov.ru/wp-content/uploads/2021/05/asterisk-logo-480x432.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/fix-asterisk-busy-problem/">[РЕШЕНО] ASTERISK Everyone is busy/congested at this time</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 1&nbsp;263<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">12 Июл 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/linux/" rel="category tag">Linux</a>, <a href="https://lepkov.ru/quick-solution/" rel="category tag">Текучка</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/fix-asterisk-busy-problem/#respond">Нет комментариев</a></span></p><p>Из 100 звонков 20 рандомно по времени не прозваниваются, вылетает ошибка, якобы занято.</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1100" class="et_pb_post post-1100 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-instructions tag-driver tag-free tag-besplatno tag-drajver tag-haljava">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/get-driver-booster-for-free-2021/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/07/Driver_Booster_Logo.png" alt="[FREE][AUGUST 2021] Бесплатно IObit Driver Booster PRO 2021" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/get-driver-booster-for-free-2021/">[FREE][AUGUST 2021] Бесплатно IObit Driver Booster PRO 2021</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 803<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">11 Июл 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/get-driver-booster-for-free-2021/#respond">Нет комментариев</a></span></p><p>Бесплатно получаем лицензию на IObit Driver Booster PRO 2021</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1061" class="et_pb_post post-1061 post type-post status-publish format-standard has-post-thumbnail hentry category-linux category-instructions tag-bash tag-cheatsheet tag-debian tag-linux tag-uibuntu tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/bash-cheatsheet/">
+								<img src="https://lepkov.ru/wp-content/uploads/2019/05/logo_brand_brands_logos_linux-512.png" alt="[UPDATED 2021] MUSTHAVE BASH Команды для повседневной работы в консоли терминале cheatSheet || Шпаргалка" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/bash-cheatsheet/">[UPDATED 2021] MUSTHAVE BASH Команды для повседневной работы в консоли терминале cheatSheet || Шпаргалка</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 1&nbsp;060<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">16 Июн 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/linux/" rel="category tag">Linux</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/bash-cheatsheet/#respond">Нет комментариев</a></span></p><p>Самые частоиспользуемые команды для работы в bash Linux Debian Ubuntu</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1032" class="et_pb_post post-1032 post type-post status-publish format-standard has-post-thumbnail hentry category-webdevelopment category-instructions tag-apache tag-apache2 tag-cheatsheet tag-htaccess tag-nginx tag-php tag-redirect tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/redirects-htaccess-php-nginx-cheatsheet/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/06/redirects-logo.png" alt="Редиректы .htaccess PHP NGINX cheatSheet || Шпаргалка" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2021/06/redirects-logo.png 1080w, https://lepkov.ru/wp-content/uploads/2021/06/redirects-logo-480x402.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/redirects-htaccess-php-nginx-cheatsheet/">Редиректы .htaccess PHP NGINX cheatSheet || Шпаргалка</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 653<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">4 Июн 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/webdevelopment/" rel="category tag">WEBDEV</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/redirects-htaccess-php-nginx-cheatsheet/#respond">Нет комментариев</a></span></p><p>Часто используемые редиректы для администрирования сайтов</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-1013" class="et_pb_post post-1013 post type-post status-publish format-standard has-post-thumbnail hentry category-linux category-windows category-instructions tag-cheatsheet tag-linux tag-windows tag-marshrutizacija tag-set tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/add-remove-routes/">
+								<img src="https://lepkov.ru/wp-content/uploads/2017/10/tweak.png" alt="CheatSheets Шпаргалки Linux Windows ПО" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/add-remove-routes/">Добавление и удаление маршрутов Windows Линукс Linux cheatSheet || Шпаргалка</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 3&nbsp;324<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">22 Май 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/linux/" rel="category tag">Linux</a>, <a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/add-remove-routes/#respond">1 коммент.</a></span></p><p>Шпаргалка по добавлению и удалению сетевых маршрутов в Windows и Линукс Linux</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-985" class="et_pb_post post-985 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-instructions tag-hdd tag-windows tag-jandeks-oblako">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/change-vm-disk-size-yandex-cloud/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/05/hdd-cloud.png" alt="Уменьшаем жесткий диск Windows Server в Яндекс Облаке, экономим 25000 в месяц" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2021/05/hdd-cloud.png 1080w, https://lepkov.ru/wp-content/uploads/2021/05/hdd-cloud-480x383.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/change-vm-disk-size-yandex-cloud/">Уменьшаем жесткий диск Windows Server в Яндекс Облаке, экономим 25000 в месяц</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 551<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">13 Май 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/change-vm-disk-size-yandex-cloud/#respond">Нет комментариев</a></span></p><p>Уменьшаем размер жесткого диска в Яндекс Облаке, оптимизируем потребление ресурсов и экономим 25000 рублей в месяц в этой статье</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-976" class="et_pb_post post-976 post type-post status-publish format-standard has-post-thumbnail hentry category-quick-solution tag-mikrotik">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/mikrotik-update-story/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/04/mikrotik1.png" alt="Кулстори про то, как я Mikrotik обновлял в первый раз" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2021/04/mikrotik1.png 1080w, https://lepkov.ru/wp-content/uploads/2021/04/mikrotik1-480x414.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/mikrotik-update-story/">Кулстори про то, как я Mikrotik обновлял в первый раз</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 466<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">23 Апр 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/quick-solution/" rel="category tag">Текучка</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/mikrotik-update-story/#respond">2 коммент.</a></span></p><p>Обновление микротика может быть гораздно интересней чем ты думаешь.</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-968" class="et_pb_post post-968 post type-post status-publish format-standard has-post-thumbnail hentry category-linux tag-cheatsheet tag-hdd tag-zfs tag-shpargalka">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/zfs-cheatsheet/">
+								<img src="https://lepkov.ru/wp-content/uploads/2019/05/logo_brand_brands_logos_linux-512.png" alt="[UPDATED 2021] MUSTHAVE BASH Команды для повседневной работы в консоли терминале cheatSheet || Шпаргалка" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/zfs-cheatsheet/">ZFS cheatSheet || Шпаргалка</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 609<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">26 Мар 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/linux/" rel="category tag">Linux</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/zfs-cheatsheet/#respond">Нет комментариев</a></span></p><p>Шпаргалка по ZFS, cамые частоиспользуемые команды при работе с ZFS</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-961" class="et_pb_post post-961 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-instructions tag-free tag-besplatno tag-rezervnoe-kopirovanie tag-haljava">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/get-aomei-backupper-pro-license-officially-free/">
+								<img src="https://lepkov.ru/wp-content/uploads/2021/02/aomei_backupper.png" alt="[FREE] Получаем AOMEI Backupper PRO 6.4 лицензию бесплатно" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/get-aomei-backupper-pro-license-officially-free/">[FREE] Получаем AOMEI Backupper PRO 6.4 лицензию бесплатно</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 720<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">17 Фев 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/get-aomei-backupper-pro-license-officially-free/#respond">Нет комментариев</a></span></p><p>В этой статье рассмотрим AOMEI Backupper и получим PRO версию бесплатно, без смс и ввода данных кредитных карт)</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-924" class="et_pb_post post-924 post type-post status-publish format-standard has-post-thumbnail hentry category-instructions tag-ahci tag-bios tag-gpt tag-ide tag-mbr tag-uefi">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/ahci-ide-uefi-bios-gpt-mbr/">
+								<img src="https://lepkov.ru/wp-content/uploads/2017/10/tweak.png" alt="CheatSheets Шпаргалки Linux Windows ПО" class="" width="1080" height="675" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/ahci-ide-uefi-bios-gpt-mbr/">Установка ОС, разбираемся с AHCI IDE UEFI BIOS GPT MBR</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 2&nbsp;609<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">14 Янв 2021</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/ahci-ide-uefi-bios-gpt-mbr/#respond">Нет комментариев</a></span></p><p>Легко разбираемся с основными понятиями при установке операционной системы</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-918" class="et_pb_post post-918 post type-post status-publish format-standard has-post-thumbnail hentry category-windows category-quick-solution tag-anydesk tag-windows">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/anydesk-address-book/">
+								<img src="https://lepkov.ru/wp-content/uploads/2020/12/11EHDNanL.png" alt="[РЕШЕНО] Как перенести контакты из AnyDesk" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2020/12/11EHDNanL.png 1080w, https://lepkov.ru/wp-content/uploads/2020/12/11EHDNanL-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/anydesk-address-book/">[РЕШЕНО] Как перенести контакты из AnyDesk</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 6&nbsp;614<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">15 Дек 2020</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/windows/" rel="category tag">Windows</a>, <a href="https://lepkov.ru/quick-solution/" rel="category tag">Текучка</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/anydesk-address-book/#respond">1 коммент.</a></span></p><p>Выясняем как перенести контакты/недавние сеансы из одного AnyDesk в другой</p>
+				
+					</article> <!-- .et_pb_post -->
+			
+					<article id="post-906" class="et_pb_post post-906 post type-post status-publish format-standard has-post-thumbnail hentry category-webdevelopment category-instructions tag-wordpress">
+
+											<a class="entry-featured-image-url" href="https://lepkov.ru/optimal-wordpress-php-settings/">
+								<img src="https://lepkov.ru/wp-content/uploads/2020/12/wp_logo2.png" alt="[UPDATED 2021] Оптимальные настройки php для WordPress" class="" width="1080" height="675" srcset="https://lepkov.ru/wp-content/uploads/2020/12/wp_logo2.png 1080w, https://lepkov.ru/wp-content/uploads/2020/12/wp_logo2-480x480.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 1080px, 100vw" />							</a>
+					
+															<h2 class="entry-title"><a href="https://lepkov.ru/optimal-wordpress-php-settings/">[UPDATED 2021] Оптимальные настройки php для WordPress</a></h2>
+					
+					<p class="post-meta"><i class="fa fa-eye" aria-hidden="true"></i>Просмотров: 4&nbsp;637<i> </i><i class="fa fa-calendar" aria-hidden="true"></i><span class="published">8 Дек 2020</span>  <i class="fa fa-folder-open-o"></i><a href="https://lepkov.ru/webdevelopment/" rel="category tag">WEBDEV</a>, <a href="https://lepkov.ru/instructions/" rel="category tag">Инструкции</a>  <i class="fa fa-comments-o" aria-hidden="true"></i><span class="comments-number"><a href="https://lepkov.ru/optimal-wordpress-php-settings/#respond">4 коммент.</a></span></p><p>Выбираем оптимальную версию PHP для Wordpress и вносим необходимые директивы в php.ini</p>
+				
+					</article> <!-- .et_pb_post -->
+			<div class="pagination clearfix">
+	<div class="alignleft"><a href="https://lepkov.ru/page/2/" >&laquo; Предыдущие Записи</a></div>
+	<div class="alignright"></div>
+</div>			</div> <!-- #left-area -->
+
+				<div id="sidebar">
+		<div id="views-2" class="et_pb_widget widget_views"><h4 class="widgettitle">Лучшие статьи</h4><ul>
+<li><a href="https://lepkov.ru/cheatsheets/" title="CheatSheets Шпаргалки Linux Windows ПО">CheatSheets Шпаргалки Linux Windows ПО</a> - Просмотров: 942 </li><li><a href="https://lepkov.ru/sbros-parolja-administratora-servera-1s/" title="Сброс пароля администратора сервера 1С">Сброс пароля администратора сервера 1С</a> - Просмотров: 16&nbsp;416 </li><li><a href="https://lepkov.ru/optimizacija-ms-sql-server-dlja-1s/" title="Ускоряем MS SQL Server для 1С в 2 раза">Ускоряем MS SQL Server для 1С в 2 раза</a> - Просмотров: 15&nbsp;952 </li><li><a href="https://lepkov.ru/ustanovka-i-nastrojka-vnc-na-ubuntu-18-04/" title="Установка и Настройка TigerVNC на Ubuntu 18.04">Установка и Настройка TigerVNC на Ubuntu 18.04</a> - Просмотров: 11&nbsp;838 </li><li><a href="https://lepkov.ru/ms-sql-server-email-notify/" title="Настройка уведомлений по почте MS SQL SERVER">Настройка уведомлений по почте MS SQL SERVER</a> - Просмотров: 11&nbsp;193 </li><li><a href="https://lepkov.ru/clear-cached-network-credentials/" title="[РЕШЕНО] Войти в сетевую папку под другим пользователем без перезагрузки">[РЕШЕНО] Войти в сетевую папку под другим пользователем без перезагрузки</a> - Просмотров: 10&nbsp;522 </li><li><a href="https://lepkov.ru/resheno-izvinite-jetot-tip-fajla-nedopustim-po-soobrazhenijam-bezopasnosti/" title="[РЕШЕНО] Извините, этот тип файла недопустим по соображениям безопасности">[РЕШЕНО] Извините, этот тип файла недопустим по соображениям безопасности</a> - Просмотров: 9&nbsp;752 </li><li><a href="https://lepkov.ru/open-mysql-ports-for-remote-access-to-db/" title="Как открыть порты для внешнего доступа к mysql ?">Как открыть порты для внешнего доступа к mysql ?</a> - Просмотров: 7&nbsp;377 </li><li><a href="https://lepkov.ru/debian-8-jessie-repo-update/" title="Debian 8 Jessie Кончилась поддержка, смена репозиториев">Debian 8 Jessie Кончилась поддержка, смена репозиториев</a> - Просмотров: 7&nbsp;224 </li><li><a href="https://lepkov.ru/anydesk-address-book/" title="[РЕШЕНО] Как перенести контакты из AnyDesk">[РЕШЕНО] Как перенести контакты из AnyDesk</a> - Просмотров: 6&nbsp;614 </li><li><a href="https://lepkov.ru/bring-windows-store-back/" title="[РЕШЕНО] Восстановить Магазин Windows Store 2022">[РЕШЕНО] Восстановить Магазин Windows Store 2022</a> - Просмотров: 6&nbsp;011 </li><li><a href="https://lepkov.ru/cannot-locate-the-internet-server-or-proxy-server/" title="[РЕШЕНО] Microsoft Office Не удается найти сервер Интернета или прокси-сервер">[РЕШЕНО] Microsoft Office Не удается найти сервер Интернета или прокси-сервер</a> - Просмотров: 5&nbsp;383 </li></ul>
+</div> <!-- end .et_pb_widget --><div id="recent-comments-2" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Свежие комментарии</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://lepkov.ru' rel='external nofollow ugc' class='url'>Lepkov</a></span> к записи <a href="https://lepkov.ru/bring-windows-store-back/#comment-1201">[РЕШЕНО] Восстановить Магазин Windows Store 2022</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://lepkov.ru' rel='external nofollow ugc' class='url'>Lepkov</a></span> к записи <a href="https://lepkov.ru/bring-windows-store-back/#comment-1200">[РЕШЕНО] Восстановить Магазин Windows Store 2022</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://lepkov.ru' rel='external nofollow ugc' class='url'>Lepkov</a></span> к записи <a href="https://lepkov.ru/bring-windows-store-back/#comment-1199">[РЕШЕНО] Восстановить Магазин Windows Store 2022</a></li></ul></div> <!-- end .et_pb_widget --><div id="tag_cloud-5" class="et_pb_widget widget_tag_cloud"><h4 class="widgettitle">Метки</h4><div class="tagcloud"><a href="https://lepkov.ru/tag/1c/" class="tag-cloud-link tag-link-7 tag-link-position-1" style="font-size: 22pt;" aria-label="1C (23 элемента)">1C<span class="tag-link-count"> (23)</span></a>
+<a href="https://lepkov.ru/tag/1s/" class="tag-cloud-link tag-link-38 tag-link-position-2" style="font-size: 17.074074074074pt;" aria-label="1С (9 элементов)">1С<span class="tag-link-count"> (9)</span></a>
+<a href="https://lepkov.ru/tag/apache/" class="tag-cloud-link tag-link-85 tag-link-position-3" style="font-size: 10.333333333333pt;" aria-label="Apache (2 элемента)">Apache<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/apache2/" class="tag-cloud-link tag-link-84 tag-link-position-4" style="font-size: 10.333333333333pt;" aria-label="Apache2 (2 элемента)">Apache2<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/bash/" class="tag-cloud-link tag-link-82 tag-link-position-5" style="font-size: 11.888888888889pt;" aria-label="bash (3 элемента)">bash<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/cheatsheet/" class="tag-cloud-link tag-link-201 tag-link-position-6" style="font-size: 18.111111111111pt;" aria-label="cheatsheet (11 элементов)">cheatsheet<span class="tag-link-count"> (11)</span></a>
+<a href="https://lepkov.ru/tag/cmd/" class="tag-cloud-link tag-link-9 tag-link-position-7" style="font-size: 11.888888888889pt;" aria-label="CMD (3 элемента)">CMD<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/debian/" class="tag-cloud-link tag-link-61 tag-link-position-8" style="font-size: 14.222222222222pt;" aria-label="Debian (5 элементов)">Debian<span class="tag-link-count"> (5)</span></a>
+<a href="https://lepkov.ru/tag/free/" class="tag-cloud-link tag-link-221 tag-link-position-9" style="font-size: 10.333333333333pt;" aria-label="free (2 элемента)">free<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/hdd/" class="tag-cloud-link tag-link-43 tag-link-position-10" style="font-size: 11.888888888889pt;" aria-label="HDD (3 элемента)">HDD<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/htaccess/" class="tag-cloud-link tag-link-98 tag-link-position-11" style="font-size: 10.333333333333pt;" aria-label="htaccess (2 элемента)">htaccess<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/linux/" class="tag-cloud-link tag-link-59 tag-link-position-12" style="font-size: 20.055555555556pt;" aria-label="Linux (16 элементов)">Linux<span class="tag-link-count"> (16)</span></a>
+<a href="https://lepkov.ru/tag/microsoft-office/" class="tag-cloud-link tag-link-95 tag-link-position-13" style="font-size: 10.333333333333pt;" aria-label="microsoft office (2 элемента)">microsoft office<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/msi/" class="tag-cloud-link tag-link-26 tag-link-position-14" style="font-size: 10.333333333333pt;" aria-label="MSI (2 элемента)">MSI<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/mysql/" class="tag-cloud-link tag-link-66 tag-link-position-15" style="font-size: 11.888888888889pt;" aria-label="mysql (3 элемента)">mysql<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/netcat/" class="tag-cloud-link tag-link-76 tag-link-position-16" style="font-size: 11.888888888889pt;" aria-label="Netcat (3 элемента)">Netcat<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/php/" class="tag-cloud-link tag-link-42 tag-link-position-17" style="font-size: 10.333333333333pt;" aria-label="PHP (2 элемента)">PHP<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/server-2008/" class="tag-cloud-link tag-link-25 tag-link-position-18" style="font-size: 8pt;" aria-label="Server 2008 (1 элемент)">Server 2008<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/sql-server/" class="tag-cloud-link tag-link-20 tag-link-position-19" style="font-size: 15.12962962963pt;" aria-label="SQL Server (6 элементов)">SQL Server<span class="tag-link-count"> (6)</span></a>
+<a href="https://lepkov.ru/tag/troubleshooting/" class="tag-cloud-link tag-link-47 tag-link-position-20" style="font-size: 15.12962962963pt;" aria-label="troubleshooting (6 элементов)">troubleshooting<span class="tag-link-count"> (6)</span></a>
+<a href="https://lepkov.ru/tag/ubuntu/" class="tag-cloud-link tag-link-63 tag-link-position-21" style="font-size: 13.185185185185pt;" aria-label="Ubuntu (4 элемента)">Ubuntu<span class="tag-link-count"> (4)</span></a>
+<a href="https://lepkov.ru/tag/windows/" class="tag-cloud-link tag-link-8 tag-link-position-22" style="font-size: 20.962962962963pt;" aria-label="WIndows (19 элементов)">WIndows<span class="tag-link-count"> (19)</span></a>
+<a href="https://lepkov.ru/tag/windows-server-2016/" class="tag-cloud-link tag-link-37 tag-link-position-23" style="font-size: 10.333333333333pt;" aria-label="Windows Server 2016 (2 элемента)">Windows Server 2016<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/wordpress/" class="tag-cloud-link tag-link-71 tag-link-position-24" style="font-size: 11.888888888889pt;" aria-label="Wordpress (3 элемента)">Wordpress<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/bitriks/" class="tag-cloud-link tag-link-39 tag-link-position-25" style="font-size: 10.333333333333pt;" aria-label="Битрикс (2 элемента)">Битрикс<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/%d0%b1%d1%83%d1%85%d0%b3%d0%b0%d0%bb%d1%82%d0%b5%d1%80%d0%b8%d1%8f/" class="tag-cloud-link tag-link-13 tag-link-position-26" style="font-size: 17.074074074074pt;" aria-label="Бухгалтерия (9 элементов)">Бухгалтерия<span class="tag-link-count"> (9)</span></a>
+<a href="https://lepkov.ru/tag/%d0%b4%d0%b0%d0%bb%d0%b8%d0%be%d0%bd/" class="tag-cloud-link tag-link-14 tag-link-position-27" style="font-size: 8pt;" aria-label="Далион (1 элемент)">Далион<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/%d0%b6%d0%b5%d1%81%d1%82%d0%ba%d0%b8%d0%b9-%d0%b4%d0%b8%d1%81%d0%ba/" class="tag-cloud-link tag-link-10 tag-link-position-28" style="font-size: 8pt;" aria-label="Жесткий диск (1 элемент)">Жесткий диск<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/zhurnal-registracii/" class="tag-cloud-link tag-link-22 tag-link-position-29" style="font-size: 8pt;" aria-label="Журнал регистрации (1 элемент)">Журнал регистрации<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/zup/" class="tag-cloud-link tag-link-24 tag-link-position-30" style="font-size: 14.222222222222pt;" aria-label="ЗУП (5 элементов)">ЗУП<span class="tag-link-count"> (5)</span></a>
+<a href="https://lepkov.ru/tag/zup-2-5/" class="tag-cloud-link tag-link-35 tag-link-position-31" style="font-size: 8pt;" aria-label="ЗУП 2.5 (1 элемент)">ЗУП 2.5<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/zametka/" class="tag-cloud-link tag-link-36 tag-link-position-32" style="font-size: 8pt;" aria-label="Заметка (1 элемент)">Заметка<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/nastrojka/" class="tag-cloud-link tag-link-46 tag-link-position-33" style="font-size: 13.185185185185pt;" aria-label="Настройка (4 элемента)">Настройка<span class="tag-link-count"> (4)</span></a>
+<a href="https://lepkov.ru/tag/netkat/" class="tag-cloud-link tag-link-78 tag-link-position-34" style="font-size: 10.333333333333pt;" aria-label="Неткат (2 элемента)">Неткат<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/obmen/" class="tag-cloud-link tag-link-12 tag-link-position-35" style="font-size: 11.888888888889pt;" aria-label="Обмен (3 элемента)">Обмен<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/optimizacija/" class="tag-cloud-link tag-link-23 tag-link-position-36" style="font-size: 13.185185185185pt;" aria-label="Оптимизация (4 элемента)">Оптимизация<span class="tag-link-count"> (4)</span></a>
+<a href="https://lepkov.ru/tag/programmirovanie/" class="tag-cloud-link tag-link-31 tag-link-position-37" style="font-size: 11.888888888889pt;" aria-label="Программирование (3 элемента)">Программирование<span class="tag-link-count"> (3)</span></a>
+<a href="https://lepkov.ru/tag/rib/" class="tag-cloud-link tag-link-34 tag-link-position-38" style="font-size: 8pt;" aria-label="РИБ (1 элемент)">РИБ<span class="tag-link-count"> (1)</span></a>
+<a href="https://lepkov.ru/tag/roznica/" class="tag-cloud-link tag-link-30 tag-link-position-39" style="font-size: 13.185185185185pt;" aria-label="Розница (4 элемента)">Розница<span class="tag-link-count"> (4)</span></a>
+<a href="https://lepkov.ru/tag/set/" class="tag-cloud-link tag-link-101 tag-link-position-40" style="font-size: 10.333333333333pt;" aria-label="Сеть (2 элемента)">Сеть<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/besplatno/" class="tag-cloud-link tag-link-222 tag-link-position-41" style="font-size: 10.333333333333pt;" aria-label="бесплатно (2 элемента)">бесплатно<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/%d0%b8%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba/" class="tag-cloud-link tag-link-11 tag-link-position-42" style="font-size: 19.666666666667pt;" aria-label="исправление ошибок (15 элементов)">исправление ошибок<span class="tag-link-count"> (15)</span></a>
+<a href="https://lepkov.ru/tag/pochta/" class="tag-cloud-link tag-link-53 tag-link-position-43" style="font-size: 10.333333333333pt;" aria-label="почта (2 элемента)">почта<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/haljava/" class="tag-cloud-link tag-link-111 tag-link-position-44" style="font-size: 10.333333333333pt;" aria-label="халява (2 элемента)">халява<span class="tag-link-count"> (2)</span></a>
+<a href="https://lepkov.ru/tag/shpargalka/" class="tag-cloud-link tag-link-200 tag-link-position-45" style="font-size: 18.111111111111pt;" aria-label="шпаргалка (11 элементов)">шпаргалка<span class="tag-link-count"> (11)</span></a></div>
+</div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="custom_html-4" class="widget_text fwidget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="//lepkov.ru" alt="footer-logo-link"><img src="https://lepkov.ru/wp-content/uploads/2020/11/footer-logo-200x200-4.png" class="img-responsive" alt="footer-logo"></a></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="custom_html-2" class="widget_text fwidget et_pb_widget widget_custom_html"><h4 class="title">О сайте</h4><div class="textwidget custom-html-widget"><p>Привет ! Меня зовут Андрей, я автор этого IT блога. Здесь вы сможете узнать про 1С, системное администрирование и сайтостроение.</p> <p>Добро пожаловать :)</p></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="custom_html-3" class="widget_text fwidget et_pb_widget widget_custom_html"><h4 class="title">Контакты:</h4><div class="textwidget custom-html-widget"><div class="partnership">
+<div>
+<a style="font-size:14px;" href="/cdn-cgi/l/email-protection#92f3fcf6e0f7e5bcfef7e2f9fde4d2f5fff3fbfebcf1fdff" target="_blank" rel="noopener"><i class="fa fa-envelope-o" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="95f4fbf1e7f0e2bbf9f0e5fefae3d5f2f8f4fcf9bbf6faf8">[email&#160;protected]</span></a>
+</div>
+	<div>
+<a href="https://github.com/lepkov" target="_blank" rel="noopener"><i class="fa fa-github" aria-hidden="true"></i>GitHub</a>
+</div>
+	<div>
+<a href="//www.vk.com/andrewlepkov" target="_blank" rel="noopener"><i class="fa fa-vk" aria-hidden="true"></i>ВКонтакте</a>
+</div>
+		<div>
+<a href="//twitter.com/FeelLikeWinner" target="_blank" rel="noopener"><i class="fa fa-twitter" aria-hidden="true"></i>Твитор</a>
+</div>
+	<div>
+<a href="//www.instagram.com/alepkov/" target="_blank" rel="noopener"><i class="fa fa-instagram" aria-hidden="true"></i>inst</a>
+</div>
+</div></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="custom_html-5" class="widget_text fwidget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"></div></div> <!-- end .fwidget --><div id="vstrsnln_widget-2" class="fwidget et_pb_widget visitors-online"><h4 class="title">Статистика</h4><div class="vstrsnln-block"><p>Посетителей онлайн – 404:<br />
+пользователей – 0<br />
+гостей – 327<br />
+ботов – 77<br />
+Максимальное количество посещений:<br />
+всего посетителей – 2752:<br />
+пользователей – 100<br />
+гостей – 2356<br />
+ботов – 296</p>
+</div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">Все права защищены. Любое использование материалов допускается только с указанием активной ссылки на источник Lepkov.ru</div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<div class="a2a_kit a2a_kit_size_42 a2a_floating_style a2a_vertical_style" style="left:10px;top:85px;background-color:transparent"><a class="a2a_button_vk" href="https://www.addtoany.com/add_to/vk?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="VK" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Pinterest" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_pocket" href="https://www.addtoany.com/add_to/pocket?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Pocket" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_viber" href="https://www.addtoany.com/add_to/viber?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Viber" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Flepkov.ru%2F&amp;linkname=%D0%90%D0%B9%D1%82%D0%B8%20%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE" title="Email" rel="nofollow noopener" target="_blank"></a></div><link rel='stylesheet' id='et-builder-googlefonts-css'  href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic|Roboto+Condensed:300,300italic,regular,italic,700,700italic&#038;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin,latin-ext,vietnamese&#038;display=swap' type='text/css' media='all' />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' id='et-builder-modules-global-functions-script-js-extra'>
+/* <![CDATA[ */
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/includes/builder/frontend-builder/build/frontend-builder-global-functions.js?ver=4.9.2' id='et-builder-modules-global-functions-script-js'></script>
+<script type='text/javascript' id='adsforwp-ads-front-js-js-extra'>
+/* <![CDATA[ */
+var adsforwp_obj = {"ajax_url":"https:\/\/lepkov.ru\/wp-admin\/admin-ajax.php","adsforwp_front_nonce":"0bdfaa5cd5","ad_performance_tracker":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.16.2' id='adsforwp-ads-front-js-js'></script>
+<script type='text/javascript' id='adsforwp-ads-frontend-js-js-extra'>
+/* <![CDATA[ */
+var adsforwp_browser_obj = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/plugins/ads-for-wp/public/assets/js/ads-frontend.min.js?ver=1.9.16.2' id='adsforwp-ads-frontend-js-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/plugins/ah-prism-syntax-highlighter/js/prism.js?ver=5.8.3' id='prism-js'></script>
+<script type='module' src='https://lepkov.ru/wp-content/plugins/instant-page/instantpage.js?ver=5.1.0' id='instantpage-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.mobile.custom.min.js?ver=4.9.2' id='et-jquery-touch-mobile-js'></script>
+<script type='text/javascript' id='divi-custom-script-js-extra'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/js/custom.js?ver=4.9.2' id='divi-custom-script-js'></script>
+<script type='text/javascript' id='et-builder-modules-script-js-extra'>
+/* <![CDATA[ */
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/lepkov.ru\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/lepkov.ru\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/lepkov.ru\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"8d6515c063","subscription_failed":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u043f\u043e\u043b\u044f \u043d\u0438\u0436\u0435, \u0447\u0442\u043e\u0431\u044b \u0443\u0431\u0435\u0434\u0438\u0442\u044c\u0441\u044f, \u0447\u0442\u043e \u0432\u044b \u0432\u0432\u0435\u043b\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u0443\u044e \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e.","et_ab_log_nonce":"6d0f7bd52b","fill_message":"\ufeff\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u0437\u0430\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043f\u043e\u043b\u044f:","contact_error_message":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0438\u0441\u043f\u0440\u0430\u0432\u044c\u0442\u0435 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u043e\u0448\u0438\u0431\u043a\u0438:","invalid":"\u041d\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0430\u0434\u0440\u0435\u0441 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0439 \u043f\u043e\u0447\u0442\u044b","captcha":"\u041a\u0430\u043f\u0447\u0438","prev":"\u041f\u0440\u0435\u0434","previous":"\u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435","next":"\u0414\u0430\u043b\u0435\u0435","wrong_captcha":"\u0412\u044b \u0432\u0432\u0435\u043b\u0438 \u043d\u0435\u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0432 \u043a\u0430\u043f\u0447\u0435.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"615","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/includes/builder/frontend-builder/build/frontend-builder-scripts.js?ver=4.9.2' id='et-builder-modules-script-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/plugins/schema-and-structured-data-for-wp/modules/divi-builder/scripts/frontend-bundle.min.js?ver=1.0.0' id='extension-frontend-bundle-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.fitvids.js?ver=4.9.2' id='divi-fitvids-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/includes/builder/scripts/ext/waypoints.min.js?ver=4.9.2' id='waypoints-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.magnific-popup.js?ver=4.9.2' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-content/themes/Divi/core/admin/js/common.js?ver=4.9.2' id='et-core-common-js'></script>
+<script type='text/javascript' src='https://lepkov.ru/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+
+<!-- Shortcodes Ultimate custom CSS - start -->
+<style type="text/css">
+.su-spoiler-title {font-size:15px;}
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+<progress class="readingProgressbar" 
+						data-height="5" 
+						data-position="bottom" 
+						data-custom-position="" 
+						data-foreground="#2ea3f2" 
+						data-background="#dddddd" 
+						value="0"></progress></body>
+</html>

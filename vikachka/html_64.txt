@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+<!-- [container] [name: mainnew] -->
+<html lang="ru-RU">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">    
+<title>Создание сайта для бизнеса. Разработка сайтов в Украине: заказать сайт - веб студия создание-сайта.net</title>
+<meta name="description" content="Нужно создать сайт ✅ или заказать и разработать качественный Интернет-магазин ✅ - обращайтесь в нашу компанию по созданию сайтов для прибыльного бизнеса. Лучшая команда 2021 по разработке веб сайтов в Украине ✔️."/>
+<meta property="og:title" content="Создание сайта для бизнеса. Разработка сайтов в Украине: заказать сайт - веб студия создание-сайта.net"/>
+<meta property="og:url" content="https://xn----7sbbaqhlkm9ah9aiq.net/"/>
+<meta property="og:image" content="https://xn----7sbbaqhlkm9ah9aiq.net/images/logow.jpg"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="xn----7sbbaqhlkm9ah9aiq.net"/>
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:description" content="Нужно создать сайт ✅ или заказать и разработать качественный Интернет-магазин ✅ - обращайтесь в нашу компанию по созданию сайтов для прибыльного бизнеса. Лучшая команда 2021 по разработке веб сайтов в Украине ✔️."/>
+<link rel="canonical" href="https://xn----7sbbaqhlkm9ah9aiq.net">
+<meta name="google-site-verification" content="ZEB8Aph6Px9gzaCh9dmYcSU58D5p9HtuxuDyI3BrFn4" />
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon">  
+<script>var BASESITE = "https://xn----7sbbaqhlkm9ah9aiq.net/";</script>	
+<script type="text/javascript">var theme_url = '';</script>
+<link rel="preload" href="/fonts/fy16iFMh.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/fonts/PFDinDisplayProRegular.woff2" as="font" type="font/woff2" crossorigin>
+<style>
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff;
+    /* change if the mask should have another color then white */
+    
+    z-index: 300;
+    /* makes sure it stays on top */
+}
+
+@media only screen and (max-width: 640px) {	
+	#status img {
+		position: relative;
+		width:100%;
+		display: none;
+	}
+}
+
+#status img {
+    display: block;
+    height: auto;
+    max-width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+</style>
+<script type="application/ld+json">
+{ "@context": "https://schema.org",  
+"@type": "Organization",
+"name": "Разработка веб сайтов ABCname создание-сайта.net",
+"url": "https://xn----7sbbaqhlkm9ah9aiq.net/",
+"contactPoint" : [{
+"@type" : "ContactPoint",
+"telephone" : "+380966622741",
+"contactType" : "customer service"}],
+"sameAs":["https://www.facebook.com/ABCname/", "https://www.youtube.com/user/abcnamecompany"]
+}
+</script>
+
+<script type='application/ld+json'> 
+{
+"@context": "http://www.schema.org",
+"@type": "WebDeveloper",
+"name": "Создание сайтов и разработка Интернет магазинов создание-сайта.net",
+"url": "https://xn----7sbbaqhlkm9ah9aiq.net/",
+"logo": "https://xn----7sbbaqhlkm9ah9aiq.net/images/logo-dark.png",
+"image": "https://xn----7sbbaqhlkm9ah9aiq.net/images/logo-dark.png",
+"telephone": "+380966622741",
+"description": "Профессиональное создание сайтов и разработка Интернет магазинов с дальнейшей оптимизацией и продвижением в ТОП. Бесплатная консультация по телефону +38 (096) 662-27-41.",
+"address":"03138, Киев, проспект Валерия Лобановского 99/1",
+"priceRange":"₴"
+}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [{
+"@type": "Question",
+"name": "Сколько стоит создать веб сайт?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Стоимость сайта может быть разной, как и сами сайты. Все проекты уникальны и отличаются друг от друга функционалом, дизайном, версткой, интеграциями и т.д. НО! Мы можем рассказать, как формируется стоимость сайта, и какие варианты мы можем предложить. Более детальную информацию вы можете узнать у наших специалистов.."
+}
+}, {
+"@type": "Question",
+"name": "Как формируется стоимость разработки сайта?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Стоимость сайта «Эксклюзив». Стоимость данного сайта формируется исходя из всех пожеланий клиента. Подготавливается техническое задание (ТЗ), где расписано все до мелочей начиная от дизайна и функционала, заканчивая всякими спецэффектами и мелкими элементами. На основе ТЗ оцениваются затраты времени (в часах) каждого из специалистов, которые будут принимать участие в разработке сайта и переводится в денежный эквивалент."
+}
+}, {
+"@type": "Question",
+"name": "Почему я должен заказать сайт именно у вас?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Действительно, в сети интернет можно найти множество компаний и фрилансеров, которые готовы взяться за ваш проект. Но далеко не все могут сделать любой функционал, красивый дизайн и при этом качественно. Мы же компания с опытом более 12 лет и для нас нет ничего  невозможного. Мы предоставляем только качественный продукт, проводим полное тестирование и поддерживаем проект после его сдачи. К тому же мы предоставляем полный комплекс услуг связанных с веб-проектами, а это: хостинг и доменные имена, продвижение сайтов, настройка рекламы, интеграция с разными платформами/сервисами и, конечно же, доработка любого функционала, на вашем сайте спустя любое время."
+}
+}, {
+"@type": "Question",
+"name": "Поддерживаете ли вы сайт после его сдачи?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Мы поддерживаем все проекты, которые сделали. По окончанию разработки сайта и принятия/утверждения проекта клиентом, мы размещаем сайт на хостинге и у каждого клиента без исключения есть 1 месяц бесплатной поддержки сайта. Также можно заказать у нас поддержку на любой срок."
+}
+}, {
+"@type": "Question",
+"name": "Можете ли спустя некоторое время/годы доделать что-то на сайте?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Конечно! Вы можете обратиться к нам даже спустя несколько лет с просьбой доработать, изменить что-то на сайте или заказать еще какую-то услугу и мы без проблем это сделаем."
+}
+}, {
+"@type": "Question",
+"name": "Делаете ли вы продвижение сайта в Интернете, рекламу сайта?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Да, мы занимаемся продвижением сайтов в поисковых системах, а также продвижением в Google Map, рекламой в Google Ads, выгрузкой товаров на разные платформы (Google Merchant, Prom, Розетка, Hotline и прочее) для увеличения ваших продаж. Мы делаем все, чтобы вы получали как можно больше заказов."
+}
+}, {
+"@type": "Question",
+"name": "Сколько стоит СЕО-продвижение сайта?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text":"Стоимость SEO-продвижения напрямую зависит от сложности и количества выполняемых работ ежемесячно, а также от текущих позиций сайта и его конкуренции. Продвижение является индивидуальным для каждого сайта и нацелено исключительно на результат в виде заказов, звонков, продаж и прибыли. Поэтому мы тщательно изучаем каждый проект и используем индивидуальный подход. Мы делаем все для того, чтобы вы и ваш проект стали успешными."}
+}]
+}
+</script>
+</head>
+<body class="home page-template-default page page-id-2">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "url": "https://xn----7sbbaqhlkm9ah9aiq.net/",
+  "name": "создание-сайта.net",
+  "contactpoint": [{
+	"@type": "contactpoint",
+	"telephone": "+38-096-662-2741",
+	"contactType": "customer service"
+  }],
+  "aggregateRating":
+	{"@type": "AggregateRating",
+	 "ratingValue": "9.79",
+	 "bestRating": "10",
+	 "reviewCount": "183"
+	}
+}
+</script>
+<div id="preloader">
+    <div id="status"><img src="/images/weberous-loader.gif"></div>
+</div>
+
+<header role="banner" id="header">
+    <div class="container clearfix" id="block_1"><!-- [block: block_1] -->
+		<!-- menunew/ancient --><!--
+[name: menunew]
+-->
+<div class="logo"> <a href="https://xn----7sbbaqhlkm9ah9aiq.net/"><img class="img-responsive lazy" data-src="/images/logo.png" alt="Создание сайтов в ABCname" title="Разработать сайт от создание-сайта.net"></a> </div>
+<div class="info"><div class="icon-Phone alt-font">
+<a href="tel:+380966622741">(096) 662-27-41</a></div><div class="region"></div>
+
+
+</div>
+
+
+<nav>
+	<a class="icon-Menu">Меню</a>
+	<ul class="constructor-template" data-category-id="1" data-parent_id="" data-template-type="grid" data-template-name="menunew">
+		
+								  			<li class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-has-children"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/">Разработка</a>									
+								
+			<ul class="submenu">
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/sozdanie-internet-magazina/" >Интернет магазин</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/sozdanie-korporativnogo-sayta/" >Корпоративный сайт</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/sozdanie-sayta-kataloga/" >Сайт каталог</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/sozdanie-sayta-vizitki/" >Сайт визитка</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/sazdanie-landing-page/" >Landing page</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/razrabotka-internet-proektov/sozdanie-eksklyuzivnogo-proekta/" >Эксклюзивный проект</a>
+								  </li>
+			  			</ul>  
+		  			</li>
+				  			<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://xn----7sbbaqhlkm9ah9aiq.net/services-new/">Все услуги</a>									
+						</li>
+				  			<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/">Наши работы</a>									
+						</li>
+				  			<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://xn----7sbbaqhlkm9ah9aiq.net/zakazat-sayt/">Заказать сайт</a>									
+						</li>
+				  			<li class="menu-item menu-item-type-post_type menu-item-object-page  menu-item-has-children"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/info/">Информация</a>									
+								
+			<ul class="submenu">
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/news-new/" >Блоги, статьи, новости</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/info/faq/" >Часто задаваемые вопросы</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/info/instructions-cmsdk/" >Инструкции</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/info/otzyvy/" >Отзывы</a>
+								  </li>
+			  			  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/info/nasha-komanda/" >Наша команда</a>
+								  </li>
+			  			</ul>  
+		  			</li>
+				  			<li class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://xn----7sbbaqhlkm9ah9aiq.net/contacts-new/">Контакты</a>									
+						</li>
+					
+					
+		
+	</ul>				
+</nav>
+<div class="rd-navbar-phone">
+<div><a href="tel:+380966622741">(096) 662-27-41</a></div><div><a href="tel:+380634823200">(063) 482-32-00</a><a rel="nofollow" href="viber://chat?number=%2B380634823200"><span class="icon-viber alt-font"></span></a></div></div>
+    </div>
+</header>
+
+<main role="main" id="fullpage">
+	<div id="block_2"><!-- [block: block_2] -->
+		<!-- homenew/ancient --><!--
+[name: homenew]
+-->	
+    <div id="feat-area" class="section homepage active-section home">
+        <div class="overlay1"></div>
+        <div class="container">
+            <div class="row">
+                <div class="wrapper home-wrapper">
+                    <div id="banner-slogans">
+                        <h2> <span class="top">Создаем сайты для успешного бизнеса</span> 
+						<span class="text-slider constructor-template" data-category-id="1" data-template-type="grid" data-template-name="homenew"> 
+																					<span class="slide" >ПРОФЕССИОНАЛЬНАЯ КОМАНДА</span>
+														<span class="slide" style="display: none">ПРОВЕРЕННЫЕ ТЕХНОЛОГИИ</span>
+														<span class="slide" style="display: none">НОВЫЕ МЕТОДЫ ОПТИМИЗАЦИИ</span>
+														<span class="slide" style="display: none">КОМПЛЕКСНЫЙ МАРКЕТИНГ</span>
+														<span class="slide" style="display: none">БЫСТРЫЙ ЗАПУСК ПРОЕКТА</span>
+																					
+						</span> 
+						<span class="bottom">знаем как привлечь новых клиентов</span> </h2> </div>
+                    <div class="button">
+                        <a class="transp btn wBorders extra fish-button" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/"> <span class="wrapper">Наши работы</span> <span class="border top wow slideInRight" data-wow-delay="1s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="1s" data-wow-duration="1s"></span> </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="services-buttons"> <a href="https://xn----7sbbaqhlkm9ah9aiq.net/services-new/internet-marketing/">Маркетинг</a> <a href="https://xn----7sbbaqhlkm9ah9aiq.net/services-new/site-create/">Разработка</a> <a href="https://xn----7sbbaqhlkm9ah9aiq.net/services-new/tehnicheskaya-poddergka.html">Поддержка</a> </div>
+        <a href="#clients" id="scroll-down" class="hidden-xs scrollto">
+            <div id="scroll-mouse"></div>
+            <div id="scroll-arrow"></div>
+        </a>
+        <br> 
+	</div>
+	
+		<!-- lozung/ancient --><!--
+[name: lozung]
+-->
+<div class="section bg-blue" id="clients">
+	<div class="container clearfix">
+		<h2 class="main-title constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="homenew" data-template-id="6">Наши проекты работают и приносят высокие результаты</h2>
+		<h3 class="constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="homenew" data-template-id="7">Убедитесь сами, посмотрев видео отзывы от клиентов</h3>
+	</div>
+
+	<nav class="wave-nav bottom right white" role='navigation'>
+		<ul id="wave" class="right">
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</nav>
+	<svg xmlns="https://www.w3.org/2000/svg" version="1.1" class="wave-svg">
+		<defs>
+			<filter id="water">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur" />
+				<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 19 -9" result="goo" />
+				<feComposite in="SourceGraphic" in2="goo" operator="atop" /> </filter>
+		</defs>
+	</svg>
+</div><!-- videoreviewsnewtop/ancient --><!--
+[name: videoreviewsnewtop]
+-->
+
+
+
+
+<div class="how-we-can slaid-video and-reviews">
+	<div class="clearfix constructor-template" data-category-id="84" data-template-type="grid" data-template-name="videoreviewsnew">
+
+		<div class="reviews-row">
+		
+							
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/bomond.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/sozdanie-saytov-otziv-3-small.jpg" width="100%" alt="Отзыв о создании и продвижении интернет-магазина Bomond-Shop.com" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Отзыв о создании и продвижении интернет-магазина Bomond-Shop.com</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/sumdex.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/site-create-sumdex-small.jpg" width="100%" alt="Отзыв по созданию Интернет магазинов sumdex.ua и portcase.ua" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Отзыв по созданию Интернет магазинов sumdex.ua и portcase.ua</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/It-tochka.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/sozdanie-saytov-otziv-4-small.jpg" width="100%" alt="Отзыв по созданию Интернет-магазина IT-tochka" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Отзыв по созданию Интернет-магазина IT-tochka</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/futsal.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/razrabotka-sayta-8-small.jpg" width="100%" alt="Федерация Футзала города Киева" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Федерация Футзала города Киева</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/kievokna.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/razrabotka-saytov-5-small.jpg" width="100%" alt="Торговая марка &quot;Киевские окна&quot;" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Торговая марка "Киевские окна"</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/lift.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/razrabotka-sayta-9-small.jpg" width="100%" alt="Отзыв заместителя директора ООО &quot;Лифты Украины&quot;" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Отзыв заместителя директора ООО "Лифты Украины"</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/color.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/sozdanie-saytov-otziv-2-small.jpg" width="100%" alt="ЧП &quot;Кольори&quot;" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">ЧП "Кольори"</div>
+					</div>
+				</div>
+			</div>
+			
+				
+			<div class="col-4">
+				<div class="video-box">
+					<div class="video-box__cover">
+						<div class="video-cover video-link">
+						<a href="/upload/therapyst.mp4">  <img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/videoreviewsnew/videos/alex-kiseleff-small.jpg" width="100%" alt="Отзыв по созданию сайта для известного психотерапевта - Alexander Kiseloff" typeof="Image" class="img-responsive">
+						</a>
+						</div>
+					</div>
+
+					<div class="video-box__info">
+						<div class="video-box__title">Отзыв по созданию сайта для известного психотерапевта - Alexander Kiseloff</div>
+					</div>
+				</div>
+			</div>
+			
+							
+			
+		</div>
+	
+	
+</div>
+</div><!-- lozungportfolio/ancient --><!--
+[name: lozungportfolio]
+-->
+<div class="section command-padding">
+	<div class="container clearfix">
+		<h2 class="margin-top-1 aup text-center constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="lozungportfolio" data-template-id="1">Наши лучшие проекты</h2>
+		<p class="add-main-title text-center">Мы работаем с 2008 года, избрав с самого начала своей специализацией разработку сайтов для бизнеса</p>
+	</div>
+
+	<nav class="wave-nav bottom left blue" role='navigation' style="height: 0px;">
+		<ul id="wave" class="left">
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</nav>
+	<svg xmlns="https://www.w3.org/2000/svg" version="1.1" class="wave-svg">
+		<defs>
+			<filter id="water">
+				<feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur" />
+				<feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 19 -9" result="goo" />
+				<feComposite in="SourceGraphic" in2="goo" operator="atop" /> </filter>
+		</defs>
+	</svg>
+</div><!-- portfolionewtop/ancient --><!--
+[name: portfolionewtop]
+-->
+<div id="portfolio" style="margin-bottom: 26px;">
+<div class="section bg-white">
+	<div class="clearfix">
+		<div class="portfolio-grid clearfix constructor-template" data-category-id="1" data-parent_id="0" data-template-type="grid" data-template-name="portfolionewtop"> 
+												<figure class="wow fadeIn" data-wow-delay="0.1s">
+				<div class="object"> <span class="front parte" style="background-image: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/portfolionew/portfolionew/agu-baby.jpg); background-size: cover"></span>
+					<figcaption class="back parte" onclick="window.location='https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/sayt-katalog-brenda-agu.html'">
+						<span class="overlay-inner"> 
+							<h2><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/sayt-katalog-brenda-agu.html">Сайт-каталог бренда AGU</a></h2> 
+							<p class="project-cat">
+																<span class="read-more" > <a class="transp btn wBorders" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/sayt-katalog-brenda-agu.html"> <span class="wrapper">подробнее</span> <span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span> </a>
+							</span>
+								
+							</p> 							
+					 </span>
+					</figcaption> 
+					<span class="right parte"></span> <span class="left parte"></span> 
+				</div>
+			</figure>
+									<figure class="wow fadeIn" data-wow-delay="0.1s">
+				<div class="object"> <span class="front parte" style="background-image: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/portfolionew/portfolionew/lucesposa.jpg); background-size: cover"></span>
+					<figcaption class="back parte" onclick="window.location='https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/katalog-svadebnih-platev-lucesposa.html'">
+						<span class="overlay-inner"> 
+							<h2><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/katalog-svadebnih-platev-lucesposa.html">Каталог свадебных платьев LuceSposa</a></h2> 
+							<p class="project-cat">
+																<span class="read-more" > <a class="transp btn wBorders" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/katalog-svadebnih-platev-lucesposa.html"> <span class="wrapper">подробнее</span> <span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span> </a>
+							</span>
+								
+							</p> 							
+					 </span>
+					</figcaption> 
+					<span class="right parte"></span> <span class="left parte"></span> 
+				</div>
+			</figure>
+									<figure class="wow fadeIn" data-wow-delay="0.1s">
+				<div class="object"> <span class="front parte" style="background-image: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/portfolionew/portfolionew/310.jpg); background-size: cover"></span>
+					<figcaption class="back parte" onclick="window.location='https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/internet-magazin-310.html'">
+						<span class="overlay-inner"> 
+							<h2><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/internet-magazin-310.html">Интернет-магазин "310"</a></h2> 
+							<p class="project-cat">
+								Создание интернет-магазина климатической техники								<span class="read-more" > <a class="transp btn wBorders" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/internet-magazin-310.html"> <span class="wrapper">подробнее</span> <span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span> </a>
+							</span>
+								
+							</p> 							
+					 </span>
+					</figcaption> 
+					<span class="right parte"></span> <span class="left parte"></span> 
+				</div>
+			</figure>
+									<figure class="wow fadeIn" data-wow-delay="0.1s">
+				<div class="object"> <span class="front parte" style="background-image: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/portfolionew/portfolionew/nebo.jpg); background-size: cover"></span>
+					<figcaption class="back parte" onclick="window.location='https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/internet-magazin-nebo.html'">
+						<span class="overlay-inner"> 
+							<h2><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/internet-magazin-nebo.html">Интернет-магазин NEBO</a></h2> 
+							<p class="project-cat">
+								Создание интернет-магазина по продаже мебели								<span class="read-more" > <a class="transp btn wBorders" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/internet-magazin-nebo.html"> <span class="wrapper">подробнее</span> <span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span> </a>
+							</span>
+								
+							</p> 							
+					 </span>
+					</figcaption> 
+					<span class="right parte"></span> <span class="left parte"></span> 
+				</div>
+			</figure>
+									<figure class="wow fadeIn" data-wow-delay="0.1s">
+				<div class="object"> <span class="front parte" style="background-image: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/portfolionew/portfolionew/gbgbuilders-2.jpg); background-size: cover"></span>
+					<figcaption class="back parte" onclick="window.location='https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/sayt-dlya-biznesa-gbg-builders.html'">
+						<span class="overlay-inner"> 
+							<h2><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/sayt-dlya-biznesa-gbg-builders.html">Сайт для бизнеса GBG Builders</a></h2> 
+							<p class="project-cat">
+																<span class="read-more" > <a class="transp btn wBorders" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/sayt-dlya-biznesa-gbg-builders.html"> <span class="wrapper">подробнее</span> <span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span> </a>
+							</span>
+								
+							</p> 							
+					 </span>
+					</figcaption> 
+					<span class="right parte"></span> <span class="left parte"></span> 
+				</div>
+			</figure>
+									<figure class="wow fadeIn" data-wow-delay="0.1s">
+				<div class="object"> <span class="front parte" style="background-image: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/portfolionew/portfolionew/idealboilers.jpg); background-size: cover"></span>
+					<figcaption class="back parte" onclick="window.location='https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/katalog-boylerov-kompanii-ideal-boilers.html'">
+						<span class="overlay-inner"> 
+							<h2><a href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/katalog-boylerov-kompanii-ideal-boilers.html">Каталог бойлеров компании Ideal Boilers</a></h2> 
+							<p class="project-cat">
+																<span class="read-more" > <a class="transp btn wBorders" href="https://xn----7sbbaqhlkm9ah9aiq.net/portfolio-new/katalog-boylerov-kompanii-ideal-boilers.html"> <span class="wrapper">подробнее</span> <span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span> </a>
+							</span>
+								
+							</p> 							
+					 </span>
+					</figcaption> 
+					<span class="right parte"></span> <span class="left parte"></span> 
+				</div>
+			</figure>
+								</div>
+			</div>
+</div>
+</div><!-- command/ancient --><!--
+[name: Command]
+-->
+
+<div class="command-padding slaid-video and-reviews">
+<div class="container">
+<h2 class="margin-top-1 aup text-center constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="command" data-template-id="20">Команда по маркетингу, разработке и продвижению</h2>
+<p class="add-main-title text-center">ведущие специалисты по созданию работающего бизнеса в интернете</p>
+
+<div class="command constructor-template" data-category-id="1" data-template-type="grid" data-template-name="command">
+	
+				
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/krutevich-1-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Андрeй Крутeвич</h6>
+			<p class="command-posada">ведущий менеджер по работе с клиентами</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/bordug-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Евгения Бopдюк</h6>
+			<p class="command-posada">менеджер отдела технической поддержки</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/ihor-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Игoрь Матвeeв</h6>
+			<p class="command-posada">технический руководитель, главный бэк-энд разработчик</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/lonskiy-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Сeргей Лoнский</h6>
+			<p class="command-posada">креативный web-дизайнер</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/pavlovsky-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Дeнис Пaвловский</h6>
+			<p class="command-posada">маркетолог, руководитель отдела маркетинга</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/juliya-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Юлия Бaрдиc</h6>
+			<p class="command-posada">таргетолог</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/boyko-small.png)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Бoйко Сeргей</h6>
+			<p class="command-posada">Digital-маркетолог</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/borkovskyy-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Сeргей Боркoвский</h6>
+			<p class="command-posada">фронт-энд разработчик</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/img-0017-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Наталья Бык</h6>
+			<p class="command-posada">продакшн-менеджер</p>			
+		</div>		
+	</div>
+	  
+			
+	<div class="command-item">
+		<div class="command-block">
+			<div class="command-picture blue wBorders" style="background: url(https://xn----7sbbaqhlkm9ah9aiq.net/images/command/command/alex-small.jpg)">
+			<span class="border top wow slideInRight" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border bottom wow slideInLeft" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border left wow slideInUp" data-wow-delay="0.5s" data-wow-duration="1s"></span> <span class="border right wow slideInDown" data-wow-delay="0.5s" data-wow-duration="1s"></span>
+			</div>		
+			<h6>Алeксандр Oкoлoдько</h6>
+			<p class="command-posada">фронт-энд разработчик</p>			
+		</div>		
+	</div>
+	  
+		  
+</div>
+
+</div>
+</div><!-- tabs/ancient --><!--
+[name: tabs]
+-->
+<!-- partnership/ancient --><!--
+[name: partnership]
+-->
+<div id="services-section" class="section bg-white services command-padding">
+        <div class="container clearfix">
+		
+			<h2 class="margin-top-1 aup text-center constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="partnership" data-template-id="1">Порядок работы над вашим проектом</h2>
+			<p class="add-main-title text-center">последовательность действий по планированию и разработке проекта</p>
+			
+			<div class="horizontaltab constructor-template" data-category-id="1" data-template-type="grid" data-template-name="partnership">			
+				<ul>
+										<li><a href="#tab-1">Информация о проекте</a></li>
+										<li><a href="#tab-2">Маркетинговое исследование</a></li>
+										<li><a href="#tab-3">Оценка стоимости и сроков</a></li>
+										<li><a href="#tab-4">Заключение договора</a></li>
+										<li><a href="#tab-5">Процесс разработки</a></li>
+										<li><a href="#tab-6">Завершение и запуск проекта</a></li>
+										<li><a href="#tab-7">Поддержка и реклама</a></li>
+									</ul>
+				
+								<div id="tab-1">
+					<div class="inner-text">
+					<h4>Для того чтобы наши специалисты приступили к работе, Вы должны описать вашу цель:</h4>
+<em>к примеру:</em><br />
+<ul>
+<li><span style="font-size: 22px;">направление бизнеса;</span></li>
+<li><span style="font-size: 22px;">планируемые задачи которые нужно решить;</span></li>
+<li><span style="font-size: 22px;">желаемый результат.</span></li>
+</ul>
+<em>описание можно сделать в любом текстовом редакторе в произвольной форме как Вы это видите<br /></em><br /> Если не можете описать своими словами, дайте ссылки на похожие сайты, которые Вам нравятся.<br /> Также мы можем по средствам связи проконсультировать Вас и составить предварительную &nbsp;концепцию дальнейшей работы.<br /> <br /> С основными наводящими вопросами можете ознакомиться скачав <a href="https://drive.google.com/file/d/1QVSYlYist2syhN0ygTihPgERdRkv01lc/view?usp=sharing">бриф-опросник</a>.					</div>
+				</div>
+								<div id="tab-2">
+					<div class="inner-text">
+					<h4>После получения информации о проекте, мы проводим маркетинговое исследование вашего бизнес направления:</h4>
+<ul>
+<li>Узнаем объем потенциальных клиентов и их поведенческие факторы;</li>
+<li>Сравниваем рейтинги конкурентов;</li>
+<li>Оцениваем рекламную стратегию и эффективность дальнейшего заработка.</li>
+</ul>
+<h4>Продумываем все до мелочей:</h4>
+<ul>
+<li>Правильную подачу информации для клиента;</li>
+<li>Необходимые технические модули для рекламы;</li>
+<li>Подбор рекламных площадок;</li>
+<li>Ориентировочный бюджет и сроки.</li>
+</ul>
+<p style="font-size: 20px;">Для формирования маркетинговой концепции наши специалисты используют свой личный многолетний опыт, а также наработки и опыт многих выполненных проектов, которые до сих пор работают и приносят прибыль.</p>					</div>
+				</div>
+								<div id="tab-3">
+					<div class="inner-text">
+					<p style="font-size: 20px;"><span style="text-decoration: underline;">После сбора всех необходимых данных переходим к процессу оценки стоимости за:</span></p>
+<ul>
+<li>Разработку информационно-рекламной площадки (сайта);</li>
+<li>Оптимизацию и наполнение сайта по сформированному маркетинг плану;</li>
+<li>Настройку технических модулей для рекламы;</li>
+<li>Организацию рекламных площадок;</li>
+<li>Работу по повышению рейтинга;</li>
+<li>Формирование отчетов и контроль процесса.</li>
+</ul>
+<h4>Мы подробно распишем все виды работ, которые планируется провести и все расходы, которые ожидают Вас, а также сроки выполнения каждого пункта из списка.</h4>
+<p>Не будет никаких подводных камней и неожиданных доплат не понятно за что. Перечень всех работ, сроки по ним и цены будут у Вас на руках.</p>					</div>
+				</div>
+								<div id="tab-4">
+					<div class="inner-text">
+					<p style="font-size: 20px;">После оценки стоимости и расчета сроков выполнения - мы заключаем договор с каждым клиентом. Договор официально подтверждает наши обязательства, и штрафные санкции при невыполнении условий.</p>
+<p><span style="text-decoration: underline;">В договоре определены:</span></p>
+<ul>
+<li>Задачи по разработке;</li>
+<li>Задачи по информационному наполнению и оптимизации;</li>
+<li>Задачи по поддержке, продвижению и рекламе;</li>
+<li>Сроки для реализации предыдущих пунктов;</li>
+<li>Подробный бюджет на каждую задачу.</li>
+</ul>
+<p><em>Перед подписанием договора утверждаем задачи и порядок оплаты, при необходимости вносим правки.</em></p>
+<h4>Будем честны, мы заинтересованы в договоре больше чем Вы, поскольку он дает нам гарантию того, что Вы останетесь довольны.</h4>
+<p>С примером договора можно ознакомиться по ссылке: <a href="https://drive.google.com/file/d/1gtBNvpbcsLXeXmujMbWnuXg0A0YL_I2k/view?usp=sharing" target="_blank" rel="noopener">наш договор</a>.</p>					</div>
+				</div>
+								<div id="tab-5">
+					<div class="inner-text">
+					<h4>После подписания договора мы приступаем к выполнению утвержденных работ.</h4>
+<p><span style="text-decoration: underline;">Изготовление сайтов разбивается на несколько этапов:</span></p>
+<ol>
+<li>Проектируем макет сайта &ndash; оформляем внешний вид (дизайн) графических элементов в цветах и в стиле Вашей компании;<br /><em>На данном этапе Вы сможете увидеть, как будет выглядеть проект еще до того, как он будет готов и при необходимости внести правки.</em></li>
+<li>Корректируем Ваши пожелания и утверждаем дизайн;</li>
+<li>Переносим макет дизайна в веб-формат, разрабатываем frontend модули, тестируем адаптивность для мобильных устройств;</li>
+<li>Подключаем систему управления, которая поможет Вам в дальнейшем легко добавлять и редактировать информацию на сайте.</li>
+</ol>
+<p style="font-size: 20px;">При создании сайта у Вас будет полный доступ ко всему процессу, то есть Вы сможете смотреть со своего компьютера в браузере на будущие страницы сайта, видеть, как появляются новые элементы, при необходимости вносить правки.</p>					</div>
+				</div>
+								<div id="tab-6">
+					<div class="inner-text">
+					<h4>Проект считается готовым только после того, как мы полностью его проверим, протестируем и получим от Вас подтверждение, что все соответствует Вашим пожеланиям.</h4>
+<p><span style="text-decoration: underline;">В процесс запуска проекта входит:</span></p>
+<ul>
+<li>Тестирование работоспособности всех модулей проекта;</li>
+<li>Проверка на наличие контента и оптимизацию;</li>
+<li>Привязка сайта к доменному имени и настройка хостинга;</li>
+<li>Регистрация в поисковых системах и системах отслеживания статистики;</li>
+<li>Запуск рекламной компании.</li>
+</ul>
+<p style="font-size: 20px;">После выполнения выше перечисленных пунктов предоставляем акт выполненных работ и доступы к управлению контентом, доступы к хостинг аккаунту, доступы к рекламным площадкам.</p>					</div>
+				</div>
+								<div id="tab-7">
+					<div class="inner-text">
+					<p>После запуска проекта Вы не останетесь одни.</p>
+<h4>Мы всегда на связи, и готовы помогать в развитии Вашего бизнеса!</h4>
+<p>По любым вопросам в первую очередь обращаетесь к нам, даже если думаете, что это не наша сфера, а мы в свою очередь посоветуем лучший вариант решения.</p>
+<p><span style="text-decoration: underline;">Ждем от Вас вопросов по:</span></p>
+<ul>
+<li>Информационному наполнению;</li>
+<li>Технической поддержки;</li>
+<li>Cовершенствованию функционала;</li>
+<li>Подключения дополнительных сервисов;</li>
+<li>Эффективности рекламы;</li>
+<li>или просто пообщаться на тему Интернет-технологий:)</li>
+</ul>
+<p style="font-size: 20px;">Мы работаем с разными направлениями бизнесов уже очень много лет (с 2008 года) и поделиться своими знаниями всегда рады.</p>					</div>
+				</div>
+				
+			</div>
+		</div>
+</div>
+<!-- optimizationcenter/ancient --><!-- 
+[name: Meta Data Center]
+[type: SEO] 
+-->
+<div class="container clearfix metadata constructor-template" data-category-id="1" data-template-type="form" data-template-name="optimization">	
+		<div class="text-optimization padding-45" >
+			<h1 class="aup" align="center">Создание сайтов</h1>
+<h2 class="aup" align="center">Услуги дизайн студии ABCname по созданию адаптивных сайтов разной сложности:</h2>
+<ul>
+<li>Разработка Интернет-магазина любого уровня сложности;</li>
+<li>Изготовление сайта каталога;</li>
+<li>Создание корпоративного сайта;</li>
+<li>Создание приложений для бизнеса;</li>
+<li>Разработка интернет сайта-визитки;</li>
+<li>Реализация веб-приложений;</li>
+<li>Техническая поддержка и продвижение проекта в поисковых системах.</li>
+</ul>
+<h2 align="center">Зачем нужна разработка коммерческого сайта: его цели и задачи</h2>
+<p>Наша функция заключается в том, чтобы создать сайт для бизнеса, который станет для вас эффективным инструментом по увеличению продаж за счет притока трафика. С его помощью каждый предприниматель сможет заявить о себе, своей организации и ее сфере деятельности.</p>
+<blockquote>
+<p>Веб-ресурс решает целый ряд маркетинговых задач: создает имидж, информирует общественность, рекламирует, продает товары или услуги, формирует лояльность потенциальных клиентов и конечно же - увеличивает клиентскую базу и прибыль от предпринимательской активности.</p>
+</blockquote>
+<p>Благодаря правильной разработке коммерческого ресурса и его профессиональному продвижению ваш бизнес сможет функционировать в режиме онлайн круглосуточно, привлекая целевую аудиторию, новых поставщиков и партнеров. Придя на рынок с новым сайтом, вам не придется тратить свой бюджет на демонстрацию возможностей продукта и распространение рекламных брошюр, которые мгновенно попадают в мусорные корзины. Другое дело информация о вашем продукте на страницах интернет-ресурса, ведь качественный, доступный контент остается навсегда и работает на долгосрочную перспективу.</p>
+<p><em>К тому же, функционировать интернет-ресурсу не мешают пандемии и карантинные ограничения, он функционирует при любых условиях и доступен в любой точке мире.</em></p>
+<h2 align="center">Преимущества создания сайтов и других интернет-проектов нашей профессиональной командой</h2>
+<div><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="создание сайта ABCname" width="886" height="381" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/site-sozdanie-abcname.jpg" />Разработка сайтов любой сложности требует профессионального исполнителя, который предоставит грамотную верстку, оригинальный дизайн, надежное программирование, уникальный контент, быстрое и результативное продвижение в поисковых системах. Имея соответствующий уровень квалификации специалистов, мы гарантируем высокую производительность и комплексный подход по реализации проекта, который приведет в фирму заказчика тысячи потенциальных клиентов, увеличит ее товарооборот и обеспечит стабильно растущий доход любому бизнесу.</div>
+<blockquote>
+<p>В нашем "портфолио" наглядно представлены работы разной сложности, они демонстрируют способности всех сотрудников компании ABCname. В числе работ многофункциональные корпоративные сайты, сайты-каталоги, одностраничные ресурсы и прочие модели, предназначены для продуктивного продвижения предприятия в сети.</p>
+</blockquote>
+<h3 style="text-align: center;">Основные преимущества:</h3>
+<ul>
+<li>Компания находится на рынке по предоставлению IT-услуг более 15 лет, она имеет высокий рейтинг в интернет-маркетинге и рекламе;</li>
+<li>За весь период нашей деятельности у нас появилось больше 1000 благодарных клиентов в различных регионах страны и зарубежья, из них 98% - постоянные;</li>
+<li>Из всех отзывов о разработке сайтов нашей командой - 99% положительные, что говорит о высокой оценке заказчиками сданных нами проектов, свидетельствует о профессионализме и конкурентном преимуществе сотрудников студии ABCname. Это в свою очередь гарантирует нашим новым заказчикам наличие ответственного исполнителя при выборе студии;</li>
+<li>Работа по созданию современных сайтов ведется с использованием передовых технологий, стремительно меняющихся трендов по дизайну, требований по оптимизации поисковыми системами и других алгоритмов, позволяющих пользователям плодотворно взаимодействовать с содержимым веб-ресурса;</li>
+<li>Мы выполняем заказы любой сложности: от создания одностраничной визитки до Интернет магазина с CRM системой, которая позволяет до 40% увеличить прибыль вашего бизнеса и в несколько раз ускорить обработку полученных заявок;</li>
+<li>Выгодное и вполне обоснованное ценообразование. Оценка стоимости создания сайта делается на основе объема выполненных работ, сложности оформления и наличия функциональных возможностей. Все расходы рассчитываются и прописываются в договоре. Нашу финансовую надежность подтверждают службы безопасности клиентов.</li>
+</ul>
+<h2 align="center">Гарантии нашего сотрудничества при реализации интернет-проектов</h2>
+<p><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="гарантии при разработке сайтов" width="723" height="380" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/garantii-sozdaniya-saytov.jpg" />Наша студия по разработке и созданию сайтов не боится, что ее обвинят в плагиате дизайна или контента, недостаточной креативности или неудобном функционале. Многолетняя практика и профессионализм позволяют нам реализовать проекты различного масштаба, которые имеют высокую производительность, работают в круглосуточном режиме во всех странах мира на любом устройстве.</p>
+<blockquote>
+<p>Мы предлагаем своим клиентам не только формирование сайтов с нуля, но и их продвижение, техподдержку, профессиональное сервисное обслуживание и прочие решения нестандартных задач на всех этапах работы.</p>
+</blockquote>
+<h3 style="text-align: center;">Что вы получаете в итоге:</h3>
+<ul>
+<li>Уникальный дизайн, удобную для пользователей навигацию и проект, который по всем параметрам превосходит ресурсы ваших конкурентов. Он работает во всех браузерах и поддерживается всеми операционными системами;</li>
+<li>Максимальную скорость загрузки страниц, что влияет на конверсию, коэффициент посещаемости и другие ключевые показатели результативной работы веб-ресурса. К тому же, быстрооткрывающиеся сайты повышают удовлетворенность пользователей и они возвращаются снова и снова;</li>
+<li>Максимальное взаимодействие с поисковыми системами, которое значительно ускоряет поисковое продвижение;</li>
+<li>Различные стилевые решения при оформлении страниц, основанные на характеристиках, присущих целевой аудитории (классический, флеш-технологии, рисованный стиль, 3D моделирование, эффект параллакса, асимметричное пересечение и иные web-тренды, которые используются для всего сайта или отдельных его элементов);</li>
+<li>Видео и музыка проигрываются без flash-плеера, автоматически;</li>
+<li>Простой и безопасный ввод данных.</li>
+</ul>	
+		</div>	
+</div>
+<!-- consultfree/ancient --><!--
+[name: Consultfree]
+-->
+
+
+<div class="container clearfix how-create col-md-12 col-sm-12 col-xs-12">
+<form class="create-form col-xs-12" method="post" enctype="multipart/form-data" id="feedback_form">
+<input name="url" type="hidden" value="https://xn----7sbbaqhlkm9ah9aiq.net/">
+<h2 class="zh2 constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="howcreate" data-template-id="43">Бесплатная консультация</h2>
+<p class="add-main-title">наши специалисты перезвонят Вам в течении 15 минут</p>
+<div class="w-100">
+	<div class="form-container">
+		<div class="item">
+			<input type="text" id="name" name="name"  placeholder="ИМЯ" value="">
+		</div>
+		<div class="item mobile-middle-hidden">
+			<input type="text" id="email" name="email" placeholder="Ваш E-mail (необязательное поле)" value="">
+		</div>
+	</div>
+	<div class="form-container">
+		<div class="item">
+			<input type="tel" id="phone" name="phone" data-inputmask="'mask': '+38 (999)-999-99-99'" placeholder="Ваш телефон" value="">
+		</div>
+		<div class="mar-btn">
+			<div class="up-load-btn col-sm-12 col-xs-12 col-lg-7">
+				<label for="up-load">Прикрепить ТЗ, если есть<i></i></label>
+				<input type="file" id="up-load" name="upload">
+			</div>
+			<div class="pull-right">					
+				<input type="submit" name="submit" value="Заказать">
+				<p class="politika mobile-middle-hidden">Нажимая на кнопку, вы даете согласие на обработку персональных данных</p>
+			</div>
+		</div>
+	</div>
+</div>
+</form>
+</div>
+<!-- newstop/ancient --><!--
+[name: Newstop]
+[type: Статьи]
+[category: 9]
+[limit: 3]
+-->
+<div class="container section bg-white" id="latest-entries">
+	<h2 class="main-title aup align-center wow fadeIn constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="newstop" data-template-id="1" data-wow-delay="0.3s">Что нового в ABCname</h2>
+	<div class="blog-entries constructor-template" data-category-id="55" data-parent_id="0" data-template-type="grid" data-template-name="newsnew"> 
+		<div class="clearfix">
+												<div class="blog-entry clearfix blog-entry-top">
+				<article>
+					<figure class="wow fadeIn" data-wow-delay="0.5s">
+						<a href="https://xn----7sbbaqhlkm9ah9aiq.net/news-new/s-chego-nachat-sozdanie-sayta.html" class="blog-image"><img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/newsnew/newsnew/unnamed-2-small.jpg" alt="С чего начать создание сайта"></a>
+					</figure>
+					<div class="wrapper wow fadeIn" data-wow-delay="0.8s"> 
+						<a href="https://xn----7sbbaqhlkm9ah9aiq.net/news-new/s-chego-nachat-sozdanie-sayta.html"><h3>С чего начать создание сайта</h3></a> 
+																							</div>
+				</article>
+			</div>
+									<div class="blog-entry clearfix blog-entry-top">
+				<article>
+					<figure class="wow fadeIn" data-wow-delay="0.5s">
+						<a href="https://xn----7sbbaqhlkm9ah9aiq.net/news-new/dobavlenie-cdata-v-simplexmlelement.html" class="blog-image"><img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/newsnew/newsnew/cdata-logo-1200x630-960x504-small.jpg" alt="Добавление CDATA в SimpleXmlElement"></a>
+					</figure>
+					<div class="wrapper wow fadeIn" data-wow-delay="0.8s"> 
+						<a href="https://xn----7sbbaqhlkm9ah9aiq.net/news-new/dobavlenie-cdata-v-simplexmlelement.html"><h3>Добавление CDATA в SimpleXmlElement</h3></a> 
+																							</div>
+				</article>
+			</div>
+									<div class="blog-entry clearfix blog-entry-top">
+				<article>
+					<figure class="wow fadeIn" data-wow-delay="0.5s">
+						<a href="https://xn----7sbbaqhlkm9ah9aiq.net/news-new/textarea-avtomaticheskaya-nastroyka-visoti-ot-kolichestva-teksta.html" class="blog-image"><img class="lazy" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/images/newsnew/newsnew/maxresdefault-textarea-small.jpg" alt="Textarea автоматическая настройка высоты от количества текста"></a>
+					</figure>
+					<div class="wrapper wow fadeIn" data-wow-delay="0.8s"> 
+						<a href="https://xn----7sbbaqhlkm9ah9aiq.net/news-new/textarea-avtomaticheskaya-nastroyka-visoti-ot-kolichestva-teksta.html"><h3>Textarea автоматическая настройка высоты от количества текста</h3></a> 
+																							</div>
+				</article>
+			</div>
+						  
+		</div>
+	</div>
+	</div><!-- optimization/ancient --><!-- [name: Мета данные] [type: SEO оптимизация] -->
+<div class="container clearfix metadata constructor-template" data-category-id="1" data-template-type="form" data-template-name="optimization">
+			<div class="text-optimization padding-45">
+			<h2 class="aup" align="center">Что значит заказать создание сайта под ключ?</h2>
+<p style="text-align: center;"><span style="text-decoration: underline;">При заказе любого интернет-магазина, сайта для производителей и государственных организаций, сайта-визитки или эксклюзивного ресурса необходимо проведение следующих работ:</span></p>
+<ol>
+<li>Составление технического задания, где четко прописываются цели и задачи, необходимые для работы модули и функции, сроки изготовления и сдачи проекта заказчику, смета;</li>
+<li>Формирование уникального оформления, верстка и программирование, наполнение сайта качественным и уникальным контентом (тексты, видео, фото);</li>
+<li>Первичная оптимизация ресурса, обучение работы с сайтом;</li>
+<li>Техническая поддержка.</li>
+</ol>
+<p>Сотрудничая с нами, каждый заказчик в итоге получает готовый к выполнению своих задач интернет-продукт, где все опции качественно функционируют и не допускают ошибок, позволяя редактировать и добавлять информацию. А благодаря внедрению современной CRM-системы появилась возможность автоматизировать бизнес-процессы, интегрировать внутренние ресурсы организации с внешними маркетинговыми инструментами для сбора данных об удобных каналах коммуникации для заказчиков, обеспечения долгосрочного взаимодействия с клиентами, которое так важно для конструктивного развития фирмы, ее финансовой стабильности и дальнейшего расширения рынков.</p>
+<p><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="разработка модулей интеграции сайта" width="884" height="539" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/integraciya-sayta-abcname.jpg" /><em>Как видите, услуги по созданию сайтов под ключ - это целый ряд профессиональных и комплексных мероприятий, с которыми способные справиться только профессионалы. Они обеспечат необходимую интеграцию со сторонними программами, адаптивность сайта, большую конверсию и другие функции согласно вашим пожеланиям и требованиям бизнеса.</em></p>
+<h2 align="center">Как начинается сотрудничество с нами</h2>
+<p>На начальной фазе сотрудничества с клиентом заключается официальный договор NDA о неразглашении коммерческой информации, поэтому в конфиденциальности можете быть уверены. За каждым проектом закрепляется менеджер, который отвечает за весь объем работ по созданию сайта: ведение переговоров, заключение договоров, принятие идеи в производство, контроль по техническому исполнению, завершающие этапы сотрудничества. Все обсуждения с заказчиком проходят при личной встрече или в удаленном режиме.</p>
+<blockquote>
+<p>Согласно типовому договору, заказчик предоставляет исполнителю необходимую информацию, утверждает разработанное совместно с ним ТЗ и подготовленный исполнителем макет адаптивного сайта. Договор вступает в силу с момента его подписания обеими сторонами и действует до момента выполнения обязательств.</p>
+</blockquote>
+<p>Исполнитель оставляет за собой право на размещение в нижней части главной страницы сданного им проекта ссылку на сайт разработчика.</p>
+<h3>Мы работаем по всем регионам Украины:</h3>
+<ul>
+<li><a href="/sozdanie-saytov-ukraine/vinnitsa/" target="_blank" rel="noopener">Создание сайта в Виннице</a></li>
+<li><a href="/sozdanie-saytov-ukraine/lutsk/" target="_blank" rel="noopener">Создание веб-сайтов в Луцке</a></li>
+<li><a href="/sozdanie-saytov-ukraine/dnept/" target="_blank" rel="noopener">Создание корпоративного сайта в Днепре</a></li>
+<li><a href="/sozdanie-saytov-ukraine/donetsk/" target="_blank" rel="noopener">Создание сайтов в Донецке</a></li>
+<li><a href="/sozdanie-saytov-ukraine/zhitomir/" target="_blank" rel="noopener">Создание веб-сайта в Житомире</a></li>
+<li><a href="/sozdanie-saytov-ukraine/uzgorod/" target="_blank" rel="noopener">Создание сайта в Ужгороде</a></li>
+<li><a href="/sozdanie-saytov-ukraine/zaporoge/" target="_blank" rel="noopener">Создание сайта в Запорожье</a></li>
+<li><a href="/sozdanie-saytov-ukraine/ivano-frankovsk/" target="_blank" rel="noopener">Изготовление сайта в Ивано-Франковске</a></li>
+<li><a href="/sozdanie-saytov-ukraine/kiev/" target="_blank" rel="noopener">Создание сайта в Киеве</a></li>
+<li><a href="/sozdanie-saytov-ukraine/kirovograd/">Создание сайта в Кропивницком</a></li>
+<li><a href="/sozdanie-saytov-ukraine/lvov/" target="_blank" rel="noopener">Создание сайта во Львове</a></li>
+<li><a href="/sozdanie-saytov-ukraine/nikolaev/" target="_blank" rel="noopener">Создание сайта в Николаеве</a></li>
+<li><a href="/sozdanie-saytov-ukraine/odessa/" target="_blank" rel="noopener">Создание сайта в Одессе</a></li>
+<li><a href="/sozdanie-saytov-ukraine/poltava/" target="_blank" rel="noopener">Создание сайта в Полтаве</a></li>
+<li><a href="/sozdanie-saytov-ukraine/rovno/" target="_blank" rel="noopener">Создание сайта в Ровно</a></li>
+<li><a href="/sozdanie-saytov-ukraine/sumy/" target="_blank" rel="noopener">Создание сайта в Сумах</a></li>
+<li><a href="/sozdanie-saytov-ukraine/ternopol/" target="_blank" rel="noopener">Создание сайта в Тернополе</a></li>
+<li><a href="/sozdanie-saytov-ukraine/kharkov/" target="_blank" rel="noopener">Создание сайта в Харькове</a></li>
+<li><a href="/sozdanie-saytov-ukraine/herson/" target="_blank" rel="noopener">Создание сайта в Херсоне</a></li>
+<li><a href="/sozdanie-saytov-ukraine/khmelnitsky/" target="_blank" rel="noopener">Создание интернет сайта в Хмельницком</a></li>
+<li><a href="/sozdanie-saytov-ukraine/chernigov/" target="_blank" rel="noopener">Создание сайта в Чернигове</a></li>
+<li><a href="/sozdanie-saytov-ukraine/chernovtsy/" target="_blank" rel="noopener">Создание веб сайта в Черновцах</a></li>
+<li><a href="/sozdanie-saytov-ukraine/cherkasy/" target="_blank" rel="noopener">Создание web сайта в Черкассах</a></li>
+</ul>
+<h2 align="center">Основные требования к формированию сайта</h2>
+<p>Целью создания сайтов в Украине под ключ, будь то разработка сайтов обучения или сайтов фирм, предоставляющих другие виды услуг, является формирование интернет-платформы и превращение ее в максимально полезный инструмент для решения важных бизнес-процессов, в механизм, который беспрерывно будет раскручивать и развивать коммерческую инициативность.</p>
+<p>Чтобы добиться этого, нужно четко поставить перед сайтом функциональные задачи, предварительно определиться с выбором профессиональной сферы и правильной целевой аудитории. Если выбранная тематика хорошо вам знакома, имеет спрос и будет приносить вам удовольствие, значит у вас будет мотивация к развитию и завоеванию новых рыночных территорий.<br /><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="аудит создания сайта" width="872" height="416" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/audit-sozdaniya-sayta.jpg" /></p>
+<h3>Изучение ниши</h3>
+<p>Правильное определение ниши подразумевает наличие покупателей, готовых платить за предлагаемый продукт или услуги. И для того, чтобы малому и среднему бизнесу отстроиться от конкурентов, выйти в онлайн и зарабатывать больше, нужно проводить максимальное исследование рыночной ниши, в которой собираетесь реализоваться. Здесь целесообразно использовать такие методы, как опросы, изучение и анализ конкурентов, определение их маркетинговой стратегии, анализ покупательской способности, потребностей и спроса со стороны пользователей, исследование ключевых фраз с помощью инструментов поисковых систем, оценка трафика. Это делается для того, чтобы правильно рассчитать финансовые затраты и вложить средства в идею, которая в дальнейшем будет приносить прибыль. При выборе сферы деятельности следует учитывать сезонный фактор и ориентироваться на такую нишу, которая востребована в любое время года.</p>
+<blockquote>
+<p>На основе такого анализа мы сможем предложить необходимые инструменты для плодотворного ведения коммерции, отслеживания заказов, анализа поведенческих факторов посетителей, повышения посещаемости и доходности в целом.</p>
+</blockquote>
+<h3>Выбор интернет-проекта для вашего предприятия</h3>
+<p>Если с нишей определились, подбираем выгодную для вас интернет-платформу. Этот пункт во многом определяет целевая аудитория, на которую будет ориентирован ресурс. Детально разобрав то, для людей какого возраста и пола, места проживания, социального и финансового уровня будет разработан ресурс, можно создать максимально эффективный сайт с высоким уровнем посещаемости и доходности. Это может быть интернет-магазин, сайт-каталог, информационный портал или целевая страница. Некоторым из представленных моделей свойственно быть похожими по своей конструкции, но они отличаются поставленными задачами. <em>Давайте более подробно разберем задачи и функции сайтов, чтобы понять какой интернет-инструмент выбрать для вашей ниши.</em></p>
+<h3><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="создание интернет магазина" width="803" height="518" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/online-shop-create.jpg" />Создание интернет-магазина</h3>
+<p>Это открытие онлайн-бизнеса с выгодной подачей товаров, мобильной оптимизацией, удобным механизмом управления заказами, профессиональным управлением акциями и скидками. Такая платформа позволяет регистрировать покупателей, предоставлять им прайс-лист, каталог, электронную корзину, выбор метода оплаты, резервирование на складе и другую онлайн-помощь, делающую покупку быстрой и полезной.</p>
+<blockquote>
+<p>Функции интернет-магазина, созданного профессионалами, включают множество полезных модулей: фильтры товаров по характеристикам, принцип обновления изделий, информационные рассылки, методы обратной связи, интеграция с 1С и складом, покупка в несколько кликов, мобильная версия и прочие опции. Их необходимость обсуждается с заказчиком при составлении ТЗ.</p>
+</blockquote>
+<p>Понятно, что при таком арсенале, ваш сайт максимально будет пополнять клиентскую базу и увеличивать доходность предприятия.</p>
+<h3>СОЗДАЕМ ИНТЕРНЕТ-МАГАЗИНЫ ДЛЯ РЕГИОНОВ УКРАИНЫ:</h3>
+<ul>
+<li><a href="/sozdanie-internet-magazinov-ukraine/vinnitsa/" target="_blank" rel="noopener">Разработка Интернет магазина в Виннице</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/lutsk/" target="_blank" rel="noopener">Разработка Интернет магазина в Луцке</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/dnept/" target="_blank" rel="noopener">Разработка Интернет магазина в Днепре</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/donetsk/" target="_blank" rel="noopener">Разработка Интернет магазина в Донецке</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/zhitomir/" target="_blank" rel="noopener">Разработка Интернет магазина в Житомире</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/uzgorod/" target="_blank" rel="noopener">Разработка Интернет магазина в Ужгороде</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/zaporoge/" target="_blank" rel="noopener">Разработка Интернет магазина в Запорожье</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/ivano-frankovsk/" target="_blank" rel="noopener">Разработка Интернет магазина в Ивано-Франковске</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/kiev/" target="_blank" rel="noopener">Разработка Интернет магазина в Киеве</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/kirovograd/">Разработка Интернет магазина в Кропивницком</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/lvov/" target="_blank" rel="noopener">Разработка Интернет магазина во Львове</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/nikolaev/" target="_blank" rel="noopener">Разработка Интернет магазина в Николаеве</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/odessa/" target="_blank" rel="noopener">Разработка Интернет магазина в Одессе</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/poltava/" target="_blank" rel="noopener">Разработка Интернет магазина в Полтаве</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/rovno/" target="_blank" rel="noopener">Разработка Интернет магазина в Ровно</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/sumy/" target="_blank" rel="noopener">Разработка Интернет магазина в Сумах</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/ternopol/" target="_blank" rel="noopener">Разработка Интернет магазина в Тернополе</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/kharkov/" target="_blank" rel="noopener">Разработка Интернет магазина в Харькове</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/herson/" target="_blank" rel="noopener">Разработка Интернет магазина в Херсоне</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/khmelnitsky/" target="_blank" rel="noopener">Разработка Интернет магазина в Хмельницком</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/chernigov/" target="_blank" rel="noopener">Разработка Интернет магазина в Чернигове</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/chernovtsy/" target="_blank" rel="noopener">Разработка Интернет магазина в Черновцах</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/cherkasy/" target="_blank" rel="noopener">Разработка Интернет магазина в Черкассах</a></li>
+<li><a href="/sozdanie-internet-magazinov-ukraine/krivoy-rog/" target="_blank" rel="noopener">Разработка Интернет магазина в Кривом рогу</a></li>
+</ul>
+<p>&nbsp;</p>
+<h3>Создание корпоративного сайта</h3>
+<p>Это формирование одного из самого мощного инструмента для решения задач коммерческого и некоммерческого предприятия, которые часто нуждаются в необходимости обеспечить корпоративную культуру внутри предприятия.</p>
+<p>У этого сайта большие амбиции и возможности, позволяющие завоевывать новые ниши, выходить на международный рынок, поддерживать взаимосвязь как с клиентами, так и с партнерами, вести рабочие процессы внутри фирмы, обеспечивать внутреннее общение сотрудников, продавать и рекламировать. Такой ресурс формирует положительный имидж организации и укрепляет ее позиции на рынке, при этом он может содержать любой объем контента. В его структуре может присутствовать электронная торговая площадка.</p>
+<h3>Создание сайта-визитки</h3>
+<p>Это модель коммерческого вида сайта, необходимо для привлечения клиентов. Он требует минимальных затрат, имеет простую навигацию и администрирование, но при этом успешно позиционирует компанию в сети интернета, повышает ее статус, формирует положительный имидж и позволяет донести до потенциального потребителя необходимую информацию, включая и контактные данные. Такие ресурсы пользуются большим успехом у небольших фирм, юристов, психологов или тех, кто продает авторские работы.<br /><br /><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="создание сайта визитки" width="696" height="485" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/sayt-vizitka.jpg" /></p>
+<p>Преимущество заказа сайта-визитки в том, что при минимальном вложении у него присутствует прекрасная возможность путем внедрения дополнительных опций превратить его в полноценный многофункциональный ресурс. Такая необходимость может возникнуть, если ваше предприятие развивается и увеличивает перечень предоставляемого сервиса.</p>
+<h3>Разработка сайта-каталога</h3>
+<p>Он представлен в виде самостоятельного информационного интернет-инструмента, где предлагаемая продукция расположена в одном списке и даже может быть разделена на определенные категории. В каталоге обязательно присутствует основная страница с перечнем ассортиментного ряда, а также контактные данные, с помощью которых клиент сможет связаться с вашим представителем. В случае коммерческой необходимости, такой ресурс снабжается дополнительными модулями, новостной лентой. Для его управления предусмотрена безопасная CMS, позволяющая заказчику самостоятельно редактировать/добавлять контент и графические материалы.</p>
+<h3>Создание целевой страницы</h3>
+<p>Это специальные веб-ресурсы, которые направлены на то, чтобы собирать контактные данные своей пользовательской аудитории. Они содержат различную информацию об ассортименте и сфере деятельности организации, позволяют удваивать выгоду с рекламы. Организация таких сайтов используется для того, чтобы расширять свою аудиторию и находить новых пользователей. Многие рекламные кампании выбирают именно этот способ для своего развития, поскольку он предполагает различные способы подачи информации для пользователей, включая рассылку по электронной почте.</p>
+<p><em>Помните, любая из представленных моделей сайта - это круглосуточная реклама вашей продукции или услуг, максимально подробное и актуальное оповещение нужной для развития компании информации, автоматизация процессов и разгрузка ваших сотрудников. Это увеличение клиентской базы и рост доходности от вашего предпринимательского участия.</em></p>
+<h2 align="center">Основные требования к выбору доменного имени при разработке сайта</h2>
+<p><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="выбор домена при создании сайта" width="821" height="230" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/vibor-domena-razrabotka.jpg" />Помимо названия для своей коргаизации следует позаботиться о выборе доменного имени, поскольку название веб-ресурса играет важную роль в формировании положительного впечатления у пользователей. К основным критериям при выборе домена относятся простота и легкость при написании. Имя не должно быть слишком большим, иначе пользователю будет сложно его запомнить и написать на транслите.</p>
+<p>На интенсивность продвижения сайта во многом влияет доменная зона. Именно она определяет то, на каких территориях будет распространен сайт. Как показывает практика, в этом вопросе не нужно экономить. Лучше взять в аренду домен из основных зон, чтобы иметь возможность занимать первые места при выдаче запросов поисковиками. Чтобы обеспечить для своего проекта уникальное название, проверяйте его на занятость. В настоящее время в Интернете доступно немалое количество сайтов, которые позволяют это сделать.</p>
+<h2 align="center">Семантическое ядро и интенсивность продвижения проекта в Интернете</h2>
+<p><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="семантическое ядро" width="749" height="433" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/semanticheskoe-yadro.jpg" />Создание семантического ядра является одним из самых важных процессов формирования любого сайта. Прежде всего это подбор ряда тематически приближенных к деятельности ресурса поисковых слов, которые будут способствовать его продвижению в дальнейшем. Чтобы это сделать, можно воспользоваться помощью SEO-специалистов в веб-студии или же прибегнуть к планировщикам ключевых слов. Пройти этот путь можно и самостоятельно, дополнительно осуществив кластеризацию, которая минимизирует уровень возможных ошибок при продвижении.</p>
+<p><em>Мнение многих специалистов сходится в том, что выгодней создавать семантическое ядро для каждой отдельной страницы сайта, но существует возможность выполнения этой процедуры и для всего ресурса. Важно, чтобы подобранные ключевые слова не содержали грамматических ошибок и максимально соответствовали тематике созданного сайта.</em></p>
+<h2 align="center">Концепция разработки сайта и его внешний вид</h2>
+<h3>Структура сайта</h3>
+<p>Сайт должен быть интуитивно понятен для каждого посетителя. Поэтому необходимо грамотно структурировать все его разделы и блоки, и только после этого браться за наполнение ресурса контентом. Если создание сайта будет ориентировано на продажу товаров, то потенциальный клиент должен иметь возможность легко и быстро получать доступ ко всем интересующим его характеристикам и информации, касающейся условий доставки. Поэтому разделы обязаны содержать дополнительные подразделы. Для максимально комфортного пребывания на сайте каждый посетитель должен понимать, в какой его части он находится в определенный момент.</p>
+<p>При разработке веб-ресурса нужно учитывать, что страницы, посвященные какому-либо отдельно взятому блоку или разделу, должны располагать логичной и последовательной структурой. В приоритете остаются такие элементы, как УТП, фото, цена, описание и обязательно призыв к покупке. Это первое, что должен увидеть человек, зашедший на сайт. Если же это не интернет-магазин, а информационный портал, то он должен быть структурирован таким образом, чтобы самая свежая и интересная информация была на главной странице и бросалась читателю в глаза в первую очередь. Добиться положительного впечатления у посетителя веб-ресурса можно правильно отструктурировав блоки и разделы.</p>
+<h3>Цветовая гамма</h3>
+<p>Большое значение при формировании сайта, интернет-магазина или иного интернет-проекта имеет выбранная цветовая гамма, оттенки которой сочетаются между собой и не акцентируют на себе особое внимание. Не следует окрашивать фон тектса в красный или зеленый цвета, поскольку они выглядят очень вызывающе и провоцируют появление негативных реакций у пользователей. Выбирайте нейтральные базовые оттенки светлых тонов. Они не агрессивные и нравятся почти всем пользователям. Если у Вас возникают трудности с подбором цветов, то можно воспользоваться специальными ресурсами, которые осуществляют автоматический подбор нужных оттенков.</p>
+<p><em>Что касается шрифта, то он не требует соответствия каким-либо жестким критериям. Главное, чтобы он не был слишком большим или слишком маленьким, а его цвет не вызывал негативные эмоции у потенциальных клиентов. В том случае, если владелец сайта позиционирует свой ресурс как серьезную интернет-платформу, то отдать предпочтение необходимо классическому типу шрифтов.</em></p>
+<h3>Расширение функционала веб-ресурса и его наполнение контентом</h3>
+<p><img class="lazy" style="display: block; margin-left: auto; margin-right: auto;" alt="наполнение сайта контентом" width="850" height="471" data-src="https://xn----7sbbaqhlkm9ah9aiq.net/upload/sozdanie-sayta-kontant.jpg" />При разработке интернет-ресурса большое значение уделяется верстке, позволяющей из обычной картинки сайта сделать живой и динамичный ресурс, который можно просматривать в браузерах с различных видов устройств. Основная проблема, с которой сталкиваются на этой ступеньке работ &ndash; это неудобное или некорректное отображение всех разделов. Очень часто сайт, который сверстали для одного браузера, может неправильно открываться на других. Причина этого кроется в том, что все они создаются с учетом разных требований и технологий, поэтому разрабатываемый веб-ресурс обязан быть кроссбраузерным, а также адаптивным. Уделив особое внимание верстке, можно разработать по-настоящему многофункциональный и интересный сайт.</p>
+<p>Перед тестированием готового веб-ресурса происходит его наполнение уникальным и полезным контентом. Он должен максимально соответствовать общей тематике сайта и быть информативным для пользователей.</p>
+<blockquote>
+<p>Успешное SEO-продвижение во многом определяется именно тем, как наполнен сайт, и насколько правильно составлено и упорядочено семантическое ядро.</p>
+</blockquote>
+<p><em>Очевидным является тот факт, что бесполезная информация оттолкнет читателей и подавит желание вернуться на сайт снова.</em></p>
+<p>Несмотря на всю сложность процесса, успешная реализация основных стадий по формированию сайта позволит создать мощный ресурс, который оправдает возложенные на него ожидания. Перед началом разработки веб-проекта необходимо тщательно продумать его концепцию, прототип, составить список тех задач, которые он должен будет выполнять. И только после этого приступать к технической части, заказать которую можно в профессиональных специалистов компании ABCname.</p>
+<p><span style="text-decoration: underline;">Дополнительные разделы сайта:</span></p>
+<ul>
+<ul>
+<ul>
+<li style="text-align: left;"><a href="/services/">Услуги ABCname</a></li>
+<li style="text-align: left;"><a href="/portfolio/">Старые проекты</a></li>
+<li style="text-align: left;"><a href="/video-reviews/">Отзывы</a></li>
+</ul>
+</ul>
+</ul>
+<p>&nbsp;</p>		</div>
+	</div>
+<!-- benefits/ancient --><!--
+[name: benefits]
+-->
+<!-- micromarking/ancient --><!--
+[name: Micromarking]
+[type: SEO] 
+[mtype: WebSite,Organization,BreadcrumbList]
+-->
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://xn----7sbbaqhlkm9ah9aiq.net/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://xn----7sbbaqhlkm9ah9aiq.net/?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "url": "https://xn----7sbbaqhlkm9ah9aiq.net/",
+        "logo": "https://xn----7sbbaqhlkm9ah9aiq.net/images/logo-dark.png"
+        		, "contactPoint": [
+					                        {
+                            "@type": "ContactPoint",
+                            "telephone": "+38 096 662 27 41",
+                            "contactType": "customer service"
+                        }
+						,
+					                        {
+                            "@type": "ContactPoint",
+                            "telephone": "+38 063 482 32 00",
+                            "contactType": "customer service"
+                        }
+																
+                    ]
+				        , "sameAs": ["https://www.youtube.com/channel/UC0FiM_oGRSdx0YO8Mlr3iUg"]
+		    }
+</script>
+
+
+ 
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+						{
+			"@type": "ListItem",
+			"position": 1,
+			"item":
+				{
+					"@id": "https://xn----7sbbaqhlkm9ah9aiq.net/",
+					"name": "Дизайн студия по созданию сайтов"
+				}
+			},
+			{
+			"@type": "ListItem",
+			"position": 2,
+			"item":
+				{
+					"@type": "WebPage",
+					"@id": "https://xn----7sbbaqhlkm9ah9aiq.net/#sozdanie-sayta",
+					"name": "Создание сайта"
+				}			
+			},
+			{
+			"@type": "ListItem",
+			"position": 3,
+			"item":
+				{
+					"@type": "WebPage",
+					"@id": "https://xn----7sbbaqhlkm9ah9aiq.net/#razrabotka-sayta",
+					"name": "Разработка веб проектов"
+				}
+			}
+					]
+    }
+</script>
+
+
+    </div>
+</main>
+
+<div style="display: none" id="list-slogans">
+    <div class="active"><strong>STUNNING</strong> WEB DESIGN</div>
+    <div><strong>LOREM</strong> IPSUM</div>
+</div>
+
+<footer role="contentinfo" id="footer">
+	<div id="block_3"><!-- [block: block_3] -->
+	<!-- footernew/ancient --><!--
+[name: footernew]
+-->
+<div class="container clearfix">
+	<div class="info" itemscope itemtype="https://schema.org/Organization">
+		<div class="col-1_3" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <img itemprop="image" class="aligncenter img-responsive lazy" data-src="/images/icon-Footer-Address.png" width="48" height="48" alt="Адрес">
+			<h4 class="title" itemprop="name">Адрес</h4>
+			<div itemprop="streetAddress" class="constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="footernew" data-template-id="1">	
+			Офисы в городах: <span class="alt-font"><a href="https://xn----7sbbaqhlkm9ah9aiq.net/contacts-new/contacts-kiev/">Киев</a>, <a href="https://xn----7sbbaqhlkm9ah9aiq.net/contacts-new/contacts-vinnitsa/">Винница</a>, <a href="https://xn----7sbbaqhlkm9ah9aiq.net/contacts-new/contacts-dnepr/">Днепр</a>, <a href="https://xn----7sbbaqhlkm9ah9aiq.net/contacts-new/contacts-zhitomir/">Житомир</a></span><br>
+<span style="font-size:14px;line-height:1;display: inline-block;">с другими регионами работаем онлайн по договору с оплатой на официальные реквизиты.</span>			</div>
+		</div>
+		<div class="col-1_3"> <img itemprop="image" class="aligncenter img-responsive lazy" data-src="/images/icon-Footer-Phone.png" width="48" height="48" alt="Телефон">
+			<h4 class="title" itemprop="name">Телефон</h4> <span itemprop="telephone" class="alt-font constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="footernew" data-template-id="2">
+			<a href="tel:+380966622741">(096) 662-27-41</a><br><a href="tel:+380634823200">(063) 482-32-00</a>						</span> 
+		</div>
+		<div class="col-1_3"> <img class="aligncenter img-responsive lazy" data-src="/images/icon-Footer-Email.png" width="48" height="48" alt="E-mail">
+		<h4 class="title">Email</h4> 
+		<a href="mailto:info@abcname.net" itemprop="email">info@abcname.net</a>		
+		</div>
+	</div>
+	
+	<ul class="breadcrumbs" xmlns="https://www.w3.org/1999/xhtml" xmlns:v="https://rdf.data-vocabulary.org/#">
+	
+              <li class="active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a itemprop="item" title="Главная" href="https://xn----7sbbaqhlkm9ah9aiq.net/">
+			<span class="current" itemprop="name">Главная</span>
+		</a>
+		<meta itemprop="position" content="1" />
+      </li>	
+	  	  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a itemprop="item" href="https://xn----7sbbaqhlkm9ah9aiq.net/#abcname">
+			<span class="current" itemprop="name">Создание сайтов для Бизнеса</span>
+		</a>
+		<meta itemprop="position" content="1" />
+      </li>	
+	            
+    	</ul>
+	
+	<div class="social-media constructor-template" data-category-id="1" data-template-type="template-interface" data-template-name="footernew" data-template-id="1">
+				<a href="viber://chat?number=%2B380634823200" title="viber"><img src="/images/viber.svg" width="42" height="42"></a>
+		<a href="https://telegram.me/ABCnameAndrey" title="telegram"><img src="/images/tele.svg" width="42" height="42"></a>
+		<a href="https://wa.me/380634823200?text=Здравствуйте.%20Вопрос%20по%20поводу%20сайта." title="whatsapp"><img src="/images/whatsapp.svg" width="40" height="40"></a>
+	</div> 
+	 
+	<div class="langs">
+			
+								<span class="active"><a href="/">Русский</a></span>
+									
+		<span class=""><a href="https://xn----7sbbaqhlkm9ah9aiq.net/ua/">Українська</a></span>
+							
+	</div>
+		<small id="copyright">&copy; <span class="alt-font">2007-2022</span> Все права защищены.</small> 
+</div>
+
+<div id="water-effect">
+	<canvas id="water-spring"></canvas>
+</div><!-- [name: Счетчики] [type: SEO оптимизация]-->
+<div style="display: none;">
+
+<!-- hit.ua -->
+<a href='https://hit.ua/?x=52141' target='_blank'>
+<script language="javascript" type="text/javascript"><!--
+Cd=document;Cr="&"+Math.random();Cp="&s=1";
+Cd.cookie="b=b";if(Cd.cookie)Cp+="&c=1";
+Cp+="&t="+(new Date()).getTimezoneOffset();
+if(self!=top)Cp+="&f=1";
+//--></script>
+<script language="javascript1.1" type="text/javascript"><!--
+if(navigator.javaEnabled())Cp+="&j=1";
+//--></script>
+<script language="javascript1.2" type="text/javascript"><!--
+if(typeof(screen)!='undefined')Cp+="&w="+screen.width+"&h="+
+screen.height+"&d="+(screen.colorDepth?screen.colorDepth:screen.pixelDepth);
+//--></script>
+<script language="javascript" type="text/javascript"><!--
+Cd.write("<img src='//c.hit.ua/hit?i=52141&g=0&x=4"+Cp+Cr+
+"&r="+escape(Cd.referrer)+"&u="+escape(window.location.href)+
+"' border='0' width='88' height='15' "+
+"alt='hit.ua: посетителей за сегодня' title='hit.ua: посетителей за сегодня'/>");
+//--></script>
+<noscript>
+<img src='//c.hit.ua/hit?i=52141&amp;g=0&amp;x=4' border='0' width='88' height='15' alt='hit.ua: посетителей за сегодня' title='hit.ua: посетителей за сегодня'/>
+</noscript></a>
+<!-- / hit.ua -->
+
+
+<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t52.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров и"+
+" посетителей за 24 часа' "+
+"border='0' width='88' height='31'><\/a>")
+</script><!--/LiveInternet-->
+
+<!-- Begin Verbox {literal} -->
+<script type='text/javascript'>
+	(function(d, w, m) {
+		window.supportAPIMethod = m;
+		var s = d.createElement('script');
+		s.type ='text/javascript'; s.id = 'supportScript'; s.charset = 'utf-8';
+		s.async = true;
+		var id = 'd47cd179c3a419e1dd1a4d2d6a1cc375';
+		s.src = 'https://admin.verbox.ru/support/support.js?h='+id;
+		var sc = d.getElementsByTagName('script')[0];
+		w[m] = w[m] || function() { (w[m].q = w[m].q || []).push(arguments); };
+		if (sc) sc.parentNode.insertBefore(s, sc); 
+		else d.documentElement.firstChild.appendChild(s);
+	})(document, window, 'Verbox');
+</script>
+<!-- {/literal} End Verbox -->
+</div>
+
+	</div>
+</footer>
+
+<noscript id="deferred-styles">
+<link rel="stylesheet" href="/upload/242536.css" /></noscript>
+<script>
+  var loadDeferredStyles = function() {
+	var addStylesNode = document.getElementById("deferred-styles");
+	var replacement = document.createElement("div");
+	replacement.innerHTML = addStylesNode.textContent;
+	document.body.appendChild(replacement)
+	addStylesNode.parentElement.removeChild(addStylesNode);
+  };
+  var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+	  window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+  else window.addEventListener('load', loadDeferredStyles);
+  
+  
+  document.addEventListener("DOMContentLoaded", function() {
+  var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+
+  if ("IntersectionObserver" in window) {
+    let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          let lazyImage = entry.target;
+          lazyImage.src = lazyImage.dataset.src;
+          lazyImage.classList.remove("lazy");
+          lazyImageObserver.unobserve(lazyImage);
+        }
+      });
+    });
+
+    lazyImages.forEach(function(lazyImage) {
+      lazyImageObserver.observe(lazyImage);
+    });
+  } else {
+    // Possibly fall back to a more compatible method here
+  }
+});
+  
+</script>
+
+<!--[if IE]> <script src="/js/html5.js"></script> <link rel="stylesheet" media="all" href="/css/ie_min.css"><![endif]--><!--[if IE 9]> <link rel="stylesheet" media="all" href="/css/ie9_min.css"><![endif]--><!-- css3-mediaqueries.js for IE less than 9 --><!--[if lt IE 9]><script src="/js/css3-mediaqueries.js"></script><![endif]-->
+<script async defer src='/js/scripts.js'></script>
+</body>
+</html>

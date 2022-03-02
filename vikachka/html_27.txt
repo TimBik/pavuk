@@ -1,0 +1,1384 @@
+<!DOCTYPE html><html
+lang=ru-RU id=main_html><head><style>img.lazy{min-height:1px}</style><link
+rel=preload href=https://rbs-crm.ru/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js as=script><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel=profile href=http://gmpg.org/xfn/11><link
+rel=pingback href=https://rbs-crm.ru/xmlrpc.php><link
+href="https://fonts.googleapis.com/css?family=Open+Sans" rel=stylesheet><link
+href="https://fonts.googleapis.com/css?family=Exo+2" rel=stylesheet><meta
+name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'><title>СRM система, ERP система, автоматизация бизнес-процессов</title><meta
+name="description" content="CRM система для малого и среднего бизнеса с возможностью гибкой настройкой и глубоким внедрением. Полная интеграция с 1С: Предриятие. Качественная поддержка"><meta
+property="og:locale" content="ru_RU"><meta
+property="og:type" content="website"><meta
+property="og:title" content="СRM система, ERP система, автоматизация бизнес-процессов"><meta
+property="og:description" content="CRM система для малого и среднего бизнеса с возможностью гибкой настройкой и глубоким внедрением. Полная интеграция с 1С: Предриятие. Качественная поддержка"><meta
+property="og:url" content="https://rbs-crm.ru/"><meta
+property="og:site_name" content="РосБизнесСофт CRM"><meta
+property="article:publisher" content="https://www.facebook.com/rbscrm/"><meta
+property="article:modified_time" content="2021-12-09T13:58:28+00:00"><meta
+name="twitter:card" content="summary_large_image"><meta
+name="twitter:site" content="@rbs_crm"><meta
+name="twitter:label1" content="Примерное время для чтения"><meta
+name="twitter:data1" content="7 минут"> <script type=application/ld+json class=yoast-schema-graph>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rbs-crm.ru/#organization","name":"\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u0421\u043e\u0444\u0442","url":"https://rbs-crm.ru/","sameAs":["https://www.facebook.com/rbscrm/","https://www.youtube.com/user/rosbiznessoft","https://twitter.com/rbs_crm"],"logo":{"@type":"ImageObject","@id":"https://rbs-crm.ru/#logo","inLanguage":"ru-RU","url":"https://rbs-crm.ru/wp-content/uploads/2020/04/logo_rbs_invers_1.png","contentUrl":"https://rbs-crm.ru/wp-content/uploads/2020/04/logo_rbs_invers_1.png","width":1194,"height":215,"caption":"\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u0421\u043e\u0444\u0442"},"image":{"@id":"https://rbs-crm.ru/#logo"}},{"@type":"WebSite","@id":"https://rbs-crm.ru/#website","url":"https://rbs-crm.ru/","name":"\u0420\u043e\u0441\u0411\u0438\u0437\u043d\u0435\u0441\u0421\u043e\u0444\u0442 CRM","description":"\u041c\u043e\u0449\u043d\u0430\u044f CRM \u0434\u043b\u044f \u0441\u0435\u0440\u044c\u0435\u0437\u043d\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430","publisher":{"@id":"https://rbs-crm.ru/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://rbs-crm.ru/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://rbs-crm.ru/#webpage","url":"https://rbs-crm.ru/","name":"\u0421RM \u0441\u0438\u0441\u0442\u0435\u043c\u0430, ERP \u0441\u0438\u0441\u0442\u0435\u043c\u0430, \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432","isPartOf":{"@id":"https://rbs-crm.ru/#website"},"about":{"@id":"https://rbs-crm.ru/#organization"},"datePublished":"2017-04-13T07:28:20+00:00","dateModified":"2021-12-09T13:58:28+00:00","description":"CRM \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0434\u043b\u044f \u043c\u0430\u043b\u043e\u0433\u043e \u0438 \u0441\u0440\u0435\u0434\u043d\u0435\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430 \u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0433\u0438\u0431\u043a\u043e\u0439 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u043e\u0439 \u0438 \u0433\u043b\u0443\u0431\u043e\u043a\u0438\u043c \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435\u043c. \u041f\u043e\u043b\u043d\u0430\u044f \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u044f \u0441 1\u0421: \u041f\u0440\u0435\u0434\u0440\u0438\u044f\u0442\u0438\u0435. \u041a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430","breadcrumb":{"@id":"https://rbs-crm.ru/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://rbs-crm.ru/"]}]},{"@type":"BreadcrumbList","@id":"https://rbs-crm.ru/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"\u0413\u043b\u0430\u0432\u043d\u0430\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430"}]}]}</script> <link
+rel=dns-prefetch href=//fonts.googleapis.com><link
+rel=alternate type=application/rss+xml title="РосБизнесСофт CRM &raquo; Лента" href=https://rbs-crm.ru/feed/ ><link
+rel=alternate type=application/rss+xml title="РосБизнесСофт CRM &raquo; Лента комментариев" href=https://rbs-crm.ru/comments/feed/ ><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/57e1b.css media=all><style id=ssb-ui-style-inline-css>#ssb-btn-0{background:#fff}#ssb-btn-0:hover{background:rgba(255,255,255,0.9)}#ssb-btn-0
+a{color:#444}.ssb-share-btn,.ssb-share-btn .ssb-social-popup{background:#fff;color:#444}.ssb-share-btn:hover{background:rgba(255,255,255,0.9)}.ssb-share-btn
+a{color:#444 !important}#ssb-btn-1{background:#fff}#ssb-btn-1:hover{background:rgba(255,255,255,0.9)}#ssb-btn-1
+a{color:#444}#ssb-btn-4{background:#fff}#ssb-btn-4:hover{background:rgba(255,255,255,0.9)}#ssb-btn-4
+a{color:#444}</style><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/2c748.css media=all><link
+rel=stylesheet id=stm_default_google_font-css  href='https://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C400i%2C500%2C600%2C700%2C800%2C900%7CExo+2%3A100%2C200%2C300%2C400%2C400i%2C500%2C600%2C700%2C800%2C900&#038;ver=3.1.3#038;subset=latin%2Clatin-ext' type=text/css media=all><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/ddc11.css media=all><style id=pearl-theme-styles-inline-css>.stm_titlebox:after{background-color:#f00}.stm_titlebox .stm_titlebox__title,
+.stm_titlebox .stm_titlebox__author,
+.stm_titlebox
+.stm_titlebox__categories{color:#f00 !important}.stm_titlebox
+.stm_titlebox__subtitle{color:#f00}.stm_titlebox .stm_titlebox__inner
+.stm_separator{background-color:#f00 !important}</style><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/59e97.css media=all> <script id=layerslider-greensock-js-extra>var LS_Meta={"v":"6.9.2"};</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/12f03.js></script> <script id=handl-utm-grabber-js-extra>var handl_utm=[];</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/865b3.js></script> <script id=ssb-ui-js-js-extra>var ssb_ui_data={"z_index":"10000"};</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/5bec5.js></script> <meta
+name="generator" content="Powered by LayerSlider 6.9.2 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress."><link
+rel=EditURI type=application/rsd+xml title=RSD href=https://rbs-crm.ru/xmlrpc.php?rsd><link
+rel=wlwmanifest type=application/wlwmanifest+xml href=https://rbs-crm.ru/wp-includes/wlwmanifest.xml><meta
+name="generator" content="WordPress 5.8.3"><link
+rel=shortlink href=https://rbs-crm.ru/ ><link
+rel=alternate type=application/json+oembed href="https://rbs-crm.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frbs-crm.ru%2F"><link
+rel=alternate type=text/xml+oembed href="https://rbs-crm.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frbs-crm.ru%2F&#038;format=xml"> <script>var pearl_load_post_type_gallery='221f885a6a';var pearl_load_more_posts='9666eae88d';var pearl_load_album='c304c26fb8';var pearl_donate='7ed1b5ba93';var pearl_load_splash_album='8a90d4d6d0';var pearl_load_portfolio='1b84bfa723';var pearl_load_posts_list='a104ebdb7a';var pearl_woo_quick_view='a5fd621157';var pearl_update_custom_styles_admin='4d97b78dee';var pearl_like_dislike='60b397e306';var stm_ajax_add_review='d5527d8956';var pearl_install_plugin='f4d3981c0b';var pearl_get_thumbnail='1d496733fb';var pearl_save_settings='2002a07b34';var stm_ajaxurl='https://rbs-crm.ru/wp-admin/admin-ajax.php';var stm_site_width=1130;var stm_date_format='MM d, yy';var stm_time_format='h:mm p';var stm_site_paddings=0;if(window.innerWidth<1300)stm_site_paddings=0;var stm_sticky='top';</script> <meta
+name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."> <script >document.addEventListener('DOMContentLoaded',function(){var phone=document.getElementsByClassName('object1211')[0].getElementsByClassName('stm-icontext__text')[0];phone.onclick=function(){window.location.href='tel:88003026268';};var phone2=document.getElementsByClassName('object1239')[0].getElementsByClassName('stm-icontext__text')[0];phone2.onclick=function(){window.location.href='tel:84993482958';};var mail=document.getElementsByClassName('object1267')[0].getElementsByClassName('stm-icontext__text')[0];mail.onclick=function(){window.location.href='mailto:sale@rbs-crm.ru';};var phone3=document.getElementsByClassName('stm-icontext__phone')[0].getElementsByClassName('stm-icontext__text')[0];phone3.innerHTML='8 (800) 302-62-68';phone3.onclick=function(){window.location.href='tel:88003026268';};});</script>  <script >(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(92710,"init",{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:true});</script> <noscript><div><img
+class=lazy src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src=https://mc.yandex.ru/watch/92710 style="position:absolute; left:-9999px;" alt></div></noscript> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-18310539-2"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','UA-18310539-2');</script>  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-625407463"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','AW-625407463');</script>  <script>!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','139252219978089');fbq('track','PageView');</script> <noscript><img
+class=lazy height=1 width=1 style=display:none
+src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.facebook.com/tr?id=139252219978089&ev=PageView&noscript=1"></noscript><link
+rel=alternate type=application/rss+xml title=RSS href=https://rbs-crm.ru/rsslatest.xml><style id=wp-custom-css>body .stm_cf7 .request_quote .wpcf7-form-control-wrap .wpcf7-form-control{border-color:#ec1112 !important}body .stm_cf7 .request_quote .wpcf7-form-control-wrap .wpcf7-form-control:focus, body .stm_cf7 .request_quote .wpcf7-form-control-wrap .wpcf7-form-control:active, body .stm_cf7 .request_quote .wpcf7-form-control-wrap .wpcf7-form-control:hover{box-shadow:none !important;border-color:#a6a9aa !important}body .stm_cf7 .request_quote .wpcf7-form-control-wrap .wpcf7-form-control:focus, body .stm_cf7 .request_quote .wpcf7-form-control-wrap .wpcf7-form-control:active{border-color:#a6a9aa !important}</style><style data-type=vc_shortcodes-custom-css>.vc_custom_1587934878748{padding-top:20px !important}.vc_custom_1594829464909{background:#f2f3f5 url(https://rbs-crm.ru/wp-content/uploads/2020/04/advantages.png?id=5584) !important;background-position:0 0 !important;background-repeat:no-repeat !important}.vc_custom_1594829134361{background-color:#fff !important;background-position:0 0 !important;background-repeat:no-repeat !important}.vc_custom_1587996026496{background-image:url(https://rbs-crm.ru/wp-content/uploads/2020/04/computer_optimiz.jpg?id=5617) !important;background-position:center !important;background-repeat:no-repeat !important;background-size:cover !important}.vc_custom_1587906990625{margin-bottom:0px !important}.vc_custom_1597063178668{margin-bottom:0px !important}.vc_custom_1588678963322{margin-bottom:20px !important}.vc_custom_1597063199970{margin-bottom:20px !important}.vc_custom_1587925911683{margin-bottom:20px !important}.vc_custom_1597063221169{margin-bottom:20px !important}.vc_custom_1597065553045{margin-bottom:25px !important}.vc_custom_1588059514062{margin-bottom:50px !important}.vc_custom_1587925289384{margin-bottom:50px !important}.vc_custom_1587925320552{margin-bottom:50px !important}.vc_custom_1587925189128{margin-bottom:50px !important}.vc_custom_1584991963915{padding-top:40px !important}.vc_custom_1587927570367{padding-top:20px !important}.vc_custom_1587927969884{padding-top:20px !important}.vc_custom_1594827734689{margin-bottom:0px !important}</style><noscript><style>.wpb_animate_when_almost_visible{opacity:1}</style></noscript><link
+rel="SHORTCUT ICON" href=/favicon.ico type=image/x-icon></head><body
+class="home page-template-default page page-id-1713 stm_header_transparent stm_title_box_disabled stm_form_style_3 stm_breadcrumbs_disabled  stm_pagination_style_2 stm_blockquote_style_3 stm_lists_style_12 stm_sidebar_style_1 stm_header_style_19 stm_post_style_2 stm_tabs_style_2 stm_tour_style_1 stm_buttons_style_3 stm_accordions_style_2 stm_projects_style_2 stm_events_layout_1 stm_footer_layout_2 error_page_style_4 stm_shop_layout_business stm_products_style_left stm_header_sticky_top stm_post_view_list stm_layout_company wpb-js-composer js-comp-ver-6.1 vc_responsive"  ontouchstart=true><div
+id=wrapper><div
+class=stm-header><div
+class="stm-header__row_color stm-header__row_color_top"><div
+class=container><div
+class="stm-header__row stm-header__row_top"><div
+class="stm-header__cell stm-header__cell_left"><div
+class="stm-header__element object623 stm-header__element_"><div
+class=stm-logo>
+<a
+href=/ title=РосБизнесСофт>
+<img
+width=1008 height=152 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201008%20152'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/rbs_olny.png class="attachment-full size-full lazy" alt=РосБизнесСофт loading=lazy style=width:200px>		</a></div></div></div><div
+class="stm-header__cell stm-header__cell_right"><div
+class="stm-header__element object1211 stm-header__element_"><div
+class=stm-icontext>
+<i
+class="stm-icontext__icon mtc stmicon-company-phone fsz_14"></i>
+<span
+class="stm-icontext__text fsz_14">
+<b>8 (800) 302-62-68</b>  </span></div></div><div
+class="stm-header__element object1239 stm-header__element_"><div
+class=stm-icontext>
+<i
+class="stm-icontext__icon mtc stmicon-company-phone fsz_14"></i>
+<span
+class="stm-icontext__text fsz_14">
++7 (499) 348-29-58 </span></div></div><div
+class="stm-header__element object1267 stm-header__element_"><div
+class=stm-icontext>
+<i
+class="stm-icontext__icon mtc stmicon-bon-envelope fsz_14"></i>
+<span
+class="stm-icontext__text fsz_14">
+sale@rbs-crm.ru </span></div></div><div
+class="stm-header__element object628 stm-header__element_">
+<a
+href=/company/feedback/presentation/ class="btn btn_primary btn_outline btn_sm">
+<i
+class="btn__icon " style></i>
+<span
+class=btn__text>Заказать презентацию</span>
+</a></div><div
+class="stm-header__element object656 stm-header__element_btn_solid">
+<a
+href=/company/feedback/trial/ class="btn btn_primary btn_solid btn_sm">
+<i
+class="btn__icon " style></i>
+<span
+class=btn__text>Тест-драйв</span>
+</a></div></div></div></div></div><div
+class="stm-header__row_color stm-header__row_color_center"><div
+class=container><div
+class="stm-header__row stm-header__row_center"><div
+class="stm-header__cell stm-header__cell_left"><div
+class="stm-header__element object1207 stm-header__element_"><div
+class=stm-logo>
+<a
+href=https://rbs-crm.ru title>
+<img
+width=1194 height=215 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201194%20215'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/02/logo_rbs_invers_1.png class="attachment-full size-full lazy" alt loading=lazy style=width:310px>		</a></div></div></div><div
+class="stm-header__cell stm-header__cell_right"><div
+class="stm-header__element object616 stm-header__element_default"><div
+class="stm-navigation heading_font stm-navigation__default stm-navigation__default stm-navigation__line_bottom stm-navigation__" ><ul >
+<li
+id=menu-item-4002 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4002"><a
+href=https://rbs-crm.ru/products/ >Продукты</a><ul
+class=sub-menu>
+<li
+id=menu-item-4854 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4854 stm_col_width_1 stm_mega_cols_inside_1"><a
+href=https://rbs-crm.ru/products/crm/ >CRM</a></li>
+<li
+id=menu-item-4853 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4853 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/products/erp/ >ERP</a></li>
+<li
+id=menu-item-4852 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4852 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/products/service-desk/ >Service Desk</a></li>
+<li
+id=menu-item-6728 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6728 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/products/obzor-crm-systemy/ >Видеообзор</a></li></ul>
+</li>
+<li
+id=menu-item-3916 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3916"><a
+href=https://rbs-crm.ru/industries/ >Решения</a></li>
+<li
+id=menu-item-3918 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3918"><a
+href=https://rbs-crm.ru/services/ >Услуги</a><ul
+class=sub-menu>
+<li
+id=menu-item-6168 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6168 stm_col_width_default stm_mega_cols_inside_default"><a
+href=/services/vnedreniye_crm_sistemy/ >Внедрение</a></li>
+<li
+id=menu-item-6172 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6172 stm_col_width_default stm_mega_cols_inside_default"><a
+href=/services/consalting/ >Консалтинг</a></li>
+<li
+id=menu-item-6173 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6173 stm_col_width_default stm_mega_cols_inside_default"><a
+href=/services/training/ >Обучение</a></li>
+<li
+id=menu-item-6169 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6169 stm_col_width_default stm_mega_cols_inside_default"><a
+href=/services/support/ >Поддержка</a></li>
+<li
+id=menu-item-6170 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6170 stm_col_width_default stm_mega_cols_inside_default"><a
+href=/services/integration/ >Интеграции</a></li>
+<li
+id=menu-item-6171 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6171 stm_col_width_default stm_mega_cols_inside_default"><a
+href=/services/hosting/ >Хостинг</a></li></ul>
+</li>
+<li
+id=menu-item-3914 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3914"><a
+href=https://rbs-crm.ru/cases/ >Кейсы</a></li>
+<li
+id=menu-item-4007 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4007"><a
+href=https://rbs-crm.ru/clients/ >Клиенты</a></li>
+<li
+id=menu-item-6745 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6745"><a
+href=https://rbs-crm.ru/partneram/ >Партнерам</a></li>
+<li
+id=menu-item-3913 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3913"><a
+href=https://rbs-crm.ru/company/ >Компания</a><ul
+class=sub-menu>
+<li
+id=menu-item-4003 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4003 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/company/ >О компании</a></li>
+<li
+id=menu-item-3912 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3912 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/company/news/ >Новости</a></li>
+<li
+id=menu-item-6075 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6075 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/partneram/ >Партнерам</a></li>
+<li
+id=menu-item-5535 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5535 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/company/faq/ >FAQ</a></li>
+<li
+id=menu-item-3915 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3915 stm_col_width_default stm_mega_cols_inside_default"><a
+href=https://rbs-crm.ru/company/contacts/ >Контакты</a></li></ul>
+</li></ul></div></div></div></div></div></div></div><div
+class=stm-header__overlay></div><div
+class=stm_mobile__header><div
+class=container><div
+class="stm_flex stm_flex_center stm_flex_last stm_flex_nowrap"><div
+class=stm_mobile__logo>
+<a
+href=https://rbs-crm.ru/
+title=Главная>
+<img
+class=lazy src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201194%20215'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/02/logo_rbs_invers_1.png
+alt="Логотип сайта">
+</a></div><div
+class="stm_mobile__switcher stm_flex_last js_trigger__click"
+data-element=".stm-header, .stm-header__overlay"
+data-toggle=false>
+<span
+class=mbc></span>
+<span
+class=mbc></span>
+<span
+class=mbc></span></div></div></div></div><div
+class=site-content><div
+class><div
+class><div
+class="stm_markup stm_markup_full"><div
+class=stm_markup__content><div
+class="container-fluid vc_container-fluid   " ><div
+class="vc_row wpb_row vc_row-fluid"><div
+class="container-fluid stm_no_side_pd"><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+id=stm_slider-621f22e1a2388 class="stm_slider owl-carousel custom stm_slider_style_10"><div
+class="stm_slide slide_1 text-left lazy"
+data-parallax=slide_1
+style data-bg=url(https://rbs-crm.ru/wp-content/uploads/2020/02/slide1-1920x800.jpg)><div
+class=container><div
+class=stm_slide__overlay><div
+class="stm_slide__title text-left;">
+<span
+class=heading_font >
+Мощная CRM для серьёзного бизнеса </span></div><div
+class="stm_slide__content text-left;">
+<span >
+Полностью настраиваемая CRM система для продаж, складского учета, производства и сервиса </span></div><div
+class="stm-button stm-button_left" style="float: left;display: inline-block;width: 200px;padding-left: 44px; padding-bottom: 20px;">
+<a
+class="btn btn_solid btn_primary btn_left btn_icon-bg btn_icon-right"  href=/company/feedback/trial/crm/ >Тест-драйв</a></div><div
+class="stm_slide__button text-left;" style="width: 200px; padding-bottom: 20px; ">
+<a
+class="btn btn_solid btn_primary btn_left btn_icon-bg btn_icon-right"  href=/products/crm/ >Узнать больше</a></div></div></div></div><div
+class="stm_slide slide_2 text-left lazy"
+data-parallax=slide_2
+style data-bg=url(https://rbs-crm.ru/wp-content/uploads/2020/04/industry.jpg)><div
+class=container><div
+class=stm_slide__overlay><div
+class="stm_slide__title text-center;">
+<span
+class=heading_font >
+ERP для малого и среднего бизнеса </span></div><div
+class="stm_slide__content text-center;">
+<span >
+ERP система для производства, складского учета, продаж и сервиса </span></div><div
+class="stm-button stm-button_left" style="float: left;display: inline-block;width: 200px;padding-left: 44px; padding-bottom: 20px;">
+<a
+class="btn btn_solid btn_primary btn_left btn_icon-bg btn_icon-right"  href=/company/feedback/trial/erp/ >Тест-драйв</a></div><div
+class="stm_slide__button text-left;" style="width: 200px; padding-bottom: 20px; ">
+<a
+class="btn btn_solid btn_primary btn_left btn_icon-bg btn_icon-right"  href=/products/erp/ >Узнать больше</a></div></div></div></div><div
+class="stm_slide slide_3 text-left lazy"
+data-parallax=slide_3
+style data-bg=url(https://rbs-crm.ru/wp-content/uploads/2020/04/service.jpg)><div
+class=container><div
+class=stm_slide__overlay><div
+class="stm_slide__title text-center;">
+<span
+class=heading_font >
+SERVICE DESK </span></div><div
+class="stm_slide__content text-center;">
+<span >
+Автоматизация работы сервисного центра: ремонты, гарантия, инциденты, рекламация, складской учет </span></div><div
+class="stm-button stm-button_left" style="float: left;display: inline-block;width: 200px;padding-left: 44px; padding-bottom: 20px;">
+<a
+class="btn btn_solid btn_primary btn_left btn_icon-bg btn_icon-right"  href=/company/feedback/trial/erp/ >Тест-драйв</a></div><div
+class="stm_slide__button text-center;" style="width: 200px; padding-bottom: 20px; ">
+<a
+class="btn btn_solid btn_primary btn_left btn_icon-bg btn_icon-right"  href=/products/service-desk >Узнать больше</a></div></div></div></div></div><div
+id=stm_slider_thumbs-621f22e1a4ff8
+class="stm_slider_thumbs_container stm_slider_navigation stm_slider_style_10"><div
+class=container><ul
+class=stm_slider_thumbs_list>
+<li
+class="stm_slide_thumb tbc slide_thumb_1"><div
+class=stm_slide_thumb_icon>
+<span
+class="fa fa-child mtc"></span></div><div
+class=stm_slide_thumb_body>
+<span
+class=stm_slide_thumb_heading>
+CRM система </span>
+<span
+class=stm_slide_thumb_content>
+Единая платформа для CRM, управления продажами, складским учетом, услугами </span></div>
+</li><li
+class="stm_slide_thumb tbc slide_thumb_2"><div
+class=stm_slide_thumb_icon>
+<span
+class="fa fa-industry mtc"></span></div><div
+class=stm_slide_thumb_body>
+<span
+class=stm_slide_thumb_heading>
+ERP система </span>
+<span
+class=stm_slide_thumb_content>
+Единая платформа для управления производством, закупками, продажами </span></div>
+</li><li
+class="stm_slide_thumb tbc slide_thumb_3"><div
+class=stm_slide_thumb_icon>
+<span
+class="fa fa-cogs mtc"></span></div><div
+class=stm_slide_thumb_body>
+<span
+class=stm_slide_thumb_heading>
+SERVICE DESK </span>
+<span
+class=stm_slide_thumb_content>
+Единая платформа для автоматизации сервисного центра и складского учета </span></div>
+</li></ul></div></div> <script>(function($){$(document).ready(function(){var margins=0;var stmSliderOptions={items:1,loop:true,autoplay:false,margin:margins,autoplayHoverPause:true,touchDrag:false,mouseDrag:false,autoplayTimeout:0,autoplaySpeed:800,smartSpeed:800,navText:'',responsive:{0:{items:1},767:{items:1}}};var slider=$('#stm_slider-621f22e1a2388');slider.owlCarousel(stmSliderOptions);if(typeof $.fn.swipe==='function'){$('.stm_slider').swipe({swipe:function(event,direction,distance,duration,fingerCount,fingerData){if(direction=='left'&&distance>50){slider.trigger('next.owl.carousel');}
+if(direction=='right'&&distance>50){slider.trigger('prev.owl.carousel');}},allowPageScroll:"vertical",});}
+var thumbs=$('#stm_slider_thumbs-621f22e1a4ff8');var thumb=thumbs.find('li');var firstSlideIndex=0;if(typeof stmSliderOptions.startPosition!=='undefined'){firstSlideIndex=stmSliderOptions.startPosition;}
+thumb.eq(firstSlideIndex).addClass('active mbc').removeClass('tbc');slider.on('changed.owl.carousel',function(e){var index=e.page.index;var thumbActive=thumb.eq(index);setTimeout(function(){thumbActive.addClass('active mbc').removeClass('tbc');thumb.not(thumbActive).removeClass('active mbc').addClass('tbc');},400)});thumb.click(function(e){e.preventDefault();var clickedThumb=$(this);var index=clickedThumb.index();slider.trigger('to.owl.carousel',[index,300]);});})})(jQuery);</script> </div></div></div></div></div></div></div><div
+class="container vc_container  vc_custom_1587934878748 " ><div
+class="vc_row wpb_row vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-5 vc_col-md-5 pearl_column_inner_d8e7b10318de6b43ae7139b9db4c8ca6"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_left vc_custom_1587906990625 max-width-40 vc_separator-has-text" ><span
+class="vc_sep_holder vc_sep_holder_l"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span><h4 style="font-size:14px; font-weight:600" class="mtc heading_font">Что такое CRM?</h4><span
+class="vc_sep_holder vc_sep_holder_r"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 48px;"></div><div
+class=visible-sm_landscape style="height: 48px;"></div><div
+class=visible-sm style="height: 48px;"></div><div
+class=visible-xs style="height: 48px;"></div></div><div
+class="wpb_text_column wpb_content_element " ><div
+class=wpb_wrapper><p><b>РосБизнесСофт CRM </b>— это универсальный программный продукт для управления взаимоотношениями с клиентами, комплексной автоматизации бизнеса, а также успешного развития корпоративной информационной системы. Удобный и понятный интерфейс позволяет эффективно работать c онлайн CRM системой из любой точки мира. Внедрение CRM системы от РосБизнесСофт позволит значительно повысить производительность менеджеров, а также увеличит объем продаж на 20-30%.</p></div></div><div
+class="stm-button stm-button_left   ">
+<a
+href=/products/crm/
+class="btn btn_outline btn_primary btn_left btn_default stm-button_621f22e1a680c btn_xs     "
+title="Узнать больше"
+target=_self data-iframe=true>
+<span
+class=btn__label>Узнать больше</span>
+</a></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-7 vc_hidden-sm vc_hidden-xs pearl_column_inner_76aaafc0698d81ac704104edb1be49c8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight"><figure
+class="wpb_wrapper vc_figure stm_lightgallery"><div
+class="vc_single_image-wrapper   vc_box_border_grey"><img
+width=1097 height=670 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201097%20670'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/rbs260_laptop2.png class="vc_single_image-img attachment-full lazy" alt loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/rbs260_laptop2.png 1097w, https://rbs-crm.ru/wp-content/uploads/2020/04/rbs260_laptop2-300x183.png 300w, https://rbs-crm.ru/wp-content/uploads/2020/04/rbs260_laptop2-1024x625.png 1024w, https://rbs-crm.ru/wp-content/uploads/2020/04/rbs260_laptop2-768x469.png 768w" data-sizes="(max-width: 1097px) 100vw, 1097px"></div></figure></div></div></div></div></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 60px;"></div><div
+class=visible-sm_landscape style="height: 60px;"></div><div
+class=visible-sm style="height: 60px;"></div><div
+class=visible-xs style="height: 60px;"></div></div></div></div></div></div></div><div
+class="container-fluid vc_container-fluid  vc_custom_1594829464909 " ><div
+class="vc_row wpb_row vc_row-fluid vc_row-has-fill"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-8 vc_col-md-8"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 110px;"></div><div
+class=visible-sm_landscape style="height: 110px;"></div><div
+class=visible-sm style="height: 110px;"></div><div
+class=visible-xs style="height: 70px;"></div></div><div
+class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_left vc_custom_1597063178668 max-width-40 vc_separator-has-text" ><span
+class="vc_sep_holder vc_sep_holder_l"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span><h4 style="font-size:14px; font-weight:600" class="mtc heading_font">Преимущества CRM системы</h4><span
+class="vc_sep_holder vc_sep_holder_r"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 68px;"></div><div
+class=visible-sm_landscape style="height: 68px;"></div><div
+class=visible-sm style="height: 68px;"></div><div
+class=visible-xs style="height: 50px;"></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-6 pearl_column_inner_62c8351f95571488b29372ad6341466d"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_iconbox clearfix stm_iconbox_style_11 stm_iconbox621f22e1a7f8a text-left  vc_custom_1588678963322 stm_iconbox__icon-top  clearfix"><div
+class=stm_iconbox__icon
+style="width: 42px; height: 42px;">
+<i
+style="font-size:42px;font-weight: normal;"
+class="mtc stmicon-graduation-hat">
+</i></div><div
+class=stm_iconbox__text><h5  class="no_line"><span
+class=mtc_b>Простота и удобство</span></h5><div
+class=stm_iconbox__desc>
+<span
+class=stm_iconbox__dots>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_first"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_second"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_third"></span>
+</span><p>Всего за 15 минут Ваши сотрудники смогут освоить более 80% функциональности. Выставление и отправка счета занимает не более 7 минут.</p></div></div></div><div
+class="stm_iconbox clearfix stm_iconbox_style_11 stm_iconbox621f22e1a815e text-left  vc_custom_1597063199970 stm_iconbox__icon-top  clearfix"><div
+class=stm_iconbox__text><h5  class="no_line"><span
+class=mtc_b>Открытая платформа</span></h5><div
+class=stm_iconbox__desc>
+<span
+class=stm_iconbox__dots>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_first"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_second"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_third"></span>
+</span><p>Платформа РосБизнесСофт CRM позволяет легко изменить функционал программы под индивидуальные потребности и специфику бизнеса. Например, добавить новое поле, создать свой &#171;Справочник&#187;, изменить печатную форму, создать свой шаблон договора и т.д. Персонализированная система позволит полностью <a
+href=/services/implementation/ >автоматизировать</a> ваши бизнес-процессы, а также повысит производительность сотрудников. <a
+href=https://rbs-crm.ru/cases/ >Кейсы успешных внедрений →</a></p></div></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 pearl_column_inner_62c8351f95571488b29372ad6341466d"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_iconbox clearfix stm_iconbox_style_11 stm_iconbox621f22e1a8423 text-left  vc_custom_1587925911683 stm_iconbox__icon-top  clearfix"><div
+class=stm_iconbox__icon
+style="width: 42px; height: 42px;">
+<i
+style="font-size:42px;font-weight: normal;"
+class="mtc stmicon-pie-chart">
+</i></div><div
+class=stm_iconbox__text><h5  class="no_line"><span
+class=mtc_b>Расширенная аналитика</span></h5><div
+class=stm_iconbox__desc>
+<span
+class=stm_iconbox__dots>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_first"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_second"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_third"></span>
+</span><p>Более 30 аналитических отчетов доступно Вам для эффективного управления бизнесом. Держите ключевые показатели эффективности Вашего бизнеса под контролем.</p></div></div></div><div
+class="stm_iconbox clearfix stm_iconbox_style_11 stm_iconbox621f22e1a85d0 text-left  vc_custom_1597063221169 stm_iconbox__icon-top  clearfix"><div
+class=stm_iconbox__text><h5  class="no_line"><span
+class=mtc_b>Разграничение доступа</span></h5><div
+class=stm_iconbox__desc>
+<span
+class=stm_iconbox__dots>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_first"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_second"></span>
+<span
+class="stm_iconbox__dot stm_iconbox__dot_third"></span>
+</span><p>В РосБизнесСофт можно задать права доступа, которые будут присваиваться определенным пользователям. Например, каждому сотруднику можно открыть доступ только к тому функционалу и тем данным, с которыми он ежедневно работает. Остальная информация будет скрыта. Также есть ограничения доступа к системе по IP-адресу. Гибкое разграничение доступа позволит избежать несанкционированного копирования вашей коммерческой информации злоумышленниками из CRM системы.</p></div></div></div></div></div></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-6 pearl_column_inner_62c8351f95571488b29372ad6341466d"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 pearl_column_inner_62c8351f95571488b29372ad6341466d"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div></div><div
+class="stm-button stm-button_left    wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
+<a
+href=/products/
+class="btn btn_outline btn_primary btn_left btn_default stm-button_621f22e1a894d btn_xs     "
+title="Узнать больше"
+target=_self data-iframe=true>
+<span
+class=btn__label>Узнать больше</span>
+</a></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 67px;"></div><div
+class=visible-sm_landscape style="height: 67px;"></div><div
+class=visible-sm style="height: 67px;"></div><div
+class=visible-xs style="height: 30px;"></div></div></div></div></div></div></div></div></div><div
+class="container-fluid vc_container-fluid  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1594829134361  stm-parallax"  data-parallax=stm-parallax621f22e1a8ba6><div
+class=stm_row-opacity style="background-color:rgba(255,255,255,0.4); "></div><div
+class="vc_row wpb_row vc_row-fluid vc_row-has-fill"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 70px;"></div><div
+class=visible-sm_landscape style="height: 70px;"></div><div
+class=visible-sm style="height: 70px;"></div><div
+class=visible-xs style="height: 70px;"></div></div><div
+class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center vc_custom_1597065553045 max-width-40 vc_separator-has-text" ><span
+class="vc_sep_holder vc_sep_holder_l"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span><h4 style="font-size:14px; font-weight:600" class="mtc heading_font">Отраслевые CRM решения</h4><span
+class="vc_sep_holder vc_sep_holder_r"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span></div><h3 style="text-align: center" class="vc_custom_heading   text-center">Разработано более 20 отраслевых решений</h3><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 28px;"></div><div
+class=visible-sm_landscape style="height: 28px;"></div><div
+class=visible-sm style="height: 28px;"></div><div
+class=visible-xs style="height: 28px;"></div></div><div
+class="stm_services_text_carousel  stm_services_text_carousel_style_1"><div
+class=row><div
+class="col-lg-3 col-md-3 col-sm-12 col-xs-12"><p
+style="font-size: 14px; line-height: 30px; color: #222222;">За 15 лет работы компания РосБизнесСофт получила экспертный опыт в реализации сложных проектов во многих отраслях: от торговли B2B до автоматизации крупных производственных предприятий.</p><div
+class=owl-dots id=owl-nav-621f22e1ad8a3></div></div><div
+class="col-lg-9 col-md-9 col-sm-12 col-xs-12"><div
+class=stm_services_carousel_wr><div
+class=stm_services_carousel id=owl-621f22e1ad89e><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/enterprise/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/industry-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/industry-265x170.jpg width=265 height=170 alt=industry title=industry>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/enterprise/ >Производство и дистрибуция</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/enterprise/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/service/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/service-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/service-265x170.jpg width=265 height=170 alt=service title=service>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/service/ >Сервисный центр</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/service/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/education/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2017/05/training-530x340.png 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2017/05/training-265x170.png width=265 height=170 alt=training title=training>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/education/ >Учебный центр</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/education/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/print/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/print-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/print-265x170.jpg width=265 height=170 alt=print title=print>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/print/ >Упаковка и полиграфия</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/print/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/professional/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/advokat-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/advokat-265x170.jpg width=265 height=170 alt=advokat title=advokat>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/professional/ >Профессиональные услуги</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/professional/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/oilgas/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/tek-530x340.jpeg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/tek-265x170.jpeg width=265 height=170 alt=tek title=tek>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/oilgas/ >ТЭК</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/oilgas/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/construction/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/construct-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/construct-265x170.jpg width=265 height=170 alt=construct title=construct>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/construction/ >Строительство</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/construction/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/telecom/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/telecom-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/telecom-265x170.jpg width=265 height=170 alt=telecom title=telecom>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/telecom/ >Телекоммуникации</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/telecom/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/services/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/barber-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/barber-265x170.jpg width=265 height=170 alt=barber title=barber>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/services/ >Услуги населению</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/services/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/marketing/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/marketing-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/marketing-265x170.jpg width=265 height=170 alt="Group of Multiethnic People Discussing About Marketing" title="Group of Multiethnic People Discussing About Marketing">  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/marketing/ >Маркетинг и реклама</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/marketing/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/certificate/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/certification-530x340.png 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/certification-265x170.png width=265 height=170 alt=certification title=certification>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/certificate/ >Сертификация</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/certificate/ >
+Подробнее </a></div></div></div></div><div
+class=item><div
+class=item_wr><div
+class=item_thumbnail>
+<a
+href=https://rbs-crm.ru/industries/internet-shop/ >
+<img
+data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/internetshop-1-530x340.jpg 2x" class=" lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20265%20170'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/internetshop-1-265x170.jpg width=265 height=170 alt=internetshop title=internetshop>  </a></div><div
+class=content><h5><a
+class="ttc mtc_h" href=https://rbs-crm.ru/industries/internet-shop/ >Интернет-магазин</a></h5><div
+class="stm_read_more_link style_3">
+<a
+class=mtc_h href=https://rbs-crm.ru/industries/internet-shop/ >
+Подробнее </a></div></div></div></div></div></div></div></div> <script>jQuery(document).ready(function($){$("#owl-621f22e1ad89e").owlCarousel({dotsContainer:'#owl-nav-621f22e1ad8a3',items:3,slideBy:'page',loop:true,autoplayTimeout:5000,smartSpeed:250,responsive:{0:{items:1},768:{items:2},980:{items:3},1199:{items:3,}},});});</script> </div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 76px;"></div><div
+class=visible-sm_landscape style="height: 76px;"></div><div
+class=visible-sm style="height: 76px;"></div><div
+class=visible-xs style="height: 56px;"></div></div></div></div></div></div></div></div></div><div
+class="container-fluid vc_container-fluid  vc_custom_1587996026496  stm-parallax"  data-parallax=stm-parallax621f22e1b74d7><div
+class=stm_row-opacity style="background-color:rgba(34,34,34,0.7); "></div><div
+class="vc_row wpb_row vc_row-fluid vc_row-has-fill"><div
+class=container><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 217px;"></div><div
+class=visible-sm_landscape style="height: 217px;"></div><div
+class=visible-sm style="height: 217px;"></div><div
+class=visible-xs style="height: 90px;"></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 pearl_column_inner_9f58fb73cd755d2e2ccfef38b22fe674"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm-counter clearfix stm-counter_style_1  vc_custom_1588059514062  has_icon" style = " color: #ffffff !important"><i
+class="stm-counter__icon stmicon-uniE69E" style="color: #ffffff"				style = " color: #ffffff !important;"></i>
+<span
+class="stm-counter__value stm_mf mtc_a" style="color: #ffffff"              data-value=15
+data-duration=2.5
+data-separator
+data-decimals=0
+id=counter_OEhCwTazKu></span><div
+class=stm-counter__label style="color: #ffffff">Лет на рынке</div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 pearl_column_inner_9f58fb73cd755d2e2ccfef38b22fe674"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm-counter clearfix stm-counter_style_1  vc_custom_1587925289384  has_icon" style = " color: #ffffff !important"><i
+class="stm-counter__icon stmicon-charity_peoples" style="color: #ffffff"				style = " color: #ffffff !important;"></i>
+<span
+class="stm-counter__value stm_mf mtc_a" style="color: #ffffff"              data-value=30
+data-duration=2.5
+data-separator
+data-decimals=0
+id=counter_OBxwSWIphJ></span><div
+class=stm-counter__label style="color: #ffffff">Сотрудников</div></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 0px;"></div><div
+class=visible-sm_landscape style="height: 0px;"></div><div
+class=visible-sm style="height: 60px;"></div><div
+class=visible-xs style="height: 0px;"></div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 pearl_column_inner_4808086658aa6924ac2b8a6526b7bd1f"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm-counter clearfix stm-counter_style_1  vc_custom_1587925320552  has_icon" style = " color: #ffffff !important"><i
+class="stm-counter__icon stmicon-factory_address_1" style="color: #ffffff"				style = " color: #ffffff !important;"></i>
+<span
+class="stm-counter__value stm_mf mtc_a" style="color: #ffffff"              data-value=20
+data-duration=2.5
+data-separator
+data-decimals=0
+id=counter_jOGCAxnUHa></span><div
+class=stm-counter__label style="color: #ffffff">Отраслевых решений</div></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3 vc_col-xs-12 pearl_column_inner_9f58fb73cd755d2e2ccfef38b22fe674"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm-counter clearfix stm-counter_style_1  vc_custom_1587925189128  has_icon" style = " color: #ffffff !important"><i
+class="stm-counter__icon stmicon-app_user" style="color: #ffffff"				style = " color: #ffffff !important;"></i>
+<span
+class="stm-counter__value stm_mf mtc_a" style="color: #ffffff"              data-value=10
+data-duration=2.5
+data-separator
+data-decimals=0
+id=counter_HTPQrNGLAq></span><span
+class="stm-counter__prefix stm_mf" style="color: #ffffff">К</span><div
+class=stm-counter__label style="color: #ffffff">Клиентов</div></div></div></div></div></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 127px;"></div><div
+class=visible-sm_landscape style="height: 127px;"></div><div
+class=visible-sm style="height: 40px;"></div><div
+class=visible-xs style="height: 35px;"></div></div></div></div></div></div></div></div></div><div
+class="container vc_container   " ><div
+class="vc_row wpb_row vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 30px;"></div><div
+class=visible-sm_landscape style="height: 30px;"></div><div
+class=visible-sm style="height: 30px;"></div><div
+class=visible-xs style="height: 35px;"></div></div><div
+class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_center vc_sep_color_grey vc_custom_1584991963915 vc_separator-has-text" ><span
+class="vc_sep_holder vc_sep_holder_l"><span
+class=vc_sep_line></span></span><h4 style="font-weight:600" class="mtc main_font">Нам доверяют</h4><span
+class="vc_sep_holder vc_sep_holder_r"><span
+class=vc_sep_line></span></span></div><div
+class="stm_partners stm_partners_style_1 stm_partners_grayscale   wpb_animate_when_almost_visible wpb_fadeIn fadeIn"><div
+class=stm_partners__single>
+<a
+href=/cases/ozon/
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=400 height=88 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%2088'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/03/oz.png class="attachment-full size-full lazy" alt loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/03/oz.png 400w, https://rbs-crm.ru/wp-content/uploads/2020/03/oz-300x66.png 300w" data-sizes="(max-width: 400px) 100vw, 400px"></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=/cases/karcher/
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=135 height=36 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20135%2036'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/03/kar.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=/cases/moedelo/
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=194 height=59 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%2059'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/03/moe.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=297 height=46 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20297%2046'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/03/galo.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=/cases/wilo/
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=151 height=65 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20151%2065'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/03/wilo.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=/cases/espa/
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=120 height=41 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20120%2041'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/03/espa.gif class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=350 height=108 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20108'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/12.png class="attachment-full size-full lazy" alt loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/12.png 350w, https://rbs-crm.ru/wp-content/uploads/2020/04/12-300x93.png 300w, https://rbs-crm.ru/wp-content/uploads/2020/04/12-348x108.png 348w" data-sizes="(max-width: 350px) 100vw, 350px"></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=211 height=107 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20211%20107'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/11.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=192 height=65 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20192%2065'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/10.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=205 height=77 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20205%2077'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/9.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=272 height=113 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20272%20113'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/8.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=318 height=115 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20318%20115'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/7.png class="attachment-full size-full lazy" alt loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2020/04/7.png 318w, https://rbs-crm.ru/wp-content/uploads/2020/04/7-300x108.png 300w" data-sizes="(max-width: 318px) 100vw, 318px"></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=173 height=71 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20173%2071'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/6.jpg class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=223 height=75 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20223%2075'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/5.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=218 height=82 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20218%2082'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/4.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=209 height=75 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20209%2075'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/3.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=270 height=70 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%2070'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/2.png class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div><div
+class=stm_partners__single>
+<a
+href=#
+target=_blank
+class=no_deco
+title="Логотип клиента"><div
+class="stm_partners__image mbdc_h">
+<img
+width=300 height=99 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2099'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2020/04/1-1.jpg class="attachment-full size-full lazy" alt loading=lazy></div>
+</a><div
+class=stm_partners__single_plus></div></div></div><div
+class="stm-button stm-button_center   vc_custom_1587927570367 ">
+<a
+href=/clients/
+class="btn btn_outline btn_primary btn_center btn_default stm-button_621f22e1bba23      "
+title="Полный список клиентов"
+target=_self data-iframe=true>
+<span
+class=btn__label>Полный список клиентов</span>
+</a></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 100px;"></div><div
+class=visible-sm_landscape style="height: 100px;"></div><div
+class=visible-sm style="height: 60px;"></div><div
+class=visible-xs style="height: 60px;"></div></div></div></div></div></div></div><div
+class="container-fluid vc_container-fluid   " ><div
+data-vc-parallax=1.5 data-vc-parallax-image=https://rbs-crm.ru/wp-content/uploads/2020/04/man2-scaled3.jpg class="vc_row wpb_row vc_row-fluid vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"><div
+class=container-fluid><div
+class=row><div
+class="wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 130px;"></div><div
+class=visible-sm_landscape style="height: 130px;"></div><div
+class=visible-sm style="height: 110px;"></div><div
+class=visible-xs style="height: 70px;"></div></div><div
+class="vc_row wpb_row vc_inner vc_row-fluid"><div
+class="wpb_column vc_column_container vc_col-sm-2 pearl_column_inner_b962613b15f78c9f548591a0ecacc677"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-8 pearl_column_inner_91cd852327d51b9311fdd1181c73b7a0"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><h2 style="color: #ffffff;text-align: center" class="vc_custom_heading   text-center">10 000 клиентов уже выбрали РосБизнесСофт CRM для ежедневной работы</h2><h5 style="color: #ffffff;text-align: center" class="vc_custom_heading   text-center">А вы хотите повысить эффективность своей компании?</h5><div
+class="stm-button stm-button_center   vc_custom_1587927969884 ">
+<a
+href=/company/feedback/trial/
+class="btn btn_solid btn_primary btn_center btn_default stm-button_621f22e1bc628      "
+title="Попробовать 14 дней бесплатно!"
+target=_self data-iframe=true>
+<span
+class=btn__label>Попробовать 14 дней бесплатно!</span>
+</a></div></div></div></div><div
+class="wpb_column vc_column_container vc_col-sm-2 pearl_column_inner_b962613b15f78c9f548591a0ecacc677"><div
+class="vc_column-inner "><div
+class=wpb_wrapper></div></div></div></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 110px;"></div><div
+class=visible-sm_landscape style="height: 110px;"></div><div
+class=visible-sm style="height: 110px;"></div><div
+class=visible-xs style="height: 70px;"></div></div></div></div></div></div></div></div></div><div
+class="container vc_container   " ><div
+class="vc_row wpb_row vc_row-fluid"></div></div><div
+class="container vc_container   " ><div
+class="vc_row wpb_row vc_row-fluid"><div
+class="wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_column vc_column_container vc_col-sm-12"><div
+class="vc_column-inner "><div
+class=wpb_wrapper><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 50px;"></div><div
+class=visible-sm_landscape style="height: 50px;"></div><div
+class=visible-sm style="height: 50px;"></div><div
+class=visible-xs style="height: 50px;"></div></div><div
+class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_2 vc_sep_pos_align_left vc_custom_1594827734689 max-width-40 vc_separator-has-text" ><span
+class="vc_sep_holder vc_sep_holder_l"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span><h4 style="font-size:14px; font-weight:600" class="mtc heading_font">Новости и акции</h4><span
+class="vc_sep_holder vc_sep_holder_r"><span
+style=border-color:#aaaaaa; class=vc_sep_line></span></span></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 50px;"></div><div
+class=visible-sm_landscape style="height: 50px;"></div><div
+class=visible-sm style="height: 50px;"></div><div
+class=visible-xs style="height: 50px;"></div></div><div
+class="stm_posts_list stm_posts_list_style_24  button_621f22e1bcde9"><div
+class=stm_posts_list_single><div
+class=stm_posts_list_single__container><div
+class=stm_posts_list_single__image>
+<a
+href=https://rbs-crm.ru/obnovleniya-rosbiznessoft-crm/ title="Обновления РосБизнесСофт">
+<img
+width=590 height=441 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20441'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2022/02/updates.jpg class="attachment-large size-large wp-post-image lazy" alt="Обновления crm" loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2022/02/updates.jpg 590w, https://rbs-crm.ru/wp-content/uploads/2022/02/updates-300x224.jpg 300w" data-sizes="(max-width: 590px) 100vw, 590px">		</a><div
+class=stm_posts_list_single__date>
+<span
+class=stm_posts_list_single__day>18</span>
+<span
+class=stm_posts_list_single__month>Фев</span></div></div><div
+class=stm_posts_list_single__body><h5 class="stm_posts_list_single__title">
+<a
+href=https://rbs-crm.ru/obnovleniya-rosbiznessoft-crm/ title="Обновления РосБизнесСофт">
+Обновления РосБизнесСофт	</a></h5><div
+class=stm_posts_list_single__excerpt><p>Номер 8-800, новые сервера, ЭДО Диадок и обновление системы.</p></div></div></div></div><div
+class=stm_posts_list_single><div
+class=stm_posts_list_single__container><div
+class=stm_posts_list_single__image>
+<a
+href=https://rbs-crm.ru/ny2021/ title="Поздравляем с Новым годом и работа в праздники">
+<img
+width=561 height=260 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20561%20260'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2021/12/oblozhka_mail_new22.jpg class="attachment-large size-large wp-post-image lazy" alt loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2021/12/oblozhka_mail_new22.jpg 561w, https://rbs-crm.ru/wp-content/uploads/2021/12/oblozhka_mail_new22-300x139.jpg 300w" data-sizes="(max-width: 561px) 100vw, 561px">		</a><div
+class=stm_posts_list_single__date>
+<span
+class=stm_posts_list_single__day>30</span>
+<span
+class=stm_posts_list_single__month>Дек</span></div></div><div
+class=stm_posts_list_single__body><h5 class="stm_posts_list_single__title">
+<a
+href=https://rbs-crm.ru/ny2021/ title="Поздравляем с Новым годом и работа в праздники">
+Поздравляем с Новым годом и работа в праздники	</a></h5><div
+class=stm_posts_list_single__excerpt><p>Мы рады, что вы были с нами в этом году! Благодарим Вас за доверие и надеемся, что в Новом году наше сотрудничество продолжится.</p></div></div></div></div><div
+class=stm_posts_list_single><div
+class=stm_posts_list_single__container><div
+class=stm_posts_list_single__image>
+<a
+href=https://rbs-crm.ru/snizhaem-czeny-na-produkty-rosbiznessoft-do-koncza-goda/ title="Снижаем цены на продукты РосБизнесСофт до конца года">
+<img
+width=768 height=522 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20768%20522'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2021/12/ny2021-min.jpg class="attachment-large size-large wp-post-image lazy" alt loading=lazy data-srcset="https://rbs-crm.ru/wp-content/uploads/2021/12/ny2021-min.jpg 768w, https://rbs-crm.ru/wp-content/uploads/2021/12/ny2021-min-300x204.jpg 300w" data-sizes="(max-width: 768px) 100vw, 768px">		</a><div
+class=stm_posts_list_single__date>
+<span
+class=stm_posts_list_single__day>07</span>
+<span
+class=stm_posts_list_single__month>Дек</span></div></div><div
+class=stm_posts_list_single__body><h5 class="stm_posts_list_single__title">
+<a
+href=https://rbs-crm.ru/snizhaem-czeny-na-produkty-rosbiznessoft-do-koncza-goda/ title="Снижаем цены на продукты РосБизнесСофт до конца года">
+Снижаем цены на продукты РосБизнесСофт до конца года	</a></h5><div
+class=stm_posts_list_single__excerpt><p>В преддверии нового года мы решили сделать приятный подарок всем нашим клиентам &#8212; новогодние скидки до 35%!</p></div></div></div></div></div><div
+class="stm-button stm-button_center    wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp">
+<a
+href=/company/news/
+class="btn btn_outline btn_primary btn_center btn_default stm-button_621f22e1bfa68      "
+title="Все новости"
+target=_self data-iframe=true>
+<span
+class=btn__label>Все новости</span>
+</a></div><div
+class="stm_spacer "><div
+class="visible-lg visible-md" style="height: 80px;"></div><div
+class=visible-sm_landscape style="height: 80px;"></div><div
+class=visible-sm style="height: 81px;"></div><div
+class=visible-xs style="height: 80px;"></div></div></div></div></div></div></div></div></div></div></div></div></div><div
+class=stm-footer><div
+class="container footer_widgets_count_4"><div
+class=footer-widgets><aside
+id=stm_text-3 class="widget widget-default widget-footer stm_wp_widget_text"><div
+class="widgettitle widget-footer-title"><h4>РосБизнесСофт</h4></div><div
+class=textwidget>Мощная CRM/ERP система для серьезного бизнеса.<p
+style=padding-top:90px;>
+<a
+href=https://apps.apple.com/us/app/rbs360-lite/id1566787113 target=_blank rel="noopener noreferrer"><img
+class="alignnone wp-image-4973 lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20134%2050'%3E%3C/svg%3E" data-src=/wp-content/uploads/2020/04/bst_site_app_banner_button-300x103.jpg alt width=134 height=50></a></p></div></aside><aside
+id=stm_custom_menu-5 class="widget widget-default widget-footer stm_custom_menu stm_custom_menu_77777"><div
+class="widgettitle widget-footer-title"><h4>Навигация</h4></div><div
+class=menu-bottom_navigation-container><ul
+id=menu-bottom_navigation class=menu><li
+id=menu-item-6277 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6277"><a
+href=https://rbs-crm.ru/products/ >Продукты</a></li>
+<li
+id=menu-item-6278 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6278"><a
+href=https://rbs-crm.ru/industries/ >Отраслевые решения</a></li>
+<li
+id=menu-item-6279 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6279"><a
+href=/services/vnedreniye_crm_sistemy/ >Внедрение CRM</a></li>
+<li
+id=menu-item-6642 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6642"><a
+href=https://rbs-crm.ru/company/feedback/order/ >Заявка на внедрение</a></li>
+<li
+id=menu-item-6285 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6285"><a
+href=/services/integration/ >Интеграции</a></li>
+<li
+id=menu-item-6396 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6396"><a
+href="/services/integration/?id=15">Полная интеграция с &#171;1С&#187;</a></li>
+<li
+id=menu-item-6280 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6280"><a
+href=https://rbs-crm.ru/clients/ >Клиенты</a></li>
+<li
+id=menu-item-6281 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6281"><a
+href=https://rbs-crm.ru/partneram/ >Партнерам</a></li>
+<li
+id=menu-item-6643 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6643"><a
+href=https://rbs-crm.ru/help/ >Документация</a></li>
+<li
+id=menu-item-6284 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6284"><a
+href=https://rbs-crm.ru/company/news/ >Новости</a></li>
+<li
+id=menu-item-6282 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6282"><a
+href=https://rbs-crm.ru/company/ >О компании</a></li></ul></div></aside><aside
+id=stm_custom_menu-3 class="widget widget-default widget-footer stm_custom_menu stm_custom_menu_77777"><div
+class="widgettitle widget-footer-title"><h4>Популярное</h4></div><div
+class=menu-bottom_popular-container><ul
+id=menu-bottom_popular class=menu><li
+id=menu-item-6290 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6290"><a
+href=https://rbs-crm.ru/products/prices/ >Цены</a></li>
+<li
+id=menu-item-6287 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6287"><a
+href=https://rbs-crm.ru/company/feedback/trial/ >Бесплатный тест-драйв</a></li>
+<li
+id=menu-item-6289 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6289"><a
+href=https://rbs-crm.ru/company/feedback/presentation/ >Заказать презентацию</a></li>
+<li
+id=menu-item-6513 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6513"><a
+href=https://rbs-crm.ru/products/obzor-crm-systemy/ >Видеообзор возможностей</a></li>
+<li
+id=menu-item-6260 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6260"><a
+href=https://rbs-crm.ru/cases/ >Кейсы внедрения CRM</a></li>
+<li
+id=menu-item-6288 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6288"><a
+href=https://rbs-crm.ru/products/tenicheskiye_trebovaniya/ >Технические требования</a></li>
+<li
+id=menu-item-6265 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6265"><a
+href=https://rbs-crm.ru/crm_sistemy_chto_eto/ >CRM — что это такое</a></li>
+<li
+id=menu-item-6266 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6266"><a
+href=https://rbs-crm.ru/osnovnaya-metodologiya-crm-loyalnost/ >Методология CRM и лояльность</a></li>
+<li
+id=menu-item-6267 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6267"><a
+href=https://rbs-crm.ru/istoriya-crm-sistem/ >История развития CRM систем</a></li>
+<li
+id=menu-item-6268 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6268"><a
+href=https://rbs-crm.ru/primeneniya-crm-v-chastnom-sektore/ >Сфера применения CRM</a></li>
+<li
+id=menu-item-6395 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6395"><a
+href=https://rbs-crm.ru/kak-vybirat-crm-sistemu/ >Как выбрать CRM систему в 2022?</a></li></ul></div></aside><aside
+id=contacts-2 class="widget widget-default widget-footer widget_contacts widget_contacts_style_3"><div
+class="widgettitle widget-footer-title"><h4>Контакты</h4></div><div
+class=widget_contacts_inner itemscope itemtype=http://schema.org/Organization><div
+class="stm-icontext stm-icontext_style2 stm-icontext__address" data-title=Address>
+<i
+class="stm-icontext__icon fa fa-home"></i>
+<span
+class=stm-icontext__text itemprop=address>
+Россия, г. Москва, ул. Орджоникидзе, д. 11 </span></div><div
+class="stm-icontext stm-icontext_style2 stm-icontext__phone" data-title=Phone>
+<i
+class="stm-icontext__icon fa fa-phone-square"></i>
+<span
+class=stm-icontext__text itemprop=telephone>
++7 (499) 705-69-75 </span></div><div
+class="stm-icontext stm-icontext_style2 stm-icontext__email" data-title=Email>
+<i
+class="stm-icontext__icon fa fa-envelope"></i>
+<span
+class=stm-icontext__text>
+<a
+class=stm-effects_opacity
+itemprop=email
+href=mailto:info@rbs-crm.ru>
+info@rbs-crm.ru </a>
+</span></div><div
+class="stm-icontext stm-icontext_style2 stm-icontext__fax" data-title="Open hours">
+<i
+class="stm-icontext__icon stmicon-med_time"></i>
+<span
+class=stm-icontext__text>
+ПН-ПТ: 10.00 - 18.30 МСК </span></div><div
+class="stm-socials stm_mgt_29">
+<a
+href=https://www.facebook.com/rbscrm/
+class="stm-socials__icon stm-socials__icon_icon_only icon_24px stm-socials_opacity-hover"
+target=_blank
+title="Social item">
+<i
+class="fa fa-facebook"></i>
+</a>
+<a
+href=https://twitter.com/rbs_crm
+class="stm-socials__icon stm-socials__icon_icon_only icon_24px stm-socials_opacity-hover"
+target=_blank
+title="Social item">
+<i
+class="fa fa-twitter"></i>
+</a>
+<a
+href=https://www.youtube.com/user/rosbiznessoft
+class="stm-socials__icon stm-socials__icon_icon_only icon_24px stm-socials_opacity-hover"
+target=_blank
+title="Social item">
+<i
+class="fa fa-youtube"></i>
+</a>
+<a
+href=https://vk.com/rbs_crm
+class="stm-socials__icon stm-socials__icon_icon_only icon_24px stm-socials_opacity-hover"
+target=_blank
+title="Social item">
+<i
+class="fa fa-vk"></i>
+</a></div></div></aside></div><div
+class=stm-footer__bottom><div
+class="stm_markup stm_markup_50"><div
+itemscope
+itemtype=http://schema.org/Organization
+class="stm_markup__content stm_mf stm_bottom_copyright ">
+<span></span>
+<span>2022</span>
+<span
+itemprop=copyrightHolder>Copyright РосБизнеСофт</span></div></div></div></div></div><div
+class="modal fade" id=searchModal tabindex=-1 role=dialog aria-labelledby=searchModal><div
+class=vertical-alignment-helper><div
+class="modal-dialog vertical-align-center" role=document><div
+class=modal-content><div
+class=modal-body><form
+method=get id=searchform action=https://rbs-crm.ru/ ><div
+class=search-wrapper>
+<input
+placeholder="Начните вводить здесь..." type=text class="form-control search-input" value name=s id=s>
+<button
+type=submit class=search-submit ><i
+class="fa fa-search mtc"></i></button></div></form></div></div></div></div></div><div
+id=ssb-container
+class="ssb-btns-right ssb-disable-on-mobile ssb-anim-slide"><ul
+class=ssb-dark-hover>
+<li
+id=ssb-btn-0><p>
+<a
+href=/company/feedback/presentation/ ><span
+class="fas fa-chalkboard-teacher"></span> Заказать презентацию</a></p>
+</li>
+<li
+id=ssb-btn-1><p>
+<a
+href=/company/contacts/#ask ><span
+class="fas fa-question"></span> Задать вопрос</a></p>
+</li>
+<li
+id=ssb-btn-4><p>
+<a
+href=javascript:jivo_api.open(); ><span
+class="fab fa-rocketchat"></span> Online-чат с менеджером</a></p>
+</li></ul></div><div
+id=pum-7185 class="pum pum-overlay pum-theme-4126 pum-theme-enterprise-blue popmake-overlay pum-overlay-disabled auto_open click_open" data-popmake="{&quot;id&quot;:7185,&quot;slug&quot;:&quot;top5&quot;,&quot;theme_id&quot;:4126,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;popup-top5&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:true}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;popup-top5&quot;],&quot;delay&quot;:&quot;1000&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:&quot;1&quot;,&quot;overlay_disabled&quot;:&quot;1&quot;,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;custom&quot;,&quot;responsive_min_width&quot;:&quot;0px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;200px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;left bottom&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;20&quot;,&quot;position_bottom&quot;:&quot;20&quot;,&quot;position_right&quot;:&quot;10&quot;,&quot;position_fixed&quot;:&quot;1&quot;,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;500&quot;,&quot;animation_origin&quot;:&quot;bottom&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role=dialog aria-hidden=true ><div
+id=popmake-7185 class="pum-container popmake theme-4126 size-custom pum-position-fixed"><div
+class="pum-content popmake-content" tabindex=0><p><center><a
+href=/rosbiznessoft-voshlo-v-top-5-crm-rossii/ ><br>
+<img
+loading=lazy class="size-full wp-image-7182 aligncenter lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%20179'%3E%3C/svg%3E" data-src=https://rbs-crm.ru/wp-content/uploads/2021/11/5mesto.png alt width=170 height=179></a><br></center></p></div><button
+type=button class="pum-close popmake-close" aria-label=Закрыть>
+× </button></div></div><div
+id=pum-4130 class="pum pum-overlay pum-theme-4126 pum-theme-enterprise-blue popmake-overlay click_open" data-popmake={&quot;id&quot;:4130,&quot;slug&quot;:&quot;obratnyj-zvonok&quot;,&quot;theme_id&quot;:4126,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;#ssb-btn-2&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;small&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;300px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:&quot;1&quot;,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;10&quot;,&quot;position_right&quot;:&quot;10&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;bottom&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}} role=dialog aria-hidden=true aria-labelledby=pum_popup_title_4130><div
+id=popmake-4130 class="pum-container popmake theme-4126 pum-responsive pum-responsive-small responsive size-small"><div
+id=pum_popup_title_4130 class="pum-title popmake-title">
+Обратный звонок</div><div
+class="pum-content popmake-content" tabindex=0><div
+role=form class=wpcf7 id=wpcf7-f4136-o1 lang=ru-RU dir=ltr><div
+class=screen-reader-response aria-live=polite></div><form
+action=/#wpcf7-f4136-o1 method=post class=wpcf7-form novalidate=novalidate><div
+style="display: none;">
+<input
+type=hidden name=_wpcf7 value=4136>
+<input
+type=hidden name=_wpcf7_version value=5.1.9>
+<input
+type=hidden name=_wpcf7_locale value=ru_RU>
+<input
+type=hidden name=_wpcf7_unit_tag value=wpcf7-f4136-o1>
+<input
+type=hidden name=_wpcf7_container_post value=0></div><div
+class="request_quote simple"><div
+class=row><div
+class="col-md-12 col-sm-12"><span
+class="wpcf7-form-control-wrap your-name"><input
+type=text name=your-name value size=40 class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required=true aria-invalid=false placeholder=Имя></span></div></p></div><div
+class=row><div
+class="col-md-12 col-sm-12"><span
+class="wpcf7-form-control-wrap your-tel"><input
+type=tel name=your-tel value size=40 class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required=true aria-invalid=false placeholder=Телефон></span></div></p></div><div
+class=row><div
+class="col-md-12 col-sm-12"><span
+class="wpcf7-form-control-wrap your-email"><input
+type=email name=your-email value size=40 class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-email" aria-invalid=false placeholder=E-mail></span></div></p></div><div
+class=row><div
+class="col-md-12 col-sm-12"><span
+class="wpcf7-form-control-wrap your-message"><textarea name=your-message cols=40 rows=10 class="wpcf7-form-control wpcf7-textarea" aria-invalid=false placeholder=Сообщение></textarea></span>
+<input
+type=hidden name=form-name value=demo class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=utm_campaign value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=utm_source value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=utm_term value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=utm_medium value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=utm_content value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=gclid value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=handl_original_ref value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=handl_landing_page value=https://rbs-crm.ru/ class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=handl_ip value=66.249.66.34 class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=handl_ref value class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=handl_url value=https://rbs-crm.ru/ class="wpcf7-form-control wpcf7-hidden"><p>
+<input
+type=hidden name=referal value class="wpcf7-form-control wpcf7-hidden"><p></p></div></p></div><div
+class=row><div
+class="col-md-12 col-sm-12"><span
+class="wpcf7-form-control-wrap agree"><span
+class="wpcf7-form-control wpcf7-acceptance invert"><span
+class=wpcf7-list-item><input
+type=checkbox name=agree value=1 aria-invalid=false checked=checked class=agree></span></span></span></div></p></div><div>
+<button
+type=submit  onclick="ym(92710,'reachGoal','CALLBACK')" class="btn btn_solid btn_primary btn_left btn_default"><span
+class=btn__label>Отправить</span></button></div></div><style>.agree{display:none}</style><p><script language=javascript>var x=document.getElementsByClassName("agree");var i;for(i=0;i<x.length;i++){x[i].checked=false;}</script></p>
+<input
+type=hidden class=wpcf7-pum value='{"closepopup":true,"closedelay":2,"openpopup":false,"openpopup_id":0}'><div
+class="wpcf7-response-output wpcf7-display-none" aria-hidden=true></div></form></div></div><button
+type=button class="pum-close popmake-close" aria-label=Закрыть>
+× </button></div></div> <script type=text/html id=wpb-modifications></script><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/f182b.css media=all><style id=pearl-row_style_1-inline-css>.btn.stm-button_621f22e1a680c
+.btn__icon{width:55px}.vc_custom_1594829464909{background-position:50% 50%!important}@media (max-width: 1024px){.vc_custom_1594829464909{background-image:none !important}}.btn.stm-button_621f22e1a894d
+.btn__icon{width:55px}.pearl_column_inner_4808086658aa6924ac2b8a6526b7bd1f{box-shadow:0px 0px 0px 0px !important}.btn.stm-button_621f22e1bba23
+.btn__icon{width:55px}.btn.stm-button_621f22e1bc628
+.btn__icon{width:55px}.btn.stm-button_621f22e1bfa68
+.btn__icon{width:55px}</style><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/d9d0a.css media=all><style id=stm_slider-inline-css>.slide_1::before{background-color:rgba(1, 0, 0, 0.38)}.slide_2::before{background-color:hsla(0, 0%, 0%, 0.54)}.slide_3::before{background-color:hsla(0, 0%, 0%, 0.69)}.stm_slider{width:100% !important}.stm_slider, .stm_slider
+.stm_slide{height:800px !important}</style><link
+rel=stylesheet href=https://rbs-crm.ru/wp-content/cache/minify/4cc9c.css media=all> <script id=contact-form-7-js-extra>var wpcf7={"apiSettings":{"root":"https:\/\/rbs-crm.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};var wpcf7={"apiSettings":{"root":"https:\/\/rbs-crm.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/8d12d.js></script> <script id=wpcf7-redirect-script-js-extra>var wpcf7_redirect_forms={"6966":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"6611":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"6371":{"page_id":"6375","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"on","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":"https:\/\/rbs-crm.ru\/company\/feedback\/trial\/install\/"},"6318":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"6002":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"5984":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"4247":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"4196":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"4150":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"4136":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"3976":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"5":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"1840":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""}};</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/61ae9.js></script> <script id=popup-maker-site-js-extra>var pum_vars={"version":"1.16.2","pm_dir_url":"https:\/\/rbs-crm.ru\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/rbs-crm.ru\/wp-admin\/admin-ajax.php","restapi":"https:\/\/rbs-crm.ru\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"4126","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/rbs-crm.ru\/wp-json\/pum\/v1"};var pum_sub_vars={"ajaxurl":"https:\/\/rbs-crm.ru\/wp-admin\/admin-ajax.php","message_position":"top"};var pum_popups={"pum-7185":{"triggers":[{"type":"auto_open","settings":{"cookie_name":["popup-top5"],"delay":"1000"}}],"cookies":[{"event":"on_popup_close","settings":{"name":"popup-top5","key":"","session":false,"time":"1 month","path":true}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"4126","size":"custom","responsive_min_width":"0px","responsive_max_width":"100px","custom_width":"200px","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"500","animation_origin":"bottom","open_sound":"none","custom_sound":"","location":"left bottom","position_top":"100","position_bottom":"20","position_left":"20","position_right":"10","position_from_trigger":false,"position_fixed":true,"overlay_disabled":true,"stackable":true,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"enterprise-blue","id":7185,"slug":"top5"},"pum-4130":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":"#ssb-btn-2"}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"4126","size":"small","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"300px","custom_height_auto":true,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"bottom","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"10","position_left":"0","position_right":"10","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"enterprise-blue","id":4130,"slug":"obratnyj-zvonok"}};</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/97cc3.js></script> <script id=jquery-ui-datepicker-js-after>jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","currentText":"\u0421\u0435\u0433\u043e\u0434\u043d\u044f","monthNames":["\u042f\u043d\u0432\u0430\u0440\u044c","\u0424\u0435\u0432\u0440\u0430\u043b\u044c","\u041c\u0430\u0440\u0442","\u0410\u043f\u0440\u0435\u043b\u044c","\u041c\u0430\u0439","\u0418\u044e\u043d\u044c","\u0418\u044e\u043b\u044c","\u0410\u0432\u0433\u0443\u0441\u0442","\u0421\u0435\u043d\u0442\u044f\u0431\u0440\u044c","\u041e\u043a\u0442\u044f\u0431\u0440\u044c","\u041d\u043e\u044f\u0431\u0440\u044c","\u0414\u0435\u043a\u0430\u0431\u0440\u044c"],"monthNamesShort":["\u042f\u043d\u0432","\u0424\u0435\u0432","\u041c\u0430\u0440","\u0410\u043f\u0440","\u041c\u0430\u0439","\u0418\u044e\u043d","\u0418\u044e\u043b","\u0410\u0432\u0433","\u0421\u0435\u043d","\u041e\u043a\u0442","\u041d\u043e\u044f","\u0414\u0435\u043a"],"nextText":"\u0414\u0430\u043b\u0435\u0435","prevText":"\u041d\u0430\u0437\u0430\u0434","dayNames":["\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u044c\u0435","\u041f\u043e\u043d\u0435\u0434\u0435\u043b\u044c\u043d\u0438\u043a","\u0412\u0442\u043e\u0440\u043d\u0438\u043a","\u0421\u0440\u0435\u0434\u0430","\u0427\u0435\u0442\u0432\u0435\u0440\u0433","\u041f\u044f\u0442\u043d\u0438\u0446\u0430","\u0421\u0443\u0431\u0431\u043e\u0442\u0430"],"dayNamesShort":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"dayNamesMin":["\u0412\u0441","\u041f\u043d","\u0412\u0442","\u0421\u0440","\u0427\u0442","\u041f\u0442","\u0421\u0431"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});</script> <script src=https://rbs-crm.ru/wp-content/cache/minify/1e24e.js></script> <script src=//code-eu1.jivosite.com/widget/GhnDEFve2G async></script> <script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src=https://rbs-crm.ru/wp-content/cache/minify/1615d.js></script> </body></html>

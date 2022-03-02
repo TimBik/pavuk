@@ -1,0 +1,660 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" prefix="og: http://ogp.me/ns# video: http://ogp.me/ns/video# music: http://ogp.me/ns/music# ya: http://webmaster.yandex.ru/vocabularies/">
+
+<head>
+    <meta name="yandex-verification" content="0b35e0bce612b2ba" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width">
+    <title>Программирование и робототехника</title>
+<meta name="keywords" content="программирование, робототехника,Си, Vb, лего, ардуино, компьютерное, моделирование, проекты, алгоритмы, практикум, программы, уроки" />
+<meta name="description" content="Itrobo  образовательный портал по программированию и робототехнике и компьютерному моделированию" />
+<script type="text/javascript" src="/includes/jquery/jquery.js"></script>
+<script type="text/javascript" src="/core/js/common.js"></script>
+<link href="/templates/_default_/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/templates/_default_/css/text.css" rel="stylesheet" type="text/css" />
+<link href="/templates/_default_/css/960.css" rel="stylesheet" type="text/css" />
+<link href="/templates/_default_/css/styles.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/includes/jquery/colorbox/jquery.colorbox.js"></script>
+<link href="/includes/jquery/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/includes/jquery/colorbox/init_colorbox.js"></script>
+<script type="text/javascript">var TEMPLATE = "_default_";</script>
+<script type="text/javascript">var LANG_CBOX_IMAGE = 'Фото'; var LANG_CBOX_FROM = 'из'; var LANG_CBOX_PREVIOUS = 'Предыдущее'; var LANG_CBOX_NEXT = 'Следующее'; var LANG_CBOX_CLOSE = 'Закрыть'; var LANG_CBOX_XHR_ERROR = 'Не удалось загрузить контент.'; var LANG_CBOX_IMG_ERROR = 'Не удалось загрузить фото.'; var LANG_CBOX_SLIDESHOWSTOP = 'Остановить слайдшоу'; var LANG_CBOX_SLIDESHOWSTART = 'Запустить слайдшоу'; var LANG_SEND = 'Отправить'; var LANG_CONTINUE = 'Продолжить'; var LANG_CLOSE = 'Закрыть'; var LANG_SAVE = 'Сохранить'; var LANG_CANCEL = 'Отмена'; var LANG_ATTENTION = 'Внимание'; var LANG_CONFIRM = 'Подтверждение действия'; var LANG_LOADING = 'Загрузка'; var LANG_ERROR = 'Ошибка'; var LANG_ADD = 'Добавить'; var LANG_SELECT_CITY = 'Выберите город'; var LANG_SELECT = 'Выбрать'; </script>
+    </head>
+
+<body>
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter50362009 = new Ya.Metrika2({
+                    id:50362009,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/tag.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/50362009" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <div id="wrapper">
+
+        <div id="header">
+            <div class="container_12">
+                <div class="grid_2">
+                    <div id="sitename"><a href="/"></a></div>
+                </div>
+                <div class="grid_10">
+                                                        </div>
+            </div>
+        </div>
+
+        <div id="page">
+
+                        <div class="container_12" id="topmenu">
+                <div class="grid_12">
+                    <div>
+    <ul id="mainmenu" class="menu">
+
+    
+        <li class="selected">
+
+            <a href="/" class="selected"><span><i class="fa fa-home"></i>Главная</span></a>
+
+        </li>
+
+    
+    
+        
+        
+        
+        
+            <li class=" ">
+
+                <a href="/code" target="_self"  title="Программирование">
+
+                    <span>
+                        Программирование
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+        <ul>
+            <li class=" ">
+
+                <a href="/programmirovanie/samouchitel-po-si-s-nulja.html" target="_self"  title="Основы Си">
+
+                    <span>
+                        Основы Си
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/programmirovanie/kurs-po-vb-s-nulja.html" target="_self"  title="Основы VB">
+
+                    <span>
+                        Основы VB
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/programmirovanie/kurs-python.html" target="_self"  title="Курс по Python">
+
+                    <span>
+                        Курс по Python
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+            </li></ul></li>
+
+        
+        
+            <li class=" ">
+
+                <a href="/robot" target="_self"  title="Робототехника">
+
+                    <span>
+                        Робототехника
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+        <ul>
+            <li class=" ">
+
+                <a href="/robototehnika/kurs-programmirovanija-lego-ev3.html" target="_self"  title="Лего">
+
+                    <span>
+                        Лего
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/robototehnika/kurs-po-arduino.html" target="_self"  title="Arduino">
+
+                    <span>
+                        Arduino
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/robot/project" target="_self"  title="Проекты">
+
+                    <span>
+                        Проекты
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/robototehnika/novosti-robotov" target="_self"  title="Новости роботов">
+
+                    <span>
+                        Новости роботов
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+            </li></ul></li>
+
+        
+        
+            <li class=" ">
+
+                <a href="/model" target="_self"  title="Моделирование">
+
+                    <span>
+                        Моделирование
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+        <ul>
+            <li class=" ">
+
+                <a href="/modelirovanie/kurs-kompyuternoe-modelirovanie-v-nauke.html" target="_self"  title="Наука и техника">
+
+                    <span>
+                        Наука и техника
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/modelirovanie/kurs-po-modelirovaniyu-v-yekonomike.html" target="_self"  title="Экономика">
+
+                    <span>
+                        Экономика
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+            </li></ul></li>
+
+        
+        
+            <li class=" ">
+
+                <a href="/metod" target="_self"  title="Методика">
+
+                    <span>
+                        Методика
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+        <ul>
+            <li class=" ">
+
+                <a href="/metod/uroki" target="_self"  title="Метод. материалы">
+
+                    <span>
+                        Метод. материалы
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/metod/article" target="_self"  title="Статьи">
+
+                    <span>
+                        Статьи
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+            </li></ul></li>
+
+        
+        
+            <li class=" ">
+
+                <a href="/novosti" target="_self"  title="Инфо">
+
+                    <span>
+                        Инфо
+                    </span>
+
+                </a>
+
+        
+    
+        
+        
+        
+        <ul>
+            <li class=" ">
+
+                <a href="/avtor.html" target="_self"  title="Автор">
+
+                    <span>
+                        Автор
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/dostizhenija-uchenikov.html" target="_self"  title="Достижения">
+
+                    <span>
+                        Достижения
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/novosti" target="_self"  title="Новости">
+
+                    <span>
+                        Новости
+                    </span>
+
+                </a>
+
+        
+    
+        </li>
+        
+        
+        
+            <li class=" ">
+
+                <a href="/obratnaja-svjaz-s-obrazovatelnym-portalo.html" target="_self"  title="Обратная связь">
+
+                    <span>
+                        Обратная связь
+                    </span>
+
+                </a>
+
+        
+    
+    
+        </li>
+
+    
+        </li>
+
+    
+</ul>
+</div>                </div>
+            </div>
+            
+                        <div class="clear"></div>
+
+            <div id="topwide" class="container_12">
+                <div class="grid_12" id="topmod"><div class="module">
+        <div class="modulebody"><p><span style="font-size:14px;">Портал посвящен &nbsp;информационным технологиям&nbsp; в школе и образовательной робототехнике. </span></p>
+
+<p><span style="font-size:14px;">Вы найдете здесь&nbsp; материалы&nbsp;по&nbsp;программированию на&nbsp;Си, Visual Basic, python&nbsp;и других языках программирования.&nbsp;Все уроки снабжены интересными примерами программ. Отдельно предусмотрен практикум по программированию с решениями и задачами из егэ и огэ по информатике.</span></p>
+
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 600px;">
+	<tbody>
+		<tr>
+			<td>
+			<p style="text-align: center;"><span style="font-size:16px;"><a href="http://itrobo.ru/programmirovanie/samouchitel-po-si-s-nulja.html"><img alt="" src="/upload/wysiwyg/fcff3d39575863a4e4ee2d9af9163aa0.png" style="width: 150px; height: 150px;" /></a></span></p>
+
+			<p style="text-align: center;"><span style="font-size:16px;"><a href="http://itrobo.ru/programmirovanie/samouchitel-po-si-s-nulja.html"><strong>Курс по Си</strong></a></span></p>
+			</td>
+			<td>
+			<p style="text-align: center;"><a href="http://itrobo.ru/programmirovanie/praktikum-programmirovanija-po-si.html"><img alt="" src="/upload/wysiwyg/9287d829610ead4b0edcbf7b93ab19d9.png" style="width: 150px; height: 150px;" /></a></p>
+
+			<p style="text-align: center;"><strong><a href="http://itrobo.ru/programmirovanie/praktikum-programmirovanija-po-si.html"><span style="font-size:16px;">Практикум по Си</span></a></strong></p>
+			</td>
+			<td>
+			<p style="text-align: center;"><a href="http://itrobo.ru/programmirovanie/kurs-po-vb-s-nulja.html"><img alt="курс по vb" src="/upload/wysiwyg/ca68fb5d15d903fc5b438b6c723cbd24.png" style="width: 145px; height: 150px;" /></a></p>
+
+			<p style="text-align: center;"><strong><a href="http://itrobo.ru/programmirovanie/kurs-po-vb-s-nulja.html"><span style="font-size:16px;">Курс по Vb&nbsp;</span></a></strong></p>
+			</td>
+			<td>
+			<p><a href="http://itrobo.ru/programmirovanie/kurs-python.html"><img alt="" src="/upload/wysiwyg/d84e6ed1ab957fe1e9e1934c44e99d22.jpg" style="width: 150px; height: 150px;" /></a></p>
+
+			<p style="text-align: center;"><a href="http://itrobo.ru/programmirovanie/kurs-python.html"><strong><span style="font-size:16px;">Курс по Python</span></strong></a></p>
+			</td>
+			<td>
+			<p><a href="http://itrobo.ru/programmirovanie/kurs-po-paskal.html"><img alt="паскаль" src="/upload/wysiwyg/d3b350e416038fc9dd126490cb8d4386.jpg" style="width: 150px; height: 150px;" /></a></p>
+
+			<p style="text-align: center;"><strong><a href="http://itrobo.ru/programmirovanie/kurs-po-paskal.html"><span style="font-size:16px;">Курс по Pascal</span></a></strong></p>
+			</td>
+			<td style="text-align: center;">
+			<p><a href="http://itrobo.ru/programmirovanie/web-tehnologii.html" target="_blank"><img alt="курсы по html и php" src="/upload/wysiwyg/085d0d36e8e54cd51edce7e7839162b4.jpg" style="width: 149px; height: 150px;" /></a></p>
+
+			<p><strong><a href="http://itrobo.ru/programmirovanie/web-tehnologii.html" target="_blank"><span style="font-size:16px;">Web технологии</span></a></strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:14px;">В разделе образовательная робототехника вы найдете&nbsp;уроки по Lego Mindtsorms&nbsp;ev3. Схемы роботов и основные алгоритмы.Для старшей школы предусмотрен курс&nbsp;Arduino в нем&nbsp;размещены схемы подключения датчиков,&nbsp; устройств,&nbsp;программы по их управлению.&nbsp;</span></p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
+	<tbody>
+		<tr>
+			<td>
+			<p style="text-align: center;"><span style="font-size:16px;"><a href="http://itrobo.ru/robototehnika/kurs-programmirovanija-lego-ev3.html"><img alt="программирование лего lego ev3" src="/upload/wysiwyg/eaad8a5fbecf3d3619cd679dbf60fd90.png" style="width: 150px; height: 149px;" /></a></span></p>
+
+			<p style="text-align: center;"><a href="http://itrobo.ru/robototehnika/kurs-programmirovanija-lego-ev3.html"><span style="font-size:16px;"><strong>Программирование &nbsp;EV3</strong></span></a></p>
+			</td>
+			<td>
+			<p><a href="http://itrobo.ru/robototehnika/shemy-robotov.html"><img alt="схемы лего роботов" src="/upload/wysiwyg/07256f5a042d0904fbf58cf661214bc8.png" style="width: 150px; height: 149px;" /></a></p>
+
+			<p><a href="http://itrobo.ru/robototehnika/shemy-robotov.html"><strong><span style="font-size:16px;">Схемы роботов Lego</span></strong></a></p>
+			</td>
+			<td>
+			<p style="text-align: center;"><a href="http://itrobo.ru/robototehnika/kurs-po-arduino.html"><img alt="ардуино" src="/upload/wysiwyg/9a54b7e4576085013ae4b2907a220805.png" style="width: 150px; height: 145px;" /></a></p>
+
+			<p style="text-align: center;"><strong><span style="font-size:16px;"><a href="http://itrobo.ru/robototehnika/kurs-po-arduino.html">Курс по Arduino</a></span></strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:14px;">Отдельный раздел портала посвящен компьютерному моделированию, основам искусственного интеллекта.</span></p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
+	<tbody>
+		<tr>
+			<td>
+			<p style="text-align: center;"><a href="http://itrobo.ru/modelirovanie/kurs-kompyuternoe-modelirovanie-v-nauke.html"><img alt="" src="/upload/wysiwyg/75f72dd9ba8958cd34268b548297b98b.jpg" style="width: 150px; height: 155px;" /></a></p>
+
+			<p style="text-align: center;"><a href="http://itrobo.ru/modelirovanie/kurs-kompyuternoe-modelirovanie-v-nauke.html"><strong><span style="font-size:16px;">Моделирование&nbsp;</span></strong></a></p>
+
+			<p style="text-align: center;"><a href="http://itrobo.ru/modelirovanie/kurs-kompyuternoe-modelirovanie-v-nauke.html"><strong><span style="font-size:16px;">в науке и технике</span></strong></a></p>
+			</td>
+			<td>
+			<p style="text-align: center;"><a href="http://itrobo.ru/modelirovanie/kurs-po-modelirovaniyu-v-yekonomike.html"><img alt="" src="/upload/wysiwyg/18b140558c2d62a4f8f7b7a0dd7e2568.png" style="width: 150px; height: 158px;" /></a></p>
+
+			<p style="text-align: center;"><a href="http://itrobo.ru/modelirovanie/kurs-po-modelirovaniyu-v-yekonomike.html"><strong><span style="font-size:16px;">Моделирование</span></strong></a></p>
+
+			<p style="text-align: center;"><a href="http://itrobo.ru/modelirovanie/kurs-po-modelirovaniyu-v-yekonomike.html"><strong><span style="font-size:16px;">в экономике</span></strong></a></p>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:14px;">Предусмотрен отдельный раздел для педагогов&nbsp;информатики и робототехники.В этом разделе&nbsp;Вы найдете&nbsp;рабочие программы, методические разработки уроков по робототехнике и программированию, полезные статьи.</span></p>
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td>
+			<p style="text-align: center;"><a href="http://itrobo.ru/metod/uroki"><img alt="методические материалы" src="/upload/wysiwyg/39ec5d0619162fd27ac004ff268f6cb9.png" style="width: 150px; height: 146px;" /></a></p>
+
+			<p style="text-align: center;"><strong><a href="http://itrobo.ru/metod/uroki"><span style="font-size:16px;">Методические материалы</span></a></strong></p>
+			</td>
+			<td>
+			<p style="text-align: center;"><strong><a href="http://itrobo.ru/metod/article"><img alt="" src="/upload/wysiwyg/71a1f44c21c52b18004c352f62b4b36a.png" style="width: 150px; height: 147px;" /></a></strong></p>
+
+			<p style="text-align: center;"><strong><span style="font-size:16px;"><a href="http://itrobo.ru/metod/article">Статьи</a></span></strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="font-size:14px;">Все курсы и материалы&nbsp;написаны на основе работы школьной лаборатории по робототехнике и компьютерному моделированию, идут от простого к сложному.</span></p>
+
+<p><span style="font-size: 16px;"><span style="font-size:14px;">Все материалы, размещенные на данном сайте, нельзя использовать без указания ссылки на данный&nbsp;портал.</span></span></p>
+
+<p><span style="font-size: 14px;">Поделиться&nbsp;<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script> <script src="//yastatic.net/share2/share.js"></script> </span></p>
+
+<div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir">&nbsp;</div>
+<!-- Yandex.RTB R-A-484151-3 -->
+
+<div id="yandex_rtb_R-A-484151-3">&nbsp;</div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-A-484151-3",
+                renderTo: "yandex_rtb_R-A-484151-3",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script></div>
+
+</div>
+</div>
+            </div>
+            
+            <div id="pathway" class="container_12">
+                <div class="grid_12"></div>
+            </div>
+
+            <div class="clear"></div>
+
+            <div id="mainbody" class="container_12">
+                <div id="main" class="grid_8">
+                    
+                                        
+                                                        </div>
+                                    <div class="grid_4" id="sidebar"><div class="module">
+            <div class="moduletitle">
+            Авторизация
+                    </div>
+        <div class="modulebody"><form action="/login" method="post" name="authform" style="margin:0px" target="_self" id="authform">
+    <input type="hidden" name="csrf_token" value="f325d1b451744ebe4dee94535b37a82f" />
+    <table class="authtable" width="100%" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+            <td width="60">Логин:</td>
+            <td width=""><input name="login" type="text" id="login" /></td>
+        </tr>
+        <tr>
+            <td height="30" valign="top">Пароль:</td>
+            <td valign="top"><input name="pass" type="password" id="pass" /></td>
+        </tr>
+                    <tr>
+                <td valign="top">&nbsp;</td>
+                <td valign="top" align="right">
+                    <table border="0" cellspacing="0" cellpadding="3">
+                    <tr>
+                        <td width="20">
+                            <input name="remember" type="checkbox" id="remember" value="1" checked="checked"  style="margin-right:0px"/>
+                        </td>
+                        <td>
+                            <label for="remember"> Запомнить меня</label>
+                        </td>
+                    </tr>
+                    </table>
+                </td>
+            </tr>
+                <tr>
+            <td height="27" colspan="2" align="right" valign="top">
+                <table width="100%" border="0" cellspacing="0" cellpadding="3">
+                    <tr>
+                        <td width="87%">
+                                                            <a href="/passremind.html">Забыли пароль?</a>
+                                                    </td>
+                        <td width="13%" align="right"><input id="login_btn" type="submit" name="Submit" value="Вход" /></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</form></div>
+
+</div>
+</div>
+                            </div>
+
+        </div>
+
+    </div>
+
+    <div id="footer">
+        <div class="container_12">
+            <div class="grid_8">
+                <div id="copyright">Образовательный портал по программированию и робототехнике &copy; 2022</div>
+            </div>
+            <div class="grid_4 foot_right">
+                
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(function(){
+            $('#sess_messages').hide().fadeIn();
+            $('#topmenu .menu li, #usermenu li').hover(
+                function() {
+                    $(this).find('ul:first').fadeIn('fast');
+                    $(this).find('a:first').addClass("hover");
+                },
+                function() {
+                    $(this).find('ul:first').hide();
+                    $(this).find('a:first').removeClass("hover");
+                }
+            );
+        });
+    </script>
+    </body>
+</html>

@@ -1,0 +1,503 @@
+
+
+<!doctype html>
+<html lang="Русский (Россия)" is_home_page="true">
+<head>
+    <base href="http://irbissoft.kz/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Главная - Автоматизация учета на базе 1с: Предприятия</title>
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/landing/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/landing/css/lightbox.css" rel="stylesheet" type="text/css" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css" rel="stylesheet" type="text/css" />
+	<script src="/media/jui/js/jquery.min.js?b5512dac2e681ce9f474a42c13de9de3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?b5512dac2e681ce9f474a42c13de9de3" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?b5512dac2e681ce9f474a42c13de9de3" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js?b5512dac2e681ce9f474a42c13de9de3" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" type="text/javascript"></script>
+	<script src="/templates/landing/js/lightbox.min.js" type="text/javascript"></script>
+	<script src="/templates/landing/js/jquery.maskedinput.min.js" type="text/javascript"></script>
+	<script src="/templates/landing/js/jquery.touchswipe.js" type="text/javascript"></script>
+	<script src="/templates/landing/js/main.js" type="text/javascript"></script>
+	<script src="/templates/landing/js/smoothscroll.js" type="text/javascript"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta charset="utf-8"></meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+      <style>
+	.header__top ul li a, .header__nav ul li a, .header__email a, .header__phone a{
+		color:#000000;
+	}
+	.header{
+		background: #ffffff;
+	}
+	.header__phone a{
+		color:#000000;
+	}
+	.header__btn{
+		background: #2e2e2e;
+		color:#ffffff;
+	}
+	.navigation, .navigation__mobile {
+		background: #085e7d;
+	}
+	.navigation ul li a {
+		color: #ffffff;
+	}
+	.footer{
+		background: #f4f4f4;
+	}
+	.footer p{
+		color: #000000;
+	}
+	.footer a{
+		color: #3fc1c9;
+	}
+	.modal__mid {
+		background: #f4f4f4;
+		color: ;
+	}
+	.modal__mid form label {
+		color: #000000	}
+	.modal__header--title {
+		color: #000000; 
+	}
+	 .modal__mid form input.placeholder {
+	  color: #000000; }
+	.modal__mid form input:-moz-placeholder {
+	 color: #000000; }
+	.modal__mid form input::-moz-placeholder {
+	  color: #000000; }
+	.modal__mid form input:-ms-input-placeholder {
+	  color: #000000; }
+	 .modal__mid form input::-webkit-input-placeholder {
+	  color: #000000; }
+	 .modal__mid form input, .modal__mid form textarea {
+	 	background: #ffe877;
+	 	color: #000000;
+	 }
+	 .modal__mid form input[type="submit"] {
+	 	background: #ef262f;
+	 	color: #ffffff;
+	 }
+.blog h3, .tag-category h2 a{
+	color: #000000;
+}
+.blog h2, .item-page .page-header h2, .gallery .jg_category{
+	color: #000000;
+}
+.blog .introtext p, .item-page .fulltext, span.tag-body{
+	color: #000000;
+}
+.wrapper{
+	background: #ffffff;
+}
+p.readmore a{
+	background: #ea1928;
+	color: #ffffff;
+}
+.blog .leading:not(:last-child) {
+    border-bottom: 1px solid #ea1928;
+}	 
+.error {
+	background: #f4f4f4;
+}
+.error__title {
+	color: #000000; 
+}
+.error__text {
+	color: #000000; 
+}
+.error__btn {
+	background: #ee232e; 
+
+}
+.error__btn a{
+	color: #ffffff;  
+}
+</style>        
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+     jQuery.noConflict();
+     var callme_title = "Заказать звонок";
+     var checkout_title = "Оформить заказ";
+     var thanks_title = "Спасибо";
+     var labellightbox = "Картинка %1 из %2";
+     var modal_desc = "Оставьте заявку и наш менеджер свяжется с Вами<br />в ближайшее время.";
+     var thanks_message_modal = "Наш менеджер свяжется с вами в  ближайшее время.";
+     var review_title = "Оставить отзыв";
+     var review_desc = "Будем вам благодарны за ваш отзыв о нашей Компании";
+     var review_thanks = "Спасибо за ваш отзыв! Наш модератор опубликует его после проверки.";
+     var discount_title = "Заказать с скидкой";
+ </script>
+  
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-217694522-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-217694522-1');
+</script>
+   
+  <!-- Event snippet for Website sale conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-10841977006/5Z5qCP3KnpIDEK7h7bEo',
+      'value': 0.05,
+      'currency': 'USD',
+      'transaction_id': ''
+  });
+</script>
+
+
+  
+</head>
+<body>
+  
+<div class="modal">
+    <div class="modal__mid">
+        <div class="modal__close"></div>
+        <div class="modal__form--header close-after">
+            <div class="modal__header--title">Заказать звонок</div>
+            <div class="modal__header--desc">Оставьте заявку и наш менеджер свяжется с Вами<br />в ближайшее время.</div>
+        </div>
+        <div class="modal__form close-after">
+            <form action="" class="modal__main--form">
+                <input type="hidden" name="module_id" value="=IXZoR3b">
+                <input type="hidden" name="module" value="other">
+                <input type="hidden" id="title" name="title">
+                 <div class="form--row">
+                    <label for="name">Имя</label>
+                    <input type="text" id="name" name="fio" required>
+                 </div>
+                 <div class="form--row">
+                    <label for="name">Контакты</label>
+                    <input type="text" id="phone" name="phone" required masked>
+                </div>
+                 <div class="form--row">
+                    <label for="message">Цель обращения</label>
+                    <textarea id="message" name="message"></textarea>
+                </div>
+                <div class="form--btn">
+                    <input type="submit" value="Отправить заявку">
+                </div>
+            </form>
+        </div>
+        <div class="modal__review close-after" style="display: none">
+            <form action="" class="modal__review--form">
+                 <input type="hidden" name="module_id" value="=IXZoR3b">
+                 <input type="hidden" name="module" value="other">
+                 <input type="hidden" id="title" value="Заявка на обратный звонок с сайта" name="title">
+                 <div class="form--row">
+                    <label for="name">Имя</label>
+                    <input type="text" id="name" name="fio" required>
+                 </div>
+                 <div class="form--row">
+                    <label for="name">Контакты</label>
+                    <input type="text" id="phone" name="phone" masked required>
+                </div>
+                <div class="form--row">
+                    <label for="review">Отзыв</label>
+                    <textarea id="review" name="review" required></textarea>
+                </div>
+                <div class="form--btn">
+                    <input type="submit" value="Отправить заявку">
+                </div>
+            </form>
+        </div>
+        <div class="modal__text"></div>
+    </div>
+</div>
+<div class="nav__mobile">
+    <div class="nav__mobile__close"></div>
+    <ul class="nav menu white mod-list">
+<li class="item-103 default current active"><a href="/" >Главная</a></li><li class="item-197"><a href="#company" >О компании</a></li><li class="item-108"><a href="#advantages" >Наши преимущества</a></li><li class="item-113"><a href="#contacts" >Контакты</a></li></ul>
+<ul class="nav menu green mod-list">
+<li class="item-232 deeper parent"><a href="#" >Прoдукты и услуги</a><ul class="nav-child unstyled small"><li class="item-202"><a href="/producty-i-uslugi/servisy-1s.html" >Сервисы 1С</a></li><li class="item-205"><a href="/producty-i-uslugi/programmnye-produkty.html" >Программные продукты</a></li><li class="item-207"><a href="/producty-i-uslugi/uslugy.html" >Услуги</a></li><li class="item-230"><a href="/producty-i-uslugi/oborudovanie.html" >Оборудование</a></li><li class="item-204"><a href="/images/1/price_list_IRG.pdf" target="_blank" rel="noopener noreferrer">Прайс лист</a></li></ul></li><li class="item-224"><a href="/novosti.html" >Новости</a></li><li class="item-228"><a href="/seminar.html" >Семинары</a></li><li class="item-233"><a href="/informatsiya-dlya-polzovatelej-1s.html" >Информация для пользователей 1С</a></li><li class="item-226"><a href="/onlajn-demonstratsiya.html" >Онлайн демонстрация</a></li><li class="item-222"><a href="/vacansii.html" >Вакансии</a></li></ul>
+
+</div>
+<div class="header">
+    <div class="header__mid">
+                <div class="header__left">
+            <div class="header__logo">
+
+                                              <a href="/"> 
+                            <img src="/images/3/IRG_.png" alt="">
+                        </a>
+                                </div>
+        </div>
+        <div class="header__right">	<div class="header__row header_mails">
+		<div class="header__email"><a href="mailto:info@irbissoft.kz">info@irbissoft.kz</a></div> 
+	</div>
+	<div class="header__row header__phones">
+					<div class="header__phone">
+				<a href="tel:+7 (7122) 31-96-25 ">+7 (7122) 31-96-25 </a>
+			</div>
+					<div class="header__phone">
+				<a href="tel:+7 (701) 031-12-85">+7 (701) 031-12-85</a>
+			</div>
+			</div>
+	<div class="header__row header_button">
+		<div class="header__btn">Заказать звонок</div>
+	</div>
+</div>        <div class="header__nav"><ul class="nav menu mod-list">
+<li class="item-103 default current active"><a href="/" >Главная</a></li><li class="item-197"><a href="#company" >О компании</a></li><li class="item-108"><a href="#advantages" >Наши преимущества</a></li><li class="item-113"><a href="#contacts" >Контакты</a></li></ul>
+</div>    </div>
+</div>
+<div class="navigation">
+    <div class="navigation__mid">
+        <ul class="nav menu mod-list">
+<li class="item-232 deeper parent"><a href="#" >Прoдукты и услуги</a><ul class="nav-child unstyled small"><li class="item-202"><a href="/producty-i-uslugi/servisy-1s.html" >Сервисы 1С</a></li><li class="item-205"><a href="/producty-i-uslugi/programmnye-produkty.html" >Программные продукты</a></li><li class="item-207"><a href="/producty-i-uslugi/uslugy.html" >Услуги</a></li><li class="item-230"><a href="/producty-i-uslugi/oborudovanie.html" >Оборудование</a></li><li class="item-204"><a href="/images/1/price_list_IRG.pdf" target="_blank" rel="noopener noreferrer">Прайс лист</a></li></ul></li><li class="item-224"><a href="/novosti.html" >Новости</a></li><li class="item-228"><a href="/seminar.html" >Семинары</a></li><li class="item-233"><a href="/informatsiya-dlya-polzovatelej-1s.html" >Информация для пользователей 1С</a></li><li class="item-226"><a href="/onlajn-demonstratsiya.html" >Онлайн демонстрация</a></li><li class="item-222"><a href="/vacansii.html" >Вакансии</a></li></ul>
+
+    </div>
+</div>
+<div class="navigation__mobile">
+    <img src="/templates/landing/img/gamburger.png" alt="">
+</div>
+    <div class="wrapper">
+         <script>
+    jQuery(document).ready(function($) {
+        var swiper = new Swiper('.mod-175336', {
+            pagination: ".swiper-pagination",
+            loop: true,
+            direction: "horizontal",
+            autoplay: 9000,
+            effect: "coverflow",
+            slidesPerColumn: 1,
+            spaceBetween: 0,
+            speed: 1000,
+            paginationClickable: true
+        });          
+    });
+  
+</script>
+<style>
+    .swiper-container-vertical {
+        height: 250px;
+    }
+    .swiper-container-vertical>.swiper-pagination-bullets {
+        left: 10px;
+        right: auto !important;
+    }
+    .swiper__title, .swiper__desc {
+        color: #ffffff;
+        text-shadow: 1px 1px 2px black, 0 0 1em #1993a0;
+    }
+    .slider__top {
+        height:600px !important;
+    }
+    .swiper__btn {
+        background: #1993a0;
+        color: #ffffff;
+    }
+    .swiper-pagination-bullet-active, span.swiper-pagination-bullet:hover {
+        opacity: 1;
+       background: #1993a0;
+    }
+    .swiper-pagination-bullet{
+        background: #1993a0;
+    }
+</style>
+<div class="mod-175336 swiper-container slider-main">
+    <div class="swiper-wrapper slider__top">
+            <div class="swiper-slide">
+            <img src="/images/slider/1.jpg">
+           <div class="swiper__box">
+           <div class="swiper__box--mid">
+           <div class="swiper__box--pos">
+           <div class="swiper__box--width">
+                <div class="swiper__title">Проверенные решения, современные технологии и новые ресурсы</div>                <div class="swiper__desc">ДЛЯ ЭФФЕКТИВНОЙ И КОМФОРТНОЙ РАБОТЫ ПОЛЬЗОВАТЕЛЕЙ "1С:ПРЕДПРИЯТИЯ"</div>                <div class="swiper__btn">Подробнее</div>                            </div>
+            </div>    
+            </div>    
+           </div>
+        </div>
+            <div class="swiper-slide">
+            <img src="/images/slider/2.jpg">
+           <div class="swiper__box">
+           <div class="swiper__box--mid">
+           <div class="swiper__box--pos">
+           <div class="swiper__box--width">
+                <div class="swiper__title">Гарантированное качество обслуживания в вашем городе!</div>                <div class="swiper__desc">ПРОВЕРЕННЫЕ РЕШЕНИЯ</div>                <div class="swiper__btn">Подробнее</div>                            </div>
+            </div>    
+            </div>    
+           </div>
+        </div>
+            
+    </div>
+    <div class="swiper-pagination" ></div>
+</div> <div class="well company">
+<style>
+	.row.custom__company.custom-603 {
+		background: ;
+	}
+	.row.custom__company.custom-603 h3 {
+		color: ;
+	}
+	.custom-603 .custom__block.mod__custom__company p, .custom-603 .custom__block.mod__custom__company {
+		color: ;
+	}
+</style>
+<div class="row custom__company custom-603">
+	<div class="row__mid">
+	<h3 style="color: ">IRG Ирбис</h3>		<div class="custom__block mod__custom__company">
+			<div style="max-width: 1020px;" class="container-fluid">
+	<div style="display: inline-block; vertical-align: top; width: 31%; text-align: center;margin: 1px 2% 0px 0;">
+		<div style="border: 1px solid #dddddd; padding: 10px;"><img src="/images/s8/6.png" alt="1С Предприятие"></div>
+	</div>
+	<div style="display: inline-block; vertical-align: top; width: 60%; text-align: center; margin: 0 2% 80px 0;m">
+		<div style=" font-size: 15px; margin: 35px auto 0; width: 100%; text-align: justify;"> Компания "IRG Ирбис", сертифицированный сервисный партнер, франчайзи Фирмы 1С, работающая по стандартам 1С: ИТС. Компания была создана в 2011 году и за годы активной, плодотворной работы был накоплен большой опыт в сфере автоматизации бухгалтерского учета, что позволяет нам предоставлять услуги в кратчайшие сроки и на высоком, качественном уровне, с реализацией разносторонних интересов на индивидуальной основе каждого партнера.</div>
+		<div style="padding-top: 25px;">
+			<a href="/ocompanii">
+				<div class="irbis_knopka">Подробнее</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<style>
+.irbis_knopka {
+	float: left;
+	border: 1px solid #dddddd;
+	padding: 10px;
+	color: #fff;
+}
+
+.irbis_knopka:hover {
+	float: left;
+	border: 2px solid #ffe021;
+	padding: 10px;
+	color: #ffdc16;
+}
+</style>		</div>
+	</div>	
+</div>
+</div>
+<style>
+	.row.custom.custom__ advantages.custom-4884{
+		background: #f4f4f4;
+	}
+	.row.custom-4884.custom__ advantages h3 {
+		color: #000000;
+	}
+</style>
+<div class="row custom custom__ advantages custom-4884">
+	<div class="row__mid">
+	<h3 style="color: #000000">Наши преимущества</h3>		<div class="custom__block">
+			<div class="services__block">
+					<div class="services__item">
+<div style="display: inline-block; width: 220px; margin: 0 25px 0 0; vertical-align: top; height: 100%;"><img style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; object-fit: cover; object-position: center;border: 1px solid #2f5e82;" src="/images/1/kazruz.png" alt="Иконка Индивидуальный подход"></div>
+				<div class="services__content">
+					<div class="services__title">Двуязычие – ответ на многие вопросы:</div>
+					<div class="services__desc">Сотрудники нашей Компании готовы ответить на Ваши вопросы на казахском и русском языках.</div>
+					<div class="services__btn"></div>
+				</div>
+			</div>
+					<div class="services__item">
+<div style="display: inline-block; width: 220px; margin: 0 25px 0 0; vertical-align: top; height: 100%;"><img style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; object-fit: cover; object-position: center;border: 1px solid #2f5e82;" src="/images/np/512x512bb-1.jpg" alt="1С"></div>
+				<div class="services__content">
+					<div class="services__title">Качественная работа</div>
+					<div class="services__desc">Мы обеспечиваем вам исправное и точное выполнение текущих работ</div>
+					<div class="services__btn"></div>
+				</div>
+			</div>
+					<div class="services__item">
+<div style="display: inline-block; width: 220px; margin: 0 25px 0 0; vertical-align: top; height: 100%;"><img style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; object-fit: cover; object-position: center;border: 1px solid #2f5e82;" src="/images/np/sdfsdfdsfs.jpg" alt="Иконка Мы знаем свое дело"></div>
+				<div class="services__content">
+					<div class="services__title">Мы знаем свое дело</div>
+					<div class="services__desc">Предоставив нам автоматизацию бухгалтерию своей Компании, Вы сможете сосредоточить силы, время и средства на профильных и ключевых для Вашего Бизнеса процессах</div>
+					<div class="services__btn"></div>
+				</div>
+			</div>
+					<div class="services__item">
+<div style="display: inline-block; width: 220px; margin: 0 25px 0 0; vertical-align: top; height: 100%;"><img style="-webkit-border-radius: 50%; -moz-border-radius: 50%; border-radius: 50%; object-fit: cover; object-position: center;border: 1px solid #2f5e82;" src="/images/np/21.png" alt="1С специалист"></div>
+				<div class="services__content">
+					<div class="services__title">У нас только профессионалы</div>
+					<div class="services__desc">Мы собрали в одной команде постоянно действующих профессионалов, которые прошли сертификацию фирмы 1С</div>
+					<div class="services__btn"></div>
+				</div>
+			</div>
+
+					<div class="services__btn"></div>
+				</div>
+			</div>
+				</div>		</div>
+	</div>	
+</div>
+        <div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+
+
+
+</div>
+
+         <div class="well contacts">
+<style>
+	.row.custom__contacts.custom-1442 {
+		background: ;
+	}
+	.row.custom__contacts.custom-1442 h3 {
+		color: ;
+	}
+	.custom-1442 .custom__block.mod__custom__contacts p, .custom-1442 .custom__block.mod__custom__contacts {
+		color: ;
+	}
+</style>
+<div class="row custom__contacts custom-1442">
+	<div class="row__mid">
+	<h3 style="color: ">Остались вопросы? Наши контакты:</h3>		<div class="custom__block mod__custom__contacts">
+			<div class="container">
+      <h4 style="margin: 0px 0 10px 0; padding: 0; font-size: 30px; font-weight: bold;">+7-701-031-12-85, +7-701-031-12-82</h4>
+      <h4 style="margin: 0px 0 10px 0; padding: 0; font-size: 30px; font-weight: bold;">+7 (7122) 31-96-25</h4>
+      <br>
+      <div class="custom__text">
+                   <p>г. Атырау, ул. Смагулова 56Б<br />с 9:00 ч. до 18:00 ч., суббота-воскресенье выходной</p>
+       </div>
+      <br> 
+       <div class="social">
+                    <a href="https://www.instagram.com/irbissoft/">
+                               <img src="/images/s8/ins.png" alt="instagram" />
+                    </a>
+        </div>
+</div>
+
+		</div>
+	</div>	
+</div>
+</div><style>
+	.custom-6717 .custom__block.mod__custom__cart p, .custom__block.mod__custom__cart {
+		color: ;
+	}
+</style>
+<div class="row custom_car custom__cart custom-6717">
+		<div class="custom__block mod__custom__cart">
+			<iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A972a178e4c0140a84a82dc7ca55393a2eead4c55d927984713bb9956e1b5905c&amp;source=constructor" width="100%" height="400" frameborder="0"></iframe>		</div>
+</div>
+    </div>
+    <div class="footer">
+        <div class="footer__mid">
+            
+                                  
+          <!-- Yandex.Metrika counter --> <script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter49050173 = new Ya.Metrika({ id:49050173, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <!-- /Yandex.Metrika counter -->
+
+          
+
+
+          
+        </div>
+    </div>
+</body>
+</html>
+    

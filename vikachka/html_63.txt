@@ -1,0 +1,3045 @@
+ <!DOCTYPE html>
+<html lang="ru-RU" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="preload" href="https://www.google.com/recaptcha/api.js" as="script">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+    
+	<link rel="alternate" hreflang="lt" href="https://www.4logist.com/lt/" />
+<link rel="alternate" hreflang="en" href="https://www.4logist.com/en/" />
+<link rel="alternate" hreflang="ru" href="https://www.4logist.com" />
+
+<!-- Поисковая оптимизация от Rank Math Pro - https://s.rankmath.com/home -->
+<title>Логистическая программа 4logist | CRM для логистов, экспедиторов и грузоперевозок</title>
+<meta name="description" content="4logist – CRM программа для логистики ✅ Автоматизация перевозок ✅ Для экспедиционных и транспортных компаний ✅ Попробовать бесплатную демо версию ➥"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.4logist.com/" />
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Логистическая программа 4logist | CRM для логистов, экспедиторов и грузоперевозок" />
+<meta property="og:description" content="4logist – CRM программа для логистики ✅ Автоматизация перевозок ✅ Для экспедиционных и транспортных компаний ✅ Попробовать бесплатную демо версию ➥" />
+<meta property="og:url" content="https://www.4logist.com/" />
+<meta property="og:site_name" content="4Logist" />
+<meta property="og:updated_time" content="2021-12-15T12:07:39+03:00" />
+<meta property="og:image" content="https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png" />
+<meta property="og:image:secure_url" content="https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png" />
+<meta property="og:image:width" content="428" />
+<meta property="og:image:height" content="201" />
+<meta property="og:image:alt" content="Логистическая программа 4logist" />
+<meta property="og:image:type" content="image/png" />
+<meta property="article:published_time" content="2021-07-09GMT+030014:09:27+03:00" />
+<meta property="article:modified_time" content="2021-12-15GMT+030012:07:39+03:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Логистическая программа 4logist | CRM для логистов, экспедиторов и грузоперевозок" />
+<meta name="twitter:description" content="4logist – CRM программа для логистики ✅ Автоматизация перевозок ✅ Для экспедиционных и транспортных компаний ✅ Попробовать бесплатную демо версию ➥" />
+<meta name="twitter:image" content="https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png" />
+<meta name="twitter:label1" content="Автор" />
+<meta name="twitter:data1" content="4logiSt" />
+<meta name="twitter:label2" content="Время чтения" />
+<meta name="twitter:data2" content="Меньше минуты" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.4logist.com/#place","address":{"@type":"PostalAddress","streetAddress":"Smolensko g. 10B","addressLocality":"Vilnius","postalCode":"LT-03201","addressCountry":"Lietuva"}},{"@type":"Organization","@id":"https://www.4logist.com/#organization","name":"4Logist","url":"https://www.4logist.com/","email":"info@4logist.com","address":{"@type":"PostalAddress","streetAddress":"Smolensko g. 10B","addressLocality":"Vilnius","postalCode":"LT-03201","addressCountry":"Lietuva"},"logo":{"@type":"ImageObject","@id":"https://www.4logist.com/#logo","url":"https://www.4logist.com/wp-content/uploads/2021/12/apple-touch-icon.png","caption":"4Logist","inLanguage":"ru-RU","width":"180","height":"180"},"contactPoint":[{"@type":"ContactPoint","telephone":"+370 65 65 3000","contactType":"customer support"}],"location":{"@id":"https://www.4logist.com/#place"}},{"@type":"WebSite","@id":"https://www.4logist.com/#website","url":"https://www.4logist.com","name":"4Logist","publisher":{"@id":"https://www.4logist.com/#organization"},"inLanguage":"ru-RU","potentialAction":{"@type":"SearchAction","target":"https://www.4logist.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png","url":"https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png","width":"428","height":"201","inLanguage":"ru-RU"},{"@type":"Person","@id":"https://www.4logist.com/author/4logist/","name":"4logiSt","url":"https://www.4logist.com/author/4logist/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/6e46009f17a227144cf301dd528ea923?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/6e46009f17a227144cf301dd528ea923?s=96&amp;d=mm&amp;r=g","caption":"4logiSt","inLanguage":"ru-RU"},"sameAs":["https://www.4logist.com/"],"worksFor":{"@id":"https://www.4logist.com/#organization"}},{"@type":"WebPage","@id":"https://www.4logist.com/#webpage","url":"https://www.4logist.com/","name":"\u041b\u043e\u0433\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 4logist | CRM \u0434\u043b\u044f \u043b\u043e\u0433\u0438\u0441\u0442\u043e\u0432, \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440\u043e\u0432 \u0438 \u0433\u0440\u0443\u0437\u043e\u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u043a","datePublished":"2021-07-09T14:09:27+03:00","dateModified":"2021-12-15T12:07:39+03:00","author":{"@id":"https://www.4logist.com/author/4logist/"},"isPartOf":{"@id":"https://www.4logist.com/#website"},"primaryImageOfPage":{"@id":"https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png"},"inLanguage":"ru-RU"},{"image":{"@id":"https://www.4logist.com/wp-content/uploads/2021/12/intro-img-1sm.png"},"headline":"\u041b\u043e\u0433\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 4logist | CRM \u0434\u043b\u044f \u043b\u043e\u0433\u0438\u0441\u0442\u043e\u0432, \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440\u043e\u0432 \u0438 \u0433\u0440\u0443\u0437\u043e\u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u043a","description":"4logist \u2013 CRM \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043b\u044f \u043b\u043e\u0433\u0438\u0441\u0442\u0438\u043a\u0438 \u2705 \u0410\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u043a \u2705 \u0414\u043b\u044f \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0438 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u2705 \u041f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0443\u044e \u0434\u0435\u043c\u043e \u0432\u0435\u0440\u0441\u0438\u044e \u27a5","keywords":"\u041b\u043e\u0433\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 4logist","@type":"Article","author":{"@id":"https://www.4logist.com/author/4logist/"},"datePublished":"2021-07-09GMT+030014:09:27+03:00","dateModified":"2021-12-15GMT+030012:07:39+03:00","name":"\u041b\u043e\u0433\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 4logist | CRM \u0434\u043b\u044f \u043b\u043e\u0433\u0438\u0441\u0442\u043e\u0432, \u044d\u043a\u0441\u043f\u0435\u0434\u0438\u0442\u043e\u0440\u043e\u0432 \u0438 \u0433\u0440\u0443\u0437\u043e\u043f\u0435\u0440\u0435\u0432\u043e\u0437\u043e\u043a","@id":"https://www.4logist.com/#schema-76673","isPartOf":{"@id":"https://www.4logist.com/#webpage"},"publisher":{"@id":"https://www.4logist.com/#organization"},"inLanguage":"ru-RU","mainEntityOfPage":{"@id":"https://www.4logist.com/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO плагин -->
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" type="application/rss+xml" title="4Logist &raquo; Лента" href="https://www.4logist.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="4Logist &raquo; Лента комментариев" href="https://www.4logist.com/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.4logist.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='//www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css'  href='//www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' media='all' />
+<link rel='stylesheet' id='logist4-style-css'  href='https://www.4logist.com/wp-content/themes/4logic/style.css?ver=1.0.0' media='all' />
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js' id='jquery-core-js'></script>
+<script src='https://www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=4.4.9' id='jquery.cookie-js'></script>
+<script id='wpml-cookie-js-extra'>
+var wpml_cookies = {"wp-wpml_current_language":{"value":"ru","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"ru","expires":1,"path":"\/"}};
+</script>
+<script src='https://www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.4.9' id='wpml-cookie-js'></script>
+<link rel="https://api.w.org/" href="https://www.4logist.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.4logist.com/wp-json/wp/v2/pages/22" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.4logist.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.4logist.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.1" />
+<link rel='shortlink' href='https://www.4logist.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.4logist.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.4logist.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.4logist.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.4logist.com%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.4.9 stt:1,32,45;" />
+<link rel="icon" href="https://www.4logist.com/wp-content/uploads/2021/12/apple-touch-icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.4logist.com/wp-content/uploads/2021/12/apple-touch-icon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.4logist.com/wp-content/uploads/2021/12/apple-touch-icon.png" />
+<meta name="msapplication-TileImage" content="https://www.4logist.com/wp-content/uploads/2021/12/apple-touch-icon.png" />
+		<style id="wp-custom-css">
+			.ow__quiz {
+	display: none;
+}		</style>
+				<!--Marquiz script start-->
+		<script>
+		(function(w, d, s, o){
+		  var j = d.createElement(s); j.async = true; j.src = '//script.marquiz.ru/v2.js';j.onload = function() {
+			if (document.readyState !== 'loading') Marquiz.init(o);
+			else document.addEventListener("DOMContentLoaded", function() {
+			  Marquiz.init(o);
+			});
+		  };
+		  d.head.insertBefore(j, d.head.firstElementChild);
+		})(window, document, 'script', {
+			host: '//quiz.marquiz.ru',
+			region: 'eu',
+			id: '61b728da91b6cc003f6f34c3',
+			autoOpen: false,
+			autoOpenFreq: 'once',
+			openOnExit: false,
+			disableOnMobile: false
+		  }
+		);
+		</script>
+		<!--Marquiz script end-->
+	<!--Marquiz script start-->
+		<script>
+		(function(w, d, s, o){
+		  var j = d.createElement(s); j.async = true; j.src = '//script.marquiz.ru/v2.js';j.onload = function() {
+			if (document.readyState !== 'loading') Marquiz.init(o);
+			else document.addEventListener("DOMContentLoaded", function() {
+			  Marquiz.init(o);
+			});
+		  };
+		  d.head.insertBefore(j, d.head.firstElementChild);
+		})(window, document, 'script', {
+			host: '//quiz.marquiz.ru',
+			region: 'eu',
+			id: '61b7351d704c98003fb7ca90',
+			autoOpen: false,
+			autoOpenFreq: 'once',
+			openOnExit: false,
+			disableOnMobile: false
+		  }
+		);
+		</script>
+	<!--Marquiz script end-->
+	</head>
+
+<body class="home page-template-default page page-id-22">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+
+<div class="site">
+  <!--header BEGIN-->
+  <header class="header">
+	<div class="container">
+      <div class="header__top">
+        <div class="header__top--phones">
+          <a href="tel:+375299503309" class="top--phones__item">
+            <i>
+				<picture>
+					<source srcset="/wp-content/themes/4logic/images/flag-1.webp" type="image/webp">
+					<img src="/wp-content/themes/4logic/images/flag-1.png" alt="flag">
+				</picture>
+            </i>
+            +375-29-950-33-09
+          </a>
+          <a href="tel:+74953200750" class="top--phones__item">
+            <i>
+				<picture>
+					<source srcset="/wp-content/themes/4logic/images/flag-2.webp" type="image/webp">
+					<img src="/wp-content/themes/4logic/images/flag-2.png" alt="flag-2">
+				</picture>
+            </i>
+            +7-495-320-07-50
+          </a>
+          <a href="tel:+37065653000" class="top--phones__item">
+            <i>
+				<picture>
+					<source srcset="/wp-content/themes/4logic/images/flag-3.webp" type="image/webp">
+					<img src="/wp-content/themes/4logic/images/flag-3.png" alt="flag-3">
+				</picture>
+            </i>
+            +370-65-653-000
+          </a>
+          <a href="tel:+380443344038" class="top--phones__item">
+            <i>
+				<picture>
+					<source srcset="/wp-content/themes/4logic/images/flag-4.webp" type="image/webp">
+					<img src="/wp-content/themes/4logic/images/flag-4.png" alt="flag-4">
+				</picture>
+            </i>
+            +380-44-334-40-38
+          </a>
+          <a href="tel:+77273435001" class="top--phones__item">
+            <i>
+				<picture>
+					<source srcset="/wp-content/themes/4logic/images/flag-5.webp" type="image/webp">
+					<img src="/wp-content/themes/4logic/images/flag-5.png" alt="flag-5">
+				</picture>
+            </i>
+            +7-727-343-50-01
+          </a>
+        </div>
+        <div class="header__top--mail">
+          <a href="mailto:info@4logist.com">info@4logist.com</a>
+        </div>
+        <div class="header__top--lang">
+			
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-list-horizontal">
+	<ul><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-lt wpml-ls-first-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.4logist.com/lt/" class="wpml-ls-link"><span class="wpml-ls-display">LT</span></a>
+			</li><li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.4logist.com/en/" class="wpml-ls-link"><span class="wpml-ls-display">EN</span></a>
+			</li></ul>
+</div>
+        </div>
+      </div>
+    </div>
+    <div class="container header__container">
+      <a href="https://www.4logist.com" class="header__logo">
+				<picture>
+					<source srcset="/wp-content/themes/4logic/images/logo.webp" type="image/webp">
+					<source srcset="/wp-content/themes/4logic/images/logo.svg" type="image/svg">
+					<img src="/wp-content/themes/4logic/images/logo.png" alt="logo">
+				</picture>
+      </a> 
+      <nav class="nav header__nav"><ul id="menu-menu" class="nav__list"><li id="menu-item-4496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4496 nav__item"><a href="https://www.4logist.com/ceny/">Тарифы</a></li>
+<li id="menu-item-6087" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-6087 nav__item"><a href="/#ow__quiz" aria-current="page">Акции</a></li>
+<li id="menu-item-4395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4395 nav__item"><a href="https://www.4logist.com/nashi-klienty/">Клиенты</a></li>
+<li id="menu-item-4751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4751 nav__item"><a href="#">Поддержка</a>
+<ul class="sub-menu">
+	<li id="menu-item-4734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4734 nav__item"><a href="https://www.4logist.com/stage/">Процесс внедрения</a></li>
+	<li id="menu-item-4677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4677 nav__item"><a href="https://www.4logist.com/support/">Поддержка</a></li>
+</ul>
+</li>
+<li id="menu-item-4399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4399 nav__item"><a href="https://www.4logist.com/integration/">Интеграции</a></li>
+<li id="menu-item-4389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4389 nav__item"><a href="https://www.4logist.com/novosti/">Блог</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9 nav__item"><a href="/wiki/">База знаний</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31 nav__item"><a href="https://www.4logist.com/about/">О нас</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24 nav__item"><a href="https://www.4logist.com/contacts/">Контакты</a></li>
+<li id="menu-item-4985" class="mobile__mail menu-item menu-item-type-custom menu-item-object-custom menu-item-4985 nav__item"><a href="mailto:info@4logist.com">info@4logist.com</a></li>
+<li id="menu-item-wpml-ls-2-lt" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-lt wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-lt nav__item"><a href="https://www.4logist.com/lt/"><img class="wpml-ls-flag" src="https://www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/lt.png" alt="LT"></a></li>
+<li id="menu-item-wpml-ls-2-en" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-en nav__item"><a href="https://www.4logist.com/en/"><img class="wpml-ls-flag" src="https://www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="EN"></a></li>
+<li id="menu-item-wpml-ls-2-ru" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-ru wpml-ls-current-language wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-ru nav__item"><a href="https://www.4logist.com"><img class="wpml-ls-flag" src="https://www.4logist.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" alt="RU"></a></li>
+</ul></nav>	<label for="popupCheckboxOne" class="popup-shower header__btn" style="text-decoration: none;">
+		<a class="call-to-action btn btn--theme_simple btn--size_sm">Попробовать бесплатно</a>
+	</label>	 
+    <button type="button" class="js-toggle-header-nav-mobile header__toggle">
+        <span class="header__toggle-line"></span>
+        <span class="header__toggle-line"></span>
+        <span class="header__toggle-line"></span>
+      </button>
+    </div>	
+  </header>
+   <!--header END -->
+   
+   <!--formDemoRequestPopup-->
+   <div class="popup-wrapper">
+    <input type="checkbox" class="popup-checkbox" id="popupCheckboxOne">
+    <div class="popup">
+        <div class="popup-content modal__body">
+            <label for="popupCheckboxOne" class="popup-closer" id="formDemoRequestPopupClose">&#215;</label>
+         
+            <form  method="get" action="#" id="formDemoRequest">
+              <div id="form-register">
+                <div>
+                  <h2 class="title margin-b-1 try-free__title">Попробуйте програму бесплатно</h2>
+                  <div class="margin-b-3 try-free__subtitle">Заполните форму и в течение 10 минут получите доступ к полной версии программы, которой сможете бесплатно пользоваться 7 дней.</div>
+                </div>
+                <input type="text" name="name" id="drName" placeholder="Введите имя" class="name input-text input-text--theme_gray contacts-form__input-text" required autofocus
+                />
+                <input type="text" name="phone" id="drPhone" pattern="[0-9\(\)\s\-\+]{6,}" placeholder="Ваш телефон" class="name input-text input-text--theme_gray contacts-form__input-text" required />
+                <input type="email" name="email" id="drEmail"  placeholder="Ваш E-mail" class="margin-b-3 name input-text input-text--theme_gray contacts-form__input-text" required />
+				<div class="try-free__subtitle">Укажите количество сотрудников:</div>
+				<select id="drNumber" name="selnumber" class="name input-text input-text--theme_gray contacts-form__input-text">
+					<option value="select_number">Выбрать количество</option>	
+					<option value="1-3">1-3</option>	
+					<option value="4-10">4-10</option>	
+					<option value="11-20">11-20</option>	
+					<option value="21-30">21-30</option>	
+					<option value="31-50">31-50</option>	
+					<option value="51-100">51-100</option>	
+					<option value="100_more">100 и более</option>
+				</select>
+				<div class="contacts-form__input input-hide">
+					<input type="text" name="promo_code" id="promoCode"  placeholder="Промо код" class="name input-text contacts-form__input-text input-text--theme_gray" />
+				</div>
+                
+	<div class="control-group try-free__control-group">
+        <label for="drRail" class="control try-free__control-checkbox control-img">
+            Я использую железнодорожные перевозки
+			<input class="checkbox-value" type="checkbox" name="rail" id="drRail" value="rail" />
+            <span class="control_indicator try-free__control_indicator"></span>
+        </label>
+        <label for="drPromo" class="control control-checkbox try-free__control-checkbox">
+            Я пришёл по рекомендации
+            <input class="checkbox-value" type="checkbox"  name="promo" id="drPromo" value="promo">
+            <span class="control_indicator try-free__control_indicator"></span>
+        </label>
+	</div>
+                <input type="hidden" name="template" id="drTemplate" value="by" />
+                <input type="hidden" name="template" id="drSource" value="ads_poisk" />
+                <div class="g-recaptcha"
+                     data-sitekey="6LfIwHMUAAAAAHQOuEuPUyl-3yG73eSy2WD4GTKF"
+                     data-callback="onRecaptchaSubmit"
+                     data-size="invisible">
+                </div>
+                <input type="button" class="btn btn--size_md btn--theme_red contacts-form__button try-free__btn" onclick="onFormDemoRequestSubmit()" value="Отправить заявку">
+				
+              </div>
+            
+            </form>
+  
+
+        </div>
+    </div>
+</div>
+    <!--END formDemoRequestPopup--> <!-- intro BEGIN -->
+  <section class="intro intro__index margin-b-4">
+    <div class="container intro__container">
+      <div class="row row__intro--index">
+        <div class="col-12 col-lg-7 intro__col-content">
+			<div class="intro__content intro__content--index">
+				<h1 class="title-size-1 margin-b-2 intro__title title__h1">CRM-система для экспедиторов и транспортно-логистических отделов</h1>
+				<h2 class="title__h2">Автоматизация работы экспедиторов <br>и логистов до 83%</h2>
+				<ul class="description margin-b-4 intro__description">
+					<li>Сокращает человеческий фактор до 99%.</li>
+					<li>Помогает обрабатывать заявки в 2 раза быстрее.</li>
+					<li>Автоматизирует процессы, которые влияют на рост прибыли до 38%.</li>
+				</ul>
+				<div class="row row_btn">
+				 <label for="popupCheckboxOne" class="popup-shower">
+					<a class="btn btn--size_md btn--theme_red intro-index__btn btn_opacity" >Попробовать бесплатно 7 дней</a>
+				</label>
+				
+					<a data-src="#modal-try-free"  data-fancybox class="btn btn--size_md btn--theme_red intro-index__btn">Заказать демонстрацию</a>
+			
+				</div>
+			</div>
+        </div>
+        <div class="col-12 col-lg-5 intro__col-picture intro__col-picture--position_right_stretch">
+			<picture class="intro__picture intro-index__picture">
+				<source srcset="/wp-content/themes/4logic/images/intro-img-6SM.webp" type="image/webp" media="(max-width: 428px)" >
+				<source srcset="/wp-content/themes/4logic/images/intro-img-6SM.png" media="(max-width: 428px)" >
+				<source srcset="/wp-content/themes/4logic/images/intro-img-6.webp" type="image/webp">
+				<img src="/wp-content/themes/4logic/images/intro-img-6.png" alt="Задавайте вопросы по удобным для вас каналам">
+			</picture>
+        </div>
+      </div>
+      <div class="advantages" id="ow__quiz">
+        <div class="row row__advantages">
+          <div class="col-12 col-lg-6 advantages__col">
+            <div class="margin-b-3 specialization__item specialization__item--index">
+              <div class="specialization__item-img specialization__item-img--dark">
+                <svg class="advantage-card__icon advantage-card__icon--dark">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+                </svg>
+              </div>
+              <div class="specialization__item-content">
+              7 лет<br>на рынке              </div>
+            </div>
+            <div class="margin-b-3 specialization__item specialization__item--index">
+              <div class="specialization__item-img specialization__item-img--dark">
+                <svg class="advantage-card__icon advantage-card__icon--dark">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#point"></use>
+                </svg>
+              </div>
+              <div class="specialization__item-content">
+              Офисы в 3-х<br>странах мира              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6 advantages__col">
+            <div class="margin-b-3 specialization__item specialization__item--index">
+              <div class="specialization__item-img specialization__item-img--dark">
+                <svg class="advantage-card__icon advantage-card__icon--dark">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#chat"></use>
+                </svg>
+              </div>
+              <div class="specialization__item-content">
+              400+<br>клиентов              </div>
+            </div>
+            <div class="margin-b-3 specialization__item specialization__item--index">
+              <div class="specialization__item-img specialization__item-img--dark">
+                <svg class="advantage-card__icon advantage-card__icon--dark">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#heart"></use>
+                </svg>
+              </div>
+              <div class="specialization__item-content">
+              Программой<br>пользуются в 18 странах              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- intro END -->
+    <!-- section BEGIN --> 
+  <section class="section ow__quiz" >
+	 <div class="container section__container">
+		<h2 class="text-center title-size-1">Новогодние акции 2022</h2>
+		<div class="row">
+			 <div class="col-12 col-md-6 margin-b-3">
+				<div class="row">
+					<div class="col-12 mb-1">
+						<picture>
+							<source srcset="/wp-content/themes/4logic/images/1-2.webp" media="(min-width: 768px)" type="image/webp">
+							<source srcset="/wp-content/themes/4logic/images/1-2SM.webp" type="image/webp">
+							<img class="w-100" src="/wp-content/themes/4logic/images/1-2.png" alt="promo-1">
+						</picture>
+					</div>
+					<div data-marquiz-id="61b728da91b6cc003f6f34c3"></div>
+<script>(function(t, p) {window.Marquiz ? Marquiz.add([t, p]) : document.addEventListener('marquizLoaded', function() {Marquiz.add([t, p])})})('Button', {id: '61b728da91b6cc003f6f34c3', buttonText: 'Узнать подробнее', bgColor: '#d40000', textColor: '#ffffff', rounded: true, shadow: 'rgba(212, 0, 0, 0.5)', blicked: true})</script>
+
+				</div>
+			 </div>
+			 <div class="col-12 col-md-6 margin-b-3">
+				<div class="row">
+					<div class="col-12 mb-1">
+						<picture>
+							<source srcset="/wp-content/themes/4logic/images/2-2.webp" type="image/webp" media="(min-width:768px)">
+							<source srcset="/wp-content/themes/4logic/images/2-2SM.webp" type="image/webp">
+							<img class="w-100" src="/wp-content/themes/4logic/images/2-2.png" alt="promo-1">
+						</picture>
+					</div>
+					<div data-marquiz-id="61b7351d704c98003fb7ca90"></div>
+<script>(function(t, p) {window.Marquiz ? Marquiz.add([t, p]) : document.addEventListener('marquizLoaded', function() {Marquiz.add([t, p])})})('Button', {id: '61b7351d704c98003fb7ca90', buttonText: 'Узнать подробнее', bgColor: '#d40000', textColor: '#ffffff', rounded: true, shadow: 'rgba(212, 0, 0, 0.5)', blicked: true})</script>
+
+
+				</div>
+			 </div>
+		</div>
+	 </div>
+  </section>
+  <!-- intro END -->
+    <!-- section BEGIN -->
+  <section class="section 2">
+    <div class="container section__container">
+      <h2 class="title title-size-1 margin-b-4 section__title section__title--index">Работайте с любыми видами транспорта и сборными грузами</h2>
+      <div class="row transition-list">
+        <div class="col-12 col-md-4 margin-b-3">
+          <div class="transition-card h-100">
+            <div class="transition-card__picture">
+				<picture class="lozad"  data-iesrc="/wp-content/themes/4logic/images/transition-img-1.jpg" data-alt="Железнодорожные перевозки">
+					<source srcset="/wp-content/themes/4logic/images/transition-img-1.webp" type="image/webp">
+				</picture>
+            </div>
+            <div class="title title-size-3 transition-card__title">Железнодорожные<br>перевозки</div>
+            <div class="transition-subcard">
+              <div class="transition-subcard__title">Железнодорожные перевозки</div>
+              <div class="transition-subcard__text">Выполняйте перевозки своим или привлеченным ж/д составом. В системе уже есть все ж/д станции с полным названием и кодом, база ГНГ кодов товаров и справочник грузов ЕТСНГ.               </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 margin-b-3">
+          <div class="transition-card h-100">
+            <div class="transition-card__picture">
+				<picture class="lozad"  data-iesrc="/wp-content/themes/4logic/images/transition-img-2.jpg" data-alt="Автомобильные перевозки">
+					<source srcset="/wp-content/themes/4logic/images/transition-img-2.webp" type="image/webp">
+				</picture>
+            </div>
+            <div class="title title-size-3 transition-card__title">Автомобильные<br>перевозки</div>
+            <div class="transition-subcard">
+              <div class="transition-subcard__title">Автомобильные перевозки</div>
+              <div class="transition-subcard__text">Работайте со своим или привлеченным автотранспортом. Вносите всю подроб-
+              ную информацию о грузе и транспорте, экспортируйте информацию на биржу, создавайте коммерческие предложения в 1 клик.              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 margin-b-3">
+          <div class="transition-card h-100">
+            <div class="transition-card__picture">
+				<picture class="lozad"  data-iesrc="/wp-content/themes/4logic/images/transition-img-3.jpg" data-alt="Авиа перевозки">
+					<source srcset="/wp-content/themes/4logic/images/transition-img-3.webp" type="image/webp">
+				</picture>
+            </div>
+            <div class="title title-size-3 transition-card__title">Авиа<br>перевозки</div>
+            <div class="transition-subcard">
+              <div class="transition-subcard__title">Авиаперевозки</div>
+              <div class="transition-subcard__text">Перевозите грузы авиатранспортом. Указывайте номера рейсов в заказах, ищите по номеру рейса. Необходимые документы создаются по шаблонам и сохраняются в заказах.              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 margin-b-3">
+          <div class="transition-card h-100">
+            <div class="transition-card__picture">
+				<picture class="lozad"  data-iesrc="/wp-content/themes/4logic/images/transition-img-4.jpg" data-alt="Морские перевозки">
+					<source srcset="/wp-content/themes/4logic/images/transition-img-4.webp" type="image/webp">
+				</picture>
+            </div>
+            <div class="title title-size-3 transition-card__title">Морские<br>перевозки</div>
+            <div class="transition-subcard">
+              <div class="transition-subcard__title">Морские перевозки</div>
+              <div class="transition-subcard__text">Доставляйте грузы морским транспортом, храните все документы (в т.ч. коносаменты) в одномом месте и учитывайте данные Ваших контейнеров для оперативной работы.              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 margin-b-3">
+          <div class="transition-card h-100">
+            <div class="transition-card__picture">
+				<picture class="lozad"  data-iesrc="/wp-content/themes/4logic/images/transition-img-5.jpg" data-alt="Сборные грузы">
+					<source srcset="/wp-content/themes/4logic/images/transition-img-5.webp" type="image/webp">
+				</picture>
+            </div>
+            <div class="title title-size-3 transition-card__title">Сборные<br>грузы</div>
+            <div class="transition-subcard">
+              <div class="transition-subcard__title">Сборные грузы</div>
+              <div class="transition-subcard__text">Перевозите в одном рейсе несколько заказов для разных клиентов. В программе можно объединить в одну машину несколько грузов для разных клиентов.              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-4 margin-b-3">
+          <div class="transition-card h-100">
+            <div class="transition-card__picture">
+				<picture class="lozad"  data-iesrc="/wp-content/themes/4logic/images/transition-img-6.jpg" data-alt="Мультимодальные перевозки">
+					<source srcset="/wp-content/themes/4logic/images/transition-img-6.webp" type="image/webp">
+				</picture>
+            </div>
+            <div class="title title-size-3 transition-card__title">Мультимодальные<br>перевозки</div>
+            <div class="transition-subcard">
+              <div class="transition-subcard__title">Мультимодальные перевозки</div>
+              <div class="transition-subcard__text">Работайте с разными видами транспорта, перегружайте грузы с одного вида транспорта на другой. Программа поможет вести несколько разных типов рейсов в одном заказе.              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- section END --> 
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <h2 class="title title-size-1 margin-b-4 section__title section__title--index">Программа адаптирована для работы в 11 странах</h2>
+      <div class="row country-list">
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-1.png" alt="Украина">
+            </div>
+            <div class="title country-card__title">Украина</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-2.png" alt="Россия">
+            </div>
+            <div class="title country-card__title">Россия</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-3.png" alt="Беларусь">
+            </div>
+            <div class="title country-card__title">Беларусь</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-4.png" alt="Литва">
+            </div>
+            <div class="title country-card__title">Литва</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-5.png" alt="Польша">
+            </div>
+            <div class="title country-card__title">Польша</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-6.png" alt="Латвия">
+            </div>
+            <div class="title country-card__title">Латвия</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-7.png" alt="Казахстан">
+            </div>
+            <div class="title country-card__title">Казахстан</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-8.png" alt="Эстония">
+            </div>
+            <div class="title country-card__title">Эстония</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-9.png" alt="Германия">
+            </div>
+            <div class="title country-card__title">Германия</div>
+          </div>
+        </div>
+        <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-10.png" alt="Узбекистан">
+            </div>
+            <div class="title country-card__title">Узбекистан</div>
+          </div>
+        </div>
+		 <div class="col-country-card">
+          <div class="country-card h-100">
+            <div class="country-card__picture">
+              <img class="lozad" data-src="/wp-content/themes/4logic/images/country-img-11.png" alt="Азербайджан">
+            </div>
+            <div class="title country-card__title">Азербайджан</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <h2 class="title title-size-1 margin-b-5 section__title section__title--index">Полная автоматизация всех процессов в вашей компании всего за 14 дней</h2>
+        <div class="row for-what for-what__list">
+          <div class="col-12 col-lg-6 margin-b-3">
+            <div class="h-100 for-what__item">
+              <div class="for-what__head">
+                <div class="for-what__logo">
+					<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/big-logo.png" data-alt="big-logo">
+						<source srcset="/wp-content/themes/4logic/images/big-logo.webp" type="image/webp">
+						<source srcset="/wp-content/themes/4logic/images/big-logo.svg" type="image/svg">
+					</picture>
+                </div>
+                <div class="for-what__title">идеально подходит,</div>
+                <div class="for-what__subtitle">если вам нужно:</div>
+                <div class="for-what__line"></div>
+              </div>
+              <div class="for-what__footer">
+                <div class="approach-list">
+                  <div class="approach-list__item">
+                    <div class="check-mark check-mark__approach-list check-mark__size-40 check-mark--white check-mark__img">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Отладить бизнес-процессы</div>
+                      <div class="approach-list__content-description">Разграничивайте зоны ответственности и выстраивайте алгоритмы работы Вашей команды </div>
+                    </div>
+                  </div>
+                  <div class="approach-list__item">
+                    <div class="check-mark check-mark__approach-list check-mark__size-40 check-mark--white check-mark__img">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Ускорить обработку заказов на 80%</div>
+                      <div class="approach-list__content-description">Данные подгружаются автоматически, не нужно их повторно вводить или сканировать документы</div>
+                    </div>
+                  </div>
+                  <div class="approach-list__item">
+                    <div class="check-mark check-mark__approach-list check-mark__size-40 check-mark--white check-mark__img">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Увеличить прибыль компании</div>
+                      <div class="approach-list__content-description">Быстрое обслуживание повышает лояльность клиентов, увеличивает клиентскую базу</div>
+                    </div>
+                  </div>
+                  <div class="approach-list__item">
+                    <div class="check-mark check-mark__approach-list check-mark__size-40 check-mark--white check-mark__img">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Снизить ошибки в работе экспедитора или логиста до 0,01%</div>
+                      <div class="approach-list__content-description">Успешность вашего бизнеса больше не зависит от человеческого фактора </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6 margin-b-3">
+            <div class="h-100 for-what__item">
+              <div class="for-what__head">
+                <div class="for-what__logo">
+					<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/big-logo.png" data-alt="big-logo">
+						<source srcset="/wp-content/themes/4logic/images/big-logo.webp" type="image/webp">
+						<source srcset="/wp-content/themes/4logic/images/big-logo.svg" type="image/svg">
+					</picture>
+                </div>
+                <div class="for-what__title">не подходит, </div>
+                <div class="for-what__subtitle">если вам нужно:</div>
+                <div class="for-what__line"></div>
+              </div>
+              <div class="for-what__footer">
+                <div class="approach-list">
+                  <div class="approach-list__item">
+                    <div class="close-mark close-mark__approach-list close-mark__img close-mark__size-40 close-mark--gray">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Найти грузы для транспорта </div>
+                      <div class="approach-list__content-description">Программа интегрируется с транспортными биржами, но не предназначена для поиска грузов</div>
+                    </div>
+                  </div>
+                  <div class="approach-list__item">
+                    <div class="close-mark close-mark__approach-list close-mark__img close-mark__size-40 close-mark--gray">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Выстроить оптимальный маршрут</div>
+                      <div class="approach-list__content-description">Система не строит маршруты, а помогает быстро выполнять заказы, оформлять документы</div>
+                    </div>
+                  </div>
+                  <div class="approach-list__item">
+                    <div class="close-mark close-mark__approach-list close-mark__img close-mark__size-40 close-mark--gray">
+                      <svg class="check-mark__icon">
+                        <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+                      </svg>
+                    </div>
+                    <div class="approach-list__content">
+                      <div class="title approach-list__content-title">Найти транспортную биржу</div>
+                      <div class="approach-list__content-description">Это не транспортная биржа, а потому найти в ней грузы или транспорт не получится</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>  
+        </div>
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="introduction-index">
+        <div class="row introduction-index__list">
+          <div class="col-12 col-lg-5">
+            <div class="introduction-index__content">
+              <div class="title title-size-2 margin-b-3 introduction-index__title">Программа удобна, интуитивно понятна и проста</div>
+              <div class="introduction-index__description">
+                А заботливая техподдержка обучит и внедрит программу в ваш бизнес за 14 дней              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-7">
+            <div class="introduction-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/introduction-img.png" data-alt="Внедрение">
+					<source srcset="/wp-content/themes/4logic/images/introduction-img.webp" type="image/webp">
+				</picture>
+            </div>
+          </div>
+        </div>
+        <div class="introdution-index__free">
+          <div class="check-mark check-mark__size-30 check-mark__img check-mark--red introdution-index__free-img">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+          <div class="introdution-index__free-content">14 дней на внедрение</div>
+        </div>
+      </div>        
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container advantage">
+      <h2 class="title title-size-1 margin-b-4 section__title section__title--index">Преимущества программы 4logist</h2>
+      <div class="row advantage-list margin-b-3_minus">
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Вся информация хранится в одном месте</div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Удаленный доступ к программе</div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Безопасность и сохранность данных</div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Различные уровни доступа к программе у каждого сотрудника </div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Мультивалютность учета            </div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Ежемесячные бесплатные обновления</div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Автоматическое формирование документов по индивидуальным шаблонам            </div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Личный кабинет, где клиенты могут скачивать документы, отслеживать грузы и оставлять запросы            </div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Работа с любым транспортом и мультимодальными перевозками            </div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-md-6 margin-b-3">
+          <div class="advantage-card h-100"> 
+            <div class="title advantage-card__title">Интеграция с 1С и доработка программы под специфику ведения вашего учета</div>
+            <div class="advantage-card__img">
+              <svg class="advantage-card__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#star"></use>
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+	   <a data-src="#modal-compare"  data-fancybox class="btn btn--size_md btn--theme_red advantage__btn">Сравнить функционал программы с другими решениями</a>
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="request-index">
+        <h2 class="title title-size-1 margin-b-3 request-index__title">Отзывы клиентов</h2> 
+        <div class="margin-b-5 request-index__head">
+          <div class="subtitle request-index__subtitle">Посмотрите, что думают логисты, экспедиторы и директоры транспортных и экспедиционных компаний о сотрудничестве с нами</div>
+          <div class="nav-arrow nav-arrow__request-index">
+            <button class="nav-arrow__img pp2">
+              <svg class="nav-arrow__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#nav-small-arrow"></use>
+              </svg>
+            </button>
+            <button class="nav-arrow__img nav-arrow__img--right nn2">
+              <svg class="nav-arrow__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#nav-small-arrow"></use>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div class="row request-index__list testemonial-slider">
+         
+       				
+						 <div class="col-12 col-md-6">
+				<div class="h-100 request-card request-index__card">
+				  <div class="margin-b-3 request-card__head">
+					<div class="request-card__img">
+					  <img src="https://www.4logist.com/wp-content/uploads/2021/10/bez-imeni-3.png" alt="Кирилл Каленкевич">
+					</div>
+											<a href="#modal-response-1" data-fancybox class="youtube-btn request-card__youtube-btn" target="_blank">
+						  <svg class="youtube-btn__icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#white-arrow"></use>
+						  </svg>
+						</a>
+									  </div>
+				  <div class="margin-b-2 request-card__content">
+					<div class="request-card__info">
+					  <div class="title request-card__name">
+					   Кирилл Каленкевич					  </div>
+					  <div class="request-card__position">
+						Директор					  </div>
+					</div>
+					<div class="request-card__statement">
+					  Транспортно-экспедиционная компания, осуществляет международные грузоперевозки по странам СНГ, Европы и Азии.
+					</div>
+				  </div>
+				  <div class="request-card__read">
+					<a href="#modal-response-1" data-fancybox class="btn btn--theme_simple btn--size_sm request-card__btn btnStartVideo" >Читать полный отзыв</a>
+				  </div>
+				</div>
+			  </div>
+			<!---->
+			<div id="modal-response-1" class="modal-response modal modal--size_1170" style="display:none;">
+			  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+				<svg class="modal__close-icon">
+				  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+				</svg>
+			  </button>
+			  <div class="modal__body">
+				<div class="margin-b-4 response__head">
+				  <div class="response__head-img" style="background-image: url(https://www.4logist.com/wp-content/uploads/2021/10/bez-imeni-3.png);">
+				  </div>
+				  <div class="response__head-description">
+					<div class="title title-size-2 response__head-name">Кирилл Каленкевич</div>
+					<div class="response__head-position">Директор</div>
+				  </div>
+				</div>
+				<div class="response__content">
+				  					  <div class="response__title"> 
+						<div class="quotes quotes__img">
+						  <svg class="quotes-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#quotes"></use>
+						  </svg>
+						</div>
+						Транспортно-экспедиционная компания, осуществляет международные грузоперевозки по странам СНГ, Европы и Азии.
+					  </div>
+					  <div class="response__video">
+						<div class="video-youtube page">
+						  <div class="video">
+							<a class="video__link bl" href="https://youtu.be/zV46XkdKWrs">
+								<picture>
+									<source srcset="https://i.ytimg.com/vi_webp/zV46XkdKWrs/maxresdefault.webp" type="image/webp">
+									<img class="video__media" src="https://i.ytimg.com/vi/zV46XkdKWrs/maxresdefault.jpg" alt="Кирилл Каленкевич">
+								</picture>
+							</a>
+							<button class="video__button" aria-label="Запустить видео">
+								<svg width="68" height="48" viewBox="0 0 68 48"><path class="video__button-shape" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"></path><path class="video__button-icon" d="M 45,24 27,14 27,34"></path></svg>
+							</button>
+						</div>
+						</div>
+					  </div>
+				  				</div>
+				<div class="response__description">
+				  <div><b>ЗАДАЧА:</b></div>
+				  <div class="margin-b-3">Основной задачей было автоматизировать определенные процессы в работе экспедиторов и бухгалтеров</div>
+				  
+				  <div><b>РЕАЛИЗАЦИЯ:</b></div>
+				  <div>Сейчас никто уже и не может работать без 4logist, потому что с ним все быстро и эффективно. Плюс, когда в прошлом году работа перешла в удаленку и многие работали из дома, мы смогли также продолжить работу без остановок уже удаленно.<br>
+ 
+Спасибо 4logist за то, что дали нам возможность автоматизировать наши бизнес процессы и отдельное спасибо, что с вашей помощью мы реализовали блок для отдела продаж и теперь можем отслеживать всех “теплых” клиентов и анализировать их потребности в транспорте.</div>
+				</div>
+			  </div>
+			</div>
+			<!---->
+
+						 <div class="col-12 col-md-6">
+				<div class="h-100 request-card request-index__card">
+				  <div class="margin-b-3 request-card__head">
+					<div class="request-card__img">
+					  <img src="https://www.4logist.com/wp-content/uploads/2021/10/bez-imeni-2.png" alt=" Нина  Неустроева">
+					</div>
+											<a href="#modal-response-2" data-fancybox class="youtube-btn request-card__youtube-btn" target="_blank">
+						  <svg class="youtube-btn__icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#white-arrow"></use>
+						  </svg>
+						</a>
+									  </div>
+				  <div class="margin-b-2 request-card__content">
+					<div class="request-card__info">
+					  <div class="title request-card__name">
+					    Нина  Неустроева					  </div>
+					  <div class="request-card__position">
+						Коммерческий директор					  </div>
+					</div>
+					<div class="request-card__statement">
+					  Мультимодальные перевозки
+География: Европа, Скандинавия, РФ и СНГ, Китай					</div>
+				  </div>
+				  <div class="request-card__read">
+					<a href="#modal-response-2" data-fancybox class="btn btn--theme_simple btn--size_sm request-card__btn btnStartVideo" >Читать полный отзыв</a>
+				  </div>
+				</div>
+			  </div>
+			<!---->
+			<div id="modal-response-2" class="modal-response modal modal--size_1170" style="display:none;">
+			  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+				<svg class="modal__close-icon">
+				  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+				</svg>
+			  </button>
+			  <div class="modal__body">
+				<div class="margin-b-4 response__head">
+				  <div class="response__head-img" style="background-image: url(https://www.4logist.com/wp-content/uploads/2021/10/bez-imeni-2.png);">
+				  </div>
+				  <div class="response__head-description">
+					<div class="title title-size-2 response__head-name"> Нина  Неустроева</div>
+					<div class="response__head-position">Коммерческий директор</div>
+				  </div>
+				</div>
+				<div class="response__content">
+				  					  <div class="response__title"> 
+						<div class="quotes quotes__img">
+						  <svg class="quotes-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#quotes"></use>
+						  </svg>
+						</div>
+						Мультимодальные перевозки
+География: Европа, Скандинавия, РФ и СНГ, Китай					  </div>
+					  <div class="response__video">
+						<div class="video-youtube page">
+						  <div class="video">
+							<a class="video__link bl" href="https://youtu.be/l77TuZrLs-0">
+								<picture>
+									<source srcset="https://i.ytimg.com/vi_webp/l77TuZrLs-0/maxresdefault.webp" type="image/webp">
+									<img class="video__media" src="https://i.ytimg.com/vi/l77TuZrLs-0/maxresdefault.jpg" alt=" Нина  Неустроева">
+								</picture>
+							</a>
+							<button class="video__button" aria-label="Запустить видео">
+								<svg width="68" height="48" viewBox="0 0 68 48"><path class="video__button-shape" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"></path><path class="video__button-icon" d="M 45,24 27,14 27,34"></path></svg>
+							</button>
+						</div>
+						</div>
+					  </div>
+				  				</div>
+				<div class="response__description">
+				  <div><b>ЗАДАЧА:</b></div>
+				  <div class="margin-b-3">Мы пришли к 4logist, когда поняли, что бессистемность в документах не дает нам качественно выстраивать общение с клиентами. <br>
+Клиентов становилось все больше, а данные все время нужно было искать. Создание и отправка документов занимала большую часть рабочего дня. Был постоянная привязка к компьютеру с невозможностью работать удаленно. А также, что немаловажно для руководителя, было сложно видеть реальную картину бизнеса из-за неточных отчетов.</div>
+				  
+				  <div><b>РЕАЛИЗАЦИЯ:</b></div>
+				  <div>С появление 4logist, мы стали грамотно выстраивать процессы, высвободилось время для поиска новых клиентов, наладилось взаимодействие сотрудников и компании, а также, мы смогли увеличить прибыль в 2 раза.</div>
+				</div>
+			  </div>
+			</div>
+			<!---->
+
+						 <div class="col-12 col-md-6">
+				<div class="h-100 request-card request-index__card">
+				  <div class="margin-b-3 request-card__head">
+					<div class="request-card__img">
+					  <img src="https://www.4logist.com/wp-content/uploads/2021/10/bez-imeni-4.png" alt="Николай Гарбацевич">
+					</div>
+											<a href="#modal-response-3" data-fancybox class="youtube-btn request-card__youtube-btn" target="_blank">
+						  <svg class="youtube-btn__icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#white-arrow"></use>
+						  </svg>
+						</a>
+									  </div>
+				  <div class="margin-b-2 request-card__content">
+					<div class="request-card__info">
+					  <div class="title request-card__name">
+					   Николай Гарбацевич					  </div>
+					  <div class="request-card__position">
+						Специалист по организации международных перевозок					  </div>
+					</div>
+					<div class="request-card__statement">
+					  Экспедиторская компания по перевозкам груза по Европе и СНГ					</div>
+				  </div>
+				  <div class="request-card__read">
+					<a href="#modal-response-3" data-fancybox class="btn btn--theme_simple btn--size_sm request-card__btn btnStartVideo" >Читать полный отзыв</a>
+				  </div>
+				</div>
+			  </div>
+			<!---->
+			<div id="modal-response-3" class="modal-response modal modal--size_1170" style="display:none;">
+			  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+				<svg class="modal__close-icon">
+				  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+				</svg>
+			  </button>
+			  <div class="modal__body">
+				<div class="margin-b-4 response__head">
+				  <div class="response__head-img" style="background-image: url(https://www.4logist.com/wp-content/uploads/2021/10/bez-imeni-4.png);">
+				  </div>
+				  <div class="response__head-description">
+					<div class="title title-size-2 response__head-name">Николай Гарбацевич</div>
+					<div class="response__head-position">Специалист по организации международных перевозок</div>
+				  </div>
+				</div>
+				<div class="response__content">
+				  					  <div class="response__title"> 
+						<div class="quotes quotes__img">
+						  <svg class="quotes-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#quotes"></use>
+						  </svg>
+						</div>
+						Экспедиторская компания по перевозкам груза по Европе и СНГ					  </div>
+					  <div class="response__video">
+						<div class="video-youtube page">
+						  <div class="video">
+							<a class="video__link bl" href="https://youtu.be/HgSuCVD7ld0">
+								<picture>
+									<source srcset="https://i.ytimg.com/vi_webp/zV46XkdKWrs/maxresdefault.webp" type="image/webp">
+									<img class="video__media" src="https://i.ytimg.com/vi/zV46XkdKWrs/maxresdefault.jpg" alt="Николай Гарбацевич">
+								</picture>
+							</a>
+							<button class="video__button" aria-label="Запустить видео">
+								<svg width="68" height="48" viewBox="0 0 68 48"><path class="video__button-shape" d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z"></path><path class="video__button-icon" d="M 45,24 27,14 27,34"></path></svg>
+							</button>
+						</div>
+						</div>
+					  </div>
+				  				</div>
+				<div class="response__description">
+				  <div><b>ЗАДАЧА:</b></div>
+				  <div class="margin-b-3">Раньше мы работали стандартно с помощью excel таблицы и документов word. Это было крайне неудобно и занимало очень много времени.
+</div>
+				  
+				  <div><b>РЕАЛИЗАЦИЯ:</b></div>
+				  <div>После внедрения 4logist, мы увидели, что 30% времени освободилось и мы можем тратить их на поиск и работу с новыми клиентами. Очень удобно, что программа автоматически создает любые документы, подтягивает информацию по заказам и заказчикам.
+<br>
+Еще хочется отметить, что 4logist настраивает функционал программы под нужды конкретного пользователя, что нам очень понравилось и было необходимо.
+<br>
+Я рекомендую всем, кто задействован в сфере грузоперевозок программу 4logist.</div>
+				</div>
+			  </div>
+			</div>
+			<!---->
+
+			
+		        </div>
+      </div>        
+    </div>
+  </section>
+  <!-- section END -->
+  
+    <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="tabs-index">
+        <h2 class="title title-size-1 margin-b-5 tabs-index__title">Облегчает работу и повышает эффективность каждого сотрудника</h2>
+        <div class="tabs-index__body">
+          <nav class="tabs-index__links">
+            <a href="#tab_1" class="title tabs-index__link">
+              <div class="tabs-index__link-img">
+				<img class="lozad" data-src="/wp-content/themes/4logic/images/tabs-img-1.png" alt="Руководитель"></div>Руководитель				<div class="tabs-index__arrow">
+                <svg class="tabs-index__icon">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#index-arrow"></use>
+                </svg>
+              </div>
+            </a>
+            <a href="#tab_2" class="title tabs-index__link">
+              <div class="tabs-index__link-img tabs-index__link-img--headphone"><img class="lozad" data-src="/wp-content/themes/4logic/images/tabs-img-2.png" alt="Логист"></div>Логист              <div class="tabs-index__arrow">
+                <svg class="tabs-index__icon">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#index-arrow"></use>
+                </svg>
+              </div>
+            </a>
+            <a href="#tab_3" class="title tabs-index__link">
+              <div class="tabs-index__link-img tabs-index__link-img--percent"><img class="lozad" data-src="/wp-content/themes/4logic/images/tabs-img-3.png" alt="Бухгалтер"></div>Бухгалтер              <div class="tabs-index__arrow">
+                <svg class="tabs-index__icon">
+                  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#index-arrow"></use>
+                </svg>
+              </div>
+            </a>
+          </nav>
+          <div class="tabs-index__block">
+            <div class="row tabs-index__row">
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Увеличение прибыли на 10%-30%</div>
+                    <div class="tabs-index__description">У вас появляются преимущества перед конкурентами: быстрое оформление заказов без ошибок, удобный личный кабинет для клиентов, где они смогут отслеживать статус своего заказа.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Сокращение нагрузки на логистов и экспедиторов до 80%</div>
+                    <div class="tabs-index__description">Автоматическое формирование документов в 1 клик и полная прозрачность работы вашего персонала.</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Дополнительные преимущества перед конкурентами</div>
+                    <div class="tabs-index__description">Клиенты могут отслеживать статусы своих заказов из личного кабинета на сайте. Быстро и удобно</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Установка кредитных лимитов </div>
+                    <div class="tabs-index__description">Регулируете уровень оплат и дебиторской задолженности</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Контролируете работу сотрудников удаленно</div>
+                    <div class="tabs-index__description">В любое время и в любом месте можете запросить отчет или проконтролировать выполнение той или иной задачи</div>
+                  </div>
+                </div>
+              </div>
+			  <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Вся статистика работы компании в 1 клик</div>
+                    <div class="tabs-index__description">Контролируйте работу менеджеров, кредитные лимиты, оплаты и статусы заказов. Получайте все необходимые данные для стратегического планирования в 1 клик</div>
+                  </div>
+                </div>
+              </div>
+			  <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Данные под надежной защитой</div>
+                    <div class="tabs-index__description">Настраивайте уровень доступа к базе для каждого сотрудника, теперь невозможно скачать вашу базу и получить доступ к закрытым данным</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tabs-index__block">
+            <div class="row tabs-index__row">
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Сокращаете время на обработку заказов на 30-50%</div>
+                    <div class="tabs-index__description">Не нужно сканировать или каждый раз снова заполнять документы</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Допускаете меньше ошибок и не путаетесь с НДС</div>
+                    <div class="tabs-index__description">Данные в документы подтягиваются из проверенных справочников и шаблонов</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Документы автоматически попадают в бухгалтерию</div>
+                    <div class="tabs-index__description">Занимайтесь делами и не тратьте время на рутину</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Заявки на транспортные биржи одной кнопкой</div>
+                    <div class="tabs-index__description">Быстрее конкурентов реагируйте на предложения</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Коммерческое предложение для клиента</div>
+                    <div class="tabs-index__description">Формируйте одной кнопкой и отправляйте ему на почту</div>
+                  </div>
+                </div>
+              </div>
+			  
+			  <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Сообщения клиенту о состоянии груза</div>
+                    <div class="tabs-index__description">Отправляйте их прямо из программы на email или WhatsApp</div>
+                  </div>
+                </div>
+              </div>
+			  
+			  <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Автоматическое формирование документов</div>
+                    <div class="tabs-index__description">Экономьте драгоценное время и исключайте ошибки в документах</div>
+                  </div>
+                </div>
+              </div>
+			  
+			  <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Работаете удаленно</div>
+                    <div class="tabs-index__description">В любое время и в любом месте проверяйте выполнение заказа или отвечайте клиенту</div>
+                  </div>
+                </div>
+              </div>
+			  
+            </div>
+          </div>
+          <div class="tabs-index__block">
+            <div class="row tabs-index__row">
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Быстро обрабатываете документы</div>
+                    <div class="tabs-index__description">Они правильно оформлены, не нужно возвращать на переделку</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Формируете отчетность в 1 клик</div>
+                    <div class="tabs-index__description">Не нужно долго сводить дебет с кредитом и искать ошибки</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Документы попадают в бухгалтерию автоматически</div>
+                    <div class="tabs-index__description">Не нужно искать исполнителей или требовать документы</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Избавляетесь от рутины</div>
+                    <div class="tabs-index__description">Данные попадают в 1С или вашу программу бухгалтерского учета автоматически, не нужно вводить их вручную</div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-5">
+                <div class="h-100 tabs-index__item">
+                  <div class="check-mark check-mark__tabs-index check-mark__size-30 check-mark--white check-mark__img tabs-index__check-mark">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="tabs-index__content">
+                    <div class="title tabs-index__item-title">Передаете выписку счетов логисту</div>
+                    <div class="tabs-index__description">Менеджер выставляет счета одной кнопкой, вам остается лишь проверить ставку НДС</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>        
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="support-index">
+        <h2 class="title title-size-1 margin-b-3 title-center title__support-index">Заботливая техподдержка внедрит<br>программу в течение 2 недель</h2>
+        <div class="margin-b-5 subtitle support-index__subtitle">Личный менеджер поможет настроить вашу базу и обучит работе в программе</div>
+        <div class="row row__support-index">
+          <div class="col-12 col-md-6 margin-b-3">
+            <div class="support-index__list">
+              <div class="support-index__item">
+                <div class="support-index__img">
+                  <img class="lozad" data-src="/wp-content/themes/4logic/images/support-index-img-1.png" alt="Перенос базы данных">
+                </div>
+                <div class="support-index__content">
+                  <div class="title support-index__title">
+                    Перенос базы данных                  </div>
+                  <div class="support-index__text">
+                    Перенесет всю базу данных, даже если вы вели её в разных источниках, и загрузит в систему                  </div>
+                </div>
+              </div>
+              <div class="support-index__item">
+                <div class="support-index__img">
+                  <img class="lozad" data-src="/wp-content/themes/4logic/images/support-index-img-2.png" alt="Ответы на вопросы">
+                </div>
+                <div class="support-index__content">
+                  <div class="title support-index__title">
+                    Ответы на вопросы                  </div>
+                  <div class="support-index__text">
+                    Ответит на все ваши вопросы по работе с программой и шаблонами через популярные каналы связи                  </div>
+                </div>
+              </div>
+              <div class="support-index__item">
+                <div class="support-index__img">
+                  <img class="lozad" data-src="/wp-content/themes/4logic/images/support-index-img-3.png" alt="Настройка программы">
+                </div>
+                <div class="support-index__content">
+                  <div class="title support-index__title">
+                    Настройка программы                  </div>
+                  <div class="support-index__text">
+                    Настроит программу под вашу компанию и скорректирует шаблоны документов                  </div>
+                </div>
+              </div>   
+              <div class="support-index__item">
+                <div class="support-index__img">
+                  <img class="lozad" data-src="/wp-content/themes/4logic/images/support-index-img-4.png" alt="Обучение">
+                </div>
+                <div class="support-index__content border-none">
+                  <div class="title support-index__title">
+                    Обучение                  </div>
+                  <div class="support-index__text">
+                    Обучит работе в программе и подключит вас к базе знаний в видео и текстовом формате                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-md-6 margin-b-3">
+            <div class="support-index__worker">
+              <div class="support-index__worker-img">
+					<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-worker-img.png" data-alt="Юля">
+						<source srcset="/wp-content/themes/4logic/images/index-worker-img.webp" type="image/webp">
+					</picture>
+              </div>
+              <div class="support-index__worker-content">
+                <div class="title support-index__worker-name">
+                  Юля                </div>
+                <div class="support-index__worker-position">
+                  Руководитель отдела внедрения                </div>
+              </div>
+            </div>
+            <div class="support-index__guarantee">
+              <div class="support-index__guarantee-img">
+                <img class="lozad" data-src="/wp-content/themes/4logic/images/support-guarante-img.png" alt="Внедрение">
+				<div class="block_day">
+					<div class="block_day-num">14</div>
+					<div>дней</div>
+				</div>
+              </div>
+              <div class="title support-index__guarantee-text">
+                Гарантируем, что внедрение займет не больше 14 дней или вернем деньги              </div>
+            </div>
+          </div>
+        </div>
+      </div>        
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="integration-record">
+        <div class="title title-size-2 margin-b-1 integration-record__title">Запишитесь на бесплатную презентацию программы</div>
+        <div class="margin-b-3 integration-record__description">Проведем демонстрацию возможностей программы вам, вашим сотрудникам и начальнику. Ответим на интересующие вопросы и предоставим бесплатный доступ к программе на 7 дней          
+        </div>
+				
+
+			<label for="popupCheckboxOne" class="popup-shower" style="text-decoration: none;">
+				<a class="btn btn--size_md btn--theme_red intro-index__btn" style="max-width:100%;">Запланировать онлайн-презентацию</a>
+			</label>
+
+			
+      </div>      
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="cloud-index">
+        <h2 class="title title-size-1 margin-b-5 title-center cloud-index__title">Благодаря<br>облачным технологиям:</h2>
+        <div class="margin-b-3 cloud-index__item">
+          <div class="row cloud-index__row">
+           <div class="col-12 col-lg-6">
+             <div class="cloud-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/cloud-img-1.png" data-alt="Работа удаленно">
+					<source srcset="/wp-content/themes/4logic/images/cloud-img-1.webp" type="image/webp">
+				</picture>
+             </div>
+           </div>
+           <div class="col-12 col-lg-6">
+             <div class="cloud-index__content">
+              <div class="title cloud-index__content-title">Вы можете работать удаленно
+              из любого места в единой системе</div>
+              <div class="index-option cloud-index__index-option">
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Отслеживайте статус заказов, грузов и оплат просто и быстро                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Автоматически формируйте отчеты и контролируйте работу компании и менеджеров                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Общайтесь с клиентами в комментариях или звоните им по телефону прямо из программы                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Работайте в любое время и из любого места: из дома, в поездке или в командировке                  </div>
+                </div>
+              </div>
+             </div>
+           </div>  
+          </div>
+        </div>
+        <div class="margin-b-3 cloud-index__item">
+          <div class="row cloud-index__row">
+           <div class="col-12 col-lg-6 d_dis-none">
+             <div class="cloud-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/cloud-img-2.png" data-alt="Работа удаленно">
+					<source srcset="/wp-content/themes/4logic/images/cloud-img-2.webp" type="image/webp">
+				</picture>
+             </div>
+           </div>
+           <div class="col-12 col-lg-6">
+             <div class="cloud-index__content">
+              <div class="title cloud-index__content-title">Ваши данные под надежной защитой</div>
+              <div class="index-option cloud-index__index-option">
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">Данные хранятся в специализированном дата-центре. Информация в нем защищена от взломов, пожаров, скачков напряжения, потерь и сбоев                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Резервное хранение на сервере Amazon. Это одно из крупнейших коммерческих облаков                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">Полная конфиденциальность данных. Информация передается по защищенному протоколу https, который гарантирует конфиденциальность данных. За безопасность информации отвечают криптографические протоколы SSL/TLS. Они шифруют данные и обеспечивают их сохранность                  </div>
+                </div>
+              </div>
+             </div>
+           </div>  
+          </div>
+        </div>
+        <div class="margin-b-3 cloud-index__item">
+          <div class="row cloud-index__row">
+           <div class="col-12 col-lg-6">
+             <div class="cloud-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/cloud-img-3.png" data-alt="Работа удаленно 2">
+					<source srcset="/wp-content/themes/4logic/images/cloud-img-3.webp" type="image/webp">
+				</picture>
+             </div>
+           </div>
+           <div class="col-12 col-lg-6">
+             <div class="cloud-index__content">
+              <div class="title cloud-index__content-title">Вы можете восстановить свою базу на любую дату за последние 30 дней</div>
+              <div class="index-option cloud-index__index-option">
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Еженевно в 24:00 делаем полную копию вашей базы и храним ее в индивидуальном хранилище в течение 30 дней                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">При необходимости восстановим вашу базу по состоянию на любую дату из этих 30 дней                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">Благодаря настройкам прав доступа никто, кроме вас, не может получить доступ к вашей базе                  </div>
+                </div>
+               
+              </div>
+             </div>
+           </div>  
+          </div>
+        </div>
+        <div class="margin-b-3 cloud-index__item">
+          <div class="row cloud-index__row">
+           <div class="col-12 col-lg-6 d_dis-none">
+             <div class="cloud-index__img">
+              <div class="introdution-index__free introdution-index__free--cloud-index">
+                <div class="check-mark check-mark__size-30 check-mark__img check-mark--red introdution-index__free-img cloud-index--check-mark">
+                  <svg class="check-mark__icon">
+                    <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                  </svg>
+                </div>
+                <div class="introdution-index__free-content cloud-index--content">Программа успешно обновлена!</div>
+              </div>
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/cloud-img-4.png" data-alt="Работа удаленно 3">
+					<source srcset="/wp-content/themes/4logic/images/cloud-img-4.webp" type="image/webp">
+				</picture>
+             </div>
+           </div>
+           <div class="col-12 col-lg-6">
+             <div class="cloud-index__content">
+              <div class="title cloud-index__content-title">Всегда актуальная версия программы</div>
+              <div class="index-option cloud-index__index-option">
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">
+                    Каждый месяц программа обновляется. Все обновления происходят автоматически и без технических перерывов                  </div>
+                </div>
+                <div class="index-option__item">
+                  <div class="check-mark check-mark__size-30 check-mark--white check-mark__img index-option__img">
+                    <svg class="check-mark__icon">
+                      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+                    </svg>
+                  </div>
+                  <div class="index-option__content">Вам не нужны IT-специалисты. Все вопросы и проблемы оперативно решает техподдержка 4logist                  </div>
+                </div>
+              </div>
+             </div>
+           </div>  
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- section END --> 
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="personal-index">
+        <h2 class="title title-size-1 title-center personal-index__title">Личный кабинет клиента освобождает вас от рутины</h2>
+        <div class="subtitle title-center personal-index__subtitle">Теперь клиент может самостоятельно:</div>
+        <div class="personal-index__img">
+			<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/personal-img.png" data-alt="Личный кабинет">
+				<source srcset="/wp-content/themes/4logic/images/personal-img.webp" type="image/webp" media="(min-width: 769px)">
+				<source srcset="/wp-content/themes/4logic/images/personal-imgLX.webp" type="image/webp" media="(min-width: 429px)">
+				<source srcset="/wp-content/themes/4logic/images/personal-imgSM.webp" type="image/webp" media="(min-width: 320px)">
+			</picture>
+        </div>
+        <div class="row personal-index__row">
+          <div class="col-lg-4 col-md-6 col-12 margin-b-3">
+            <div class="h-100 personal-index__item">
+              <div class="title personal-index__item-title">
+                1. Создавать запросы              </div>
+              <div class="personal-index__content">
+                Вам останется лишь перенаправить заявку на биржу              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 margin-b-3">
+            <div class="h-100 personal-index__item">
+              <div class="title personal-index__item-title">
+                2. Отслеживать статус заказа              </div>
+              <div class="personal-index__content">
+                Вам не нужно отрываться от работы               </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 margin-b-3">
+            <div class="h-100 personal-index__item">
+              <div class="title personal-index__item-title">
+                3. Оставлять комментарии              </div>
+              <div class="personal-index__content">
+                Общайтесь с клиентом, не выходя из системы              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 margin-b-3">
+            <div class="h-100 personal-index__item">
+              <div class="title personal-index__item-title">
+                4. Скачивать счета              </div>
+              <div class="personal-index__content">
+                Счет не затеряется и его не нужно отсылать клиенту              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 margin-b-3">
+            <div class="h-100 personal-index__item">
+              <div class="title personal-index__item-title">
+                5. Контролировать оплаты              </div>
+              <div class="personal-index__content">
+                Индикатор подскажет актуальную информацию              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-12 margin-b-3">
+            <div class="h-100 personal-index__item">
+              <div class="title personal-index__item-title">
+                6. Просматривать документы               </div>
+              <div class="personal-index__content">
+                Все документ прикреплены к заказу              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- section END -->
+  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="clients-request">
+        <div class="margin-b-4 clients-request__head">
+          <h2 class="title title-size-1 clients-index__title">Таких результатов добиваются наши клиенты с программой 4logist</h2>
+          <div class="nav-arrow nav-arrow__clients-request">
+            <button class="pp3 nav-arrow__img">
+              <svg class="nav-arrow__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#nav-small-arrow"></use>
+              </svg>
+            </button>
+            <button class="nn3 nav-arrow__img nav-arrow__img--right">
+              <svg class="nav-arrow__icon">
+                <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#nav-small-arrow"></use>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div class="clients-request__list">
+			<div class="slider-rezult">
+								
+						<div class="request-item request-item__clients-request">
+					<div class="request-item__img">
+					  <img class="lozad" src="https://www.4logist.com/wp-content/uploads/2021/07/rador.png" alt="Rador">
+					</div>
+					<div class="request-item__main">
+					  <h3 class="title title-size-3 margin-b-2 request-item__title">"Rador"</h3>
+					  <div class="margin-b-4 request-item__content">
+						Транспортно-экспедиционная компания, занимается мульти-модальными перевозками в Казахстан, Белоруссию, Польшу 					  </div>
+					  <div class="margin-b-5 stats request-item__stats">
+						<div class="row row__request-item">
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">5</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Дня на внедрение программы в компанию</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">35</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Месяцев активной работы в программе</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">1,5</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Раза выросло количество клиентов</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">22%</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Увеличилась прибыль за время работы в 4logist</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">67%</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Ускорилось время оформления заявок</div>
+						  </div>
+						</div>
+					  </div>
+					  <a data-src="#modal-second-response-1" data-fancybox class="btn btn--size_md btn--theme_red clients-request-btn">Смотреть полный отзыв</a>
+					</div>
+				</div>
+			
+			<!---->
+			<div id="modal-second-response-1" style="display:none;" class="modal modal--size_1170 modal-second-response">
+			  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+				<svg class="modal__close-icon">
+				  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+				</svg>
+			  </button>
+			  <div class="modal__body">
+				<div class="second-response__head">
+				  <img class="lozad" src="https://www.4logist.com/wp-content/uploads/2021/07/rador.png" alt="Rador">
+				</div>
+				<div class="big-response second-response__big-response">
+				  <div class="big-response__head">
+					<div class="big-response__name">
+					  <div class="big-response__title">
+						"Rador"
+					  </div>
+					  <div class="big-response__description">
+						Транспортно-экспедиционная компания, занимается мульти-модальными перевозками в Казахстан, Белоруссию, Польшу 					  </div>
+					</div>
+					<div class="big-response__look">
+					  <div class="big-response__item">
+						<div class="big-response__img big-response__img--gray">
+						  <svg class="web-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#web"></use>
+						  </svg>
+						</div>
+						<a href="https://www.facebook.com/" target="_blank" class="btn btn--theme_gray btn--size_sm big-response__btn">Посетить сайт компании</a>
+					  </div>
+					  <div class="big-response__item">
+						<div class="big-response__img big-response__img--red">
+						  <svg class="arrow-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#white-arrow"></use>
+						  </svg>
+						</div>
+						<a href="https://www.youtube.com/embed/N0CEFHCIIE8" target="_blank" class="btn btn--theme_simple btn--size_sm big-response__btn">Смотреть видеоотзыв</a>
+					  </div>
+					</div>
+				  </div>
+				  <div class="stats big-response__stats">
+					<div class="row">
+					  <div class="col-stats">
+						<div class="stats__title">5</div>
+						<div class="stats__subtitle">Дня на внедрение программы в компанию</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">35</div>
+						<div class="stats__subtitle">Месяцев активной работы в программе</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">1,5</div>
+						<div class="stats__subtitle">Раза выросло количество клиентов</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">22%</div>
+						<div class="stats__subtitle">Увеличилась прибыль за время работы в 4logist</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">67%</div>
+						<div class="stats__subtitle">Ускорилось время оформления заявок</div>
+					  </div>
+					</div>
+				  </div>
+				  <div class="response__description">
+					<div><b>ЗАДАЧА:</b></div>
+						<div class="margin-b-3">       Наша компания обратилась к 4logist примерно год назад с задачей автоматизировать работу менеджеров по организации перевозок.              </div>
+					
+					<div><b>РЕАЛИЗАЦИЯ:</b></div> 
+					<div>Автоматизированная система управления предприятием – это путь к самосовершенствованию.
+
+      <p><strong>4Logist позволила преодолеть сразу несколько этапов</strong> на этом пути: начав со сбора информации, перешли к её обработке, <strong>выявив слабые и сильные стороны</strong> в организации перевозок, затем к моделированию и прогнозированию.</p>
+
+      <p><strong>Специалисты учли все пожелания и особенности,</strong> сократили бумажный документооборот. Бухгалтерии и руководящему составу облегчили задачу по составлению управленческого учета, оперируя подытоженными данными программы.</p>
+
+      <p><strong>Результаты превзошли ожидания:</strong> рост продаж услуг вырос. На сегодняшний день работа с 4logist продолжается, программу расширяем и модернизируем. <strong>Рекомендуем 4logist как надежного партнера!</strong></p></div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			
+			<!---->
+
+						<div class="request-item request-item__clients-request">
+					<div class="request-item__img">
+					  <img class="lozad" src="https://www.4logist.com/wp-content/uploads/2021/07/ngtrans.png" alt="НГ Транс">
+					</div>
+					<div class="request-item__main">
+					  <h3 class="title title-size-3 margin-b-2 request-item__title">"НГ Транс"</h3>
+					  <div class="margin-b-4 request-item__content">
+						Транспортно-экспедиционная компания, занимается мульти-модальными перевозками в Казахстан, Белоруссию, Польшу 					  </div>
+					  <div class="margin-b-5 stats request-item__stats">
+						<div class="row row__request-item">
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">7</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Дня на внедрение программы в компанию</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">57</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Месяцев активной работы в программе</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">1,2</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Раза выросло количество клиентов</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">29%</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Увеличилась прибыль за время работы в 4logist</div>
+						  </div>
+						  <div class="col-stats margin-b-4 col-stats__clients-request">
+							<div class="stats__title stats__title--size-sm stats__title--theme-red">48%</div>
+							<div class="stats__subtitle stats__subtitle--align stats__subtitle--weight">Ускорилось время оформления заявок</div>
+						  </div>
+						</div>
+					  </div>
+					  <a data-src="#modal-second-response-2" data-fancybox class="btn btn--size_md btn--theme_red clients-request-btn">Смотреть полный отзыв</a>
+					</div>
+				</div>
+			
+			<!---->
+			<div id="modal-second-response-2" style="display:none;" class="modal modal--size_1170 modal-second-response">
+			  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+				<svg class="modal__close-icon">
+				  <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+				</svg>
+			  </button>
+			  <div class="modal__body">
+				<div class="second-response__head">
+				  <img class="lozad" src="https://www.4logist.com/wp-content/uploads/2021/07/ngtrans.png" alt="НГ Транс">
+				</div>
+				<div class="big-response second-response__big-response">
+				  <div class="big-response__head">
+					<div class="big-response__name">
+					  <div class="big-response__title">
+						"НГ Транс"
+					  </div>
+					  <div class="big-response__description">
+						Транспортно-экспедиционная компания, занимается мульти-модальными перевозками в Казахстан, Белоруссию, Польшу 					  </div>
+					</div>
+					<div class="big-response__look">
+					  <div class="big-response__item">
+						<div class="big-response__img big-response__img--gray">
+						  <svg class="web-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#web"></use>
+						  </svg>
+						</div>
+						<a href="https://www.facebook.com/" target="_blank" class="btn btn--theme_gray btn--size_sm big-response__btn">Посетить сайт компании</a>
+					  </div>
+					  <div class="big-response__item">
+						<div class="big-response__img big-response__img--red">
+						  <svg class="arrow-icon">
+							<use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#white-arrow"></use>
+						  </svg>
+						</div>
+						<a href="https://www.youtube.com/embed/N0CEFHCIIE8" target="_blank" class="btn btn--theme_simple btn--size_sm big-response__btn">Смотреть видеоотзыв</a>
+					  </div>
+					</div>
+				  </div>
+				  <div class="stats big-response__stats">
+					<div class="row">
+					  <div class="col-stats">
+						<div class="stats__title">7</div>
+						<div class="stats__subtitle">Дня на внедрение программы в компанию</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">57</div>
+						<div class="stats__subtitle">Месяцев активной работы в программе</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">1,2</div>
+						<div class="stats__subtitle">Раза выросло количество клиентов</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">29%</div>
+						<div class="stats__subtitle">Увеличилась прибыль за время работы в 4logist</div>
+					  </div>
+					  <div class="col-stats">
+						<div class="stats__title">48%</div>
+						<div class="stats__subtitle">Ускорилось время оформления заявок</div>
+					  </div>
+					</div>
+				  </div>
+				  <div class="response__description">
+					<div><b>ЗАДАЧА:</b></div>
+						<div class="margin-b-3">       Наша компания обратилась к 4logist примерно год назад с задачей автоматизировать работу менеджеров по организации перевозок.              </div>
+					
+					<div><b>РЕАЛИЗАЦИЯ:</b></div> 
+					<div>Автоматизированная система управления предприятием – это путь к самосовершенствованию.
+
+      <p><strong>4Logist позволила преодолеть сразу несколько этапов</strong> на этом пути: начав со сбора информации, перешли к её обработке, <strong>выявив слабые и сильные стороны</strong> в организации перевозок, затем к моделированию и прогнозированию.</p>
+
+      <p><strong>Специалисты учли все пожелания и особенности,</strong> сократили бумажный документооборот. Бухгалтерии и руководящему составу облегчили задачу по составлению управленческого учета, оперируя подытоженными данными программы.</p>
+
+      <p><strong>Результаты превзошли ожидания:</strong> рост продаж услуг вырос. На сегодняшний день работа с 4logist продолжается, программу расширяем и модернизируем. <strong>Рекомендуем 4logist как надежного партнера!</strong></p></div>
+				  </div>
+				</div>
+			  </div>
+			</div>
+			
+			<!---->
+
+			
+					
+			</div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- section END -->
+    <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="integration-record">
+        <div class="title title-size-2 margin-b-1 integration-record__title">Хотите добиться таких же результатов?</div>
+        <div class="margin-b-3 integration-record__description">Протестируйте демо-версию программы в течении 7 дней бесплатно        
+        </div>
+				
+			<label for="popupCheckboxOne" class="popup-shower" style="text-decoration: none;">
+				<a class="btn btn--size_md btn--theme_red intro-index__btn" style="max-width:100%;">Запланировать онлайн-презентацию</a>
+			</label>			
+      </div>      
+    </div>
+  </section>
+  <!-- section END -->
+    <!-- calc BEGIN -->
+    <section class="calc">
+      <div class="container calc__container">
+	 		<h2 class="title title-size-1 calc__title" style="color:#394756;">
+            Калькулятор стоимости        </h2>
+				 <script>
+		  let helperSumm = 0,
+			discont = 0,
+			priceHelp = 0,
+			eurMonth = 20,
+			eurYear = 192,
+			usdMonth = 23,
+			usdYear = 220,
+			rubMonth = 1750,
+			rubYear = 16800,
+			helperSummT = 0;
+		 </script>
+        <div class="calc-cost">
+            <div class="calc-cost__top">
+              <div class="calc-cost__settings">
+                  <div class="settings__item settings__valute">
+                      <div class="settings__title title-size-5 settings__valute--title">
+                          Валюта:                      </div>
+                      <div class="settings__item--include settings__valute-items">
+                          <div class="valute-items__el">
+                              <input type="radio" name="valutes" oninput="giveCount()" id="eur">
+                              <label for="eur">€</label>
+                          </div>
+                          <div class="valute-items__el">
+                              <input type="radio" name="valutes" oninput="giveCount()" id="usd">
+                              <label for="usd">$</label>
+                          </div>
+                          <div class="valute-items__el">
+                              <input type="radio" name="valutes" oninput="giveCount()" id="rub" checked>
+                              <label for="rub">₽</label>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="settings__item settings__type">
+                      <div class="settings__title title-size-5 settings__type--title">
+                          Тип оплаты:                      </div>
+                      <div class="settings__item--include settings__type-items">
+                          <div class="type-items__el">
+                              <input type="radio" oninput="giveCount()" name="types" id="year">
+                              <label for="year">Оплата за год</label>
+                          </div>
+                          <div class="type-items__el">
+                              <input type="radio" oninput="giveCount()" name="types" id="month" checked>
+                              <label for="month">Ежемесячно</label>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="settings__item settings__count">
+                      <div class="settings__title title-size-5 settings__count--title">
+                          Кол-во пользователей                      </div>
+                      <input type="number" id="col_users" class="settings__count--input" oninput="giveLine()" value="1">
+                  </div>
+              </div>
+              <div class="calc-cost__range">
+                  <div class="range__title title-size-2">
+                      <span id="count-users">1</span> пользователей                  </div>
+                  <input type="range" min="0" max="60" id="range-slider" oninput="giveCount()" value="1">
+                  <div class="range__steps">
+                      <div class="range__steps__item">
+                          0
+                      </div>
+                      <div class="range__steps__item">
+                          10
+                      </div>
+                      <div class="range__steps__item">
+                          20
+                      </div>
+                      <div class="range__steps__item">
+                          30
+                      </div>
+                      <div class="range__steps__item">
+                          40
+                      </div>
+                      <div class="range__steps__item">
+                          50
+                      </div>
+                      <div class="range__steps__item">
+                          50+
+                      </div>
+                  </div>
+              </div>
+            </div>
+            <div class="calc-cost__data">
+                <div class="data__valute data__item">
+                    <div class="data__main" id="data__valute">
+                        RUB
+                    </div>
+                    <div class="data__description">
+                        Валюта                    </div>
+                </div>
+                <div class="data__count data__item">
+                    <div class="data__main" id="data__count">
+                        1
+                    </div>
+                    <div class="data__description">
+                        Количество пользователей                    </div>
+                </div>
+                <div class="data__user-price data__item">
+                    <div class="data__main"  id="data__once">
+                       1750                    </div>
+                    <div class="data__description">
+                        Стоимость за 1 пользователя                    </div>
+                </div>
+                <div class="data__finish-price data__item">
+                    <div class="data__main"  id="data__finish">
+                       16800                    </div>
+                    <div class="data__description">
+                        Итоговая стоимость за 1 <span id="time_size">месяц</span>
+                    </div>
+                </div>
+            </div>
+            <label for="popupCheckboxOne" class="popup-shower" style="text-decoration: none;">
+				<a class="btn btn--size_md btn--theme_red intro-index__btn" style="max-width:100%;">Оформить подписку</a>
+			</label>
+        </div>
+    </div>
+  </section>
+  <!-- calc END -->  <!-- section BEGIN -->
+  <section class="section">
+    <div class="container section__container">
+      <div class="company-index">
+        <h2 class="title title-size-1 margin-b-5 title-center company-index__title">Программой 4logist пользуются уже более 400 компаний в 18 странах мира</h2>
+        <div class="row company-index__list">
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-1.png" data-alt="Вектор Восток">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-1.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-2.png" data-alt="Anfilada">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-2.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-3.png" data-alt="REM Logistic">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-3.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-4.png" data-alt="ATE Logistics">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-4.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-5.png" data-alt="Атэком">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-5.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-6.png" data-alt="Трансстар">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-6.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100" >
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-7.png" data-alt="BelLogatex">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-7.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-8.png" data-alt="AL Transit">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-8.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-9.png" data-alt="EXDEL">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-9.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-10.png" data-alt="Integro">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-10.webp" type="image/webp">
+				</picture>		
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-11.png" data-alt="GMC">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-11.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-12.png" data-alt="НГ ТРАНС">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-12.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100 ">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-13.png" data-alt="L">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-13.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-14.png" data-alt="Orange">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-14.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-15.png" data-alt="РЕЙЛ КОНТИНЕТ">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-15.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+          <div class="margin-b-3 col-6 col-md-4 col-lg-3 h-100">
+            <div class="company-index__img">
+				<picture class="lozad" data-iesrc="/wp-content/themes/4logic/images/index-company-img-16.png" data-alt="Global Road">
+					<source srcset="/wp-content/themes/4logic/images/index-company-img-16.webp" type="image/webp">
+				</picture>	
+            </div>
+          </div>
+        </div>
+        <a href="/nashi-klienty/" class="btn btn--size_md btn--theme_red company-btn btn_opacity margin-b-2 " target="_blank">Посмотреть ещё</a>
+		<a data-src="#modal-try-free"  data-fancybox class="btn btn--size_md btn--theme_red intro-index__btn mx-auto company-btn">Заказать демонстрацию</a>
+      </div>
+    </div>
+  </section>      
+
+    <!-- footer BEGIN -->
+  <footer class="footer">
+    <div class="container">
+      <div class="row footer__row">
+	          <div class="col-12 col-md-3 footer__col-contacts">
+          <a href="/" class="footer__logo">
+			<picture class="lozad footer__logo-img"  data-iesrc="/wp-content/themes/4logic/images/logo.jpg" data-alt="logo">
+				<source srcset="/wp-content/themes/4logic/images/logo.webp" type="image/webp">
+				<source srcset="/wp-content/themes/4logic/images/logo.svg" type="image/svg">
+			</picture>
+          </a>
+		          <div class="footer-content">
+            <p>ЗАО «Solario Projektai»</p>
+            <p>Все права защищены</p>
+            <p>© 2014 — 2022</p>
+          </div>
+        </div>
+		        <div class="col-12 col-md-9 footer__col-representation">
+		          <div class="representation-list">
+            <div class="row representation-list__row">
+              <div class="col-md-4 representation-list__col">
+                <div class="representation-card representation-list__card">
+                  <div class="title title-size-5 margin-b-2 representation-card__title">Литва</div>
+                  <div class="footer-content representation-card__content">
+                    <p>Lietuva, Vilnius</p>
+                    <p>Smolensko g. 10B, LT-03201</p>
+                    <p><b>tel:</b> <a href="tel:+37065653000">+370 65 65 3000</a></p>
+                    <p><b>skype:</b> <a href="skype:forlogist?chat">forlogist</a></p>
+                    <p><b>Email:</b> <a href="mailto:lt@4logist.com">lt@4logist.com</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 representation-list__col">
+                <div class="representation-card representation-list__card">
+                  <div class="title title-size-5 margin-b-2 representation-card__title">Россия</div>
+                  <div class="footer-content representation-card__content">
+                    <p>Россия, г. Москва,</p>
+                    <p>Ащеулов пер., д.9, оф. 21</p>
+                    <p><b>моб: </b> <a href="tel:+74953200750">+7 495 320 07 50</a></p>
+                    <p><b>skype: </b> <a href="skype:forlogist?chat">forlogist</a></p>
+                    <p><b>Email: </b><a href="mailto:info@4logist.com">info@4logist.com</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4 representation-list__col">
+                <div class="representation-card representation-list__card">
+                  <div class="title title-size-5 margin-b-2 representation-card__title">Беларусь</div>
+                  <div class="footer-content representation-card__content">
+                    <p>Беларусь, г. Минск, ул.</p>
+                    <p>Краснозвездная, 18Б, пом. 213</p>
+                    <p><b>моб: </b> <a href="tel:+375299503309">+375 29 950 33 09</a></p>
+                    <p><b>skype: </b> <a href="skype:forlogist?chat">forlogist</a></p>
+                    <p><b>Email: </b><a href="mailto:dmitry@4logist.com">dmitry@4logist.com</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+		<div class="col-12 col-xl-8 footer__col-nav">
+			<ul id="menu-footer" class="footer-nav footer__nav">
+				<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48 nav__item">
+					<a href="/politika-kuki/">Политика куки</a>
+				</li>
+				<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49 nav__item">
+					<a href="/politika-konfidenczialnosti/">Политика конфиденциальности</a>
+				</li>
+				<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50 nav__item">
+					<a href="/usloviya-arendy/">Условия аренды</a>
+				</li>
+				<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51 nav__item">
+					<a href="/partnerskaya-programma/">Партнерская программа</a>
+				</li>
+			</ul>
+		</div>
+        <div class="col-12 col-xl-4 footer__col-copyright">
+          <div class="footer__description">ЗАО «Solario Projektai» <span class="footer__copyright">Все права защищены © 2014 — 2022</span></div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- footer END -->
+</div>
+<script src="https://www.google.com/recaptcha/api.js" defer></script>
+<!--
+The IP2Location Redirection is using IP2Location LITE geolocation database. Please visit https://lite.ip2location.com for more information.
+b49c16c3f17eaef39473cda7153c81cc0da5412e
+-->
+<script src='https://www.4logist.com/wp-content/themes/4logic/js/slick.min.js?ver=1.0.0' id='slick-min-js'></script>
+<script src='https://www.4logist.com/wp-content/themes/4logic/js/calc.js?ver=1.0.0' id='logist4-Calc-js'></script>
+<script src='https://www.4logist.com/wp-content/themes/4logic/js/search.js?ver=1.0.0' id='logist4-Search-js'></script>
+<script src='https://www.4logist.com/wp-content/themes/4logic/js/fancybox.min.js?ver=1.0.0' id='logist4-fancybox-js'></script>
+<script src='https://www.4logist.com/wp-content/themes/4logic/js/lozad.min.js?ver=1.0.0' id='logist4-lozad-js'></script>
+<script src='https://www.4logist.com/wp-content/themes/4logic/js/main.js?ver=1.2.0.1' id='logist4-main-js'></script>
+<script src='https://www.google.com/recaptcha/api.js?render=6Lds9yAdAAAAAPeqwIl-mx_-3UgE_E0PR2-S01dO&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script src='https://www.4logist.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://www.4logist.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='wpcf7-recaptcha-js-extra'>
+var wpcf7_recaptcha = {"sitekey":"6Lds9yAdAAAAAPeqwIl-mx_-3UgE_E0PR2-S01dO","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script src='https://www.4logist.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6' id='wpcf7-recaptcha-js'></script>
+  <script>
+    jQuery(function($) {
+      $('.wpb_tabs_nav li').click(function () {
+        $(window).trigger('scroll');
+        $('.a3-notlazy .vc_single_image-wrapper img').lazyLoadXT({show:true});
+      });
+      $('.menu-registration,.regpop').click(function () {
+        $('.frpop').click();
+      });
+      $('.call-to-action').click(function(){
+        var target = $(this).parent('.popup-shower').attr('for');
+        $('input.name').click(
+          function () {
+            this.focus();
+          }
+        );
+      });
+
+      $('.popup-content').on('click', '.search-crm', function(e) {
+            var div = $(e.delegateTarget);
+            div.find('#form-register').show();
+            div.find('.info-button').hide();
+      });
+
+
+    });
+    function closeFormDemoRequest() {
+      document.getElementById('formDemoRequestPopupClose').click();
+    }
+    var getLangCode = 'ru';
+    function onFormDemoRequestSuccess() {
+      if(getLangCode == 'ru') {
+        window.location.href = "https://www.4logist.com/thanks/";
+      }else if(getLangCode == 'en'){
+        window.location.href = "https://www.4logist.com/en/gratitude/";
+      } else {
+        window.location.href = "https://www.4logist.com/lt/dekojame/";
+      }
+
+    }
+
+    function onFormDemoRequestFail(err) {
+      document.getElementById('formDemoRequest').innerHTML = '<div class="formalyky-title"><p>Ошибка создания демо-доступа: ' + err + '</p></div>';
+    }
+    jQuery(function() {
+      jQuery('#drEmail').on('keypress', function(e) {
+        if (e.which == 32)
+          return false;
+      });
+    });
+
+
+
+    function onFormDemoRequestSubmit() {
+      var allInputs = jQuery(".popup-content :input");
+      allInputs.each(function() {
+        jQuery(this).val(jQuery.trim(jQuery(this).val()));
+      });
+      var email = document.getElementById("drEmail");
+      var phone = document.getElementById("drPhone");
+      var name = document.getElementById("drName");
+
+      jQuery('#drEmail').val(function () {
+        return this.value.toLowerCase();
+      });
+      email.classList.remove('fill-required');
+      phone.classList.remove('fill-required');
+      name.classList.remove('fill-required');
+
+      if (!email.checkValidity()) {
+        email.classList.add('fill-required');
+        email.placeholder = 'Необходимо указать email';
+      }
+
+      if (!phone.checkValidity()) {
+        phone.classList.add('fill-required');
+        phone.placeholder = 'Необходимо указать телефон';
+      }
+
+      if (!name.checkValidity()) {
+        name.classList.add('fill-required');
+        name.placeholder = 'Необходимо указать имя';
+      }
+
+      if (email.checkValidity() && phone.checkValidity() && name.checkValidity()) {
+        grecaptcha.execute();
+      }
+
+      return false;
+    }
+
+    function onRecaptchaSubmit(token) {
+      var email = document.getElementById("drEmail").value;
+      var phone = document.getElementById("drPhone").value;
+	  
+      var countIndex = document.getElementById("drNumber").options.selectedIndex;
+      var countClients = document.getElementById("drNumber").options[countIndex].value;
+	  
+      var name = document.getElementById("drName").value;
+      var template = document.getElementById("drTemplate").value;
+      var source = document.getElementById("drSource").value;
+      var isRail = document.getElementById("drRail") ? document.getElementById("drRail").checked : 0;
+
+      template = (isRail ? 'rail' : 'auto') + ':' + template;
+
+      var XHR = new XMLHttpRequest();
+      XHR.addEventListener('load', function(event) {
+        if (event.target.response == 'OK') {
+          onFormDemoRequestSuccess();
+        }
+      });
+      XHR.addEventListener('error', function(event) {
+        onFormDemoRequestFail(event.target.response);
+      });
+      //if is bonus partner page form
+      
+      var promoCode = document.getElementById("promoCode").value;
+      var url = "/demo-request/process.php"
+          + "?email=" + encodeURIComponent(email)
+          + "&phone=" + encodeURIComponent(phone)
+          + "&name=" + encodeURIComponent(name)
+          + "&number=" + encodeURIComponent(countClients)
+          + "&template=" + encodeURIComponent(template)
+          + "&promo=" + encodeURIComponent(promoCode)
+          + '&grr='+encodeURIComponent(token);
+      
+      XHR.open("GET", url);
+      XHR.send();
+      setTimeout(function(){
+          $.fancybox.open([{ src: "#modal-gratitude", type: "inline" }]);
+      }, 500);
+
+      yaCounter29294500.reachGoal('do_request_demo');
+
+      return false;
+    }
+  </script>
+
+<!-- popup BEGIN -->
+
+<div id="modal-gratitude" class="modal">
+  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+    <svg class="modal__close-icon">
+      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+    </svg>
+  </button>
+  <div class="modal__body">
+    <div class="gratitude__header">
+      <div class="title title-size-2 gratitude__title margin-b-3">Спасибо за заявку!</div>
+      <div class="margin-b-5 gratitude__subtitle">Ваши доступы к полной версии программы на 7 дней и инструкции по работе с ней придут на вашу электронную почту в течение 10 минут.      </div>
+      <div class="margin-b-5 gratitude__main">
+        <div class="gratitude__img">
+          <img class="lozad" data-src="/wp-content/themes/4logic/images/gratitude-img.png" alt="big">
+        </div>
+        <div class="gratitude__content">
+          <div class="margin-b-2 gratitude__content-title">ознакомиться детальнее с функционалом программы</div>
+          <a href="https://www.youtube.com/watch?v=K3zj12MOyHY" class="btn btn--theme_simple btn--size_sm big-response__btn gratitude__content-btn" target="_blank">Смотреть видеоролик</a>
+        </div>
+      </div>
+    </div>
+    <div class="gratitude__footer">
+      <div class="gratitude__description">
+      Если сообщение c данными для доступа не пришло, напишите на адрес <a href="mailto:info@4logist.com">info@4logist.com</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="modal-compare" class="modal modal--size_1170">
+  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+    <svg class="modal__close-icon">
+      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+    </svg>
+  </button>
+  <div class="modal__body">
+    <div class="matches-table">
+      <div class="col-name column-name column-border">
+        <div class="title column-name__title">
+          <h3>Функционал:</h3>
+        </div>
+        <div class="column-name__item">Вся информация хранится в одном месте</div>
+        <div class="column-name__item">Удаленный доступ к программе</div>
+        <div class="column-name__item">Безопасность и сохранность данных</div>
+        <div class="column-name__item">Различные уровни доступа
+        к программе сотрудников</div>
+        <div class="column-name__item">Автоматическое формирование
+        документов по индивидуальным шаблонам</div>
+        <div class="column-name__item">Мультивалютность учета</div>
+        <div class="column-name__item">Ежемесячные бесплатные обновления</div>
+        <div class="column-name__item">Личный кабинет, где ваши клиенты
+        могут отслеживать свои заказы</div>
+        <div class="column-name__item">Работа с любым транспортом и
+        мультимодальными перевозками</div>
+        <div class="column-name__item">Доработка программы под специфику
+        ведения вашего учета</div>
+      </div>
+      <div class="col-matches column-matches column-border">
+        <div class="column-matches__head">
+          <div class="column-matches__img">
+            <img class="lozad" data-src="/wp-content/themes/4logic/images/compare-img-1.png" alt="Бесплатные решения">
+          </div>
+          <div class="title margin-b-1 column-matches__title">Бесплатные решения</div>
+          <div class="column-matches__subtitle">Простые и бесплатные
+          решения (Excel, Google Docs)</div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="col-matches column-matches column-border">
+        <div class="column-matches__head">
+          <div class="column-matches__img">
+            <img class="lozad" data-src="/wp-content/themes/4logic/images/compare-img-2.png" alt="Бесплатные решения">
+          </div>
+          <div class="title margin-b-1 column-matches__title">CRM-системы</div>
+          <div class="column-matches__subtitle">Популярные CRM-системы и универсальные программы</div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="col-matches column-matches column-border">
+        <div class="column-matches__head">
+          <div class="column-matches__img">
+            <img class="lozad" data-src="/wp-content/themes/4logic/images/compare-img-3.png" alt="Бесплатные решения">
+          </div>
+          <div class="title margin-b-1 column-matches__title">Спец. программы</div>
+          <div class="column-matches__subtitle">Большинство спец. программ</div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--red check-mark--border">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="close-mark close-mark__img close-mark__size-30 close-mark--gray">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close-small"></use>
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div class="col-matches column-matches column-border">
+        <div class="column-matches__head">
+          <div class="column-matches__img">
+            <img class="lozad" data-src="/wp-content/themes/4logic/images/compare-img-4.png" alt="Бесплатные решения">
+          </div>
+          <div class="title margin-b-1 column-matches__title"><span>4</span>logist</div>
+          <div class="column-matches__subtitle">Простые и бесплатные
+          решения (Excel, Google Docs)</div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+        <div class="col-matches__match">
+          <div class="check-mark check-mark__img check-mark__size-30 check-mark--white">
+            <svg class="check-mark__icon">
+              <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#check-mark"></use>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="modal-try-free" class="modal">
+  <button type="button" class="js-modal-close modal__close" data-fancybox-close>
+    <svg class="modal__close-icon">
+      <use xlink:href="https://www.4logist.com/wp-content/themes/4logic/images/sprites.svg#close"></use>
+    </svg>
+  </button>
+  <div class="modal__body">
+    <h2 class="title margin-b-1 try-free__title">Запланировать онлайн-презентацию</h2>
+    <div class="margin-b-3 try-free__subtitle">Проведем демонстрацию возможностей программы вам, вашим сотрудникам и начальнику. Ответим на интересующие вопросы и предоставим бесплатный доступ к программе на 7 дней </div>
+	<div role="form" class="wpcf7" id="wpcf7-f19-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f19-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="19" />
+<input type="hidden" name="_wpcf7_version" value="5.5.6" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f19-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="contacts-form__input">
+<span class="wpcf7-form-control-wrap text-237"><input type="text" name="text-237" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-text input-text--theme_gray contacts-form__input-text" aria-required="true" aria-invalid="false" placeholder="Введите имя" /></span>
+      </div>
+<div class="contacts-form__input">
+<span class="wpcf7-form-control-wrap tel-636"><input type="tel" name="tel-636" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel input-text input-text--theme_gray contacts-form__input-text" aria-required="true" aria-invalid="false" placeholder="Введите телефон" /></span>
+      </div>
+<div class="contacts-form__input">
+<span class="wpcf7-form-control-wrap email-858"><input type="email" name="email-858" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input-text input-text--theme_gray contacts-form__input-text" aria-required="true" aria-invalid="false" placeholder="Введите e-mail" /></span>
+      </div>
+<div hidden>
+<span class="wpcf7-form-control-wrap utm_source"><input type="text" name="utm_source" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
+<span class="wpcf7-form-control-wrap utm_medium"><input type="text" name="utm_medium" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
+<span class="wpcf7-form-control-wrap utm_campaign"><input type="text" name="utm_campaign" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
+<span class="wpcf7-form-control-wrap utm_content"><input type="text" name="utm_content" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span><br />
+<span class="wpcf7-form-control-wrap utm_term"><input type="text" name="utm_term" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span>
+</div>
+<div class="margin-b-3 contacts-form__input">
+         <input type="submit" value="Отправить заявку" class="wpcf7-form-control has-spinner wpcf7-submit btn btn--size_md btn--theme_red contacts-form__button try-free__btn" />
+      </div>
+<input type="hidden" name="client-id" value="" class="wpcf7-form-control wpcf7-hidden" />
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>  </div>
+</div>
+  <!-- popup END -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118295723-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-118295723-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script>
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(29294500, "init", {
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true
+});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/29294500" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+	const observer = lozad();  // lazy loads elements
+	observer.observe();
+</script>
+
+
+</body>
+</html>
+
+<!-- Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com -->

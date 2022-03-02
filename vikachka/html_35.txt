@@ -1,0 +1,382 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="keywords" content="разработка сайтов, разработка сайтов белгород, программист белгород, разработка веб-приложений, веб-картография, карты, разработка карт, создание карт, интерактивные карты, разработка интерактивных карт, 
+            создание интерактивных карт, картография, геоинформационные системы, ГИС, веб ГИС, геоинформационные системы в Белгороде, системы мониторинга транспорта, GPS, ГЛОНАСС" />
+            <meta name="description" content="Vector Solutions, г. Белгород: разработка сайтов и интерактивных карт, интеграция геоинформационных систем (ГИС) и данных из систем мониторинга в веб-приложения, 
+            сопровождение и поддержка существующих решений" />
+    <title>Vector Solutions</title>
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="/Content/img/favicon.png"/>
+
+    <!-- CSS
+    ================================================== -->       
+    <link href="/Content/layout/css?v=n8yU2GSl6GLEGq6Nmf7j6IYJdsxoFhOT-OXsuiWB_LU1" rel="stylesheet"/>
+
+    
+    <link href="/Content/home/css?v=iylMGnpszDKxXjveCyueWobxdTdRILi-eLdDHgkvL1g1" rel="stylesheet"/>
+
+    
+
+   
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="/Content/js/html5shiv.min.js"></script>
+      <script src="/Content/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121418793-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-121418793-1');
+    </script>   
+    <!-- Yandex.Metrika counter -->
+    <script>
+        (function (d, w, c) {
+            (w[c] = w[c] || []).push(function () {
+                try {
+                    w.yaCounter41005154 = new Ya.Metrika({
+                        id: 41005154,
+                        clickmap: true,
+                        trackLinks: true,
+                        accurateTrackBounce: true,
+                        webvisor: true
+                    });
+                } catch (e) { }
+            });
+
+            var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+            if (w.opera == "[object Opera]") {
+                d.addEventListener("DOMContentLoaded", f, false);
+            } else { f(); }
+        })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/41005154" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Rating@Mail.ru counter -->
+    <script>
+        var _tmr = window._tmr || (window._tmr = []);
+        _tmr.push({ id: "2849577", type: "pageView", start: (new Date()).getTime() });
+        (function (d, w, id) {
+            if (d.getElementById(id)) return;
+            var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+            ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+            var f = function () { var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s); };
+            if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+        })(document, window, "topmailru-code");
+    </script><noscript><div style="position:absolute;left:-10000px;">
+    <img src="//top-fwz1.mail.ru/counter?id=2849577;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+    </div></noscript>
+    <!-- //Rating@Mail.ru counter -->        
+
+     <!-- BEGIN PRELOADER -->
+    <div id="preloader">
+      <div id="status">&nbsp;</div>
+    </div>
+    <!-- END PRELOADER -->
+
+    <!-- SCROLL TOP BUTTON -->
+    <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+    <!-- END SCROLL TOP BUTTON -->
+
+    <!-- BEGIN MENU -->
+    <div class="menu_area">
+        <nav class="navbar navbar-default navbar-fixed-top"> 
+            <div class="container">
+            <div class="navbar-header">
+            <!-- FOR MOBILE VIEW COLLAPSED BUTTON -->
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Навигация</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <!-- LOGO -->
+
+            <!-- TEXT BASED LOGO -->
+            <a class="navbar-brand" href="/">Vector Solutions</a>
+            <div class="header-contacts">
+
+            </div>
+            
+            <!-- IMG BASED LOGO  -->
+            
+            
+                   
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+            <ul id="top-menu" class="nav navbar-nav navbar-right main_nav">
+                <li><a href="/#main">Главная</a></li>
+
+                <li><a href="/#works">Работы</a></li>
+                
+                 
+                           
+                <li><a href="/#contact">Контакты</a></li>                           
+                <li ><a href="/Blog">Блог</a></li>
+            </ul>
+            </div><!--/.nav-collapse -->
+            </div>     
+        </nav>  
+    </div>
+    <!-- END MENU -->
+
+    
+
+
+
+
+    <!--=========== BEGIN HEADER SECTION ================-->
+    <header id="header">
+
+      <!-- BEGIN SLIDER AREA-->
+      <div class="slider_area">
+        <!-- BEGIN SLIDER-->          
+        <div id="slides">
+          <ul class="slides-container">
+
+            <!-- THE FIRST SLIDE-->
+            <li>
+              <!-- FIRST SLIDE OVERLAY -->
+              <div class="slider_overlay"></div> 
+              <!-- FIRST SLIDE MAIN IMAGE -->
+              <img src="/Content/img/main/gis.jpg" alt="img">
+              <!-- FIRST SLIDE CAPTION-->
+              <div class="slider_caption">
+                <h1>Интерактивные карты и интеграция ГИС <br />в веб-приложения</h1>
+                
+                <a class="slider_btn" href="/Blog/Category">Блог разработчика</a>
+                
+              </div>
+            </li>
+
+
+
+
+          </ul>
+          <!-- BEGIN SLIDER NAVIGATION -->
+          <nav class="slides-navigation">
+            <!-- PREV IN THE SLIDE -->
+            <a class="prev" href="#main">
+              <span class="icon-wrap"></span>
+              <h3><strong>Назад</strong></h3>
+            </a>
+            <!-- NEXT IN THE SLIDE -->
+            <a class="next" href="#main">
+              <span class="icon-wrap"></span>
+              <h3><strong>Вперед</strong></h3>
+            </a>
+          </nav>       
+        </div>
+        <!-- END SLIDER-->          
+      </div>
+      <!-- END SLIDER AREA -->
+    </header>
+    <!--=========== End HEADER SECTION ================--> 
+
+
+
+
+
+
+    <!--=========== BEGIN WORKS SECTION ================-->
+    <section id="works">
+
+
+      <!-- BEGIN FORTFOLIO WORSK SECTION -->
+      <div class="row">
+        <div class="portfolio_area">
+          <!-- BEGIN PORTFOLIO HEADER -->
+          <div class="row">
+            <div class="col-lg-12 col-md-12">
+             <div class="container">
+                <div class="heading">
+                  <h2 class="wow fadeInLeftBig">Работы</h2>
+                  <p>Ниже представлены наиболее интересные, на мой взгляд, проекты из различных областей веб-разработки</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- END PORTFOLIO HEADER -->
+
+          <!-- BEGIN PORTFOLIO GALLERY -->
+          <div class="row">
+            <div class="portfolio_gallery">
+              <div id="elastic_grid_demo"></div>
+            </div>
+          </div>
+          <!-- END PORTFOLIO GALLERY -->
+        </div>         
+      </div>      
+      <!-- END FORTFOLIO WORSK SECTION -->
+    </section>
+    <!--=========== END WORKS SECTION ================-->
+
+
+
+
+
+
+
+
+
+    <!--=========== BEGIN CONTACT SECTION ================-->
+    <section id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <!-- START CONTACT HEADING -->
+            <div class="heading">
+              <h2 class="wow fadeInLeftBig">Контакты</h2>
+              <p>Если у Вас есть какие-либо вопросы, то Вы можете связаться со мной любым удобным для Вас способом - <a id="btnShowFormContacts" href="#">через форму на сайте</a>, <a id="btnShowContacts" href="#">электронную почту или телеграмм</a>.</p>
+              
+            </div>
+          </div>
+        </div>       
+        <div class="row">
+          <!-- BEGIN CONTACT CONTENT -->
+          <div class="contact_content">
+            <!-- BEGIN CONTACT FORM -->
+            <div class="col-lg-12 col-md-12 col-sm-12">
+              <div class="contact_form">
+
+                <form>
+                    <div class="form-group has-feedback">
+                      <input id="contactName" class="form-control" type="text" maxlength="500" placeholder="Имя" data-error="Укажите, пожалуйста, Ваше имя" required />
+                      <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                      <div class="help-block with-errors"></div>
+                    </div>
+                    <div class="form-group has-feedback">
+                      <input id="contactData" class="form-control" type="text" maxlength="256" placeholder="Телефон или email" data-contacts="contacts" data-required-error="Укажите, пожалуйста, Ваш телефон или email" required />
+                      <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                      <div class="help-block with-errors"></div>
+                    </div>
+                    <div class="form-group has-feedback">
+                      <textarea id="contactMsg" class="form-control" cols="30" rows="8" maxlength="2000" placeholder="Сообщение" data-error="Укажите здесь Ваше сообщение" required></textarea>
+                      <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
+                      <div class="help-block with-errors"></div>
+                    </div>
+                    <button id="btnSendMsg" class="submit_btn2">Отправить</button>
+            
+        
+                                               
+                </form>
+                <div id="form-messages"></div> 
+
+              </div>
+            </div>
+         
+          </div>
+        </div>      
+      </div>             
+    </section>
+    <!--=========== END CONTACT SECTION ================-->
+
+    <!--=========== BEGIN CONTACT FEATURE SECTION ================-->
+    <section id="contactFeature">
+      <!-- SKILLS COUNTER OVERLAY -->
+      <div class="slider_overlay"></div>
+      <div class="row">
+        <div class="col-lg-12 col-md-12">       
+          <div class="container">               
+              <div class="contact_feature">
+
+            <!-- BEGIN CALL US FEATURE -->
+            <div class="col-lg-4 col-md-4 col-sm-4">
+              <div class="single_contact_feaured wow fadeInUp">
+                <i class="fa fa-envelope-o"></i>
+                <h4>Почта</h4>
+                <p data-email="email">&nbsp;</p>
+              </div>
+            </div>
+            <!-- BEGIN CALL US FEATURE -->
+            <div class="col-lg-4 col-md-4 col-sm-4">
+              <div class="single_contact_feaured wow fadeInUp">
+                <i class="fa fa-telegram"></i>
+                <h4>Telegram</h4>
+                <p data-telegram="telegram">&nbsp;</p>
+              </div>
+            </div>
+            <!-- BEGIN CALL US FEATURE -->
+            <div class="col-lg-4 col-md-4 col-sm-4">
+              <div class="single_contact_feaured wow fadeInUp">
+                <i class="fa fa-clock-o"></i>
+                <h4>Рабочее время</h4>
+                <p>Любой день с 9.00-21.00</p>
+              </div>
+            </div>
+          </div>
+          </div>         
+        </div>
+      </div>
+    </section>
+    <!--=========== END CONTACT FEATURE SECTION ================-->
+
+
+
+
+
+     <!--=========== BEGIN FOOTER ================-->
+     <footer id="footer">
+       <div class="container">
+         <div class="row">
+           <div class="col-lg-6 col-md-6 col-sm-6">
+             <div class="footer_left">
+               <p>&copy; 2016-2022 Vector Solutions</p>
+             </div>
+           </div>
+           <div class="col-lg-6 col-md-6 col-sm-6">
+             <div class="footer_right">
+               <ul class="social_nav">
+                 
+                 <li><a href="https://www.youtube.com/channel/UCrmZHGsjAbsNJmNwMcxz8ag/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                 <li><a href="https://twitter.com/kutoksv" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                 <li><a href="https://plus.google.com/103645972034614660154" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                 
+               </ul>
+             </div>
+           </div>
+         </div>
+       </div>
+      </footer>
+      <!--=========== END FOOTER ================-->
+
+    <script>
+        var APP_ROOT = '/';
+    </script>
+
+    <script src="/Content/layout/js?v=IstNcVe9CDlykxF06rc6J4NHi2EcaR1dpVkwqPhtwFM1"></script>
+
+    
+     <!-- Javascript Files
+     ================================================== -->
+    <script src="/Content/home/js?v=FcGmJV5BYnXP290UjjjmGUUfaQMKovH0yecnWghItLc1"></script>
+
+
+
+</body>
+</html>

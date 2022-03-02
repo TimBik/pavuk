@@ -1,0 +1,3093 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" class="  ">
+	<head><link rel="canonical" href="https://www.1pro.by/" />
+						<title>Купить 1С в Минске – 1С Бухгалтерия, 1С Предприятие цена - «Простые Программы»</title>
+		<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="yes" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="Автоматизация учета, купить 1С, купить 1С бухгалтерия, 1с в Беларуси, программа 1с, 1С Франчайзи, автоматизация учета, автоматизация бухгалтерии, бухгалтерская программа, управление торговлей, Зарплата и Кадры, Управление персоналом, бухгалтерский учет, оперативный учет, управленческий учет, автоматизация, CRM, документооборот, автоматизировать документооборот, 1с документооборот" />
+<meta name="description" content="Купить 1С. Программы 1С Бухгалтерия и 1С Предприятие от 1С Франчайзи в Беларуси. Продажа, установка, настройка 1С, обучение пользователей. Звоните ☎+375 (17) 2-767-767." />
+
+<link href="/bitrix/js/main/core/css/core.css?15740862443963" rel="stylesheet" />
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,500,600,700,800&subset=latin,cyrillic-ext"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/aspro-allcorp2/template_96324b5d9919da0a3426ee58842f91e8/template_96324b5d9919da0a3426ee58842f91e8_v1.css?1632120614739353"  data-template-style="true" rel="stylesheet" />
+<link href="/bitrix/panel/main/popup.min.css?157408627120704"  data-template-style="true"  rel="stylesheet" />
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script>(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script src="/bitrix/js/main/core/core.min.js?1589786811248989"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script>(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213736','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'03baf89d5ca7fc45ed960edf223f5c6f'});</script>
+
+
+<script  src="/bitrix/cache/js/s1/aspro-allcorp2/kernel_main/kernel_main_v1.js?1590157129185408"></script>
+<script src="/bitrix/js/main/jquery/jquery-2.1.3.min.min.js?157408624284283"></script>
+<script src="/bitrix/js/main/ajax.min.js?157408626322194"></script>
+<script>BX.setJSList(['/bitrix/js/main/session.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/js/main/core/core_fx.js','/bitrix/templates/aspro-allcorp2/js/jquery.actual.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.fancybox.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.easing.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.appear.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.cookie.js','/bitrix/templates/aspro-allcorp2/vendor/bootstrap.js','/bitrix/templates/aspro-allcorp2/vendor/flexslider/jquery.flexslider.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.validate.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.uniform.min.js','/bitrix/templates/aspro-allcorp2/js/jquery-ui.min.js','/bitrix/templates/aspro-allcorp2/js/jqModal.js','/bitrix/templates/aspro-allcorp2/js/detectmobilebrowser.js','/bitrix/templates/aspro-allcorp2/js/matchMedia.js','/bitrix/templates/aspro-allcorp2/js/jquery.waypoints.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.counterup.js','/bitrix/templates/aspro-allcorp2/js/slick.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.alphanumeric.js','/bitrix/templates/aspro-allcorp2/js/jquery.autocomplete.js','/bitrix/templates/aspro-allcorp2/js/jquery.mCustomScrollbar.js','/bitrix/templates/aspro-allcorp2/js/jquery.mobile.custom.touch.min.js','/bitrix/templates/aspro-allcorp2/js/general.js','/bitrix/templates/aspro-allcorp2/js/custom.js','/bitrix/templates/aspro-allcorp2/components/bitrix/news.list/front-services_3/script.js','/bitrix/templates/aspro-allcorp2/components/bitrix/news.list/front-news/script.js','/bitrix/components/bitrix/search.title/script.js','/bitrix/templates/aspro-allcorp2/components/bitrix/search.title/fixed/script.js','/bitrix/templates/aspro-allcorp2/js/jquery.inputmask.bundle.min.js']); </script>
+<script>BX.setCSSList(['/bitrix/templates/aspro-allcorp2/css/bootstrap.css','/bitrix/templates/aspro-allcorp2/css/fonts/font-awesome/css/font-awesome.min.css','/bitrix/templates/aspro-allcorp2/css/slick.css','/bitrix/templates/aspro-allcorp2/css/slick-theme.css','/bitrix/templates/aspro-allcorp2/vendor/flexslider/flexslider.css','/bitrix/templates/aspro-allcorp2/css/jquery.fancybox.css','/bitrix/templates/aspro-allcorp2/css/theme-elements.css','/bitrix/templates/aspro-allcorp2/css/theme-responsive.css','/bitrix/templates/aspro-allcorp2/css/jquery.mCustomScrollbar.min.css','/bitrix/templates/aspro-allcorp2/css/print.css','/bitrix/templates/aspro-allcorp2/css/animation/animate.min.css','/bitrix/templates/aspro-allcorp2/css/animation/animation_ext.css','/bitrix/templates/.default/ajax/ajax.css','/bitrix/templates/aspro-allcorp2/css/width-2.css','/bitrix/templates/aspro-allcorp2/css/font-1.css','/bitrix/templates/aspro-allcorp2/styles.css','/bitrix/templates/aspro-allcorp2/template_styles.css','/bitrix/templates/aspro-allcorp2/css/responsive.css','/bitrix/templates/aspro-allcorp2/themes/CUSTOM_s1/colors.css','/bitrix/templates/aspro-allcorp2/bg_color/light/bgcolors.css','/bitrix/templates/aspro-allcorp2/css/custom.css']); </script>
+<script data-skip-moving='true'>window['asproRecaptcha'] = {params: {'recaptchaColor':'light','recaptchaLogoShow':'y','recaptchaSize':'normal','recaptchaBadge':'bottomright','recaptchaLang':'ru'},key: '6Lc4aq0ZAAAAAJ5YckMBz6GAWVWLjACKSwvKmpuf'};</script>
+<script data-skip-moving='true'>!function(a,e,r,c,t){function n(r){var c=e.getElementById(r);if(c&&!(c.className.indexOf("g-recaptcha")<0)&&a.grecaptcha&&!c.children.length){var n=grecaptcha.render(r,{sitekey:a[t].key+"",theme:a[t].params.recaptchaColor+"",size:a[t].params.recaptchaSize+"",callback:"onCaptchaVerify"+a[t].params.recaptchaSize,badge:a[t].params.recaptchaBadge});$(c).attr("data-widgetid",n)}}a.onLoadRenderRecaptcha=function(){for(var e in a[c].args)a[c].args.hasOwnProperty(e)&&n(a[c].args[e][0]);a[c]=function(a){n(a)}},a[c]=a[c]||function(){a[c].args=a[c].args||[],a[c].args.push(arguments),function(e,r,c){var n;e.getElementById(c)||(n=e.createElement(r),n.id=c,n.src="//www.google.com/recaptcha/api.js?hl="+a[t].params.recaptchaLang+"&onload=onLoadRenderRecaptcha&render=explicit",e.head.appendChild(n))}(e,r,"recaptchaApiLoader")}}(window,document,"script","renderRecaptchaById","asproRecaptcha");</script>
+<script data-skip-moving='true'>!function(){var e=function(e){for(var a=e;a;)if(a=a.parentNode,"form"===a.nodeName.toLowerCase())return a;return null},a=function(e){var a=[],t=null,n=!1;"undefined"!=typeof e&&(n=null!==e),t=n?e.getElementsByTagName("input"):document.getElementsByName("captcha_word");for(var r=0;r<t.length;r++)"captcha_word"===t[r].name&&a.push(t[r]);return a},t=function(e){for(var a=[],t=e.getElementsByTagName("img"),n=0;n<t.length;n++)(/\/bitrix\/tools\/captcha.php\?(captcha_code|captcha_sid)=[^>]*?/i.test(t[n].src)||"captcha"===t[n].id)&&a.push(t[n]);return a},n=function(){var t=null,n=a(t);if(0===n.length)return[];for(var r=[],c=0;c<n.length;c++){var o=e(n[c]);null!==o&&r.push(o)}return r},r=function(e){var a="recaptcha-dynamic-"+(new Date).getTime();if(null!==document.getElementById(a)){var t=!1,n=null,r=65535;do n=Math.floor(Math.random()*r),t=null!==document.getElementById(a+n);while(t);a+=n}var c=document.createElement("div");c.id=a,c.className="g-recaptcha",c.attributes["data-sitekey"]=window.asproRecaptcha.key,e.parentNode&&(e.parentNode.className+=" recaptcha_text",e.parentNode.replaceChild(c,e)),renderRecaptchaById(a)},c=function(e){var a="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";e.attributes.src=a,e.style.display="none","src"in e&&(e.parentNode&&(e.parentNode.className+=" recaptcha_tmp_img"),e.src=a)},o=function(e){"function"==typeof $&&$(e).find(".captcha-row label > span").length&&$(e).find(".captcha-row label").html(BX.message("RECAPTCHA_TEXT")+' <span class="required-star">*</span>')},p=function(){for(var e,p=n(),d=0;d<p.length;d++){var i=p[d],l=a(i);if(0!==l.length){var s=t(i);if(0!==s.length){for(e=0;e<l.length;e++)r(l[e]);for(e=0;e<s.length;e++)c(s[e]);o(i)}}}},d=function(){if("undefined"!=typeof renderRecaptchaById)for(var e=document.getElementsByClassName("g-recaptcha"),a=0;a<e.length;a++){var t=e[a];if(0===t.innerHTML.length){var n=t.id;if("string"==typeof n&&0!==n.length){if("function"==typeof $){var r=$(t).closest(".captcha-row");r.length&&(r.addClass(window.asproRecaptcha.params.recaptchaSize+" logo_captcha_"+window.asproRecaptcha.params.recaptchaLogoShow+" "+window.asproRecaptcha.params.recaptchaBadge),r.find(".captcha_image").addClass("recaptcha_tmp_img"),r.find(".captcha_input").addClass("recaptcha_text"),"invisible"!==window.asproRecaptcha.params.recaptchaSize&&(r.find("input.recaptcha").length||$('<input type="text" class="recaptcha" value="" />').appendTo(r)))}renderRecaptchaById(n)}}}},i=function(){try{return d(),window.renderRecaptchaById&&window.asproRecaptcha&&window.asproRecaptcha.key?(p(),!0):(console.error("Bad captcha keys or module error"),!0)}catch(e){return console.error(e),!0}};document.addEventListener?document.addEventListener("DOMNodeInserted",i,!1):console.warn("Your browser does not support dynamic ReCaptcha replacement")}();</script>
+<script>BX.message({'JS_REQUIRED':'Заполните это поле!','JS_FORMAT':'Неверный формат!','JS_FILE_EXT':'Недопустимое расширение файла!','JS_PASSWORD_COPY':'Пароли не совпадают!','JS_PASSWORD_LENGTH':'Минимум 6 символов!','JS_ERROR':'Неверно заполнено поле!','JS_FILE_SIZE':'Максимальный размер 5мб!','JS_FILE_BUTTON_NAME':'Выберите файл','JS_FILE_DEFAULT':'Файл не найден','JS_DATE':'Некорректная дата!','JS_DATETIME':'Некорректная дата/время!','JS_REQUIRED_LICENSES':'Согласитесь с условиями','S_CALLBACK':'Заказать звонок','S_QUESTION':'Задать вопрос','S_ASK_QUESTION':'Задать вопрос','ERROR_INCLUDE_MODULE_DIGITAL_TITLE':'Ошибка подключения модуля &laquo;Аспро: Digital-компания&raquo;','ERROR_INCLUDE_MODULE_DIGITAL_TEXT':'Ошибка подключения модуля &laquo;Аспро: Digital-компания&raquo;.<br />Пожалуйста установите модуль и повторите попытку','S_SERVICES':'Наши услуги','S_SERVICES_SHORT':'Услуги','S_TO_ALL_SERVICES':'Все услуги','S_CATALOG':'Каталог товаров','S_CATALOG_SHORT':'Каталог','S_TO_ALL_CATALOG':'Весь каталог','S_CATALOG_FAVORITES':'Наши товары','S_CATALOG_FAVORITES_SHORT':'Товары','S_NEWS':'Новости','S_TO_ALL_NEWS':'Все новости','S_COMPANY':'О компании','S_OTHER':'Прочее','S_CONTENT':'Контент','T_JS_ARTICLE':'Артикул: ','T_JS_NAME':'Наименование: ','T_JS_PRICE':'Цена: ','T_JS_QUANTITY':'Количество: ','T_JS_SUMM':'Сумма: ','FANCY_CLOSE':'Закрыть','FANCY_NEXT':'Вперед','FANCY_PREV':'Назад','CUSTOM_COLOR_CHOOSE':'Выбрать','CUSTOM_COLOR_CANCEL':'Отмена','S_MOBILE_MENU':'Меню','DIGITAL_T_MENU_BACK':'Назад','DIGITAL_T_MENU_CALLBACK':'Обратная связь','DIGITAL_T_MENU_CONTACTS_TITLE':'Будьте на связи','TITLE_BASKET':'В корзине товаров на #SUMM#','BASKET_SUMM':'#SUMM#','EMPTY_BASKET':'Корзина пуста','TITLE_BASKET_EMPTY':'Корзина пуста','BASKET':'Корзина','SEARCH_TITLE':'Поиск','SOCIAL_TITLE':'Оставайтесь на связи','LOGIN':'Войти','MY_CABINET':'Мой кабинет','SUBSCRIBE_TITLE':'Будьте всегда в курсе','HEADER_SCHEDULE':'Время работы','SEO_TEXT':'SEO описание','COMPANY_IMG':'Картинка компании','COMPANY_TEXT':'Описание компании','JS_RECAPTCHA_ERROR':'Пройдите проверку','JS_PROCESSING_ERROR':'Согласитесь с условиями!','CONFIG_SAVE_SUCCESS':'Настройки сохранены','CONFIG_SAVE_FAIL':'Ошибка сохранения настроек','RELOAD_PAGE':'Обновить страницу','REFRESH':'Поменять картинку','RECAPTCHA_TEXT':'Подтвердите, что вы не робот'})</script>
+<link rel="shortcut icon" href="/favicon.ico?1632120604" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="180x180" href="/include/apple-touch-icon.png" />
+<meta property="og:title" content="Купить 1С в Минске – 1С Бухгалтерия, 1С Предприятие цена - «Простые Программы»" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.1pro.by/logo.png" />
+<link rel="image_src" href="https://www.1pro.by/logo.png"  />
+<meta property="og:url" content="https://www.1pro.by/" />
+<meta property="og:description" content="Купить 1С. Программы 1С Бухгалтерия и 1С Предприятие от 1С Франчайзи в Беларуси. Продажа, установка, настройка 1С, обучение пользователей. Звоните ☎+375 (17) 2-767-767." />
+
+
+
+<script  src="/bitrix/cache/js/s1/aspro-allcorp2/template_2bdbe7515582d3b2246e7f3e66310a82/template_2bdbe7515582d3b2246e7f3e66310a82_v1.js?1590483526460596"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "916700c97533bfe205366b3b3600e444"]); _ba.push(["host", "www.1pro.by"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+				
+<script>!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?168",t.onload=function(){VK.Retargeting.Init("VK-RTRG-826635-5YtzA"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-826635-5YtzA" style="position:fixed; left:-999px;" alt=""/></noscript>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '739687793400808');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=739687793400808&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+	</head>
+
+	<body class=" front-banners-big-short_mix header_nopacity banner_offset tizersPadding0 hide_menu_page header_fill_colored side_left all_title_1 mfixed_Y mfixed_view_always mheader-v1 footer-v3 fill_bg_n header-v1 title-v1 with_cabinet with_phones">
+		<div id="panel"></div>
+					<script>
+			$(document).ready(function(){
+				$.ajax({
+					url: '/bitrix/templates/aspro-allcorp2/asprobanner.php' + location.search,
+					type: 'post',
+					success: function(html){
+						if(!$('.form_demo-switcher').length){
+							$('body').append(html);
+						}
+					}
+				});
+			});
+			</script>
+						
+				<script>
+		var arBasketItems = {};
+		var arAllcorp2Options = ({
+			'SITE_DIR' : '/',
+			'SITE_ID' : 's1',
+			'SITE_TEMPLATE_PATH' : '/bitrix/templates/aspro-allcorp2',
+			'SITE_ADDRESS' : "'www.1pro.by'",
+			'THEME' : ({
+				'THEME_SWITCHER' : 'N',
+				'BASE_COLOR' : 'CUSTOM',
+				'BASE_COLOR_CUSTOM' : '2c5b6f',
+				'LOGO_IMAGE' : '/upload/CAllcorp2/db8/db8cac9ab3f3977c1f3dd0f7610f0f05.png',
+				'LOGO_IMAGE_LIGHT' : '',
+				'TOP_MENU' : '',
+				'TOP_MENU_FIXED' : 'Y',
+				'COLORED_LOGO' : 'N',
+				'SIDE_MENU' : 'LEFT',
+				'SCROLLTOTOP_TYPE' : 'ROUND_COLOR',
+				'SCROLLTOTOP_POSITION' : 'PADDING',
+				'SCROLLTOTOP_POSITION_RIGHT' : '',
+				'SCROLLTOTOP_POSITION_BOTTOM' : '',
+				'CAPTCHA_FORM_TYPE' : 'Y',
+				'PHONE_MASK' : '+375 (99) 999-99-99',
+				'VALIDATE_PHONE_MASK' : '^[+][0-9]{3} [(][0-9]{2}[)] [0-9]{3}[-][0-9]{2}[-][0-9]{2}$',
+				'DATE_MASK' : 'dd.mm.yyyy',
+				'DATE_PLACEHOLDER' : 'дд.мм.гггг',
+				'VALIDATE_DATE_MASK' : '^[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}$',
+				'DATETIME_MASK' : 'dd.mm.yyyy h:s',
+				'DATETIME_PLACEHOLDER' : 'дд.мм.гггг чч:мм',
+				'VALIDATE_DATETIME_MASK' : '^[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4} [0-9]{1,2}\:[0-9]{1,2}$',
+				'VALIDATE_FILE_EXT' : 'png|jpg|jpeg|gif|doc|docx|xls|xlsx|txt|pdf|odt|rtf',
+				'SOCIAL_VK' : 'https://vk.com/1proby',
+				'SOCIAL_FACEBOOK' : '',
+				'SOCIAL_TWITTER' : '',
+				'SOCIAL_YOUTUBE' : 'https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw',
+				'SOCIAL_ODNOKLASSNIKI' : '',
+				'SOCIAL_GOOGLEPLUS' : '',
+				'BANNER_WIDTH' : '',
+				'TEASERS_INDEX' : 'Y',
+				'CATALOG_INDEX' : 'N',
+				'PORTFOLIO_INDEX' : 'N',
+				'INSTAGRAMM_INDEX' : 'N',
+				'BIGBANNER_ANIMATIONTYPE' : 'SLIDE_HORIZONTAL',
+				'BIGBANNER_SLIDESSHOWSPEED' : '5000',
+				'BIGBANNER_ANIMATIONSPEED' : '600',
+				'PARTNERSBANNER_SLIDESSHOWSPEED' : '5000',
+				'PARTNERSBANNER_ANIMATIONSPEED' : '600',
+				'ORDER_VIEW' : 'N',
+				'ORDER_BASKET_VIEW' : 'FLY2',
+				'URL_BASKET_SECTION' : '/cart/',
+				'URL_ORDER_SECTION' : '/cart/order/',
+				'PAGE_WIDTH' : '2',
+				'PAGE_CONTACTS' : '2',
+				'CATALOG_BLOCK_TYPE' : 'catalog_table',
+				'HEADER_TYPE' : '1',
+				'HEADER_TOP_LINE' : '',
+				'HEADER_FIXED' : '2',
+				'HEADER_MOBILE' : '1',
+				'HEADER_MOBILE_MENU' : '1',
+				'HEADER_MOBILE_MENU_SHOW_TYPE' : '',
+				'TYPE_SEARCH' : 'fixed',
+				'PAGE_TITLE' : '1',
+				'INDEX_TYPE' : 'index4',
+				'FOOTER_TYPE' : '3',
+				'REGIONALITY_SEARCH_ROW' : 'N',
+				'FOOTER_TYPE' : '3',
+				'PRINT_BUTTON' : 'N',
+				'SHOW_SMARTFILTER' : 'N',
+				'LICENCE_CHECKED' : 'Y',
+				'FILTER_VIEW' : 'VERTICAL',
+				'YA_GOLAS' : 'Y',
+				'YA_COUNTER_ID' : '33272919',
+				'USE_FORMS_GOALS' : 'SINGLE',
+				'USE_SALE_GOALS' : 'Y',
+				'USE_DEBUG_GOALS' : 'N',
+				'DEFAULT_MAP_MARKET' : 'N',
+				'IS_BASKET_PAGE' : '',
+				'IS_ORDER_PAGE' : '',
+				'COMPACT_FOOTER_MOBILE' : 'Y',
+			}),
+			"PRESETS": [{'ID':'968','TITLE':'Тип 1','DESCRIPTION':'','IMG':'/bitrix/images/aspro.allcorp2/themes/preset968_1573817463.png','OPTIONS':{'THEME_SWITCHER':'Y','BASE_COLOR':'10','BASE_COLOR_CUSTOM':'0088cc','SHOW_BG_BLOCK':'N','COLORED_LOGO':'Y','PAGE_WIDTH':'3','FONT_STYLE':'10','MENU_COLOR':'NONE','LEFT_BLOCK':'1','SIDE_MENU':'LEFT','H1_STYLE':'2','TYPE_SEARCH':'fixed','PAGE_TITLE':'5','HOVER_TYPE_IMG':'blink','SHOW_LICENCE':'Y','MAX_DEPTH_MENU':'3','HIDE_SITE_NAME_TITLE':'Y','SHOW_CALLBACK':'Y','PRINT_BUTTON':'N','USE_GOOGLE_RECAPTCHA':'N','GOOGLE_RECAPTCHA_SHOW_LOGO':'Y','HIDDEN_CAPTCHA':'Y','INSTAGRAMM_WIDE_BLOCK':'N','BIGBANNER_HIDEONNARROW':'N','INDEX_TYPE':{'VALUE':'index1','SUB_PARAMS':{'BIG_BANNER_INDEX':'Y','FLOAT_BANNERS_INDEX':{'VALUE':'Y','TEMPLATE':'front-banners-float'},'CATALOG_SECTIONS_INDEX':'Y','TEASERS_INDEX':'Y','NEWS_INDEX':'Y','BLOG_INDEX':'Y','PORTFOLIO_INDEX':{'VALUE':'N','TEMPLATE':'front-projects_1'},'CATALOG_INDEX':'Y','REVIEWS_INDEX':'Y','INSTAGRAMM_INDEX':'Y','COMPANY_INDEX':'Y','PARTNERS_INDEX':'Y','MAP_INDEX':'N'},'ORDER':'BIG_BANNER_INDEX,FLOAT_BANNERS_INDEX,CATALOG_SECTIONS_INDEX,CATALOG_INDEX,TEASERS_INDEX,NEWS_INDEX,BLOG_INDEX,PORTFOLIO_INDEX,REVIEWS_INDEX,INSTAGRAMM_INDEX,COMPANY_INDEX,PARTNERS_INDEX,MAP_INDEX'},'FRONT_PAGE_BRANDS':'brands_slider','FRONT_PAGE_SECTIONS':'front_sections_only','TOP_MENU_FIXED':'Y','HEADER_TYPE':'1','USE_REGIONALITY':'Y','FILTER_VIEW':'COMPACT','SEARCH_VIEW_TYPE':'with_filter','USE_FAST_VIEW_PAGE_DETAIL':'fast_view_1','SHOW_TOTAL_SUMM':'Y','CHANGE_TITLE_ITEM':'N','VIEW_TYPE_HIGHLOAD_PROP':'N','SHOW_HEADER_GOODS':'Y','SEARCH_HIDE_NOT_AVAILABLE':'N','LEFT_BLOCK_CATALOG_ICONS':'N','SHOW_CATALOG_SECTIONS_ICONS':'Y','LEFT_BLOCK_CATALOG_DETAIL':'Y','CATALOG_COMPARE':'Y','CATALOG_PAGE_DETAIL':'element_1','SHOW_BREADCRUMBS_CATALOG_SUBSECTIONS':'Y','SHOW_BREADCRUMBS_CATALOG_CHAIN':'H1','TYPE_SKU':'TYPE_1','DETAIL_PICTURE_MODE':'POPUP','MENU_POSITION':'LINE','MENU_TYPE_VIEW':'HOVER','VIEWED_TYPE':'LOCAL','VIEWED_TEMPLATE':'HORIZONTAL','USE_WORD_EXPRESSION':'Y','ORDER_BASKET_VIEW':'FLY','ORDER_BASKET_COLOR':'DARK','SHOW_BASKET_ONADDTOCART':'Y','SHOW_BASKET_PRINT':'Y','SHOW_BASKET_ON_PAGES':'N','USE_PRODUCT_QUANTITY_LIST':'Y','USE_PRODUCT_QUANTITY_DETAIL':'Y','ONE_CLICK_BUY_CAPTCHA':'N','SHOW_ONECLICKBUY_ON_BASKET_PAGE':'Y','ONECLICKBUY_SHOW_DELIVERY_NOTE':'N','PAGE_CONTACTS':'3','CONTACTS_USE_FEEDBACK':'Y','CONTACTS_USE_MAP':'Y','BLOG_PAGE':'list_elements_2','PROJECTS_PAGE':'list_elements_2','NEWS_PAGE':'list_elements_2','STAFF_PAGE':'list_elements_1','PARTNERS_PAGE':'list_elements_1','PARTNERS_PAGE_DETAIL':'element_4','VACANCY_PAGE':'list_elements_1','LICENSES_PAGE':'list_elements_1','FOOTER_TYPE':'1','ADV_TOP_HEADER':'N','ADV_TOP_UNDERHEADER':'N','ADV_SIDE':'Y','ADV_CONTENT_TOP':'N','ADV_CONTENT_BOTTOM':'N','ADV_FOOTER':'N','HEADER_MOBILE_FIXED':'Y','HEADER_MOBILE':'1','HEADER_MOBILE_MENU':'2','HEADER_MOBILE_MENU_OPEN':'1','PERSONAL_ONEFIO':'Y','LOGIN_EQUAL_EMAIL':'N','YA_GOALS':'N','YANDEX_ECOMERCE':'N','GOOGLE_ECOMERCE':'N','CALLBACK_BUTTON':'Y','RIGHT_FORM_BLOCK':'Y','USE_BITRIX_FORM':'Y','USE_LAZY_LOAD':'Y','VIEW_TYPE_LEFT_BLOCK':'with_tizers','COUNT_ITEMS_IN_LINE_MENU':'4','ORDER_VIEW':'Y','SHOW_SMARTFILTER':'Y','SHOW_LEFT_BLOCK':'Y','SECTIONS_TYPE_VIEW_CATALOG':'sections_2','SECTION_TYPE_VIEW_CATALOG':'section_2','ELEMENTS_TABLE_TYPE_VIEW':'catalog_table_2','SECTIONS_TYPE_VIEW':'sections_1','SECTION_TYPE_VIEW':'section_2','ELEMENTS_PAGE':'list_elements_1','ELEMENT_PAGE_DETAIL':'element_1','ELEMENTS_PROJECT_PAGE':'list_elements_2','SHOW_PROJECTS_MAP':'Y','SHOW_PROJECTS_MAP_DETAIL':'Y','COMPACT_MOBILE_MENU':'Y','FIXED_MOBILE_MENU':'Y','BIGBANNER_MOBILE':'3','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE':'N','COMPACT_FOOTER_MOBILE':'Y','CABINET':'Y','YA_GOLAS':'N','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_MAINPAGE':'N','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_PRODUCT':'N'}},{'ID':'983','TITLE':'Тип 2','DESCRIPTION':'','IMG':'/bitrix/images/aspro.allcorp2/themes/preset983_1573819403.png','OPTIONS':{'BASE_COLOR':'4','BASE_COLOR_CUSTOM':'de002b','SHOW_BG_BLOCK':'N','FONT_STYLE':'10','PAGE_WIDTH':'3','H1_STYLE':'2','PAGE_TITLE':'1','HOVER_TYPE_IMG':'blink','SHOW_LICENCE':'Y','PRINT_BUTTON':'N','CALLBACK_BUTTON':'Y','RIGHT_FORM_BLOCK':'Y','USE_BITRIX_FORM':'Y','USE_LAZY_LOAD':'Y','INDEX_TYPE':{'VALUE':'index2','SUB_PARAMS':{'BIG_BANNER_INDEX':'Y','PORTFOLIO_INDEX':{'VALUE':'Y','TEMPLATE':'front-projects_2'},'CATALOG_SECTIONS_INDEX':'N','TEASERS_INDEX':'Y','NEWS_INDEX':'N','BLOG_INDEX':'N','CATALOG_INDEX':'Y','FLOAT_BANNERS_INDEX':{'VALUE':'N','TEMPLATE':'front-services_3'},'REVIEWS_INDEX':'Y','INSTAGRAMM_INDEX':'Y','COMPANY_INDEX':'N','PARTNERS_INDEX':'N','MAP_INDEX':'N'},'ORDER':'BIG_BANNER_INDEX,PORTFOLIO_INDEX,CATALOG_SECTIONS_INDEX,NEWS_INDEX,BLOG_INDEX,CATALOG_INDEX,TEASERS_INDEX,FLOAT_BANNERS_INDEX,REVIEWS_INDEX,INSTAGRAMM_INDEX,COMPANY_INDEX,PARTNERS_INDEX,MAP_INDEX'},'TOP_MENU_FIXED':'Y','MENU_COLOR':'LIGHT','HEADER_TYPE':'2','SIDE_MENU':'LEFT','VIEW_TYPE_LEFT_BLOCK':'with_tizers','SHOW_CATALOG_SECTIONS_ICONS':'Y','COUNT_ITEMS_IN_LINE_MENU':'4','USE_REGIONALITY':'Y','ORDER_VIEW':'Y','SHOW_SMARTFILTER':'Y','SHOW_LEFT_BLOCK':'Y','SECTIONS_TYPE_VIEW_CATALOG':'sections_2','SECTION_TYPE_VIEW_CATALOG':'section_2','ELEMENTS_TABLE_TYPE_VIEW':'catalog_table_2','CATALOG_PAGE_DETAIL':'element_1','SECTIONS_TYPE_VIEW':'sections_1','SECTION_TYPE_VIEW':'section_2','ELEMENTS_PAGE':'list_elements_1','ELEMENT_PAGE_DETAIL':'element_1','ELEMENTS_PROJECT_PAGE':'list_elements_2','SHOW_PROJECTS_MAP':'Y','SHOW_PROJECTS_MAP_DETAIL':'Y','PAGE_CONTACTS':'3','BLOG_PAGE':'list_elements_2','NEWS_PAGE':'list_elements_2','STAFF_PAGE':'list_elements_1','PARTNERS_PAGE':'list_elements_1','VACANCY_PAGE':'list_elements_1','LICENSES_PAGE':'list_elements_1','FOOTER_TYPE':'3','ADV_TOP_HEADER':'N','ADV_TOP_UNDERHEADER':'N','ADV_SIDE':'Y','ADV_CONTENT_TOP':'N','ADV_CONTENT_BOTTOM':'N','ADV_FOOTER':'N','HEADER_MOBILE_FIXED':'Y','HEADER_MOBILE':'1','HEADER_MOBILE_MENU':'2','COMPACT_MOBILE_MENU':'Y','HEADER_MOBILE_MENU_OPEN':'1','BIGBANNER_MOBILE':'3','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_MAINPAGE':'N','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_PRODUCT':'N','COMPACT_FOOTER_MOBILE':'Y','CABINET':'Y','LOGIN_EQUAL_EMAIL':'N','YA_GOLAS':'N'}},{'ID':'521','TITLE':'Тип 3','DESCRIPTION':'','IMG':'/bitrix/images/aspro.allcorp2/themes/preset521_1573819598.png','OPTIONS':{'BASE_COLOR':'13','BASE_COLOR_CUSTOM':'0fa8ae','SHOW_BG_BLOCK':'N','FONT_STYLE':'4','PAGE_WIDTH':'3','H1_STYLE':'2','PAGE_TITLE':'1','HOVER_TYPE_IMG':'blink','SHOW_LICENCE':'Y','PRINT_BUTTON':'N','CALLBACK_BUTTON':'Y','RIGHT_FORM_BLOCK':'Y','USE_BITRIX_FORM':'Y','USE_LAZY_LOAD':'Y','INDEX_TYPE':{'VALUE':'index3','SUB_PARAMS':{'BIG_BANNER_INDEX':'Y','TEASERS_INDEX':'Y','FLOAT_BANNERS_INDEX':{'VALUE':'Y','TEMPLATE':'front-services_2'},'COMPANY_INDEX':'N','CATALOG_INDEX':'Y','PORTFOLIO_INDEX':{'VALUE':'Y','TEMPLATE':'front-projects_2'},'MAP_INDEX':'Y'},'ORDER':'BIG_BANNER_INDEX,PORTFOLIO_INDEX,CATALOG_SECTIONS_INDEX,NEWS_INDEX,BLOG_INDEX,CATALOG_INDEX,TEASERS_INDEX,FLOAT_BANNERS_INDEX,REVIEWS_INDEX,INSTAGRAMM_INDEX,COMPANY_INDEX,PARTNERS_INDEX,MAP_INDEX'},'TOP_MENU_FIXED':'Y','MENU_COLOR':'NONE','HEADER_TYPE':'1','SIDE_MENU':'LEFT','VIEW_TYPE_LEFT_BLOCK':'with_tizers','SHOW_CATALOG_SECTIONS_ICONS':'Y','COUNT_ITEMS_IN_LINE_MENU':'4','USE_REGIONALITY':'Y','ORDER_VIEW':'Y','SHOW_SMARTFILTER':'Y','SHOW_LEFT_BLOCK':'Y','SECTIONS_TYPE_VIEW_CATALOG':'sections_2','SECTION_TYPE_VIEW_CATALOG':'section_2','ELEMENTS_TABLE_TYPE_VIEW':'catalog_table_2','CATALOG_PAGE_DETAIL':'element_1','SECTIONS_TYPE_VIEW':'sections_1','SECTION_TYPE_VIEW':'section_2','ELEMENTS_PAGE':'list_elements_1','ELEMENT_PAGE_DETAIL':'element_1','ELEMENTS_PROJECT_PAGE':'list_elements_2','SHOW_PROJECTS_MAP':'Y','SHOW_PROJECTS_MAP_DETAIL':'Y','PAGE_CONTACTS':'3','BLOG_PAGE':'list_elements_2','NEWS_PAGE':'list_elements_2','STAFF_PAGE':'list_elements_1','PARTNERS_PAGE':'list_elements_1','VACANCY_PAGE':'list_elements_1','LICENSES_PAGE':'list_elements_1','FOOTER_TYPE':'5','ADV_TOP_HEADER':'N','ADV_TOP_UNDERHEADER':'N','ADV_SIDE':'Y','ADV_CONTENT_TOP':'N','ADV_CONTENT_BOTTOM':'N','ADV_FOOTER':'N','HEADER_MOBILE_FIXED':'Y','HEADER_MOBILE':'1','HEADER_MOBILE_MENU':'2','COMPACT_MOBILE_MENU':'Y','HEADER_MOBILE_MENU_OPEN':'1','BIGBANNER_MOBILE':'3','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_MAINPAGE':'N','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_PRODUCT':'N','COMPACT_FOOTER_MOBILE':'Y','CABINET':'Y','LOGIN_EQUAL_EMAIL':'N','YA_GOLAS':'N'}},{'ID':'223','TITLE':'Тип 4','DESCRIPTION':'','IMG':'/bitrix/images/aspro.allcorp2/themes/preset223_1573885220.png','OPTIONS':{'BASE_COLOR':'3','BASE_COLOR_CUSTOM':'e65100','SHOW_BG_BLOCK':'N','FONT_STYLE':'10','PAGE_WIDTH':'3','H1_STYLE':'2','PAGE_TITLE':'1','HOVER_TYPE_IMG':'blink','SHOW_LICENCE':'Y','PRINT_BUTTON':'N','CALLBACK_BUTTON':'Y','RIGHT_FORM_BLOCK':'Y','USE_BITRIX_FORM':'Y','USE_LAZY_LOAD':'Y','INDEX_TYPE':{'VALUE':'index4','SUB_PARAMS':{'BIG_BANNER_INDEX':'Y','TEASERS_INDEX':'Y','PORTFOLIO_INDEX':{'VALUE':'Y','TEMPLATE':'front-projects_1'},'CATALOG_SECTIONS_INDEX':'N','FLOAT_BANNERS_INDEX':{'VALUE':'Y','TEMPLATE':'front-services_1'},'CATALOG_INDEX':'Y','PARTNERS_INDEX':'Y','INSTAGRAMM_INDEX':'Y','NEWS_INDEX':'Y','REVIEWS_INDEX':'Y','BLOG_INDEX':'N','COMPANY_INDEX':'Y','MAP_INDEX':'Y'},'ORDER':'BIG_BANNER_INDEX,PORTFOLIO_INDEX,CATALOG_SECTIONS_INDEX,NEWS_INDEX,BLOG_INDEX,CATALOG_INDEX,TEASERS_INDEX,FLOAT_BANNERS_INDEX,REVIEWS_INDEX,INSTAGRAMM_INDEX,COMPANY_INDEX,PARTNERS_INDEX,MAP_INDEX'},'TOP_MENU_FIXED':'Y','MENU_COLOR':'COLORED','HEADER_TYPE':'3','SIDE_MENU':'LEFT','VIEW_TYPE_LEFT_BLOCK':'with_tizers','SHOW_CATALOG_SECTIONS_ICONS':'Y','COUNT_ITEMS_IN_LINE_MENU':'4','USE_REGIONALITY':'Y','ORDER_VIEW':'Y','SHOW_SMARTFILTER':'Y','SHOW_LEFT_BLOCK':'Y','SECTIONS_TYPE_VIEW_CATALOG':'sections_2','SECTION_TYPE_VIEW_CATALOG':'section_2','ELEMENTS_TABLE_TYPE_VIEW':'catalog_table_2','CATALOG_PAGE_DETAIL':'element_1','SECTIONS_TYPE_VIEW':'sections_1','SECTION_TYPE_VIEW':'section_2','ELEMENTS_PAGE':'list_elements_1','ELEMENT_PAGE_DETAIL':'element_1','ELEMENTS_PROJECT_PAGE':'list_elements_2','SHOW_PROJECTS_MAP':'Y','SHOW_PROJECTS_MAP_DETAIL':'Y','PAGE_CONTACTS':'3','BLOG_PAGE':'list_elements_2','NEWS_PAGE':'list_elements_2','STAFF_PAGE':'list_elements_1','PARTNERS_PAGE':'list_elements_1','VACANCY_PAGE':'list_elements_1','LICENSES_PAGE':'list_elements_1','FOOTER_TYPE':'4','ADV_TOP_HEADER':'N','ADV_TOP_UNDERHEADER':'N','ADV_SIDE':'Y','ADV_CONTENT_TOP':'N','ADV_CONTENT_BOTTOM':'N','ADV_FOOTER':'N','HEADER_MOBILE_FIXED':'Y','HEADER_MOBILE':'1','HEADER_MOBILE_MENU':'2','COMPACT_MOBILE_MENU':'Y','HEADER_MOBILE_MENU_OPEN':'1','BIGBANNER_MOBILE':'3','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_MAINPAGE':'N','CATALOG_SECTIONS_COMPACT_VIEW_MOBILE_PRODUCT':'N','COMPACT_FOOTER_MOBILE':'Y','CABINET':'Y','LOGIN_EQUAL_EMAIL':'N','YA_GOLAS':'N'}}],
+		});
+		if(arAllcorp2Options.SITE_ADDRESS)
+			arAllcorp2Options.SITE_ADDRESS = arAllcorp2Options.SITE_ADDRESS.replace(/'/g, "");
+		</script>
+		<!--'start_frame_cache_options-block'-->			<script>
+				var arBasketItems = [];
+			</script>
+		<!--'end_frame_cache_options-block'-->				
+
+
+
+		
+																																
+
+
+				<div class="visible-lg visible-md title-v1 index">
+			<header class="header_1 long ">
+	<div class="logo_and_menu-row">
+		<div class="logo-row top-fill">
+			<div class="maxwidth-theme">
+								<div class="logo-block paddings pull-left">
+					<div class="logo">
+						<a href="/"><img src="/upload/CAllcorp2/db8/db8cac9ab3f3977c1f3dd0f7610f0f05.png" alt="Простые программы" title="Простые программы" /></a>					</div>
+				</div>
+													<div class="col-md-2 visible-lg nopadding-right slogan">
+						<div class="top-description">
+							<div>
+								<b><span style="color: #df3c0a;"> 
+<!--noindex--><a rel="nofollow, noindex" target="_blank" href="https://1c.ru/rus/partners/franch.jsp?id=36457"><img width="70" alt="1С Франчайзинг" src="/upload/medialibrary/559/559dd705e480bb11bfe7f467fc5a9fc4.png" height="42" title="1С Франчайзинг" align="left"></a><!--/noindex-->Простые программы<br>
+ </span></b><span style="text-align: right; color: #2c5b6f;"><span style="font-size: 9pt;"> 
+<!--noindex--><a rel="nofollow, noindex" target="_blank" href="https://1c.ru/news/info.jsp?id=21808">ISO 9001:2015</a><!--/noindex--></span></span><br>							</div>
+						</div>
+					</div>
+												<div class="right-icons pull-right">
+					<div class="phone-block with_btn">
+						<div class="region-block inner-table-block">
+							<div class="inner-table-block p-block">
+														<!--'start_frame_cache_header-regionality-block1'-->				<!--'end_frame_cache_header-regionality-block1'-->								</div>
+																						<div class="inner-table-block p-block">
+											
+								<div class="phone with_dropdown big">
+								<i class="svg inline  svg-inline-phone colored" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .pcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="pcls-1" d="M14,11.052a0.5,0.5,0,0,0-.03-0.209,1.758,1.758,0,0,0-.756-0.527C12.65,10,12.073,9.69,11.515,9.363a2.047,2.047,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.138,2.138,0,0,1-.856-0.388A9.894,9.894,0,0,1,3.672,6.253,2.134,2.134,0,0,1,3.283,5.4c0-.536,1.8-1.421,1.8-2.027a2.045,2.045,0,0,0-.458-0.885C4.3,1.932,3.99,1.355,3.672.789A1.755,1.755,0,0,0,3.144.034,0.5,0.5,0,0,0,2.935,0,4.427,4.427,0,0,0,1.551.312,2.62,2.62,0,0,0,.5,1.524,3.789,3.789,0,0,0-.011,3.372a7.644,7.644,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,7.714a16.783,16.783,0,0,0,4.778,4.769,9.283,9.283,0,0,0,1.742.825,7.673,7.673,0,0,0,2.608.686,3.805,3.805,0,0,0,1.851-.507,2.62,2.62,0,0,0,1.214-1.052A4.418,4.418,0,0,0,14,11.052Z"/>
+</svg>
+</i>
+				<a href="tel:+375172767767">+375 (17) 276-77-67</a>
+									<div class="dropdown">
+						<div class="wrap">
+																							<div class="more_phone">
+									<a  rel="nofollow" href="tel:+375445521197">+375 (44) 552-11-97<span>Отдел продаж</span></a>
+								</div>
+													</div>
+					</div>
+					<svg xmlns="http://www.w3.org/2000/svg" width="5" height="2.844" viewBox="0 0 5 2.844">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M5,0.332l-2.5,2.5L0,0.332V0H5V0.332Z"/>
+</svg>
+							</div>
+																						<div class=" schedule">
+									Пн. – Пт.: с 8:30 до 18:30							</div>
+														</div>
+													</div>
+													<div class="inner-table-block">
+								<span class="callback-block animate-load colored  btn-transparent-bg btn-default btn" data-event="jqm" data-param-id="191" data-name="callback">Заказать звонок</span>
+							</div>
+											</div>
+				</div>
+								<div class="col-md-2 pull-right">
+					<div class="inner-table-block address">
+						
+		
+												<div class="address-block">
+													<i class="svg inline  svg-inline-address colored" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Ellipse 74 copy" class="cls-1" d="M763.9,42.916h0.03L759,49h-1l-4.933-6.084h0.03a6.262,6.262,0,0,1-1.1-3.541,6.5,6.5,0,0,1,13,0A6.262,6.262,0,0,1,763.9,42.916ZM758.5,35a4.5,4.5,0,0,0-3.741,7h-0.012l3.542,4.447h0.422L762.289,42H762.24A4.5,4.5,0,0,0,758.5,35Zm0,6a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,758.5,41Z" transform="translate(-752 -33)"/>
+</svg>
+</i>												<div>
+							г.Минск, <br>
+пр-т Дзержинского 104, <br>
+11 этаж, офис 1105						</div>
+					</div>
+							
+								</div>
+				</div>
+			</div>
+		</div>	</div>
+		<div class="menu-row with-color bgcolored colored_all sliced">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="right-icons pull-right">
+										<div class="pull-right">
+						<div class="wrap_icon inner-table-block">
+							<button class="inline-search-show twosmallfont" title="Поиск">
+								<i class="svg inline  svg-inline-search" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .stcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="stcls-1" d="M15.644,15.644a1.164,1.164,0,0,1-1.646,0l-2.95-2.95a7.036,7.036,0,1,1,1.645-1.645L15.644,14A1.164,1.164,0,0,1,15.644,15.644ZM7,2a5,5,0,1,0,5,5A5,5,0,0,0,7,2Z"/>
+</svg>
+</i>							</button>
+						</div>
+					</div>
+											<div class="pull-right">
+							<div class="wrap_icon inner-table-block">
+										<!--'start_frame_cache_cabinet-link1'-->		<!-- noindex -->
+					<a class="personal-link dark-color animate-load" data-event="jqm" title="Мой кабинет" data-param-type="auth" data-param-backurl="/" data-name="auth" href="/cabinet/">
+				<i class="svg inline  svg-inline-cabinet" aria-hidden="true" title="Мой кабинет"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M13.88,16A5.616,5.616,0,0,0,3.128,16h-2.1a7.66,7.66,0,0,1,14.954,0h-2.1ZM8.5,0A4.5,4.5,0,1,1,4,4.5,4.5,4.5,0,0,1,8.5,0Zm0,2A2.5,2.5,0,1,1,6,4.5,2.5,2.5,0,0,1,8.5,2Z"/>
+</svg>
+</i>			</a>
+				<!-- /noindex -->
+		<!--'end_frame_cache_cabinet-link1'-->								</div>
+						</div>
+									</div>
+				<div class="menu-only">
+					<nav class="mega-menu sliced">
+							<div class="table-menu catalog_icons_Y">
+		<div class="marker-nav"></div>
+		<table>
+			<tr>
+																			<td class="menu-item unvisible dropdown wide_menu">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/product/">
+								Программы 1С								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/636/60_60_1/636f3f063faeb0717792245b26531616.png" alt="Универсальные продукты 1С" title="Универсальные продукты 1С" /></div>
+																																		<a href="/product/universalnye-produkty-1s/" title="Универсальные продукты 1С">Универсальные продукты 1С<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/" title="1С: Бухгалтерия 8 для Беларуси">1С: Бухгалтерия 8 для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/" title="1С: Управление торговлей">1С: Управление торговлей</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/" title="1С: Зарплата и управление персоналом">1С: Зарплата и управление персоналом</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-kompaniey-dlya-belarusi/" title="1С: Управление компанией для Беларуси">1С: Управление компанией для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-erp-upravlenie-predpriyatiem-2-dlya-belarusi/" title="1С: ERP Управление предприятием 2 для Беларуси">1С: ERP Управление предприятием 2 для Беларуси</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/7eb/60_60_1/7eb4627a525b4e8fa23b0f6e59964980.png" alt="Отраслевые решения" title="Отраслевые решения" /></div>
+																																		<a href="/product/otraslevye-resheniya/" title="Отраслевые решения">Отраслевые решения<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/optovaya-torgovlya/" title="Оптовая торговля">Оптовая торговля</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/roznitsa/" title="Розница">Розница</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/proizvodstvo/" title="Производство">Производство</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/sfera-uslug/" title="Сфера услуг">Сфера услуг</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/sto-i-avtobiznes/" title="СТО и автобизнес">СТО и автобизнес</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/meditsina/" title="Медицина">Медицина</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/obshchepit/" title="Общепит">Общепит</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/transport/" title="Транспорт">Транспорт</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/arenda-nedvizhimosti/" title="Аренда недвижимости">Аренда недвижимости</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/stroitelstvo/" title="Строительство">Строительство</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/selskoe-khozyaystvo/" title="Сельское хозяйство">Сельское хозяйство</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/b6e/60_60_1/b6ead70589c816d58c26a843a039886d.png" alt="Бухгалтерский учет" title="Бухгалтерский учет" /></div>
+																																		<a href="/product/bukhgalterskiy-uchet/" title="Бухгалтерский учет">Бухгалтерский учет<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/" title="1C: Бухгалтерия 8 для Беларуси">1C: Бухгалтерия 8 для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/" title="1С: Зарплата и управление персоналом">1С: Зарплата и управление персоналом</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/roznitsa/bukhgalterskiy-uchet-8-nastroyka-dlya-rb/" title="Бухгалтерский учет 8.Настройка для РБ">Бухгалтерский учет 8.Настройка для РБ</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/bukhgalterskiy-uchet/obmen-dannymi-1s-s-sistemoy-klient-bank/" title="Обмен данными «1С» с системой «Клиент-Банк»">Обмен данными «1С» с системой «Клиент-Банк»</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/selskoe-khozyaystvo/1s-bukhgalteriya-selskokhozyaystvennogo-predpriyatiya-dlya-belarusi/" title="1С: Бухгалтерия с/х предприятия для Беларуси">1С: Бухгалтерия с/х предприятия для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/bukhgalterskiy-uchet/" title="Полный список продуктов">Полный список продуктов</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/823/60_60_1/823fbc22425d2a81543aa583b439bdd9.png" alt="Оперативный и управленческий учет" title="Оперативный и управленческий учет" /></div>
+																																		<a href="/product/operativnyy-i-upravlencheskiy-uchet/" title="Оперативный и управленческий учет">Оперативный и управленческий учет<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/" title="1C: Управление торговлей">1C: Управление торговлей</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-kompaniey-dlya-belarusi/" title="1С: Управление компанией для Беларуси">1С: Управление компанией для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-erp-upravlenie-predpriyatiem-2-dlya-belarusi/" title="1С: ERP Управление предприятием 2 для Беларуси">1С: ERP Управление предприятием 2 для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/transport/1s-predpriyatie-8-upravlenie-avtotransportom/" title="Управление автотранспортом">Управление автотранспортом</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/roznitsa/1s-roznitsa-8-dlya-belarusi/" title="1С: Розница">1С: Розница</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/operativnyy-i-upravlencheskiy-uchet/" title="Полный список продуктов">Полный список продуктов</a>
+																													</li>
+																																						</ul>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/services/">
+								Услуги								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/arenda-1s/" title="Аренда 1С">Аренда 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/vnedrenie-1s/" title="Внедрение 1С">Внедрение 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/obuchenie-1s/" title="Обучение 1С">Обучение 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/dorabotki-1s/" title="Доработки 1С">Доработки 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/soprovozhdenie/" title="Сопровождение">Сопровождение</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/konsultatsii/" title="Консультации">Консультации</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/it-uslugi-dlya-biznesa/" title="IT-услуги для бизнеса">IT-услуги для бизнеса</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/razrabotka-1s/" title="Разработка 1С">Разработка 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/nastroyka-1s/" title="Настройка 1С">Настройка 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/ustanovka-1s/" title="Установка 1С">Установка 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/obnovlenie-1s/" title="Обновление 1С">Обновление 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/integratsiya-1s/" title="Интеграция 1С">Интеграция 1С</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/company/">
+								О компании								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="/info/news/" title="Новости компании">Новости компании</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/partners/" title="Партнеры">Партнеры</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/stat-partnerom/" title="Стать партнером">Стать партнером</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/requisites/" title="Реквизиты">Реквизиты</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/staff/" title="Наша команда">Наша команда</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/politika-v-oblasti-kachestva/" title="Политика в области качества">Политика в области качества</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/vacancy/" title="Вакансии">Вакансии</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/nash-opyt/">
+								Наш опыт								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="/nash-opyt/klienty/" title="Клиенты">Клиенты</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/licenses/" title="Сертификаты">Сертификаты</a>
+																					</li>
+																																							<li class="dropdown-submenu count_4  ">
+																						<a href="/projects/" title="Внедрения">Внедрения<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/projects/1s-bukhgalteriya/" title="1С: Бухгалтерия">1С: Бухгалтерия</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/reviews/" title="Отзывы">Отзывы</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/price/">
+								Прайс								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/info/">
+								Клиентам								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" title="YouTube-канал">YouTube-канал</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/news/" title="Новости">Новости</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/config/" title="Конфигурации 1С">Конфигурации 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/voprosy/" title="1С инструкции">1С инструкции</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/eschf/" title="ЭСЧФ">ЭСЧФ</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/ebrr/" title="ЕБРР">ЕБРР</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/demo/" title="Демо-версия 1С online">Демо-версия 1С online</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/contacts/">
+								Контакты								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+				
+				<td class="menu-item dropdown js-dropdown nosave unvisible">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" width="17" height="3" viewBox="0 0 17 3">
+								  <defs>
+								    <style>
+								      .cls-1 {
+								        fill-rule: evenodd;
+								      }
+								    </style>
+								  </defs>
+								  <path class="cls-1" d="M923.5,178a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,923.5,178Zm7,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,930.5,178Zm7,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,937.5,178Z" transform="translate(-922 -178)"/>
+								</svg>
+							</span>
+						</a>
+						<span class="tail"></span>
+						<ul class="dropdown-menu"></ul>
+					</div>
+				</td>
+
+			</tr>
+		</table>
+	</div>
+					</nav>
+				</div>
+			</div>
+			<div class="lines"></div>
+		</div>
+	</div>
+	<div class="line-row"></div>
+</header>		</div>
+
+		
+
+
+					<div id="headerfixed">
+				<div class="maxwidth-theme">
+	<div class="logo-row v2 row margin0">
+		<div class="inner-table-block nopadding logo-block">
+			<div class="logo">
+				<a href="/"><img src="/upload/CAllcorp2/db8/db8cac9ab3f3977c1f3dd0f7610f0f05.png" alt="Простые программы" title="Простые программы" /></a>			</div>
+		</div>
+		<div class="inner-table-block menu-block menu-row">
+			<div class="navs table-menu js-nav">
+				<nav class="mega-menu sliced">
+						<div class="table-menu catalog_icons_Y">
+		<div class="marker-nav"></div>
+		<table>
+			<tr>
+																			<td class="menu-item unvisible dropdown wide_menu">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/product/">
+								Программы 1С								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/636/60_60_1/636f3f063faeb0717792245b26531616.png" alt="Универсальные продукты 1С" title="Универсальные продукты 1С" /></div>
+																																		<a href="/product/universalnye-produkty-1s/" title="Универсальные продукты 1С">Универсальные продукты 1С<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/" title="1С: Бухгалтерия 8 для Беларуси">1С: Бухгалтерия 8 для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/" title="1С: Управление торговлей">1С: Управление торговлей</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/" title="1С: Зарплата и управление персоналом">1С: Зарплата и управление персоналом</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-kompaniey-dlya-belarusi/" title="1С: Управление компанией для Беларуси">1С: Управление компанией для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-erp-upravlenie-predpriyatiem-2-dlya-belarusi/" title="1С: ERP Управление предприятием 2 для Беларуси">1С: ERP Управление предприятием 2 для Беларуси</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/7eb/60_60_1/7eb4627a525b4e8fa23b0f6e59964980.png" alt="Отраслевые решения" title="Отраслевые решения" /></div>
+																																		<a href="/product/otraslevye-resheniya/" title="Отраслевые решения">Отраслевые решения<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/optovaya-torgovlya/" title="Оптовая торговля">Оптовая торговля</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/roznitsa/" title="Розница">Розница</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/proizvodstvo/" title="Производство">Производство</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/sfera-uslug/" title="Сфера услуг">Сфера услуг</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/sto-i-avtobiznes/" title="СТО и автобизнес">СТО и автобизнес</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/meditsina/" title="Медицина">Медицина</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/obshchepit/" title="Общепит">Общепит</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/transport/" title="Транспорт">Транспорт</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/arenda-nedvizhimosti/" title="Аренда недвижимости">Аренда недвижимости</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/stroitelstvo/" title="Строительство">Строительство</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/selskoe-khozyaystvo/" title="Сельское хозяйство">Сельское хозяйство</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/b6e/60_60_1/b6ead70589c816d58c26a843a039886d.png" alt="Бухгалтерский учет" title="Бухгалтерский учет" /></div>
+																																		<a href="/product/bukhgalterskiy-uchet/" title="Бухгалтерский учет">Бухгалтерский учет<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/" title="1C: Бухгалтерия 8 для Беларуси">1C: Бухгалтерия 8 для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/" title="1С: Зарплата и управление персоналом">1С: Зарплата и управление персоналом</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/roznitsa/bukhgalterskiy-uchet-8-nastroyka-dlya-rb/" title="Бухгалтерский учет 8.Настройка для РБ">Бухгалтерский учет 8.Настройка для РБ</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/bukhgalterskiy-uchet/obmen-dannymi-1s-s-sistemoy-klient-bank/" title="Обмен данными «1С» с системой «Клиент-Банк»">Обмен данными «1С» с системой «Клиент-Банк»</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/selskoe-khozyaystvo/1s-bukhgalteriya-selskokhozyaystvennogo-predpriyatiya-dlya-belarusi/" title="1С: Бухгалтерия с/х предприятия для Беларуси">1С: Бухгалтерия с/х предприятия для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/bukhgalterskiy-uchet/" title="Полный список продуктов">Полный список продуктов</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class="dropdown-submenu count_4  has_img">
+																								<div class="menu_img"><img src="/upload/resize_cache/iblock/823/60_60_1/823fbc22425d2a81543aa583b439bdd9.png" alt="Оперативный и управленческий учет" title="Оперативный и управленческий учет" /></div>
+																																		<a href="/product/operativnyy-i-upravlencheskiy-uchet/" title="Оперативный и управленческий учет">Оперативный и управленческий учет<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/" title="1C: Управление торговлей">1C: Управление торговлей</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1c-upravlenie-kompaniey-dlya-belarusi/" title="1С: Управление компанией для Беларуси">1С: Управление компанией для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/universalnye-produkty-1s/1s-erp-upravlenie-predpriyatiem-2-dlya-belarusi/" title="1С: ERP Управление предприятием 2 для Беларуси">1С: ERP Управление предприятием 2 для Беларуси</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/transport/1s-predpriyatie-8-upravlenie-avtotransportom/" title="Управление автотранспортом">Управление автотранспортом</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/otraslevye-resheniya/roznitsa/1s-roznitsa-8-dlya-belarusi/" title="1С: Розница">1С: Розница</a>
+																													</li>
+																																									<li class="  ">
+															<a href="/product/operativnyy-i-upravlencheskiy-uchet/" title="Полный список продуктов">Полный список продуктов</a>
+																													</li>
+																																						</ul>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/services/">
+								Услуги								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/arenda-1s/" title="Аренда 1С">Аренда 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/vnedrenie-1s/" title="Внедрение 1С">Внедрение 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/obuchenie-1s/" title="Обучение 1С">Обучение 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/dorabotki-1s/" title="Доработки 1С">Доработки 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/soprovozhdenie/" title="Сопровождение">Сопровождение</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/konsultatsii/" title="Консультации">Консультации</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/it-uslugi-dlya-biznesa/" title="IT-услуги для бизнеса">IT-услуги для бизнеса</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/razrabotka-1s/" title="Разработка 1С">Разработка 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/nastroyka-1s/" title="Настройка 1С">Настройка 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/ustanovka-1s/" title="Установка 1С">Установка 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/obnovlenie-1s/" title="Обновление 1С">Обновление 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/services/spisok-uslug/integratsiya-1s/" title="Интеграция 1С">Интеграция 1С</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/company/">
+								О компании								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="/info/news/" title="Новости компании">Новости компании</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/partners/" title="Партнеры">Партнеры</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/stat-partnerom/" title="Стать партнером">Стать партнером</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/requisites/" title="Реквизиты">Реквизиты</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/staff/" title="Наша команда">Наша команда</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/politika-v-oblasti-kachestva/" title="Политика в области качества">Политика в области качества</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/vacancy/" title="Вакансии">Вакансии</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/nash-opyt/">
+								Наш опыт								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="/nash-opyt/klienty/" title="Клиенты">Клиенты</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/licenses/" title="Сертификаты">Сертификаты</a>
+																					</li>
+																																							<li class="dropdown-submenu count_4  ">
+																						<a href="/projects/" title="Внедрения">Внедрения<span class="arrow"><i></i></span></a>
+																																			<ul class="dropdown-menu toggle_menu">
+																																									<li class="  ">
+															<a href="/projects/1s-bukhgalteriya/" title="1С: Бухгалтерия">1С: Бухгалтерия</a>
+																													</li>
+																																						</ul>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/company/reviews/" title="Отзывы">Отзывы</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/price/">
+								Прайс								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+																			<td class="menu-item unvisible dropdown">
+						<div class="wrap">
+							<a class="dropdown-toggle" href="/info/">
+								Клиентам								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+															<span class="tail"></span>
+								<ul class="dropdown-menu">
+																																							<li class=" count_4  ">
+																						<a href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" title="YouTube-канал">YouTube-канал</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/news/" title="Новости">Новости</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/config/" title="Конфигурации 1С">Конфигурации 1С</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/voprosy/" title="1С инструкции">1С инструкции</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/eschf/" title="ЭСЧФ">ЭСЧФ</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/ebrr/" title="ЕБРР">ЕБРР</a>
+																					</li>
+																																							<li class=" count_4  ">
+																						<a href="/info/demo/" title="Демо-версия 1С online">Демо-версия 1С online</a>
+																					</li>
+																	</ul>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/contacts/">
+								Контакты								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+				
+				<td class="menu-item dropdown js-dropdown nosave unvisible">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" width="17" height="3" viewBox="0 0 17 3">
+								  <defs>
+								    <style>
+								      .cls-1 {
+								        fill-rule: evenodd;
+								      }
+								    </style>
+								  </defs>
+								  <path class="cls-1" d="M923.5,178a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,923.5,178Zm7,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,930.5,178Zm7,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,937.5,178Z" transform="translate(-922 -178)"/>
+								</svg>
+							</span>
+						</a>
+						<span class="tail"></span>
+						<ul class="dropdown-menu"></ul>
+					</div>
+				</td>
+
+			</tr>
+		</table>
+	</div>
+				</nav>
+			</div>
+		</div>
+					<div class="inner-table-block nopadding small-block cabinet">
+				<div class="wrap_icon wrap_cabinet">
+							<!--'start_frame_cache_cabinet-link2'-->		<!-- noindex -->
+					<a class="personal-link dark-color animate-load" data-event="jqm" title="Мой кабинет" data-param-type="auth" data-param-backurl="/" data-name="auth" href="/cabinet/">
+				<i class="svg inline big svg-inline-cabinet" aria-hidden="true" title="Мой кабинет"><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M18.263,21A9.678,9.678,0,0,0,10.5,17a9.678,9.678,0,0,0-7.763,4H0.451A11.64,11.64,0,0,1,10.5,15a11.64,11.64,0,0,1,10.049,6H18.263ZM10.5,13A6.5,6.5,0,1,1,17,6.5,6.5,6.5,0,0,1,10.5,13Zm0-11A4.5,4.5,0,1,1,6,6.5,4.5,4.5,0,0,1,10.5,2Z"/>
+</svg>
+</i>			</a>
+				<!-- /noindex -->
+		<!--'end_frame_cache_cabinet-link2'-->					</div>
+			</div>
+				<div class="inner-table-block small-block nopadding inline-search-show" data-type_search="fixed">
+			<div class="search-block wrap_icon" title="Поиск">
+				<i class="svg inline  svg-inline-search big" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 106" class="cls-1" d="M1590.71,131.709a1,1,0,0,1-1.42,0l-4.68-4.677a9.069,9.069,0,1,1,1.42-1.427l4.68,4.678A1,1,0,0,1,1590.71,131.709ZM1579,113a7,7,0,1,0,7,7A7,7,0,0,0,1579,113Z" transform="translate(-1570 -111)"/>
+</svg>
+</i>			</div>
+		</div>
+				<!--'start_frame_cache_basket-link1'-->		<!-- noindex -->
+				<!-- /noindex -->
+		<!--'end_frame_cache_basket-link1'-->		</div>
+</div>			</div>
+		
+		<div id="mobileheader" class="visible-xs visible-sm">
+			<div class="mobileheader-v1">
+	<div class="burger pull-left">
+		<i class="svg inline  svg-inline-burger dark" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 81 copy 2" class="cls-1" d="M330,114h16a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H330a1,1,0,0,1-1-1h0A1,1,0,0,1,330,114Zm0,7h16a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H330a1,1,0,0,1-1-1h0A1,1,0,0,1,330,121Zm0,7h16a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H330a1,1,0,0,1-1-1h0A1,1,0,0,1,330,128Z" transform="translate(-329 -114)"/>
+</svg>
+</i>		<i class="svg inline  svg-inline-close dark" aria-hidden="true" ><svg id="Close.svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_114_copy_3" data-name="Rounded Rectangle 114 copy 3" class="cls-1" d="M334.411,138l6.3,6.3a1,1,0,0,1,0,1.414,0.992,0.992,0,0,1-1.408,0l-6.3-6.306-6.3,6.306a1,1,0,0,1-1.409-1.414l6.3-6.3-6.293-6.3a1,1,0,0,1,1.409-1.414l6.3,6.3,6.3-6.3A1,1,0,0,1,340.7,131.7Z" transform="translate(-325 -130)"/>
+</svg>
+</i>	</div>
+	<div class="logo-block pull-left">
+		<div class="logo">
+			<a href="/"><img src="/upload/CAllcorp2/db8/db8cac9ab3f3977c1f3dd0f7610f0f05.png" alt="Простые программы" title="Простые программы" /></a>		</div>
+	</div>
+	<div class="right-icons pull-right">
+		<div class="pull-right">
+			<div class="wrap_icon wrap_basket">
+						<!--'start_frame_cache_basket-link2'-->		<!-- noindex -->
+				<!-- /noindex -->
+		<!--'end_frame_cache_basket-link2'-->				</div>
+		</div>
+		<div class="pull-right">
+			<div class="wrap_icon">
+				<button class="inline-search-show twosmallfont" title="Поиск">
+					<i class="svg inline  svg-inline-search" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 106" class="cls-1" d="M1590.71,131.709a1,1,0,0,1-1.42,0l-4.68-4.677a9.069,9.069,0,1,1,1.42-1.427l4.68,4.678A1,1,0,0,1,1590.71,131.709ZM1579,113a7,7,0,1,0,7,7A7,7,0,0,0,1579,113Z" transform="translate(-1570 -111)"/>
+</svg>
+</i>				</button>
+			</div>
+		</div>
+		<div class="pull-right">
+			<div class="wrap_icon wrap_phones">
+									<!-- noindex -->
+			<i class="svg inline  svg-inline-phone" aria-hidden="true" ><svg width="21" height="21" viewBox="0 0 21 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.9562 15.97L18.9893 16.3282C19.0225 16.688 18.9784 17.0504 18.8603 17.3911C18.6223 18.086 18.2725 18.7374 17.8248 19.3198L17.7228 19.4524L17.6003 19.5662C16.8841 20.2314 15.9875 20.6686 15.0247 20.8243C14.0374 21.0619 13.0068 21.0586 12.0201 20.814L11.9327 20.7924L11.8476 20.763C10.712 20.3703 9.65189 19.7871 8.71296 19.0385C8.03805 18.582 7.41051 18.0593 6.83973 17.4779L6.81497 17.4527L6.79112 17.4267C4.93379 15.3963 3.51439 13.0063 2.62127 10.4052L2.6087 10.3686L2.59756 10.3315C2.36555 9.5598 2.21268 8.76667 2.14121 7.9643C1.94289 6.79241 1.95348 5.59444 2.17289 4.42568L2.19092 4.32964L2.21822 4.23581C2.50215 3.26018 3.0258 2.37193 3.7404 1.65124C4.37452 0.908181 5.21642 0.370416 6.15867 0.107283L6.31009 0.0649959L6.46626 0.0468886C7.19658 -0.0377903 7.93564 -0.00763772 8.65659 0.136237C9.00082 0.203673 9.32799 0.34095 9.61768 0.540011L9.90227 0.735566L10.1048 1.01522C10.4774 1.52971 10.7173 2.12711 10.8045 2.75455C10.8555 2.95106 10.9033 3.13929 10.9499 3.32228C11.0504 3.71718 11.1446 4.08764 11.2499 4.46408C11.5034 5.03517 11.6255 5.65688 11.6059 6.28327L11.5984 6.52137L11.5353 6.75107C11.3812 7.31112 11.0546 7.68722 10.8349 7.8966C10.6059 8.11479 10.3642 8.2737 10.18 8.38262C9.89673 8.55014 9.57964 8.69619 9.32537 8.8079C9.74253 10.2012 10.5059 11.4681 11.5455 12.4901C11.7801 12.3252 12.0949 12.1097 12.412 11.941C12.6018 11.8401 12.8614 11.7177 13.1641 11.6357C13.4565 11.5565 13.9301 11.4761 14.4706 11.6169L14.6882 11.6736L14.8878 11.7772C15.4419 12.0649 15.9251 12.4708 16.3035 12.9654C16.5807 13.236 16.856 13.4937 17.1476 13.7666C17.2974 13.9068 17.4515 14.0511 17.6124 14.2032C18.118 14.5805 18.5261 15.0751 18.8003 15.6458L18.9562 15.97ZM16.3372 15.7502C16.6216 15.9408 16.8496 16.2039 16.9977 16.5121C17.0048 16.5888 16.9952 16.6661 16.9697 16.7388C16.8021 17.2295 16.5553 17.6895 16.2391 18.1009C15.795 18.5134 15.234 18.7788 14.6329 18.8608C13.9345 19.0423 13.2016 19.0464 12.5012 18.8728C11.5558 18.5459 10.675 18.0561 9.8991 17.4258C9.30961 17.0338 8.76259 16.5817 8.26682 16.0767C6.59456 14.2487 5.31682 12.0971 4.51287 9.75567C4.31227 9.08842 4.18279 8.40192 4.12658 7.70756C3.95389 6.74387 3.95792 5.75691 4.13855 4.79468C4.33628 4.11526 4.70731 3.49868 5.21539 3.00521C5.59617 2.53588 6.11383 2.19633 6.69661 2.03358C7.22119 1.97276 7.75206 1.99466 8.26981 2.09849C8.34699 2.11328 8.42029 2.14388 8.48501 2.18836C8.68416 2.46334 8.80487 2.78705 8.83429 3.12504C8.89113 3.34235 8.94665 3.56048 9.00218 3.77864C9.12067 4.24418 9.2392 4.70987 9.37072 5.16815C9.5371 5.49352 9.61831 5.85557 9.60687 6.22066C9.51714 6.54689 8.89276 6.81665 8.28746 7.07816C7.71809 7.32415 7.16561 7.56284 7.0909 7.83438C7.07157 8.17578 7.12971 8.51712 7.26102 8.83297C7.76313 10.9079 8.87896 12.7843 10.4636 14.2184C10.6814 14.4902 10.9569 14.7105 11.2702 14.8634C11.5497 14.9366 12.0388 14.5907 12.5428 14.2342C13.0783 13.8555 13.6307 13.4648 13.9663 13.5523C14.295 13.7229 14.5762 13.9719 14.785 14.2773C15.1184 14.6066 15.4631 14.9294 15.808 15.2523C15.9849 15.418 16.1618 15.5836 16.3372 15.7502Z" fill="#222222"/>
+</svg>
+</i>			<div id="mobilePhone" class="dropdown-mobile-phone">
+				<div class="wrap">
+					<div class="more_phone title">
+						<span class="no-decript ">
+							Телефоны							<i class="svg inline  svg-inline-close" aria-hidden="true" ><svg id="Close.svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_114_copy_3" data-name="Rounded Rectangle 114 copy 3" class="cls-1" d="M334.411,138l6.3,6.3a1,1,0,0,1,0,1.414,0.992,0.992,0,0,1-1.408,0l-6.3-6.306-6.3,6.306a1,1,0,0,1-1.409-1.414l6.3-6.3-6.293-6.3a1,1,0,0,1,1.409-1.414l6.3,6.3,6.3-6.3A1,1,0,0,1,340.7,131.7Z" transform="translate(-325 -130)"/>
+</svg>
+</i>						</span>
+					</div>
+																	<div class="more_phone">
+						    <a class="dark-color " rel="nofollow" href="tel:+375172767767">+375 (17) 276-77-67<span>Многоканальный</span></a>
+						</div>
+																	<div class="more_phone">
+						    <a class="dark-color " rel="nofollow" href="tel:+375445521197">+375 (44) 552-11-97<span>Отдел продаж</span></a>
+						</div>
+																<div class="callback_wrap">
+							<i class="svg inline  svg-inline-call" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .bccls-1 {
+        fill: #969ba4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="bccls-1" d="M14,9A7,7,0,0,0,7,2V0a9,9,0,0,1,9,9H14ZM12,9H10A3,3,0,0,0,7,6V4A5,5,0,0,1,12,9Zm2,4.053a0.507,0.507,0,0,0-.03-0.209,1.761,1.761,0,0,0-.756-0.526c-0.567-.318-1.145-0.626-1.7-0.954a2.049,2.049,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.139,2.139,0,0,1-.856-0.388A9.9,9.9,0,0,1,3.672,8.254,2.134,2.134,0,0,1,3.284,7.4c0-.537,1.8-1.421,1.8-2.026a2.045,2.045,0,0,0-.458-0.885C4.3,3.932,3.99,3.356,3.672,2.789a1.753,1.753,0,0,0-.528-0.755A0.5,0.5,0,0,0,2.935,2a4.427,4.427,0,0,0-1.384.308A2.617,2.617,0,0,0,.5,3.525,3.789,3.789,0,0,0-.011,5.373a7.646,7.646,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,9.714,16.788,16.788,0,0,0,6.28,14.483a9.3,9.3,0,0,0,1.742.825,7.672,7.672,0,0,0,2.608.685,3.8,3.8,0,0,0,1.851-.507A2.618,2.618,0,0,0,13.7,14.434,4.416,4.416,0,0,0,14,13.053Z"/>
+</svg>
+</i>							<span class="callback-block font_upper colored" data-event="jqm" data-param-id="191" data-name="callback">Заказать звонок</span>
+						</div>
+					
+				</div>
+			</div>
+			<!-- /noindex -->
+							</div>
+		</div>	
+	</div>
+</div>			<div id="mobilemenu" class="leftside">
+				<div class="mobilemenu-v1 scroller compact_menu">
+	<div class="wrap">
+							<div class="menu middle">
+	<ul>
+		<li>
+			
+			<a class="dark-color" href="/cabinet/">
+				<i class="svg inline  svg-inline-cabinet" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M13.88,16A5.616,5.616,0,0,0,3.128,16h-2.1a7.66,7.66,0,0,1,14.954,0h-2.1ZM8.5,0A4.5,4.5,0,1,1,4,4.5,4.5,4.5,0,0,1,8.5,0Zm0,2A2.5,2.5,0,1,1,6,4.5,2.5,2.5,0,0,1,8.5,2Z"/>
+</svg>
+</i>				<span>Мой кабинет</span>
+							</a>
+					</li>
+	</ul>
+</div>							
+			<div class="menu top">
+		<ul class="top">
+															<li>
+					<a class="dark-color parent" href="/product/" title="Программы 1С">
+						<span>Программы 1С</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/product/">Программы 1С</a></li>
+																															<li>
+									<a class="dark-color parent" href="/product/universalnye-produkty-1s/" title="Универсальные продукты 1С">
+										<span>Универсальные продукты 1С</span>
+																					<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+																			</a>
+																			<ul class="dropdown">
+											<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="cls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+											<li class="menu_title"><a href="/product/universalnye-produkty-1s/">Универсальные продукты 1С</a></li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/" title="1С: Бухгалтерия 8 для Беларуси">
+														<span>1С: Бухгалтерия 8 для Беларуси</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/" title="1С: Управление торговлей">
+														<span>1С: Управление торговлей</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/" title="1С: Зарплата и управление персоналом">
+														<span>1С: Зарплата и управление персоналом</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1c-upravlenie-kompaniey-dlya-belarusi/" title="1С: Управление компанией для Беларуси">
+														<span>1С: Управление компанией для Беларуси</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1s-erp-upravlenie-predpriyatiem-2-dlya-belarusi/" title="1С: ERP Управление предприятием 2 для Беларуси">
+														<span>1С: ERP Управление предприятием 2 для Беларуси</span>
+																											</a>
+																									</li>
+																					</ul>
+																	</li>
+																															<li>
+									<a class="dark-color parent" href="/product/otraslevye-resheniya/" title="Отраслевые решения">
+										<span>Отраслевые решения</span>
+																					<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+																			</a>
+																			<ul class="dropdown">
+											<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="cls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+											<li class="menu_title"><a href="/product/otraslevye-resheniya/">Отраслевые решения</a></li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/optovaya-torgovlya/" title="Оптовая торговля">
+														<span>Оптовая торговля</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/roznitsa/" title="Розница">
+														<span>Розница</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/proizvodstvo/" title="Производство">
+														<span>Производство</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/sfera-uslug/" title="Сфера услуг">
+														<span>Сфера услуг</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/sto-i-avtobiznes/" title="СТО и автобизнес">
+														<span>СТО и автобизнес</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/meditsina/" title="Медицина">
+														<span>Медицина</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/obshchepit/" title="Общепит">
+														<span>Общепит</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/transport/" title="Транспорт">
+														<span>Транспорт</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/arenda-nedvizhimosti/" title="Аренда недвижимости">
+														<span>Аренда недвижимости</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/stroitelstvo/" title="Строительство">
+														<span>Строительство</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/selskoe-khozyaystvo/" title="Сельское хозяйство">
+														<span>Сельское хозяйство</span>
+																											</a>
+																									</li>
+																					</ul>
+																	</li>
+																															<li>
+									<a class="dark-color parent" href="/product/bukhgalterskiy-uchet/" title="Бухгалтерский учет">
+										<span>Бухгалтерский учет</span>
+																					<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+																			</a>
+																			<ul class="dropdown">
+											<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="cls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+											<li class="menu_title"><a href="/product/bukhgalterskiy-uchet/">Бухгалтерский учет</a></li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/" title="1C: Бухгалтерия 8 для Беларуси">
+														<span>1C: Бухгалтерия 8 для Беларуси</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/" title="1С: Зарплата и управление персоналом">
+														<span>1С: Зарплата и управление персоналом</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/roznitsa/bukhgalterskiy-uchet-8-nastroyka-dlya-rb/" title="Бухгалтерский учет 8.Настройка для РБ">
+														<span>Бухгалтерский учет 8.Настройка для РБ</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/bukhgalterskiy-uchet/obmen-dannymi-1s-s-sistemoy-klient-bank/" title="Обмен данными «1С» с системой «Клиент-Банк»">
+														<span>Обмен данными «1С» с системой «Клиент-Банк»</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/selskoe-khozyaystvo/1s-bukhgalteriya-selskokhozyaystvennogo-predpriyatiya-dlya-belarusi/" title="1С: Бухгалтерия с/х предприятия для Беларуси">
+														<span>1С: Бухгалтерия с/х предприятия для Беларуси</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/bukhgalterskiy-uchet/" title="Полный список продуктов">
+														<span>Полный список продуктов</span>
+																											</a>
+																									</li>
+																					</ul>
+																	</li>
+																															<li>
+									<a class="dark-color parent" href="/product/operativnyy-i-upravlencheskiy-uchet/" title="Оперативный и управленческий учет">
+										<span>Оперативный и управленческий учет</span>
+																					<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+																			</a>
+																			<ul class="dropdown">
+											<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="cls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+											<li class="menu_title"><a href="/product/operativnyy-i-upravlencheskiy-uchet/">Оперативный и управленческий учет</a></li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/" title="1C: Управление торговлей">
+														<span>1C: Управление торговлей</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1c-upravlenie-kompaniey-dlya-belarusi/" title="1С: Управление компанией для Беларуси">
+														<span>1С: Управление компанией для Беларуси</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/universalnye-produkty-1s/1s-erp-upravlenie-predpriyatiem-2-dlya-belarusi/" title="1С: ERP Управление предприятием 2 для Беларуси">
+														<span>1С: ERP Управление предприятием 2 для Беларуси</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/transport/1s-predpriyatie-8-upravlenie-avtotransportom/" title="Управление автотранспортом">
+														<span>Управление автотранспортом</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/otraslevye-resheniya/roznitsa/1s-roznitsa-8-dlya-belarusi/" title="1С: Розница">
+														<span>1С: Розница</span>
+																											</a>
+																									</li>
+																																															<li>
+													<a class="dark-color" href="/product/operativnyy-i-upravlencheskiy-uchet/" title="Полный список продуктов">
+														<span>Полный список продуктов</span>
+																											</a>
+																									</li>
+																					</ul>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/services/" title="Услуги">
+						<span>Услуги</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/services/">Услуги</a></li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/arenda-1s/" title="Аренда 1С">
+										<span>Аренда 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/vnedrenie-1s/" title="Внедрение 1С">
+										<span>Внедрение 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/obuchenie-1s/" title="Обучение 1С">
+										<span>Обучение 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/dorabotki-1s/" title="Доработки 1С">
+										<span>Доработки 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/soprovozhdenie/" title="Сопровождение">
+										<span>Сопровождение</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/konsultatsii/" title="Консультации">
+										<span>Консультации</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/it-uslugi-dlya-biznesa/" title="IT-услуги для бизнеса">
+										<span>IT-услуги для бизнеса</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/razrabotka-1s/" title="Разработка 1С">
+										<span>Разработка 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/nastroyka-1s/" title="Настройка 1С">
+										<span>Настройка 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/ustanovka-1s/" title="Установка 1С">
+										<span>Установка 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/obnovlenie-1s/" title="Обновление 1С">
+										<span>Обновление 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/services/spisok-uslug/integratsiya-1s/" title="Интеграция 1С">
+										<span>Интеграция 1С</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/company/" title="О компании">
+						<span>О компании</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/company/">О компании</a></li>
+																															<li>
+									<a class="dark-color" href="/info/news/" title="Новости компании">
+										<span>Новости компании</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/partners/" title="Партнеры">
+										<span>Партнеры</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/stat-partnerom/" title="Стать партнером">
+										<span>Стать партнером</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/requisites/" title="Реквизиты">
+										<span>Реквизиты</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/staff/" title="Наша команда">
+										<span>Наша команда</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/politika-v-oblasti-kachestva/" title="Политика в области качества">
+										<span>Политика в области качества</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/vacancy/" title="Вакансии">
+										<span>Вакансии</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/nash-opyt/" title="Наш опыт">
+						<span>Наш опыт</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/nash-opyt/">Наш опыт</a></li>
+																															<li>
+									<a class="dark-color" href="/nash-opyt/klienty/" title="Клиенты">
+										<span>Клиенты</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/licenses/" title="Сертификаты">
+										<span>Сертификаты</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color parent" href="/projects/" title="Внедрения">
+										<span>Внедрения</span>
+																					<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+																			</a>
+																			<ul class="dropdown">
+											<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="cls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+											<li class="menu_title"><a href="/projects/">Внедрения</a></li>
+																																															<li>
+													<a class="dark-color" href="/projects/1s-bukhgalteriya/" title="1С: Бухгалтерия">
+														<span>1С: Бухгалтерия</span>
+																											</a>
+																									</li>
+																					</ul>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/reviews/" title="Отзывы">
+										<span>Отзывы</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color" href="/price/" title="Прайс">
+						<span>Прайс</span>
+											</a>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/info/" title="Клиентам">
+						<span>Клиентам</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/info/">Клиентам</a></li>
+																															<li>
+									<a class="dark-color" href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" title="YouTube-канал">
+										<span>YouTube-канал</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/info/news/" title="Новости">
+										<span>Новости</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/info/config/" title="Конфигурации 1С">
+										<span>Конфигурации 1С</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/info/voprosy/" title="1С инструкции">
+										<span>1С инструкции</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/info/eschf/" title="ЭСЧФ">
+										<span>ЭСЧФ</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/info/ebrr/" title="ЕБРР">
+										<span>ЕБРР</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/info/demo/" title="Демо-версия 1С online">
+										<span>Демо-версия 1С online</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color" href="/contacts/" title="Контакты">
+						<span>Контакты</span>
+											</a>
+									</li>
+					</ul>
+	</div>
+		
+
+			
+											<div class="menu middle phones">
+					<ul>
+						<li>
+							<a href="tel:+375172767767" class="dark-color parent">
+								<i class="svg inline  svg-inline-phone" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .pcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="pcls-1" d="M14,11.052a0.5,0.5,0,0,0-.03-0.209,1.758,1.758,0,0,0-.756-0.527C12.65,10,12.073,9.69,11.515,9.363a2.047,2.047,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.138,2.138,0,0,1-.856-0.388A9.894,9.894,0,0,1,3.672,6.253,2.134,2.134,0,0,1,3.283,5.4c0-.536,1.8-1.421,1.8-2.027a2.045,2.045,0,0,0-.458-0.885C4.3,1.932,3.99,1.355,3.672.789A1.755,1.755,0,0,0,3.144.034,0.5,0.5,0,0,0,2.935,0,4.427,4.427,0,0,0,1.551.312,2.62,2.62,0,0,0,.5,1.524,3.789,3.789,0,0,0-.011,3.372a7.644,7.644,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,7.714a16.783,16.783,0,0,0,4.778,4.769,9.283,9.283,0,0,0,1.742.825,7.673,7.673,0,0,0,2.608.686,3.805,3.805,0,0,0,1.851-.507,2.62,2.62,0,0,0,1.214-1.052A4.418,4.418,0,0,0,14,11.052Z"/>
+</svg>
+</i>								<span>+375 (17) 276-77-67</span>
+																	<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+															</a>
+															<ul class="dropdown">
+									<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+									<li class="menu_title">Телефоны</li>
+																													<li><a href="tel:+375172767767" class="dark-color phone">+375 (17) 276-77-67<span>Многоканальный</span></a></li>
+																													<li><a href="tel:+375445521197" class="dark-color phone">+375 (44) 552-11-97<span>Отдел продаж</span></a></li>
+																		<li><a class="dark-color" href="" rel="nofollow" data-event="jqm" data-param-id="191" data-name="callback">Заказать звонок</a></li>
+								</ul>
+													</li>
+					</ul>
+				</div>
+									<div class="contacts">
+				<div class="title"></div>
+				
+		
+												<div class="address">
+													<i class="svg inline  svg-inline-address" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Ellipse 74 copy" class="cls-1" d="M763.9,42.916h0.03L759,49h-1l-4.933-6.084h0.03a6.262,6.262,0,0,1-1.1-3.541,6.5,6.5,0,0,1,13,0A6.262,6.262,0,0,1,763.9,42.916ZM758.5,35a4.5,4.5,0,0,0-3.741,7h-0.012l3.542,4.447h0.422L762.289,42H762.24A4.5,4.5,0,0,0,758.5,35Zm0,6a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,758.5,41Z" transform="translate(-752 -33)"/>
+</svg>
+</i>												<div>
+							г.Минск, <br>
+пр-т Дзержинского 104, <br>
+11 этаж, офис 1105						</div>
+					</div>
+							
+							
+		
+												<div class="email">
+						<i class="svg inline  svg-inline-email" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="13" viewBox="0 0 16 13">
+  <defs>
+    <style>
+      .ecls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="ecls-1" d="M14,13H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H14a2,2,0,0,1,2,2v9A2,2,0,0,1,14,13ZM3.534,2L8.015,6.482,12.5,2H3.534ZM14,3.5L8.827,8.671a1.047,1.047,0,0,1-.812.3,1.047,1.047,0,0,1-.811-0.3L2,3.467V11H14V3.5Z"/>
+</svg>
+</i>						<div>
+							<a href="mailto:office@1pro.by">office@1pro.by</a>						</div>
+					</div>
+							
+						</div>
+				<div class="social-icons">
+		<!-- noindex -->
+	<ul>
+					<li class="vk">
+				<a href="https://vk.com/1proby" target="_blank" rel="nofollow" title="Вконтакте">
+					<i class="svg inline  svg-inline-vk" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M10.994,6.771v3.257a0.521,0.521,0,0,0,.426.351c0.3,0,.978-1.8,1.279-2.406a1.931,1.931,0,0,1,.738-0.826A0.61,0.61,0,0,1,13.8,6.992h2.878a0.464,0.464,0,0,1,.3.727,29.378,29.378,0,0,1-2.255,2.736,1.315,1.315,0,0,0-.238.55,1.2,1.2,0,0,0,.313.627c0.2,0.226,1.816,2,1.966,2.155a1.194,1.194,0,0,1,.276.576,0.765,0.765,0,0,1-.8.614c-0.627,0-2.167,0-2.342,0a2.788,2.788,0,0,1-.952-0.565c-0.226-.2-1.153-1.152-1.278-1.277a2.457,2.457,0,0,0,.024-0.363,0.826,0.826,0,0,0-.7.8,4.083,4.083,0,0,1-.238,1.139,1.024,1.024,0,0,1-.737.275A5,5,0,0,1,7.1,14.262,14.339,14.339,0,0,1,2.9,9.251C2.127,7.708,1.953,7.468,2,7.293s0.05-.3.226-0.3,2.39,0,2.606,0a0.851,0.851,0,0,1,.351.326c0.075,0.1.647,1.056,0.822,1.356S7.046,10.38,7.513,10.38a0.6,0.6,0,0,0,.474-0.7c0-.4,0-1.979,0-2.18a1.94,1.94,0,0,0-.978-1A1.261,1.261,0,0,1,7.937,6c0.6-.025,2.1-0.025,2.43.024A0.779,0.779,0,0,1,10.994,6.771Z"/>
+</svg>
+</i>				</a>
+			</li>
+													<li class="telegram">
+				<a href="https://web.telegram.org/#/im?p=@ProstieProgrammibot" target="_blank" rel="nofollow" title="Telegram">
+					<i class="svg inline  svg-inline-tel" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #909090;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M14.78,15.369a0.727,0.727,0,0,1-1.205.565l-3.332-2.455L8.636,15.027a0.837,0.837,0,0,1-.669.327L8.2,11.962h0l6.174-5.579c0.268-.238-0.059-0.372-0.417-0.134L6.33,11.054,3.042,10.028C2.328,9.8,2.313,9.314,3.191,8.972L16.044,4.018c0.6-.223,1.116.134,0.922,1.041Z"/>
+</svg>
+</i>				</a>
+			</li>
+							<li class="ytb">
+				<a href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" target="_blank" rel="nofollow" title="YouTube">
+					<i class="svg inline  svg-inline-yt" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M14,16H7a4,4,0,0,1-4-4V8A4,4,0,0,1,7,4h7a4,4,0,0,1,4,4v4A4,4,0,0,1,14,16Zm2-8a2,2,0,0,0-2-2H7A2,2,0,0,0,5,8v4a2,2,0,0,0,2,2h7a2,2,0,0,0,2-2V8ZM9,8l4,2L9,12V8Z"/>
+</svg>
+</i>				</a>
+			</li>
+													</ul>
+	<!-- /noindex -->
+</div>	</div>
+</div>			</div>
+		</div>
+
+		<div class="body index hover_none">
+			<div class="body_media"></div>
+
+			<div role="main" class="main banner-auto">
+				
+				<div class="container  ">
+										
+
+					
+																					<div>																				<div class="drag-block container BIG_BANNER_INDEX " data-class="BIG_BANNER_INDEX_drag" data-order="1">
+						<div class="row margin0">
+							<div class="maxwidth-theme">
+		<div class="mixed_banners padding-banner-block">
+							<div class="row">
+										<div class="big_banners_block">
+					<div class="banners-big short-banner small front view_1">
+	<div class="maxwidth-banner">
+		<div class="flexslider unstyled " data-plugin-options='{"directionNav": true, "customDirection": ".nav-carousel a", "controlNav": true, "nav" : "normal", "slideshow": true, "animation": "slide", "direction": "horizontal", "slideshowSpeed": 5000, "animationSpeed": 600, "animationLoop": true }' >
+			<ul class="slides items">
+														<li class="box item" id="bx_651765591_272" style="background-image:url('/upload/iblock/9d2/9d288bcdd1879ab2a3b18b883812dddc.jpg') !important;" data-slide_index="0" >
+												<div class="maxwidth-theme ">
+							<div class="row  ">
+																
+								
+																	<div class="col-md-6 col-sm-6 text">
+										<div class="inner">
+																																															<div class="title"><span style="color: #ffffff;">1С:Бухгалтерия</span></div>
+																		<div class="text-block">
+										<span style="color: #ffffff;">Лучшее решение для автоматизации бухгалтерского учета.</span><span style="color: #000000;"><br>
+ <span style="color: #ffffff;"> </span></span><span style="color: #ffffff;">Закажите прямо сейчас!</span>									</div>
+																																								<a href="/product/universalnye-produkty-1s/1s-bukhgalteriya-8-dlya-belarusi/?utm_source=1pro.by&utm_medium=main_banner&utm_campaign=byx-8"  class="btn btn btn-warning">
+												Узнать больше											</a>
+																															<a href="" data-event="jqm" data-param-id="187" data-name="order_from_banner" class="btn btn btn-default white">
+												Заказать											</a>
+																																													</div>
+									</div>
+									<div class="col-md-6 col-sm-6 img">
+										<div class="inner">
+																																					</div>
+									</div>
+																							</div>
+						</div>
+					</li>
+														<li class="box item" id="bx_651765591_733" style="background-image:url('/upload/iblock/3ab/3ab41a383ef32d3a78fbd7fcbf5473a4.jpg') !important;" data-slide_index="1"  data-color="light">
+												<div class="maxwidth-theme ">
+							<div class="row  ">
+																
+								
+																	<div class="col-md-6 col-sm-6 text">
+										<div class="inner">
+																																															<div class="title"><span style="color: #000000;"><b>1C: Управление торговлей</b></span><br></div>
+																		<div class="text-block">
+										<span style="color: #000000;">Автоматизируйте управление продажами, финансами, запасами и складом!</span>									</div>
+																																								<a href="/product/universalnye-produkty-1s/1c-upravlenie-torgovley/?utm_source=1pro.by&utm_medium=main_banner&utm_campaign=yt-8"  class="btn btn btn-default">
+												Подробнее											</a>
+																																																							</div>
+									</div>
+									<div class="col-md-6 col-sm-6 img">
+										<div class="inner">
+																																					</div>
+									</div>
+																							</div>
+						</div>
+					</li>
+														<li class="box item" id="bx_651765591_1026" style="background-image:url('/upload/iblock/d18/d18846c44c8826922a6b729f861eb3e3.png') !important;" data-slide_index="2" >
+												<div class="maxwidth-theme ">
+							<div class="row  ">
+																
+								
+																	<div class="col-md-6 col-sm-6 text">
+										<div class="inner">
+																																															<div class="title"><b><span style="color: #000000;">1С: Зарплата и управление персоналом</span></b></div>
+																		<div class="text-block">
+										<span style="color: #000000;">Автоматизирует все трудоемкие процессы работы&nbsp;бухгалтеров <br>
+ </span><span style="color: #000000;">по начислению заработной платы.</span>									</div>
+																																								<a href="/product/universalnye-produkty-1s/1c-zarplata-i-upravlenie-personalom/?utm_source=1pro.by&utm_medium=main_banner&utm_campaign=zyp-8"  class="btn btn-default">
+												Подробнее											</a>
+																																																							</div>
+									</div>
+									<div class="col-md-6 col-sm-6 img">
+										<div class="inner">
+																																					</div>
+									</div>
+																							</div>
+						</div>
+					</li>
+														<li class="box wurl item" id="bx_651765591_1028" style="background-image:url('/upload/iblock/283/283610bf2078bc5493f85c60e817effe.jpg') !important;" data-slide_index="3" >
+													<a class="target" href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" ></a>
+												<div class="maxwidth-theme ">
+							<div class="row  righttext">
+																
+								
+																	<div class="col-md-6 col-sm-6 img">
+										<div class="inner">
+																																					</div>
+									</div>
+									<div class="col-md-6 col-sm-6 text">
+										<div class="inner">
+																																															<a href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" class="title-link">
+											<div class="title"><span style="color: #ffffff;">YouTube-канал компании «Простые программы»</span></div>
+										</a>
+																		<div class="text-block">
+										<span style="color: #ffffff;">Не пропусти новые обучающие видео!</span>									</div>
+																																								<a href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw"  class="btn btn btn-danger">
+												Перейти на канал											</a>
+																																																							</div>
+									</div>
+																							</div>
+						</div>
+					</li>
+														<li class="box item" id="bx_651765591_1025" style="background-image:url('/upload/iblock/703/70309d83e05f117a81f7fce7eda56a5d.jpg') !important;" data-slide_index="4" >
+												<div class="maxwidth-theme ">
+							<div class="row  righttext">
+																
+								
+																	<div class="col-md-6 col-sm-6 img">
+										<div class="inner">
+																																					</div>
+									</div>
+									<div class="col-md-6 col-sm-6 text">
+										<div class="inner">
+																																															<div class="title"><b>Онлайн поддержка</b></div>
+																		<div class="text-block">
+										<span style="color: #000000;">Опытные консультанты всегда </span><br>
+ <span style="color: #000000;">на связи и готовы помочь!</span><br>									</div>
+																																								<a href="/contacts/?utm_source=1pro.by&utm_medium=main_banner&utm_campaign=contacts"  class="btn btn-default">
+												Обратиться в поддержку											</a>
+																																																							</div>
+									</div>
+																							</div>
+						</div>
+					</li>
+							</ul>
+			<div class="maxwidth-theme">
+				<div class="col-md-12">
+					<div class="nav-carousel">
+						<ul class="flex-direction-nav">
+							<li class="flex-nav-prev">
+								<a href="javascript:void(0)" class="flex-prev"><span>Prev</span></a>
+							</li>
+							<li class="flex-nav-next">
+								<a href="javascript:void(0)" class="flex-next"><span>Next</span></a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+											<div class="small_banners_block">
+								<div class="item" id="bx_651765591_286">
+		<div class="item_inner">
+										<a href="/services/spisok-uslug/arenda-1s/?utm_source=1pro.by&utm_medium=more_banner&utm_campaign=arenda" class="opacity_block1 dark_block_animate" title="Аренда"></a>
+						<div class="wrap_tizer">
+				<div class="wrapper_inner_tizer">
+					<div class="wr_block">
+						<span class="wrap_outer title">
+															<a class="outer_text" href="/services/spisok-uslug/arenda-1s/?utm_source=1pro.by&utm_medium=more_banner&utm_campaign=arenda">
+															<span class="inner_text">
+									Аренда								</span>
+															</a>
+													</span>
+					</div>
+									</div>
+			</div>
+							<div class="scale_block_animate img_block" style="background-image:url('/upload/iblock/b3f/b3f11d0139248b26ba00222a93891786.png')"></div>
+					</div>
+	</div>
+		<div class="item" id="bx_651765591_285">
+		<div class="item_inner">
+										<a href="/info/demo/?utm_source=1pro.by&utm_medium=more_banner&utm_campaign=demo" class="opacity_block1 dark_block_animate" title="Демонстрация продуктов 1С"></a>
+						<div class="wrap_tizer">
+				<div class="wrapper_inner_tizer">
+					<div class="wr_block">
+						<span class="wrap_outer title">
+															<a class="outer_text" href="/info/demo/?utm_source=1pro.by&utm_medium=more_banner&utm_campaign=demo">
+															<span class="inner_text">
+									Демонстрация продуктов 1С								</span>
+															</a>
+													</span>
+					</div>
+									</div>
+			</div>
+							<div class="scale_block_animate img_block" style="background-image:url('/upload/iblock/98b/98bb57b982e612336b2cbe3051e416cb.png')"></div>
+					</div>
+	</div>
+					</div>
+				</div>
+					</div>
+</div>						</div>
+					</div>
+																																																																																																									<div class="drag-block container TEASERS_INDEX " data-class="TEASERS_INDEX_drag" data-order="2">
+						<div class="row margin0">
+									<div class="maxwidth-theme">
+		<div class="col-md-12">
+			<div class="tizers_block2 vertical">
+				<div class="row">
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_1373509569_295" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/c0f/c0f22a37216ac3e2cc9692e9ed36dde4.png" alt="Резидент ПВТ" title="Резидент ПВТ"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Резидент ПВТ</span>
+																					<span class="desc-text">«Простые программы» являются резидентом белорусского <br>
+Парка высоких технологий.</span>
+																											</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_1373509569_293" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/c13/c132cad06292cc2945440ec44643071d.png" alt="В ТОП-5 лучших «1С Франчайзи» Беларуси" title="В ТОП-5 лучших «1С Франчайзи» Беларуси"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">В ТОП-5 лучших «1С Франчайзи» Беларуси</span>
+																					<span class="desc-text">По данным рейтинга фирмы&nbsp;«1С».</span>
+																											</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_1373509569_294" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/5be/5be78f082d7c82584beaf4b62c45b89b.png" alt="Линия консультации работает с 8.30 до 18.30" title="Линия консультации работает с 8.30 до 18.30"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Линия консультации работает с 8.30 до 18.30</span>
+																					<span class="desc-text">Самая продолжительная <br>
+в Республике Беларусь!</span>
+																											</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_1373509569_296" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/ccf/ccf4f82fef82029c080ea222248dfecc.png" alt="Суммарный опыт специалистов «1С» - более 200 лет!" title="Суммарный опыт специалистов «1С» - более 200 лет!"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Суммарный опыт специалистов «1С» - более 200 лет!</span>
+																					<span class="desc-text">В рамках внедрения, доработки и сопровождения продуктов «1С».</span>
+																											</div>
+							</div>
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+						</div>
+					</div>
+																																																																																																																																																																																																			<div class="drag-block container FLOAT_BANNERS_INDEX " data-class="FLOAT_BANNERS_INDEX_drag" data-order="4">
+						<div class="row margin0 greyline">
+								<div class="maxwidth-theme">
+		<div class="col-md-12">
+			<div class="float-banners v3 list item-views blocks">
+									<div class="title_block">
+													<a href="/services/" class="right_link_block">Все услуги</a>
+												<h3 >Выберите вашу отрасль</h3>
+					</div>
+								<div class="row items">
+					<div class="col-md-12">
+						<div class="row margin0 items flexbox nmac">
+																														<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/optovaya-torgovlya/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/584/5848104fd63f4c57d2fdb275ee9a34fe.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/optovaya-torgovlya/" class="colored">
+																										<span>Оптовая торговля</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/roznitsa/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/3fe/3fe4b3889f03c6e706e98c0adae6aae0.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/roznitsa/" class="colored">
+																										<span>Розница</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/proizvodstvo/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/e3a/e3a7ab3372ff30a16c00e5ff02797764.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/proizvodstvo/" class="colored">
+																										<span>Производство</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/sfera-uslug/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/6c9/6c91199e0aaa8a9794ffc906b3653293.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/sfera-uslug/" class="colored">
+																										<span>Сфера услуг</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/sto-i-avtobiznes/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/ac0/ac0126293ece24dfaa6503722c290373.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/sto-i-avtobiznes/" class="colored">
+																										<span>СТО и автобизнес</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/meditsina/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/cfb/cfb79f2f1c5f261bda89385ff684809b.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/meditsina/" class="colored">
+																										<span>Медицина</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/obshchepit/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/ff6/ff69dd18439369171b4c1803c37300a5.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/obshchepit/" class="colored">
+																										<span>Общепит</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/transport/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/8cd/8cd8eaaaad7cc171a1e8c051056eb8f6.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/transport/" class="colored">
+																										<span>Транспорт</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/arenda-nedvizhimosti/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/6c3/6c3d35239e2e5d49946145300996ee93.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/arenda-nedvizhimosti/" class="colored">
+																										<span>Аренда недвижимости</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/stroitelstvo/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/aab/aabe91b6e7a097f3422834f85786b57f.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/stroitelstvo/" class="colored">
+																										<span>Строительство</span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+																							<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
+									<div class="item">
+										<div class="item-inner">
+																							<div class="img">
+																											<a href="/product/otraslevye-resheniya/selskoe-khozyaystvo/" class="">
+																										<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/8de/8de2c4c85e2b5d389ecf7247d2a11d56.png');"></div>
+																											</a>
+																									</div>
+																						<div class="text-wrapper">
+												<div class="title">
+																											<a href="/product/otraslevye-resheniya/selskoe-khozyaystvo/" class="colored">
+																										<span>Сельское хозяйство </span>
+																											</a>
+																									</div>
+																																			</div>
+											<div class="clearfix"></div>
+										</div>
+									</div>
+								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+						</div>
+					</div>
+																																																																																																																<div class="drag-block container CATALOG_INDEX hidden" data-class="CATALOG_INDEX_drag" data-order="5">
+					
+				</div>
+																																																																																																																																																																																																																																																																																										<div class="drag-block container INSTAGRAMM_INDEX hidden" data-class="INSTAGRAMM_INDEX_drag" data-order="8">
+							</div>
+																																																																																																					<div class="drag-block container NEWS_INDEX " data-class="NEWS_INDEX_drag" data-order="9">
+							<div class="maxwidth-theme">
+		<div class="col-md-12">
+						<div class="news_block item-views table-elements blocks">
+									<div class="title_block">
+													<a href="/info/news/" class="right_link_block">Все новости</a>
+												<h3 >Новости</h3>
+					</div>
+								<div class="items row flexbox">
+																<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_3099439860_1911" class="item ">
+																										<div class="img image shine">
+																				<a href="/info/news/izmenenie-stoimosti-normo-chasa-01/">
+											<img src="/upload/iblock/76f/76f036a13f30c4dcca70641df85ec148.jpg" alt="Изменение стоимости нормо-часа"  />
+										</a>
+									</div>
+																									<div class="date">1 Марта 2022</div>
+																<div class="info">
+																		<a class="name dark_link" href="/info/news/izmenenie-stoimosti-normo-chasa-01/">Изменение стоимости нормо-часа</a>
+																	</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_3099439860_1796" class="item ">
+																										<div class="img image shine">
+																				<a href="/info/news/izmenenie-stoimosti-tarifnykh-planov-na-abonentskoe-obsluzhivanie/">
+											<img src="/upload/iblock/2b6/2b6b5f189ca51e082939ad226eefd7c6.jpg" alt="Изменение стоимости тарифных планов на абонентское обслуживание"  />
+										</a>
+									</div>
+																									<div class="date">1 Января 2022</div>
+																<div class="info">
+																		<a class="name dark_link" href="/info/news/izmenenie-stoimosti-tarifnykh-planov-na-abonentskoe-obsluzhivanie/">Изменение стоимости тарифных планов на абонентское обслуживание</a>
+																	</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_3099439860_1761" class="item ">
+																										<div class="img image shine">
+																				<a href="/info/news/nastroyka-vidov-raschetov-v-1s/">
+											<img src="/upload/iblock/e85/e855cb6443657a635092d4430e9860ee.jpg" alt="Настройка видов расчетов в 1С"  />
+										</a>
+									</div>
+																									<div class="date">15 Декабря 2021</div>
+																<div class="info">
+																		<a class="name dark_link" href="/info/news/nastroyka-vidov-raschetov-v-1s/">Настройка видов расчетов в 1С</a>
+																	</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6 col-xs-6">
+							<div id="bx_3099439860_1755" class="item ">
+																										<div class="img image shine">
+																				<a href="/info/news/vypusk-novogo-produkta-proizvodstvo-dlya-1s-upravlenie-torgovley/">
+											<img src="/upload/iblock/262/2625c73f3049b1d1806c0905d9a23a42.jpg" alt="Выпуск нового продукта «Производство для 1С:Управление торговлей»"  />
+										</a>
+									</div>
+																									<div class="date">13 Декабря 2021</div>
+																<div class="info">
+																		<a class="name dark_link" href="/info/news/vypusk-novogo-produkta-proizvodstvo-dlya-1s-upravlenie-torgovley/">Выпуск нового продукта «Производство для 1С:Управление торговлей»</a>
+																	</div>
+							</div>
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+					</div>
+																																																																																																																					<div class="drag-block container COMPANY_INDEX " data-class="COMPANY_INDEX_drag" data-order="10">
+						<div class="row">
+							<div class="maxwidth-theme company-front flexbox">
+															<div class="col-md-8 col-sm-12 col-xs-12">
+				<h1><span style="font-family: Tahoma, Geneva; color: #000000;">Продажа «1С», внедрение, настройка, сопровождение</span></h1>
+ <span style="color: #000000; font-family: Tahoma, Geneva;">
+У нас Вы можете заказать&nbsp;</span><span style="font-family: Tahoma, Geneva;"><span style="color: #000000; font-family: Tahoma, Geneva;">«1С» по выгодным ценам с бесплатной доставкой и установкой. На нашем официальном сайте представлены только лицензионные программы «1С». Вы можете приобрести и внедрить «1С:Предприятие 8» для различных отраслей, форм собственности и масштабов бизнеса.</span><br>
+ <span style="color: #000000; font-family: Tahoma, Geneva;"> </span></span><span style="color: #000000; font-family: Tahoma, Geneva;"> </span>
+<h2><span style="font-family: Tahoma, Geneva; color: #000000;">О компании</span></h2>
+ <span style="color: #000000; font-family: Tahoma, Geneva;"> </span><span style="font-family: Tahoma, Geneva; color: #000000;"> </span><span style="color: #000000; font-family: Tahoma, Geneva;"> </span>
+<p>
+ <span style="color: #000000; font-family: Tahoma, Geneva;"> </span><span style="font-family: Tahoma, Geneva; color: #000000;"> </span><span style="color: #000000; font-family: Tahoma, Geneva;">Компания «Простые Программы» - официальный 1С Франчайзи в Республике Беларусь, более 10 лет предоставляет полный спектр услуг по автоматизации предприятий на базе программ 1С.&nbsp;</span><span style="color: #000000; font-family: Tahoma, Geneva;">В ее состав вошли сертифицированные специалисты с опытом работы в сфере 1С с 2002 года. Мы предлагаем своим партнерам передовые технологические платформы и, разработанные на их основе, эффективные прикладные решения, настройку программ 1С, обучение пользователей, разработку и внедрение. Более 500 клиентов ежегодно доверяют автоматизацию бухгалтерского и управленческого учета именно нашей компании.</span><span style="font-family: Tahoma, Geneva; color: #000000;"> </span><span style="color: #000000; font-family: Tahoma, Geneva;"> </span>
+</p>
+ <span style="color: #000000; font-family: Tahoma, Geneva;"> </span><span style="font-family: Tahoma, Geneva; color: #000000;"> </span><span style="color: #000000; font-family: Tahoma, Geneva;"> </span>
+<p>
+ <span style="color: #000000; font-family: Tahoma, Geneva;"> </span><span style="font-family: Tahoma, Geneva; color: #000000;"> </span><span style="color: #000000; font-family: Tahoma, Geneva;">На протяжении многих лет ООО «Простые программы»&nbsp;входит в тройку лидеров в различных </span><b><span style="color: #000000; font-family: Tahoma, Geneva;">рейтингах фирмы «1С».</span></b>
+</p>
+<p>
+ <a class="btn btn-default btn-lg wc" href="/company/"> <i class="fa fa-angle-right"></i>
+<span>Подробнее</span>
+</a>
+</p>
+	<div class="row profit-front-block">
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/556/5564a88e6b81c9af88324c3a4750af16.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="500">0</span></div>
+											</div>
+					<div class="title">выполненных проектов ежегодно</div>
+				</div>
+			</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/5d2/5d24ccf34c6f681dfb8ac3fdee028575.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value">+<span class=spincrement data-value="7">0</span></div>
+											</div>
+					<div class="title">новых сотрудников</div>
+				</div>
+			</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/b5b/b5bc41cb0c368ad464762d4261eec3ec.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="10">0</span></div>
+											</div>
+					<div class="title">лет работы на рынке</div>
+				</div>
+			</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/f8a/f8aba9098822d537391ef69fa9760f0f.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="146">0</span>%</div>
+											</div>
+					<div class="title">увеличение оборота за год</div>
+				</div>
+			</div>
+			</div>
+			</div>
+			<div class="col-md-4 hidden-xs hidden-sm">
+				<img width="329" alt="company1.png" src="/upload/medialibrary/a59/a596474df9c8f0557cd1e17d3bf219f5.png" height="512" title="company1.png">			</div>
+													</div>
+						</div>
+					</div>
+																																																																																																																																																																																																																																																																																												</div>									</div>
+
+							</div>		</div>		
+		
+<div class="slider-cont">
+	<div class="nav_slider">
+		<div class="custom-arrow-left"></div>
+		<div class="custom-arrow-right"></div>
+	</div>
+
+<div class="slider_list">
+
+		<div class="slider-item" id="bx_565502798_837">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/565/565d347140f74bedee5acb6c3268263f.jpeg"
+						alt="china"
+						title="china"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_836">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/f11/f11be4f675930476af263f53861553ce.png"
+						alt="цхс"
+						title="цхс"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_835">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/fde/fde3feea5a40875145f51495232e2dab.jpg"
+						alt="Васильки"
+						title="Васильки"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_834">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/570/5701521c8c0c316cbf92d97a567c456c.jpg"
+						alt="Толока"
+						title="Толока"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_833">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/0ef/0ef3a60fb80a082ccf8b27f16a18b9d2.gif"
+						alt="аптека-групп"
+						title="аптека-групп"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_832">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/bce/bce9a117afac8525e3e23497e34fb252.png"
+						alt="Ялина"
+						title="Ялина"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_831">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/3f3/3f396f052d4996d7ebc6c267b3680120.jpg"
+						alt="хк2"
+						title="хк2"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_830">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/83d/83d9ab0586b60b5d251f9a1875cf6116.png"
+						alt="Онега"
+						title="Онега"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_829">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/b2b/b2b494228b51675762e6bd850eab63a6.png"
+						alt="Витебское молоко"
+						title="Витебское молоко"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_828">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/1e7/1e7ffabb1f9ae39e49e3947cfa4bf0c7.png"
+						alt="Leor"
+						title="Leor"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_827">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/56e/56ee9c6761b39f0a262d26a6fd105d20.jpg"
+						alt="zeppelin"
+						title="zeppelin"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_826">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/1a5/1a51305764d965e4caa31c6fb422f3a4.jpg"
+						alt="Пицца темпо"
+						title="Пицца темпо"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_825">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/ea4/ea450d2a03749fc254f657d661d9092b.png"
+						alt="Знак"
+						title="Знак"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_824">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/690/69003f7501f61750c18d635069498a21.png"
+						alt="Меллиса"
+						title="Меллиса"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_823">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/76e/76e369085a8e5ba65a171b96eaf2f470.png"
+						alt="белстранс"
+						title="белстранс"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_822">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/21a/21a184460eeddc4ed7e5b6b342ffec22.jpg"
+						alt="ФПБ"
+						title="ФПБ"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_821">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/f36/f36b69297b75b391c5c2642dfacdb01e.gif"
+						alt="белтелеком"
+						title="белтелеком"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_820">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/648/64863f5ebdb9adc102143de119f04f3e.gif"
+						alt="nhc"
+						title="nhc"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_819">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/3f4/3f40239d3b4f9a4bbe110619427fa8d2.png"
+						alt="ABC"
+						title="ABC"
+						/>
+							
+	</div>
+		<div class="slider-item" id="bx_565502798_818">
+									<img
+						class="preview_picture"
+						src="/upload/iblock/350/350bb2e2a93cad8a3cc35fd81e02b4d2.jpg"
+						alt="Холодон"
+						title="Холодон"
+						/>
+							
+	</div>
+
+</div>
+
+</div>
+
+<footer id="footer" class="ext_view">
+
+	<div class="container">
+		<div class="row bottom-middle">
+			<div class="maxwidth-theme">
+				<div class="col-md-7">
+					<div class="row">
+						<div class="col-md-4 col-sm-4">
+										<div class="bottom-menu">
+		<div class="items">
+
+						
+														<div class="item-link accordion-close item-link" data-parent="#bottom1" data-target="#bottom1">
+						<div class="item ">
+							<div class="title">
+																	<a href="/company/">Компания</a>
+															</div>
+						</div>
+
+													<span><i class="fa fa-angle-down"></i></span>
+											</div>
+																																		<div id="bottom1" class="wrap panel-collapse wrap_compact_mobile">
+																	<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/info/news/">Новости компании</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/partners/">Партнеры</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/stat-partnerom/">Стать партнером</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/requisites/">Реквизиты</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/staff/">Наша команда</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/politika-v-oblasti-kachestva/">Политика в области качества</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/vacancy/">Вакансии</a>
+																	</div>
+							</div>
+						</div>
+
+																	</div>
+									
+											</div>
+	</div>
+						</div>
+						<div class="col-md-4 col-sm-4">
+										<div class="bottom-menu">
+		<div class="items">
+
+						
+														<div class="item-link accordion-close item-link" data-parent="#bottom3" data-target="#bottom3">
+						<div class="item ">
+							<div class="title">
+																	<a href="/services/">Услуги</a>
+															</div>
+						</div>
+
+													<span><i class="fa fa-angle-down"></i></span>
+											</div>
+																																		<div id="bottom3" class="wrap panel-collapse wrap_compact_mobile">
+																	<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/arenda-1s/">Аренда 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/vnedrenie-1s/">Внедрение 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/obuchenie-1s/">Обучение 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/dorabotki-1s/">Доработки 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/soprovozhdenie/">Сопровождение</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/konsultatsii/">Консультации</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/it-uslugi-dlya-biznesa/">IT-услуги для бизнеса</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/razrabotka-1s/">Разработка 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/nastroyka-1s/">Настройка 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/ustanovka-1s/">Установка 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/obnovlenie-1s/">Обновление 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																																<div class="item-link item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/services/spisok-uslug/integratsiya-1s/">Интеграция 1С</a>
+																	</div>
+							</div>
+						</div>
+
+																	</div>
+									
+											</div>
+	</div>
+						</div>
+						<div class="col-md-4 col-sm-4">
+										<div class="bottom-menu">
+		<div class="items">
+
+						
+														<div class="item-link accordion-close item-link" data-parent="#bottom4" data-target="#bottom4">
+						<div class="item ">
+							<div class="title">
+																	<a href="/contacts/">Контакты</a>
+															</div>
+						</div>
+
+													<span><i class="fa fa-angle-down"></i></span>
+											</div>
+																	
+									<div id="bottom4" class="wrap panel-collapse wrap_compact_mobile">
+														<div class="item-link accordion-close item-link" data-parent="#bottom4" data-target="#bottom4">
+						<div class="item ">
+							<div class="title">
+																	<a href="/price/">Прайс-лист</a>
+															</div>
+						</div>
+
+											</div>
+																	
+														<div class="item-link accordion-close item-link" data-parent="#bottom4" data-target="#bottom4">
+						<div class="item ">
+							<div class="title">
+																	<a href="/info/voprosy/">Вопрос-ответ</a>
+															</div>
+						</div>
+
+											</div>
+									</div>
+																			</div>
+	</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-5">
+					<div class="row">
+						<div class="col-lg-6 col-md-12 col-sm-6">
+							<div class="soc-block">
+								<!--'start_frame_cache_footer-subscribe'-->																	<!--'end_frame_cache_footer-subscribe'-->								<div class="social-block rounded_block">
+									<div class="social-icons">
+			<div class="small_title">Оставайтесь на связи</div>
+		<!-- noindex -->
+	<ul>
+					<li class="vk">
+				<a href="https://vk.com/1proby" target="_blank" rel="nofollow" title="Вконтакте">
+					<i class="svg inline  svg-inline-vk" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M10.994,6.771v3.257a0.521,0.521,0,0,0,.426.351c0.3,0,.978-1.8,1.279-2.406a1.931,1.931,0,0,1,.738-0.826A0.61,0.61,0,0,1,13.8,6.992h2.878a0.464,0.464,0,0,1,.3.727,29.378,29.378,0,0,1-2.255,2.736,1.315,1.315,0,0,0-.238.55,1.2,1.2,0,0,0,.313.627c0.2,0.226,1.816,2,1.966,2.155a1.194,1.194,0,0,1,.276.576,0.765,0.765,0,0,1-.8.614c-0.627,0-2.167,0-2.342,0a2.788,2.788,0,0,1-.952-0.565c-0.226-.2-1.153-1.152-1.278-1.277a2.457,2.457,0,0,0,.024-0.363,0.826,0.826,0,0,0-.7.8,4.083,4.083,0,0,1-.238,1.139,1.024,1.024,0,0,1-.737.275A5,5,0,0,1,7.1,14.262,14.339,14.339,0,0,1,2.9,9.251C2.127,7.708,1.953,7.468,2,7.293s0.05-.3.226-0.3,2.39,0,2.606,0a0.851,0.851,0,0,1,.351.326c0.075,0.1.647,1.056,0.822,1.356S7.046,10.38,7.513,10.38a0.6,0.6,0,0,0,.474-0.7c0-.4,0-1.979,0-2.18a1.94,1.94,0,0,0-.978-1A1.261,1.261,0,0,1,7.937,6c0.6-.025,2.1-0.025,2.43.024A0.779,0.779,0,0,1,10.994,6.771Z"/>
+</svg>
+</i>				</a>
+			</li>
+													<li class="telegram">
+				<a href="https://web.telegram.org/#/im?p=@ProstieProgrammibot" target="_blank" rel="nofollow" title="Telegram">
+					<i class="svg inline  svg-inline-tel" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #909090;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M14.78,15.369a0.727,0.727,0,0,1-1.205.565l-3.332-2.455L8.636,15.027a0.837,0.837,0,0,1-.669.327L8.2,11.962h0l6.174-5.579c0.268-.238-0.059-0.372-0.417-0.134L6.33,11.054,3.042,10.028C2.328,9.8,2.313,9.314,3.191,8.972L16.044,4.018c0.6-.223,1.116.134,0.922,1.041Z"/>
+</svg>
+</i>				</a>
+			</li>
+							<li class="ytb">
+				<a href="https://www.youtube.com/channel/UClRi0YJbtdRLuktiAYbeICw" target="_blank" rel="nofollow" title="YouTube">
+					<i class="svg inline  svg-inline-yt" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M14,16H7a4,4,0,0,1-4-4V8A4,4,0,0,1,7,4h7a4,4,0,0,1,4,4v4A4,4,0,0,1,14,16Zm2-8a2,2,0,0,0-2-2H7A2,2,0,0,0,5,8v4a2,2,0,0,0,2,2h7a2,2,0,0,0,2-2V8ZM9,8l4,2L9,12V8Z"/>
+</svg>
+</i>				</a>
+			</li>
+													</ul>
+	<!-- /noindex -->
+</div>								</div>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-12 col-sm-4 col-sm-offset-2">
+															<span class="white_middle_text">Наши контакты<br>
+<br>
+</span>								<div class="info">
+									<div class="row">
+																															<div class="col-md-12">
+												<div class="blocks phones">
+															
+								<div class="phone with_dropdown">
+								<i class="svg inline  svg-inline-phone colored" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .pcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="pcls-1" d="M14,11.052a0.5,0.5,0,0,0-.03-0.209,1.758,1.758,0,0,0-.756-0.527C12.65,10,12.073,9.69,11.515,9.363a2.047,2.047,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.138,2.138,0,0,1-.856-0.388A9.894,9.894,0,0,1,3.672,6.253,2.134,2.134,0,0,1,3.283,5.4c0-.536,1.8-1.421,1.8-2.027a2.045,2.045,0,0,0-.458-0.885C4.3,1.932,3.99,1.355,3.672.789A1.755,1.755,0,0,0,3.144.034,0.5,0.5,0,0,0,2.935,0,4.427,4.427,0,0,0,1.551.312,2.62,2.62,0,0,0,.5,1.524,3.789,3.789,0,0,0-.011,3.372a7.644,7.644,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,7.714a16.783,16.783,0,0,0,4.778,4.769,9.283,9.283,0,0,0,1.742.825,7.673,7.673,0,0,0,2.608.686,3.805,3.805,0,0,0,1.851-.507,2.62,2.62,0,0,0,1.214-1.052A4.418,4.418,0,0,0,14,11.052Z"/>
+</svg>
+</i>
+				<a href="tel:+375172767767">+375 (17) 276-77-67</a>
+									<div class="dropdown">
+						<div class="wrap">
+																							<div class="more_phone">
+									<a  rel="nofollow" href="tel:+375445521197">+375 (44) 552-11-97<span>Отдел продаж</span></a>
+								</div>
+													</div>
+					</div>
+					<svg xmlns="http://www.w3.org/2000/svg" width="5" height="2.844" viewBox="0 0 5 2.844">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M5,0.332l-2.5,2.5L0,0.332V0H5V0.332Z"/>
+</svg>
+							</div>
+																										<div class=" schedule">
+									Пн. – Пт.: с 8:30 до 18:30							</div>
+																		</div>
+											</div>
+																																									<div class="col-md-12">
+												
+		
+												<div class="address blocks">
+													<i class="svg inline  svg-inline-address" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Ellipse 74 copy" class="cls-1" d="M763.9,42.916h0.03L759,49h-1l-4.933-6.084h0.03a6.262,6.262,0,0,1-1.1-3.541,6.5,6.5,0,0,1,13,0A6.262,6.262,0,0,1,763.9,42.916ZM758.5,35a4.5,4.5,0,0,0-3.741,7h-0.012l3.542,4.447h0.422L762.289,42H762.24A4.5,4.5,0,0,0,758.5,35Zm0,6a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,758.5,41Z" transform="translate(-752 -33)"/>
+</svg>
+</i>												<div>
+							г.Минск, <br>
+пр-т Дзержинского 104, <br>
+11 этаж, офис 1105						</div>
+					</div>
+							
+														</div>
+																																									<div class="col-md-12">
+												
+		
+												<div class="email blocks">
+						<i class="svg inline  svg-inline-email" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="13" viewBox="0 0 16 13">
+  <defs>
+    <style>
+      .ecls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="ecls-1" d="M14,13H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H14a2,2,0,0,1,2,2v9A2,2,0,0,1,14,13ZM3.534,2L8.015,6.482,12.5,2H3.534ZM14,3.5L8.827,8.671a1.047,1.047,0,0,1-.812.3,1.047,1.047,0,0,1-.811-0.3L2,3.467V11H14V3.5Z"/>
+</svg>
+</i>						<div>
+							<a href="mailto:office@1pro.by">office@1pro.by</a>						</div>
+					</div>
+							
+														</div>
+																			</div>
+								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row bottom-under">
+			<div class="maxwidth-theme">
+				<div class="col-md-12 outer-wrapper">
+					<div class="inner-wrapper">
+						<div class="copy-block">
+							<div class="copy">
+								&copy; 2022 ООО «Простые программы»							</div>
+							<div class="print-block"></div>
+							<div id="bx-composite-banner" class="pull-right"></div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>		<div class="bx_areas">
+					</div>
+				
+
+	<div class="inline-search-block fixed with-close big">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="search-wrapper">
+					<div id="title-search">
+						<form action="/search/" class="search">
+							<div class="search-input-div">
+								<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Найти" size="40" maxlength="50" autocomplete="off" />
+							</div>
+							<div class="search-button-div">
+								<button class="btn btn-search btn-default bold btn-lg" type="submit" name="s" value="Найти">Найти</button>
+								<span class="close-block inline-search-hide"><span class="svg svg-close close-icons"></span></span>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<script>
+	var jsControl = new JCTitleSearch2({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/',
+		'CONTAINER_ID': 'title-search',
+		'INPUT_ID': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script>				<!-- noindex -->
+	<div class="ajax_basket">
+					<div class="fixed_wrapper">
+								<div class="right_dok">
+									<span class="link" title="Заказать звонок">
+						<span class="animate-load" data-event="jqm" data-param-id="191" data-name="callback"><i class="svg inline  svg-inline-call" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .bccls-1 {
+        fill: #969ba4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="bccls-1" d="M14,9A7,7,0,0,0,7,2V0a9,9,0,0,1,9,9H14ZM12,9H10A3,3,0,0,0,7,6V4A5,5,0,0,1,12,9Zm2,4.053a0.507,0.507,0,0,0-.03-0.209,1.761,1.761,0,0,0-.756-0.526c-0.567-.318-1.145-0.626-1.7-0.954a2.049,2.049,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.139,2.139,0,0,1-.856-0.388A9.9,9.9,0,0,1,3.672,8.254,2.134,2.134,0,0,1,3.284,7.4c0-.537,1.8-1.421,1.8-2.026a2.045,2.045,0,0,0-.458-0.885C4.3,3.932,3.99,3.356,3.672,2.789a1.753,1.753,0,0,0-.528-0.755A0.5,0.5,0,0,0,2.935,2a4.427,4.427,0,0,0-1.384.308A2.617,2.617,0,0,0,.5,3.525,3.789,3.789,0,0,0-.011,5.373a7.646,7.646,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,9.714,16.788,16.788,0,0,0,6.28,14.483a9.3,9.3,0,0,0,1.742.825,7.672,7.672,0,0,0,2.608.685,3.8,3.8,0,0,0,1.851-.507A2.618,2.618,0,0,0,13.7,14.434,4.416,4.416,0,0,0,14,13.053Z"/>
+</svg>
+</i></span>
+					</span>
+								<span class="link" title="Задать вопрос">
+					<span class="animate-load" data-event="jqm" data-param-id="190" data-name="question"><i class="svg inline  svg-inline-ask" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="14" viewBox="0 0 18 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="ask" class="cls-1" d="M1898,414h-14a2,2,0,0,1-2-2V402a2,2,0,0,1,1.95-2,1.025,1.025,0,0,1,.22,0h13.69a1,1,0,0,1,.25.011A2,2,0,0,1,1900,402v10A2,2,0,0,1,1898,414Zm-11.47-12,4.49,4.482L1895.5,402h-8.97Zm11.47,0.5-6.17,6.173a1.26,1.26,0,0,1-1.63,0l-6.2-6.2V412h14v-9.5Z" transform="translate(-1882 -400)"/>
+</svg>
+</i></span>
+				</span>
+			</div>
+					</div>
+		</div>
+	<!-- /noindex -->
+		
+<script src="//code.jivosite.com/widget/P2QKoaLQJj" async></script>
+
+<!-- Yandex.Metrika counter -->
+<script >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(33272919, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        trackHash:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33272919" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147222221-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-147222221-1');
+</script>
+
+	</body>
+</html>

@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="ru-ru">
+  <head>
+	<meta name="generator" content="Hugo 0.85.0" />
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<link rel="stylesheet" href="https://systems-it.rucss/fontawesome.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/keen-slider@latest/keen-slider.min.css" />
+
+</script>
+    <title>Разработка программ. Разработка приложений. Проектирование и разработка софта.</title>
+    
+<link rel="icon" type="image/png" href="https://systems-it.ru/images/favicon.png" />
+<link rel="preload" as="font" type="font/woff2" href="/fonts/open-sans/open-sans-v17-latin-ext_cyrillic_latin_cyrillic-ext-regular.woff2"  crossorigin>
+<link rel="stylesheet" type="text/css" href="/css/style.min.a9b2c948c3f68b81bc5fa0a02b2794d95a7f54a517efc502490b4d5575b4a2fb.css" integrity="sha256-qbLJSMP2i4G8X6CgKyeU2Vp/VKUX78UCSQtNVXW0ovs=">
+<link rel="stylesheet" type="text/css" href="https://systems-it.ru/css/icons.css">
+
+  </head>
+  <body>
+    
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+
+    
+
+    
+    <section class="hero is-fullheight is-default is-bold">
+  
+
+<nav class="navbar is-fresh is-transparent no-shadow" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="/images/logos/devgun_logo.svg" alt="" width="112" height="28">
+        <p class="subtitle is-5">8 (928) 210-10-99</p>
+      </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+      <div id="navbar-menu" class="navbar-menu is-static">
+
+        <div class="navbar-end">
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+              Услуги
+            </a>
+
+            <div class="navbar-dropdown">
+              <a href="/mobile-development" class="navbar-item">
+                Моибильная разработка
+              </a>
+              <a href="/" class="navbar-item">
+                Приложения для Windows
+              </a>
+              <a href="/web-services" class="navbar-item">
+                Разработка Web приложений
+              </a>
+              <a href="/" class="navbar-item">
+                Сервисы Linux
+              </a>
+              <a href="/" class="navbar-item">
+                Сервисы интеграции
+              </a>
+            </div>
+          </div>
+          <a href="/" class="navbar-item is-secondary">
+            Блог
+          </a>
+          <a href="/projects" class="navbar-item is-secondary">
+            Проекты
+          </a>
+          <a href="/contacts" class="navbar-item is-secondary">
+            Контакты
+          </a>
+        </div>
+      </div>
+  </div>
+</nav>
+
+  
+
+<nav id="navbar-clone" class="navbar is-fresh is-transparent" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img src="/images/logos/devgun_logo.svg" alt="" width="112" height="28">
+      </a>
+
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="cloned-navbar-menu">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="cloned-navbar-menu" class="navbar-menu is-fixed">
+
+      <div class="navbar-end">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            Услуги
+          </a>
+
+          <div class="navbar-dropdown">
+            <a href="/mobile-development" class="navbar-item">
+              Моибильная разработка
+            </a>
+            <a href="/" class="navbar-item">
+              Приложения для Windows
+            </a>
+            <a href="/web-services" class="navbar-item">
+              Разработка Web приложений
+            </a>
+            <a href="/" class="navbar-item">
+              Сервисы Linux
+            </a>
+            <a href="/" class="navbar-item">
+              Сервисы интеграции
+            </a>
+          </div>
+        </div>
+        <a href="/" class="navbar-item is-secondary">
+          Блог
+        </a>
+        <a href="/projects" class="navbar-item is-secondary">
+          Проекты
+        </a>
+        <a href="/contacts" class="navbar-item is-secondary">
+          Контакты
+        </a>
+      </div>
+    </div>
+</div>
+</nav>
+
+  
+<div class="hero-body">
+  <div class="container">
+    <div class="columns is-vcentered">
+      <div class="column is-5 is-offset-1 landing-caption">
+        <h1 class="title is-1 is-bold is-spaced">
+          Разработка программ
+        </h1>
+        
+        <h2 class="subtitle is-5 is-muted">
+          Проектирование и разработка программного обеспечения и сервисов
+        </h2>
+        
+        <p>
+          <a class="button cta rounded primary-btn raised" href="/dev-software">
+            Подробнее
+          </a>
+        </p>
+      </div>
+      <div class="column is-5 is-offset-1">
+        <figure class="image is-4by3">
+          <img src="/images/illustrations/programmer.gif" alt="Description">
+        </figure>
+      </div>
+    </div>
+  </div>
+</div>
+  
+<div class="hero-foot mb-20">
+  <div class="container">
+    <div class="tabs is-centered">
+      <ul>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/go-logo-blue.svg">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/react.svg">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/vue.svg">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/docker.svg">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/gitlab.svg">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/dot-net.svg">
+          </a>
+        </li>
+        <li>
+          <a>
+            <img class="partner-logo" src="/images/logos/clients/1c.svg">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+  
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(13740775, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/13740775" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HR4VWVY5B3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HR4VWVY5B3');
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-201625705-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-201625705-1');
+</script>
+</section>
+    
+
+    
+    
+<section class="section section-feature-grey is-medium">
+  <div class="container">
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2">Основные направления</h2>
+      <h3 class="subtitle is-5 is-muted">разработки программного обеспечения</h3>
+      <div class="divider is-centered"></div>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="columns">
+        <div class="column is-one-third">
+          <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
+            <div class="card-title">
+              <h4>Разработка</h4>
+            </div>
+            <div class="card-icon">
+                <img src="/images/illustrations/icons/apps.svg">
+            </div>
+            <div class="card-text">
+                <p>Разработка настольных приложений</p>
+            </div>
+            <div class="card-action">
+              <a href="/dev-software" class="button btn-align-md accent-btn raised">Подробнее</a>
+            </div>
+          </div>
+        </div>
+        <div class="column is-one-third">
+          <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
+            <div class="card-title">
+              <h4>Интеграция</h4>
+            </div>
+            <div class="card-icon">
+                <img src="/images/illustrations/icons/software-development.svg">
+            </div>
+            <div class="card-text">
+                <p>Интеграция программных решений</p>
+            </div>
+            <div class="card-action">
+              <a href="/" class="button btn-align-md accent-btn raised">Подробнее</a>
+            </div>
+          </div>
+        </div>
+        <div class="column is-one-third">
+          <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
+            <div class="card-title">
+              <h4>Веб сервисы</h4>
+            </div>
+            <div class="card-icon">
+                <img src="/images/illustrations/icons/mouse-globe.svg">
+            </div>
+            <div class="card-text">
+                <p>Разработка веб сервисов и веб приложений</p>
+            </div>
+            <div class="card-action">
+              <a href="/web-services" class="button btn-align-md accent-btn raised">Подробнее</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    
+
+    
+    
+<section class="section is-medium">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-centered-tablet-portrait">
+        <h1 class="title section-title">Мы так же разрабатываем</h1>
+        <h3 class="subtitle is-5 is-muted">...и делаем это качественно</h3>
+        <div class="divider"></div>
+      </div>
+      <div class="column is-7 mt-60">
+        <article class="media icon-box">
+          <figure class="media-left">
+            <p class="image">
+              <img src="/images/illustrations/icons/laptop-globe.svg">
+            </p>
+          </figure>
+          <div class="media-content mt-50">
+            <div class="content">
+              <p>
+                <span class="icon-box-title">Приложения под любые задачи</span>
+
+                <span class="icon-box-text">Выполняем разработку приложений любой сложности и специфики с использованием современных иструментов и технологий.</span>
+              </p>
+            </div>
+          </div>
+        </article>
+        <article class="media icon-box">
+          <figure class="media-left">
+            <p class="image">
+              <img src="/images/illustrations/icons/doc-sync.svg">
+            </p>
+          </figure>
+          <div class="media-content mt-50">
+            <div class="content">
+              <p>
+                <span class="icon-box-title">Кросс-платформенные решения</span>
+
+                <span class="icon-box-text">Наши приложения способны работать на любых системах (Linux, Mac, Windows), с любыми экранами. Разрабатываемые приложения полностью адаптируются под любые платформы.</span>
+              </p>
+            </div>
+          </div>
+        </article>
+        <article class="media icon-box">
+          <figure class="media-left">
+            <p class="image">
+              <img src="/images/illustrations/icons/mobile-feed.svg">
+            </p>
+          </figure>
+          <div class="media-content mt-50">
+            <div class="content">
+              <p>
+                <span class="icon-box-title">Мобильные приложения</span>
+
+                <span class="icon-box-text">В рамках проекта, требующего использование мобильных устройств, мы выполняем разработку мобильных приложений под Android</span>
+              </p>
+            </div>
+          </div>
+        </article>
+        <article class="media icon-box">
+          <figure class="media-left">
+            <p class="image">
+              <img src="/images/illustrations/icons/laptop-globe.svg">
+            </p>
+          </figure>
+          <div class="media-content mt-50">
+            <div class="content">
+              <p>
+                <span class="icon-box-title">Проектирование архитектуры</span>
+
+                <span class="icon-box-text">У Вас есть концепция идеи, но вы не можете её до конца сформулировать - мы поможем Вам выбрать решение и спроектироваеть его архитектуру.</span>
+              </p>
+            </div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+    
+
+    
+
+    
+    
+<section class="section is-medium section-secondary">
+  <div class="container">
+
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2 light-text is-spaced">Выполненные проекты</h2>
+    </div>
+
+    <div class="content-wrapper">
+      <div class="columns is-vcentered">
+        <div class="column is-4">
+          <figure class="testimonial">
+            <blockquote>
+              Интеграция медицинского оборудования по протоколу DICOM с PACS сервером для хранения данных медицинских исследований в едином архиве.
+            </blockquote>
+            <div class="author">
+              <img src="/images/illustrations/faces/.png" alt=""/>
+              <h5>PACS</h5>
+              <span></span>
+            </div>
+          </figure>
+        </div>
+        <div class="column is-4">
+          <figure class="testimonial">
+            <blockquote>
+              Интеграция медицинской системы с внешней лабораторией CitiLab с целью обмена данными исследований и автоматического получения результатов
+            </blockquote>
+            <div class="author">
+              <img src="/images/illustrations/faces/.png" alt=""/>
+              <h5>CitiLab</h5>
+              <span></span>
+            </div>
+          </figure>
+        </div>
+        <div class="column is-4">
+          <figure class="testimonial">
+            <blockquote>
+              Разработка и внедрение логистической системы управления двором YMS с целью контроля транспорта на территори производственного предприятия
+            </blockquote>
+            <div class="author">
+              <img src="/images/illustrations/faces/.png" alt=""/>
+              <h5>YMS</h5>
+              <span></span>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    
+
+    
+
+    
+    
+<footer class="footer footer-dark">
+  <div class="container">
+    <div class="columns">
+      <div class="column">
+        <div class="footer-logo">
+          <img src="/images/logos/logo_w.svg">
+          <p class="title has-text-white-ter is-spaced ">8 (928) 210-10-99</p>
+         <a class="subtitle is-5 has-text-white-ter" href="mailto:info@devgun.ru"><i class="fa fa-envelope"></i>  info@devgun.ru</a> <br><br>
+        </div>
+      </div>
+        <div class="column">
+          <div class="footer-column">
+            <div class="footer-header">
+                <h3>Информация</h3>
+            </div>
+            <ul class="link-list">
+              <li>
+                <a href="/contacts">
+                  Контакты
+                </a>
+              </li>
+              <li>
+                <a href="/">
+                  Проекты
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      <div class="column">
+        <div class="footer-column">
+          <div class="footer-header">
+            <h3>Публикации</h3>
+            <nav class="level is-mobile">
+              <div class="level-left">
+                <a class="level-item" href="https://github.com/zebox">
+                  <span class="icon"><i class="fa fa-github"></i></span>
+                </a>
+                <a class="level-item" href="https://facebook.com/yuriy.kovalev.58">
+                  <span class="icon"><i class="fa fa-facebook"></i></span>
+                </a>
+              </div>
+            </nav>
+            <a href="https://bulma.io" target="_blank">
+              <img src="/images/logos/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(13740775, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/13740775" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HR4VWVY5B3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HR4VWVY5B3');
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-201625705-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-201625705-1');
+</script>
+    
+
+    
+    <div id="backtotop"><a href="#"></a></div>
+
+    
+
+    
+
+    <script src="https://systems-it.ru/js/jquery.min.js"></script>
+<script src="https://unpkg.com/feather-icons"></script>
+<script src="https://systems-it.ru/js/fresh.js"></script>
+<script src="https://systems-it.ru/js/jquery.panelslider.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+  </body>
+</html>

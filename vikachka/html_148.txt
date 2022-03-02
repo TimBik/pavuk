@@ -1,0 +1,1663 @@
+<!doctype html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://init.kz/kz/home/" hreflang="kk" />
+<link rel="alternate" href="https://init.kz/" hreflang="ru" />
+<link rel="alternate" href="https://init.kz/en/home/" hreflang="en" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/init/img/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/init/img/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/init/img/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/wp-content/themes/init/img/favicon/site.webmanifest">
+	<link rel="mask-icon" href="/wp-content/themes/init/img/favicon/safari-pinned-tab.svg" color="#ff0000">
+	<meta name="apple-mobile-web-app-title" content="init">
+	<meta name="application-name" content="init">
+	<meta name="msapplication-TileColor" content="#b91d47">
+	<meta name="msapplication-TileImage" content="/wp-content/themes/init/img/favicon/mstile-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Создание сайтов Алматы | Разработка сайтов | init.kz | Заказать сайт</title>
+	<meta name="description" content="Создание сайтов Алматы с нуля за 1-2 недели ⚡ Обслуживание сайта 6 месяцев в подарок 🔥 Разработка веб сайта под ключ ⚡" />
+	<link rel="canonical" href="https://init.kz/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:locale:alternate" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Создание сайтов Алматы | Разработка сайтов | init.kz | Заказать сайт" />
+	<meta property="og:description" content="Создание сайтов Алматы с нуля за 1-2 недели ⚡ Обслуживание сайта 6 месяцев в подарок 🔥 Разработка веб сайта под ключ ⚡" />
+	<meta property="og:url" content="https://init.kz/" />
+	<meta property="og:site_name" content="init.kz" />
+	<meta property="article:modified_time" content="2022-02-06T04:12:28+00:00" />
+	<meta property="og:image" content="https://init.kz/wp-content/uploads/2021/12/init-logo.jpg" />
+	<meta property="og:image:width" content="540" />
+	<meta property="og:image:height" content="540" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Создание сайтов Алматы | Разработка сайтов | init.kz | Заказать сайт" />
+	<meta name="twitter:description" content="Создание сайтов Алматы с нуля за 1-2 недели ⚡ Обслуживание сайта 6 месяцев в подарок 🔥 Разработка веб сайта под ключ ⚡" />
+	<meta name="twitter:image" content="https://init.kz/wp-content/uploads/2021/12/init-logo.jpg" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://init.kz/#website","url":"https://init.kz/","name":"init.kz","description":"Создание сайтов любой сложности","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://init.kz/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"ImageObject","@id":"https://init.kz/#primaryimage","inLanguage":"ru-RU","url":"https://init.kz/wp-content/uploads/2021/12/init-logo.jpg","contentUrl":"https://init.kz/wp-content/uploads/2021/12/init-logo.jpg","width":540,"height":540,"caption":"Логотип init"},{"@type":"WebPage","@id":"https://init.kz/#webpage","url":"https://init.kz/","name":"Создание сайтов Алматы | Разработка сайтов | init.kz | Заказать сайт","isPartOf":{"@id":"https://init.kz/#website"},"datePublished":"2021-11-26T03:16:33+00:00","dateModified":"2022-02-06T04:12:28+00:00","description":"Создание сайтов Алматы с нуля за 1-2 недели ⚡ Обслуживание сайта 6 месяцев в подарок 🔥 Разработка веб сайта под ключ ⚡","breadcrumb":{"@id":"https://init.kz/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://init.kz/"]}]},{"@type":"BreadcrumbList","@id":"https://init.kz/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="init.kz &raquo; Лента" href="https://init.kz/feed/" />
+<link rel="alternate" type="application/rss+xml" title="init.kz &raquo; Лента комментариев" href="https://init.kz/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/init.kz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://init.kz/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='init-style-css'  href='https://init.kz/wp-content/themes/init/style.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='init-theme-css'  href='https://init.kz/wp-content/themes/init/css/theme.css?ver=5.9' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://init.kz/wp-json/" /><link rel="alternate" type="application/json" href="https://init.kz/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://init.kz/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://init.kz/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<link rel='shortlink' href='https://init.kz/' />
+<link rel="alternate" type="application/json+oembed" href="https://init.kz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finit.kz%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://init.kz/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finit.kz%2F&#038;format=xml" />
+<link rel="icon" href="https://init.kz/wp-content/uploads/2021/12/cropped-init-logo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://init.kz/wp-content/uploads/2021/12/cropped-init-logo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://init.kz/wp-content/uploads/2021/12/cropped-init-logo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://init.kz/wp-content/uploads/2021/12/cropped-init-logo-270x270.jpg" />
+
+		<script>
+			window.user_id = 42802;
+			window.username = "Клиент 42802";
+			window.user_type = "client";
+			window.role = "client";
+			window.current_page = "home";
+		</script>
+		
+	<!-- Google Tag Manager -->
+		<script>
+		window.onload = () => {
+			setTimeout(() => {
+				(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-NJX28FN');		
+			}, 200);
+		}		
+		</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Debug js -->
+	<script>
+		// window.onerror = function(error, url, line) {
+		// 	let callback = [error, url, line].join("\n")
+		// 	alert(callback)
+		// };
+	</script>
+</head>
+
+<body class="home page-template page-template-page-home page-template-page-home-php page page-id-2 ru">
+
+	<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJX28FN"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div class="site-sidebar">
+		<div class="sidebar-btn open-menu icon-menu"></div>
+				<div class="sidebar-label">Создание сайтов</div>
+		<div class="social">
+			<div class="toggle-social sidebar-btn">
+				<div class="social-icons" data-icons="instagram,whatsapp,telegram,vk,youtube"></div>
+			</div>
+			<div class="social-line" data-index="0">
+				
+								<a href="https://www.instagram.com/init.kz/" target="_blank" rel="nofollow" class="text instagram icon-instagram">
+									<div class="social-label">Instagram</div>
+								</a>
+							
+								<a href="https://www.tiktok.com/@init.kz/" target="_blank" rel="nofollow" class="text tik-tok icon-tik-tok">
+									<div class="social-label">Tik-Tok</div>
+								</a>
+							
+								<a href="https://www.youtube.com/channel/UC97ePM4k2nDc8E0KWqXa1Ig" target="_blank" rel="nofollow" class="text youtube icon-youtube">
+									<div class="social-label">YouTube</div>
+								</a>
+							
+								<a href="https://wa.me/+77074441345" target="_blank" rel="nofollow" class="text whatsapp icon-whatsapp">
+									<div class="social-label">WhatsApp</div>
+								</a>
+							
+								<a href="https://vk.com/initkz" target="_blank" rel="nofollow" class="text vk icon-vk">
+									<div class="social-label">VK</div>
+								</a>
+							
+								<a href="https://www.facebook.com/%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F-INIT-103262525214132" target="_blank" rel="nofollow" class="text facebook icon-facebook">
+									<div class="social-label">Facebook</div>
+								</a>
+										</div>
+		</div>
+	</div>
+
+	<header class="site-header">
+		<div class="top-header">
+			<div class="container">
+				<div class="wrapper">
+					<nav class="menu-top-menu-ru-container"><ul id="menu-top-menu-ru" class="menu"><li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-313"><a href="https://init.kz/" aria-current="page">Главная</a></li>
+<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a href="https://init.kz/about/">О компании</a></li>
+<li id="menu-item-315" class="menu-item menu-item-type-post_type_archive menu-item-object-blog menu-item-315"><a href="https://init.kz/blog/">Блог</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://init.kz/vacancies/">Вакансии</a></li>
+<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="https://init.kz/contacts/">Контакты</a></li>
+</ul></nav>					<div class="top-header-contacts">
+						<div class="address">г. Алматы, пр-т Абая 76/109, 3 этаж, 318 офис</div>
+						<a href="tel:+77074441345" rel="nofollow">+7 707 444 13 45</a>
+						<a href="tel:+77273100932" rel="nofollow">+7 727 310 09 32</a>
+					</div>
+					 
+						<ul class="language-switcher">	<li class="lang-item lang-item-16 lang-item-kz lang-item-first"><a  lang="kk-KZ" hreflang="kk-KZ" href="https://init.kz/kz/home/">kz</a></li>
+	<li class="lang-item lang-item-14 lang-item-ru current-lang"><a  lang="ru-RU" hreflang="ru-RU" href="https://init.kz/">ru</a></li>
+	<li class="lang-item lang-item-12 lang-item-en"><a  lang="en-US" hreflang="en-US" href="https://init.kz/en/home/">en</a></li>
+</ul>
+									</div>
+			</div>
+		</div>
+		<div class="bottom-header">
+			<div class="container">
+				<div class="wrapper">
+					<div class="site-branding">
+		<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+		viewBox="0 0 5813.82 4168.45"
+		xmlns:xlink="http://www.w3.org/1999/xlink">
+		<defs>
+		</defs>
+		<g>
+		<path d="M156.71 0l5657.11 0 0 4168.45 -5813.82 0 0 -4168.45 156.71 0zm5343.7 313.41l-5186.99 0 0 3541.62 5186.99 0 0 -3541.62z"/>
+		<path d="M1524.51 1185.97l0 300.25 -355.29 0 0 -300.25 355.29 0zm0 490.41l0 1291.08 -355.29 0 0 -1291.08 355.29 0zm1496.25 1291.08l-360.3 0 0 -753.13c0,-91.74 -15.01,-161.38 -45.04,-208.92 -30.02,-47.54 -88.41,-71.31 -175.14,-71.31 -186.82,0 -280.24,113.43 -280.24,340.29l0 693.08 -352.79 0 0 -1291.08 337.78 0 0 180.14c106.75,-143.45 249.37,-215.17 427.85,-215.17 138.46,0 247.71,40.03 327.78,120.1 80.06,80.07 120.1,194.33 120.1,342.78l0 863.23zm633.03 -1781.49l0 300.25 -355.29 0 0 -300.25 355.29 0zm0 490.41l0 1291.08 -355.29 0 0 -1291.08 355.29 0zm990.83 0l0 240.2 -262.72 0 0 608c0,38.37 0.84,66.31 2.51,83.82 1.66,17.52 7.51,35.45 17.51,53.79 10.01,18.35 25.44,30.44 46.3,36.28 20.85,5.84 50.45,8.76 88.82,8.76 43.37,0 79.23,-1.67 107.59,-5.01l0 270.23c-86.74,6.67 -158.47,10.01 -215.18,10.01 -155.13,0 -260.62,-27.11 -316.51,-81.33 -55.88,-54.2 -83.81,-158.87 -83.81,-314.01l0 -670.56 -215.18 0 0 -240.2 215.18 0 0 -390.33 352.79 0 0 390.33 262.72 0z"/>
+		</g>
+		</svg>
+	</div>					
+	<nav>
+		<ul>
+	
+				<li class="menu-item" data-id="-74">
+					<a href="https://init.kz/portfolio/">Портфолио</a>
+					
+				</li>
+			
+				<li class="menu-item menu-item-has-children" data-id="320">
+					<div class="link">Услуги<span class="icon-down"></span></div>
+					
+					<div class="sub-menu-wrapper">
+						<div class="line">
+							<div class="sub-menu"><div class="column"><div class="item title"><div class="content-wrapper">
+					
+					<div class="content">
+						<div class="title">Продвижение и реклама сайта</div>
+						
+					</div>		
+				</div></div><div class="item link"><a href="/seo/" class="content-wrapper">
+					<div class="icon icon-seo no-theme"></div>
+					<div class="content">
+						<div class="title">SEO продвижение</div>
+						<div class="text">Продвижение вашего сайта в поисковых системах Google и Yandex</div>
+					</div>		
+				</a></div><div class="item link"><a href="/contextual-advertising/" class="content-wrapper">
+					<div class="icon icon-coin no-theme"></div>
+					<div class="content">
+						<div class="title">Контекстная реклама</div>
+						<div class="text">Срочно нужны клиенты в таком случае это самый эффективный метод</div>
+					</div>		
+				</a></div><div class="item link"><a href="/audit/" class="content-wrapper">
+					<div class="icon icon-verified no-theme"></div>
+					<div class="content">
+						<div class="title">Бесплатный аудит сайта</div>
+						<div class="text">Сделаем полный SEO аудит вашего сайта, в течений нескольких часов.</div>
+					</div>		
+				</a></div></div><div class="column"><div class="item title"><div class="content-wrapper">
+					
+					<div class="content">
+						<div class="title">Виды сайтов</div>
+						
+					</div>		
+				</div></div><div class="item link"><a href="/online-store/" class="content-wrapper">
+					<div class="icon icon-cart no-theme"></div>
+					<div class="content">
+						<div class="title">Интернет магазин</div>
+						<div class="text">Сайт для онлайн продаж</div>
+					</div>		
+				</a></div><div class="item link"><a href="/landing-page/" class="content-wrapper">
+					<div class="icon icon-star-outline no-theme"></div>
+					<div class="content">
+						<div class="title">Landing page</div>
+						<div class="text">Сайт для рекламы</div>
+					</div>		
+				</a></div><div class="item link"><a href="/business-card-website/" class="content-wrapper">
+					<div class="icon icon-case no-theme"></div>
+					<div class="content">
+						<div class="title">Сайт визитка</div>
+						<div class="text">Сайт для малого и среднего бизнеса</div>
+					</div>		
+				</a></div><div class="item link"><a href="/corporate-site/" class="content-wrapper">
+					<div class="icon icon-business no-theme"></div>
+					<div class="content">
+						<div class="title">Корпоративный сайт</div>
+						<div class="text">Сайт для большого бизнеса</div>
+					</div>		
+				</a></div></div></div>
+							
+						</div>
+					</div>
+				
+				</li>
+			
+				<li class="menu-item" data-id="100">
+					<a href="https://init.kz/price/">Цены</a>
+					
+				</li>
+			
+				<li class="menu-item" data-id="36">
+					<a href="https://init.kz/seo/">SEO продвижение</a>
+					
+				</li>
+			
+		</ul>
+	</nav>
+						<div class="inline right-block">
+						<div class="line">
+							<a href="/dashboard/" class="btn medium outline"><span class="text icon-login">Личный кабинет</span></a>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="mobile-header">
+			<div class="container">
+				<div class="wrapper">
+					<div class="site-branding">
+		<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+		viewBox="0 0 5813.82 4168.45"
+		xmlns:xlink="http://www.w3.org/1999/xlink">
+		<defs>
+		</defs>
+		<g>
+		<path d="M156.71 0l5657.11 0 0 4168.45 -5813.82 0 0 -4168.45 156.71 0zm5343.7 313.41l-5186.99 0 0 3541.62 5186.99 0 0 -3541.62z"/>
+		<path d="M1524.51 1185.97l0 300.25 -355.29 0 0 -300.25 355.29 0zm0 490.41l0 1291.08 -355.29 0 0 -1291.08 355.29 0zm1496.25 1291.08l-360.3 0 0 -753.13c0,-91.74 -15.01,-161.38 -45.04,-208.92 -30.02,-47.54 -88.41,-71.31 -175.14,-71.31 -186.82,0 -280.24,113.43 -280.24,340.29l0 693.08 -352.79 0 0 -1291.08 337.78 0 0 180.14c106.75,-143.45 249.37,-215.17 427.85,-215.17 138.46,0 247.71,40.03 327.78,120.1 80.06,80.07 120.1,194.33 120.1,342.78l0 863.23zm633.03 -1781.49l0 300.25 -355.29 0 0 -300.25 355.29 0zm0 490.41l0 1291.08 -355.29 0 0 -1291.08 355.29 0zm990.83 0l0 240.2 -262.72 0 0 608c0,38.37 0.84,66.31 2.51,83.82 1.66,17.52 7.51,35.45 17.51,53.79 10.01,18.35 25.44,30.44 46.3,36.28 20.85,5.84 50.45,8.76 88.82,8.76 43.37,0 79.23,-1.67 107.59,-5.01l0 270.23c-86.74,6.67 -158.47,10.01 -215.18,10.01 -155.13,0 -260.62,-27.11 -316.51,-81.33 -55.88,-54.2 -83.81,-158.87 -83.81,-314.01l0 -670.56 -215.18 0 0 -240.2 215.18 0 0 -390.33 352.79 0 0 390.33 262.72 0z"/>
+		</g>
+		</svg>
+	</div>
+					<a href="tel:+77074441345" rel="nofollow" class="phone text">+7 707 444 13 45</a>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<div class="sidebar-menu">
+		<div class="close-menu icon-close"></div>
+		<div class="menu-content lg-text">
+			<div class="nav">
+				<nav class="menu-sidebar-menu-container"><ul id="menu-sidebar-menu" class="sidebar-nav-menu lg-text"><li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-66"><a href="https://init.kz/" aria-current="page">Главная</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="https://init.kz/about/">О компании</a></li>
+<li id="menu-item-308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-308"><a href="https://init.kz/vacancies/">Вакансии</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-post_type_archive menu-item-object-portfolio menu-item-148"><a href="https://init.kz/portfolio/">Веб портфолио</a></li>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://init.kz/audit/">Бесплатный аудит</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type_archive menu-item-object-blog menu-item-69"><a href="https://init.kz/blog/">Блог</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://init.kz/contacts/">Контакты</a></li>
+</ul></nav>			</div>
+			<div class="bottom article">
+				 
+					<ul class="language-switcher bm">	<li class="lang-item lang-item-16 lang-item-kz lang-item-first"><a  lang="kk-KZ" hreflang="kk-KZ" href="https://init.kz/kz/home/">kz</a></li>
+	<li class="lang-item lang-item-14 lang-item-ru current-lang"><a  lang="ru-RU" hreflang="ru-RU" href="https://init.kz/">ru</a></li>
+	<li class="lang-item lang-item-12 lang-item-en"><a  lang="en-US" hreflang="en-US" href="https://init.kz/en/home/">en</a></li>
+</ul>
+								<div class="item">
+					<div class="label margin">Номер телефона</div>
+					<a href="tel:+77074441345" rel="nofollow" class="text db second">+7 707 444 13 45</a><a href="tel:+77273100932" rel="nofollow" class="text db second">+7 727 310 09 32</a>				</div>
+				<div class="item">
+					<div class="label margin">Email</div>
+					<a href="mailto:info@init.kz" rel="nofollow" class="text db">info@init.kz</a>				</div>
+				<a href="/order/" class="btn outline full large"><span class="text">Отправить заявку</span></a>
+				<a href="/login/" class="btn outline full large" rel="nofollow"><span class="text">Личный кабинет</span></a>			</div>
+		</div>
+	</div>
+
+	<main id="content" class="site-content"> 
+    <script>
+        window.city = 'Алматы';
+    </script>
+    
+<section class="first-slide">
+    <div class="container">
+        <div class="wrapper">
+            <div class="article-md content">
+                <div class="title-wrapper">
+                    <div class="bonus">🔥 <span>+6 месяцев обслуживания</span></div>                    <h1>Создание сайтов в Алматы за 2 недели</h1>
+                </div>
+                <div class="article form-wrapper">
+                    <div class="article-mc">
+                        <div class="h5">Бесплатная консультация</div>
+                        <div class="grey-text lg-text">Оставьте свой номер телефона и мы Вам перезвоним</div>
+                    </div>
+                    <form class="consultation-form inline full">
+                        <div class="line">
+                            <input type="text" class="large phone-mask grow phone" id="consultation_phone">
+                            <button class="btn large order-send" data-form="Бесплатная консультация (Первый слайд)"><span class="text">Отправить</span></button>
+                        </div>
+                    </form>
+                    <div class="inline">
+                        <div class="line">
+                            <a href="/seo/" class="underline">SEO продвижение</a><a href="/online-store/" class="underline">Интернет магазин</a>                        </div>
+                    </div>
+                </div>
+                                <div class="scroll-down"><span></span>Смотреть дальше</div>
+            </div>
+
+            <div class="right-block">
+                <div class="fs-slider-wrapper">
+                    <div class="fs-slider">
+                        
+                                    <a href="/portfolio/lux-fm/" class="slide icon-open" style="background: #f4f4f4">
+                                        <div class="slide-content">
+                                            <div class="slide-subtitle">Корпоративный сайт</div>
+                                            <div class="slide-title">Lux FM</div>
+                                        </div>
+                                        <div class="image lazy lazy-bg" data-src="/wp-content/themes/init/img/sajt-dlya-lux-fm.png"></div>
+                                    </a>
+                                    
+                                    <a href="/portfolio/qaganat/" class="slide icon-open" style="background: #fdf3e1">
+                                        <div class="slide-content">
+                                            <div class="slide-subtitle">Интернет магазин</div>
+                                            <div class="slide-title">Qaganat</div>
+                                        </div>
+                                        <div class="image lazy lazy-bg" data-src="/wp-content/themes/init/img/sajt-dlya-qaganat.png"></div>
+                                    </a>
+                                    
+                                    <a href="/portfolio/radiocity/" class="slide icon-open" style="background: #ffe8e6">
+                                        <div class="slide-content">
+                                            <div class="slide-subtitle">Корпоративный сайт</div>
+                                            <div class="slide-title">RadioCity</div>
+                                        </div>
+                                        <div class="image lazy lazy-bg" data-src="/wp-content/themes/init/img/sajt-dlya-radiocity.png"></div>
+                                    </a>
+                                    
+                                    <a href="/portfolio/dve-palochki/" class="slide icon-open" style="background: #fdebe1">
+                                        <div class="slide-content">
+                                            <div class="slide-subtitle">Интернет магазин</div>
+                                            <div class="slide-title">Две палочки</div>
+                                        </div>
+                                        <div class="image lazy lazy-bg" data-src="/wp-content/themes/init/img/sajt-dlya-dve-palochki.png"></div>
+                                    </a>
+                                                        </div>
+                    <div class="fs-slider-next">
+                        
+                                        <div class="slide" style="background: #fdf3e1">Qaganat</div>
+                                    
+                                        <div class="slide" style="background: #ffe8e6">RadioCity</div>
+                                    
+                                        <div class="slide" style="background: #fdebe1">Две палочки</div>
+                                    
+                                        <div class="slide" style="background: #f4f4f4">Lux FM</div>
+                                                            <div class="arrows grey">
+                            <div class="icon-left"></div>
+                            <div class="icon-right"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="fs-col">
+                    <a href="/seo/" class="tariff-card small" style="background: #eefdee">
+                        <div class="tariff-card-content">
+                            <div class="title">SEO продвижение</div>
+                            <div class="price">
+                                <span class="top">от</span>
+                                <div class="bottom">
+                                    <div class="cost">130 000</div>
+                                    <div class="currency">тг.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <div class="tariff-card open-quizz" style="background: #eef2fd">
+                        <div class="tariff-card-content">
+                            <div class="title big">Рассчитайте стоимость сайта за<br> <b><span class="gift-timer">90</span>секунд</b> <br>и получи <span class="animate">🎁</span></div>
+                        </div>
+                    </div>
+
+                    <div class="tariff-card small" style="background: #fdf8ee">
+                        <div class="tariff-card-content">
+                            <div class="title">Готовые<br> сайты</div>
+                            <div class="price soon">
+                                <div class="tag large orange solid">Скоро</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>   
+    											<section class="our-works section-padding">
+							<div class="container">
+								<div class="wrapper article-lg">
+									<h2>Разработка сайтов для бизнеса в Алматы</h2>
+
+									<div class="our-works-slider">
+										
+<a href="https://init.kz/portfolio/autocash/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #fff6f3" data-letter="Au">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Корпоративный сайт</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/autocash.png" alt="Autocash"></div>
+                        <div class="card-content">
+                <div class="card-title">Autocash</div>
+                <div class="card-description">Сайт для автоломбарда</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/promo-coca-cola/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #fff4f4" data-letter="Пр">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Сайт визитка</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/promo-coca-cola.png" alt="Промо Coca-Cola"></div>
+                        <div class="card-content">
+                <div class="card-title">Промо Coca-Cola</div>
+                <div class="card-description">Сайт для розыгрыша от "Coca-Cola" и "Samurai Sushi"</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/inhomes/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #e9ffe0" data-letter="in">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Корпоративный сайт</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/inhomes.png" alt="inHomes"></div>
+                        <div class="card-content">
+                <div class="card-title">inHomes</div>
+                <div class="card-description">Сайт для жилищного кооператива</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/bata/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #f4f4f4" data-letter="Ба">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Корпоративный сайт</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/bata.png" alt="Бата"></div>
+                        <div class="card-content">
+                <div class="card-title">Бата</div>
+                <div class="card-description">Сайт для театра</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/big-trans-group/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #e8f4ff" data-letter="Bi">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Landing page</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/big-trans-group.png" alt="Big Trans Group"></div>
+                        <div class="card-content">
+                <div class="card-title">Big Trans Group</div>
+                <div class="card-description">Сайт для транспортной компании</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/bkcp/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #fff8ca" data-letter="BK">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Сайт визитка</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/bkcp.png" alt="BKCP"></div>
+                        <div class="card-content">
+                <div class="card-title">BKCP</div>
+                <div class="card-description">Сайт для ассоциаций Французов</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/dapanji/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #ffeee2" data-letter="Da">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Корпоративный сайт</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/bahyt.png" alt="Dapanji"></div>
+                        <div class="card-content">
+                <div class="card-title">Dapanji</div>
+                <div class="card-description">Сайт для сети ресторанов "Dapanji"</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+<a href="https://init.kz/portfolio/too-kronos-sekyuriti/" class="work-card">
+    <div class="work-card-wrapper" style="background-color: #d3e5ff" data-letter="ТО">
+        <div class="arrow icon-long-arrow-right"></div>
+        <div class="work-card-inner">
+            <div class="work-category">Корпоративный сайт</div>
+             
+                <div class="image"><img loading="lazy" src="https://init.kz/wp-content/uploads/2021/12/kronos-security.png" alt="ТОО «Кронос Секьюрити»"></div>
+                        <div class="card-content">
+                <div class="card-title">ТОО «Кронос Секьюрити»</div>
+                <div class="card-description">Сайт для охранного агентства</div>
+            </div>
+            <div class="type">Веб портфолио</div>
+        </div>
+    </div>
+</a>
+									</div>
+
+									<a href="/portfolio/" class="btn center outline"><span class="text">Посмотреть все работы</span></a>
+								</div>
+							</div>
+						</section>
+									
+					<section class="about-us">
+						<div class="container">
+							<div class="wrapper">
+								
+									<div class="image">
+										
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+
+										<img src="https://init.kz/wp-content/uploads/2021/12/phone.png" loading="lazy" alt="Создание сайтов Алматы от профессионалов – просто и выгодно!">
+										
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+
+									</div>
+									
+								<div class="content article-md article-block">
+									<div class="section-tag"><span class="hightlight">New</span> Лучшее предложение <span class="icon icon-arrow-right"></span></div>									<h3>Создание сайтов Алматы от профессионалов – просто и выгодно!</h3>
+									
+									<p>Веб студия “init” успешно работает на рынке с 2011 года.</p>
+<p>С момента основания мы создали более 500 сайтов. Мы можем назвать себя одной из лучших веб студии города Алматы, так как разрабатываем сайты любой сложности. У нас огромный опыт в работе сложных проектов.</p>
+<p>Заказав разработку сайта у нас, вы получите качественный продукт с гарантией, удобные условия для сотрудничества и приемлемые цены!</p>
+<p>На каждый проект мы выделяем личного менеджера, который будет вести веб сайт и консультировать вас весь срок обслуживания.</p>
+
+					<div class="inline full">
+						<div class="line">
+							
+						<a href="/order/" class="btn primary large"><span class="text">Отправить заявку</span></a>
+					
+						<a href="/contacts/" class="btn outline large"><span class="text">Наши контакты</span></a>
+					
+						</div>
+					</div>
+												</div>
+
+								
+							</div>
+						</div>
+					</section>
+
+				
+					<section class="reasons">
+						<div class="container">
+							<div class="wrapper">
+																<div class="content article-md article-block">
+									<h3 class="h4">Создаем сайты за 2 недели + 6 месяцев обслуживания в подарок</h3>
+									<div class="article">
+										<p>Создание сайтов в Алматы на сегодняшний день уже не экзотическая услуга, а сервис, доступный каждому. Жизнь современного человека сложно представить без интернета, доступного даже в самых отдаленных уголках планеты.</p>
+<p>Сайты на сегодняшний день – это не только котики, ролики на YouTube и социальные сети, но и удобный и функциональный инструмент, широко используемый повсеместно для самых различных областей бизнеса, начиная от Онлайн-торговли, заканчивая банковскими и финансовыми операциями.</p>
+<p>Поэтому вполне логично, что для полноценной деятельности на просторах сети необходим свой собственный сайт, именно сайт, а не просто страничка или группа в соцсетях. Если Вы задумываетесь о том, чтобы создать свой веб-сайт, то <a href="https://init.kz/about/">наша web-студия</a> готова Вам помочь, так как основная специализация – это создание сайтов любой сложности в Алматы и Казахстане в минимально возможные сроки по демократичной цене.</p>
+
+					<div class="inline full">
+						<div class="line">
+							
+						<a href="/order/" class="btn primary large"><span class="text">Отправить заявку</span></a>
+					
+						<a href="/contacts/" class="btn outline large"><span class="text">Наши контакты</span></a>
+					
+						</div>
+					</div>
+													</div>
+								</div>
+								
+									<div class="illustration">
+										
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+
+										<div class="difference" data-ratio="2080:1539.5">
+											<div class="handler">
+												<div class="arrow">
+													<span class="icon-left"></span>
+													<span class="icon-right"></span>
+												</div>
+											</div>
+											<div class="left">
+												<div class="image lazy lazy-bg" data-src="https://init.kz/wp-content/uploads/2021/12/qaganat-old-scaled.jpg"></div>
+												<div class="difference-label"><span>До</span></div>
+											</div>
+											<div class="right">
+												<div class="image lazy lazy-bg" data-src="https://init.kz/wp-content/uploads/2021/12/qaganat-new.jpg"></div>
+												<div class="difference-label"><span>После</span></div>
+											</div>
+										</div>
+									</div>
+																</div>
+						</div>
+					</section>
+
+				
+					<section class="about-us">
+						<div class="container">
+							<div class="wrapper">
+								
+									<div class="image">
+										
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+
+										<img src="https://init.kz/wp-content/uploads/2021/12/macbook-scroll.png" loading="lazy" alt="Создавать самостоятельно или доверить разработку специалистам?">
+										
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+
+									</div>
+									
+								<div class="content article-md article-block">
+									<div class="section-tag"><span class="hightlight">New</span> Лучшее предложение <span class="icon icon-arrow-right"></span></div>									<h3>Создавать самостоятельно или доверить разработку специалистам?</h3>
+									
+									<p>Наверняка Вы уже интересовались вопросами, связанными с созданием сайтов в Алматы, и ценами на такую услугу. И обдумывали вариант самостоятельного создания своего сайта или обращения к фрилансерам, стоимость услуг которых ниже, чем в профессиональной web-студии.</p>
+<p>Решение о самостоятельной разработке сайта принимают многие, так как не считают, платить веб разработчикам, ведь можно использовать многочисленные бесплатные шаблоны, воспользовавшись инструкциями, и в итоге сократить расходы. Такой вариант возможен, но Вам в такой ситуации следует быть готовым к ряду неприятностей</p>
+<div class="accords">
+												<div class="accord">
+													<div class="accord-header">
+														<div class="h6">Неуникальный дизайн</div>
+														<span class="icon-down"></span>
+													</div>
+													<div class="accord-content">
+														<p>Неуникальный дизайн web-сайта. Создание сайтов по шаблонам грозит тем, что Вы сможете встретить, тысяча точно так же оформленных страниц (с такой же разработкой блоков, иконками, разметкой, картинками), но с различным текстовым контентом.</p>
+
+													</div>
+												</div>
+												
+												<div class="accord">
+													<div class="accord-header">
+														<div class="h6">Отсутствие техподдержки</div>
+														<span class="icon-down"></span>
+													</div>
+													<div class="accord-content">
+														<p>Отсутствие техподдержки сайта. Бесплатные шаблоны имеют множество ограничений, в том числе и относительно технической поддержки. Поэтому, если возникли какие-то проблемы с разработкой сайта, то наверняка Вам никто не поможет их решить.</p>
+
+													</div>
+												</div>
+												
+												<div class="accord">
+													<div class="accord-header">
+														<div class="h6">Угроза безопасности</div>
+														<span class="icon-down"></span>
+													</div>
+													<div class="accord-content">
+														<p>Минимальная безопасность сайта. Взломать сайт, созданный на основе бесплатного шаблона, не составит труда для продвинутых пользователей, немного разбирающихся в программировании или разработки сайтов. Если сайт простой информационный, то он может быть заблокирован, а если на нем находится конфиденциальная информация о пользователях или Ваши отсканированные уставные документы, то они могут оказаться в распоряжении злоумышленников, а это может привести к непоправимым последствиям.</p>
+
+													</div>
+												</div>
+												
+												<div class="accord">
+													<div class="accord-header">
+														<div class="h6">Ограничения</div>
+														<span class="icon-down"></span>
+													</div>
+													<div class="accord-content">
+														<p>Ограниченная функциональность. Создание web-сайта на основе бесплатного шаблона практически не предусматривает наличие дополнительных модулей, поэтому Вы можете забыть о форме обратной связи, автоматически создаваемых окнах, полноценной сортировке и чате с оператором или сотрудником Вашей компании.</p>
+
+													</div>
+												</div>
+												</div>								</div>
+
+								
+							</div>
+						</div>
+					</section>
+
+								    <section class="dark-consultation section-padding">
+						<div class="container">
+							<div class="wrapper icon-chat">
+								<div class="content article">
+									<div class="h3">Хочешь качественный сайт?</div>
+									<div class="sm-text article-sm">
+										<p>Если же Вы хотите получить качественный ресурс, то важно доверить создание сайта в Алматы под ключ нашей веб студии. Одна из особенностей такого сайта в том, что он разрабатывается исключительно под Ваш проект.<br />
+При разработке сайтов мы не используем шаблоны, сайт разрабатывается и адаптируются под конкретный проект и требования заказчика с учетом специфики деятельности клиентской компании.</p>
+<p>При обращении к специалистам нашей web-студии Вы можете быть уверены, что дизайн Вашего сайта будет уникальным (его разработкой будет заниматься опытный дизайнер, знающий все тонкости и современные тенденции онлайн-маркетинга) и он не будет иметь аналогов. Немаловажным положительным моментом будет и разработанная нашими программистами программная оболочка, написанная с учетом специфики Вашего проекта, благодаря которой сайт будет без проблем открываться в любых браузерах и на мобильных устройствах.</p>
+									</div>
+									
+					<div class="inline full">
+						<div class="line">
+							
+						<a href="/order/" class="btn primary standart"><span class="text">Отправить заявку</span></a>
+					
+						</div>
+					</div>
+												</div>
+								<img src="https://init.kz/wp-content/uploads/2021/12/about-us.png" alt="Хочешь качественный сайт?" loading="lazy">
+							</div>
+						</div>
+					</section>
+								    <section class="why-us section-padding pb">
+						
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+						<div class="container">
+							<div class="wrapper article-lg">
+								<div class="cards">
+									<div class="line">
+										<div class="content article article-block">
+											<h3>Почему стоит обратиться в нашу веб студию init</h3>
+											<p>Основное направление нашей работы – это профессиональное создание сайтов в Алматы и во всем Казахстане, и мы успешно его выполняем.</p>
+<p>Среди особенностей сотрудничества с нашей web-студией в Алматы, специализирующейся на создании сайтов и мобильных приложений, можно выделить:</p>
+										</div>
+										
+													<div class="card">
+														<div class="h5">Индивидуальный подход</div>
+														<p>Вам достаточно подробно рассказать нашим менеджерам, какой сайт Вам необходим, а мы гарантируем, что сможем реализовать на практике все Ваши идеи, сделав функциональный, надежный и защищенный Интернет-ресурс</p>
+													</div>
+													
+													<div class="card">
+														<div class="h5">Уникальный дизайн</div>
+														<p>При разработке сайта мы не используем шаблоны, так как дизайн и система управления контентом сайта разрабатывается нашими специалистами для каждого проект, и при этом обязательно учитываются современные тенденции Интернет-маркетинга и особенности работы Вашей компании в Алматы и на территории всего Казахстана</p>
+													</div>
+													
+													<div class="card">
+														<div class="h5">Комплекс услуг</div>
+														<p>Создание сайтов Алматы нашими сотрудниками воспринимается как комплекс мероприятий, направленных на разработку и наполнение ресурса с одновременным обеспечением полноценной технической поддержки, благодаря чему сайт будет соответствовать всем действующим мировым стандартам</p>
+													</div>
+													
+													<div class="card">
+														<div class="h5">SEO продвижение</div>
+														<p>Мы производим не только создание сайтов, но и их продвижение в Интернете, благодаря чему Вы можете рассчитывать на хорошие результаты выдачи в поисковых системах. В рамках продвижения мы производим настройку SEO оптимизации сайта и настройку контекстной рекламы, позволяющей существенно увеличить посещаемость ресурса и привлечь новых клиентов из целевой аудитории</p>
+													</div>
+													
+													<div class="card">
+														<div class="h5">Две недели</div>
+														<p>Сроки реализации каждого проекта обсуждаются с менеджером, но зачастую они не превышают две недели, причем сроки четко указываются во время подписания договора сотрудничества</p>
+													</div>
+																						</div>
+								</div>
+							</div>
+						</div>
+					</section>
+									<section class="consultation dark">
+						<div class="container">
+							<div class="wrapper">
+								<div class="content article icon-send">
+									<div class="h3">Все еще думаешь? Конкуренты не ждут!</div>
+									<p>После создания сайта мы готовы обеспечить полноценную поддержку Вашего ресурса и его обновление в будущем, поэтому Вам нет необходимости дополнительно нанимать сотрудника, который будет заниматься только сайтом.</p>
+<p>Если Вам нужен качественно разработанный сайт в Алматы, то не экспериментируйте, иначе просто потеряете свое время и деньги, обращайтесь к нам – мы точно поможем!</p>
+
+					<div class="inline full">
+						<div class="line">
+							
+						<a href="/order/" class="btn black large"><span class="text icon-right after">Отправить заявку</span></a>
+					
+						</div>
+					</div>
+												</div>
+							</div>
+						</div>
+					</section>
+				
+					<section class="our-stats section-padding">
+						<div class="container">
+							<div class="wrapper">
+								<div class="content article article-block">
+									<div class="section-tag"><span class="hightlight">New</span> Лучшее предложение <span class="icon icon-arrow-right"></span></div>									<div class="h2">Несколько слов о нас</div>
+									<p>Наша веб студия &#171;init&#187; была создана довольно давно (работаем более десяти лет), и за это время уже успела заявить о себе на рынке IT-услуг в Алматы и Казахстане. Наша команда – это молодые специалисты, рассматривающие процесс создания веб-сайта как творческое задание, а не простую механическую работу. Для нас каждый проект уникальный, и мы делаем все, чтобы наши заказчики не только остались довольны, но и уверенно рекомендовали студию своим друзьям и знакомым. Благодаря тому, что в нашей команде работают креативные дизайнеры, опытные программисты, грамотные SEO-специалисты, разносторонние копирайтеры, Вы гарантированно получите сайт, который станет Вашей гордостью и вызовет зависть конкурентов.</p>
+
+					<div class="inline full">
+						<div class="line">
+							
+						<a href="/order/" class="btn primary large"><span class="text">Отправить заявку</span></a>
+					
+						<a href="/contacts/" class="btn outline large"><span class="text">Наши контакты</span></a>
+					
+						</div>
+					</div>
+												</div>
+								<div class="illustration">
+									<div class="image lazy lazy-bg" data-src="https://init.kz/wp-content/uploads/2021/12/women.jpg">
+										
+													<div class="advantage">
+														<div class="avatar icon-settings"></div>
+														<div class="text">Сопровождение сайта<br> после разработки</div>
+													</div>
+													
+													<div class="advantage">
+														<div class="avatar icon-search"></div>
+														<div class="text">Первоначальная<br> SEO оптимизация</div>
+													</div>
+													
+													<div class="advantage">
+														<div class="avatar icon-kaspi"></div>
+														<div class="text">Принимаем оплату<br> через kaspi.kz</div>
+													</div>
+																							
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+										
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+
+				
+					<section class="types section-padding">
+						<div class="container">
+							<div class="wrapper article-lg">
+								<div class="content article">
+									<h2>Какие сайты можно заказать у нас</h2>
+									<p>Распространенная ситуация, когда в нашу студию обращаются клиенты, точно не знающие, сайт какого формата им необходим – одностраничный, Интернет магазин или сайт-визитка. Мы предлагаем разработку сайтов в Алматы различного уровня, а именно:</p>
+								</div>
+
+								<div class="site-types">
+									
+											<div class="type article">
+												<div class="type-header">
+													<div class="emoji">📇</div>
+													<div class="line"></div>
+													<div class="number">01</div>
+												</div>
+												<div class="h5">Сайт визитка</div>
+												<p>Как понятно из названия, это сайты, позволяющие представить потенциальным клиентам или партнерам Вас и Вашу компанию. В большинстве случаев это небольшие сайты, содержащие до десяти страниц с развернутой информацией о контактах, услугах, особенностях работы компании.</p>
+												<a href="/business-card-website/" class="btn"><span class="text icon-right after">Узнать подробнее</span></a>
+											</div>
+											
+											<div class="type article large">
+												<div class="type-header">
+													<div class="emoji">💰</div>
+													<div class="line"></div>
+													<div class="number">02</div>
+												</div>
+												<div class="h5">Интернет-магазин</div>
+												<p>Разработка веб-сайтов, предназначенных для торговли разнообразными товарами, считается одной из самых сложных и трудоемких, но наличие такого сайта позволит Вам занять свою нишу в онлайн-торговле, постоянно набирающей обороты. Немаловажная особенность создания сайтов для торговли в том, что цена разработка Интернет-магазина зависит не только от количества представленных товаров, но и от функциональных возможностей, реализованных при помощи динамически создаваемых форм, шаблонов для оплаты электронными валютами или банковскими картами, дополнительных защитных плагинов.</p>
+												<a href="/online-store/" class="btn"><span class="text icon-right after">Узнать подробнее</span></a>
+											</div>
+											
+											<div class="type article large">
+												<div class="type-header">
+													<div class="emoji">🏢</div>
+													<div class="line"></div>
+													<div class="number">03</div>
+												</div>
+												<div class="h5">Корпоративный сайт</div>
+												<p>Корпоративные сайты – создание сайтов такого плана представляет собой довольно кропотливую и трудоемкую работу, так как они представляют собой полноценный информационный портал, используемый не только для презентации компании, но и для максимального ознакомления клиента с услугами, товарами, ценами. Среди особенностей корпоративных сайтов можно выделить возможность использования их в качестве информационных ресурсов, охватывающих все направления деятельности Вашей компании в Алматы, начиная от ссылок на социальные сети, заканчивая размещением тематических видео, рассказывающих об особенностях производственных процессов и логистики.</p>
+												<a href="/corporate-site/" class="btn"><span class="text icon-right after">Узнать подробнее</span></a>
+											</div>
+											
+											<div class="type article">
+												<div class="type-header">
+													<div class="emoji">🚀</div>
+													<div class="line"></div>
+													<div class="number">04</div>
+												</div>
+												<div class="h5">Landing Page</div>
+												<p>Одностраничный сайт, предназначенный для максимального привлечения клиентов. Такие сайты можно сравнить с рекламными проспектами в Алматы, используемыми для рекламы определенного товара (товаров), услуг или мероприятий. При этом создание сайтов такого формата позволяет привлечь целевой трафик на основной информационный ресурс.</p>
+												<a href="/landing-page/" class="btn"><span class="text icon-right after">Узнать подробнее</span></a>
+											</div>
+																			</div>
+							</div>
+						</div>
+					</section>
+
+									<section class="consultation dark">
+						<div class="container">
+							<div class="wrapper">
+								<div class="content article icon-send">
+									<div class="h3">Не знаешь какой сайт выбрать?</div>
+									<p>Для того чтобы определить, создание сайтов под ключ какого плана Вам необходим, Вам достаточно обратиться к нашим менеджерам и веб разработчикам в городе Алматы , которые с удовольствием помогут остановить выбор на том или ином виде ресурса, способном принести Вам максимальную прибыль.</p>
+
+					<div class="inline full">
+						<div class="line">
+							
+						<a href="/order/" class="btn black large"><span class="text icon-right after">Отправить заявку</span></a>
+					
+						</div>
+					</div>
+												</div>
+							</div>
+						</div>
+					</section>
+									<section class="service-steps section-padding">
+						
+	<div class="circles">
+    	<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+	</div>
+						<div class="container">
+							<div class="wrapper article-bg"> 
+								<div class="content article">
+									<h3>Как происходит создание сайта в нашей web-студии</h3>
+									<p>Создание сайта с нуля – это непростой процесс, требующий внимания к каждому этапу. Наши специалисты обладают достаточным опытом для того, чтобы производить создание сайтов в Алматы даже для тех клиентов, которые не знают какой именно ресурс им необходим. Для того чтобы Вы понимали требуемый объем работ для создания полноценного сайта, наша команда разделила этот процесс на несколько основных этапов</p>
+								</div>   
+								<div class="list">
+									
+											<div class="article-sm item larger">
+												<div class="icon">💬</div>
+												<div class="h6">Беседа с клиентом</div>
+												<p>Во время ее проведения наши специалисты в Алматы, занимающиеся разработкой сайтов, общаются с клиентами для того, чтобы узнать специфику работы их компании, пожелания относительно дизайна, функциональности и предназначения сайта. На этом этапе определяется формат сайта – landing page, сайт-визитка, Интернет-магазин или корпоративный сайт, а также озвучивается приблизительная стоимость нашей работы.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">📋</div>
+												<div class="h6">Маркетинговое планирование</div>
+												<p>Процедура, предназначенная для определения ключевых задач по созданию сайта. В рамках такого планирования определяется назначение ресурса, изучается целевая аудитория и устанавливается основная цель проекта. Если правильно произвести маркетинговое планирование, то можно на первоначальном этапе разработки получить представление о концепции создаваемого ресурса.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">📝</div>
+												<div class="h6">Техническое планирование</div>
+												<p>Оно позволяет разработать первоначальный каркас сайта, планируется перечень программных функций, вспомогательных модулей и производится приблизительный выбор системы управления контента сайта (CMS).</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">🎨</div>
+												<div class="h6">Разработка дизайна сайта</div>
+												<p>По праву считается одним из наиболее трудоемких этапов разработки сайтов, так как в процессе реализации учитывается ряд факторов – корпоративный стиль компании-заказчика, пожелания клиента относительно элементов, современные веяния дизайна сайтов различного назначения. Важно помнить, что правильно подобранный и разработанный дизайн сайта, используемые цвета и элементы не должны отпугнуть клиента, а наоборот, привлечь его внимание лояльными цветовыми схемами и продуманным расположением.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">💻</div>
+												<div class="h6">Верстка сайта</div>
+												<p>Процесс преобразования графических и функциональных элементов в HTML-код, воспринимаемый браузерами. Особое внимание нашими специалистами уделяется тому, чтобы разработка сайта была мультиплатформенной – она должна полноценно отображаться в различных браузерах на любых устройствах – ПК, ноутбуках, планшетах, смартфонах, управляемых различными ОС.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">🛠</div>
+												<div class="h6">Настройка CMS</div>
+												<p>Выбор программной основы управления контентом сайта позволяет сделать разработку сайта максимально функциональной, удобной в использовании и защищенной от стороннего вмешательства (особенно важно при создании Интернет-магазинов с предусмотренной онлайн-оплатой). CMS настраивается так, чтобы пользователь (ответственное лицо Вашей компании) мог обновлять информацию, добавлять страницы или менять структуру ресурса. Также наши специалисты, ведут разработку плагинов для CMS, которые необходимы пользователю для выполнения тех или иных задач.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">📱</div>
+												<div class="h6">Разработка мобильных приложений</div>
+												<p>Если необходимо, то наши программисты разрабатывают мобильные приложения для смартфонов и планшетов, позволяющие увеличить количество потенциальных клиентов и упростить заказ Ваших товаров и услуг в Алматы.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">🗃</div>
+												<div class="h6">Наполнение контентом</div>
+												<p>При разработке сайта немаловажным является наличие правильно подобранного уникального контента (графического, видео, текстового) позволяет привлечь внимание посетителей сайта и продвинуть его в поисковых системах.</p>
+												<div class="block-footer"></div>
+											</div>
+											
+											<div class="article-sm item larger">
+												<div class="icon">⚙️</div>
+												<div class="h6">Тестирование сайта</div>
+												<p>После создания сайта (подбирается доменное имя, выбирается оптимальный для клиента хостинг и тарифный план, производится регистрация в электронных каталогах). Производиться объязательное тестрирование в режиме максимальных нагрузок в различных браузерах для того, чтобы определить возможные проблемы и корректировать неправильно отображаемые элементы.</p>
+												<div class="block-footer"></div>
+											</div>
+																			</div>
+							</div>
+						</div>
+					</section>
+				
+					<section class="section-steps section-padding">
+						<div class="container">
+							<div class="wrapper article-bg">
+								<div class="content article">
+									<h3>Хочешь хороший сайт?</h3>
+									<p>Важно знать, что создание хороших сайтов – это кропотливая и трудоемкая работа нашей команды, во время которой необходимо учесть все мелочи, нюансы и тонкости функционирования ресурса, но в результате у Вас будет информационный портал, способный уверенно продвинуть Ваш бизнес в Алматы и Казахстане.</p>
+								</div>
+								<div class="steps-wrapper">
+									<div class="item title icon-arrow-right lg-right md-right sm-bottom">
+										<div class="subtitle">Как это работает</div>
+										<div class="title">Время действовать</div>
+										<a href="/order/" class="more">Отправить заявку <span class="icon icon-right"></span></a>
+									</div>
+									<div class="item icon-arrow-right lg-right md-bottom sm-bottom">
+										<div class="title">Сейчас</div>
+										<div class="description">Вы оставляете заявку.</div>
+									</div>
+									<div class="item icon-arrow-right lg-bottom md-o-2 md-left sm-bottom">
+										<div class="title">Через 5 минут</div>
+										<div class="description">Наш менеджер с вами свяжется и проведет бесплатную консультацию.</div>
+									</div>
+									<div class="item icon-arrow-right lg-o-3 lg-left md-o-1 md-bottom sm-bottom">
+										<div class="title">Через час</div>
+										<div class="description">Встречаемся с вами и обсуждаем детали проекта.</div>
+									</div>
+									<div class="item icon-arrow-right lg-o-2 lg-left md-o-3 md-right sm-bottom">
+										<div class="title">Через 3 часа</div>
+										<div class="description">Подписываем договор о создании сайта.</div>
+									</div>
+									<div class="item icon-arrow-right lg-o-1 lg-bottom md-o-4 md-bottom sm-bottom">
+										<div class="title">Через месяц</div>
+										<div class="description">Вы получаете полностью готовый сайт.</div>
+									</div>
+									<div class="item icon-arrow-right lg-o-4 lg-right md-o-6 md-left sm-bottom">
+										<div class="title">6 месяцев</div>
+										<div class="description">Сопровождаем ваш сайт. Любые правки с вашей стороны бесплатно.</div>
+									</div>
+									<div class="item icon-arrow-right lg-o-5 lg-right md-o-5 md-bottom sm-bottom">
+										<div class="title">1 год</div>
+										<div class="description">Техническая поддержка. Защищаем ваш сайт от взлома и обеспечиваем бесперебойную работу.</div>
+									</div>
+									<div class="item lg-o-6 md-o-7">
+										<div class="title">Пожизненно</div>
+										<div class="description">Остаемся в хороших партнерских отношениях.</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+
+									<section class="cms-stats section-padding">
+
+						
+						<div class="container">
+							<div class="wrapper">
+								<div class="content article article-block">
+									<div class="h3">Создание сайтов на WordPress в Алматы</div>
+									<p>Во время разработки сайтов в Алматы мы используем самую популярную CMS в мире — WordPress. Согласно статистике на WordPress написаны более 43% всех сайтов в мире использующих CMS.</p>
+<p>Большинство считают что данная CMS создана для ведения блога, и разработать сайт можно используя бесплатные плагины и темы.</p>
+<p>С этим можно согласиться, ведь на самом деле есть множество различных плагинов и шаблонов как платных так и бесплатных для создания сайта на WordPress.</p>
+								</div>
+								<div class="illustration">
+									<div class="cms-chart">
+																				<div class="chart-wrapper">
+											<canvas id="cms_chart" data-set='[{"name":"WordPress","color":"#0092ce","percents":43.81},{"name":"1С-Битрикс","color":"#f04950","percents":13.38},{"name":"Joomla","color":"#f0ab12","percents":9.52},{"name":"CMS.S3","color":"#7caf16","percents":3.05},{"name":"OpenCart","color":"#80a8cc","percents":3.02},{"name":"Tilda (Тильда)","color":"#664f63","percents":2.75},{"name":"Drupal","color":"#f07748","percents":2.52},{"name":"Wix","color":"#24659d","percents":2.48},{"name":"Evolution CMS","color":"#be3c3a","percents":2.4},{"name":"MODX Revolution","color":"#16ab98","percents":2.13},{"name":"Другое","color":"#b0b0b0","percents":14.9}]'></canvas>
+										</div>
+										<div class="chart-labels">
+											
+														<div class="chart-label">
+															<div class="color" style="background: #0092ce"></div>
+															<div class="percents">43,81%</div>
+															<div class="name">WordPress</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #f04950"></div>
+															<div class="percents">13,38%</div>
+															<div class="name">1С-Битрикс</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #f0ab12"></div>
+															<div class="percents">9,52%</div>
+															<div class="name">Joomla</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #7caf16"></div>
+															<div class="percents">3,05%</div>
+															<div class="name">CMS.S3</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #80a8cc"></div>
+															<div class="percents">3,02%</div>
+															<div class="name">OpenCart</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #664f63"></div>
+															<div class="percents">2,75%</div>
+															<div class="name">Tilda (Тильда)</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #f07748"></div>
+															<div class="percents">2,52%</div>
+															<div class="name">Drupal</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #24659d"></div>
+															<div class="percents">2,48%</div>
+															<div class="name">Wix</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #be3c3a"></div>
+															<div class="percents">2,4%</div>
+															<div class="name">Evolution CMS</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #16ab98"></div>
+															<div class="percents">2,13%</div>
+															<div class="name">MODX Revolution</div>
+														</div>
+													
+														<div class="chart-label">
+															<div class="color" style="background: #b0b0b0"></div>
+															<div class="percents">14,9%</div>
+															<div class="name">Другое</div>
+														</div>
+																							</div>
+									</div>
+								</div>
+							</div>
+							<div class="wrapper">
+								<div class="illustration">
+									<div class="image">
+										<img src="/wp-content/themes/init/img/wordpress.png" alt="Создание сайтов на WordPress в Алматы">
+									</div>
+								</div>
+								<div class="content article article-block">
+									<p>Большая часть разработчиков работает именно так. Используя плагины расширяет функционал WordPress, для интернет торговли или используют их для получения заявок. Но в итоге получают нагруженный и медленно работающий сайт с шаблонным дизайном.</p>
+<p>Наша веб студия в Алматы работает по другому. Вместо использования чужих плагинов и тем, мы разработали свои, и весь функционал пишем с нуля для каждого сайта. Это позволяет подходить к каждому клиенту индивидуально и выполнять любые поставленные задачи.<br />
+Благодаря этому сайты которые мы создаем на WordPress:</p>
+<ul>
+<li>Имеют высокую скорость загрузки;</li>
+<li>Позволяют создавать неограниченное количество страниц для товаров, статей, новостей, блогов, услуг и т.д.;</li>
+<li>SEO оптимизированные;</li>
+<li>С возможностью менять все содержимое и контент;</li>
+<li>Защищенные от взлома и вирусов;</li>
+</ul>
+<p>От простых лендингов состоящих из одной страницы до разработки сайтов с многоуровневыми системами личных кабинетов, с взаимодействием между пользователями, с чатами, документооборотом и своими CRM системами.<br />
+Все это возможно разработать на одном движке.</p>
+								</div>
+							</div>
+						</div>
+					</section>
+				
+					<section class="advantages section-padding">
+						<div class="container">
+							<div class="wrapper article-bg">
+								<div class="article">
+									<div class="h2">Наши преимущества</div>
+																	</div>
+								<div class="items">
+									<div class="item">
+										<div class="item-icon icon-settings"></div>
+										<div class="h5">Поддержка сайта</div>
+										<p>Сопровождение сайта после разработки</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-server"></div>
+										<div class="h5">Сервер для сайта</div>
+										<p>Свой сервер для лучшей работы сайта</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-search"></div>
+										<div class="h5">SEO продвижение</div>
+										<p>Первоначальная SEO оптимизация</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-kaspi"></div>
+										<div class="h5">Сайт в рассрочку</div>
+										<p>Принимаем оплату через kaspi.kz в кредит или рассрочку</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-edit"></div>
+										<div class="h5">Гибкость</div>
+										<p>Возможность редактировать контент и параметры</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-shield"></div>
+										<div class="h5">Безопасность</div>
+										<p>Обеспечение безопасности сайта</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-gift"></div>
+										<div class="h5">Скидки и акций</div>
+										<p>Постоянным клиентам особые условия сотрудничества</p>
+									</div>
+									<div class="item">
+										<div class="item-icon icon-coin"></div>
+										<div class="h5">Контекстная реклама</div>
+										<p>Бесплатная настройка обеспечит продажи с первого дня запуска</p>
+									</div>
+								</div>
+
+							</div>
+						</div>
+					</section>
+
+				
+    
+<section class="contacts p section-padding" id="contacts">
+    <div class="container">
+        <div class="wrapper article-md">
+            <div class="h2">Связаться с нами</div>
+            <div class="content">
+                <form class="article-md">
+                    <p>Разработка сайтов и раскрутка является целым искусством, которое нам удалось познать и сделать своим любимым делом. Мы будем рады дать развернутые ответы на волнующие вас вопросы по телефону или в офисе.</p>
+                    <div class="contacts-field-wrapper">
+                        <label for="contacts_name"><span class="label-content">Привет, меня зовут</span></label>
+                        <input type="text" id="contacts_name" class="name custom" placeholder="Ваше имя">
+                    </div>
+                    <div class="contacts-field-wrapper">
+                        <label for="contacts_phone"><span class="label-content">Мой номер телефона</span></label>
+                        <input type="text" id="contacts_phone" class="phone phone-mask custom hide-mask" placeholder="Ваш номер телефона">
+                    </div>
+                    <div class="contacts-field-wrapper textarea-wrapper">
+                        <label for="contacts_message"><span class="label-content">Хочу обсудить</span></label>
+                        <textarea id="contacts_message" cols="30" rows="3" class="custom message" placeholder="Напишите сообщение"></textarea>
+                    </div>
+
+                    <div class="btn-wrapper">
+                        <button class="btn large order-send" data-form="Связаться с нами"><span class="text">Отправить заявку</span></button>
+                        <div class="disclaimer">Нажимая на кнопку "Отправить заявку"<br> вы соглашаетесь с <a href="/privacy-policy/" class="underline">нашей Политикой конфиденциальности</a>.</div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="map"></div></section>
+
+	</main>
+
+	
+<div class="quizz">
+    <div class="wrapper">
+        <div class="quizz-blackboard close-quizz"></div>
+        <div class="quizz-slides">
+            <div class="close-quizz close-btn icon-close"></div>
+            <div class="quizz-welcome">
+                <div class="welcome-image" style="background-image: url(/wp-content/themes/init/img/gift.jpg)"></div>
+                <div class="welcome-content article">
+                    <div class="h5">Расчитайте стоимость сайта за 30 секунд</div>
+                    <div class="text">За прохождение вы получите подарки</div>
+                    <button class="btn start-quizz"><span class="text icon-success">Начать тест</span></button>
+                    <hr>
+                    <div class="bonuses article-sm">
+                        <div class="h6">Бонусы за прохождение</div>
+                        <div class="bonus-item">
+                            <div class="icon">🎁</div>
+                            <div class="bonus-title">+1 месяц обслуживания + подарок</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quizz-questions">
+                <div class="questions-body">
+                    <div class="slides">
+                        <div class="slide active-slide" data-name="domain" data-discount="1">
+                            <div class="slide-header article-sm">
+                                <div class="slide-title">У вас есть сайт?</div>
+                            </div>
+                            <div class="slide-body">
+                                <div class="select-variant">
+                                    <div class="line">
+                                        <div class="select inline-select icon-check" data-value="no">
+                                            <div class="icon icon-error theme-text red-theme"></div>
+                                            <div class="select-title">Нет</div>
+                                        </div>
+                                        <div class="select inline-select icon-check toggle-input" data-value="yes" data-input="user_domain">
+                                            <div class="icon icon-success theme-text green-theme"></div>
+                                            <div class="select-title">Да</div>
+                                        </div>
+                                        <div class="additional-input input-wrapper" data-name="user_domain">
+                                            <input type="text" placeholder="Введите ваш домен" name="user_domain">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide" data-name="site_type" data-discount="1">
+                            <div class="slide-header article-sm">
+                                <div class="slide-title">Выберите вариант</div>
+                            </div>
+                            <div class="slide-body">
+                                <div class="select-variant">
+                                    <div class="line">
+                                        <div class="select inline-select icon-check" data-value="landing">
+                                            <div class="icon">🚀</div>
+                                            <div class="select-title">Landing page</div>
+                                        </div>
+
+                                        <div class="select inline-select icon-check" data-value="vizitka">
+                                            <div class="icon">📇</div>
+                                            <div class="select-title">Сайт визитка</div>
+                                        </div>
+
+                                        <div class="select inline-select icon-check" data-value="corp">
+                                            <div class="icon">🏢</div>
+                                            <div class="select-title">Корпоративный сайт</div>
+                                        </div>
+
+                                        <div class="select inline-select icon-check" data-value="store">
+                                            <div class="icon">💰</div>
+                                            <div class="select-title">Интернет магазин</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide" data-name="promotion" data-discount="1">
+                            <div class="slide-header article-sm">
+                                <div class="slide-title">Необходима ли вам контекстная реклама или SEO продвижение?</div>
+                            </div>
+                            <div class="slide-body">
+                                <div class="select-variant">
+                                    <div class="line">
+                                        <div class="select inline-select icon-check" data-value="both">
+                                            <div class="icon">🛍</div>
+                                            <div class="select-title">Да нужны оба</div>
+                                        </div>
+
+                                        <div class="select inline-select icon-check" data-value="contex">
+                                            <div class="icon">🚀</div>
+                                            <div class="select-title">Только контекстная</div>
+                                        </div>
+
+                                        <div class="select inline-select icon-check" data-value="seo">
+                                            <div class="icon">🔍</div>
+                                            <div class="select-title">Только SEO</div>
+                                        </div>
+
+                                        <div class="select inline-select icon-check" data-value="no">
+                                            <div class="icon icon-error theme-text red-theme"></div>
+                                            <div class="select-title">Нет</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide slider" data-name="budget" data-discount="2">
+                            <div class="slide-header article-sm">
+                                <div class="slide-title">В какой бюджет планируете уложиться?</div>
+                            </div>
+                            <div class="slide-body">
+                                <div class="slide-slider-wrapper article">
+                                                                        <div class="slide-slider-inputs">
+                                        <div class="form-group">
+                                            <label for="budget_from">От</label>
+                                            <div class="input-wrapper">
+                                                <input type="text" id="budget_from" class="price-mask medium">
+                                                <div class="fixed-label">тг.</div>
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="budget_to">До</label>
+                                            <div class="input-wrapper">
+                                                <input type="text" id="budget_to" class="price-mask medium">
+                                                <div class="fixed-label">тг.</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="slide-slider def-slider" data-min="100000" data-max="5000000" data-values="300000,400000"></div>
+                                    <div class="slide-slider-labels">
+                                        <div class="label">100000 тг.</div>
+                                        <div class="label">5000000 тг.</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="questions-bottom-panel">
+                        <div class="progress-line"></div>
+                        <div class="steps-progress">Шаг 1 из 5</div>
+                        <div class="inline">
+                            <div class="line">
+                                <button class="btn outline prev-slide medium" disabled><span class="icon icon-arrow-left"></span></button>
+                                <button class="btn medium next-slide" disabled><span class="text icon-arrow-right after">Далее</span></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="questions-sidebar article">
+                    <div class="your-discount">Ваша скидка <span class="user-discount">0</span>%</div>
+                    <div class="bonus-item">
+                            <div class="icon">💰</div>
+                        <div class="bonus-title">Скидка до 5%</div>
+                    </div>
+                    <div class="bonus-item">
+                        <div class="icon">⚙️</div>
+                        <div class="bonus-title">+1 месяц обслуживания</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="quizz-final">
+                <div class="quizz-final-content article">
+                    <div class="article-sm">
+                        <div class="h5">Отлично, вы прошли тест!</div>
+                        <p>Чтобы получить бонусы и закрепить скидку, заполните форму</p>
+                    </div>
+                    <hr>
+                    <div class="bonuses-line">
+                        <div class="line">
+                            <div class="bonus-item">
+                                    <div class="icon">💰</div>
+                                <div class="bonus-title">Скидка до 5%</div>
+                            </div>
+                            <div class="bonus-item">
+                                <div class="icon">⚙️</div>
+                                <div class="bonus-title">+1 месяц обслуживания</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="quizz-final-form">
+                    <div class="success-screen">
+                        <div class="success-screen-wrapper">
+                            <div class="large-avatar icon-check small green-theme"></div>
+                            <div class="h6">Ваша заявка отправлена</div>
+                            <p>Скоро мы свяжемся с вами</p>
+                        </div>
+                    </div>
+                    <div class="article">
+                        <div class="total-discount"><div class="discount-text">Ваша скидка: </div><div class="discount-wrapper"><span class="user-discount">0</span>%</div></div>
+
+                        <div class="form-group article-sm">
+                            <label for="quizz_name" class="label">Введите имя</label>
+                            <div class="input-wrapper">
+                                <div class="icon icon-user"></div>
+                                <input type="text" placeholder="Введите имя" id="quizz_name">
+                            </div>
+                        </div>
+
+                        <div class="form-group article-sm">
+                            <label for="quizz_email" class="label">Введите email</label>
+                            <div class="input-wrapper">
+                                <div class="icon icon-email"></div>
+                                <input type="text" placeholder="Введите email" id="quizz_email">
+                            </div>
+                        </div>
+
+                        <div class="form-group article-sm">
+                            <label for="quizz_phone" class="label">Введите номер</label>
+                            <div class="input-wrapper">
+                                <div class="icon icon-phone"></div>
+                                <input type="text" placeholder="Введите имя" id="quizz_phone" class="phone-mask">
+                            </div>
+                        </div>
+
+                        <button class="btn full" id="quizz_send"><span class="text">Отправить</span></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<div class="push-notifications"></div>
+
+	<footer class="site-footer">
+		<div class="top-footer">
+			<div class="container">
+				<div class="wrapper">
+					<div class="footer-col about article">
+						<div class="site-branding">
+		<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+		viewBox="0 0 5813.82 4168.45"
+		xmlns:xlink="http://www.w3.org/1999/xlink">
+		<defs>
+		</defs>
+		<g>
+		<path d="M156.71 0l5657.11 0 0 4168.45 -5813.82 0 0 -4168.45 156.71 0zm5343.7 313.41l-5186.99 0 0 3541.62 5186.99 0 0 -3541.62z"/>
+		<path d="M1524.51 1185.97l0 300.25 -355.29 0 0 -300.25 355.29 0zm0 490.41l0 1291.08 -355.29 0 0 -1291.08 355.29 0zm1496.25 1291.08l-360.3 0 0 -753.13c0,-91.74 -15.01,-161.38 -45.04,-208.92 -30.02,-47.54 -88.41,-71.31 -175.14,-71.31 -186.82,0 -280.24,113.43 -280.24,340.29l0 693.08 -352.79 0 0 -1291.08 337.78 0 0 180.14c106.75,-143.45 249.37,-215.17 427.85,-215.17 138.46,0 247.71,40.03 327.78,120.1 80.06,80.07 120.1,194.33 120.1,342.78l0 863.23zm633.03 -1781.49l0 300.25 -355.29 0 0 -300.25 355.29 0zm0 490.41l0 1291.08 -355.29 0 0 -1291.08 355.29 0zm990.83 0l0 240.2 -262.72 0 0 608c0,38.37 0.84,66.31 2.51,83.82 1.66,17.52 7.51,35.45 17.51,53.79 10.01,18.35 25.44,30.44 46.3,36.28 20.85,5.84 50.45,8.76 88.82,8.76 43.37,0 79.23,-1.67 107.59,-5.01l0 270.23c-86.74,6.67 -158.47,10.01 -215.18,10.01 -155.13,0 -260.62,-27.11 -316.51,-81.33 -55.88,-54.2 -83.81,-158.87 -83.81,-314.01l0 -670.56 -215.18 0 0 -240.2 215.18 0 0 -390.33 352.79 0 0 390.33 262.72 0z"/>
+		</g>
+		</svg>
+	</div>						<div class="copyright">© 2022, Веб-студия &quot;init&quot;.</div>
+						<ul id="menu-footer-menu" class=""><li id="menu-item-1248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1248"><a href="https://init.kz/bin/">Реквизиты</a></li>
+</ul>						 
+							<ul class="language-switcher">	<li class="lang-item lang-item-16 lang-item-kz lang-item-first"><a  lang="kk-KZ" hreflang="kk-KZ" href="https://init.kz/kz/home/">kz</a></li>
+	<li class="lang-item lang-item-14 lang-item-ru current-lang"><a  lang="ru-RU" hreflang="ru-RU" href="https://init.kz/">ru</a></li>
+	<li class="lang-item lang-item-12 lang-item-en"><a  lang="en-US" hreflang="en-US" href="https://init.kz/en/home/">en</a></li>
+</ul>
+											</div>
+					<div class="footer-col nav article hide-sm">
+						
+	<nav>
+		<ul>
+	
+		</ul>
+	</nav>
+						</div>
+
+					<div class="footer-col nav article">
+						
+	<nav>
+		<ul>
+	<li class="menu-item"><a class="link" href="https://init.kz/about/">О компании</a></li><li class="menu-item"><a class="link" href="https://init.kz/portfolio/">Портфолио</a></li><li class="menu-item"><a class="link" href="https://init.kz/price/">Прайс лист</a></li><li class="menu-item"><a class="link" href="https://init.kz/audit/">Бесплатный аудит</a></li><li class="menu-item"><a class="link" href="https://init.kz/blog/">Блог</a></li><li class="menu-item"><a class="link" href="https://init.kz/vacancies/">Вакансии</a></li><li class="menu-item"><a class="link" href="https://init.kz/contacts/">Наши контакты</a></li>
+		</ul>
+	</nav>
+						</div>
+					
+					<div class="footer-col nav article">
+						
+	<nav>
+		<ul>
+	<li class="menu-item"><div class="title">Виды сайтов</div></li><li class="menu-item"><a class="link" href="https://init.kz/business-card-website/">Сайт визитка</a></li><li class="menu-item"><a class="link" href="https://init.kz/landing-page/">Landing page</a></li><li class="menu-item"><a class="link" href="https://init.kz/online-store/">Интернет магазин</a></li><li class="menu-item"><a class="link" href="https://init.kz/corporate-site/">Корпоративный сайт</a></li><li class="menu-item"><div class="title">Продвижение и реклама</div></li><li class="menu-item"><a class="link" href="https://init.kz/seo/">SEO продвижение сайтов</a></li><li class="menu-item"><a class="link" href="https://init.kz/contextual-advertising/">Контекстная реклама</a></li>
+		</ul>
+	</nav>
+						</div>
+
+					<div class="footer-col form article">
+						<div class="contacts-list article">
+							<div class="links">
+								<a href="tel:+77074441345" rel="nofollow" class="second">+7 707 444 13 45</a><a href="tel:+77273100932" rel="nofollow" class="second">+7 727 310 09 32</a><a href="mailto:info@init.kz" rel="nofollow">info@init.kz</a>							</div>
+							г. Алматы, пр-т Абая 76/109, 3 этаж, 318 офис						</div>
+
+						<div class="article-sm">
+							<div class="h6">Подписаться</div>
+							<div class="description">Подпишитесь на нашу рассылку и получайте последние новости и акции на вашу почту</div>
+						</div>
+
+						<form class="subscribe-form inline full">
+							<div class="line">
+								<input type="text" class="grow email" id="subscribe_form" placeholder="Введите Ваш email">
+								<button class="btn order-send subscribe" data-form="Подвал"><span class="text">Отправить</span></button>
+							</div>
+						</form>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="middle-footer">
+			<div class="container">
+				<div class="wrapper">
+					<div class="title">Создаем сайты по всему Казахстану</div>
+					<a class="link active" href="https://init.kz/">Создание сайтов в Алматы</a>, <a class="link" href="https://init.kz/nur-sultan/">в Нур-Султане</a>, <a class="link" href="https://init.kz/shymkent/">в Шымкенте</a>, <a class="link" href="https://init.kz/aktobe/">в Актобе</a>, <a class="link" href="https://init.kz/karaganda/">в Караганде</a>, <a class="link" href="https://init.kz/taraz/">в Таразе</a>, <a class="link" href="https://init.kz/semey/">в Семее</a>, <a class="link" href="https://init.kz/ust-kamenogorsk/">в Усть-Каменогорске</a>, <a class="link" href="https://init.kz/kyzylorda/">в Кызылорде</a>, <a class="link" href="https://init.kz/uralsk/">в Уральске</a>, <a class="link" href="https://init.kz/kostanay/">в Костанае</a>, <a class="link" href="https://init.kz/atyrau/">в Атырау</a>, <a class="link" href="https://init.kz/petropavlovsk/">в Петропавловске</a>, <a class="link" href="https://init.kz/aktau/">в Актау</a>, <a class="link" href="https://init.kz/temirtau/">в Темиртау</a>, <a class="link" href="https://init.kz/kokshetau/">в Кокшетау</a>, <a class="link" href="https://init.kz/turkestan/">в Туркестане</a>, <a class="link" href="https://init.kz/taldykorgan/">в Талдыкоргане</a>, <a class="link" href="https://init.kz/pavlodar/">в Павлодаре</a>, <a class="link" href="https://init.kz/kaskelen/">в Каскелене</a>				</div>
+			</div>
+		</div>
+
+		<div class="middle-footer">
+			<div class="container">
+				<div class="wrapper">
+					<div class="title">Продвигаем сайты по всему Казахстану</div>
+					<a class="link" href="https://init.kz/seo/">SEO продвижение в Алматы</a>, <a class="link" href="https://init.kz/nur-sultan/seo/">в Нур-Султане</a>, <a class="link" href="https://init.kz/shymkent/seo/">в Шымкенте</a>, <a class="link" href="https://init.kz/aktobe/seo/">в Актобе</a>, <a class="link" href="https://init.kz/karaganda/seo/">в Караганде</a>, <a class="link" href="https://init.kz/taraz/seo/">в Таразе</a>, <a class="link" href="https://init.kz/semey/seo/">в Семее</a>, <a class="link" href="https://init.kz/ust-kamenogorsk/seo/">в Усть-Каменогорске</a>, <a class="link" href="https://init.kz/kyzylorda/seo/">в Кызылорде</a>, <a class="link" href="https://init.kz/uralsk/seo/">в Уральске</a>, <a class="link" href="https://init.kz/kostanay/seo/">в Костанае</a>, <a class="link" href="https://init.kz/atyrau/seo/">в Атырау</a>, <a class="link" href="https://init.kz/petropavlovsk/seo/">в Петропавловске</a>, <a class="link" href="https://init.kz/aktau/seo/">в Актау</a>, <a class="link" href="https://init.kz/temirtau/seo/">в Темиртау</a>, <a class="link" href="https://init.kz/kokshetau/seo/">в Кокшетау</a>, <a class="link" href="https://init.kz/turkestan/seo/">в Туркестане</a>, <a class="link" href="https://init.kz/taldykorgan/seo/">в Талдыкоргане</a>, <a class="link" href="https://init.kz/pavlodar/seo/">в Павлодаре</a>, <a class="link" href="https://init.kz/kaskelen/seo/">в Каскелене</a>				</div>
+			</div>
+		</div>
+
+		<div class="bottom-footer">
+			<div class="container">
+				<div class="wrapper">
+					<div class="links">
+						<a href="/privacy-policy/">Политика конфиденциальности</a>
+					</div>
+
+					<div class="inline">
+						<div class="line">
+							<a href="https://www.instagram.com/init.kz/" target="_blank" rel="nofollow" class="btn medium outline rounded"><span class="icon icon-instagram"></span></a><a href="https://www.tiktok.com/@init.kz/" target="_blank" rel="nofollow" class="btn medium outline rounded"><span class="icon icon-tik-tok"></span></a><a href="https://www.youtube.com/channel/UC97ePM4k2nDc8E0KWqXa1Ig" target="_blank" rel="nofollow" class="btn medium outline rounded"><span class="icon icon-youtube"></span></a><a href="https://wa.me/+77074441345" target="_blank" rel="nofollow" class="btn medium outline rounded"><span class="icon icon-whatsapp"></span></a><a href="https://vk.com/initkz" target="_blank" rel="nofollow" class="btn medium outline rounded"><span class="icon icon-vk"></span></a><a href="https://www.facebook.com/%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F-INIT-103262525214132" target="_blank" rel="nofollow" class="btn medium outline rounded"><span class="icon icon-facebook"></span></a>						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<audio src="/wp-content/themes/init/dashboard/assets/audio/ring.mp3" id="ring"></audio>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/jquery/jquery.min.js' id='init-jquery-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/scripts/plugins/slick.min.js' id='init-slick-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/slider.js' id='init-slider-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/scripts/plugins/jquery-ui.min.js' id='init-jquery-ui-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/scripts/plugins/chart.min.js' id='init-chart-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/scripts/plugins/imask.js' id='init-imask-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/preload.js' id='init-preload-js'></script>
+<script type='text/javascript' src='https://init.kz/wp-content/themes/init/js/scripts.js' id='init-scripts-js'></script>
+<script type='text/javascript'>
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=ru; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+</script>
+</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Кэширование Object 2/1387 объектов с использованием disk
+Кэширование страницы с использованием disk: enhanced 
+
+Served from: init.kz @ 2022-02-10 08:40:56 by W3 Total Cache
+-->

@@ -1,0 +1,646 @@
+<html>
+  
+<head>
+<meta charset="utf-8">
+<meta name="google-site-verification" content="v1sm5bByXytccAQve25FHQHC41ZlXpze9w94RQfgRyc" />
+<meta name="yandex-verification" content="5a468fc79ca3daf9" />
+<meta name=viewport content="width=device-width, initial-scale=1">
+<!--<meta name="viewport" content="width=device-width, initial-scale=0.85, maximum-scale=0.85" /> --> 
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<link rel="shortcut icon" href="/ico/favicon.ico" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,700&subset=cyrillic" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" href="/css/colorbox.css" />
+<link rel="stylesheet" type="text/css" href="/css/solutions.css" />
+<link rel="stylesheet" href="/css/jquery.socialize.css" type="text/css" />
+  
+<!--link rel="stylesheet" href="/css/jquery.lightbox.css" type="text/css" /-->
+  
+<link rel="stylesheet" href="/js/owl.carousel.css">
+<link rel="stylesheet" href="/js/owl.theme.css">
+<link rel="stylesheet" href="/js/fancybox/jquery.fancybox.css">
+  <link rel="stylesheet" href="/css/mkdg_UX.css" type="text/css" />
+  <link rel="stylesheet" href="/css/mkdg_adaptive.css" type="text/css" />
+<script src="/js/jquery-1.8.3.min.js" type = "text/javascript"></script>
+  <script src="/js/dragdealer/dragdealer.js" type = "text/javascript"></script>
+ <!--script type="text/javascript" src="/ds-comf/ds-form/js/dsform.min.js"></script--> 
+  <!--script src="/js/jquery-1.4.4.min.js" type = "text/javascript"></script-->
+<script type="text/javascript">
+    var $jsq=jQuery.noConflict();
+    $jsq(document).ready(function(){
+      $jsq(".example5").colorbox();
+    });
+var name = "order";
+var str_m="mail";
+str_m+="to";
+str_m+=":<";
+str_m+=name;
+str_m+="@";
+str_m+="mkdg.ru>";
+</script>
+  <script type="text/javascript">
+    var $jsq=jQuery.noConflict();
+    $ = jQuery.noConflict();
+    $jsq(document).ready(function(){
+      $jsq(".example5").colorbox();
+    });
+var develope = "order";
+var str_d="mail";
+str_d+="to";
+str_d+=":<";
+str_d+=develope;
+str_d+="@";
+str_d+="mkdg.ru>";
+</script>
+<script type="text/javascript" src="/js/script.js"></script>
+<!--<script type="text/javascript" src="/js/carousel.js"></script>-->
+<script type="text/javascript" src="/js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="/js/jquery.socialize.js"></script>
+  
+<!--script type="text/javascript" src="/js/jquery.lightbox.js"></script-->
+  
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox.js"></script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77396713-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/js/owl.carousel.js"></script>
+<script type="text/javascript" src="/ds-comf/ds-form/js/dsforms.js"></script> 
+<script type="text/javascript" src="/js/masked-input/jquery.maskedinput.js"></script>
+<script type="text/javascript" src="/js/mkdg_UX.js"></script>
+<base href="https://mkdg.ru/"/>
+<meta name="description" content="Компания MKDG предлагает заказать услуги по разработке и созданию программного обеспечения (ПО) для вашего бизнеса. Выполняем под заказ проекты любой сложности оперативно и на выгодных условиях. Звоните по телефону в Москве: 8 (800) 777-01-07."/>
+ <meta name="keywords" content="разработка программного обеспечения разработка программного обеспечения на заказ разработка программного обеспечения москва услуги по разработке программного обеспечения компания разработка программного обеспечения стоимость разработки программного обеспечения разработка по разработка по на заказ разработка по под заказ программное обеспечение на заказ создание программного обеспечения разработка программ на заказ заказать программное обеспечение заказать разработку по"/>
+  
+  <title>Заказать разработку программного обеспечения в компании MKDG | Разработка ПО на заказ в Москве</title>
+  <meta property="og:title" content="Заказать разработку программного обеспечения в компании MKDG | Разработка ПО на заказ в Москве" />
+  <meta property="vk:image"  content="https://mkdg.ru/img/mkdg_vk.jpg" />
+  <meta property="og:image"  content="https://mkdg.ru/img/mkdg.jpg" />
+  <meta property="twitter:image"  content="https://mkdg.ru/img/mkdg.jpg" />
+
+
+  
+  <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1544645885916764');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1544645885916764&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+  <body>
+  <div id="requestForm1"></div>
+  <form id="requestForm2" name=form method=post action="/mailing.php" enctype="multipart/form-data" onsubmit="return logonadmin();"><center><div style="color:white;margin-top: -15px;font-size: 18px; font-weight: 700;    margin-left: -15px;margin-right: -15px;background-color: #436481;padding: 12px 0;margin-bottom: 5px;">Отправить заявку на разработку ПО</div></center><table align=center border=0><tr><td><label>Ваше имя/Компания</label><input style="height: 32px;margin-right:7px;" type=text size=59 name=name id=fname placeholder=""  title="Контактное лицо"></td></tr><tr><td><label>Телефон<span style="color:red;">*</span></label><input style="height: 32px;" type=text size=59 name=fone id=fphone placeholder="+7(___)-___-__-__" title="Телефон" required ><div id="phone_error_empty" style="color:red; display: none;">Введите пожалуйста номер телефона!</div><div id="phone_error_wrong" style="color:red; display: none;">Возможно ошибка в номере телефона? Допускается использовать только цифры, пробелы и знаки + - _ (). Примеры заполнения: (495) 640-04-77, 640-04-07, 640 04 07</div></td></tr><tr><td><label>Ваш e-mail</label><input style="height: 32px;"  type=text size=59 name=email id=femail placeholder="Ваш адрес электронной почты" title="E-mail"></td></tr><tr><td colspan="2"><label></label><label><input type="checkbox" name="it-audit[]" value="Внедрение системы управления заказами и взаимоотношениями с клиентами" style="width: auto;">Внедрение системы управления заказами и взаимоотношениями с клиентами</label><label><input type="checkbox" name="it-audit[]" value="Внедрение системы управления производством" style="width: auto;">Внедрение системы управления производством</label><label><input type="checkbox" name="it-audit[]" value="Внедрение системы информатизации и автоматизации магазина" style="width: auto;">Внедрение системы информатизации и автоматизации магазина</label><label><input type="checkbox" name="it-audit[]" value="Внедрение системы электронного документооборота" style="width: auto;">Внедрение системы электронного документооборота</label><label><input type="checkbox" name="it-audit[]" value="Внедрение системы автоматизации ресторана" style="width: auto;">Внедрение системы автоматизации ресторана</label></td></tr><tr><td colspan="2"><label>Комментарий</label><textarea style="width:581px;font-family: Arial, Helvetica, sans-serif;font-size: 14px;padding: 2px 5px;height:110px;"  name=shortdescr id=fshortdescr style="font-size:16px;" placeholder="Описание задачи" title="Описание задачи" ></textarea></td></tr><tr><td><input type=file size=30 name=user_file style="font-size:14px;" value="fwefw"></td></tr><tr><td colspan="2" style="padding-top:20px;"><label><input type="checkbox" id="personal_data_agreed" style="width:auto;" />Согласен на обработку персональных данных</labek></td></tr><tr> <td colspan="2" style="padding-top:20px;"><center><span id="personal_data_error" style="color:red; display: none;">Пожалуйста, дайте Ваше согласие на обработку необходимых персональных данных!</span></center></td></tr><tr></table><input type="hidden" value="7153880cc9cd8b339905d6d6ae324ae4" id="vdfgbrder" name="vdfgbrder">
+  <button value="Отменить" style="background:url(/sprite/images/close.png) no-repeat 0%; border:none; color:white;font-size: 18px;font-family: Arial, Helvetica, sans-serif; padding-left:25px; float:left; margin-left:50px;cursor:pointer; position: absolute;top: -2px;right: -20px;" onclick="document.getElementById('requestForm1').style.display='none';document.getElementById('requestForm2').style.display='none';return false;">&nbsp;</button>
+  <input type=submit value="Отправить" class="form-send" onclick="clickreturn();" style=font-size:14px;></td></div></form><form id="requestForm3" name=form enctype="multipart/form-data"><center><div style="color:white;margin-top: -15px;font-size: 18px; font-weight: 700;    margin-left: -15px;margin-right: -15px;background-color: #436481;padding: 12px 0;margin-bottom: 5px;">Отправить заявку</div></center><table align=center border=0><tr><td><div class="f-info">Поля, отмеченные <span class="red">*</span>, обязательны для заполнения.</div></td></tr><tr><td><input type="text"  disabled value="Разработка CRM, ERP"/></td></tr><tr><td><label>Ваше имя/Компания:</label><input style="height: 32px;margin-right:7px;" type=text size=59 name=name id=fname placeholder=""  title="Контактное лицо"></td></tr><tr><td><label>Телефон<span style="color:red;">*</span></label><input class="phonemask" id=fphone2 style="height: 32px;" type=text size=59 name=tel placeholder="+7(___)-___-__-__" title="Телефон" required><div id="phone_error_empty" style="color:red; display: none;">Введите пожалуйста номер телефона!</div><div id="phone_error_wrong" style="color:red; display: none;">Возможно ошибка в номере телефона? Допускается использовать только цифры, пробелы и знаки + - _ (). Примеры заполнения: (495) 640-04-77, 640-04-07, 640 04 07</div></td></tr><tr><td><label>Ваш e-mail</label><input style="height: 32px;" type=text size=59 name=email id=femail placeholder="Ваш адрес электронной почты" title="E-mail"></td></tr></table><input type="hidden" value="send_request" name="action"><input type="hidden" value="Разработка CRM, ERP" name="service"><button value="Отменить" style="background:url(/sprite/images/close.png) no-repeat 0%; border:none; color:white;font-size: 18px;font-family: Arial, Helvetica, sans-serif; padding-left:25px; float:left; margin-left:50px;cursor:pointer; position: absolute;top: -2px;right: -20px;" onclick="document.getElementById('requestForm1').style.display='none';document.getElementById('requestForm3').style.display='none';return false;">&nbsp;</button><button type=submit class="send_request" ><span></span>Отправить заявку</button><div class="f-info">Наш оператор свяжется с Вами в течение 15 минут.</div></form><script language="javascript" src="/js/secretcode.js"></script>
+  <div style="position: absolute; right: 250px;  z-index: 1; top: -34px ;width: 200px; height:20px;  text-align:left;">
+<!-- Вход в VIP кабинет--> 
+  <div style="padding-left:10px; position: absolute;top: 49px;right: 230px; "> 
+  <a style="cursor:pointer;" class="example5" rel="noindex" id="cabinet" title="" href="/loginForm.html">
+  </a>
+</div>
+<!-- /Вход в VIP кабинет-->
+</div>
+<div class="fixed_menu">
+<div class="header wrapper">
+  <div class="logoBox">
+      <a href="/" style="display:block;">
+        <img src="/img/mkdg_2020_230.png" alt="MKDG - автоматизация логистики,автоматизация торговли,разработка erp систем,разработка по,разработка программного обеспечения,создание программ,электронный документооборот" style="width: 230px;"/>
+      </a>
+     <!-- <span class="logo-description">
+          Разработка программного обеспечения
+          
+          
+      </span> -->
+ </div>
+ <div class="contacts">
+  <div class="contacts__feedback">
+    <div class="contacts__feedback__phone">
+      <!--<a href="tel:+78007770107"><span class="nmb first">8 800</span><span class="very_big">777-01-07</span></a>-->
+      <a href="tel:+74956400477"><span class="nmb">8 (495)</span><span class="big">64-004-77</span></a>
+    </div>
+    <!--<div class="contacts__feedback__other">
+      <a class="email" onmousedown="location=str_m" rel="noindex" title="Написать" href="mailto:order@mkdg.ru">order@mkdg.ru</a>
+    </div>-->
+  </div>
+ <!-- <div class="contacts-address">
+    Москва, Одесская д.2 корп А, Бизнес-центр «Лотос», 9 этаж.
+    
+    
+    
+  </div>
+   -->
+</div>
+<!--<div class="buttons-block">
+  <a class="ask-question" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block'; return false;"><span></span>Отправить заявку на разработку ПО</a>
+  <a class="order-call" data-dspopup-id="dscallme"><span></span>Обратный звонок</a>
+
+</div>-->
+  <div class="language_block web">
+   <a class="rus" title="Русский" href="/"><span>Рус</span></a><a class="eng" title="English" href="/en/main.html"><span>Eng</span></a><a class="ger" title="Deutsch" href="/de/main.html"><span>Deu</span></a>
+  </div>
+</div>
+  </div>
+<div style='clear: both;'></div>
+<span class="header_menu fixed-menu-block">
+<div class="menu_hamburger">
+   <span></span>
+   <span></span>
+   <span></span>
+</div>
+<div class="main-menu">
+<div class="wrapper">
+
+  <ul><li class="main-menu__item first active"><a href="/" title="Разработка CRM, ERP">Главная</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="about/" title="О компании">О компании</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="services/" title="Услуги">Услуги</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="solutions/" title="Решения">Решения</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="clients.html" title="Наши клиенты">Наши клиенты</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="career.html" title="Карьера">Карьера</a><span class="sub_menu"></span></li>
+<li class="main-menu__item last"><a href="contacts.html" title="Контакты">Контакты</a><span class="sub_menu"></span></li>
+</ul>
+
+</div>
+</div>
+
+</span>
+<div class="margin-fixed"></div>
+    <div class="top_banner">
+      <div class="top_banner_inner">
+        <div class="top_banner_text"> <div class="top_banner_text_inner"><div class="top_banner_text_inner_background"></div>
+          <div class="top_banner_text_inner_inner">
+      Наш профиль - разработка<br /> эксклюзивного программного<br /> обеспечения и решение<br /> нестандартных задач!
+      
+      
+            </div>
+    </div>
+          <div class="send_wrapper" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block';"> <a class="sendRequest" title="Отправить заявку" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block'; return false;" href="">Отправить заявку</a> </div>
+        </div>
+        
+          <div class="clear"></div>
+      </div>
+      </div>
+  <table width=100% cellpadding=0 cellspacing=0 border="0" style="padding-top:15px;">
+    <tr>
+      <td id='content' valign=top style='padding:0 10px 15px 10px; text-align:left;'>
+      <div class="wrapper it-audit" style="text-align: left; margin-top: 20px;margin-bottom: 40px;">
+	<h2 style="text-align: center; color: #000; text-transform: uppercase;"><span>Акция</span></h2>
+	<h3 style="text-align: center; font-weight: normal;font-size: 1.4em; margin-top: 0;">IT  аудит и анализ информационных рисков бесплатно</h3>
+	<p>Если вы хотите:</p>
+	<ul>
+		<li><img src="/images/audit/Coins.png"><br>Знать, на каком этапе ваша компания теряет деньги</li>
+		<li><img src="/images/audit/Pie.png"><br>Повысить производительность труда</li>
+		<li><img src="/images/audit/Cart.png"><br>Увеличить продажи</li>
+		<li><img src="/images/audit/Info.png"><br>Получить точную и оперативную сводку по любому показателю</li>
+		<li class="clear" style="float: none;"></li>
+	</ul>
+	<p>Оставьте заявку и мы проведем бесплатный IT аудит и оценим информационные риски на вашем предприятии.</p>
+	<a class="sendRequest" title="Отправить заявку" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block'; var it_audit = true; return false;" href="">Отправить заявку</a>
+</div>
+<div class="wrapper street_falcon" style="text-align: left; margin-top: 20px;margin-bottom: 40px;">
+	<h2 style="color: #000;"><span>Автоматизация парковок &laquo;Стрит Фалькон&raquo;</span></h2>
+	<div class="street_falcon_wrapper">
+		<div class="street_falcon_left"></div>
+		<div class="street_falcon_right">
+			<div class="street_falcon_right_text">
+				<p>Внедрение комплексов автоматической фото-видеофиксации нарушений правил дорожного движения и контроля парковок АПК &laquo;Стрит Фалькон&raquo;.</p>
+				<p>Комплексы &laquo;Стрит Фалькон&raquo; ведут круглосуточный мониторинг уличного и парковочного пространства в режиме реального времени, осуществляют автоматическую фиксацию административных правонарушений в области дорожного движения и в области благоустройства.</p>
+				<p>Комплексы &laquo;Стрит Фалькон&raquo; интегрируются с парковочным оборудованием на автомобильных парковках и закрытых территориях.</p>
+				<p>Комплексы &laquo;Стрит Фалькон&raquo; одновременно с фиксацией нарушений ПДД осуществляют распознавание и идентификацию лиц, а также сверку с различными базами данных, соц. сетями и т.д.</p>
+				<p>Комплексы &laquo;Стрит Фалькон&raquo; используют передовые технологии энергосбережения,  в частности работают на солнечной энергии.</p>
+			</div>
+			<a class="sendRequest" title="Отправить заявку" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block'; var it_audit = true; return false;" href="">Отправить заявку</a>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="wrapper airlines" style="text-align: left; margin-top: 20px;margin-bottom: 40px;">
+	<h2 style="color: #000;"><span>Автоматизация авиакомпаний</span></h2>
+	<div class="airlines_wrapper">
+		<div class="airlines_left">
+			<div class="airlines_left_text">
+				Наша компания имеет успешный опыт автоматизации авиакомпаний, который позволяет выполнять работы самого высокого уровня сложности, в том числе на "боевой системе" Клиента.
+			</div>
+			<a class="sendRequest" title="Отправить заявку" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block'; var it_audit = true; return false;" href="">Отправить заявку</a>
+		</div>
+		<div class="airlines_right">
+		</div>
+	</div>
+</div>
+<div class="wrapper ownstaff" style="text-align: left; margin-top: 20px;margin-bottom: 40px;">
+	<div class="ownstaff_wrapper">
+		<div class="ownstaff_left">
+		</div>
+		<div class="ownstaff_right">
+			<div class="ownstaff_right_text">
+				<h3>У нас свой, постоянный штат разработчиков</h3>
+MKDG имеет лицензии на разработку систем обработки персональных данных и криптозащиты.
+			</div>
+		</div>
+                <div class="clear"></div>
+	</div>
+</div>
+<div class="wrapper" style="text-align: center;">
+	<h1>Разработка программного обеспечения</h1>
+	<p>Компания MKDG предлагает услуги по разработке программного обеспечения для вашего бизнеса. Мы готовы реализовать проекты любой сложности. Благодаря постоянному совершенствованию навыков и освоению новых методов наши специалисты создадут качественный, отвечающий всем требованиям продукт. Мы имеем свой, постоянный штат разработчиков. Услуги по разработке программного обеспечения, как правило, состоят из следующих этапов:</p>
+</div>
+<div class="wrapper">
+	<p style="margin: 0;">&nbsp;</p>
+	<div class="step">
+		<div class="step__item">
+			<div class="step__image analitics"> </div>
+			<p class="step__item__title">Анализ задачи</p>
+			<p><span>1.</span> Получение заявки от Заказчика и ее предварительный анализ (за счет 10-летнего опыта работы уже на этом этапе мы обычно понимаем, что требуется в целом).</p>
+			<p><span>2.</span> Обсуждение заявки с Заказчиком с целью уточнения ряда возникших вопросов (за счет ответов на наши вопросы мы уже точнее понимаем требования и готовы предлагать различные варианты).</p>
+			<p><span>3.</span> Предварительная оценка сроков разработки и стоимости работ (здесь мы предоставляем развернутое коммерческое предложение с предварительными, но уже довольно точными оценками сроков выполнения работ и стоимости программного обеспечения, а также предлагаем несколько вариантов сотрудничества. В конечном счете, в 99 % случаев, мы приходим к взаимовыгодным условиям сотрудничества).</p>
+		</div>
+		<div class="step__item">
+			<div class="step__image techzad"> </div>
+			<p class="step__item__title">Техническое задание</p>
+			<p><span>4.</span> Разработка детального Технического задания для программ (естественно, мы создаем документ, согласовывая и обсуждая варианты с Заказчиком).</p>
+			<p><span>5.</span> Согласование интерфейсов программного продукта (один из самых интересных этапов, на котором Заказчик впервые видит свой программный продукт и может проявить креатив и даже внести в него что-то свое, по праву почувствовав себя одним из его создателей).</p>
+		</div>
+		<div class="step__item">
+			<div class="step__image razrabotka"> </div>
+			<p class="step__item__title">Разработка ПО</p>
+			<p><span>6.</span> Непосредственно сама разработка программного обеспечения (не быстрый, но самый важный этап, который включает в себя обязательное тестирование специалистами).</p>
+			<p><span>7.</span> Демонстрация Заказчику альфа-версии программного продукта (на этом этапе программный продукт уже на 99 % соответствует требованиям Заказчика).</p>
+			<p><span>8.</span> Незначительные доработки информационной системы и окончательное тестирование.</p>
+		</div>
+		<div class="step__item">
+			<div class="step__image guarantee"> </div>
+			<p class="step__item__title">Внедрение и гарантийная поддержка</p>
+			<p><span>9.</span> Внедрение в промышленную эксплуатацию на площадке Заказчика и передача всей технической документации.</p>
+			<p><span>10.</span> Гарантийная поддержка информационной системы (эта бесплатная опция входит во все наши договоры).</p>
+		</div>
+	</div>
+</div>
+     </td>
+   </tr>
+   <tr>
+      <td>
+        <div class="whatwedo-block">
+<div class="wrapper">
+<h2>Мы решаем следующие задачи:</h2>
+<div class="task">
+<a href="services/razrabotka-internet-magazinov.html" class="task__item">
+<div class="task__item__img img_shop"> </div>
+<p class="task__item__title">Разработка Интернет-магазинов.</p>
+<p class="task__item__description longText">Мощнейший инструмент продаж в сети Интернет, состоящий из нескольких глобальных модулей...</p>
+<span href="services/razrabotka-internet-magazinov.html">Подробнее</span>
+</a>
+ <a href="services/razabotka-crm-sistem.html" class="task__item">
+<div class="task__item__img img_crm"> </div>
+<p class="task__item__title">Разработка CRM систем.</p>
+<p class="task__item__description longText">Система управления взаимоотношениями с клиентами — программное обеспечение для автоматизации ст...</p>
+<span href="services/razabotka-crm-sistem.html">Подробнее</span>
+</a><a href="services/razabotka-erp-sistem.html" class="task__item">
+<div class="task__item__img img_erp"> </div>
+<p class="task__item__title">Разработка ERP систем.</p>
+<p class="task__item__description longText">Планирование ресурсов предприятия - организационная стратегия интеграции производства и операци...</p>
+<span href="services/razabotka-erp-sistem.html">Подробнее</span>
+</a><a href="services/razrabotka-baz-dannyh.html" class="task__item">
+<div class="task__item__img img_bd"> </div>
+<p class="task__item__title">Разработка баз данных.</p>
+<p class="task__item__description longText">Использование СУБД Access, MySQL, Interbase, Firebird, MS SQL и других. База данных позволит си...</p>
+<span href="services/razrabotka-baz-dannyh.html">Подробнее</span>
+</a><a href="services/razabotka-tehnicheskogo-zadaniya.html" class="task__item">
+<div class="task__item__img img_techzad"> </div>
+<p class="task__item__title">Разработка технического задания.</p>
+<p class="task__item__description longText">Составление технически четких и исчерпывающих требований к разрабатываемому продукту. Максималь...</p>
+<span href="services/razabotka-tehnicheskogo-zadaniya.html">Подробнее</span>
+</a>
+<a href="services/razrabotka-programnogo-obespechenia.html" class="task__item">
+<div class="task__item__img img_razrabotka"> </div>
+<p class="task__item__title">Разработка программного обеспечения.</p>
+<p class="task__item__description longText">Подготовка требований к ПО, создание программного комплекса, его тестирование, внедрение и сопр...</p>
+<span href="services/razrabotka-programnogo-obespechenia.html">Подробнее</span>
+</a>
+<a href="services/razrabotka-saitov.html" class="task__item">
+<div class="task__item__img img_web"> </div>
+<p class="task__item__title">Разработка сайтов.</p>
+<p class="task__item__description longText">Полный комплекс работ по разработке, внедрению, сопровождению сайтов любой сложности. Проектиро...</p>
+<span href="services/razrabotka-saitov.html">Подробнее</span>
+</a>
+<a href="services/web-programirovanie.html" class="task__item">
+<div class="task__item__img img_program"> </div>
+<p class="task__item__title">Web-программирование.</p>
+<p class="task__item__description longText">Современные веб-технологии позволяют создавать платформонезависимые приложения, выполняющиеся в...</p>
+<span href="services/web-programirovanie.html">Подробнее</span>
+</a>
+
+</div>
+</div>
+</div>
+<div class="wrapper">
+ <p>Стоимость услуг по разработке программного обеспечения для каждого конкретного проекта зависит от предъявляемых требований, объема работ, используемых технологий, сроков выполнения.
+</p>
+<p>Подробную информацию уточняйте у наших специалистов по телефонам в Москве +7 (800) 777-01-07, +7 (495) 64-004-77.</p>
+</div>
+    
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div class="wrapper">
+          <div class="dev-steps">
+  <div class="dev-steps-title">Разрабатываем уникальное программное обеспечение</div>
+  <div class="dev-steps-subtitle">принимая в учет каждую деталь вашего бизнеса</div>
+  <div class="dev-steps-bg">
+    <div class="dev-steps-block">
+      <div class="dev-steps-block-name">Проектируем<br>логику</div>
+      <div class="dev-steps-block-text">Изучаем бизнес-модель и с должным вниманием к каждой детали проектируем оптимальные сценарии работы будущей программы</div>
+    </div>
+    <div class="dev-steps-block">
+      <div class="dev-steps-block-name">Разрабатываем<br>интерфейс</div>
+      <div class="dev-steps-block-text">Разрабатываем интуитивно понятный интерфейс, который обеспечивает быструю и удобную работу</div>
+    </div>
+    <div class="dev-steps-block">
+      <div class="dev-steps-block-name">Программируем<br>систему</div>
+      <div class="dev-steps-block-text">Надежными программными средствами в точности реализуем весь запланированный функционал</div>
+    </div>
+    <div class="dev-steps-block">
+      <div class="dev-steps-block-name">Повышаем<br>прибыльность</div>
+      <div class="dev-steps-block-text">Обеспечиваем прозрачность бизнес-процессов, снижение издержек и повышение эффективной работы сотрудников</div>
+    </div>
+  </div>
+</div>
+          <div class="clear"></div>
+         <p class="h2" style="margin-top:15px;text-align:center">
+          Наши Клиенты
+          
+          
+</p>
+<div class="client-block">
+    <div class="clients">
+      <img src="/img/clients/aeroflot.png" style="max-width: 150px; max-height: 78px; padding-top: 18px;" title="Аэрофлот Aeroflot" alt="Аэрофлот Aeroflot" />
+    </div>
+    <div class="clients">
+      <img src="/img/clients/russia.jpg" style="max-width: 150px; max-height: 78px;" title="Россия Rossiya" alt="Россия Rossiya" />
+    </div>
+    <div class="clients">
+      <img src="/img/clients/ampp.png" style="max-width: 150px; max-height: 78px; padding-top: 9px;"  alt="АМПП AMPP" />
+    </div>
+    <div class="clients">
+      <img src="/img/siemens.png" style="max-width: 150px; max-height: 78px;"  alt="Siemens" />
+    </div>
+    <div class="clients">
+      <img src="/img/rainko.png" width="57" height="59" alt="Русско-Азиатская инвестиционная компания RAINCO" />
+    </div>
+    <div class="clients">
+      <img src="/img/rihter.png" width="120" height="70" alt="Гедеон Рихтер Gedeon Richter" />
+    </div>
+    <div class="clients">
+      <img src="/img/diksi1.png"  style="max-width: 150px; max-height: 78px;" alt="Cеть универсамов ДИКСИ DIXIE" />
+    </div>
+    <div class="clients">
+      <img src="/img/tuv.png"  style="max-width: 150px; max-height: 78px;"  border="0" alt="TUV SUD" />
+    </div>
+    <div class="clients">
+      <img src="/img/lux.png"  style="max-width: 150px; max-height: 78px;"  border="0" alt='Торговый Дом "Люкс" в Олимпийской деревне-80 “LUX” TH' />
+    </div>
+    <div class="clients">
+      <img src="/img/i.c.inter1.jpg"  style="max-width: 150px; max-height: 78px;"  alt="Группа Компаний I.C. INTERCOMPLECT LTD" />
+    </div>
+    <div class="clients">
+      <img src="/img/clientsLogo_03.png" width="124" height="59" alt="Фонд Георгия Данелия" />
+    </div>
+    <div class="clients">
+      <img src="/img/electro1.jpg"  style="max-width: 150px; max-height: 78px; padding-top: 20px;" alt="ЗАО Электрощит" />
+    </div>
+    <div class="clients">
+      <img src="/img/clientsLogo_05.png" width="141" height="64" title="ФГУ Управления делами Президента РФ" alt="ФГУ Управления делами Президента РФ Administrative Directorate of the President" />
+    </div>
+    <div class="clients">
+      <img src="/img/clients/logo2_3619324.jpg" width="141" height="64" title="Центурион - Логистик" alt="Логотип Центурион - Логистик CENTURION Logistics" />
+    </div>
+  </div>
+   
+        </div>
+      </td>      
+    </tr>
+    <tr>
+      <td>
+        <div class="wrapper">
+            <p class="h2" style="margin-top:15px;text-align:center">В состав нашего холдинга входит <a href="https://bmwclub.ru" target="_blank">BMW Клуб</a></p>
+            <p class="h3" style="margin-top:15px;text-align:center">Мобильное приложение BMW Клуба:</p>
+          <div style="text-align: center; max-width: 660px; margin: auto;">
+<div style="display: inline-block; margin: 0 30px;">
+<a style="display:block;margin-bottom: -10px;" href="https://www.bmwclub.ru/mkdgutmcampaigns?c_id=2" target="_blank"><img style="display: inline-block; margin-left: auto; margin-right: auto;" src="/images/available_on_apple.png" alt="appstore" width="250"></a>
+<a style="display:block" href="https://www.bmwclub.ru/mkdgutmcampaigns?c_id=2" target="_blank"><img style="display: inline-block; margin-left: auto; margin-right: auto;" src="/images/qr-code-appstore.gif" alt="appstore" width="222"></a></div>
+<div style="display: inline-block; margin: 0 30px;">
+<a href="https://www.bmwclub.ru/mkdgutmcampaigns?c_id=4" target="_blank"><img style="max-width: 100%; margin-bottom: -10px; display: block;" width="250" src="/images/ru_badge_web_generic.png" alt="google play"></a>
+<a style="display:block" href="https://www.bmwclub.ru/mkdgutmcampaigns?c_id=4" target="_blank"><img style="display: inline-block; margin-left: auto; margin-right: auto;" src="/images/qr-code-googleplay.gif" alt="google play" width="222"></a></div> 
+          <div class="clear"></div>
+</div>
+        </div>
+      </td>      
+    </tr>
+    <tr>
+      <td>
+         <div class="recomendation">
+  <div class="wrapper">
+    <div class="h2" style="text-align:center;padding: 20px 0 30px;">Рекомендации</div>
+      <a title="Гедеон Рихтер" rel="lightbox-group" href="/img/letters/gedeon.jpg" class="lightbox-enabled"><img class="ssimple" title="Гедеон Рихтер" src="/img/letters/thumb_gedeon.jpg" border="0" alt="Гедеон Рихтер" width="140"></a>
+      <a title="BMW club" rel="lightbox-group" href="/img/letters/bmw.jpg" class="lightbox-enabled"><img class="ssimple" title="BMW club" src="/img/letters/thumb_bmw.jpg" border="0" alt="BMW club" width="140"></a>
+      <a title="Торговый дом Люкс" rel="lightbox-group" href="/img/letters/luxe.jpg" class="lightbox-enabled"><img class="ssimple" title="Торговый дом Люкс" src="/img/letters/thumb_luxe.jpg" border="0" alt="Торговый дом Люкс" width="140"></a>
+  </div>
+  <a href="about/otzyvy.html" class="link__all-reviews">Все рекомендации</a>
+</div>
+
+
+
+   
+      </td>      
+    </tr>
+   <!-- <tr>
+      <td>
+         <div class="news wrapper">
+<a href="about/press-center/news/" class="h2">Новости</a>
+<dl class="news">
+<div class="news-item" onclick="window.location='about/press-center/news/platforma-dlya-monitoringa-parkovochnogo-prostranstva.html'">
+  <div> 
+    <span style="color: rgb(50,50,50);">
+      <img src="img/platform-parking.png" alt=""/>
+      <div class="date">22.06</div>
+      <a href="about/press-center/news/platforma-dlya-monitoringa-parkovochnogo-prostranstva.html" style='color: black; font-weight:bold;'>Платформа для мониторинга парковочного пространства</a>
+      <div style="clear:both"></div>
+     <p>Нами была создана платформа для автоматизации процесса мониторинга парковочного пространства RoboVizor.</p>
+     <a href="about/press-center/news/platforma-dlya-monitoringa-parkovochnogo-prostranstva.html" class="more-news">Подробнее</a>
+   </span>
+  </div>
+</div>
+
+<div class="news-item" onclick="window.location='about/press-center/news/rejting-nenadezhnyh-brauzerov.html'">
+  <div> 
+    <span style="color: rgb(50,50,50);">
+      <img src="img/browserie.png" alt=""/>
+      <div class="date">21.08</div>
+      <a href="about/press-center/news/rejting-nenadezhnyh-brauzerov.html" style='color: black; font-weight:bold;'>Рейтинг ненадежных браузеров</a>
+      <div style="clear:both"></div>
+     <p>Опубликован список самых ненадежных браузеров</p>
+     <a href="about/press-center/news/rejting-nenadezhnyh-brauzerov.html" class="more-news">Подробнее</a>
+   </span>
+  </div>
+</div>
+
+<div class="news-item" onclick="window.location='about/press-center/news/rost-url-spama.html'">
+  <div> 
+    <span style="color: rgb(50,50,50);">
+      <img src="img/spam.png" alt=""/>
+      <div class="date">05.06</div>
+      <a href="about/press-center/news/rost-url-spama.html" style='color: black; font-weight:bold;'>Рост URL-спама</a>
+      <div style="clear:both"></div>
+     <p>Эффективная раскрутка сайта возможна только при комплексном подходе</p>
+     <a href="about/press-center/news/rost-url-spama.html" class="more-news">Подробнее</a>
+   </span>
+  </div>
+</div>
+
+</dl>
+</div>
+      </td>      
+    </tr> -->
+    <!--<tr>
+      <td>
+         <div class="mission">
+  <div class="wrapper">
+    <img src="/img/photomain.png" class="photomain">
+     <p>«Наша миссия – помогать партнерам решать стратегические задачи управления и развития бизнеса и повышать эффективность компании с использованием инновационного инструмента, гарантирующего выгоды от его приобретения.</p><p>Это достигается благодаря надежному сервису и качеству, обеспеченному компетенцией персонала, поставщиков-партнеров и использованием инновационных технологий в производстве интеллектуальных продуктов».</p><p class="author">Юрий Мартынов<br>Генеральный директор MKDG</p>
+     
+            
+    
+  </div>  
+</div>
+      </td>      
+    </tr>-->
+    <tr>
+      <td>
+         
+<div class="feedback">
+  <div class="wrapper">
+    <div id="dsfedd" class="ds-form"></div>
+  </div>
+</div>
+      </td>      
+    </tr>
+    <tr>
+      <td colspan=3>
+        <span class="footer_menu"><div class="menu_hamburger">
+   <span></span>
+   <span></span>
+   <span></span>
+</div>
+<div class="main-menu">
+<div class="wrapper">
+
+  <ul><li class="main-menu__item first active"><a href="/" title="Разработка CRM, ERP">Главная</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="about/" title="О компании">О компании</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="services/" title="Услуги">Услуги</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="solutions/" title="Решения">Решения</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="clients.html" title="Наши клиенты">Наши клиенты</a><span class="sub_menu"></span></li>
+<li class="main-menu__item "><a href="career.html" title="Карьера">Карьера</a><span class="sub_menu"></span></li>
+<li class="main-menu__item last"><a href="contacts.html" title="Контакты">Контакты</a><span class="sub_menu"></span></li>
+</ul>
+
+</div>
+</div>
+</span>
+<div id="scroller"></div>
+<div class="footer wrapper">
+<div class="logoBox">
+      <a href="/" style="display:block;">
+        <img src="/img/mkdg_2020_209.png" alt="MKDG - автоматизация логистики,автоматизация торговли,разработка erp систем,разработка по,разработка программного обеспечения,создание программ,электронный документооборот" />
+      </a>
+      <span class="logo-description">Разработка программного обеспечения</span>
+ </div>
+ <div class="contacts">
+  <div class="contacts__feedback">
+    <div class="contacts__feedback__phone">
+      <a href="tel:+78007770107"><span class="nmb first">8 800</span><span class="big">777-01-07</span></a>
+      <a href="tel:+74956400477"><span class="nmb">8 (495)</span><span class="big">64-004-77</span></a>
+    </div>
+    <div class="contacts__feedback__other">
+      <a class="email" onmousedown="location=str_m" rel="noindex" title="Написать" href="mailto:order@mkdg.ru">order@mkdg.ru</a>
+      <!--<div class="icq">448-506-974</div>-->
+    </div>
+  </div>
+  <div class="contacts-address">
+     Москва, ул. Одесская д.2 корп А, БЦ «Лотос», 9 этаж.
+  </div>
+</div>
+<div class="buttons-block">
+  <a class="ask-question" onclick="document.getElementById('requestForm1').style.display='block';document.getElementById('requestForm2').style.display='block'; return false;"><span></span>Отправить заявку на разработку ПО</a>
+  <!--<a class="order-call" data-dspopup-id="dscallme"><span></span>Заказать обратный звонок</a>-->
+  <div class="ya-share2" data-services="facebook,twitter,vkontakte,telegram,pocket"></div>
+</div>
+</div>
+
+<div class="footerLine">
+  <div class="wrapper">
+    <span>© 2005—2021 «MKDG Group» Разработка программного обеспечения</span>
+   <a href="/sitemap.html" style="font-size:14px;margin-left:10px;">Карта сайта</a>
+  </div>
+</div>
+
+<script>
+  gKweri('.tbouetmn').dsform({
+   formID:  'zayavakanauslugu',
+ });
+document.getElementsByClassName('oueid')[0].addEventListener('click', function(){
+  document.getElementById('requestForm1').style.display='block';
+  document.getElementById('requestForm2').style.display='block'; 
+  var textd = document.getElementById('requestForm2')
+  .querySelector('center > div');
+  var t = document.getElementById('requestForm2')
+  .querySelector('center > div').textContent;
+  textd.innerHTML = 'Заказать аудит';
+    function  restore (){
+   document.getElementById('requestForm2')
+  .querySelector('center > div').innerHTML = t;
+   document.getElementById('requestForm2').getElementsByTagName('button')[0].removeEventListener('click', restore);
+  }
+  document.getElementById('requestForm2').querySelector('button').addEventListener('click', restore);
+});  
+  
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(86637138, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/86637138" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Старый код Yandex.Metrika counter:  55367530 -->
+<script  type="text/javascript" src="/d-goals.js"></script>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

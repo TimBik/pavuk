@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Программа автоматизации работы экспедиторов и отделов транспортной логистики, широкий функционал и снижение издержек до 30% от компании Логисмарт." />
+<link href="/bitrix/cache/css/s1/logismart/template_649265070d5af2fb6252f4c25c5b5990/template_649265070d5af2fb6252f4c25c5b5990.css?160137116993988" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-2.2.0.min.js"><\/script>')</script>
+
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/logismart/template_b4c02d4e242785bd3518fd04d79a14e3/template_b4c02d4e242785bd3518fd04d79a14e3.js?1601371169365983"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "daec3b3ee573b4472aab67fc324c3841"]); _ba.push(["host", "www.logismart.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+		<title>Программа для экспедиторов и транспортных компаний — CRM-система автоматизации логистики</title>
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, user-scalable=yes">
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> 	
+		
+    <!-- Detect browser and setup Cap for old versions-->
+    <script></script>
+    <!-- Get html5shiv if this is IE lower or equal to 9--><!--[if lte IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+		<meta name="yandex-verification" content="e74c338608330698" />
+		<meta name="google-site-verification" content="SMNqkmo0QbB7dwWluTNJZfgDsIeBy2B0sCvvHW2wglc" />
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" >
+            (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(49599217, "init", {
+                clickmap:true,
+                trackLinks:true,
+                accurateTrackBounce:true,
+                webvisor:true,
+                ecommerce:"dataLayer"
+            });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/49599217" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122327757-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-122327757-1');
+		</script>		
+	</head>
+	<body>
+		<div id="panel">
+					</div>
+		<header class="header">
+		  <div class="header-content">
+			<div class="wrap header-wrap">
+			<a class="logo" href="/">
+				<div class="logo__ico"></div>
+				<div class="logo__text">
+				Программа для автоматизации транспортно-экспедиторских компаний и таможенных брокеров				</div>
+				</a>
+			  <div class="lang">
+									<span class="lang__item active">[ Рус ]</span>
+					<a class="lang__item" href="/en/">[ Eng ]</a>
+								
+				</div>
+			  <div class="phone">
+			  <a class="phone__tel" href="tel:+78123093835"> <span>+7 (812) </span>309-38-35</a>
+<a class="phone__tel" href="tel:+74951087436"> <span>+7 (495) </span>108-74-36</a>			  
+			  <a class="phone__callback" href="#callback" data-fancybox>Заказать обратный звонок</a>
+			  </div>
+			</div>
+		  </div>
+		  <div class="nav">
+			<div class="wrap"><a class="menu__toggle" href="#menu" data-toggle>Меню</a>
+				<ul class="menu" id="menu">
+	<li class="menu__item"><a class="menu__link" href="/">Главная</a></li>
+	<li class="menu__item"><a class="menu__link" href="/history/">О компании</a></li>
+	<li class="menu__item"><a class="menu__link" href="/about/">О системе автоматизации</a></li>
+	<li class="menu__item"><a class="menu__link" href="/articles/">Статьи</a></li>
+	<li class="menu__item"><a class="menu__link" href="/contacts/">Контакты</a></li>
+</ul>
+
+				<a class="nav__demo" href="#callback" data-fancybox>Купить программу</a>
+				<a class="btn btn-top-start" href="#callback" data-fancybox="">
+					Начать использовать				</a>
+			</div>
+		  </div>
+		</header>
+		<main class="main">		
+			
+							<div class="banner">
+	
+						
+	
+	<div class="banner-item" id="bx_4665576_3">
+		<div class="banner-item__img">
+			<img src="/upload/iblock/701/701b981e71ddb6a12f1e8e8a92b0dcd1.jpg" alt="">
+		</div>
+		<div class="wrap">
+			<div class="banner-item__content">
+					<h1 class="banner-item__title">
+Программа <br>
+для транспортной логистики
+</h1>											<a class="btn" href="#callback" data-fancybox="">Начать использовать</a>
+				 
+
+									<div style="margin-top:10px;">
+						<p>Для представителей экспедиторских кампаний</p>					</div>
+							</div>
+		</div>
+	</div>	
+						
+	
+	<div class="banner-item" id="bx_4665576_26">
+		<div class="banner-item__img">
+			<img src="/upload/iblock/5d9/5d9977864021c406b03ac770b80b67fe.jpg" alt="">
+		</div>
+		<div class="wrap">
+			<div class="banner-item__content">
+					<h2 class="banner-item__title">О системе автоматизации</h2>			
+
+<a class="btn" href="/about/">Подробнее</a>				 
+
+							</div>
+		</div>
+	</div>	
+		</div>
+<div class="about">
+	<div class="wrap">
+		<div class="about__text">
+			<h2>О нас</h2>
+			<p>
+				Специализация компании «Софт Бизнес Решения» - разработка отраслевых программных продуктов для транспортно- <br>
+				экспедиторской деятельности, линейных агентов, таможенных брокеров и участников ВЭД.
+			</p>
+			<p>
+				Процесс разработки в нашей компании оттачивался годами. Мы используем только профессиональные инструменты для создания программ, а также передовые системы управления проектами и работы с заказчиками: Jira, Devexpress, MS Visual Studio, MS Team Foundation, MS SQL Server, Axosoft Scrum Software, ApexSQL Suit и т.д.
+			</p>
+		</div>
+	</div>
+</div>
+<div class="advantages">
+	<div class="wrap">
+		<div class="advantages-item">
+			<span class="bold">&gt; 10 000</span> ДТ в месяц
+		</div>
+		<div class="advantages-item">
+			<span class="bold">1400</span> автоматизированных мест
+		</div>
+		<div class="advantages-item">
+			<span class="bold">12</span> лет работы
+		</div>
+		<div class="advantages-item">
+			<span class="bold">20</span> доработок ежемесячно
+		</div>
+	</div>
+</div>
+<div class="text-before-problems">
+	<div class="wrap">
+		<div class="text-before-problems__text">
+			<p>Вопреки распространенному мнению, автоматизация управления логистикой актуальна не только для компаний-перевозчиков. Она открывает широкие горизонты для многих коммерческих организаций, которые самостоятельно занимаются закупкой сырья и сбытом готовой продукции.</p>
+			<p>Программа для логистики позволяет:</p>
+			<ul>
+				<li>оптимизировать бизнес-<span class="bold">процессы</span>;</li>
+				<li>наладить взаимодействие между отделами;</li>
+				<li>эффективно использовать транспорт (водный, грузовой, воздушный т.д.);</li>
+				<li>повысить качество обслуживания клиентов.</li>
+			</ul>
+			<p>Не верите? Мы готовы показать вам в действии нашу инновационную разработку ― логистическую программу Logismart, раскрыв ее потенциал и выгоды для вашего бизнеса. Наши специалисты также осуществят ее внедрение и адаптацию под нужды вашего предприятия.</p>
+		</div>
+	</div>
+</div>
+<div class="problems">
+	<div class="wrap">
+		<h2 class="problems__title">Проблемы, которые решает программа LogiSmart</h2>
+		<h3 class="problems__subtitle">Эти проблемы знакомы большинству транспортно-экспедиционных компаний</h3>
+		<div class="problems-list">
+			<div class="problems-item _investigation">
+				<div class="problems-item__title">
+					Сложности внутреннего расследования
+				</div>
+				<div class="problems-item__text">
+					при выявлении причин сбоя, негативных отзывах клиента и т.д.
+				</div>
+			</div>
+			<div class="problems-item _production">
+				<div class="problems-item__title">
+					Сложности производства
+				</div>
+				<div class="problems-item__text">
+					отчетов и аналитики
+				</div>
+			</div>
+			<div class="problems-item _planning">
+				<div class="problems-item__title">
+					Трудности <br>
+					в планировании
+				</div>
+				<div class="problems-item__text">
+					работы отдельных сотрудников и целых отделов
+				</div>
+			</div>
+			<div class="problems-item _costs">
+				<div class="problems-item__title">
+					Высокие расходы
+				</div>
+				<div class="problems-item__text">
+					на демередж и хранение
+				</div>
+			</div>
+			<div class="problems-item _time">
+				<div class="problems-item__title">
+					Много времени расходуется
+				</div>
+				<div class="problems-item__text">
+					на мелкие задачи (отправка инструкций, получение отчетности, уточнение контактов, запрос местонахождения груза)
+				</div>
+			</div>
+			<div class="problems-item _outgoings">
+				<div class="problems-item__title">
+					Высокие издержки
+				</div>
+				<div class="problems-item__text">
+					кадровые <br>
+					и управленческие
+				</div>
+			</div>
+		</div>
+		<a class="btn" href="#callback" data-fancybox="">Получить консультацию</a>
+		<h3 class="results__title">Лучший наш аргумент – практика в цифрах!</h3>
+	</div>
+</div>
+<div class="results">
+	<div class="wrap">
+		<div class="results-section _blue">
+			<h2>Сократятся:</h2>
+			<div class="results-item">
+				<div class="results-item__label">
+					Расходы за демередж, хранение, детеншн
+				</div>
+				<div class="results-item__percents _10">
+					-10 %
+				</div>
+			</div>
+			<div class="results-item">
+				<div class="results-item__label">
+					Расходы на безопасность обмена информацией
+				</div>
+				<div class="results-item__percents _20">
+					-20 %
+				</div>
+			</div>
+			<div class="results-item">
+				<div class="results-item__label">
+					Расходы на качество и скорость обмена информацией
+				</div>
+				<div class="results-item__percents _20">
+					-20 %
+				</div>
+			</div>
+		</div>
+		<div class="results-section _green">
+			<h2>Увеличится</h2>
+			<div class="results-item">
+				<div class="results-item__label _60">
+					Скорость оповещения клиентов
+				</div>
+				<div class="results-item__percents _60">
+					+ 60 %
+				</div>
+			</div>
+			<div class="results-item">
+				<div class="results-item__label _50">
+					Безопасность обмена информацией
+				</div>
+				<div class="results-item__percents _50">
+					+ 50 %
+				</div>
+			</div>
+			<div class="results-item">
+				<div class="results-item__label _70">
+					Качество и скорость обмена информацией
+				</div>
+				<div class="results-item__percents _70">
+					+ 70 %
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="opportunities">
+	<div class="wrap">
+		<div class="opportunities__text">
+			<h2>Возможности программы для экспедиторов</h2>
+			<p>Благодаря нашему программному обеспечению, вы сможете:</p>
+			<ul>
+				<li>минимизировать кадровые издержки, складские затраты и расходы на <span class="bold">перевозку</span> продукции;</li>
+				<li>значительно повысить производительность каждого из ваших сотрудников;</li>
+				<li>не тратить время на выполнение мелких однообразных задач;</li>
+				<li>эффективно планировать <span class="bold">работу</span>;</li>
+				<li>держать все под контролем;</li>
+				<li>координировать взаимодействие отделов;</li>
+				<li>быстро узнавать о проблемных ситуациях;</li>
+				<li>принимать оптимальные управленческие <span class="bold">решения</span>;</li>
+				<li>оперативно реагировать на стремительные изменения российского рынка;</li>
+				<li>привлекать новых заказчиков;</li>
+				<li>наладить прочное сотрудничество с постоянными клиентами;</li>
+				<li>выявлять причины сбоя и негативных отзывов.</li>
+			</ul>
+			<p>Многие успешные бизнесмены уже используют программу для транспортной логистики для ведения эффективного бизнеса. За время нашей работы с нами сотрудничали более 50 компаний из Москвы, Санкт-Петербурга, российских регионов, а также из-за рубежа. Среди них:</p>
+			<ul>
+				<li>China Logistics,</li>
+				<li>Estma,</li>
+				<li>Hellman,</li>
+				<li>Artmarine,</li>
+				<li>«Бадис»,</li>
+				<li>«Евросиб»,</li>
+				<li>«Рив Гош» и др.</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="consultation">
+	<div class="consultation__title bold">
+		<p>Возникли вопросы? Получите бесплатную консультацию</p>
+	</div>
+	<div class="consultation__text">
+		<p>Наши менеджеры оперативно предоставят ответ на любой вопрос о программе</p>
+	</div>
+	<div class="consultation__button">
+		<a class="btn" href="#callback" data-fancybox="">Получить консультацию</a>
+	</div>
+</div>
+<div class="opportunities">
+	<div class="wrap">
+		<div class="opportunities__text">
+			<h2>Интерфейс приложения экспедитора</h2>
+			<!-- start tabs block -->
+				<div class="mytabs">
+					<div class="tabsheader tabsheader_free">
+						<ul class="tabs_free">
+							<li class="active tabs_free__button"><span>Журнал Заказы</span></li>
+							<li class="tabs_free__button"><span>Журнал ОСВ</span></li>
+							<li class="tabs_free__button"><span>Мониторинг грузов с трекингом по контейнеру</span></li>
+						</ul>
+						<div class="clear"></div>
+					</div>                    
+					<div class="tabsbody">
+						<div class="tabwrapper active"><img src="/images/zhurnal-zakazy.png"></div>
+						
+						<div class="tabwrapper"><img src="/images/zhurnal-osv.png"></div>
+						
+						<div class="tabwrapper"><img src="/images/monitoring-gruzov-s-trekingom-po-konteyneru.png"></div>
+					</div>	
+				</div>
+			<!-- end tabs block -->
+		</div>
+	</div>
+</div>
+<div class="indicators">
+	<div class="wrap">
+		<h2 class="indicators__title">Показатели и результаты</h2>
+		<div class="indicators__subtitle">
+			Реальный пример расчета экономической эффективности от внедрения программы на 30 рабочих мест
+		</div>
+		<div class="effects__title">
+			Потенциальный экономический эффект
+		</div>
+		<div class="effects">
+			<div class="effects-item _purple">
+				<div class="effects-item__title _purple">
+					3 часа в день
+				</div>
+				<div class="effects-item__text">
+					ИТОГО (отдел сервиса) высвобождение по 1 часу у 3 специалистов.
+				</div>
+			</div>
+			<div class="effects-item _blue">
+				<div class="effects-item__title _blue">
+					3 часа в день
+				</div>
+				<div class="effects-item__text">
+					ИТОГО (отдел продаж) высвобождение по 1 часу у 3 специалистов
+				</div>
+			</div>
+			<div class="effects-item _green">
+				<div class="effects-item__title _green">
+					500 конт. / месяц
+				</div>
+				<div class="effects-item__text">
+					Текущая производительность (клиентский отдел)
+				</div>
+			</div>
+			<div class="effects-item _lime">
+			</div>
+			<div class="effects-item _yellow">
+				<div class="effects-item__title _yellow">
+					37 % (3 часа / 8 часов)
+				</div>
+				<div class="effects-item__text">
+					Процент высвобождения времени (клиентский и отдел продаж)
+				</div>
+			</div>
+			<div class="effects-item _orange">
+				<div class="effects-item__title _orange">
+					685 конт. / месяц (+37%)
+				</div>
+				<div class="effects-item__text">
+					Увеличение производительности
+				</div>
+			</div>
+			<div class="effects-item _red">
+				<div class="effects-item__title _red">
+					$ 40 / контейнер
+				</div>
+				<div class="effects-item__text">
+					Средняя чистая прибыль с контейнера
+				</div>
+			</div>
+			<div class="effects-item _violet">
+				<div class="effects-item__title _violet">
+					$ 7400 / месяц
+				</div>
+				<div class="effects-item__text">
+					Увеличение прибыли USD
+				</div>
+			</div>
+		</div>
+		<a class="btn" href="#callback" data-fancybox="">Начать использовать</a>
+	</div>
+</div>
+<div class="partners">
+	<div class="wrap flex">
+				<div class="reviews">
+			<h2>Отзывы клиентов</h2>
+			<div class="reviews-list">
+										
+				<div class="reviews-item" id="bx_2572050770_7">
+					<div class="reviews-item__info">
+						<div class="reviews-item__brand">
+													<img src="/upload/iblock/8be/8befbd3e26f16bd7d3511e623e236953.png" alt="">						
+						 
+						</div>
+																				<a rel="nofollow" href="http://estma.ru/" target="_blank">estma.ru</a>
+											
+					</div>
+					<div class="reviews-item__text">
+						За несколько лет работы с вами, мы постепенно осваивали огромный функционал программы Логисмарт, и можем с уверенностью сказать, что сейчас работа построена значительно эффективнее, чем раньше.<br>
+Мы продолжаем развиваться и включать в работу новые блоки программы. И благодаря качественному и компетентному техническому сопровождению, получаем исчерпывающую обратную связь!<br>
+Рассчитываем на длительное и плодотворное сотрудничество!<br>
+<br>
+<span class="bold">ООО «ЭСТМА СПБ»</span><br>
+ <span class="bold">Генеральный директор<br>
+Лукин Н.А.<br>
+</span>					</div>	
+				</div>
+										
+				<div class="reviews-item" id="bx_2572050770_8">
+					<div class="reviews-item__info">
+						<div class="reviews-item__brand">
+													<img src="/upload/iblock/87c/87c07dd15fc4aecd067487422d35900c.png" alt="">						
+						 
+						</div>
+																				<a rel="nofollow" href="https://a-rt-marine.com/" target="_blank">a-rt-marine.com</a>
+											
+					</div>
+					<div class="reviews-item__text">
+						<p>
+	 Выражаю Вам и Вашему коллективу искреннюю благодарность и глубокую признательность за внедрение вашего замечательного программного продукта «Логисмарт».<br>
+	 Помимо всех достоинств самого программного комплекса, хочу отметить Ваше глубокое понимание вопросов и бизнес-процессов при его создании, а также настройки и доработки программы под наши нужды и просто человеческое отношение к клиенту, которое в последнее время редко встретишь со стороны ИТ/софтверных компаний. Так же следует поблагодарить весь персонал Вашей компании, начиная от программистов заканчивая технической поддержкой, за точную и своевременную реакцию на наши запросы и нужды.<br>
+	 Очень ценим дизайн, логику работы и современные алгоритмы взаимодействия процессов комплекса, отдельное спасибо за веб-портал и мобильные приложения.<br>
+	 Желаю успешного развития и новых клиентов, свежих идей , а также побольше удобств и, конечно же, сохранения уровня сервиса и поддержки для существующих пользователей! Желаем успешного развития и достижения новых вершин в бизнесе</p>
+ <span class="bold">ООО «АРТМАРИН ГРУПП»</span><br>
+ <span class="bold">Генеральный директор<br>
+ Толстолуцкий Р.В.<br>
+ </span>					</div>	
+				</div>
+										
+				<div class="reviews-item" id="bx_2572050770_10">
+					<div class="reviews-item__info">
+						<div class="reviews-item__brand">
+													<img src="/upload/iblock/8c3/8c34d36fc3360d14cee918d4a4600139.png" alt="">						
+						 
+						</div>
+																				<a rel="nofollow" href="http://chinalogistics.ru/" target="_blank">chinalogistics.ru</a>
+											
+					</div>
+					<div class="reviews-item__text">
+						От лица всей нашей компании выражаем благодарность лично Вам и сотрудникам компании «Софт Бизнес Решения» за взаимовыгодное партнерство в сфере автоматизации нашей работы.<br>
+ За период нашего совместного взаимодействия сотрудники «Софт Бизнес Решения» проявили себя, как достойные профессионалы в сфере ИТ-услуг и не менее профессиональные специалисты по обслуживанию экспедиторской и брокерской деятельности.<br>
+Компетентность, дипломатичность, оперативность и профессионализм Ваших сотрудников внесли свой неоспоримый вклад в развитие нашего бизнеса.<br>
+Наша компания удовлетворена результатами и выражает уверенность в том, что в дальнейшем наше сотрудничество будет развиваться в том же заданном направлении.<br>
+<br>
+<span class="bold">ООО «Чайна Логистик»</span><br>
+<span class="bold">Генеральный директор</span><br>
+<span class="bold">Климаков А.Ю.</span><br>					</div>	
+				</div>
+						</div>
+		</div>
+		<div class="brands">
+			<h2>С нами уже</h2>
+			<div class="brands-list">
+				<div class="brands-item">
+					<a href="http://chinalogistics.ru/" rel="nofollow" target="_blank"><img src="/static/img/brand-chinalogistics.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="http://estma.ru/" rel="nofollow" target="_blank"><img src="/static/img/brand-estma.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="http://www.hellmann.net/ru/russia/" rel="nofollow" target="_blank"><img src="/static/img/brand-hellmann.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="https://a-rt-marine.com/" rel="nofollow" target="_blank"><img src="/static/img/brand-artmarine.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="http://gestionbroker.ru/" rel="nofollow" target="_blank"><img src="/static/img/brand-gestionbroker.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="https://badis.ru/" rel="nofollow" target="_blank"><img src="/static/img/brand-badis.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="http://www.eurosib.biz/ru/" rel="nofollow" target="_blank"><img src="/static/img/brand-eurosib.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="http://ahlers.com/" rel="nofollow" target="_blank"><img src="/static/img/brand-ahlers.png" alt=""></a>
+				</div>
+				<div class="brands-item">
+					<a href="http://www.rivegauche.ru/" rel="nofollow" target="_blank"><img src="/static/img/brand-rivegauche.png" alt=""></a>
+				</div>
+			</div>
+			<div class="brands__desc">
+				И еще более 50 компаний
+			</div>
+		</div>
+	</div>
+</div>
+<!-- <div class="button-check-price">
+	<a class="btn-check-price" href="#check-price" data-fancybox="">Узнать цену</a>
+</div> -->
+<div class="demo">
+	<div class="wrap">
+		<h2 class="text-center">Выберите подходящий вариант для Вашего бизнеса</h2>
+		<ul class="options-for-business">
+			<li class="options-for-business__item">
+				<div class="options-for-business__item__header-1">
+					<p class="title">Коробочная версия</p>
+					<p class="price">от 150 000 руб.</p>
+				</div>
+				<div class="options-for-business__item__text">
+					<p class="bold">5 рабочих мест</p>
+					<p>Внедрение (обучение, доработки, настройки): включено 10 часов работ<br><br><br></p>
+					<p>Лицензия без ограничений</p>
+					<p>Инструкции и видео по эксплуатации, примеры работы</p>
+					<p>3 месяца бесплатной технической поддержки</p>
+					<a style="margin: 10px;" class="btn" href="#callback" data-fancybox="">Купить программу</a>
+				</div>
+			</li>
+			<li class="options-for-business__item">
+				<div class="options-for-business__item__header-2">
+					<p class="title">Профессиональная версия</p>
+					<p class="price">От 500 000 руб.</p>
+				</div>
+				<div class="options-for-business__item__text">
+					<p class="bold">От 10 рабочих мест</p>
+					<p>Внедрение (обучение, доработки, настройки): включено 60 часов работ.<br><br><br></p>
+					<p>Лицензия без ограничений</p>
+					<p>Инструкции и видео по эксплуатации, примеры работы</p>
+					<p>3 месяца бесплатной технической поддержки</p>
+					<a style="margin: 10px;" class="btn" href="#callback" data-fancybox="">Купить программу</a>
+				</div>
+			</li>
+			<li class="options-for-business__item">
+				<div class="options-for-business__item__header-3">
+					<p class="title">VIP</p>
+					<p class="price">От 1 300 000 руб.</p>
+				</div>
+				<div class="options-for-business__item__text">
+					<p class="bold">От 20 рабочих мест</p>
+					<p>Крупный проект с различными интеграциями.<br>
+					Внедрение (обучение, доработки, настройки): включено 150 часов работ</p>
+					<p>Лицензия без ограничений</p>
+					<p>Инструкции и видео по эксплуатации, примеры работы</p>
+					<p>3 месяца бесплатной технической поддержки</p>
+					<a style="margin: 10px;" class="btn" href="#callback" data-fancybox="">Купить программу</a>
+				</div>
+			</li>
+		</ul>
+		<div class="decision">
+			<h2 class="text-center">Коробочное решение слишком дорого?</h2>
+			<p class="decision__text">Закажите аренду, <span>от 5000 руб в месяц</span> за одно рабочее место (минимальное количество 5 рабочих мест)</p>
+			<div class="decision__block">
+				<div class="decision__block__item">
+					<p class="bold">Полная поддержка</p>
+					<p>В стоимость аренды входят услуги по сопровождению и поддержке</p>
+				</div>
+				<div class="decision__block__item">
+					<p class="bold">Свежие обновления</p>
+					<p>Вы автоматически получаете все новые обновления, исправления и доработки.</p>
+				</div>
+				<div class="decision__block__item">
+					<p class="bold">Удобная оплата</p>
+					<p>Вы не тратите из оборота своей компании большую сумму средств, а платите за каждый месяц использования</p>
+				</div>
+				<div class="decision__block__item">
+					<p class="bold">Простой переход</p>
+					<p>В любой момент Вы можете выкупить программу для использования в бессрочном режиме, ознакомившись и узнав все её функциональные возможности и преимущества.</p>
+				</div>
+				<a style="margin: 20px auto 0;" class="btn" href="#callback" data-fancybox="">Заказать аренду</a>
+			</div>
+		</div>
+		<div class="demo__before__text">
+			<h2>Почему стоит заказать программу управления логистикой у нас</h2>
+			<p><span class="bold">Надежность</span>. Мы ведем свою деятельность с 2007 года. За этот период наши специалисты не только разработали эффективную программу для <span class="bold">транспортной</span> логистики, но также накопили богатый опыт внедрения и адаптации ПО на различных <span class="bold">предприятиях</span>. Это готовы засвидетельствовать наши клиенты, с отзывами которых можно ознакомиться на сайте.</p>
+			<p><span class="bold">Профессионализм</span>. В штате компании работают как компетентные программисты, так и специалисты, которые на протяжении своей карьеры трудились в логистических компаниях. Каждый сотрудник имеет внушительное портфолио успешно выполненных проектов.</p>
+			<p><span class="bold">Функциональность</span>. Наша логистическая программа включает в себя решения для автоматизации полного цикла цепочек поставок: от учета потребности в товаре до финальной доставки на склад:</p>
+			<ul>
+				<li>закупка;</li>
+				<li>форсирование заказов поставщикам;</li>
+				<li>проработка логистических схем;</li>
+				<li>котировка расходов;</li>
+				<li>формирование печатных документов;</li>
+				<li>учет расходов и доходов по всем операциям;</li>
+				<li>интеграция с основными сопутствующими ПО (ERP, таможенными программами, линейными и портовыми ПО).</li>
+			</ul>
+			<p><span class="bold">Услуги по внедрению</span>. Они включают выявление требований и их анализ, доработку системы автоматизации логистики под особенности организации, настройку под индивидуальные потребности каждого заказчика.</p>
+			<p><span class="bold">Выгодные предложения</span>. Покупая наш продукт, вы получаете логистическую CRM-систему c широчайшим функционалом и дополнительную услугу по внедрению.</p>
+		</div>
+	</div>
+		<div class="demo__background">
+			<div class="wrap">
+			<div class="demo__background__text">
+				<span class="demo__background__text__title bold">Закажите демонстрацию </span><br>и мы покажем LogiSmart в действии, раскрыв все возможности и преимущества, которые получит ваша компания после внедрения!
+			</div>
+			<a class="order-demo" href="#callback" data-fancybox="">Заказать демонстрацию</a>
+			</div>
+		</div>
+	<div class="wrap">
+		<div class="demo_under_text">
+			<p>Узнать подробнее об условиях сотрудничества и задать другие вопросы можно, связавшись с нашими специалистами по телефонам <a href="tel:+78123093835">+7 812 309 38 35</a>, <br><a href="tel:+74951087436">+7 495 108 74 36</a>, или закажите обратный звонок.</p>
+		</div>
+	</div>
+</div>
+<div class="map" data-map="59.8888282,30.2794958">
+</div>
+<br>    </main>
+    
+    
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="wrap">
+          <div class="footer-info"><a class="footer__logo" href="/"></a>
+            <div class="address">
+			г. Санкт-Петербург, <br>ул. Маршала Говорова, д. 35, к. 4 <br>БЦ «Пропаганда»<br><br>г. Москва, <br>ул. Большая Академическая, д. 4			</div>
+          </div>
+          <div class="footer__img"><img src="/static/img/logismart.png" alt="logismart"></div>
+				<ul class="footer-menu">
+	<li class="footer-menu__item"><a class="footer-menu__link" href="/">Главная</a></li>
+	<li class="footer-menu__item"><a class="footer-menu__link" href="/history/">О компании</a></li>
+	<li class="footer-menu__item"><a class="footer-menu__link" href="/about/">О системе автоматизации</a></li>
+	<li class="footer-menu__item"><a class="footer-menu__link" href="/contacts/">Контакты</a></li>
+	<li class="footer-menu__item"><a class="footer-menu__link" href="/sitemap/">Карта сайта</a></li>
+	<li class="footer-menu__item"><a class="footer-menu__link" href="/private-police/">Политика конфиденциальности</a></li>
+</ul>
+
+		  
+
+          <div class="footer-callback">
+					  <a class="footer__phone" href="tel:+78123093835">+7 (812) 309-38-35</a>
+		  <a class="footer__phone" href="tel:+74951087436">+7 (495) 108-74-36</a>
+		  <a class="footer__mail" href="mailto:info@logismart.ru">info@logismart.ru</a>		  <a class="btn" href="#callback" data-fancybox>Начать использовать</a></div>
+        </div>
+      </div>
+      <div class="copyright">
+        <div class="wrap"><span>2022 © СофтБизнесРешения. </span>
+		<a class="copyright__creator" href="http://www.questor.ru/" rel="nofollow">Разработка сайта <img src="/static/img/questor.svg" alt="QuestorIT"></a></div>
+      </div>
+	        
+
+
+<form class="form" method="post" id="callback">
+        <div class="form__title">Наш менеджер свяжется с Вами!</div>
+        <div class="form__content">
+          <input class="form__input" type="text" name="name" placeholder="Имя *" data-required="true">
+          <input class="form__input" type="text" name="phone" placeholder="Номер телефона " data-phone>
+          <input class="form__input" type="text" name="email" placeholder="E-Mail *" data-email data-required="true">
+          <textarea class="form__textarea" name="message" placeholder="Текст сообщения"></textarea>
+          <div class="checkbox form__checkbox">
+            <label data-police-label="true" for="checkbox1">Я принимаю <a href="/private-police/" target="_blank">условия пользовательского соглашения </a> и даю своё согласие на обработку персональных данных</label>
+            <input type="checkbox" id="checkbox1" value="1" data-police="true">
+          </div>
+		  <div>
+          	<input name="captcha_code" value="0f6527a80788210a65dd0c90c1f99d72" type="hidden">
+          	<input class="form__input" id="captcha_word" name="captcha_word" type="text" placeholder="Введите символы с картинки">
+          	<img src="/bitrix/tools/captcha.php?captcha_code=0f6527a80788210a65dd0c90c1f99d72">
+		  </div>
+          <button class="btn form__submit" type="submit">Отправить заявку</button>
+        </div>
+      </form>	  
+
+<form class="form" method="post" id="check-price">
+  <div class="form__title">Наш менеджер свяжется с Вами!</div>
+  <div class="form__content">
+    <input class="form__input" type="text" name="name" placeholder="Имя *" data-required="true">
+    <input class="form__input" type="text" name="email" placeholder="E-Mail *" data-email data-required="true">
+    <input class="form__input" type="text" name="phone" placeholder="Номер телефона" data-phone data-required="false">
+    <div class="checkbox form__checkbox">
+      <label data-police-label="true" for="checkbox1">Я принимаю <a href="/private-police/" target="_blank">условия пользовательского соглашения </a> и даю своё согласие на обработку персональных данных</label>
+      <input type="checkbox" id="checkbox1" value="1" data-police="true">
+    </div>
+    <input name="captcha_code" value="0608bdcadd9a7c5f7366c47a81b83f59" type="hidden">
+    <input id="captcha_word" name="captcha_word" type="text">
+    <img src="/bitrix/tools/captcha.php?captcha_code=0608bdcadd9a7c5f7366c47a81b83f59">
+    <button class="btn form__submit" type="submit">Отправить заявку</button>
+  </div>
+</form>    </footer>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEI5MYBuvcqF9-iNmVqROWNyAEC-sAy4g&amp;callback=initMap" async defer></script>
+<script type='text/javascript'>
+(function(){ var widget_id = 'HaueZmlBOz';var d=document;var w=window;function l(){
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+<script type="text/javascript" src="/local/templates/logismart/script.js"></script>
+	<script src="/local/templates/logismart/js/goals.js"></script>
+  </body>
+</html>

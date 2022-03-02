@@ -1,0 +1,1322 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru" class="  ">
+	<head>
+						<title>Freshcube - Внедрение amoCRM, интеграции и доработки </title>
+		<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="yes" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="CRM, amoCRM, retailCRM, внедрение CRM" />
+<meta name="description" content="Внедрение amoCRM. Интеграция amoCRM с телефонией и сайтом. Обучение и сопровождение." />
+<link href="/bitrix/js/main/core/css/core.min.css?16022656262854" type="text/css" rel="stylesheet" />
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300italic,400italic,500italic,700italic,400,300,500,700subset=latin,cyrillic-ext" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/aspro-allcorp2/template_1d5dd9f4702a3eba7242e11a956f3318/template_1d5dd9f4702a3eba7242e11a956f3318_v1.css?1602268431592472" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1602267979232708"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1646213525','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'bcf78d7b91c7729cc7e07b22c37de2e6'});</script>
+
+
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-2.1.3.min.min.js?160226562784283"></script>
+<script type="text/javascript" src="/bitrix/js/main/ajax.min.js?160226562622194"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/templates/aspro-allcorp2/js/jquery.actual.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.fancybox.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.easing.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.appear.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.cookie.js','/bitrix/templates/aspro-allcorp2/vendor/bootstrap.js','/bitrix/templates/aspro-allcorp2/vendor/flexslider/jquery.flexslider.js','/bitrix/templates/aspro-allcorp2/vendor/jquery.validate.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.uniform.min.js','/bitrix/templates/aspro-allcorp2/js/jqModal.js','/bitrix/templates/aspro-allcorp2/js/detectmobilebrowser.js','/bitrix/templates/aspro-allcorp2/js/matchMedia.js','/bitrix/templates/aspro-allcorp2/js/jquery.waypoints.min.js','/bitrix/templates/aspro-allcorp2/js/jquery.counterup.js','/bitrix/templates/aspro-allcorp2/js/jquery.alphanumeric.js','/bitrix/templates/aspro-allcorp2/js/jquery.mobile.custom.touch.min.js','/bitrix/templates/aspro-allcorp2/js/general.js','/bitrix/templates/aspro-allcorp2/js/custom.js','/bitrix/templates/aspro-allcorp2/components/bitrix/news.list/front-services_2/script.js','/bitrix/components/bitrix/search.title/script.js','/bitrix/templates/aspro-allcorp2/components/bitrix/search.title/fixed/script.js','/bitrix/templates/aspro-allcorp2/js/jquery.inputmask.bundle.min.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/aspro-allcorp2/css/bootstrap.css','/bitrix/templates/aspro-allcorp2/css/fonts/font-awesome/css/font-awesome.min.css','/bitrix/templates/aspro-allcorp2/vendor/flexslider/flexslider.css','/bitrix/templates/aspro-allcorp2/css/jquery.fancybox.css','/bitrix/templates/aspro-allcorp2/css/theme-elements.css','/bitrix/templates/aspro-allcorp2/css/theme-responsive.css','/bitrix/templates/aspro-allcorp2/css/print.css','/bitrix/templates/aspro-allcorp2/css/animation/animate.min.css','/bitrix/templates/aspro-allcorp2/css/animation/animation_ext.css','/bitrix/templates/aspro-allcorp2/css/h1-normal.css','/bitrix/templates/.default/ajax/ajax.css','/bitrix/templates/aspro-allcorp2/css/width-3.css','/bitrix/templates/aspro-allcorp2/css/font-10.css','/bitrix/templates/aspro-allcorp2/styles.css','/bitrix/templates/aspro-allcorp2/template_styles.css','/bitrix/templates/aspro-allcorp2/css/responsive.css','/bitrix/templates/aspro-allcorp2/themes/9/colors.css','/bitrix/templates/aspro-allcorp2/bg_color/light/bgcolors.css','/bitrix/templates/aspro-allcorp2/css/custom.css']); </script>
+<script type='text/javascript' data-skip-moving='true'>window['asproRecaptcha'] = {params: {'recaptchaColor':'light','recaptchaLogoShow':'y','recaptchaSize':'normal','recaptchaBadge':'bottomright','recaptchaLang':'ru'},key: '6LeI064UAAAAAP-rjToxd5S_0u1gqoRymEUIYKm-'};</script>
+<script type='text/javascript' data-skip-moving='true'>!function(a,e,r,c,t){function n(r){var c=e.getElementById(r);if(c&&!(c.className.indexOf("g-recaptcha")<0)&&a.grecaptcha&&!c.children.length){var n=grecaptcha.render(r,{sitekey:a[t].key+"",theme:a[t].params.recaptchaColor+"",size:a[t].params.recaptchaSize+"",callback:"onCaptchaVerify"+a[t].params.recaptchaSize,badge:a[t].params.recaptchaBadge});$(c).attr("data-widgetid",n)}}a.onLoadRenderRecaptcha=function(){for(var e in a[c].args)a[c].args.hasOwnProperty(e)&&n(a[c].args[e][0]);a[c]=function(a){n(a)}},a[c]=a[c]||function(){a[c].args=a[c].args||[],a[c].args.push(arguments),function(e,r,c){var n;e.getElementById(c)||(n=e.createElement(r),n.id=c,n.src="//www.google.com/recaptcha/api.js?hl="+a[t].params.recaptchaLang+"&onload=onLoadRenderRecaptcha&render=explicit",e.head.appendChild(n))}(e,r,"recaptchaApiLoader")}}(window,document,"script","renderRecaptchaById","asproRecaptcha");</script>
+<script type='text/javascript' data-skip-moving='true'>!function(){var e=function(e){for(var a=e;a;)if(a=a.parentNode,"form"===a.nodeName.toLowerCase())return a;return null},a=function(e){var a=[],t=null,n=!1;"undefined"!=typeof e&&(n=null!==e),t=n?e.getElementsByTagName("input"):document.getElementsByName("captcha_word");for(var r=0;r<t.length;r++)"captcha_word"===t[r].name&&a.push(t[r]);return a},t=function(e){for(var a=[],t=e.getElementsByTagName("img"),n=0;n<t.length;n++)(/\/bitrix\/tools\/captcha.php\?(captcha_code|captcha_sid)=[^>]*?/i.test(t[n].src)||"captcha"===t[n].id)&&a.push(t[n]);return a},n=function(){var t=null,n=a(t);if(0===n.length)return[];for(var r=[],c=0;c<n.length;c++){var o=e(n[c]);null!==o&&r.push(o)}return r},r=function(e){var a="recaptcha-dynamic-"+(new Date).getTime();if(null!==document.getElementById(a)){var t=!1,n=null,r=65535;do n=Math.floor(Math.random()*r),t=null!==document.getElementById(a+n);while(t);a+=n}var c=document.createElement("div");c.id=a,c.className="g-recaptcha",c.attributes["data-sitekey"]=window.asproRecaptcha.key,e.parentNode&&(e.parentNode.className+=" recaptcha_text",e.parentNode.replaceChild(c,e)),renderRecaptchaById(a)},c=function(e){var a="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7";e.attributes.src=a,e.style.display="none","src"in e&&(e.parentNode&&(e.parentNode.className+=" recaptcha_tmp_img"),e.src=a)},o=function(e){"function"==typeof $&&$(e).find(".captcha-row label > span").length&&$(e).find(".captcha-row label").html(BX.message("RECAPTCHA_TEXT")+' <span class="required-star">*</span>')},p=function(){for(var e,p=n(),d=0;d<p.length;d++){var i=p[d],l=a(i);if(0!==l.length){var s=t(i);if(0!==s.length){for(e=0;e<l.length;e++)r(l[e]);for(e=0;e<s.length;e++)c(s[e]);o(i)}}}},d=function(){if("undefined"!=typeof renderRecaptchaById)for(var e=document.getElementsByClassName("g-recaptcha"),a=0;a<e.length;a++){var t=e[a];if(0===t.innerHTML.length){var n=t.id;if("string"==typeof n&&0!==n.length){if("function"==typeof $){var r=$(t).closest(".captcha-row");r.length&&(r.addClass(window.asproRecaptcha.params.recaptchaSize+" logo_captcha_"+window.asproRecaptcha.params.recaptchaLogoShow+" "+window.asproRecaptcha.params.recaptchaBadge),r.find(".captcha_image").addClass("recaptcha_tmp_img"),r.find(".captcha_input").addClass("recaptcha_text"),"invisible"!==window.asproRecaptcha.params.recaptchaSize&&(r.find("input.recaptcha").length||$('<input type="text" class="recaptcha" value="" />').appendTo(r)))}renderRecaptchaById(n)}}}},i=function(){try{return d(),window.renderRecaptchaById&&window.asproRecaptcha&&window.asproRecaptcha.key?(p(),!0):(console.error("Bad captcha keys or module error"),!0)}catch(e){return console.error(e),!0}};document.addEventListener?document.addEventListener("DOMNodeInserted",i,!1):console.warn("Your browser does not support dynamic ReCaptcha replacement")}();</script>
+<script>BX.message({'JS_REQUIRED':'Заполните это поле!','JS_FORMAT':'Неверный формат!','JS_FILE_EXT':'Недопустимое расширение файла!','JS_PASSWORD_COPY':'Пароли не совпадают!','JS_PASSWORD_LENGTH':'Минимум 6 символов!','JS_ERROR':'Неверно заполнено поле!','JS_FILE_SIZE':'Максимальный размер 5мб!','JS_FILE_BUTTON_NAME':'Выберите файл','JS_FILE_DEFAULT':'Файл не найден','JS_DATE':'Некорректная дата!','JS_DATETIME':'Некорректная дата/время!','JS_REQUIRED_LICENSES':'Согласитесь с условиями','S_CALLBACK':'Заказать звонок','S_QUESTION':'Задать вопрос','S_ASK_QUESTION':'Задать вопрос','ERROR_INCLUDE_MODULE_DIGITAL_TITLE':'Ошибка подключения модуля &laquo;Аспро: Digital-компания&raquo;','ERROR_INCLUDE_MODULE_DIGITAL_TEXT':'Ошибка подключения модуля &laquo;Аспро: Digital-компания&raquo;.<br />Пожалуйста установите модуль и повторите попытку','S_SERVICES':'Наши услуги','S_SERVICES_SHORT':'Услуги','S_TO_ALL_SERVICES':'Все услуги','S_CATALOG':'Каталог товаров','S_CATALOG_SHORT':'Каталог','S_TO_ALL_CATALOG':'Весь каталог','S_CATALOG_FAVORITES':'Наши товары','S_CATALOG_FAVORITES_SHORT':'Товары','S_NEWS':'Новости','S_TO_ALL_NEWS':'Все новости','S_COMPANY':'О компании','S_OTHER':'Прочее','S_CONTENT':'Контент','T_JS_ARTICLE':'Артикул: ','T_JS_NAME':'Наименование: ','T_JS_PRICE':'Цена: ','T_JS_QUANTITY':'Количество: ','T_JS_SUMM':'Сумма: ','FANCY_CLOSE':'Закрыть','FANCY_NEXT':'Вперед','FANCY_PREV':'Назад','CUSTOM_COLOR_CHOOSE':'Выбрать','CUSTOM_COLOR_CANCEL':'Отмена','S_MOBILE_MENU':'Меню','DIGITAL_T_MENU_BACK':'Назад','DIGITAL_T_MENU_CALLBACK':'Обратная связь','DIGITAL_T_MENU_CONTACTS_TITLE':'Будьте на связи','TITLE_BASKET':'В корзине товаров на #SUMM#','BASKET_SUMM':'#SUMM#','EMPTY_BASKET':'Корзина пуста','TITLE_BASKET_EMPTY':'Корзина пуста','BASKET':'Корзина','SEARCH_TITLE':'Поиск','SOCIAL_TITLE':'Оставайтесь на связи','LOGIN':'Войти','MY_CABINET':'Мой кабинет','SUBSCRIBE_TITLE':'Будьте всегда в курсе','HEADER_SCHEDULE':'Время работы','SEO_TEXT':'SEO описание','COMPANY_IMG':'Картинка компании','COMPANY_TEXT':'Описание компании','JS_RECAPTCHA_ERROR':'Пройдите проверку','JS_PROCESSING_ERROR':'Согласитесь с условиями!','CONFIG_SAVE_SUCCESS':'Настройки сохранены','CONFIG_SAVE_FAIL':'Ошибка сохранения настроек','RELOAD_PAGE':'Обновить страницу','REFRESH':'Поменять картинку','RECAPTCHA_TEXT':'Подтвердите, что вы не робот'})</script>
+<link rel="shortcut icon" href="/favicon.ico?1633447252" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="180x180" href="/include/apple-touch-icon.png" />
+<meta property="og:title" content="Freshcube - Внедрение amoCRM, интеграции и доработки " />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://www.freshcube.ru/logo.png" />
+<link rel="image_src" href="https://www.freshcube.ru/logo.png"  />
+<meta property="og:url" content="https://www.freshcube.ru/" />
+<meta property="og:description" content="Внедрение amoCRM. Интеграция amoCRM с телефонией и сайтом. Обучение и сопровождение." />
+
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/aspro-allcorp2/template_3dabeebd47618f789fff2e8ee6f9e138/template_3dabeebd47618f789fff2e8ee6f9e138_v1.js?1602268431312743"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "b27ab5b28c8060d3dd08263966175ff6"]); _ba.push(["host", "www.freshcube.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+					</head>
+
+	<body class="front-banners-big-short_small header_nopacity banner_offset hide_menu_page header_fill_dark side_right all_title_2 mheader-v1 footer-v1 fill_bg_n header-v1 title-v1 with_phones">
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter8072065 = new Ya.Metrika({
+                    id:8072065,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/8072065" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script type="text/javascript" charset="UTF-8">(function(a,m,o,c,r,m){a[m]={id:"18643",hash:"65465a06543864e6891752e752c1cf9687808a8ee4d68d582561f4f612e8cb66",locale:"ru",setMeta:function(p){this.params=(this.params||[]).concat([p])}};a[o]=a[o]||function(){(a[o].q=a[o].q||[]).push(arguments)};var d=a.document,s=d.createElement('script');s.async=true;s.id=m+'_script';s.src='https://gso.amocrm.ru/js/button.js?1602079360';d.head&&d.head.appendChild(s)}(window,0,'amoSocialButton',0,0,'amo_social_button'));</script>
+
+		<div id="panel"></div>
+
+		
+				<script type='text/javascript'>
+		var arBasketItems = {};
+		var arAllcorp2Options = ({
+			'SITE_DIR' : '/',
+			'SITE_ID' : 's1',
+			'SITE_TEMPLATE_PATH' : '/bitrix/templates/aspro-allcorp2',
+			'THEME' : ({
+				'THEME_SWITCHER' : 'N',
+				'BASE_COLOR' : '9',
+				'BASE_COLOR_CUSTOM' : 'de002b',
+				'LOGO_IMAGE' : '/upload/CAllcorp2/344/344a21f237067cad20cd9e0db791133e.png',
+				'LOGO_IMAGE_LIGHT' : '',
+				'TOP_MENU' : '',
+				'TOP_MENU_FIXED' : 'N',
+				'COLORED_LOGO' : 'Y',
+				'SIDE_MENU' : 'RIGHT',
+				'SCROLLTOTOP_TYPE' : 'NONE',
+				'SCROLLTOTOP_POSITION' : 'PADDING',
+				'CAPTCHA_FORM_TYPE' : 'Y',
+				'PHONE_MASK' : '+7 999 999-99-99',
+				'VALIDATE_PHONE_MASK' : '',
+				'DATE_MASK' : 'd.m.y',
+				'DATE_PLACEHOLDER' : 'дд.мм.гггг',
+				'VALIDATE_DATE_MASK' : '^[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4}$',
+				'DATETIME_MASK' : 'd.m.y h:s',
+				'DATETIME_PLACEHOLDER' : 'дд.мм.гггг чч:мм',
+				'VALIDATE_DATETIME_MASK' : '^[0-9]{1,2}\.[0-9]{1,2}\.[0-9]{4} [0-9]{1,2}\:[0-9]{1,2}$',
+				'VALIDATE_FILE_EXT' : 'png|jpg|jpeg|gif|doc|docx|xls|xlsx|txt|pdf|odt|rtf',
+				'SOCIAL_VK' : '',
+				'SOCIAL_FACEBOOK' : '',
+				'SOCIAL_TWITTER' : '',
+				'SOCIAL_YOUTUBE' : 'https://www.youtube.com/c/FreshcubeRu',
+				'SOCIAL_ODNOKLASSNIKI' : '',
+				'SOCIAL_GOOGLEPLUS' : '',
+				'BANNER_WIDTH' : '',
+				'TEASERS_INDEX' : 'Y',
+				'CATALOG_INDEX' : 'N',
+				'PORTFOLIO_INDEX' : 'N',
+				'INSTAGRAMM_INDEX' : 'Y',
+				'BIGBANNER_ANIMATIONTYPE' : 'SLIDE_HORIZONTAL',
+				'BIGBANNER_SLIDESSHOWSPEED' : '0',
+				'BIGBANNER_ANIMATIONSPEED' : '600',
+				'PARTNERSBANNER_SLIDESSHOWSPEED' : '5000',
+				'PARTNERSBANNER_ANIMATIONSPEED' : '600',
+				'ORDER_VIEW' : 'N',
+				'ORDER_BASKET_VIEW' : 'FLY',
+				'URL_BASKET_SECTION' : '/cart/',
+				'URL_ORDER_SECTION' : '/cart/order/',
+				'PAGE_WIDTH' : '3',
+				'PAGE_CONTACTS' : '1',
+				'CATALOG_BLOCK_TYPE' : 'catalog_table',
+				'HEADER_TYPE' : '1',
+				'HEADER_TOP_LINE' : '',
+				'HEADER_FIXED' : '2',
+				'HEADER_MOBILE' : '1',
+				'HEADER_MOBILE_MENU' : '2',
+				'HEADER_MOBILE_MENU_SHOW_TYPE' : '',
+				'TYPE_SEARCH' : 'fixed',
+				'PAGE_TITLE' : '1',
+				'INDEX_TYPE' : 'index3',
+				'FOOTER_TYPE' : '1',
+				'FOOTER_TYPE' : '1',
+				'PRINT_BUTTON' : 'N',
+				'SHOW_SMARTFILTER' : 'Y',
+				'LICENCE_CHECKED' : 'N',
+				'FILTER_VIEW' : 'VERTICAL',
+				'YA_GOLAS' : 'N',
+				'YA_COUNTER_ID' : '',
+				'USE_FORMS_GOALS' : 'COMMON',
+				'USE_SALE_GOALS' : 'Y',
+				'USE_DEBUG_GOALS' : 'N',
+				'IS_BASKET_PAGE' : '',
+				'IS_ORDER_PAGE' : '',
+			})
+		});
+		</script>
+		<!--'start_frame_cache_options-block'-->			<script>
+				var arBasketItems = [];
+			</script>
+		<!--'end_frame_cache_options-block'-->				
+
+
+
+		
+																																
+
+				<div class="visible-lg visible-md title-v1 index">
+			<header class="header_1 long">
+	<div class="logo_and_menu-row">
+		<div class="logo-row">
+			<div class="maxwidth-theme">
+								<div class="logo-block paddings pull-left">
+					<div class="logo colored">
+						<a href="/"><img src="/upload/CAllcorp2/344/344a21f237067cad20cd9e0db791133e.png" alt="Freshcube" title="Freshcube" /></a>					</div>
+				</div>
+													<div class="col-md-2 visible-lg nopadding-right slogan">
+						<div class="top-description">
+							<div>
+								Внедрение CRM для роста продаж<br>							</div>
+						</div>
+					</div>
+												<div class="right-icons pull-right">
+					<div class="phone-block with_btn">
+																			<div class="inner-table-block p-block">
+																<div class="phone big">
+								<i class="svg inline  svg-inline-phone colored" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .pcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="pcls-1" d="M14,11.052a0.5,0.5,0,0,0-.03-0.209,1.758,1.758,0,0,0-.756-0.527C12.65,10,12.073,9.69,11.515,9.363a2.047,2.047,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.138,2.138,0,0,1-.856-0.388A9.894,9.894,0,0,1,3.672,6.253,2.134,2.134,0,0,1,3.283,5.4c0-.536,1.8-1.421,1.8-2.027a2.045,2.045,0,0,0-.458-0.885C4.3,1.932,3.99,1.355,3.672.789A1.755,1.755,0,0,0,3.144.034,0.5,0.5,0,0,0,2.935,0,4.427,4.427,0,0,0,1.551.312,2.62,2.62,0,0,0,.5,1.524,3.789,3.789,0,0,0-.011,3.372a7.644,7.644,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,7.714a16.783,16.783,0,0,0,4.778,4.769,9.283,9.283,0,0,0,1.742.825,7.673,7.673,0,0,0,2.608.686,3.805,3.805,0,0,0,1.851-.507,2.62,2.62,0,0,0,1.214-1.052A4.418,4.418,0,0,0,14,11.052Z"/>
+</svg>
+</i>				
+				<a href="tel:+74954898787">+7 495 489-87-87</a>
+							</div>
+												<div class="schedule">
+									Пн. – Пт.: с 9:00 до 18:00								</div>
+							</div>
+																			<div class="inner-table-block">
+								<span class="callback-block animate-load colored  btn-transparent-bg btn-default btn" data-event="jqm" data-param-id="24" data-name="callback">Заказать звонок</span>
+							</div>
+											</div>
+				</div>
+													<div class="col-md-2 pull-right">
+						<div class="inner-table-block address">
+							<div>
+								<i class="svg inline  svg-inline-address colored" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Ellipse 74 copy" class="cls-1" d="M763.9,42.916h0.03L759,49h-1l-4.933-6.084h0.03a6.262,6.262,0,0,1-1.1-3.541,6.5,6.5,0,0,1,13,0A6.262,6.262,0,0,1,763.9,42.916ZM758.5,35a4.5,4.5,0,0,0-3.741,7h-0.012l3.542,4.447h0.422L762.289,42H762.24A4.5,4.5,0,0,0,758.5,35Zm0,6a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,758.5,41Z" transform="translate(-752 -33)"/>
+</svg>
+</i>								<div>
+									Москва, ул. Профсоюзная, д. 76<br>								</div>
+							</div>
+						</div>
+					</div>
+							</div>
+		</div>	</div>
+		<div class="menu-row with-color bgdark colored_all sliced">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="right-icons pull-right">
+										<div class="pull-right">
+						<div class="wrap_icon inner-table-block">
+							<button class="inline-search-show twosmallfont" title="Поиск">
+								<i class="svg inline  svg-inline-search" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .stcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="stcls-1" d="M15.644,15.644a1.164,1.164,0,0,1-1.646,0l-2.95-2.95a7.036,7.036,0,1,1,1.645-1.645L15.644,14A1.164,1.164,0,0,1,15.644,15.644ZM7,2a5,5,0,1,0,5,5A5,5,0,0,0,7,2Z"/>
+</svg>
+</i>							</button>
+						</div>
+					</div>
+									</div>
+				<div class="menu-only">
+					<nav class="mega-menu sliced">
+							<div class="table-menu catalog_icons_Y">
+		<div class="marker-nav"></div>
+		<table>
+			<tr>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/services/">
+								Услуги								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/cases/">
+								Клиенты								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/blog/">
+								Блог								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/company/">
+								Компания								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+																			<td class="menu-item unvisible ">
+						<div class="wrap">
+							<a class="" href="/contacts/">
+								Контакты								<i class="fa fa-angle-down"></i>
+								<div class="line-wrapper"><span class="line"></span></div>
+							</a>
+													</div>
+					</td>
+				
+				<td class="menu-item dropdown js-dropdown nosave unvisible">
+					<div class="wrap">
+						<a class="dropdown-toggle more-items" href="#">
+							<span>
+								<svg xmlns="http://www.w3.org/2000/svg" width="17" height="3" viewBox="0 0 17 3">
+								  <defs>
+								    <style>
+								      .cls-1 {
+								        fill-rule: evenodd;
+								      }
+								    </style>
+								  </defs>
+								  <path class="cls-1" d="M923.5,178a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,923.5,178Zm7,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,930.5,178Zm7,0a1.5,1.5,0,1,1-1.5,1.5A1.5,1.5,0,0,1,937.5,178Z" transform="translate(-922 -178)"/>
+								</svg>
+							</span>
+						</a>
+						<span class="tail"></span>
+						<ul class="dropdown-menu"></ul>
+					</div>
+				</td>
+
+			</tr>
+		</table>
+	</div>
+					</nav>
+				</div>
+			</div>
+			<div class="lines"></div>
+		</div>
+	</div>
+	<div class="line-row"></div>
+</header>		</div>
+
+		
+		
+		<div id="mobileheader" class="visible-xs visible-sm">
+			<div class="mobileheader-v1">
+	<div class="burger pull-left">
+		<i class="svg inline  svg-inline-burger dark" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="18" height="16" viewBox="0 0 18 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 81 copy 2" class="cls-1" d="M330,114h16a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H330a1,1,0,0,1-1-1h0A1,1,0,0,1,330,114Zm0,7h16a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H330a1,1,0,0,1-1-1h0A1,1,0,0,1,330,121Zm0,7h16a1,1,0,0,1,1,1h0a1,1,0,0,1-1,1H330a1,1,0,0,1-1-1h0A1,1,0,0,1,330,128Z" transform="translate(-329 -114)"/>
+</svg>
+</i>		<i class="svg inline  svg-inline-close dark" aria-hidden="true" ><svg id="Close.svg" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_114_copy_3" data-name="Rounded Rectangle 114 copy 3" class="cls-1" d="M334.411,138l6.3,6.3a1,1,0,0,1,0,1.414,0.992,0.992,0,0,1-1.408,0l-6.3-6.306-6.3,6.306a1,1,0,0,1-1.409-1.414l6.3-6.3-6.293-6.3a1,1,0,0,1,1.409-1.414l6.3,6.3,6.3-6.3A1,1,0,0,1,340.7,131.7Z" transform="translate(-325 -130)"/>
+</svg>
+</i>	</div>
+	<div class="logo-block pull-left">
+		<div class="logo colored">
+			<a href="/"><img src="/upload/CAllcorp2/344/344a21f237067cad20cd9e0db791133e.png" alt="Freshcube" title="Freshcube" /></a>		</div>
+	</div>
+	<div class="right-icons pull-right">
+		<div class="pull-right">
+			<div class="wrap_icon">
+				<button class="inline-search-show twosmallfont" title="Поиск">
+					<i class="svg inline  svg-inline-search" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 106" class="cls-1" d="M1590.71,131.709a1,1,0,0,1-1.42,0l-4.68-4.677a9.069,9.069,0,1,1,1.42-1.427l4.68,4.678A1,1,0,0,1,1590.71,131.709ZM1579,113a7,7,0,1,0,7,7A7,7,0,0,0,1579,113Z" transform="translate(-1570 -111)"/>
+</svg>
+</i>				</button>
+			</div>
+		</div>
+		<div class="pull-right">
+			<div class="wrap_icon wrap_basket">
+						<!--'start_frame_cache_basket-link1'-->		<!-- noindex -->
+				<!-- /noindex -->
+		<!--'end_frame_cache_basket-link1'-->				</div>
+		</div>
+			</div>
+</div>			<div id="mobilemenu" class="leftside">
+				<div class="mobilemenu-v2 downdrop scroller">
+	<div class="wrap">
+			<div class="menu top">
+		<ul class="top">
+															<li>
+					<a class="dark-color" href="/services/" title="Услуги">
+						<span>Услуги</span>
+											</a>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/cases/" title="Клиенты">
+						<span>Клиенты</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/cases/">Клиенты</a></li>
+																															<li>
+									<a class="dark-color" href="/cases/trade/" title="Торговля">
+										<span>Торговля</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color parent" href="/cases/konsalting/" title="Консалтинг">
+										<span>Консалтинг</span>
+																					<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+																			</a>
+																			<ul class="dropdown">
+											<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="cls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+											<li class="menu_title"><a href="/cases/konsalting/">Консалтинг</a></li>
+																																															<li>
+													<a class="dark-color" href="/cases/konsalting/it/" title="IT">
+														<span>IT</span>
+																											</a>
+																									</li>
+																					</ul>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/cases/estate/" title="Недвижимость">
+										<span>Недвижимость</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/cases/stroitelstvo/" title="Строительство и ремонт">
+										<span>Строительство и ремонт</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/cases/tourism/" title="Туризм">
+										<span>Туризм</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color" href="/blog/" title="Блог">
+						<span>Блог</span>
+											</a>
+									</li>
+															<li>
+					<a class="dark-color parent" href="/company/" title="Компания">
+						<span>Компания</span>
+													<span class="arrow"><i class="svg svg_triangle_right"></i></span>
+											</a>
+											<ul class="dropdown">
+							<li class="menu_back"><a href="" class="dark-color" rel="nofollow"><i class="svg inline  svg-inline-arrow-back" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="17" height="12" viewBox="0 0 17 12">
+  <defs>
+    <style>
+      .rcls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Rounded Rectangle 3 copy" class="rcls-1" d="M253.052,4840.24a0.747,0.747,0,0,0,.026.13c0,0.01.014,0.02,0.019,0.03a0.967,0.967,0,0,0,.2.3l4.992,5a1,1,0,0,0,1.414-1.42l-3.287-3.29H269a1.005,1.005,0,0,0,0-2.01H256.416l3.287-3.29a1.006,1.006,0,0,0,0-1.42,0.983,0.983,0,0,0-1.414,0l-4.992,4.99a1.01,1.01,0,0,0-.2.31c0,0.01-.014.01-0.019,0.02a1.147,1.147,0,0,0-.026.14A0.651,0.651,0,0,0,253.052,4840.24Z" transform="translate(-253 -4834)"/>
+</svg>
+</i>Назад</a></li>
+							<li class="menu_title"><a href="/company/">Компания</a></li>
+																															<li>
+									<a class="dark-color" href="/company/index.php" title="О компании">
+										<span>О компании</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/news/" title="Новости">
+										<span>Новости</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/history/" title="История">
+										<span>История</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/licenses/" title="Сертификаты">
+										<span>Сертификаты</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/partners/" title="Партнеры">
+										<span>Партнеры</span>
+																			</a>
+																	</li>
+																															<li>
+									<a class="dark-color" href="/company/refs/" title="Отзывы">
+										<span>Отзывы</span>
+																			</a>
+																	</li>
+													</ul>
+									</li>
+															<li>
+					<a class="dark-color" href="/contacts/" title="Контакты">
+						<span>Контакты</span>
+											</a>
+									</li>
+					</ul>
+	</div>
+	</div>
+</div>			</div>
+		</div>
+
+		<div class="body index hover_blink">
+			<div class="body_media"></div>
+
+			<div role="main" class="main banner-auto">
+				
+				<div class="container  ">
+																															<div>																				<div class="drag-block container BIG_BANNER_INDEX " data-class="BIG_BANNER_INDEX_drag" data-order="1">
+						<div class="row margin0">
+									<div class="banners-big short-banner small padding-banner-block front">
+		<div class="maxwidth-banner">
+			<div class="flexslider unstyled " data-plugin-options='{"directionNav": true, "customDirection": ".nav-carousel a", "controlNav": true, "nav" : "normal", "slideshow": false, "animation": "slide", "direction": "horizontal", "slideshowSpeed": 0, "animationSpeed": 600, "animationLoop": true}'>
+				<ul class="slides items">
+																	<li class="item" id="bx_3218110189_264" style="background-image:url('/upload/iblock/aba/abab48124bf58c5a168d04461697cb26.jpg');" data-slide_index="0"  data-color="light">
+							<div class="maxwidth-theme ">
+								<div class="row  ">
+																		
+									
+																			<div class="col-md-6 text">
+											<div class="inner">
+																																																				<div class="title"><h1> <span style="font-weight: 500; font-size: 24pt; color: #000000;">
+Внедрение amoCRM </span> </h1></div>
+																				<div class="text-block">
+											<iframe width="560" height="315" src="https://www.youtube.com/embed/P1siEbqPotk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>										</div>
+																																							</div>
+										</div>
+										<div class="col-md-6 img">
+											<div class="inner">
+																																									</div>
+										</div>
+																	</div>
+							</div>
+						</li>
+																	<li class="item" id="bx_3218110189_332" style="background-image:url('/upload/iblock/914/914750dabc163f7fcf7b58ffca4ef660.png');" data-slide_index="1" >
+							<div class="maxwidth-theme ">
+								<div class="row  ">
+																		
+									
+																			<div class="col-md-6 text">
+											<div class="inner">
+																																																				<div class="title">Cкидки на amoCRM</div>
+																				<div class="text-block">
+											Плюс один месяц к сроку действия лицензии!										</div>
+																																												<a href="/services/crm/amocrm-license/"  class="btn btn-default">
+													Подробности												</a>
+																																																													</div>
+										</div>
+										<div class="col-md-6 img">
+											<div class="inner">
+																																									</div>
+										</div>
+																	</div>
+							</div>
+						</li>
+																	<li class="item" id="bx_3218110189_335" style="background-image:url('/bitrix/templates/aspro-allcorp2/components/bitrix/news.list/front-banners-big-short_small/images/background.jpg');" data-slide_index="2"  data-color="light">
+							<div class="maxwidth-theme ">
+								<div class="row  ">
+																		
+									
+																			<div class="col-md-6 text">
+											<div class="inner">
+																																																				<a href="https://www.freshcube.ru/services/vidzhety-amocrm/" class="title-link">
+												<div class="title">Виджеты для amoCRM</div>
+											</a>
+																				<div class="text-block">
+											Готовые решения для amoCRM										</div>
+																																							</div>
+										</div>
+										<div class="col-md-6 img">
+											<div class="inner">
+																																										<a href="https://www.freshcube.ru/services/vidzhety-amocrm/" class="image">
+												<img class="plaxy"  src="/upload/iblock/36f/36f06db50a84d9fa3c5846662ea83180.png" alt="Виджеты для amoCRM" title="Виджеты для amoCRM" />
+											</a>
+																																							</div>
+										</div>
+																	</div>
+							</div>
+						</li>
+									</ul>
+				<div class="maxwidth-theme">
+					<div class="col-md-12">
+						<div class="nav-carousel">
+							<ul class="flex-direction-nav">
+								<li class="flex-nav-prev">
+									<a href="javascript:void(0)" class="flex-prev"><span>Prev</span></a>
+								</li>
+								<li class="flex-nav-next">
+									<a href="javascript:void(0)" class="flex-next"><span>Next</span></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+							</div>
+					</div>
+																																																																																																									<div class="drag-block container TEASERS_INDEX " data-class="TEASERS_INDEX_drag" data-order="2">
+						<div class="row margin0">
+								<div class="maxwidth-theme">
+		<div class="col-md-12">
+			<div class="tizers_block2">
+				<div class="row">
+																<div class="col-md-3 col-sm-6">
+							<div id="bx_651765591_30" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/298/298681e46af5dd27831711ee44c1d3ce.png" alt="Экспертность" title="Экспертность"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Экспертность</span>
+																					<span class="desc-text">Входим в ТОП-20 из 1000 партнеров amoCRM</span>
+																											</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6">
+							<div id="bx_651765591_28" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/3bf/3bfd455c7d8b1fa7d05eafe052567ed6.png" alt="Отдел разработки" title="Отдел разработки"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Отдел разработки</span>
+																					<span class="desc-text">Программисты в штате</span>
+																											</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6">
+							<div id="bx_651765591_29" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/41d/41d51364c80ffb7d28a99c2583fe8a6b.png" alt="Находимся в Москве" title="Находимся в Москве"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Находимся в Москве</span>
+																					<span class="desc-text">Но готовы купить билет и прилететь в ваш город, когда потребуется</span>
+																											</div>
+							</div>
+						</div>
+											<div class="col-md-3 col-sm-6">
+							<div id="bx_651765591_31" class="item">
+																	<div class="img">
+																				<img src="/upload/iblock/fe0/fe00c2ddc6f11163fc0103bcddd0be73.png" alt="Служба поддержки" title="Служба поддержки"/>
+																			</div>
+																<div class="title">
+																			<span class="top-text">Служба поддержки</span>
+																					<span class="desc-text">Поддержка после внедрения. Отвечаем на вопросы<br />
+по телефону, E-mail и в чате.</span>
+																											</div>
+							</div>
+						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+						</div>
+					</div>
+																																																																																																									<div class="drag-block container FLOAT_BANNERS_INDEX " data-class="FLOAT_BANNERS_INDEX_drag" data-order="3">
+							<div class="maxwidth-theme">
+		<div class="col-md-12">
+									<div class="float-banners v3 item-views blocks">
+									<div class="title_block">
+													<a href="/services/" class="right_link_block">Все услуги</a>
+												<h3 class="line">Наши услуги</h3>
+					</div>
+								<div class="row items">
+											<div class="col-md-3 text-block">
+							<p class="black normal_text">
+	 Наша ключевая компетенция — внедрение CRM-систем
+</p>
+<p>
+	 Добиваемся результата благодаря последовательному подходу: анализ, разработка требований, настройка, обучение и дальнейшее сопровождение CRM-системы.
+</p>
+ <a href="/services/" class="btn btn-transparent-bg btn-default">Подробнее</a>						</div>
+						<div class="col-md-9">
+											<div class="row items flexbox">
+																														<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+									<div class="item">
+																					<div class="img">
+																									<a href="/services/crm/amocrm/" class="">
+																								<div class="img_block scale_block_animate" style="background-image: url('/upload/resize_cache/iblock/705/640_420_1/705408a272f0aae62192509a5270816a.jpg');"></div>
+																									</a>
+																							</div>
+																				<div class="title">
+																							<a href="/services/crm/amocrm/" class="colored">
+																						<span>Внедрение amoCRM</span>
+																							</a>
+																					</div>
+																															<div class="preview_text">
+												Настройка, обучение и поддержка											</div>
+																			</div>
+								</div>
+																							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+									<div class="item">
+																					<div class="img">
+																									<a href="/services/crm/audit-crm/" class="">
+																								<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/7c3/7c3be4744f84d1d9fae328c36c8b4fce.jpg');"></div>
+																									</a>
+																							</div>
+																				<div class="title">
+																							<a href="/services/crm/audit-crm/" class="colored">
+																						<span>Аудит CRM</span>
+																							</a>
+																					</div>
+																															<div class="preview_text">
+												Исследуем вашу CRM-систему и подскажем точки роста											</div>
+																			</div>
+								</div>
+																							<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12">
+									<div class="item">
+																					<div class="img">
+																									<a href="/services/business-analitika" class="">
+																								<div class="img_block scale_block_animate" style="background-image: url('/upload/iblock/1b8/1b8087214cb068beccecdec7d540d13c.png');"></div>
+																									</a>
+																							</div>
+																				<div class="title">
+																							<a href="/services/business-analitika" class="colored">
+																						<span>Сквозная бизнес-аналитика</span>
+																							</a>
+																					</div>
+																															<div class="preview_text">
+												Измеряйте не клики, а продажи											</div>
+																			</div>
+								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+					</div>
+																																																																																																																																													<div class="drag-block container COMPANY_INDEX " data-class="COMPANY_INDEX_drag" data-order="4">
+						<div class="row">
+							<div class="maxwidth-theme company-front flexbox">
+								<div class="col-md-8 col-sm-12 col-xs-12">
+									<br>
+<h3>О компании</h3>
+ Freshcube была основана в 2012 году и занималась созданием сайтов. Но достаточно быстро наша команда на своем опыте прочувствовала, что наличие красивого и функционального сайта - не панацея для современного бизнеса. Проблемы коммуникации между подразделениями организации сводили к нулю все усилия и инвестиции в рекламу и продвижение.
+<p>
+	 И уже в 2014 году компания стала партнером amoCRM. С тех пор мы внедряем CRM в работу компаний, помогая увеличить прибыль. Систематизация и автоматизация деятельности отделов продаж и маркетинга позволяет высвобождать и грамотно использовать имеющиеся ресурсы. Чтобы достичь ярких результатов мы:
+</p>
+<p>
+</p>
+<ul>
+	<li>
+	<p>
+		анализируем процессы в отделе продаж
+	</p>
+	</li>
+	<li>
+	<p>
+		настраиваем CRM
+	</p>
+	</li>
+	<li>
+	<p>
+		интегрируем IP-телефонию
+	</p>
+	</li>
+	<li>
+	<p>
+		подключаем источники заявок
+	</p>
+	</li>
+	<li>
+	<p>
+		обучаем сотрудников работать в CRM
+	</p>
+	</li>
+	<li>
+	<p>
+		сопровождаем и консультируем
+	</p>
+	</li>
+	<li>
+	<p>
+		настраиваем сквозную бизнес-аналитику для измерения ROI по рекламе.
+	</p>
+	</li>
+</ul>
+<p>
+</p>
+<p>
+	 Стратегическая цель работы Freshcube - разработка и интеграция IT-решений для бизнеса. Мы заинтересованы в вашем развитии и росте, как показателе эффективности нашей деятельности.
+</p>
+<h4>
+Печальный опыт </h4>
+<p>
+	 Иногда к нам обращаются, когда CRM уже внедрена, но ее использование не приносит желаемого эффекта. Заявки теряются, менеджеры вносят информацию кто во что горазд. В таких случаях мы проводим аудит системы: настраиваем процессы и добиваемся правильного ведения CRM. В результате руководство получает объективную аналитику, которую используют для поиска точек роста. О рисках самостоятельного внедрения CRM читайте статью в нашем блоге.
+</p>
+<p>
+	 Однако лучше обратиться в Freshcube до подключения CRM - мы “на берегу” определимся с процессами, их иерархией и классификацией, подберем оптимальный пакет сервисов, проведем внедрение CRM и обучение персонала. Это позволит избежать ошибок еще на старте, сократив расходы.
+</p>
+<p>
+	 Все еще ведете клиентов в Excel или блокнотах? Оставьте заявку, чтобы узнать о кейсах по своей отрасли прямо сейчас!
+</p>
+<p>
+	 Универсальный и функциональный инструмент, амоцрм, позволяет комплексно решать огромное количество задач, превращая работу критически важных подразделений в идеально отлаженный механизм. Результаты грамотного внедрения, поддержка и корректировка системы способна запустить вечный двигатель. Двигатель вашего бизнеса. Заказав внедрение CRM от Freshcube, вы выбираете бескомпромиссный вариант оптимизации бизнес-процессов именно вашей организации.
+</p>
+<h4>
+Внедрение CRM системы глазами клиентов Freshcube </h4>
+<p>
+	 Использование корректно настроенной amoCRM уже успели оценить десятки клиентов нашей компании. С внедрением CRM системы оптимизация и повышение эффективности затрагивает абсолютно все сферы работы компании. Для кого-то это - стремительный рост компании, для кого-то - расширение географии, для кого-то - ассортимента. Но мы рады, что помимо сотрудничества с нами, эти компании объединяет еще одно - успех!
+</p>
+<div>
+	 	<div class="row profit-front-block">
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/737/737970f8386f7c67543d3b61805d02e2.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="100">0</span>+</div>
+											</div>
+					<div class="title">выполненных проектов</div>
+				</div>
+			</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/5f3/5f370a081c26370278bc6b062842df12.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="5">0</span></div>
+											</div>
+					<div class="title">сотрудников</div>
+				</div>
+			</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/381/38175856e0bae3b32df8516b0e3e7714.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="3">0</span></div>
+											</div>
+					<div class="title">года работы на рынке</div>
+				</div>
+			</div>
+					<div class="col-lg-3 col-md-6 col-sm-6 col-xs-6">
+				<div class="item props">
+											<div class="image"><img src="/upload/uf/6b7/6b76414e611ea49cd1e0f799fe3f2785.png"  alt="" width="48" height="48" /></div>
+										<div class="body-info">
+													<div class="value"><span class=spincrement data-value="30">0</span>+%</div>
+											</div>
+					<div class="title">увеличение выручки клиентов</div>
+				</div>
+			</div>
+			</div>
+</div>
+ <br>								</div>
+								<div class="col-md-4 hidden-xs hidden-sm">
+									<img alt="Генеральный директор Freshcube" src="/upload/medialibrary/ee8/ee8ac10da032f7225338b349a204dc23.jpg" title="Генеральный директор Freshcube" width="373" height="514"><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>								</div>
+							</div>
+						</div>
+					</div>
+																																																																<div class="drag-block container CATALOG_INDEX hidden" data-class="CATALOG_INDEX_drag" data-order="5">
+					<div class="greyline">
+						
+					</div>
+				</div>
+																																																																																																																																																																																															<div class="drag-block container PARTNERS_INDEX " data-class="PARTNERS_INDEX_drag" data-order="7">
+							<div class="row margin0">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+								<div class="item-views partners front blocks">
+										<div class="flexslider unstyled row flex_loader_circle navigation-vcenter dark-nav2" data-plugin-options='{"directionNav": true, "controlNav" :true, "animationLoop": true, "slideshow": true, "slideshowSpeed": 5000, "animationSpeed": 600, "counts": [4, 3, 1]}'>
+						<ul class="slides items">
+																							<li class="col-md-3 col-sm-6">
+									<div class="item" id="bx_3485106786_88">
+										<a href="/company/partners/amocrm/">											<img class="img-responsive" src="/upload/iblock/e1d/e1d2396eee19adcd3ef726369eb347e2.jpg" alt="amoCRM" title="amoCRM" />
+										</a>									</div>
+								</li>
+																							<li class="col-md-3 col-sm-6">
+									<div class="item" id="bx_3485106786_87">
+										<a href="/company/partners/partner-5/">											<img class="img-responsive" src="/upload/iblock/769/7696a39df09be2829ec32325aa1431f7.png" alt="1C-Битрикс" title="1C-Битрикс" />
+										</a>									</div>
+								</li>
+																							<li class="col-md-3 col-sm-6">
+									<div class="item" id="bx_3485106786_89">
+										<a href="/company/partners/onpbx/">											<img class="img-responsive" src="/upload/resize_cache/iblock/7dd/186_90_0/7dd1f48de6e4e8ef10d158a839d6a6da.png" alt="onlinePBX" title="onlinePBX" />
+										</a>									</div>
+								</li>
+																							<li class="col-md-3 col-sm-6">
+									<div class="item" id="bx_3485106786_91">
+										<a href="/company/partners/sipuni/">											<img class="img-responsive" src="/upload/iblock/49f/49f211d5985fe39be9a72ac16c39977f.png" alt="Sipuni" title="Sipuni" />
+										</a>									</div>
+								</li>
+													</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+					</div>
+																																																																																																																																												</div>									</div>							</div>		</div>		<footer id="footer">
+	<!--'start_frame_cache_footer-subscribe'-->	<!--'end_frame_cache_footer-subscribe'-->
+	<div class="container">
+		<div class="row bottom-middle">
+			<div class="maxwidth-theme">
+				<div class="col-md-8">
+					<div class="row">
+						<div class="col-md-3 col-sm-3">
+									<div class="bottom-menu">
+		<div class="items">
+																				<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/company/">Компания</a>
+															</div>
+						</div>
+					</div>
+																							
+															<div class="wrap">
+																	<div class="item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/index.php">О компании</a>
+																	</div>
+							</div>
+						</div>
+																																						<div class="item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/news/">Новости</a>
+																	</div>
+							</div>
+						</div>
+																																						<div class="item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/history/">История</a>
+																	</div>
+							</div>
+						</div>
+																																						<div class="item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/licenses/">Сертификаты</a>
+																	</div>
+							</div>
+						</div>
+																																						<div class="item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/partners/">Партнеры</a>
+																	</div>
+							</div>
+						</div>
+																																						<div class="item-link">
+							<div class="item">
+								<div class="title">
+																			<a href="/company/refs/">Отзывы</a>
+																	</div>
+							</div>
+						</div>
+																							</div>
+													
+											</div>
+	</div>
+						</div>
+						<div class="col-md-3 col-sm-3">
+									<div class="bottom-menu">
+		<div class="items">
+																				<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/services/">Услуги</a>
+															</div>
+						</div>
+					</div>
+																										<div class="wrap">
+														<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/services/crm/amocrm/">Внедрение amoCRM</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/services/vidzhety-amocrm/">Виджеты для amoCRM</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/services/skvoznaya-biznes-analitika/vnedrenie-roistat/">Сквозная бизнес-аналитика</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/services/crm/audit-crm/">Аудит CRM</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/services/crm/amocrm-license/">Лицензии amoCRM</a>
+															</div>
+						</div>
+					</div>
+									</div>
+																			</div>
+	</div>
+						</div>
+						<div class="col-md-3 col-sm-3">
+									<div class="bottom-menu">
+		<div class="items">
+																				<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/blog/">Блог</a>
+															</div>
+						</div>
+					</div>
+																										<div class="wrap">
+														<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/blog/sales/">Продажи</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/blog/it/">Автоматизация</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/blog/hr/">Персонал</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="/blog/marketing/">Маркетинг</a>
+															</div>
+						</div>
+					</div>
+									</div>
+																			</div>
+	</div>
+						</div>
+						<div class="col-md-3 col-sm-3">
+									<div class="bottom-menu">
+		<div class="items">
+																				<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/cases/">Кейсы</a>
+															</div>
+						</div>
+					</div>
+																										<div class="wrap">
+														<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/cases/trade/">Торговля</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/cases/estate/">Недвижимость</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/cases/stroitelstvo/">Строительство и ремонт</a>
+															</div>
+						</div>
+					</div>
+																															<div class="item-link">
+						<div class="item">
+							<div class="title">
+																	<a href="https://www.freshcube.ru/cases/tourism/">Туризм</a>
+															</div>
+						</div>
+					</div>
+									</div>
+																			</div>
+	</div>
+						</div>
+					</div>
+	 			</div>
+				<div class="col-md-4 contact-block">
+					<div class="row">
+						<div class="col-md-9 col-md-offset-2">
+							<span class="white_middle_text">Наши контакты<br>
+<br>
+</span>							<div class="info">
+								<div class="row">
+																												<div class="col-md-12 col-sm-4">
+											<div class="blocks phones">
+																				<div class="phone">
+								<i class="svg inline  svg-inline-phone colored" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .pcls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="pcls-1" d="M14,11.052a0.5,0.5,0,0,0-.03-0.209,1.758,1.758,0,0,0-.756-0.527C12.65,10,12.073,9.69,11.515,9.363a2.047,2.047,0,0,0-.886-0.457c-0.607,0-1.493,1.8-2.031,1.8a2.138,2.138,0,0,1-.856-0.388A9.894,9.894,0,0,1,3.672,6.253,2.134,2.134,0,0,1,3.283,5.4c0-.536,1.8-1.421,1.8-2.027a2.045,2.045,0,0,0-.458-0.885C4.3,1.932,3.99,1.355,3.672.789A1.755,1.755,0,0,0,3.144.034,0.5,0.5,0,0,0,2.935,0,4.427,4.427,0,0,0,1.551.312,2.62,2.62,0,0,0,.5,1.524,3.789,3.789,0,0,0-.011,3.372a7.644,7.644,0,0,0,.687,2.6A9.291,9.291,0,0,0,1.5,7.714a16.783,16.783,0,0,0,4.778,4.769,9.283,9.283,0,0,0,1.742.825,7.673,7.673,0,0,0,2.608.686,3.805,3.805,0,0,0,1.851-.507,2.62,2.62,0,0,0,1.214-1.052A4.418,4.418,0,0,0,14,11.052Z"/>
+</svg>
+</i>				
+				<a href="tel:+74954898787">+7 495 489-87-87</a>
+							</div>
+																<div class="schedule">
+													Пн. – Пт.: с 9:00 до 18:00												</div>
+											</div>
+										</div>
+																																					<div class="col-md-12 col-sm-4">
+											<div class="address blocks">
+												<i class="svg inline  svg-inline-address" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="13" height="16" viewBox="0 0 13 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path data-name="Ellipse 74 copy" class="cls-1" d="M763.9,42.916h0.03L759,49h-1l-4.933-6.084h0.03a6.262,6.262,0,0,1-1.1-3.541,6.5,6.5,0,0,1,13,0A6.262,6.262,0,0,1,763.9,42.916ZM758.5,35a4.5,4.5,0,0,0-3.741,7h-0.012l3.542,4.447h0.422L762.289,42H762.24A4.5,4.5,0,0,0,758.5,35Zm0,6a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,758.5,41Z" transform="translate(-752 -33)"/>
+</svg>
+</i>												Москва, ул. Профсоюзная, д. 76<br>											</div>
+										</div>
+																																					<div class="col-md-12 col-sm-4">
+											<div class="email blocks">
+												<i class="svg inline  svg-inline-email" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="16" height="13" viewBox="0 0 16 13">
+  <defs>
+    <style>
+      .ecls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="ecls-1" d="M14,13H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H14a2,2,0,0,1,2,2v9A2,2,0,0,1,14,13ZM3.534,2L8.015,6.482,12.5,2H3.534ZM14,3.5L8.827,8.671a1.047,1.047,0,0,1-.812.3,1.047,1.047,0,0,1-.811-0.3L2,3.467V11H14V3.5Z"/>
+</svg>
+</i>												<a href="mailto:info@freshcube.ru">info@freshcube.ru</a>											</div>
+										</div>
+																	</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row bottom-under">
+			<div class="maxwidth-theme">
+				<div class="col-md-12 outer-wrapper">
+					<div class="inner-wrapper">
+						<div class="copy-block">
+							<div class="copy">
+								&copy; 2015—2022 Все права защищены.							</div>
+							<div class="print-block"></div>
+							<div id="bx-composite-banner"></div>
+						</div>
+						<div class="social-block">
+							<div class="social-icons">
+		<!-- noindex -->
+	<ul>
+											<li class="instagram">
+				<a href="https://www.instagram.com/freshcube.ru/" target="_blank" rel="nofollow" title="Instagram">
+					<i class="svg inline  svg-inline-inst" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M13,17H7a4,4,0,0,1-4-4V7A4,4,0,0,1,7,3h6a4,4,0,0,1,4,4v6A4,4,0,0,1,13,17ZM15,7a2,2,0,0,0-2-2H7A2,2,0,0,0,5,7v6a2,2,0,0,0,2,2h6a2,2,0,0,0,2-2V7Zm-5,6a3,3,0,1,1,3-3A3,3,0,0,1,10,13Zm1-4H9v2h2V9Z"/>
+</svg>
+</i>				</a>
+			</li>
+							<li class="telegram">
+				<a href="https://t.me/moysklad24news" target="_blank" rel="nofollow" title="Telegram">
+					<i class="svg inline  svg-inline-tel" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #909090;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M14.78,15.369a0.727,0.727,0,0,1-1.205.565l-3.332-2.455L8.636,15.027a0.837,0.837,0,0,1-.669.327L8.2,11.962h0l6.174-5.579c0.268-.238-0.059-0.372-0.417-0.134L6.33,11.054,3.042,10.028C2.328,9.8,2.313,9.314,3.191,8.972L16.044,4.018c0.6-.223,1.116.134,0.922,1.041Z"/>
+</svg>
+</i>				</a>
+			</li>
+							<li class="ytb">
+				<a href="https://www.youtube.com/c/FreshcubeRu" target="_blank" rel="nofollow" title="YouTube">
+					<i class="svg inline  svg-inline-yt" aria-hidden="true" ><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M14,16H7a4,4,0,0,1-4-4V8A4,4,0,0,1,7,4h7a4,4,0,0,1,4,4v4A4,4,0,0,1,14,16Zm2-8a2,2,0,0,0-2-2H7A2,2,0,0,0,5,8v4a2,2,0,0,0,2,2h7a2,2,0,0,0,2-2V8ZM9,8l4,2L9,12V8Z"/>
+</svg>
+</i>				</a>
+			</li>
+									</ul>
+	<!-- /noindex -->
+</div>						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>		<div class="bx_areas">
+			<script type="text/javascript">(function (w, d) {w.amo_pixel_token = 'p1Ip4iB8yqaEyXU9HPmcTOZYXELS5C2cnMuxs6R37SpBhmeFYWj3lKotXAYfZeqZ';var s = document.createElement('script'), f = d.getElementsByTagName('script')[0];s.id = 'amo_pixel_js';s.type = 'text/javascript';s.async = true;s.src = 'https://piper.amocrm.ru/pixel/js/tracker/pixel.js?token=' + w.amo_pixel_token;f.parentNode.insertBefore(s, f);})(window, document);</script>
+
+		</div>
+				
+
+	<div class="inline-search-block fixed with-close big">
+		<div class="maxwidth-theme">
+			<div class="col-md-12">
+				<div class="search-wrapper">
+					<div id="title-search">
+						<form action="/search/" class="search">
+							<div class="search-input-div">
+								<input class="search-input" id="title-search-input" type="text" name="q" value="" placeholder="Найти" size="40" maxlength="50" autocomplete="off" />
+							</div>
+							<div class="search-button-div">
+								<button class="btn btn-search btn-default bold btn-lg" type="submit" name="s" value="Найти">Найти</button>
+								<span class="close-block inline-search-hide"><span class="svg svg-close close-icons"></span></span>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<script type="text/javascript">
+	var jsControl = new JCTitleSearch2({
+		//'WAIT_IMAGE': '/bitrix/themes/.default/images/wait.gif',
+		'AJAX_PAGE' : '/',
+		'CONTAINER_ID': 'title-search',
+		'INPUT_ID': 'title-search-input',
+		'MIN_QUERY_LEN': 2
+	});
+</script>				
+		<!-- FRESHCUBE F24 SFORM INTEGRATION -->
+		<script>
+			var setCookie = function(cname, cvalue, exdays) {
+			  var d = new Date();
+			  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			  var expires = "expires="+d.toUTCString();
+			  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+			}
+			
+			var thisURL = document.URL;
+			var thisQS = thisURL.split('?')[1];
+			var thisNVP = thisQS.split('&');
+			thisNVP.forEach(function(el) {
+				setCookie(el.split('=')[0].toLowerCase(), el.split('=')[1]);
+			});
+		</script>
+		
+		<!-- END FRESHCUBE F24 SFORM INTEGRATION -->
+	</body>
+</html>

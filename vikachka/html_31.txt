@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="google" value="notranslate">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Blockly.Ru ÑÐ²Ð»ÑÐµÑÑÑ Ð¾Ð±ÑÐ°Ð·Ð¾Ð²Ð°ÑÐµÐ»ÑÐ½ÑÐ¼ Ð¿ÑÐ¾ÐµÐºÑÐ¾Ð¼ Ð´Ð»Ñ Ð±ÑÐ´ÑÑÐ¸Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÑÐ¾Ð². Blockly.Ru is an educational project for tomorrow's programmers.">
+  <meta name="keywords" content="Google Blockly, Blockly, ÐÐ»Ð¾ÐºÐ»Ð¸, Blockly Ð½Ð° ÑÑÑÑÐºÐ¾Ð¼ ÑÐ·ÑÐºÐµ, Ð¸Ð³ÑÑ Blockly, Ð¸Ð³ÑÑ ÐÐ»Ð¾ÐºÐ»Ð¸, Blockly Games, Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ Blockly, Blockly Apps, Ð²Ð¸Ð·ÑÐ°Ð»ÑÐ½Ð¾Ðµ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ, Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ Ð² ÑÐºÐ¾Ð»Ðµ">
+  <meta name="author" content="Blockly.Ru">
+  <title>Blockly.Ru â ÐÐ»Ñ Ð±ÑÐ´ÑÑÐ¸Ñ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÑÐ¾Ð² â For tomorrow's programmers</title>
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="fonts/cuprum.css">
+  <link rel="stylesheet" type="text/css" href="fonts/exotwo.css">
+  <link rel="stylesheet" type="text/css" href="fonts/roboto.css">
+  <link rel="stylesheet" type="text/css" href="css/metro.css" />
+  <link rel="stylesheet" type="text/css" href="css/metro_mobile.css" media="screen and (max-height: 500px), screen and (orientation:portrait)" />
+  <link rel="stylesheet" href="css/right-nav-style.css">
+  <script type="text/javascript" src="js/script.js"></script>
+        <style>
+            #widget_scroll_container {
+                width: 2160px;
+            }
+            div.widget_container {
+                width: 1200px;
+            }
+            div.widget_container.half {
+                width: 400px;
+            }
+            @media screen and (max-height: 680px) {
+                #widget_scroll_container {
+                    width: 1660px;
+                }
+                div.widget_container {
+                    width: 900px;
+                }
+                div.widget_container.half {
+                    width: 300px;
+                }
+            }
+        </style>
+    </head>
+	
+    <body class="open">
+	
+	<a href="contact-form.html#form1"><button class="nav-toggle-home"></button></a>
+    <input type="checkbox" id="nav-toggle" hidden>
+    <nav class="nav">
+    <label for="nav-toggle" class="nav-toggle" onclick></label>
+        
+        <h2> 
+            <a href="index.html">BLOCKLY.RU</a> 
+        </h2>
+        <ul>
+			<li><a href="about.html">Ð ÑÐ°Ð¹ÑÐµ</a></li>
+			<li><a href="contacts.html">ÐÐ¾Ð½ÑÐ°ÐºÑÑ</a></li>
+			<li><a href="code/index.html?lang=ru">Ð¡ÑÐµÐ´Ð° Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ñ</a></li>
+			<li><a href="blockly-html/index.html">Blockly - HTML</a></li>
+			<li><a href="information.html">ÐÐ½ÑÐ¾ÑÐ¼Ð°ÑÐ¸Ñ</a>
+				<ul>
+					<li><a href="blockly-developers.html">Google Developers</a></li>
+					<li><a href="neil-fraser-news.html">ÐÐ¸Ð» Ð¤ÑÐµÐ¹Ð·ÐµÑ</a></li>
+					<li><a href="articles.html">Ð¡ÑÐ°ÑÑÐ¸</a></li>
+				</ul>
+			</li>
+            <li><a href="schooling.html">ÐÐ±ÑÑÐµÐ½Ð¸Ðµ</a>
+				<ul>
+					<li><a href="about-schooling.html">Ð ÑÐ°Ð·Ð´ÐµÐ»Ðµ</a></li>
+					<li><a href="problem-book/index.html">ÐÐ°Ð´Ð°ÑÐ½Ð¸Ðº</a></li>
+					<li><a href="problem-book/index-js.html">ÐÐ°Ð´Ð°ÑÐ½Ð¸Ðº JS</a></li>
+					<li><a href="solutions-book/index.html">Ð ÐµÑÐµÐ±Ð½Ð¸Ðº</a></li>
+					<li><a href="solutions-book/index-js.html">Ð ÐµÑÐµÐ±Ð½Ð¸Ðº JS</a></li>
+					<li><a href="training/index.html">Ð¡ÑÐµÐ´Ð° Ð¾Ð±ÑÑÐµÐ½Ð¸Ñ</a></li>
+					<li><a href="training/demo.html">Ð¡ÑÐµÐ´Ð° Ð¾Ð±ÑÑÐµÐ½Ð¸Ñ. ÐÐµÐ¼Ð¾</a></li>
+					<li><a href="training/index-step.html">ÐÐ¾ÑÐ°Ð³Ð¾Ð²Ð°Ñ ÑÑÐµÐ´Ð° Ð¾Ð±ÑÑÐµÐ½Ð¸Ñ</a></li>
+					<li><a href="training/demo-step.html">ÐÐ¾ÑÐ°Ð³Ð¾Ð²Ð°Ñ ÑÑÐµÐ´Ð° Ð¾Ð±ÑÑÐµÐ½Ð¸Ñ. ÐÐµÐ¼Ð¾</a></li>
+					<li><a href="apps/turtle/index.html">Ð§ÐµÑÐµÐ¿Ð°ÑÐ°</a></li>
+					<li><a href="apps/js-turtle/index.html">JS Turtle</a></li>
+					<li><a href="apps/turtle-task/index.html">Ð§ÐµÑÐµÐ¿Ð°ÑÐ° (Ð·Ð°Ð´Ð°Ð½Ð¸Ñ)</a></li>
+				</ul>
+			</li>
+			<li><a href="learning.html">Ð£ÑÐ¸Ð¼ÑÑ Ð¿ÑÐ¾Ð³ÑÐ°Ð¼Ð¼Ð¸ÑÐ¾Ð²Ð°ÑÑ</a>
+				<ul>
+					<li><a href="about-learning.html">Ð ÑÐ°Ð·Ð´ÐµÐ»Ðµ</a></li>
+					<li><a href="manual/beginning.html">Ð£ÑÐµÐ±Ð½Ð¸Ðº</a></li>
+					<li><a href="teaching/index.html">ÐÐ±ÑÑÐµÐ½Ð¸Ðµ ÐÐÐ. ÐÑÐ½Ð¾Ð²Ñ</a>
+					<li><a href="teaching/index-loops.html">ÐÐ±ÑÑÐµÐ½Ð¸Ðµ ÐÐÐ. Ð¦Ð¸ÐºÐ»Ñ</a>
+					<li><a href="teaching/index-conditional.html">ÐÐ±ÑÑÐµÐ½Ð¸Ðµ ÐÐÐ. ÐÐµÑÐ²Ð»ÐµÐ½Ð¸Ñ</a>
+					<li><a href="teaching/index-functions.html">ÐÐ±ÑÑÐµÐ½Ð¸Ðµ ÐÐÐ. Ð¤ÑÐ½ÐºÑÐ¸Ð¸</a>
+					<li><a href="blockly-robot/apps/home.html">Ð Ð¾Ð±Ð¾Ñ</a></li>
+					<li><a href="blockly-robot/apps/home-demo.html">Ð Ð¾Ð±Ð¾Ñ. ÐÐµÐ¼Ð¾Ð²ÐµÑÑÐ¸Ð¸</a></li>
+				</ul>
+			</li>
+            <li><a href="apps.html">ÐÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ</a>
+				<ul>
+					<li><a href="apps/about-apps.html">Ð Ð¿ÑÐ¸Ð»Ð¾Ð¶ÐµÐ½Ð¸ÑÑ</a></li>
+					<li><a href="apps/panda/index.html">ÐÐ°Ð½Ð´Ð° Ð¸ Ð²ÑÑ-Ð²ÑÑ-Ð²ÑÑ.</a></li>
+					<li><a href="apps/panda/mobi/index.html">ÐÐ°Ð½Ð´Ð°. Mobile</a></li>
+					<li><a href="apps/panda/js-version/index.html">JS Panda.</a></li>
+					<li><a href="apps/panda/js-version/mobi/index.html">JS Panda. Mobile</a></li>
+					<li><a href="apps/graph/index.html">ÐÑÐ°ÑÐ¸Ðº</a></li>
+					<li><a href="apps/plane/index.html?lang=ru">Ð¡Ð°Ð¼Ð¾Ð»ÑÑ</a></li>
+					<li><a href="apps/land/index.html?lang=ru">Ð¡ÑÑÐ°Ð½Ñ</a></li>
+					<li><a href="games/puzzle.html?lang=ru">Ð¤Ð°ÑÐ½Ð°</a></li>
+					<li><a href="blocklyduino/index.html">BlocklyDuino-ru</a></li>
+					<li><a href="blocklyduino/index-en.html">BlocklyDuino-en</a></li>
+					<li><a href="supermaze/maze/index.html">Ð¡ÑÐ¿ÐµÑÐÐ°Ð±Ð¸ÑÐ¸Ð½Ñ</a></li>
+				</ul>
+			</li>
+            <li><a href="games.html">ÐÐ³ÑÑ</a>
+				<ul>
+					<li><a href="games/about-games.html">ÐÐ± Ð¸Ð³ÑÐ°Ñ</a></li>
+					<li><a href="apps/bunny/game1-selecting-version.html">ÐÐ°Ð½Ð½Ð¸ Ð¸Ð´ÑÑ Ð´Ð¾Ð¼Ð¾Ð¹</a></li>
+					<li><a href="apps/bunny/game2-selecting-version.html">ÐÐ°Ð½Ð½Ð¸ ÑÐ½Ð¾Ð²Ð° Ð² Ð¿ÑÑÐ¸</a></li>
+					<li><a href="apps/carrotField/home.html">ÐÐ°Ð½Ð½Ð¸ Ð½Ð° Ð¼Ð¾ÑÐºÐ¾Ð²Ð½Ð¾Ð¼ Ð¿Ð¾Ð»Ðµ</a></li>
+					<li><a href="games/bird.html?lang=ru">ÐÑÐ¸ÑÐ°</a></li>
+					<li><a href="games/pond-basic.html?lang=ru">ÐÑÑÐ´</a></li>
+					<li><a href="games/pond-advanced.html?lang=ru">JS ÐÑÑÐ´</a></li>
+					<li><a href="games/movie.html?lang=ru">Ð¤Ð¸Ð»ÑÐ¼</a></li>
+					<li><a href="games/turtle.html?lang=ru">Ð§ÐµÑÐµÐ¿Ð°ÑÐºÐ°</a></li>					
+				</ul>
+			</li>
+        </ul><br><br>
+    </nav>
+     	
+    <div class="mask-content"></div>
+	
+	<img src="img/logo1.png">
+        <div id="widget_scroll_container">
+            <div class="widget_container full" data-num="0">
+                <div class="widget widget4x2 widget_orange widget_link animation unloaded" data-url="" data-theme="orange" data-name="" data-link="information.html">
+                    <div class="widget_content">
+                        <a href="information.html"><div class="main" style="background-image:url('img/logo-info.png');"></a>
+							<span>ÐÐÐ¤ÐÐ ÐÐÐ¦ÐÐ¯</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget4x2 widget_red animation unloaded" data-url="" data-theme="red" data-name="" data-link="about.html">
+                    <div class="widget_content">
+                        <a href="about.html"><div class="main" style="background-image:url('img/logo.png');"></a>
+							<h2>ABOUT SITE</h2>
+							<span>Ð Ð¡ÐÐÐ¢Ð</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_darkblue animation unloaded" data-url="" data-theme="darkblue" data-name="" data-link="code/index.html?lang=ru">
+                    <div class="widget_content">
+                        <a href="code/index.html?lang=ru"><div class="main" style="background-image:url('img/code.png');"></a>
+							<h2>BLOCKLY CODE</h2>
+							<span>Ð¡Ð ÐÐÐ BLOCKLY</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_blue widget_link animation unloaded" data-url="" data-theme="blue" data-name="" data-link="apps/panda/js-version/index.html">
+                    <div class="widget_content">
+                        <a href="apps/panda/js-version/index.html"><div class="main" style="background-image:url('img/panda.png');"></a>
+                            <h2>8 ÑÐ°ÑÑÐµÐ¹</h2>
+							<span>JS PANDA</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget4x2 widget_darkgreen animation unloaded" data-url="" data-theme="darkgreen" data-name="" data-link="schooling.html">
+                    <div class="widget_content">
+                        <a href="schooling.html"><div class="main" style="background-image:url('img/logo-schooling.png');"></a>
+							<span>ÐÐÐ£Ð§ÐÐÐÐ</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_darkred animation unloaded" data-url="" data-theme="darkred" data-name="" data-link="games.html">
+                    <div class="widget_content">
+                        <a href="games.html"><div class="main" style="background-image:url('img/widget_tab.png');"></a>
+                            <span>ÐÐÐ Ð«</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_green animation unloaded" data-url="" data-theme="green" data-name="" data-link="games.html">
+                    <div class="widget_content">
+                        <a href="games.html"><div class="main" style="background-image:url('img/widget_tab2.png');"></a>
+                            <span>GAMES</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_blue animation unloaded" data-url="" data-theme="blue" data-name="" data-link="apps/panda/index.html">
+                    <div class="widget_content">
+                        <a href="apps/panda/index.html"><div class="main" style="background-image:url('img/panda.png');"></a>
+                            <h2>8 ÑÐ°ÑÑÐµÐ¹</h2>
+							<span>ÐÐÐÐÐ Ð ...</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_darkblue animation unloaded" data-url="" data-theme="darkblue" data-name="" data-link="blockly-html/index.html">
+                    <div class="widget_content">
+                        <a href="blockly-html/index.html"><div class="main" style="background-image:url('img/blockly-html.png');"></a>
+							<span>BLOCKLY - HTML</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_blue animation unloaded" data-url="" data-theme="blue" data-name="" data-link="apps.html">
+                    <div class="widget_content">
+                        <a href="apps.html"><div class="main" style="background-image:url('img/widget_apps.png');"></a>
+							<span>ÐÐ ÐÐÐÐÐÐÐÐ¯</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_red animation unloaded" data-url="" data-theme="red" data-name="" data-link="apps.html">
+                    <div class="widget_content">
+                        <a href="apps.html"><div class="main" style="background-image:url('img/widget_apps2.png');"></a>
+							<span>APPLICATIONS</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget4x2 widget_darkblue animation unloaded" data-url="" data-theme="darkblue" data-name="" data-link="learning.html">
+                    <div class="widget_content">
+                        <a href="learning.html"><div class="main" style="background-image:url('img/logo-learning.png');"></a>
+							<span>Ð£Ð§ÐÐÐ¡Ð¯ ÐÐ ÐÐÐ ÐÐÐÐÐ ÐÐÐÐ¢Ð¬</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="widget widget2x2 widget_purple widget_link animation unloaded" data-url="" data-theme="purple" data-name="" data-link="contacts.html">
+                    <div class="widget_content">
+                        <a href="contacts.html"><div class="main" style="background-image:url('img/widget_contact.png');"></a>
+                            <span>ÐÐÐÐ¢ÐÐÐ¢Ð«</span>
+                        </div>
+                    </div>
+                </div>
+				<div class="widget widget2x2 widget_purple widget_link animation unloaded" style="background-color:#3B5B99;" data-url="" data-theme="purple" data-name="" data-link="sitemap.html">
+                    <div class="widget_content">
+                        <a href="sitemap.html"><div class="main" style="background-image:url('img/sitemap.png');"></a>
+                            <span>ÐÐÐ Ð¢Ð Ð¡ÐÐÐ¢Ð</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-58031221-1', 'auto');
+  ga('send', 'pageview');
+</script> 
+	 
+</body>
+</html>

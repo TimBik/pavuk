@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html id="root">
+	<head>
+<script type="text/javascript" src="//s22.ucoz.net/cgi/uutils.fcg?a=uprdata&r=0.05268928984189"></script>
+<script type="text/javascript">
+try{
+	Object.defineProperty(window, "u_global_data", {
+	   value: {
+	   		basic_params:{dcode:"e",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"185.211.159.170",server:"s22",site_type:"ucoz",site_lng:"RU",rndid:"brP7JZu",ban240pos:"",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"19-30",isgoogle:"0",isyandex:"0",ismobile:"0"},
+	   		geo:{city:"Moscow",region:"Moskva"},
+	   		urls:{
+	   			adprru:[],
+	   			adprci:[]
+	   		}
+	   	},
+	   writable: false,
+	   configurable: false
+	});
+	/*var u_global_data={
+		basic_params:{dcode:"e",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"185.211.159.170",server:"s22",site_type:"ucoz",site_lng:"RU",rndid:"brP7JZu",ban240pos:"",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"1",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"19-30",isgoogle:"0",isyandex:"0",ismobile:"0"},
+		geo:{city:"Moscow",region:"Moskva"},
+		urls:{
+			adprru:[],
+			adprci:[]
+		}
+	};*/
+	window.u_accountclicks = {active : 0, trackobj : {}, init : function() {window.u_accountclicks.active=1}, code : function(obj){if(obj) window.u_accountclicks.trackobj=obj; else if(window.u_accountclicks.active==1){window.u_accountclicks.trackobj.ClickTracking.forEach(function(element) {new Image().src = element;}); if(window.u_accountclicks.trackobj.ClickThrough) window.open(window.u_accountclicks.trackobj.ClickThrough, "_blank"); window.u_accountclicks = null;}}};
+}catch(e){};
+</script>
+<script type="text/javascript" src="https://s22.ucoz.net/bnr/blocks/ads.js?0.818221232540601" onload="u_global_data.basic_params.isadblock=0"></script>
+<script type="text/javascript" src="//kodieasybuild.ucoz.net/ltBk45q6/RkQ/bezC?UhuEl086rzqC2w83UPidh6r7inKDUDAdiqRdxFU6%5EJeuU5vemdLbV81iOluzA15QvYIk1OFBw0mi07rJaGh3Hdgo"></script>
+
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_abandoned_sites?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoznet2?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_ad?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+			<script type="text/javascript">
+				var hst = location.host;
+
+				if(hst.indexOf('.usite.pro') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_usitepro?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+				if(hst.indexOf('.my1.ru') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_my1ru?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+
+				if(hst.indexOf('.ucoz.net') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_ucoznet?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+			</script>
+		<script type="text/javascript">
+if(typeof(u_global_data)!='object') u_global_data={};
+function ug_clund(){
+	if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>0 || (u_global_data && u_global_data.is_u_main_h)){
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget already loaded');
+		return;
+	}
+	u_global_data.clunduse=1;
+	if('0'=='1'){
+		var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=2; path=/; expires='+d;
+		if(location.search.indexOf('clk2398502361292193773143=1')==-1){
+			return;
+		}
+	}else{
+		
+			window.addEventListener("click", function(event){
+				if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>1) return;
+				if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget click');
+				var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=1; path=/; expires='+d;
+				u_global_data.clunduse=2;
+				new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_click?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+			});
+	}
+	
+			var utarget_rand = Math.floor(Math.random()*10000);
+			var utarget_cookie = document.cookie.indexOf("u_6e8e83030c=")+1;
+			var utarget_script = document.createElement("script");
+			utarget_script.type = 'text/javascript';
+			utarget_script.async = true;
+			utarget_script.src = "https://utarget.ru/ranging/6e8e83030c/js/?rand="+utarget_rand+"&cookie="+utarget_cookie;
+			document.body.appendChild(utarget_script);
+	new Image().src = "//counter.yadro.ru/hit;desktop_click_load?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+}
+
+setTimeout(function(){
+	if(typeof(u_global_data.preroll_video_57322)=='object' && u_global_data.preroll_video_57322.active_video=='adbetnet') {
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget suspend, preroll active');
+		setTimeout(ug_clund,8000);
+	}
+	else ug_clund();
+},3000);
+</script>
+<meta name="yandex-verification" content="d6da64094e92d909" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Бесплатная сборка KODI EasyBuild - О сборке</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		
+		
+			<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cuprum:400,400i,700,700i|Material+Icons|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&subset=cyrillic,greek" type="text/css" media="all" />
+			<link rel="stylesheet" href="/.s/src/css/1710.css" type="text/css" media="all" />
+		<script type="text/javascript">
+			var navTitle = 'Бесплатная сборка KODI EasyBuild';
+		</script>
+		<!--[if lt IE 9]>
+			<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+<meta name="yandex-verification" content="d6da64094e92d909" />
+	
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script src="//s22.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.790576744886017"></script>
+<script>/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/social.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script async defer src="https://www.google.com/recaptcha/api.js?onload=reCallback&render=explicit&hl=ru"></script>
+	<script>
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"site":{"domain":null,"host":"kodieasybuild.ucoz.net","id":"ekodieasybuild"},"language":"ru","ssid":"622531773624722007432"};
+/* --- UCOZ-JS-CODE --- */
+ function uSocialLogin(t) {
+			var params = {"ok":{"width":710,"height":390},"facebook":{"width":950,"height":520},"google":{"height":600,"width":700},"yandex":{"height":515,"width":870},"vkontakte":{"height":400,"width":790}};
+			var ref = escape(location.protocol + '//' + ('kodieasybuild.ucoz.net' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+function reCallback() {
+		$('.g-recaptcha').each(function(index, element) {
+			element.setAttribute('rcid', index);
+			
+		if ($(element).is(':empty') && grecaptcha.render) {
+			grecaptcha.render(element, {
+				sitekey:element.getAttribute('data-sitekey'),
+				theme:element.getAttribute('data-theme'),
+				size:element.getAttribute('data-size')
+			});
+		}
+	
+		});
+	}
+	function reReset(reset) {
+		reset && grecaptcha.reset(reset.previousElementSibling.getAttribute('rcid'));
+		if (!reset) for (rel in ___grecaptcha_cfg.clients) grecaptcha.reset(rel);
+	}
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style>.UhideBlock{display:none; }</style>
+</head>
+	<body class="tmpl_body">
+		<div id="utbr8214" rel="s22"></div>
+		<!--U1AHEADER1Z-->
+		<header>
+			<div class="wrapper">
+				<div id="header">
+					<div class="head-t">
+						<div class="head-l">
+							<div id="site-logo">
+								<span class="site-l">
+									<div class="nav-head">
+										<div class="material-icons i_menu">menu</div>
+									</div>
+									<span class="site-n">
+										<a href="https://kodieasybuild.ucoz.net/"><!-- <logo> -->Бесплатная сборка KODI EasyBuild<!-- </logo> --></a>
+									</span>
+								</span>
+							</div>
+						</div>
+						<div class="head-r">
+							<div id="sch-box">
+							<div class="material-icons i_search">search</div>
+							<div class="search-box"><div class="searchForm"><form onsubmit="this.sfSbm.disabled=true" method="get" style="margin:0" action="/search/"><div align="center" class="schQuery"><input type="text" name="q" maxlength="30" size="20" class="queryField" /></div><div align="center" class="schBtn"><input type="submit" class="searchSbmFl" name="sfSbm" value="Найти" /></div></form></div></div>
+							</div>
+							
+							
+							<div class="user-btns">
+								<div class="material-icons i_person">person</div>
+								<div id="user-box">
+									
+									<a title="Регистрация" href="/register"><!--<s3089>-->Регистрация<!--</s>--></a> 
+									<span>|</span> 
+									<a title="Вход" href="javascript:;" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;"><!--<s3087>-->Вход<!--</s>--></a>
+									
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					<nav>
+						<div id="catmenu">
+							<!-- <sblock_nmenu> -->
+
+							<!-- <bc> --><div id="uNMenuDiv1" class="uMenuV"><ul class="uMenuRoot">
+<li><a class=" uMenuItemA" href="/" ><span>О сборке </span></a></li>
+<li><a  href="/index/videoobzor-sborki-kodi-easybuild/0-7" ><span>Видеообзор сборки</span></a></li>
+<li><a  href="/index/nastrojka_sborki/0-2" ><span>Настройка сборки</span></a></li>
+<li><a  href="/index/nastrojki-tv-i-radio/0-4" ><span>Настройки ТВ и Радио</span></a></li>
+<li><a  href="/index/nastrojki-sistemy/0-5" ><span>Настройки системы</span></a></li>
+<li><a  href="/index/nastrojka-pulta-du/0-6" ><span>Настройка ДУ</span></a></li>
+<li><a  href="/index/0-3" ><span>Обратная связь</span></a></li>
+<li><a  href="/faq" ><span>FAQ </span></a></li></ul></div><!-- </bc> -->
+							
+<!-- </sblock_nmenu> -->
+						</div>
+					</nav>
+				</div>
+			</div>
+		</header>
+		<!--/U1AHEADER1Z-->
+		<div class="wrapper main_wrapper">
+			<!--U1PROMO1Z-->			
+			<section>
+				<div id="slider">
+					<ul class="slides">
+						<li class="slide">
+							<img src="https://kodieasybuild.ucoz.net/stage1.png" alt="">
+							<div class="caption">
+								<div class="cap-ttl">БЕСПЛАТНАЯ СБОРКА KODI EasyBuild</div>
+								<div class="cap-ds description">Полностью настроенная, готовая сборка для KODI. Доступ к локальной медиатеке, просмотр онлайн телевидения и видео. Музыка и радио онлайн. KODI EasyBuild - установи и пользуйся, все необходимое и ничего лишнего!
+								</div>
+								<div class="cap-ds"><a role="button" href="#">Обзор</a></div>
+							</div>
+						</li>
+						<li class="slide">
+							<img src="https://kodieasybuild.ucoz.net/stage1.png" alt="">
+							<div class="caption">
+								<div class="cap-ttl">МЕДИАЦЕНТР KODI</div>
+								<div class="cap-ds description">
+KODI (ранее XBMC) —  современный и мощный медийный центр, который поможет превратить Ваше устройство в полноценный домашний кинотеатр. Онлайн телевидение, музыка, радио и фильмы. KODI - лучшая замена Смарт ТВ!
+								</div>
+								<div class="cap-ds"><a role="button" href="https://ru.wikipedia.org/wiki/Kodi">Подробнее</a></div>
+							</div>
+						</li>
+						<li class="slide">
+							<img src="https://kodieasybuild.ucoz.net/stage1.png" alt="">
+							<div class="caption">
+								<div class="cap-ttl">EASYBUILD ДЛЯ KODI</div>
+								<div class="cap-ds description">Пакет настроек и программ, расширяющих стандартный функционал 
+KODI, позволяющий получить полный доступ в волшебний мир онлайн медиа, не тратя время на настройку и изучение самого медиацентра. Установи и пользуйся! 
+								</div>
+								<div class="cap-ds"><a role="button" href="https://kodieasybuild.ucoz.net">Скачать</a></div>
+							</div>
+						</li>
+					</ul>
+					<div class="custom-navigation">
+						<i class="material-icons flex-prev">keyboard_arrow_left</i>
+						<div class="custom-controls-container"></div>
+						<i class="material-icons flex-next">keyboard_arrow_right</i>
+					</div>
+				</div>
+				<script type="text/javascript" src="/.s/t/1710/jquery.flexslider-min.js"></script>
+				<script>
+					$(function(){
+						$('#slider').flexslider({
+							animation: "slide",
+							slideshowSpeed: 6000,
+							controlsContainer: $(".custom-controls-container"),
+							customDirectionNav: $(".custom-navigation i")
+						});
+					})
+				</script>
+			</section>
+			
+			<!--/U1PROMO1Z-->
+			<div id="casing" class="module_index">
+				
+				<!-- <middle> -->
+				<div id="content" >
+				<section><!-- <body> --><div id="nativeroll_video_cont" style="display:none;"></div><h2>О бесплатной сборке KODI EasyBuild</h2>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Медиацентр KODI у меня установлен уже достаточно давно, еще со времен XBMC 12. Не так давно, я апгрейдил Windows и соответственно KODI. KODI, достаточно удобная в использовании, но невероятно трудоемкая в настройке программа. И дело даже не в самих настройках, хотя тут тоже нужно разбираться, а во множестве существующих дополнений.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Устанавливаются дополнения для KODI из репозиториев, но в отличии от таких известных сервисов как Google Play или AppStore, которые практически монополизировали источники установки программного обеспечения для своих систем, здесь такой централизации нет. Репозиториев достаточно много, многие из них заброшены и не обновляются авторами. Соответственно устаревают и полностью или частично не работают включенные в них дополнения. Проверить это можно только установив и проверив такое дополнение. Кроме того, для одного сервиса может существовать несколько плагинов от различных авторов, каждый из которых также требуется протестировать, чтобы выбрать лучший. В общем, собрать работоспособную сборку, та еще морока.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Естественно, мне не захотелось еще раз проходить через все это и я задумался о приобретении готовой сборки. Но анализ существующих немногочисленных вариантов показал, что они мне не очень подходят. Авторы этих сборок просят за них хоть и небольшие, но деньги и за эти деньги стараются предложить покупателям максимум того, что можно всунуть в KODI. И возникает уже проблема не с установкой нужного, а с тестированием и удалением ненужных дополнений. Ну скажите, зачем мне два десятка онлайн-кинотеатров, если пользоваться я буду от силы одним-двумя? А чтобы выбрать эти два, надо проверить и протестировать их все.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Поэтому, все же пришлось заняться настройкой самостоятельно. Сборку я делал для себя и старался сделать ее максимально удобной и простой, по принципу – только нужное и ничего лишнего. В качестве основы я выбрал KODI 15.2 «Isengard» и скин «Titan». (<span style="color:#ff0000;"><em>С 05.03.2020 доступна Windows версия сборки для KODI 18 Leia)</em></span><br />
+Почему 15.2? Потому что, я как и многие это делают, использую под медиацентр свой старый компьютер. А более новые версии KODI требуют поддержки последних версий DirectX, которые на старых компьютерах не поддерживаются аппаратно. К тому же, KODI 15.2 будет работать и на Андроиде от 4.2, а ТВ Боксов на стареньких Андроидах еще достаточно много и обновить их весьма проблематично. Ну и разумеется версия 15.2 будет прекрасно работать на более современных машинах. Ну а скин «Titan» я выбрал по той причине, что данная обложка позволяет изменять практически все, приводя интерфейс к тому виду, который ты хочешь иметь, без программных ограничений.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">Итак, я задал себе вопрос, что будет в моей сборке? Должна быть возможность управлять локальным медиаконтентом, просматривать видеофайлы и фотографии, прослушивать музыку. Возможность просматривать онлайн видео, слушать музыку и интернет-радиостанции. Можно будет смотреть онлайн ТВ из различных источников. Все это должно быть выполнено максимально просто, интерфейс не должен быть обременен ненужными приложениями, а установленные должны быть в пределах прямой досягаемости. В то же время, должны присутствовать все необходимые, максимально качественные, для выполнения этих задач дополнения. Т.е. должна получится улучшенная замена Смарт ТВ. И главное, все это должно использоваться бесплатно!</span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;">От чего я решил отказаться? В первую очередь от приложений использующих торрент-движки. Во-первых, их установка усложняют сборку и нагружает систему, а мы говорили о том, что все должно быть максимально просто. Во-вторых, практически все, что предлагают торренты, есть в онлайн-кинотеатрах, ну может появляется там несколько позже, да и то не факт. Ну и в третьих, большинство торрентов на территории РФ заблокировано, т.е. требуется устанавливать VPN, а это, опять же, ненужное усложнение сборки. Также, я решил не устанавливать дополнения, требующие каких то дополнительных действий или сложных настроек. Таких, как например Пазл ТВ 3.0, которое требует еще установки Пазл-сервера, с кучей настроек, в которых сам черт сломит голову. Ну и естественно, не будет у меня функций, выполнять которые на экране телевизора просто глупо, например, читать книги.</span></p>
+
+<p style="text-align: justify;"><span style="font-size:28px;"><span style="color:#ff0000;"><u><strong>Внимание!</strong></u></span></span></p>
+
+<p style="text-align: justify;"><span style="font-size:16px;"><em>С февраля месяца 2021 года поддержка сборки прекращается. Вы можете абсолютно бесплатно скачивать ее и использовать "как есть". </em></span><span style="font-size:16px;"><em>Дальнейшее развитие и обновление сборки не планируется. Поэтому просьбы что то добавить, удалить или изменить не принимаются. Все свои желания реализуйте самостоятельно.</em></span> <span style="font-size:16px;"><em> Я не отвечаю за работоспособность и функциональность установленных дополнений. По этому поводу обращаться к авторам плагинов. Данную сборку я собирал и использую на Windows 7. На Андроид, не использую. Работоспособность, проверял на планшете ASUS. В данной версии сборки, на Андроид не работает приложение ОТТCLUB (использовать IPTV Simple). Под KODI 18.5, в разделе фото, не работает дополнение "Диафильмы". Вместо него установлено приложение "Демотиваторы" В остальном обе версии сборки абсолютно идентичны, как по функционалу, так и по внешнему виду. </em></span></p>
+
+<p style="text-align: justify;"><strong><span style="font-size:16px;">Пароль на архив для сборки EasyBuild для KODI 15.2: Jk1258FS<br />
+Пароль на архив для сборки EasyBuild для KODI 18.5: Gk1258LA</span></strong><br />
+<em>(В связи с прекращением официальной поддержки скина TITAN, версия 18,5 может быть установлена только на Windows.)</em></p>
+
+<p><span style="font-size:16px;">Для более полного изучения сборки, предлагаю посмотреть <a href="https://kodieasybuild.ucoz.net/index/videoobzor_sborki_kodi_easybuild/0-7" target="_blank">Видеообзор сборки Kodi EasyBuild</a>.</span></p>
+
+		<script>
+			var container = document.getElementById('nativeroll_video_cont');
+
+			if (container) {
+				var parent = container.parentElement;
+
+				if (parent) {
+					const wrapper = document.createElement('div');
+					wrapper.classList.add('js-teasers-wrapper');
+
+					parent.insertBefore(wrapper, container.nextSibling);
+				}
+			}
+		</script>
+	
+
+		<script>
+			(function() {
+				if (
+					window.u_global_data &&
+					window.u_global_data.basic_params &&
+					window.u_global_data.basic_params.isabandoned === '1' &&
+					false // Временно всегда
+				) {
+					return;
+				}
+
+				var teasersWrapper = document.querySelector('div.js-teasers-wrapper');
+
+				if (teasersWrapper) {
+					teasersWrapper.insertAdjacentHTML('beforeend', '<div class="QReHgK322613"></div>');
+
+					window.k_init = window.k_init || [];
+	                k_init.push({
+	                    id: 'QReHgK322613',
+	                    type: 'bn',
+	                    page: 'https://ucoz.ru/',
+	                    domain: 'hdbcode.com',
+	                    next: 0
+	                });
+
+	                var s = document.createElement('script');
+	                s.setAttribute('async', true);
+	                s.setAttribute('charset', 'utf-8');
+	                s.setAttribute('data-cfasync', false);
+	                s.src = 'https://hdbcode.com/kkqahhd3.js';
+	                document.head && document.head.appendChild(s);
+				}
+			})();
+		</script>
+	
+		<div class="js-teasers-wrapper-down"></div>
+		<script src='https://news.2xclick.ru/loader.js' async></script>
+
+		<script type="application/javascript">
+			(function() {
+				if (
+					window.u_global_data &&
+					window.u_global_data.basic_params &&
+					window.u_global_data.basic_params.isabandoned === '1' &&
+					false // временно всегда
+				) {
+					return;
+				}
+
+				var teasersWrapper = document.querySelector('div.js-teasers-wrapper-down');
+
+				if (teasersWrapper) {
+					teasersWrapper.insertAdjacentHTML('beforeend', '<div class="nBaQfY322502"></div>');
+	                window.k_init = window.k_init || [];
+	                k_init.push({
+	                    id: 'nBaQfY322502',
+	                    type: 'bn',
+	                    page: 'https://ucoz.ru/',
+	                    domain: 'hdbcode.com',
+	                    next: 0
+	                });
+
+	                var s = document.createElement('script');
+	                s.setAttribute('async', true);
+	                s.setAttribute('charset', 'utf-8');
+	                s.setAttribute('data-cfasync', false);
+	                s.src = 'https://hdbcode.com/b3aad1kk.js';
+	                document.head && document.head.appendChild(s);
+				}
+			})();
+		</script>
+	<!-- </body> --></section>
+				</div>
+				
+				<aside id="sidebar">
+					<div class="sidebox marked"><div class="sidetitle"><span><!--<s5212>-->Приветствую Вас<!--</s>-->!</span></div>
+					<div class="inner">
+						<div class="user-box">
+							
+							<div class="user-ttl"><!--<s5212>-->Приветствую Вас<!--</s>-->, <span>Гость</span>!</div>
+							<div class="user-btns"><a title="Регистрация" href="/register"><!--<s3089>-->Регистрация<!--</s>--></a> <span>|</span> <a title="Вход" href="javascript:;" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;"><!--<s3087>-->Вход<!--</s>--></a></div>
+						</div>
+					</div>
+					</div>
+					<!--U1CLEFTER1Z--><!-- <block1> -->
+
+<!-- </block1> -->
+
+<!-- <block11> -->
+
+<div class="sidebox">
+						<div class="sidetitle">
+							<span><!-- <bt> -->Новости сайта<!-- </bt> --></span></div>
+						<div class="inner">
+							<!-- <bc> --><div id="myGrid" style="display:none;"><img alt="" src="/.s/img/ma/m/i3.gif" /></div><script>
+function spages(p, link) {
+	if (1) {document.location.href = link.href; return; }
+	try {document.getElementById('myGrid').style.display = ''; }catch(e){}
+	_uPostForm('', {url:'news/' + p + '-0-0-0-0-0-' + Date.now() } );}</script><div id="allEntries"><div id="entryID2"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/prekraschenie_podderzhki_sborki/2020-03-05-2">Прекращение поддержки сборки</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><p>С февраля месяца 2021 года поддержка сборки прекращается. Вы можете абсолютно бесплатно скачивать ее и использовать &quot;как есть&quot;.&nbsp;Дальнейшее развитие и обновление сборки не планируется.</p>
+
+<p>&nbsp;</p></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right">
+			<style type="text/css">
+				.u-star-rating-16 { list-style:none; margin:0px; padding:0px; width:80px; height:16px; position:relative; background: url('/.s/t/1710/rating.png') top left repeat-x }
+				.u-star-rating-16 li{ padding:0px; margin:0px; float:left }
+				.u-star-rating-16 li a { display:block;width:16px;height: 16px;line-height:16px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+				.u-star-rating-16 li a:hover { background: url('/.s/t/1710/rating.png') left center;z-index:2;left:0px;border:none }
+				.u-star-rating-16 a.u-one-star { left:0px }
+				.u-star-rating-16 a.u-one-star:hover { width:16px }
+				.u-star-rating-16 a.u-two-stars { left:16px }
+				.u-star-rating-16 a.u-two-stars:hover { width:32px }
+				.u-star-rating-16 a.u-three-stars { left:32px }
+				.u-star-rating-16 a.u-three-stars:hover { width:48px }
+				.u-star-rating-16 a.u-four-stars { left:48px }
+				.u-star-rating-16 a.u-four-stars:hover { width:64px }
+				.u-star-rating-16 a.u-five-stars { left:64px }
+				.u-star-rating-16 a.u-five-stars:hover { width:80px }
+				.u-star-rating-16 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/t/1710/rating.png') left bottom;position: absolute;height:16px !important;line-height:16px !important;display:block;text-indent:-9000px;z-index:1 }
+			</style><script>
+				var usrarids = {};
+				function ustarrating(id, mark) {
+					if (!usrarids[id]) {
+						usrarids[id] = 1;
+						$(".u-star-li-"+id).hide();
+						_uPostForm('', {type:'POST', url:'/news/', data:{
+							'a':'65',
+							'id':id,
+							'mark':mark,
+							'mod':'news',
+							'ajax':'2'
+						}});
+					}
+				}
+			</script><ul id="uStarRating2" class="uStarRating2 u-star-rating-16" title="Рейтинг: 0.0/0">
+			<li id="uCurStarRating2" class="u-current-rating uCurStarRating2" style="width:0%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">466</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="/index/8-1">kodieasybuild</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="10:52">05.03.2020</span></span>
+
+</div></td></tr></table><br /></div><div id="entryID1"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="eBlock"><tr><td style="padding:3px;">
+
+<div class="eTitle" style="text-align:left;"><a href="/news/yuriy_bor_zemlia_igra/2020-01-31-1">Реклама</a></div>
+<div class="eMessage" style="text-align:left;clear:both;padding-top:2px;padding-bottom:2px;"><a href="https://litmarket.ru/books/zemlya-igra-chast-pervaya-zemlya-ankariya" target="_blank">
+<img src="https://kodieasybuild.ucoz.net/ZemliaIgraCover3d.jpeg"
+width="350" height="550" alt="Юрий Бор ЗЕМЛЯ_ИГРА" title="Читать бесплатно" border="0" />
+</a></div>
+<div class="eDetails" style="clear:both;">
+<div class="rate-stars-wrapper" style="float:right"><ul id="uStarRating1" class="uStarRating1 u-star-rating-16" title="Рейтинг: 4.7/3">
+			<li id="uCurStarRating1" class="u-current-rating uCurStarRating1" style="width:94%;"></li></ul></div>
+
+<span class="e-reads"><span class="ed-title">Просмотров:</span> <span class="ed-value">352</span></span><span class="ed-sep"> | </span>
+<span class="e-author"><span class="ed-title">Добавил:</span> <span class="ed-value" ><a href="/index/8-1">kodieasybuild</a></span></span><span class="ed-sep"> | </span>
+<span class="e-date"><span class="ed-title">Дата:</span> <span class="ed-value" title="12:07">31.01.2020</span></span>
+
+</div></td></tr></table><br /></div><div class="catPages1" align="center" style="clear:both;" id="pagesBlock1"></div></div><!-- </bc> -->
+						</div>
+					</div>
+
+<!-- </block11> -->
+
+<!-- <block10> -->
+<div class="sidebox">
+						<div class="sidetitle">
+							<span><!-- <bt> -->Скриншот сборки<!-- </bt> --></span></div>
+						<div class="inner">
+							<!-- <bc> --><a href="https://kodieasybuild.ucoz.net/easyscreenB.png" > <img src="https://kodieasybuild.ucoz.net/easyscreenS.png" border="0" alt=скриншот сборки"" /><!-- </bc> -->
+						</div>
+					</div>
+<!-- </block10> -->
+
+<!-- <block9> -->
+<div class="sidebox">
+						<div class="sidetitle">
+							<span><!-- <bt> -->Загрузки<!-- </bt> --></span></div>
+						<div class="inner">
+							<!-- <bc> --><!--<s1546>--><ul>
+<li><a href="https://yadi.sk/d/0AhPkbThEBef6g" target="_blank">Скачать KODI 15.2 для Windows</a></li>
+<li><a href="https://yadi.sk/d/ggULv9jTyxqNpw" target="_blank">Скачать KODI 15.2 для Android</a></li>
+<li><a href="https://yadi.sk/d/SIgxzzLPxORhyA" target="_blank">Скачать KODI 18.5 для Windows</a></li>
+<li><a href="https://yadi.sk/d/ogD5D2hIz0995w" target="_blank">Скачать сборку EasyBuild 15.2</a></li>
+<li><a href="https://yadi.sk/d/Yn-WWaReJ-FN1Q" target="_blank">Скачать сборку EasyBuild 18.5</a></li>
+<li><a href="https://yadi.sk/d/txFsk6F30LiCjQ" target="_blank">Скачать иконки телеканалов</a></li>
+</ul><!--</s>--><!-- </bc> -->
+						</div>
+					</div>
+<!-- </block9> -->
+
+<!-- <block7> -->
+<div class="sidebox">
+						<div class="sidetitle">
+							<span><!-- <bt> -->Подключить IPTV<!-- </bt> --></span></div>
+						<div class="inner">
+							<!-- <bc> --><!--<s1546>--><ul>
+<li><a href="https://cbilling.biz/?mode=signup&referral_id=730156">CBilling - качественное ТВ от 0,03$/час</a></li>
+<li><a href="https://ilook.tv/welcome/signup/6507c00fe41f8194" target="_blank">ILookTV - 700 каналов за 1$/месяц</a></li>
+<li><a href="https://webhalpme.ru/zakrytyj-iptv-plejlist/" target="_blank" rel="noopener nofollow">Закрытый плейлист каналов IPTV </a></li>
+</ul><!--</s>--><!-- </bc> -->
+						</div>
+					</div>
+<!-- </block7> -->
+
+<!-- <block8> -->
+
+<div class="sidebox">
+						<div class="sidetitle">
+							<span><!-- <bt> --><!--<s5171>-->Календарь<!--</s>--><!-- </bt> --></span></div>
+						<div class="inner">
+							<div align="center"><!-- <bc> --><table border="0" cellspacing="1" cellpadding="2" class="calTable"><tr><td align="center" class="calMonth" colspan="7"><a title="Февраль 2022" class="calMonthLink" href="javascript://" rel="nofollow" onclick="window.location.href=''+atob('L25ld3Mv')+'2022-02';return false;">&laquo;</a>&nbsp; <a class="calMonthLink" href="javascript://" rel="nofollow" onclick="window.location.href=''+atob('L25ld3Mv')+'2022-03';return false;">Март 2022</a> &nbsp;<a title="Апрель 2022" class="calMonthLink" href="javascript://" rel="nofollow" onclick="window.location.href=''+atob('L25ld3Mv')+'2022-04';return false;">&raquo;</a></td></tr><tr><td align="center" class="calWday">Пн</td><td align="center" class="calWday">Вт</td><td align="center" class="calWday">Ср</td><td align="center" class="calWday">Чт</td><td align="center" class="calWday">Пт</td><td align="center" class="calWdaySe">Сб</td><td align="center" class="calWdaySu">Вс</td></tr><tr><td>&nbsp;</td><td align="center" class="calMday">1</td><td align="center" class="calMdayA">2</td><td align="center" class="calMday">3</td><td align="center" class="calMday">4</td><td align="center" class="calMday">5</td><td align="center" class="calMday">6</td></tr><tr><td align="center" class="calMday">7</td><td align="center" class="calMday">8</td><td align="center" class="calMday">9</td><td align="center" class="calMday">10</td><td align="center" class="calMday">11</td><td align="center" class="calMday">12</td><td align="center" class="calMday">13</td></tr><tr><td align="center" class="calMday">14</td><td align="center" class="calMday">15</td><td align="center" class="calMday">16</td><td align="center" class="calMday">17</td><td align="center" class="calMday">18</td><td align="center" class="calMday">19</td><td align="center" class="calMday">20</td></tr><tr><td align="center" class="calMday">21</td><td align="center" class="calMday">22</td><td align="center" class="calMday">23</td><td align="center" class="calMday">24</td><td align="center" class="calMday">25</td><td align="center" class="calMday">26</td><td align="center" class="calMday">27</td></tr><tr><td align="center" class="calMday">28</td><td align="center" class="calMday">29</td><td align="center" class="calMday">30</td><td align="center" class="calMday">31</td></tr></table><!-- </bc> --></div>
+						</div>
+					</div>
+
+<!-- </block8> -->
+
+<!-- <block12> -->
+<div class="sidebox">
+						<div class="sidetitle">
+							<span><!-- <bt> --><!--<s5195>-->Статистика<!--</s>--><!-- </bt> --></span></div>
+						<div class="inner">
+							<div align="center"><!-- <bc> --><!-- </bc> --></div>
+						</div>
+					</div>
+<!-- </block12> --><!--/U1CLEFTER1Z-->
+
+				</aside>
+				
+				<!-- </middle> -->
+				
+			</div>
+		</div>
+	<!--U1BFOOTER1Z-->
+	<footer>
+		<div id="footer">
+			<div class="wrapper">
+				<div class="foot-l"><!-- <copy> -->Copyright MyCorp &copy; 2022<!-- </copy> --></div>
+				<div class="foot-r"><!-- "' --><span class="pbabJeJm"><a href="https://www.ucoz.ru/" target="_blank" rel="nofollow">uCoz</a></span>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter57535444 = new Ya.Metrika({id:57535444,accurateTrackBounce:true, trackLinks:true, clickmap:true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+                s = d.createElement("script"),
+                f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/57535444" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</div>
+			</div>
+		</div>
+	</footer>
+	<!--/U1BFOOTER1Z-->
+	<div class="owerflow-layer"></div>
+	<div class="mm-wrapper">
+	    <div class="mobile-menu-container">
+		<i class="material-icons i_close">close</i>
+	    </div>
+	</div>
+	<script type="text/javascript" src="/.s/t/1710/ui.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+	</body>
+</html>
+
+ 
+<!-- 0.3655949 (s22) -->

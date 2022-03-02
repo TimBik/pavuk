@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta name="viewport"
+          content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+            <title>RRTSOFT</title>
+        <meta name="description" content="Защита данных" >
+<meta name="keywords" content="Защита личных данных" >
+            <link rel="icon" type="image/x-icon" href="/favicon.ico"/>                <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com/" crossorigin>
+<style type="text/css">
+:root{--fallback-font-header:"";--fallback-font-paragraph:""}
+
+@font-face{font-family:Roboto;font-style:normal;font-weight:400;font-display:fallback;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/sTdaA6j0Psb920Vjv-mrzH-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F}@font-face{font-family:Roboto;font-style:normal;font-weight:400;font-display:fallback;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/uYECMKoHcO9x1wdmbyHIm3-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Roboto;font-style:normal;font-weight:400;font-display:fallback;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/Ks_cVxiCiwUWVsFWFA3Bjn-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Roboto;font-style:normal;font-weight:400;font-display:fallback;src:local('Roboto'),local('Roboto-Regular'),url(https://fonts.gstatic.com/s/roboto/v15/oMMgfZMQthOryQo9n22dcuvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:Roboto;font-style:normal;font-weight:500;font-display:fallback;src:local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/ZLqKeelYbATG60EpZBSDy4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F}@font-face{font-family:Roboto;font-style:normal;font-weight:500;font-display:fallback;src:local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/oHi30kwQWvpCWqAhzHcCSIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Roboto;font-style:normal;font-weight:500;font-display:fallback;src:local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/oOeFwZNlrTefzLYmlVV1UIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Roboto;font-style:normal;font-weight:500;font-display:fallback;src:local('Roboto Medium'),local('Roboto-Medium'),url(https://fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUZBw1xU1rKptJj_0jans920.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:Roboto;font-style:normal;font-weight:700;font-display:fallback;src:local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/77FXFjRbGzN4aCrSFhlh3oX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F}@font-face{font-family:Roboto;font-style:normal;font-weight:700;font-display:fallback;src:local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/isZ-wbCXNKAbnjo6_TwHToX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Roboto;font-style:normal;font-weight:700;font-display:fallback;src:local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/97uahxiqZRoncBaCEI3aW4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Roboto;font-style:normal;font-weight:700;font-display:fallback;src:local('Roboto Bold'),local('Roboto-Bold'),url(https://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOJBw1xU1rKptJj_0jans920.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:Roboto;font-style:italic;font-weight:400;font-display:fallback;src:local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/WxrXJa0C3KdtC7lMafG4dRkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F}@font-face{font-family:Roboto;font-style:italic;font-weight:400;font-display:fallback;src:local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/OpXUqTo0UgQQhGj_SFdLWBkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Roboto;font-style:italic;font-weight:400;font-display:fallback;src:local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/vSzulfKSK0LLjjfeaxcREhkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Roboto;font-style:italic;font-weight:400;font-display:fallback;src:local('Roboto Italic'),local('Roboto-Italic'),url(https://fonts.gstatic.com/s/roboto/v15/vPcynSL0qHq_6dX7lKVByXYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}@font-face{font-family:Roboto;font-style:italic;font-weight:700;font-display:fallback;src:local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC_ZraR2Tg8w2lzm7kLNL0-w.woff2) format('woff2');unicode-range:U+0460-052F,U+20B4,U+2DE0-2DFF,U+A640-A69F}@font-face{font-family:Roboto;font-style:italic;font-weight:700;font-display:fallback;src:local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC14sYYdJg5dU2qzJEVSuta0.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:Roboto;font-style:italic;font-weight:700;font-display:fallback;src:local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC6E8kM4xWR1_1bYURRojRGc.woff2) format('woff2');unicode-range:U+0100-024F,U+1E00-1EFF,U+20A0-20AB,U+20AD-20CF,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:Roboto;font-style:italic;font-weight:700;font-display:fallback;src:local('Roboto Bold Italic'),local('Roboto-BoldItalic'),url(https://fonts.gstatic.com/s/roboto/v15/t6Nd4cfPRhZP44Q5QAjcC4gp9Q8gbYrhqGlRav_IXfk.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215,U+E0FF,U+EFFD,U+F000}
+</style>
+    <link href="//s.siteapi.org/frontend/static/grid_9/css/themes/default/styles-ca0f4bcb54.css"
+          media="screen"
+          rel="stylesheet"
+          type="text/css"/>
+        
+    
+             
+    
+
+
+</head>
+<body id="top-body"
+      class="site site_main-page "
+      data-html-version="8450396804356098204101"
+      data-grid="9"
+      data-ng-controller="BlocksController as blockCtrl"
+      data-ng-init="moduleId = 2"
+      data-lang="ru_RU"
+      style="">
+<div class="show-for-large">
+    
+</div>
+<div id="nh-notify-line__unpaid" class="nh-notify-line">
+    <div class="nh-notify-line__top">
+        <div class="nh-notify-line__row nh-notify-line__row_full-large">
+            <div class="nh-notify-line__close" onclick="document.getElementById('nh-notify-line__unpaid').style.display='none'">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 0 768 768">
+                    <path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path>
+                </svg>
+            </div>
+        </div>
+        <a href="https://nethouse.ru/?p=advert" target="_blank" class="nh-notify-line__link nh-notify-line__link_top">
+            <div class="nh-notify-line__row">
+                <div class="nh-notify-line__column nh-notify-line__one nh-notify-line__column_hide-small">
+                    <div class="nh-notify-line__logo">
+                        <svg height="40" width="148" id="90ccca5a-244b-4cdb-95cb-16e075ca62af" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 164 45">
+                            <g id="c35c0e2e-a673-45e9-9452-006acc42c14f" data-name="Canvas">
+                                <g id="1b987f5c-5f4e-4105-b397-c0f592d505be" data-name="logo">
+                                    <g id="b900bc3b-e5e1-4790-9326-92a19037f37e" data-name="Vector">
+                                        <path id="611f011e-2904-47f5-aacb-8e993bc45b1e" data-name="path0 fill" d="M5,22.75C6.54,22,8,20.9,9.57,20.14c1.32-.64,1.88-.87,2.6-.76a9.87,9.87,0,0,1,2.09.74c1.5.61,2.61,1.21,4.12,1.93,2.51,1.21,2.86.66,3.78-1s1-2.32-1.42-3.37-4.5-1.87-6.9-2.88a12.3,12.3,0,0,0-1.67-.66c-.59-.12-1,.07-2.2.66-2.07,1.05-5.13,2.67-7,3.7-1.67,1-1.71,1.22-.85,2.82S2.88,23.76,5,22.75Z" style="fill:#fff"/></g><g id="d7ff56b1-bd69-4395-b532-62397243d229" data-name="Vector"><path id="cb23241e-c26a-4733-9345-ac9c7d22782a" data-name="path1 fill" d="M164,35.11c-.11-.09-.46.18-.8.45a17.22,17.22,0,0,1-3.1,2.14,15.66,15.66,0,0,1-2.9,1.13,11.83,11.83,0,0,1-5.88.72,4.26,4.26,0,0,1-1.8-.87c-.08-.06,0-.16.19-.31a17.17,17.17,0,0,1,1.61-.8,8.19,8.19,0,0,0,1.07-.53c2.78-1.71,5.43-3,6.65-6.17a4.16,4.16,0,0,0-.23-3.95c-.82-1.13-2.45-1.85-5.08-1.85a11.12,11.12,0,0,0-2.41.27c-5.44,1.23-9.06,6.45-9.56,10.71a7.8,7.8,0,0,0,.36,3.54,9.58,9.58,0,0,1-3.48,1.56h0a5.28,5.28,0,0,0,.92-2.06,4.58,4.58,0,0,0-.25-2.85c-.94-2.27-4.12-3.19-5.44-4.1-.68-.47-1.29-.76-1.56-1.48-.57-1.48.83-2.48,2.34-2.63a2.79,2.79,0,0,1,2,.58c.44.39.44,1.85-.36,1.7-1-.16-.67,1.44.59,1.67,1.75.31,3.16-.7,3.41-3.25.31-3.43-5.25-5.37-10.13-2.3s-3.68,6.47-2.78,7.89a3.86,3.86,0,0,0,1,.93v0c-1.13,2-4.44,4.07-5.65,3.74-.42-.12-1-.31-.69-1.64.27-1,.69-2.66,1.23-5.16.71-3.21,1.41-5,.36-5.86a5.69,5.69,0,0,0-3-.7c-.74,0-1.43,0-1.82.76a14.93,14.93,0,0,0-.55,2.61c-.56,3.47-.77,5.74-3.53,8.31-1.13,1-2.35,1.66-3.18,1.31-2.14-.86,1.09-9.15.58-11.6-.35-1.78-2.49-1.8-4.39-1.27a13.73,13.73,0,0,0-5.14,2.73c-.84-1.8-2.53-3.29-5.82-3.55a10.81,10.81,0,0,0-2.68.16c-5.48,1.07-9.93,6.5-9.68,11.13a8.31,8.31,0,0,0,.1,1.58c-1,1-2,1.73-2.8,1.4-.63-.25-.75-1-.27-3.77.86-4.91,1.11-7.77-.27-9.25s-5-.7-6.78-.06c-1.44.51-3.43,2.26-4.45,3-.42.29-.63-.25-.49-1C70.25,23.55,76.9,1,73.91.05,72.76-.3,69.73,1.4,68.06,3c-1,.9-1,3.24-1.07,4.48-.15,3.16-1.49,9.77-2.6,15.07a103.93,103.93,0,0,0-2,14v0c-.44.25-.95.58-1.53.89-1.49.8-3.81,1.83-5.59,1.4a4.89,4.89,0,0,1-2.57-1.63c-1.55-1.83-1-6.78.27-13.49h0c3.83,0,6,.09,7.41-.08.88-.1,1.13-.27,1.46-1a10.49,10.49,0,0,0,.84-3.08c0-.74-.71-.58-1.3-.58-1.65,0-4.33.13-7.4.27-.06,0-.13,0-.13,0,1.51-5.61,3.35-10.49,3.73-12.38s-7.83,3.13-8.75,5.33c-.16.37-.48,3.31-1.08,7.13-1.72,0-2.89,0-2.89,0-.54,0-.88-.08-1.15.72a10.43,10.43,0,0,0-.38,3.45c.09.42.27.44.65.48.57,0,1.59,0,3,0-.46,2.63-.9,4.93-1,6.19-.13,1-.3,2.32-.38,3.66a12.17,12.17,0,0,1-5.77,4.68,11.31,11.31,0,0,1-6.28,1,4,4,0,0,1-2.09-1.13,11.44,11.44,0,0,0,2.09-.62,13,13,0,0,0,5.94-4.29c3-4,2.43-8.78-4.26-8.23a10.4,10.4,0,0,0-1.7.27c-5.69,1.38-9.08,7.11-9.22,11.53v.72l0,0a3.81,3.81,0,0,1-3.66,1.26c-.61-.25-.74-1-.28-3.68.84-4.81,1-7.34-.31-8.8s-4.89-.7-6.65-.07a10,10,0,0,0-1.3.66,36.92,36.92,0,0,0-3.72,2.7,4.06,4.06,0,0,1,.13-1,3.05,3.05,0,0,0-2-3.46c-.9-.12-3,1.2-4.48,2.6a13.91,13.91,0,0,0-1.77,1.8c-.28.44-.32.72-.15,1s.94.06,1.74-.33,1.4-.24,1.44.8a21.36,21.36,0,0,1-.5,4.4c-.38,1.71-1.32,4.51.06,6.42s5.23,1.48,5.23,1.48a12.48,12.48,0,0,1,.23-6.93c.9-2.86,2.13-4.65,3.74-5.32a4.27,4.27,0,0,1,1.8-.31c2.78.14-2.17,11,.94,12.27,3.62,1.5,7.36-1.11,9.75-3.55,1,3.2,4,5,8.07,4.38l.86-.15a20.6,20.6,0,0,0,12-6.87c.23,3.33,1.5,6.38,5.62,6.87a11,11,0,0,0,2.56,0,12.34,12.34,0,0,0,8.61-4.46,6.25,6.25,0,0,0,.9,3c1.4,1.93,5.34,1.5,5.34,1.5a12.58,12.58,0,0,1,.23-7C70,32.8,72.09,30.87,74.66,31c2.83.15-2.21,11.21,1,12.53,3.59,1.5,6.9-1,9.32-3.4l0,0c.89,1.91,2.8,3.85,6.9,3.81a12.81,12.81,0,0,0,2-.17,10.91,10.91,0,0,0,8.68-7.69,17.48,17.48,0,0,0,.46-2.49,10.94,10.94,0,0,0-.17-3.62l0-.14c1.44-.58,2.11-.72,2.7-.56s.83,1.12.66,1.75c-.16,1.17-.75,3.25-1,4.44a21.69,21.69,0,0,0-.75,5c0,4,4.77,3.68,7.25,2.76s4.86-5.17,4.54-4.32c-.79,3.25.25,4.77,2.64,4.89a9.37,9.37,0,0,0,1.94-.08c1.74-.25,5.4-1.77,8.29-7.86,1.75,1.12,3.95,2.35,3.55,3.73a2.55,2.55,0,0,1-1.73,1.76,3.08,3.08,0,0,1-1.57,0c-.55-.13-1.28-.52-1.61-.17-.48.52.88,2.33,3.24,2.63a14.94,14.94,0,0,0,4.33-.08,20.72,20.72,0,0,0,7.26-2.84c1.29,2,3.72,3.05,6.84,2.84.58,0,1.17-.1,1.73-.18a20.47,20.47,0,0,0,10.48-4.67,7,7,0,0,0,2.28-3.44v-.14C164,35.23,164,35.15,164,35.11ZM31.05,36.36a7.48,7.48,0,0,1,1.05-4.87,6.67,6.67,0,0,1,1.46-1.55,1.78,1.78,0,0,1,2-.33c1.63,1-.1,3.56-2,5.21A6.42,6.42,0,0,1,31.05,36.36Zm66-.7a7.11,7.11,0,0,1-3,3.64,2.79,2.79,0,0,1-1.52.33c-3-.25-2.18-4.77-1.28-6.73A8.14,8.14,0,0,1,94,29.61a3.5,3.5,0,0,1,2-.59C98.26,29.18,97.8,33.87,97,35.66Zm51.52.88a3.74,3.74,0,0,1-.06-1,8.27,8.27,0,0,1,1.5-4.24A6.45,6.45,0,0,1,151.3,30c.9-.64,1.72-.81,2.32-.37,1.49,1.11-.37,3.29-2.32,4.93A18.23,18.23,0,0,1,148.54,36.54Z" style="fill:#fff"/></g></g></g></svg>
+                    </div>
+                </div><!--
+                --><div class="nh-notify-line__column nh-notify-line__two">
+                    <div class="nh-notify-line__text">
+                        Сайт создан на платформе Nethouse. Хотите такой же?
+                    </div>
+                </div><!--
+                --><div class="nh-notify-line__column nh-notify-line__tree">
+                    <button class="nh-notify-line__button">
+                        Создать сайт
+                        <span class="nh-notify-line__button_hide-text">
+                            бесплатно
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="nh-notify-line__bottom nh-notify-line__bottom_hide-small">
+        <a href="https://nethouse.ru/tarifend?utm_source=nethouse&amp;utm_medium=user_sites&amp;utm_campaign=adv_line&amp;utm_content=instruction" target="_blank" class="nh-notify-line__link" rel="noopener noreferrer">
+            <div class="nh-notify-line__row">
+                <div class="nh-notify-line__column nh-notify-line__autor">
+                    Владельцу сайта
+                    <span class="nh-notify-line__autor-arrow">
+                        <svg id="c6cdd65f-bb44-4075-84e3-135e809b1203" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 10">
+                            <path d="M12.72,4.28,8.6.28A1,1,0,0,0,7.18.3a1,1,0,0,0,0,1.42L9.56,4H1A1,1,0,0,0,1,6H9.56L7.2,8.28A1,1,0,0,0,8.6,9.72l4.12-4a1,1,0,0,0,0-1.44Z"/>
+                        </svg>
+                    </span>
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+
+<style>
+    #nh-notify-line__unpaid {
+        font-family: Roboto, Arial, sans-serif;
+        font-weight: 400;
+        z-index: 510;
+    }
+    .nh-notify-line__button {
+        font-family: Roboto, Arial, sans-serif;
+        font-weight: 500;
+    }
+    .nh-notify-line {
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        z-index: 11;
+        text-align: center;
+        letter-spacing: 0;
+    }
+    .nh-notify-line__top {
+        background: rgba(2, 80, 139, 0.95);
+    }
+    .nh-notify-line__bottom {
+        background: rgba(5, 142, 217, 1);
+    }
+    .nh-notify-line__bottom_hide-small {
+        display: none;
+    }
+    .nh-notify-line__top,
+    .nh-notify-line__bottom {
+        padding: 0 26px;
+    }
+    .nh-notify-line__link {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        color: #fff;
+        text-decoration: none;
+    }
+    .nh-notify-line__link:hover,
+    .nh-notify-line__link:focus {
+        color: #fff;
+    }
+    .nh-notify-line__row {
+        position: relative;
+        max-width: 1152px;
+        margin: 0 auto;
+    }
+    .nh-notify-line__row:before,
+    .nh-notify-line__row:after {
+        content: "";
+        display: table;
+        box-sizing: border-box;
+    }
+    .nh-notify-line__column {
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+        padding-left: 16px;
+        padding-right: 16px;
+        box-sizing: border-box;
+    }
+    .nh-notify-line__column_hide-small {
+        display: none;
+    }
+    .nh-notify-line__logo {
+        padding: 9px 0 0;
+    }
+    .nh-notify-line__text {
+        margin: 14px 0 0;
+        font-size: 13px;
+        line-height: 1.385;
+    }
+    .nh-notify-line__button {
+        margin: 8px 0 14px;
+        cursor: pointer;
+        display: inline-block;
+        padding: 13px 37px;
+        background-color: #0CCA4A;
+        border: none;
+        font-size: 12px;
+        line-height: 1.167;
+        text-transform: uppercase;
+        box-sizing: border-box;
+        color: currentColor;
+    }
+    .nh-notify-line__autor {
+        padding: 12px 0;
+        font-size: 12px;
+        line-height: 1.334;
+        color: #F6F6F9;
+    }
+    .nh-notify-line__autor-arrow {
+        padding: 0 0 0 10px;
+    }
+    .nh-notify-line__autor-arrow svg {
+        max-width: 13px;
+        max-height: 10px;
+        fill: currentColor;
+    }
+    .nh-notify-line__close {
+        cursor: pointer;
+        position: absolute;
+        top: 4px;
+        right: -20px;
+        z-index: 12;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .nh-notify-line__close:hover {
+        opacity: 0.7;
+    }
+    .nh-notify-line__close svg {
+        max-width: 24px;
+        max-height: 24px;
+        vertical-align: middle;
+        fill: #058ED9;
+    }
+    @media (min-width: 768px) {
+        .nh-notify-line__top,
+        .nh-notify-line__bottom {
+            padding: 0 24px;
+        }
+        .nh-notify-line__bottom_hide-small {
+            display: block;
+        }
+        .nh-notify-line__column {
+            display: inline-block;
+            vertical-align: middle;
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+        .nh-notify-line__column_hide-small {
+            display: inline-block;
+        }
+        .nh-notify-line__one {
+            width: 20%;
+            vertical-align: top;
+        }
+        .nh-notify-line__two {
+            width: 50%;
+        }
+        .nh-notify-line__tree {
+            display: inline-block;
+            width: 23%;
+            text-align: left;
+        }
+        .nh-notify-line__logo {
+            display: inline-block;
+            padding: 18px 0;
+            text-align: right;
+        }
+        .nh-notify-line__logo svg {
+            max-width: 124px;
+            max-height: 34px;
+            vertical-align: top;
+        }
+        .nh-notify-line__text {
+            margin: 16px 0;
+            font-size: 17px;
+            line-height: 1.412;
+        }
+        .nh-notify-line__button {
+            display: inline-block;
+            margin: 0;
+            padding: 10px 25px;
+            font-size: 10px;
+            line-height: 1.2;
+        }
+        .nh-notify-line__close {
+            cursor: pointer;
+            position: absolute;
+            right: 0;
+            top: 24px;
+            z-index: 12;
+            width: 32px;
+            height: 32px;
+            line-height: 32px;
+            text-align: center;
+        }
+    }
+    @media (min-width: 960px) {
+        .nh-notify-line__row_full-large {
+            max-width: 100%;
+        }
+        .nh-notify-line__top,
+        .nh-notify-line__bottom {
+            padding: 0;
+        }
+        .nh-notify-line__logo {
+            padding: 14px 0 16px;
+            text-align: right;
+        }
+        .nh-notify-line__logo svg {
+            max-width: 128px;
+            max-height: 35px;
+        }
+        .nh-notify-line__autor {
+            padding: 6px 0;
+            font-size: 12px;
+            line-height: 1.334;
+        }
+        .nh-notify-line__button {
+            margin: 20px 0;
+        }
+        .nh-notify-line__close {
+            right: 12px;
+            top: 20px;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 1152px) {
+        .nh-notify-line__button_hide-text {
+            display: none;
+        }
+    }
+    @media (min-width: 1152px) {
+        .nh-notify-line__column {
+            vertical-align: top;
+            padding-left: 16px;
+            padding-right: 16px;
+        }
+
+        .nh-notify-line__one {
+            width: 25%;
+        }
+
+        .nh-notify-line__two {
+            width: 41.667%;
+        }
+
+        .nh-notify-line__tree {
+            width: 32.3%;
+            text-align: center;
+        }
+
+        .nh-notify-line__logo {
+            padding: 9px 0 0;
+            text-align: center;
+        }
+
+        .nh-notify-line__logo svg {
+            max-width: 148px;
+            max-height: 40px;
+        }
+
+        .nh-notify-line__text {
+            margin: 24px -16px;
+            font-size: 18px;
+            line-height: 1.334;
+        }
+
+        .nh-notify-line__button {
+            margin: 16px 0;
+            padding: 13px 37px;
+            font-size: 12px;
+            line-height: 1.167;
+        }
+
+        .nh-notify-line__autor {
+            font-size: 14px;
+            line-height: 1.143;
+        }
+
+        .nh-notify-line__close {
+            top: 20px;
+            right: 20px;
+        }
+    }
+
+    .nh-notify-line__button:hover {
+        opacity: 1;
+        background-color: #0DDA50;
+    }
+</style>
+
+<div class="site__layout">
+        <div id="container" class="site-container module main-page-module main-page-module_no-slider">
+                                <div class="row site-header__top-contacts hide-for-medium small-12"><div class="small-12 column"><section id="topcontacts"
+         data-block-id="3"
+         data-ng-init="init(3)"
+         data-ng-controller="TopContactsController"
+         class="block-3 widget widget-block -nt-widget top-contacts"
+         data-ng-class="{'on-view': !blocks[3].isEdit, 'edit-item': blocks[3].editItem}"><div data-ng-show="!blocks[3].isEdit"
+         class="content-block"
+         id="topcontacts-show"><div class="top-contacts -inline-group js-top-contacts"><div class="medium-5 -inline-group top-contacts__phones"><div class="top-contacts__phones-list show-for-medium js-top-contacts__phones"><div class="desktop -inline-group"></div><div class="mobile"></div></div></div><div class="medium-7 top-contacts__forms"><div class="row -inline-group text-right"><div class="feedback inline-column top-contacts__form"><a href="#feedback" class="top-contacts__link feedback-btn -inline-group"
+                           data-type="0"><div class="top-contacts__icon top-contacts__icon_form"><?xml version="1.0" encoding="utf-8"?><!-- Generated by IcoMoon.io --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><g id="icomoon-ignore"></g><path d="M128 96h512q39.75 0 67.875 28.125t28.125 67.875v384q0 39.75-28.125 67.875t-67.875 28.125h-512q-39.75 0-67.875-28.125t-28.125-67.875v-384q0-39.75 28.125-67.875t67.875-28.125zM672 576v-349.5l-268 214.5q-8.5 7-20 7t-20-7l-268-214.5v349.5q0 13.25 9.375 22.625t22.625 9.375h512q13.25 0 22.625-9.375t9.375-22.625zM640 160h-512q-4.75 0-10.5 1.75l266.5 213.25 266.5-213.25q-5.75-1.75-10.5-1.75z"></path></svg></div><div class="show-for-medium top-contacts__form-text">Напишите нам</div></a></div></div></div><div class="top-contacts__icon js-scroll-up hide-for-medium"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M384 256.5l192 192-45 45-147-147-147 147-45-45z"></path></svg></div></div></div></section></div></div><div class="js-header-constraint site-header-constraint"></div><header class="site-header js-sticky__header small-12"><div class="site-header__content -relative"><div class="row site-header__top-contacts show-for-medium"><div class="small-12 column"><section id="topcontacts"
+         data-block-id="3"
+         data-ng-init="init(3)"
+         data-ng-controller="TopContactsController"
+         class="block-3 widget widget-block -nt-widget top-contacts"
+         data-ng-class="{'on-view': !blocks[3].isEdit, 'edit-item': blocks[3].editItem}"><div data-ng-show="!blocks[3].isEdit"
+         class="content-block"
+         id="topcontacts-show"><div class="top-contacts -inline-group js-top-contacts"><div class="medium-5 -inline-group top-contacts__phones"><div class="top-contacts__phones-list show-for-medium js-top-contacts__phones"><div class="desktop -inline-group"></div><div class="mobile"></div></div></div><div class="medium-7 top-contacts__forms"><div class="row -inline-group text-right"><div class="feedback inline-column top-contacts__form"><a href="#feedback" class="top-contacts__link feedback-btn -inline-group"
+                           data-type="0"><div class="top-contacts__icon top-contacts__icon_form"><?xml version="1.0" encoding="utf-8"?><!-- Generated by IcoMoon.io --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><g id="icomoon-ignore"></g><path d="M128 96h512q39.75 0 67.875 28.125t28.125 67.875v384q0 39.75-28.125 67.875t-67.875 28.125h-512q-39.75 0-67.875-28.125t-28.125-67.875v-384q0-39.75 28.125-67.875t67.875-28.125zM672 576v-349.5l-268 214.5q-8.5 7-20 7t-20-7l-268-214.5v349.5q0 13.25 9.375 22.625t22.625 9.375h512q13.25 0 22.625-9.375t9.375-22.625zM640 160h-512q-4.75 0-10.5 1.75l266.5 213.25 266.5-213.25q-5.75-1.75-10.5-1.75z"></path></svg></div><div class="show-for-medium top-contacts__form-text">Напишите нам</div></a></div></div></div><div class="top-contacts__icon js-scroll-up hide-for-medium"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M384 256.5l192 192-45 45-147-147-147 147-45-45z"></path></svg></div></div></div></section></div></div><div class="site-header__bottom-section js-combo-box" combo-box="menu"><div class="row -inline-group site-header-bottom site-header-bottom--flex"><div class="small-9 inline-column large-3 mobile-burger-wrapper"><div class="-inline-group"><div class="small-2 medium-1 hide-for-large"><button class="site-header__menu-btn svg-icon js-combo-box__button_menu"
+                                        data-toggle="site-menu"><?xml version="1.0" encoding="utf-8"?><!-- Generated by IcoMoon.io --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><g id="icomoon-ignore"></g><path d="M96 192h576v64.5h-576v-64.5zM96 415.5v-63h576v63h-576zM96 576v-64.5h576v64.5h-576z"></path></svg></button></div><div class="small-10 medium-8 large-12"><section id="company-logo" class="block-1 widget-block widget-logo"><div id="site-logo" class="widget-logo__image"><link rel="image_src" href="//i.siteapi.org/eCT8Md8Wnz5uYoHtmgwH4M4-iAY=/0x0:238x137/fit-in/215x0/56b4a8eb3cd7400.s2.siteapi.org/logo/lzqhuibvhjk8kgs8g84s8og00400kg"/><a href="https://securityrrt.nethouse.ru/"><picture><source srcset="//i.siteapi.org/e-tl8D0L3f20kVof8VPb3a6LDis=/0x0:238x137/fit-in/430x0/filters:format(webp)/56b4a8eb3cd7400.s2.siteapi.org/logo/lzqhuibvhjk8kgs8g84s8og00400kg" type="image/webp"/><img src="//i.siteapi.org/9xjTFLz0oOmFNl11y0SsHTGQ6Z0=/0x0:238x137/fit-in/430x0/56b4a8eb3cd7400.s2.siteapi.org/logo/lzqhuibvhjk8kgs8g84s8og00400kg"
+         alt=""
+                     style="max-width: 215px"
+              /></picture></a></div></section></div></div></div><div class="menu-cart-wrapper small-3 large-9 -inline-group_top mobile-cart-wrapper"><div class="js-combo-box__content_menu inline-column combo-box__content combo-box__content_invert large-12 inline-column"><div class="combo-box__header"><div class="combo-box__title">Меню</div><div class="combo-box__close js-combo-box__close_menu svg-icon_smallx svg-icon"><?xml version="1.0" encoding="utf-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="768" height="768" viewBox="0 0 768 768"><path d="M607.5 205.5l-178.5 178.5 178.5 178.5-45 45-178.5-178.5-178.5 178.5-45-45 178.5-178.5-178.5-178.5 45-45 178.5 178.5 178.5-178.5z"></path></svg></div></div><nav id="main-menu" class="site-menu"><div><ul class="no-bullet site-menu__list clearfix"><li id="lnk-1"
+                            data-sort="0"
+                            class=" active disable-sort site-menu__item" data-loc=&quot;mainpage&quot;
+                            data-label="Главная"><a href="https://securityrrt.nethouse.ru/">
+                                Главная
+                            </a></li><li id="lnk-2"
+                            data-sort="4"
+                            class=" site-menu__item" 
+                            data-label="Видео к программе"><a href="https://securityrrt.nethouse.ru/video">
+                                Видео к программе
+                            </a></li></ul></div></nav></div><div class="cabinet__wrapper"></div></div></div></div></div><div></div></header>
+
+                    
+        <div id="content-anchor" class="site-content small-12">
+            <div class="site-background" style=""></div>
+            <section data-blocks-list id="content"
+                     class="js-blocks-list"
+                     data-ng-controller="ContentController">
+                
+                <div data-sorted-blocks
+                     class="js-sorted-blocks main-page-module__list module__list"
+                     data-region="1"
+                     data-module="2">
+                                                                                                    <section  data-widget-desc
+              data-widget-container
+              data-widget-id="6"
+              data-widget-sort="1"
+              data-widget-url="/widget?route=mainPage&amp;on_main=1&amp;type=3&amp;widget_id=6"
+              data-region="1"
+              data-widget-type="3"
+              class="widget-sort widget-block block-6">
+
+                            
+<section data-widget-content
+         class="onmain widget on-view widget-block -nt-widget">
+        <header class="row widget__header services__header widget__header_underlined">
+        <div class="text-center small-12 column">
+            <h1>RRTSOFT</h1>
+        </div>
+    </header>
+    <div class="content-block widget__content widget__content_filled" id="desc-show">
+
+        <div class="row widget__inner" data-ng-show="$ctrl.showContent()">
+            <div class="small-12 column">
+                                    <div class="user-inner">
+                                                    <div class="mr-block"><div class=" mrb-row__content -inline-group_top mrb-row-index-0"><div class="mrb-small-18 mrb-medium-18
+            mrb-col-index-0 mrb-large-18"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p style="text-align: center;"><span style="font-weight: bold; font-size: 20px;">ЗАЩИТА ЛИЧНЫХ ДАННЫХ PRO.</span></p>
+<p style="text-align: center;"><span style="color: #339966; font-weight: bold; font-size: 20px;">С НАМИ НАДЁЖНО И БЕЗОПАСНО.</span></p>
+<p style="text-align: center;"><span style="color: #339966; font-weight: bold; font-size: 20px;">-----------------------------------------------</span></p>
+<p style="text-align: center;"><span style="color: #800000; font-weight: bold; font-size: 20px;"> <a href="https://stranasofta.shop.allsoft.ru/basket/add/4635509" title="В корзину">КУПИТЬ ПРОГРАММУ.</a></span></p>
+<p style="text-align: center;"><span style="color: #800000; font-weight: bold; font-size: 20px;">----------------------------------------</span></p>
+<p><br /></p>
+</div>
+</div></div></div><div class=" mrb-row__content -inline-group_top mrb-row-index-1"><div class="mrb-small-18 mrb-medium-18
+            mrb-col-index-0 mrb-large-18"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/NYTs33okm7ojD6JTGSOu3wOhmrk=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/ghqrvc7fvyo8skks8gogkkow4occc8">
+			</div>
+			</div>
+</div></div></div><div class="mrb-row_imageAndText mrb-row__content -inline-group_top mrb-row-index-2"><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-0 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/117csVAJwcK_Tx-NTo2RnkVF1J4=/fit-in/1400x1000/center/top/s2.siteapi.org/56b4a8eb3cd7400/img/jnwuoj8p07c4w4oowg40k8o0004sss">
+			</div>
+			</div>
+</div></div><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-1 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p style="text-align: center;"><span style="font-size: 20px;">Главное окно программы.</span><br /></p>
+<p style="text-align: center;"><span style="font-size: 20px;">Защита личных данных.</span></p>
+<p>&laquo;ЗАЩИТА ЛИЧНЫХ ДАННЫХ 3.0.0 PRO&raquo;&nbsp;&mdash; программа для защиты ваших личных данных. Поможет защитить файлы папки USB порты от копирования данных.</p>
+<p><span style="color: #000080;">В программе есть файл помощи(Справка).</span></p>
+<p><span style="font-size: 20px;">Список утилит:&nbsp;Защита USB. Спрятать диск. Замок на папку. Спрятать папку. Шифруем файлы. Генератор паролей.&nbsp;Хранение паролей от сайтов.Блокировка экрана.Управление сетью.Отключение Диспетчера задач.Отключение панели управления.</span><br /></p>
+</div>
+</div></div></div><div class=" mrb-row__content -inline-group_top mrb-row-index-3"><div class="mrb-small-18 mrb-medium-18
+            mrb-col-index-0 mrb-large-18"><div class="-gd-content mrb-block-index-0">                            
+<div id="mrb-triggers" class="mrb-triggers theme-default-circle"><div class="bl-trigger-title user-inner">
+            <p><span style="color: #339966;">С НАМИ ВЫГОДНО И БЕЗОПАСНО.</span><br /></p>
+        </div><div class="bl-triggers-list bl-triggers_small bl-triggers_3"><div class="bl-trigger">
+                                    <div class="blr-trigger-media link-empty"><div class="bl-trigger-icon  -triggers-ft-happy"
+                                 style="color: #1e509d; background: #7cc6dc; border-color: #7cc6dc;"></div>
+                        </div>
+                            <div class="bl-trigger-text user-inner hide-for-mrb-large">
+                <p><span style="color: #339966;">ПОЖИЗНЕНАЯ ЛИЦЕНЗИЯ</span><br /></p>
+<p><span style="color: #339966;">КУПИЛ ОДИН&nbsp; РАЗ И НАВСЕГДА.</span><br /></p>
+            </div>
+            </div><div class="bl-trigger">
+                                    <div class="blr-trigger-media link-empty"><div class="bl-trigger-icon  -triggers-ft-like"
+                                 style="color: #284705; background: #bed459; border-color: #bed459;"></div>
+                        </div>
+                            <div class="bl-trigger-text user-inner hide-for-mrb-large">
+                <p><span style="color: #339966; font-size: 18px;"><span style="font-size: 18px;">ПРИЕМЛИМАЯ ЦЕНА</span></span><br /></p>
+<p><span style="color: #339966;">ДЛЯ ТАКОГО РОДА ПРОГРАММ.</span><br /></p>
+            </div>
+            </div><div class="bl-trigger">
+                                    <div class="blr-trigger-media link-empty"><div class="bl-trigger-icon  -triggers-ft-security"
+                                 style="color: #5f0020; background: #ee5455; border-color: #ee5455;"></div>
+                        </div>
+                            <div class="bl-trigger-text user-inner hide-for-mrb-large">
+                <p><span style="color: #339966;">ПОЗАБОДЬТЕСЬ О СВОИХ ФАЙЛАХ И ЛИЧНОЙ ИНФОРМАЦИИ.</span><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+            </div>
+            </div></div>
+    <div class="bl-triggers-list show-for-mrb-large bl-triggers_small bl-triggers_3"><div class="bl-trigger">
+                <div class="bl-trigger-text user-inner">
+                    <p><span style="color: #339966;">ПОЖИЗНЕНАЯ ЛИЦЕНЗИЯ</span><br /></p>
+<p><span style="color: #339966;">КУПИЛ ОДИН&nbsp; РАЗ И НАВСЕГДА.</span><br /></p>
+                </div>
+            </div><div class="bl-trigger">
+                <div class="bl-trigger-text user-inner">
+                    <p><span style="color: #339966; font-size: 18px;"><span style="font-size: 18px;">ПРИЕМЛИМАЯ ЦЕНА</span></span><br /></p>
+<p><span style="color: #339966;">ДЛЯ ТАКОГО РОДА ПРОГРАММ.</span><br /></p>
+                </div>
+            </div><div class="bl-trigger">
+                <div class="bl-trigger-text user-inner">
+                    <p><span style="color: #339966;">ПОЗАБОДЬТЕСЬ О СВОИХ ФАЙЛАХ И ЛИЧНОЙ ИНФОРМАЦИИ.</span><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+                </div>
+            </div></div>
+</div>
+</div></div></div><div class="mrb-row_textAndImage mrb-row__content -inline-group_top mrb-row-index-4"><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-0 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p><br /></p>
+<p style="text-align: center;"><span style="font-size: 20px;">Утилита &laquo;Спрятать папки&raquo;убирает папки от посторонних глаз, помещая их в список программы.В любое время вы можете выбрать и открыть любую выбранную папку из списка.</span></p>
+</div>
+</div></div><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-1 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/8NJr_J4S5JFzpRd-oFFvPuQSBHU=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/as1rlwvr7cgs44okco00sgco4wg8kg">
+			</div>
+			</div>
+</div></div></div><div class="mrb-row_imageAndText mrb-row__content -inline-group_top mrb-row-index-5"><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-0 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/WihuE6kcHqhEMd663uBiTkl1rhY=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/hy0ibjs2xe88g4woocgk44088ogsss">
+			</div>
+			</div>
+</div></div><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-1 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p><span style="font-size: 20px;">Утилита &laquo;Спрятать диск&raquo;&nbsp;скроет любой диск от посторонних глаз.</span></p>
+<p style="text-align: center;"><span style="color: #008000;"><span style="font-size: 16px;"><span>Спрятать диск</span></span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">Внимание:Использовать только буквы из выпадающего списка.</span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">Возможности программы:</span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">Выбираем букву диска из выпадающего списка</span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">После выбора диска нажимаем кнопку </span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">(Скрыть диск)Экран или рабочий стол могут мерцать или пропасть </span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">на сколько секунд папки с рабочего стола не пугайтесь это нормально.</span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">Отрыть диск можно так как и закрыли.Выбрать букву из списка</span></span></p>
+<p style="text-align: center;"><span><span style="font-size: 12.0pt;">нажать кнопку Показать диск.</span></span></p>
+<p><span style="font-size: 12.0pt;"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Историю журнала можно очистить нажав на картинку (Веник).</span></span></p>
+</div>
+</div></div></div><div class="mrb-row_textAndImage mrb-row__content -inline-group_top mrb-row-index-6"><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-0 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p><span style="font-size: 20px;">Утилита &laquo;Замок на папку&raquo; &mdash;&nbsp;полный запрет на открытие папки.</span></p>
+<p><span style="font-size: 20px;">Папку будет видно но открыть её ни кто не сможет.</span></p>
+</div>
+</div></div><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-1 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/GHWQR8FnTnpEoDERklFunHqoKps=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/gv7bto332m0wo8c80sgg0wkssk4ggs">
+			</div>
+			</div>
+</div></div></div><div class="mrb-row_imageAndText mrb-row__content -inline-group_top mrb-row-index-7"><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-0 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/F371qVWMmF-nIXomhAsPtSvE27I=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/jczxlqpl5zk8s8ko484k0kgsw80o8o">
+			</div>
+			</div>
+</div></div><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-1 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p><span style="font-size: 20px;">Утилита генератор паролей(Проффесиональный)</span><br /></p>
+<p style="text-align: center;"><span style="color: #008000;">ГЕНЕРАТОР ПАРОЛЕЙ</span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><span style="color: #000000;">Программа создает пароли любой сложности.</span></span></p>
+<p style="text-align: center;"><span style="font-size: 14px;"><span style="color: #000000;">Показывает приблизительный рейтинг криптостойкость пароля.</span></span></p>
+</div>
+</div></div></div><div class="mrb-row_textAndImage mrb-row__content -inline-group_top mrb-row-index-8"><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-0 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p>Утилита Шифруем файлы.Шифрует файлы от&nbsp;несанкционированного доступа. Папки не шифрует.<br /></p>
+</div>
+</div></div><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-1 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/-NIT8JzKz_aJ87fFeNHEQ3XcJ-Q=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/m7difqtu1zk8s4kws8gsgkso8soo0s">
+			</div>
+			</div>
+</div></div></div><div class="mrb-row_imageAndText mrb-row__content -inline-group_top mrb-row-index-9"><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-0 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/jYFT18Vo-pgODmAdRQ_ToBoejyc=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/f5f657hl568s08gck8k4ococ888co0">
+			</div>
+			</div>
+</div></div><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-1 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p>Утилита хранения паролей сайтов. программа для запоминания паролей к сайтам. У многих из нас есть есть аккаунты на разных сайтах и почтовых серверах. Данные этих аккаунтов (пароли, имя пользователя) не всегда получается запомнить. Программа&nbsp; поможет вам сохранить данные всех ваших интернет-аккаунтов в удобном формате. Преимущество программы заключается в том, что ваша база сохраняется не в программе, а отдельно от неё, в любое место, в том числе и на флешку. Но открыть базу можно только с помощью программы . Также можно, выделив запись, сразу перейти на сайт выделенного акаунта. Поеснение:Когда добавляете новую запись пароль вводить только вручную(из буфера обмена он не сохранится).И не забывайте сохраняться после каждой новой записи .<br /></p>
+</div>
+</div></div></div><div class="mrb-row_textAndImage mrb-row__content -inline-group_top mrb-row-index-10"><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-0 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p><br /></p>
+<p>Утилита управление сетью.Управляет подключениями сети интернет<br /></p>
+</div>
+</div></div><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-1 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/XHNyfiP6rlnGUZEed6tB55q3xRQ=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/t7z6vzq7xi8koogso4ogkcgc00kkc4">
+			</div>
+			</div>
+</div></div></div><div class="mrb-row_imageAndText mrb-row__content -inline-group_top mrb-row-index-11"><div class="mrb-small-18 mrb-medium-6
+            mrb-col-index-0 mrb-large-7"><div class="-gd-content mrb-block-index-0">	<div class="mrb-image">
+					<div style="text-align: center">
+				<img  src="//i.siteapi.org/oKoBpH34JJd-j_W5m7RlktFa6OE=/fit-in/1400x1000/center/top/56b4a8eb3cd7400.s2.siteapi.org/img/4xxxi7h42n8k4sw0k8o8w0gc8wgsg8">
+			</div>
+			</div>
+</div></div><div class="mrb-small-18 mrb-medium-12
+            mrb-col-index-1 mrb-large-11"><div class="-gd-content mrb-block-index-0"><div class="user-inner">
+    <p>1)<br /></p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>БЛОКИРОВКА ЭКРАННА</div>
+</div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">Программа блокирует временно&nbsp; рабочий стол если вы куда то отошли.</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">Что бы снять блокировку потребуется ввести пароль(Который вводили ранее)При входе в программу. Каждый раз при входе в программу будет отображаться старый пароль в виде ****</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">Желательно вводить свой пароль и так каждый раз или если помните старый просто жмете кнопку</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">Сохранить пароль и сразу запуститься блокировка экрана.</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_D2EA7FCC80">Примечание</span><span class="de_41FACAAE6A">: Если перезагрузить компьютер блокировка снимается автоматически. Если у вас ноотбук и вы его не выключаете а просто закрываете при открытии блокировка сохраняется.</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">2)</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">Блокирует диспетчер задач.</span></span></div>
+<div><span style="font-size: 16px;"><span class="de_41FACAAE6A">3)</span></span></div>
+<div><span style="font-size: 16px;"><span style="font-size: 16px;"><span class="de_41FACAAE6A">Блокирует панель управления Windows. Что бы отключить или включить панель управления&nbsp; требуется перезагрузка компютера.</span></span></span><br /></div>
+<div><span style="font-size: 16px;"><span style="font-size: 16px;"><span class="de_41FACAAE6A">Для стабильной работы программы требуется <a href="https://www.microsoft.com/ru-RU/download/details.aspx?id=17851">NET Framework 4.0.</a></span></span></span></div>
+<div><br /></div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><br /></p>
+</div>
+</div></div></div><div class=" mrb-row__content -inline-group_top mrb-row-index-12"><div class="mrb-small-18 mrb-medium-18
+            mrb-col-index-0 mrb-large-18"><div class="-gd-content mrb-block-index-0">                            <div id="mrb-button-block"
+     class="user-inner mrb-button-block theme-default-flat-orange"
+     style="text-align: center">
+    <a href="https://stranasofta.shop.allsoft.ru/basket/add/4635509"
+       target="_blank"               class="mrb-btn-medium mrb-btn-item a">
+        <span class="mrb-btn-item-text">Купить программу<br /></span>
+    </a>
+</div>
+</div></div></div></div>
+                                            </div>
+                            </div>
+        </div>
+    </div>
+</section>
+
+
+                                <div class="widget__content widget__content_filled">
+        <div class="row">
+            <div data-ng-if="$ctrl.loaded" class="widget__view small-12 column" data-ui-view="desc-view"></div>
+        </div>
+    </div>
+
+                                </section>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+                <div data-deleted-blocks
+                     class="js-deleted-blocks blocks-list module__list">
+                                    </div>
+            </section>
+        </div>
+    </div>
+
+        <footer id="footer" class="site-footer">
+    <div class="row">
+        <section class="small-12 column">
+            <div class="-inline-group"><div class="small-12 large-8 text-center medium-text-left"><div id="footer-text" class="footer-text client"><div id="footertext1" class="footer-text__about">
+                                2022 © RRTSOFT
+                            </div><div id="footertext2" class="footer-text__desc">Наш E-mail  igoruz76@mail.ru</div></div></div><div class="small-12 medium-12 large-4 site-footer_indent"><div class="text-center large-text-right site-footer__logo"><div class="inline-block"><div id="project-info" class="project-info"><span class="footer-color project-info__link-wrap" ><a href="https://nethouse.ru/?p=footer"
+                                  target="_blank"
+                                  id="nethouse-caption"
+                                  class="footer-color">Создать сайт самому</a><br/>Nethouse</span><a id="nh-logo" class="nh-logo text-center" href="https://nethouse.ru/?p=footer" target="Nethouse.ru" title="Nethouse.ru"><svg xmlns="http://www.w3.org/2000/svg" width="179" height="48.86" viewBox="0 0 179 48.86"><title>Asset 1</title><path d="M5.29,25.26c1.73-.85,3.34-2.06,5-2.89,1.44-.7,2.06-1,2.83-.86a10.54,10.54,0,0,1,2.28.81c1.63.68,2.86,1.34,4.49,2.16,2.74,1.36,3.12.72,4.13-1.11s1-2.57-1.56-3.73S17.6,17.56,15,16.45a14.3,14.3,0,0,0-1.82-.73c-.64-.14-1.08.07-2.39.74-2.25,1.15-5.6,3-7.61,4.12-1.82,1-1.86,1.35-.94,3.12S3,26.36,5.29,25.26Z" style="fill:#fff"/><path d="M178.88,39c-.12-.08-.51.2-.86.51a17.51,17.51,0,0,1-3.37,2.37,18.48,18.48,0,0,1-3.17,1.27,12.61,12.61,0,0,1-6.41.79,4.58,4.58,0,0,1-2-1c-.09-.08,0-.19.21-.33a16.12,16.12,0,0,1,1.76-.88,12.43,12.43,0,0,0,1.17-.59c3-1.89,5.94-3.29,7.26-6.86a4.63,4.63,0,0,0-.26-4.38c-.88-1.24-2.67-2.06-5.55-2.05a11.61,11.61,0,0,0-2.62.3c-5.95,1.37-9.89,7.17-10.44,11.9A8.63,8.63,0,0,0,155,44a10.65,10.65,0,0,1-3.8,1.74h0a6.3,6.3,0,0,0,1-2.28,5.38,5.38,0,0,0-.27-3.18c-1-2.51-4.5-3.55-5.94-4.55-.76-.53-1.42-.85-1.71-1.64-.61-1.66.91-2.77,2.55-2.92a2.9,2.9,0,0,1,2.21.64c.49.44.47,2.05-.39,1.9-1.08-.18-.73,1.59.64,1.84,1.92.35,3.45-.78,3.71-3.62.35-3.81-5.73-6-11-2.55s-4,7.19-3,8.77a4.15,4.15,0,0,0,1.12,1h0c-1.23,2.27-4.85,4.53-6.17,4.15-.47-.13-1.12-.33-.74-1.83.29-1.16.74-3,1.34-5.73.77-3.56,1.54-5.59.39-6.51a6.25,6.25,0,0,0-3.33-.77c-.81,0-1.54,0-2,.85a18,18,0,0,0-.6,2.9c-.62,3.86-.84,6.36-3.87,9.21-1.24,1.16-2.55,1.84-3.47,1.46-2.32-1,1.18-10.16.64-12.87-.39-2-2.71-2-4.8-1.42a15.19,15.19,0,0,0-5.61,3c-.91-2-2.77-3.66-6.36-3.94a10.68,10.68,0,0,0-2.93.18c-6,1.19-10.85,7.22-10.58,12.36A9,9,0,0,0,92.09,42C91,43.15,89.92,44,89,43.6c-.68-.28-.82-1.1-.29-4.17.93-5.45,1.22-8.62-.29-10.27S83,28.38,81,29.09c-1.57.58-3.74,2.5-4.86,3.29-.45.32-.68-.28-.53-1.08C76.6,26.15,83.86,1.06,80.6.05,79.35-.34,76,1.56,74.21,3.27c-1.07,1-1.11,3.62-1.17,5-.16,3.51-1.62,10.85-2.82,16.73A118.77,118.77,0,0,0,68,40.52a.18.18,0,0,0,0,0c-.47.28-1,.64-1.66,1-1.61.89-4.16,2-6.1,1.56a5.26,5.26,0,0,1-2.8-1.8c-1.7-2-1.06-7.54.29-15h0c4.17,0,6.56.09,8.08-.08,1-.11,1.23-.29,1.6-1.14a11.9,11.9,0,0,0,.92-3.43c0-.83-.77-.64-1.41-.65-1.81,0-4.73.14-8.08.3-.07,0-.15,0-.13,0,1.64-6.23,3.65-11.64,4.06-13.75S54.24,11,53.24,13.48c-.17.41-.52,3.68-1.18,7.93-1.88,0-3.14,0-3.14,0-.6,0-1-.1-1.25.81A12.12,12.12,0,0,0,47.24,26c.08.45.29.49.7.52.62,0,1.75,0,3.3,0-.5,2.91-1,5.47-1.13,6.88C50,34.56,49.8,36,49.7,37.45a13.29,13.29,0,0,1-6.31,5.2,12,12,0,0,1-6.84,1.06,4.24,4.24,0,0,1-2.28-1.26,13.69,13.69,0,0,0,2.28-.68A14.26,14.26,0,0,0,43,37c3.24-4.48,2.66-9.75-4.65-9.14a11.37,11.37,0,0,0-1.85.3c-6.2,1.54-9.91,7.9-10.07,12.82,0,.25,0,.55,0,.8l0,0c-1.23,1.28-3,1.81-4,1.39-.66-.27-.8-1.08-.29-4.08.91-5.34,1.13-8.15-.35-9.77s-5.35-.77-7.25-.07a8.61,8.61,0,0,0-1.41.72A40.52,40.52,0,0,0,9.1,33a4.86,4.86,0,0,1,.14-1.12A3.38,3.38,0,0,0,7.09,28c-1-.14-3.26,1.33-4.88,2.87a16.75,16.75,0,0,0-1.94,2c-.29.48-.35.8-.16,1.07s1,.07,1.9-.37,1.53-.28,1.58.89a23.62,23.62,0,0,1-.54,4.88c-.42,1.9-1.44,5,.06,7.12s5.71,1.64,5.71,1.64a14.05,14.05,0,0,1,.26-7.68c1-3.17,2.33-5.16,4.09-5.91a4.33,4.33,0,0,1,2-.33c3,.16-2.36,12.2,1,13.63,4,1.68,8-1.23,10.65-4,1,3.57,4.37,5.52,8.81,4.86l.93-.16a22.4,22.4,0,0,0,13.13-7.63c.26,3.71,1.64,7.07,6.13,7.63a11.19,11.19,0,0,0,2.79,0,13.42,13.42,0,0,0,9.4-5,7,7,0,0,0,1,3.3c1.53,2.16,5.83,1.67,5.83,1.67a14.35,14.35,0,0,1,.26-7.84c1.35-4.34,3.64-6.49,6.47-6.34,3.09.16-2.41,12.45,1,13.91,3.93,1.67,7.54-1.05,10.18-3.76l0,0c1,2.13,3.06,4.27,7.54,4.22a14.2,14.2,0,0,0,2.22-.19A12,12,0,0,0,112,40a18,18,0,0,0,.5-2.77,11.78,11.78,0,0,0-.18-4l0-.15c1.58-.63,2.29-.81,3-.61s.91,1.23.73,1.94c-.19,1.3-.83,3.6-1.14,4.93a24.87,24.87,0,0,0-.83,5.55c0,4.43,5.2,4.08,7.93,3.07s5.3-5.73,4.94-4.78c-.88,3.6.27,5.3,2.89,5.43a11,11,0,0,0,2.13-.08c1.9-.28,5.9-2,9.05-8.72h0c1.92,1.22,4.32,2.59,3.89,4.13a2.76,2.76,0,0,1-1.9,2,3.4,3.4,0,0,1-1.71,0c-.58-.13-1.4-.56-1.75-.19-.54.57,1,2.58,3.53,2.92a16.31,16.31,0,0,0,4.72-.09,22.17,22.17,0,0,0,7.92-3.16c1.41,2.18,4.05,3.37,7.46,3.15q1-.07,1.9-.2a22.21,22.21,0,0,0,11.45-5.18A7.88,7.88,0,0,0,179,39.39v-.17A.33.33,0,0,0,178.88,39ZM33.81,40.37A8.35,8.35,0,0,1,34.94,35a7.44,7.44,0,0,1,1.61-1.72,1.88,1.88,0,0,1,2.17-.36c1.79,1.14-.11,3.94-2.17,5.79A7.27,7.27,0,0,1,33.81,40.37Zm72-.79a7.9,7.9,0,0,1-3.26,4,3.08,3.08,0,0,1-1.66.38c-3.27-.28-2.38-5.3-1.39-7.47a8.79,8.79,0,0,1,3-3.65,3.78,3.78,0,0,1,2.24-.66C107.16,32.39,106.67,37.6,105.83,39.59Zm56.22,1A5.34,5.34,0,0,1,162,39.4a9.07,9.07,0,0,1,1.65-4.69,8.17,8.17,0,0,1,1.43-1.38c1-.72,1.88-.9,2.53-.4,1.62,1.23-.41,3.66-2.53,5.48A19.3,19.3,0,0,1,162,40.57Z" style="fill:#fff"/></svg></a></div></div></div></div></div>                                </section>
+    </div>
+                </footer>
+
+    
+</div>
+<div id="for-explain"></div>
+<input type="hidden" class="-currentFont" value="Roboto">
+<script src="/js/lang/ru_RU/translate.js?v=8450396804356098204101"></script>
+<script type="text/javascript" src="//s.siteapi.org/frontend/static/grid_9/js/vendor-43ba3adc30.min.js"></script>
+<script type="text/javascript" src="//s.siteapi.org/frontend/static/grid_9/js/scripts-b49d99dd74.js"></script>
+<div id="vk_api_transport"></div>
+
+
+
+
+</body>
+</html>
+

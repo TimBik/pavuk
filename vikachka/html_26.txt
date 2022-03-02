@@ -1,0 +1,2498 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="yandex-verification" content="a40f6f1bf48900ab" />
+		<meta property="og:image" content="http://solitonkg.ru/local/images/LandScape.jpg">
+		<meta property="og:title" content="Солитон Консалтинг Групп -  консалтинг, внедрение сложных программных систем управления предприятием: доработка, настройка и сопровождение ппрограмм на 1С и Адванта">
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="Солитон КГ предлагает управленческий и финансовый консалтинг: оптимизацию систем управления и процессов для качественного внедрения программ управления предприятием; занимается моделированием, внедрением, разработкой, настройкой и сопровождением автоматизированных систем на платформе 1С и Адванта">
+		<meta property="og:url" content="http://solitonkg.ru/">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="1С Предприятие, 1С, ERP, автоматизация бизнеса, автоматизация управления, автоматизация процессов, автоматизированные системы управления, автоматизировать бизнес процессы, Адванта, АСУП, бюджетирование, внедрение 1С, внедрение систем, Зарплата и Управление Персоналом, ЗУП, информационная система, Комплексная автоматизация, консалтинг, оптимизация системы, отладка процессов, платформа 1С, программа 1С, программы управленческого учета, проектное управление, процессное управление, система управления, система менеджмента качества, Солитон, УПП, Управление производственным предприятием, управление производством, Управление Торговлей, управление финансами, управление финансовыми ресурсами, управления проектами, управленческий консалтинг, управленческий учет, уровень зрелости управления, финансовое управление, финансовый менеджмент, финансовый консалтинг, эффективный менеджмент, эффективное управление, операционное управление, оперативность получения информации, организация ремонта, повысить эффективность, расчет себестоимости, управление закупками, управление затратами, управление отношениями с клиентами, управление продажами, 1С Бухгалтерия, 1С для МФО и КПК, 1С МСФО, 1С НФО, 1С Рарус Некредитная финансовая организация, Рарус, 1С Управление МФО и КПК сопровождение, 1С Управление Холдингом, CRM, база данных 1С, Бит Финанс, отчетность XBRL, отчётность финансовых компаний, программа 1С Аудит-Эскорт, программа XBRL, учет ценных бумаг в 1С" />
+<meta name="description" content="Солитон КГ предлагает управленческий и финансовый консалтинг: оптимизацию систем управления и процессов для качественного внедрения программ управления предприятием; занимается моделированием, внедрением, разработкой, настройкой и сопровождением автоматизированных систем на платформе 1С и Адванта" />
+<script type="text/javascript" data-skip-moving="true">(function(w, d) {var v = w.frameCacheVars = {'CACHE_MODE':'HTMLCACHE','storageBlocks':[],'dynamicBlocks':[],'AUTO_UPDATE':true,'AUTO_UPDATE_TTL':'0'};var inv = false;if (v.AUTO_UPDATE === false){if (v.AUTO_UPDATE_TTL && v.AUTO_UPDATE_TTL > 0){var lm = Date.parse(d.lastModified);if (!isNaN(lm)){var td = new Date().getTime();if ((lm + v.AUTO_UPDATE_TTL * 1000) >= td){w.frameRequestStart = false;w.preventAutoUpdate = true;return;}inv = true;}}else{w.frameRequestStart = false;w.preventAutoUpdate = true;return;}}var r = w.XMLHttpRequest ? new XMLHttpRequest() : (w.ActiveXObject ? new w.ActiveXObject("Microsoft.XMLHTTP") : null);if (!r) { return; }w.frameRequestStart = true;var m = v.CACHE_MODE; var l = w.location; var x = new Date().getTime();var q = "?bxrand=" + x + (l.search.length > 0 ? "&" + l.search.substring(1) : "");var u = l.protocol + "//" + l.host + l.pathname + q;r.open("GET", u, true);r.setRequestHeader("BX-ACTION-TYPE", "get_dynamic");r.setRequestHeader("BX-CACHE-MODE", m);r.setRequestHeader("BX-CACHE-BLOCKS", v.dynamicBlocks ? JSON.stringify(v.dynamicBlocks) : "");if (inv){r.setRequestHeader("BX-INVALIDATE-CACHE", "Y");}try { r.setRequestHeader("BX-REF", d.referrer || "");} catch(e) {}if (m === "APPCACHE"){r.setRequestHeader("BX-APPCACHE-PARAMS", JSON.stringify(v.PARAMS));r.setRequestHeader("BX-APPCACHE-URL", v.PAGE_URL ? v.PAGE_URL : "");}r.onreadystatechange = function() {if (r.readyState != 4) { return; }var a = r.getResponseHeader("BX-RAND");var b = w.BX && w.BX.frameCache ? w.BX.frameCache : false;if (a != x || !((r.status >= 200 && r.status < 300) || r.status === 304 || r.status === 1223 || r.status === 0)){var f = {error:true, reason:a!=x?"bad_rand":"bad_status", url:u, xhr:r, status:r.status};if (w.BX && w.BX.ready){BX.ready(function() {setTimeout(function(){BX.onCustomEvent("onFrameDataRequestFail", [f]);}, 0);});}else{w.frameRequestFail = f;}return;}if (b){b.onFrameDataReceived(r.responseText);if (!w.frameUpdateInvoked){b.update(false);}w.frameUpdateInvoked = true;}else{w.frameDataString = r.responseText;}};r.send();})(window, document);</script>
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="/bitrix/cache/css/s1/empty/kernel_main/kernel_main.css?157952756226347" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/empty/template_7f521ce4d4efe828f21817698bf83da8/template_7f521ce4d4efe828f21817698bf83da8.css?1581517352296159" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+<link rel="stylesheet" type="text/css" media="(min-width:1000px)" href="/bitrix/templates/empty/assets/dist/css/template_desctop.css">
+<link rel="stylesheet" type="text/css" media="(max-width:1000px)" href="/bitrix/templates/empty/assets/dist/css/template_device.css">
+<link rel="stylesheet" type="text/css" media="(max-width:760px)" href="/bitrix/templates/empty/assets/dist/css/template_device_mobile.css">
+
+
+
+				
+
+
+
+		<title>Солитон Консалтинг Групп -  консалтинг, внедрение сложных программных систем управления предприятием: доработка, настройка и сопровождение ппрограмм на 1С и Адванта</title>
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /> 	
+
+
+
+	</head>
+	<body>
+		<div id="panel">
+					</div>
+		<header>
+			<div class="container">
+				<div class="row align-items-center">
+					<div class="col-auto col-md-auto">
+						<div class="logotype">
+							<a href="/"><svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="100%" height="100%">
+<image  x="0px" y="0px" width="165px" height="97px"  xlink:href="data:img/png;base64,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" />
+</svg></a>
+						</div>
+					</div>
+					<div class="col col-md">
+						<div class="description">
+							 Системные решения для частных и государственных компаний: консалтинг и автоматизация						</div>
+					</div>
+					<div class="col-auto d-none d-md-block">
+							 <img  class="lazyload" data-src="/images/1cfran.png" alt="1с франчайзинг">					</div>
+				</div>
+			</div>
+		</header>
+		<nav class="d-none d-md-block">
+				<div class="container">
+		<ul class="row">
+					<li class="col-12 col-md lvl-1  text-md-center" data-id="two_0">
+				<a href="/about.html">Компания</a>
+			</li>
+					<li class="col-12 col-md lvl-1  text-md-center" data-id="two_1">
+				<a href="/services.html">Услуги</a>
+			</li>
+					<li class="col-12 col-md lvl-1  text-md-center" data-id="two_2">
+				<a href="/products/standard-solutions.html">Продукты</a>
+			</li>
+					<li class="col-12 col-md lvl-1  text-md-center" data-id="two_3">
+				<a href="/customers/all.html">Клиенты</a>
+			</li>
+					<li class="col-12 col-md lvl-1  text-md-center" data-id="two_4">
+				<a href="/prices.html">Цены</a>
+			</li>
+					<li class="col-12 col-md lvl-1  text-md-center" data-id="two_5">
+				<a href="/articles/all.html">Статьи</a>
+			</li>
+				</ul>
+	</div>
+
+		<div class="show-lvl-2" id="two_0" style="display:none;">
+		<div class="container">
+			<ul class="row">
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/about.html">О компании</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/about/tekhnologii.html">Концепция развития</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/about/cases/all.html">Примеры наших проектов</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/about/comments-and-appreciation.html">Отзывы и Благодарности</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/about/check-for-a-vacancy.html">Работа</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/news/all.html">Новости</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/contacts.html">Контакты</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+		<div class="show-lvl-2" id="two_1" style="display:none;">
+		<div class="container">
+			<ul class="row">
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/services/corporate-system-1c.html">Корпоративные системы 1С</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/services/effective-management.html">Регулярный менеджмент</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/services/financial-management-system.html">Финансовое управление</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/services/nfo.html">НФО</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/services/ITkonsalting.html">IT-консалтинг</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+		<div class="show-lvl-2" id="two_2" style="display:none;">
+		<div class="container">
+			<ul class="row">
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/products/special-solutions.html">Отраслевые решения 1С</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/products/standard-solutions.html">Типовые решения 1С</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/products/solution-advanta.html">Решения Адванта</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/products/services1c.html">Сервисы 1С</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+		<div class="show-lvl-2" id="two_5" style="display:none;">
+		<div class="container">
+			<ul class="row">
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/articles/ifrs.html">МСФО</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/articles/budgeting.html">Бюджетирование</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/articles/technical-design.html">Техническое проектирование</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/articles/management.html">Управление</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/articles/it-market.html"> IT-Рынок</a>
+				</li>
+								<li class="col-12 col-md lvl-2  text-md-center">
+					<a href="/articles/all.html">Все статьи</a>
+				</li>
+							</ul>
+		</div>
+	</div>
+			</nav>
+		<div class="d-block d-md-none">
+		<div class="bx-top-nav bx-black" id="catalog_menu_XEVOpk">
+	<nav class="bx-top-nav-container" id="cont_catalog_menu_XEVOpk">
+		<ul class="bx-nav-list-1-lvl" id="ul_catalog_menu_XEVOpk">
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_XEVOpk.clickInMobile(this, event);"
+			>
+				<a
+					href="/about/"
+									>
+					<span>
+						О компании						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_XEVOpk.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/"
+																		data-picture=""
+																	>
+									<span>О компании</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/tekhnologii/"
+																		data-picture=""
+																	>
+									<span>Концепция развития</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/cases/all.html"
+																		data-picture=""
+																	>
+									<span>Примеры наших проектов</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/comments-and-appreciation/"
+																		data-picture=""
+																	>
+									<span>Отзывы и Благодарности</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/about/check-for-a-vacancy.php"
+																		data-picture=""
+																	>
+									<span>Работа</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/news/"
+																		data-picture=""
+																	>
+									<span>Новости</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/contacts/"
+																		data-picture=""
+																	>
+									<span>Контакты</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_XEVOpk.clickInMobile(this, event);"
+			>
+				<a
+					href="/services/"
+									>
+					<span>
+						Услуги						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_XEVOpk.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/services/corporate-system-1c"
+																		data-picture=""
+																	>
+									<span>Корпоративные системы 1С</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/services/effective-management"
+																		data-picture=""
+																	>
+									<span>Регулярный менеджмент</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/services/financial-management-system"
+																		data-picture=""
+																	>
+									<span>Финансовое управление</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/services/nfo"
+																		data-picture=""
+																	>
+									<span>НФО</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/services/ITkonsalting"
+																		data-picture=""
+																	>
+									<span>IT-консалтинг</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_XEVOpk.clickInMobile(this, event);"
+			>
+				<a
+					href="/products/"
+									>
+					<span>
+						Продукты						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_XEVOpk.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/products/special-solutions.html"
+																		data-picture=""
+																	>
+									<span>Отраслевые решения 1С</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/products/standard-solutions.html"
+																		data-picture=""
+																	>
+									<span>Типовые решения 1С</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/products/solution-advanta.html"
+																		data-picture=""
+																	>
+									<span>Решения Адванта</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/products/services1c.html"
+																		data-picture=""
+																	>
+									<span>Сервисы 1С</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-0-col "
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_XEVOpk.clickInMobile(this, event);"
+			>
+				<a
+					href="/customers/"
+									>
+					<span>
+						Клиенты											</span>
+				</a>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-0-col "
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_XEVOpk.clickInMobile(this, event);"
+			>
+				<a
+					href="/prices/"
+									>
+					<span>
+						Цены											</span>
+				</a>
+						</li>
+		     <!-- first level-->
+						<li
+				class="bx-nav-1-lvl bx-nav-list-1-col  bx-nav-parent"
+				onmouseover="BX.CatalogMenu.itemOver(this);"
+				onmouseout="BX.CatalogMenu.itemOut(this)"
+									data-role="bx-menu-item"
+								onclick="if (BX.hasClass(document.documentElement, 'bx-touch')) obj_catalog_menu_XEVOpk.clickInMobile(this, event);"
+			>
+				<a
+					href="/articles/"
+									>
+					<span>
+						Статьи						<i class="fa fa-angle-down"></i>					</span>
+				</a>
+							<span class="bx-nav-parent-arrow" onclick="obj_catalog_menu_XEVOpk.toggleInMobile(this)"><i class="fa fa-angle-left"></i></span> <!-- for mobile -->
+				<div class="bx-nav-2-lvl-container">
+											<ul class="bx-nav-list-2-lvl">
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/articles/ifrs.html"
+																		data-picture=""
+																	>
+									<span>МСФО</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/articles/budgeting.html"
+																		data-picture=""
+																	>
+									<span>Бюджетирование</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/articles/technical-design.html"
+																		data-picture=""
+																	>
+									<span>Техническое проектирование</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/articles/management.html"
+																		data-picture=""
+																	>
+									<span>Управление</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/articles/it-market.html"
+																		data-picture=""
+																	>
+									<span> IT-Рынок</span>
+								</a>
+														</li>
+						  <!-- second level-->
+							<li class="bx-nav-2-lvl">
+								<a
+									href="/articles/all.html"
+																		data-picture=""
+																	>
+									<span>Все статьи</span>
+								</a>
+														</li>
+												</ul>
+														</div>
+						</li>
+				</ul>
+		<div style="clear: both;"></div>
+	</nav>
+</div>
+
+		</div>
+		<main>
+					<div class="box-yelow">
+	<div class="container text-center">
+		<h1 class="page-h1">«Думай глобально - действуй локально»</h1>
+	</div>
+	<div class="block-name text-center">
+		<div class="container">
+			<div class="row justify-content-center no-gutters">
+				<div class="col-10 col-md-auto">
+					<div class="blue-block block-left">
+						<div class="text-center img-krug left-k">
+ <img alt="spec1" src="null" class="lazyload" data-src="/images/круг3.png">
+						</div>
+						<div class="block-blue-title">
+ <a href="/services/financial-management-system.html">Финансовое управление</a>
+						</div>
+						<div class="block-blue-descript">
+							 Разработка методологии, построение систем, настройка и внедрение процессов
+						</div>
+						<div class="block-blue-ul">
+							<ul>
+								<li><a href="/services/financial-management-system.html#balanced_scorecard">Система сбалансированных показателей</a></li>
+								<li><a href="/services/financial-management-system.html#fin_analiz_model">Финансовый анализ и моделирование</a></li>
+								<li><a href="/services/financial-management-system.html#upruch">Управленческий учет</a></li>
+								<li><a href="/services/financial-management-system.html#budgeting">Бюджетирование</a></li>
+								<li><a href="/services/financial-management-system.html#treasury">Казначейство</a></li>
+							</ul>
+						</div>
+						<div class="block-blue-block d-flex">
+							<div class="blue-block-warn-descript">
+ <a href="http://solitonkg.ru/about/cases/all.html">Примеры </a><br>
+ <a href="http://solitonkg.ru/about/cases/all.html">
+								для ознакомления</a>
+							</div>
+							<div class="blue-block-warn">
+ <img alt="warn" src="null" class="lazyload" data-src="/images/blue-warn.png">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-auto">
+					<div class="line-horizontal">
+ <img alt="speccenter" src="null" data-src="/images/line.gif" class="lazyload line-center d-none d-lg-block">
+					</div>
+				</div>
+				<div class="col-10 col-md-auto">
+					<div class="blue-block block-right">
+						<div class="text-center img-krug right-k">
+ <img alt="spec1" src="null" class="lazyload" data-src="/images/круг2.png">
+						</div>
+						<div class="block-blue-title">
+ <a href="/services/effective-management.html">Регулярный менеджмент</a>
+						</div>
+						<div class="block-blue-descript">
+							 Разработка методологии, построение систем, решение бизнес задач, настройка и внедрение процессов
+						</div>
+						<div class="block-blue-ul">
+							<ul>
+								<li><a href="/services/effective-management.html#processupr">Процессное управление</a></li>
+								<li><a href="/services/effective-management.html#pojectupr">Проектное управление</a></li>
+								<li><a href="/services/effective-management.html#shestsign">Шесть сигм</a></li>
+								<li><a href="/services/effective-management.html#berejlivoe">Бережливое производство</a></li>
+								<li><a href="/services/effective-management.html#transhulting">Траблшутинг</a></li>
+							</ul>
+						</div>
+						<div class="block-blue-block right d-flex">
+							<div class="blue-block-warn right">
+ <img alt="warn" src="null" class="lazyload" data-src="/images/blue-warn.png">
+							</div>
+							<div class="blue-block-warn-descript">
+ <a href="http://solitonkg.ru/about/cases/all.html">Примеры </a><br>
+ <a href="http://solitonkg.ru/about/cases/all.html">
+								для ознакомления</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-10 col-md-auto">
+					<div class="blue-block block-center">
+						<div class="block-blue-title">
+ <a href="/services/corporate-system-1c.html">Корпоративные системы 1с</a>
+						</div>
+						<div class="block-blue-descript bottom">
+							 Полный цикл работ "под ключ" от постановки задачи до разработки и ввода в промышленную эксплуатацию
+						</div>
+						<div class="block-info-bottom">
+							<div class="row no-gutters justify-content-center">
+								<div class="col-10 col-md">
+									<div class="block-blue-li">
+ <a href="/services/corporate-system-1c.html#1C_ERP">1C ERP Управление предприятием</a>
+									</div>
+								</div>
+								<div class="col-10 col-md text-center">
+									<div class="block-blue-li d-inline">
+ <a href="/services/corporate-system-1c.html#1C_KA">1C Комплексная автоматизация</a>
+									</div>
+								</div>
+								<div class="col-10 col-md">
+									<div class="block-blue-li">
+ <a href="/services/corporate-system-1c.html#1C_UPP">1С Управление производственным предприятием</a>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="text-center img-krug bottom-k">
+ <img alt="spec1" src="null" class="lazyload" data-src="/images/круг1.png">
+						</div>
+						<div class="blue-block-warn2">
+							<div class="blue-block-warn-descript">
+ <a href="http://solitonkg.ru/about/cases/all.html">Примеры</a><br>
+ <a href="http://solitonkg.ru/about/cases/all.html">
+								для ознакомления</a>
+							</div>
+							<div class="block-blue-line">
+ <img alt="warn" src="null" class="lazyload" data-src="/images/blue-warn.png">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			  <div class="block-blue-title text-center news-titl">
+	Новости и объявления
+</div>
+<div class="owl-carousel news-home-carousel">
+		<div class="news-item" id="bx_3218110189_358">
+		<div class="news-item-date">
+			19.01.2021		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/spetsialist-soliton-konsalting-prinyal-uchastie-v-oprose-pr-v-it-illyuziya-ili-neobkhodimost-.html"><img class="lazyload" data-src="" alt="Специалист Солитон Консалтинг принял участие в опросе &quot;PR в IT: иллюзия или необходимость?&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/spetsialist-soliton-konsalting-prinyal-uchastie-v-oprose-pr-v-it-illyuziya-ili-neobkhodimost-.html">Специалист Солитон Консалтинг принял участие в опросе &quot;PR в IT: иллюзия или необходимость?&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/spetsialist-soliton-konsalting-prinyal-uchastie-v-oprose-pr-v-it-illyuziya-ili-neobkhodimost-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_353">
+		<div class="news-item-date">
+			30.09.2020		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/kompaniya-soliton-konsalting-grupp-stala-polnopravnym-uchastnikom-seti-1s-konsalting.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/73e/266_140_0/73e2367303bdd455ea1f45c797c11d46.png" alt="Компания &quot;Солитон Консалтинг Групп&quot; стала полноправным участником сети 1С:Консалтинг"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/kompaniya-soliton-konsalting-grupp-stala-polnopravnym-uchastnikom-seti-1s-konsalting.html">Компания &quot;Солитон Консалтинг Групп&quot; стала полноправным участником сети 1С:Консалтинг</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/kompaniya-soliton-konsalting-grupp-stala-polnopravnym-uchastnikom-seti-1s-konsalting.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_352">
+		<div class="news-item-date">
+			22.09.2020		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/konsalting-dlya-kholdinga-rossiyskie-kosmicheskie-sistemy-.html"><img class="lazyload" data-src="/upload/iblock/a7d/a7d9817b2c2d650d5320be10f9392a8f.jpg" alt="Консалтинг для холдинга «Российские космические системы»."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/konsalting-dlya-kholdinga-rossiyskie-kosmicheskie-sistemy-.html">Консалтинг для холдинга «Российские космические системы».</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/konsalting-dlya-kholdinga-rossiyskie-kosmicheskie-sistemy-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_350">
+		<div class="news-item-date">
+			10.07.2020		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/soliton-consulting-offers-new-technology-implementation-enterprise-systems-on-the-platform-of-1c.html"><img class="lazyload" data-src="" alt="Солитон Консалтинг предлагает новую технологию внедрения корпоративных систем на платформе 1С"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/soliton-consulting-offers-new-technology-implementation-enterprise-systems-on-the-platform-of-1c.html">Солитон Консалтинг предлагает новую технологию внедрения корпоративных систем на платформе 1С</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/soliton-consulting-offers-new-technology-implementation-enterprise-systems-on-the-platform-of-1c.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_346">
+		<div class="news-item-date">
+			19.03.2020		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/as-a-competent-consulting-and-hard-work-was-more-effective-than-the-energetic-attack.html"><img class="lazyload" data-src="" alt="Как компетентный консалтинг и кропотливая работа оказались эффективнее энергичной атаки"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/as-a-competent-consulting-and-hard-work-was-more-effective-than-the-energetic-attack.html">Как компетентный консалтинг и кропотливая работа оказались эффективнее энергичной атаки</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/as-a-competent-consulting-and-hard-work-was-more-effective-than-the-energetic-attack.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_337">
+		<div class="news-item-date">
+			18.12.2019		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/soliton-kg-completed-the-first-part-of-the-project-budgeting-the-project-of-holding-jsc-rusatom-serv.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/369/266_140_0/369e28f169c962301f7207423b005c60.png" alt="&quot;Солитон КГ&quot; завершила первую часть проекта по внедрение системы бюджетирования проектного холдинга в АО Русатом Сервис"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/soliton-kg-completed-the-first-part-of-the-project-budgeting-the-project-of-holding-jsc-rusatom-serv.html">&quot;Солитон КГ&quot; завершила первую часть проекта по внедрение системы бюджетирования проектного холдинга в АО Русатом Сервис</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/soliton-kg-completed-the-first-part-of-the-project-budgeting-the-project-of-holding-jsc-rusatom-serv.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_343">
+		<div class="news-item-date">
+			25.11.2019		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/factory-ventilation-galvent-has-concluded-the-contract-with-soliton-kg-in-the-transition-from-1c-upp.html"><img class="lazyload" data-src="/upload/iblock/437/4379f48c2da1bcff690d7163deaac777.jpg" alt="Фабрика вентиляции &quot;ГалВент&quot; заключила договор с &quot;Солитон КГ&quot; по по переходу с 1С:УПП на 1С ERP. "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/factory-ventilation-galvent-has-concluded-the-contract-with-soliton-kg-in-the-transition-from-1c-upp.html">Фабрика вентиляции &quot;ГалВент&quot; заключила договор с &quot;Солитон КГ&quot; по по переходу с 1С:УПП на 1С ERP. </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/factory-ventilation-galvent-has-concluded-the-contract-with-soliton-kg-in-the-transition-from-1c-upp.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_335">
+		<div class="news-item-date">
+			05.09.2019		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/soliton-kg-signed-the-agreement-on-development-plan-for-the-introduction-of-regulated-accounting-on-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/fb9/266_140_0/fb9dc607aef60c995dc026388ccf9f35.jpg" alt="&quot;Солитон КГ&quot; заключил договор по разработке плана внедрения регламентированного учета на базе 1С:ERP на Воскресенском машиностроительном заводе"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/soliton-kg-signed-the-agreement-on-development-plan-for-the-introduction-of-regulated-accounting-on-.html">&quot;Солитон КГ&quot; заключил договор по разработке плана внедрения регламентированного учета на базе 1С:ERP на Воскресенском машиностроительном заводе</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/soliton-kg-signed-the-agreement-on-development-plan-for-the-introduction-of-regulated-accounting-on-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_341">
+		<div class="news-item-date">
+			19.06.2019		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/soliton-kg-entered-into-a-contract-with-the-company-russian-panel-group.html"><img class="lazyload" data-src="/upload/iblock/7c1/7c1c7b3454c34d1d65112d916c180dc1.jpg" alt="&quot;Солитон КГ&quot; заключила договор с компанией &quot;Русская Панель Групп&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/soliton-kg-entered-into-a-contract-with-the-company-russian-panel-group.html">&quot;Солитон КГ&quot; заключила договор с компанией &quot;Русская Панель Групп&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/soliton-kg-entered-into-a-contract-with-the-company-russian-panel-group.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_342">
+		<div class="news-item-date">
+			01.03.2019		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/fpg-energokontrakt-leading-manufacturer-of-workwear-has-signed-a-contract-with-soliton-kg.html"><img class="lazyload" data-src="/upload/iblock/c39/c3964ae01ac5c510d1f80a698c97c1a1.jpg" alt="ФПГ ЭНЕРГОКОНТРАКТ – ведущий производитель спецодежды заключил договор с &quot;Солитон КГ&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/fpg-energokontrakt-leading-manufacturer-of-workwear-has-signed-a-contract-with-soliton-kg.html">ФПГ ЭНЕРГОКОНТРАКТ – ведущий производитель спецодежды заключил договор с &quot;Солитон КГ&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/fpg-energokontrakt-leading-manufacturer-of-workwear-has-signed-a-contract-with-soliton-kg.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_294">
+		<div class="news-item-date">
+			24.01.2019		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/quadrant-competence-on-the-market-of-automation-of-business-management-by-using-1c-erp.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/fd9/266_140_0/fd9943751151a65aa7605bfacdb6d8dd.jpg" alt="«Квадрант компетенций» на рынке автоматизации управления бизнесом с помощью 1С ERP"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/quadrant-competence-on-the-market-of-automation-of-business-management-by-using-1c-erp.html">«Квадрант компетенций» на рынке автоматизации управления бизнесом с помощью 1С ERP</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/quadrant-competence-on-the-market-of-automation-of-business-management-by-using-1c-erp.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_290">
+		<div class="news-item-date">
+			14.11.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/pjsc-micron.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/bf9/266_140_0/bf96f43eaf5dd848555ff27aa97e17e2.jpg" alt="ПАО &quot;Микрон&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/pjsc-micron.html">ПАО &quot;Микрон&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/pjsc-micron.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_289">
+		<div class="news-item-date">
+			10.10.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/business-strategy-in-a-crisis.html"><img class="lazyload" data-src="" alt="&quot;Стратегия бизнеса в условиях кризиса&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/business-strategy-in-a-crisis.html">&quot;Стратегия бизнеса в условиях кризиса&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/business-strategy-in-a-crisis.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_287">
+		<div class="news-item-date">
+			25.09.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/tk-service-region.html"><img class="lazyload" data-src="" alt="ООО «ТК Сервис Регион»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/tk-service-region.html">ООО «ТК Сервис Регион»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/tk-service-region.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_285">
+		<div class="news-item-date">
+			25.09.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/npf-bask-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/51a/266_140_0/51abb08e5c8f742e6bdc533dc97a150c.png" alt="ООО «НПФ БАСК» "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/npf-bask-.html">ООО «НПФ БАСК» </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/npf-bask-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_281">
+		<div class="news-item-date">
+			01.08.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/mkk-ooo-nt-money.html"><img class="lazyload" data-src="" alt="ООО МКК «НЗ Деньги»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/mkk-ooo-nt-money.html">ООО МКК «НЗ Деньги»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/mkk-ooo-nt-money.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_280">
+		<div class="news-item-date">
+			31.07.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/mkk-ooo-baybol.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/049/266_140_0/049e951001064aa2e5d3cb3d0a9a83f6.jpg" alt="ООО МКК «Байбол»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/mkk-ooo-baybol.html">ООО МКК «Байбол»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/mkk-ooo-baybol.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_276">
+		<div class="news-item-date">
+			13.06.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/microcredit-company-zaym77.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/4a4/266_140_0/4a4097a265d408b09f0a92f7d20fd116.png" alt="Микрокредитная компания «Займ77»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/microcredit-company-zaym77.html">Микрокредитная компания «Займ77»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/microcredit-company-zaym77.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_273">
+		<div class="news-item-date">
+			26.04.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-advanta-konsalting.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/e40/266_140_0/e40c46c85b8f0730f83c494f6e357865.jpg" alt="ООО &quot;Адванта Консалтинг&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-advanta-konsalting.html">ООО &quot;Адванта Консалтинг&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-advanta-konsalting.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_272">
+		<div class="news-item-date">
+			26.03.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/new-price-list-for-services.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/7ce/266_140_0/7ce0668a3dc8f480c1e0a7cb648d45f8.png" alt="Новый прайс-лист на оказание услуг"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/new-price-list-for-services.html">Новый прайс-лист на оказание услуг</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/new-price-list-for-services.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_271">
+		<div class="news-item-date">
+			23.03.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/automated-system-management-dogovry.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/5b7/266_140_0/5b7c3b1d9b6c0913f424a6b1ad3e966e.jpg" alt="&quot;Автоматизированная система управления договорами&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/automated-system-management-dogovry.html">&quot;Автоматизированная система управления договорами&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/automated-system-management-dogovry.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_267">
+		<div class="news-item-date">
+			07.02.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-ifc-russian-microfinance-investment-corporation.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/8bf/266_140_0/8bfa07b88f9420d18c7540ad24e3b349.PNG" alt="ООО МФК «Русская инвестиционная микрофинансовая корпорация»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-ifc-russian-microfinance-investment-corporation.html">ООО МФК «Русская инвестиционная микрофинансовая корпорация»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-ifc-russian-microfinance-investment-corporation.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_266">
+		<div class="news-item-date">
+			29.01.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/mfk-ooo-lime-loan.html"><img class="lazyload" data-src="/upload/iblock/559/5593b2e2f776e6e5a8b7882cf015a4a7.jpg" alt="ООО &quot;МФК&quot;ЛАЙМ-ЗАЙМ&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/mfk-ooo-lime-loan.html">ООО &quot;МФК&quot;ЛАЙМ-ЗАЙМ&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/mfk-ooo-lime-loan.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_265">
+		<div class="news-item-date">
+			29.01.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/mkk-ooo-people-money-m.html"><img class="lazyload" data-src="/upload/iblock/199/199aa0ace0a9234e56032d383bdd6d11.png" alt="ООО МКК &quot;Деньги населению-М&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/mkk-ooo-people-money-m.html">ООО МКК &quot;Деньги населению-М&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/mkk-ooo-people-money-m.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_263">
+		<div class="news-item-date">
+			26.01.2018		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/mkk-ooo-ampersand.html"><img class="lazyload" data-src="/upload/iblock/d6a/d6a42f637051e00d9423f765c729dfa7.PNG" alt="ООО &quot;МКК&quot;Амперсанд&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/mkk-ooo-ampersand.html">ООО &quot;МКК&quot;Амперсанд&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/mkk-ooo-ampersand.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_262">
+		<div class="news-item-date">
+			19.12.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/new-price-list-for-the-provision-of-support.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/0a1/266_140_0/0a1a71cbe990766038ccd2e17b568e4b.png" alt="Новый прайс-лист на оказание услуг по &quot;Сопровождению&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/new-price-list-for-the-provision-of-support.html">Новый прайс-лист на оказание услуг по &quot;Сопровождению&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/new-price-list-for-the-provision-of-support.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_261">
+		<div class="news-item-date">
+			05.12.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/supplement-1c-rarus-non-bank-financial-organization-revision-1-xbrl.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/498/266_140_0/4988320f93685a352e9e540092f527c9.png" alt="Дополнение 1С-Рарус: Некредитная финансовая организация, редакция 1: XBRL"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/supplement-1c-rarus-non-bank-financial-organization-revision-1-xbrl.html">Дополнение 1С-Рарус: Некредитная финансовая организация, редакция 1: XBRL</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/supplement-1c-rarus-non-bank-financial-organization-revision-1-xbrl.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_260">
+		<div class="news-item-date">
+			16.11.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ifc-ferratum-rasha.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/f4e/266_140_0/f4e9e71f30a05c24dee36b90160cde06.png" alt="МФК &quot;Ферратум Раша&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ifc-ferratum-rasha.html">МФК &quot;Ферратум Раша&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ifc-ferratum-rasha.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_255">
+		<div class="news-item-date">
+			31.10.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/mkk-ooo-prostoden-gi.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/89a/266_140_0/89a0c4fee7c7f2a9a17753e8e1bfba61.png" alt="ООО МКК «ПростоДЕНЬГИ» "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/mkk-ooo-prostoden-gi.html">ООО МКК «ПростоДЕНЬГИ» </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/mkk-ooo-prostoden-gi.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_254">
+		<div class="news-item-date">
+			24.10.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/jsc-atomtekheksport-has-concluded-the-contract-on-performance-of-works-with-the-soliton.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/251/266_140_0/251f001f7f0978b9657a4d1250f583ab.jpg" alt="АО &quot;Атомтехэкспорт&quot; заключила договор на выполнение работ с &quot;Солитон&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/jsc-atomtekheksport-has-concluded-the-contract-on-performance-of-works-with-the-soliton.html">АО &quot;Атомтехэкспорт&quot; заключила договор на выполнение работ с &quot;Солитон&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/jsc-atomtekheksport-has-concluded-the-contract-on-performance-of-works-with-the-soliton.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_251">
+		<div class="news-item-date">
+			16.10.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/jsc-rusatom-service.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/d4e/266_140_0/d4ecd752e3c58699dc57dd13f7c51608.jpg" alt="АО &quot;Русатом Сервис&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/jsc-rusatom-service.html">АО &quot;Русатом Сервис&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/jsc-rusatom-service.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_234">
+		<div class="news-item-date">
+			25.08.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-central-bank.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/01a/266_140_0/01a6ea1a5151218ff632ec042e2403b7.jpg" alt="Центробанк"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-central-bank.html">Центробанк</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-central-bank.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_105">
+		<div class="news-item-date">
+			20.06.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-new-price-list.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/7c9/266_140_0/7c9103ee6b7e95a28ac64dbe4b53fccd.jpg" alt="Новый прайс-лист.﻿"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-new-price-list.html">Новый прайс-лист.﻿</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-new-price-list.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_171">
+		<div class="news-item-date">
+			20.06.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/1c-rarus-non-bank-financial-organization-revision-1-basic-supply-for-the-microfinance-market.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/2a7/266_140_0/2a7bb3997ff56391c6e62eccb6b90a48.jpg" alt="1С-Рарус:Некредитная финансовая организация, редакция 1 (базовая поставка для микрофинансового рынка)"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/1c-rarus-non-bank-financial-organization-revision-1-basic-supply-for-the-microfinance-market.html">1С-Рарус:Некредитная финансовая организация, редакция 1 (базовая поставка для микрофинансового рынка)</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/1c-rarus-non-bank-financial-organization-revision-1-basic-supply-for-the-microfinance-market.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_106">
+		<div class="news-item-date">
+			20.06.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-addition-of-nfo-edition-1-registration-of-securities-the-base-to-the-model-solution-of-1c-rarus.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/82c/266_140_0/82c99e85c91b70fd974138e8eee3e04a.png" alt="Дополнение НФО, редакция 1: Учет ценных бумаг (базовый) к типовому решению 1С-Рарус: Некредитная финансовая организация, редакция 1"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-addition-of-nfo-edition-1-registration-of-securities-the-base-to-the-model-solution-of-1c-rarus.html">Дополнение НФО, редакция 1: Учет ценных бумаг (базовый) к типовому решению 1С-Рарус: Некредитная финансовая организация, редакция 1</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-addition-of-nfo-edition-1-registration-of-securities-the-base-to-the-model-solution-of-1c-rarus.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_169">
+		<div class="news-item-date">
+			19.06.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/1c-management-of-micro-finance-organizations-and-credit-consumer-co-operative-prof.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/ee0/266_140_0/ee07039d10679c0d4551670118ef376b.png" alt="1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/1c-management-of-micro-finance-organizations-and-credit-consumer-co-operative-prof.html">1С:Управление микрофинансовой организацией и кредитным потребительским кооперативом ПРОФ</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/1c-management-of-micro-finance-organizations-and-credit-consumer-co-operative-prof.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_167">
+		<div class="news-item-date">
+			14.06.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/management-company-fond-switching-to-new-standards-of-accounting-reporting.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/446/266_140_0/44654fbaa2ee8bb024233ef786b59dc9.png" alt="&quot;Управляющая компания &quot;МФОНД&quot; переходит на новые стандарты ведения бухгалтерской отчетности"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/management-company-fond-switching-to-new-standards-of-accounting-reporting.html">&quot;Управляющая компания &quot;МФОНД&quot; переходит на новые стандарты ведения бухгалтерской отчетности</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/management-company-fond-switching-to-new-standards-of-accounting-reporting.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_166">
+		<div class="news-item-date">
+			30.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-uk-mercury-capital-trust-in-transition-to-new-accounting-standards.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/a88/266_140_0/a882b121a8ebb1fe56530a4ebab323cd.jpg" alt="ООО &quot;УК &quot;Меркури Кэпитал Траст&quot; переходит на новые стандарты бухгалтерского учета"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-uk-mercury-capital-trust-in-transition-to-new-accounting-standards.html">ООО &quot;УК &quot;Меркури Кэпитал Траст&quot; переходит на новые стандарты бухгалтерского учета</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-uk-mercury-capital-trust-in-transition-to-new-accounting-standards.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_165">
+		<div class="news-item-date">
+			30.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/llc-mc-capital-the-transition-of-accounting-to-the-enp.html"><img class="lazyload" data-src="" alt="ООО &quot;УК &quot;Столичная&quot; - переход бухгалтерии на ЕПС."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/llc-mc-capital-the-transition-of-accounting-to-the-enp.html">ООО &quot;УК &quot;Столичная&quot; - переход бухгалтерии на ЕПС.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/llc-mc-capital-the-transition-of-accounting-to-the-enp.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_164">
+		<div class="news-item-date">
+			30.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-maksvell-the-capital-management-started-the-transition-to-the-new-standards-of-accounting-report.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/abb/266_140_0/abb88699bf400f1cbf3051d0abaffee0.jpg" alt="ООО &quot;Максвелл Капитал Менеджмент&quot; начал переход на новые стандарты ведения бухгалтерской отчетности"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-maksvell-the-capital-management-started-the-transition-to-the-new-standards-of-accounting-report.html">ООО &quot;Максвелл Капитал Менеджмент&quot; начал переход на новые стандарты ведения бухгалтерской отчетности</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-maksvell-the-capital-management-started-the-transition-to-the-new-standards-of-accounting-report.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_163">
+		<div class="news-item-date">
+			30.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/investment-company-multibodies-ordered-soliton-import-data.html"><img class="lazyload" data-src="/upload/iblock/b13/b13dd2a913c861a4fa9f5ca6bd86aa8d.png" alt="Инвестиционная компания МультиБотСистемс заказала у Солитон импорт данных"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/investment-company-multibodies-ordered-soliton-import-data.html">Инвестиционная компания МультиБотСистемс заказала у Солитон импорт данных</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/investment-company-multibodies-ordered-soliton-import-data.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_162">
+		<div class="news-item-date">
+			26.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/gerfin-work-on-transition-of-accounting-to-the-enp.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/7d3/266_140_0/7d370c76d2fc8b681361dfd633dedb55.jpg" alt="ГЕРФИН - работы по переходу бухгалтерии на ЕПС"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/gerfin-work-on-transition-of-accounting-to-the-enp.html">ГЕРФИН - работы по переходу бухгалтерии на ЕПС</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/gerfin-work-on-transition-of-accounting-to-the-enp.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_161">
+		<div class="news-item-date">
+			26.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/cjsc-ic-loko-invest-entered-into-an-agreement-with-soliton.html"><img class="lazyload" data-src="/upload/iblock/567/567496a8b1911c603c659435faa2f14d.gif" alt="ЗАО ИК «ЛОКО-Инвест» заключил договор с Солитон"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/cjsc-ic-loko-invest-entered-into-an-agreement-with-soliton.html">ЗАО ИК «ЛОКО-Инвест» заключил договор с Солитон</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/cjsc-ic-loko-invest-entered-into-an-agreement-with-soliton.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_160">
+		<div class="news-item-date">
+			26.05.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/jsc-uk-of-progress-finans-the-transition-to-the-new-accounting-standards.html"><img class="lazyload" data-src="/upload/iblock/e14/e142dce24f9ba17204099aee8a419128.gif" alt="ООО УК «Прогресс-Финанс» - переход на новые стандарты бухгалтерского учета"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/jsc-uk-of-progress-finans-the-transition-to-the-new-accounting-standards.html">ООО УК «Прогресс-Финанс» - переход на новые стандарты бухгалтерского учета</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/jsc-uk-of-progress-finans-the-transition-to-the-new-accounting-standards.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_236">
+		<div class="news-item-date">
+			24.04.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-uk-sib-capital-trust.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/e9b/266_140_0/e9b5e66e5dda677e5046fa0c983d2c6e.gif" alt="ООО УК &quot;Сиб Капитал Траст&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-uk-sib-capital-trust.html">ООО УК &quot;Сиб Капитал Траст&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-uk-sib-capital-trust.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_237">
+		<div class="news-item-date">
+			19.04.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-soliton-published-an-article-which-provides-a-comparative-analysis-of-methods-and-ways-o.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/f73/266_140_0/f734b3f83542e3534d1e0840466e70f2.gif" alt="Компания &quot;Солитон&quot; опубликовала статью, в которой приводится сравнительный анализ методов и способов подготовки отчетности по МСФО."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-soliton-published-an-article-which-provides-a-comparative-analysis-of-methods-and-ways-o.html">Компания &quot;Солитон&quot; опубликовала статью, в которой приводится сравнительный анализ методов и способов подготовки отчетности по МСФО.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-soliton-published-an-article-which-provides-a-comparative-analysis-of-methods-and-ways-o.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_238">
+		<div class="news-item-date">
+			18.04.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-management-company-prime-asset-management.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/a0d/266_140_0/a0d14ee7ea5950d0ac9f4d6df928e02f.png" alt="Управляющая компания «ПРАЙМ Эссет Менеджмент» "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-management-company-prime-asset-management.html">Управляющая компания «ПРАЙМ Эссет Менеджмент» </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-management-company-prime-asset-management.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_240">
+		<div class="news-item-date">
+			14.03.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-ic-kresko-finance.html"><img class="lazyload" data-src="/upload/iblock/335/335a72534978d9cc24e8f69bb4283e4e.gif" alt="ООО ИК &quot;КРЭСКО Финанс&quot; "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-ic-kresko-finance.html">ООО ИК &quot;КРЭСКО Финанс&quot; </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-ic-kresko-finance.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_239">
+		<div class="news-item-date">
+			14.03.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/methodological-documentation-for-the-participants-of-the-securities-market-and-management-companies-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/d2d/266_140_0/d2dbc138c918e418aa1fe1d356df6e68.gif" alt="Методическая документация для участников рынка ценных бумаг и управляющих компаний, соответствующая требованиям ЦБ РФ."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/methodological-documentation-for-the-participants-of-the-securities-market-and-management-companies-.html">Методическая документация для участников рынка ценных бумаг и управляющих компаний, соответствующая требованиям ЦБ РФ.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/methodological-documentation-for-the-participants-of-the-securities-market-and-management-companies-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_235">
+		<div class="news-item-date">
+			09.02.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/management-company-management-of-investments-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/c15/266_140_0/c1546b85ea66063a1e4fbe0cb2d3b99d.png" alt="Управляющая компания «Управление Инвестициями» "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/management-company-management-of-investments-.html">Управляющая компания «Управление Инвестициями» </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/management-company-management-of-investments-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_241">
+		<div class="news-item-date">
+			18.01.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-transition-of-accounting-to-the-enp-in-the-company-russian-capital-mutual-funds.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/54d/266_140_0/54d43ea0cdc8cfe1a923f8e3875317f9.png" alt="Переход бухгалтерии на ЕПС в компании &quot;Русский Капитал Паевые Фонды&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-transition-of-accounting-to-the-enp-in-the-company-russian-capital-mutual-funds.html">Переход бухгалтерии на ЕПС в компании &quot;Русский Капитал Паевые Фонды&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-transition-of-accounting-to-the-enp-in-the-company-russian-capital-mutual-funds.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_242">
+		<div class="news-item-date">
+			17.01.2017		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-kremlin-has-concluded-the-contract-on-delivery-of-software-from-the-company-soliton-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/d35/266_140_0/d351b8700fe2b7fe7a4adfa34d010840.png" alt="Компания &quot;Кремль&quot; заключила договор о поставке программного обеспечения от компании &quot;Солитон&quot;."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-kremlin-has-concluded-the-contract-on-delivery-of-software-from-the-company-soliton-.html">Компания &quot;Кремль&quot; заключила договор о поставке программного обеспечения от компании &quot;Солитон&quot;.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-kremlin-has-concluded-the-contract-on-delivery-of-software-from-the-company-soliton-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_243">
+		<div class="news-item-date">
+			26.12.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/llc-insurance-broker-unity.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/529/266_140_0/529d210b79919e2472d8ef242dcffaf1.png" alt="ООО «Страховой Брокер «ЕДИНСТВО»."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/llc-insurance-broker-unity.html">ООО «Страховой Брокер «ЕДИНСТВО».</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/llc-insurance-broker-unity.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_158">
+		<div class="news-item-date">
+			16.12.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/ooo-trastforeks.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/35a/266_140_0/35a1eaa53b17a59c8eb2300771246539.jpg" alt="ООО &quot;Трастфорекс&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/ooo-trastforeks.html">ООО &quot;Трастфорекс&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/ooo-trastforeks.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_246">
+		<div class="news-item-date">
+			13.12.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/firma-rezerv-invest.html"><img class="lazyload" data-src="/upload/iblock/775/775dd67da4fa78d89b5ce51ee5512129.jpg" alt="ООО «Фирма Резерв-Инвест»."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/firma-rezerv-invest.html">ООО «Фирма Резерв-Инвест».</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/firma-rezerv-invest.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_157">
+		<div class="news-item-date">
+			12.12.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/introduction-in-1c-rarus-nfo.html"><img class="lazyload" data-src="/upload/iblock/42e/42ed92361d41fd6544ffd499e7610b55.png" alt="Внедрение ПО 1С:Рарус НФО в &quot;Эссет Менеджмент&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/introduction-in-1c-rarus-nfo.html">Внедрение ПО 1С:Рарус НФО в &quot;Эссет Менеджмент&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/introduction-in-1c-rarus-nfo.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_245">
+		<div class="news-item-date">
+			30.11.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/rik-finans.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/21c/266_140_0/21caa6144a8fd50964e592868158fce3.jpg" alt="ООО &quot;РИК-Финанс&quot;."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/rik-finans.html">ООО &quot;РИК-Финанс&quot;.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/rik-finans.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_247">
+		<div class="news-item-date">
+			24.11.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/jsc-managing-company-centre-asset-management-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/a48/266_140_0/a48ae2cb253c59d6203774d8ce29a1b0.JPG" alt="АО УК &quot;Центр Эссет Менеджмент&quot;."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/jsc-managing-company-centre-asset-management-.html">АО УК &quot;Центр Эссет Менеджмент&quot;.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/jsc-managing-company-centre-asset-management-.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_156">
+		<div class="news-item-date">
+			01.11.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/a-new-client-of-the-company-soliton-company-mavt-a-major-beverage-supplier.html"><img class="lazyload" data-src="/upload/iblock/4df/4dfbcafa0de53aba208b9e28c59245a6.png" alt="Новый клиент компании &quot;Солитон&quot;: фирма &quot;МАВТ&quot;, крупный поставщик напитков"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/a-new-client-of-the-company-soliton-company-mavt-a-major-beverage-supplier.html">Новый клиент компании &quot;Солитон&quot;: фирма &quot;МАВТ&quot;, крупный поставщик напитков</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/a-new-client-of-the-company-soliton-company-mavt-a-major-beverage-supplier.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_155">
+		<div class="news-item-date">
+			31.10.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-ministry-of-energy-of-the-russian-federation-received-the-product-1c-summary-report-8-prof.html"><img class="lazyload" data-src="" alt="Министерство энергетики РФ получило продукт «1С:Свод отчетов 8 ПРОФ»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-ministry-of-energy-of-the-russian-federation-received-the-product-1c-summary-report-8-prof.html">Министерство энергетики РФ получило продукт «1С:Свод отчетов 8 ПРОФ»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-ministry-of-energy-of-the-russian-federation-received-the-product-1c-summary-report-8-prof.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_154">
+		<div class="news-item-date">
+			12.10.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-soliton-has-won-competition-on-delivery-of-the-software-product-1c-in-the-ministry-of-en.html"><img class="lazyload" data-src="" alt="Компания «Солитон» выиграла конкурс на поставку программного продукта фирмы 1С в Министерство энергетики РФ"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-soliton-has-won-competition-on-delivery-of-the-software-product-1c-in-the-ministry-of-en.html">Компания «Солитон» выиграла конкурс на поставку программного продукта фирмы 1С в Министерство энергетики РФ</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-soliton-has-won-competition-on-delivery-of-the-software-product-1c-in-the-ministry-of-en.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_153">
+		<div class="news-item-date">
+			22.08.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-soliton-has-won-the-tender-for-the-development-of-methodology-of-management-accounting-a.html"><img class="lazyload" data-src="" alt="Компания &quot;Солитон&quot; выиграла конкурс на разработку методики управленческого учета и разработку технического задания в промышленном холдинге"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-soliton-has-won-the-tender-for-the-development-of-methodology-of-management-accounting-a.html">Компания &quot;Солитон&quot; выиграла конкурс на разработку методики управленческого учета и разработку технического задания в промышленном холдинге</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-soliton-has-won-the-tender-for-the-development-of-methodology-of-management-accounting-a.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_152">
+		<div class="news-item-date">
+			23.06.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/just-in-time-for-the-uk-to-seek.html"><img class="lazyload" data-src="" alt="Точно в срок для УК &quot;Автодор&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/just-in-time-for-the-uk-to-seek.html">Точно в срок для УК &quot;Автодор&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/just-in-time-for-the-uk-to-seek.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_98">
+		<div class="news-item-date">
+			08.06.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-conclusion-of-the-contract-about-the-maintenance-of-programs-1c.html"><img class="lazyload" data-src="" alt="Заключение договора об обслуживании программ на платформе 1С"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-conclusion-of-the-contract-about-the-maintenance-of-programs-1c.html">Заключение договора об обслуживании программ на платформе 1С</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-conclusion-of-the-contract-about-the-maintenance-of-programs-1c.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_248">
+		<div class="news-item-date">
+			22.04.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-soliton-delivers-pp-1c-for-the-company-federal-state-budgetary-institution-specialized-c.html"><img class="lazyload" data-src="" alt="Компания &quot;Солитон&quot; выполнила поставку ПП фирмы 1С для компании Федеральное государственное бюджетное учреждение «Специализированный центр учета в агропромышленном комплексе» в соответствии с условием контракта."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-soliton-delivers-pp-1c-for-the-company-federal-state-budgetary-institution-specialized-c.html">Компания &quot;Солитон&quot; выполнила поставку ПП фирмы 1С для компании Федеральное государственное бюджетное учреждение «Специализированный центр учета в агропромышленном комплексе» в соответствии с условием контракта.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-soliton-delivers-pp-1c-for-the-company-federal-state-budgetary-institution-specialized-c.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_97">
+		<div class="news-item-date">
+			08.04.2016		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/won-competition-on-delivery-of-licenses-to-the-server-1s.html"><img class="lazyload" data-src="" alt="Выигран конкурс на поставку лицензий на сервер 1С"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/won-competition-on-delivery-of-licenses-to-the-server-1s.html">Выигран конкурс на поставку лицензий на сервер 1С</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/won-competition-on-delivery-of-licenses-to-the-server-1s.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_147">
+		<div class="news-item-date">
+			01.04.2015		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-automatic-control-system-for-maintenance-and-development-of-automated-control-systems-at.html"><img class="lazyload" data-src="" alt="Внедрена система автоматического управления сопровождением и разработкой АСУ в ЗАО «ЭНЕРГОПРОМ МЕНЕДЖМЕНТ»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-automatic-control-system-for-maintenance-and-development-of-automated-control-systems-at.html">Внедрена система автоматического управления сопровождением и разработкой АСУ в ЗАО «ЭНЕРГОПРОМ МЕНЕДЖМЕНТ»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-automatic-control-system-for-maintenance-and-development-of-automated-control-systems-at.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_149">
+		<div class="news-item-date">
+			27.02.2015		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/fgup-npo-tekhnomash-has-developed-a-method-of-budgeting-with-the-help-of-the-company-soliton-consult.html"><img class="lazyload" data-src="" alt="ФГУП &quot;НПО Техномаш&quot; разработало методику бюджетирования с помощью компании ООО &quot;Солитон Консалтинг Групп&quot;."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/fgup-npo-tekhnomash-has-developed-a-method-of-budgeting-with-the-help-of-the-company-soliton-consult.html">ФГУП &quot;НПО Техномаш&quot; разработало методику бюджетирования с помощью компании ООО &quot;Солитон Консалтинг Групп&quot;.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/fgup-npo-tekhnomash-has-developed-a-method-of-budgeting-with-the-help-of-the-company-soliton-consult.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_148">
+		<div class="news-item-date">
+			24.02.2015		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-a-comprehensive-solution-unf-bp-for-1c-in-ooo-titan-power-solutions.html"><img class="lazyload" data-src="" alt="Внедрено комплексное решение УНФ + БП на платформе 1С в ООО &quot;Титан Пауэр Солюшенс&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-a-comprehensive-solution-unf-bp-for-1c-in-ooo-titan-power-solutions.html">Внедрено комплексное решение УНФ + БП на платформе 1С в ООО &quot;Титан Пауэр Солюшенс&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-a-comprehensive-solution-unf-bp-for-1c-in-ooo-titan-power-solutions.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_146">
+		<div class="news-item-date">
+			02.02.2015		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-a-system-of-financial-accounting-and-planning-in-the-gc-russian-automobile-roads.html"><img class="lazyload" data-src="" alt="Внедрена система финансового учета и планирования в ГК «Российские автомобильные дороги»."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-a-system-of-financial-accounting-and-planning-in-the-gc-russian-automobile-roads.html">Внедрена система финансового учета и планирования в ГК «Российские автомобильные дороги».</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-a-system-of-financial-accounting-and-planning-in-the-gc-russian-automobile-roads.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_150">
+		<div class="news-item-date">
+			03.11.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/participation-in-the-annual-conference-infostart.html"><img class="lazyload" data-src="" alt="Участие в ежегодной конференции &quot;Инфостарт&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/participation-in-the-annual-conference-infostart.html">Участие в ежегодной конференции &quot;Инфостарт&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/participation-in-the-annual-conference-infostart.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_142">
+		<div class="news-item-date">
+			03.10.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-self-development-operational-accounting-of-securities-and-operations-with-them-ooo-ik-kr.html"><img class="lazyload" data-src="" alt="Внедрена собственная разработка «Оперативный учёт ценных бумаг и операций с ними» в ООО «ИК КРЭСКО Финанс»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-self-development-operational-accounting-of-securities-and-operations-with-them-ooo-ik-kr.html">Внедрена собственная разработка «Оперативный учёт ценных бумаг и операций с ними» в ООО «ИК КРЭСКО Финанс»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-self-development-operational-accounting-of-securities-and-operations-with-them-ooo-ik-kr.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_141">
+		<div class="news-item-date">
+			03.10.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-self-development-accounting-of-securities-and-operations-with-them-ooo-ik-kresko-finance.html"><img class="lazyload" data-src="" alt="Внедрена собственная разработка «Бухгалтерский учёт ценных бумаг и операций с ними» в ООО «ИК КРЭСКО Финанс»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-self-development-accounting-of-securities-and-operations-with-them-ooo-ik-kresko-finance.html">Внедрена собственная разработка «Бухгалтерский учёт ценных бумаг и операций с ними» в ООО «ИК КРЭСКО Финанс»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-self-development-accounting-of-securities-and-operations-with-them-ooo-ik-kresko-finance.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_145">
+		<div class="news-item-date">
+			01.09.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-a-budgeting-subsystem-in-ooo-request-service.html"><img class="lazyload" data-src="" alt="Внедрена подсистема бюджетирования в ООО &quot;Риквест Сервис&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-a-budgeting-subsystem-in-ooo-request-service.html">Внедрена подсистема бюджетирования в ООО &quot;Риквест Сервис&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-a-budgeting-subsystem-in-ooo-request-service.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_144">
+		<div class="news-item-date">
+			01.06.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/introduced-system-preparation-of-consolidated-management-reporting-ooo-request-service.html"><img class="lazyload" data-src="" alt="Внедрена подсистема подготовки консолидированной управленческой отчетности ООО &quot;Риквест Сервис&quot;"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/introduced-system-preparation-of-consolidated-management-reporting-ooo-request-service.html">Внедрена подсистема подготовки консолидированной управленческой отчетности ООО &quot;Риквест Сервис&quot;</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/introduced-system-preparation-of-consolidated-management-reporting-ooo-request-service.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_143">
+		<div class="news-item-date">
+			27.05.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-self-development-budgeting-in-the-group-of-companies-of-energoprom.html"><img class="lazyload" data-src="" alt="Внедрена собственная разработка &quot;Бюджетирование&quot; в группе компаний ЭНЕРГОПРОМ"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-self-development-budgeting-in-the-group-of-companies-of-energoprom.html">Внедрена собственная разработка &quot;Бюджетирование&quot; в группе компаний ЭНЕРГОПРОМ</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-self-development-budgeting-in-the-group-of-companies-of-energoprom.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_151">
+		<div class="news-item-date">
+			31.01.2014		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-soliton-was-in-the-list-of-best-companies-2013-for-automation.html"><img class="lazyload" data-src="" alt="Компания «Солитон» попала в список &quot;лучшие компании 2013 по автоматизации производства"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-soliton-was-in-the-list-of-best-companies-2013-for-automation.html">Компания «Солитон» попала в список &quot;лучшие компании 2013 по автоматизации производства</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-soliton-was-in-the-list-of-best-companies-2013-for-automation.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_104">
+		<div class="news-item-date">
+			31.12.2013		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implemented-automation-of-preparation-of-the-consolidated-statements-of-cjsc-energoprom-management.html"><img class="lazyload" data-src="" alt="Внедрена автоматизация подготовки консолидированной отчетности в ЗАО «ЭНЕРГОПРОМ МЕНЕДЖМЕНТ»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implemented-automation-of-preparation-of-the-consolidated-statements-of-cjsc-energoprom-management.html">Внедрена автоматизация подготовки консолидированной отчетности в ЗАО «ЭНЕРГОПРОМ МЕНЕДЖМЕНТ»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implemented-automation-of-preparation-of-the-consolidated-statements-of-cjsc-energoprom-management.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_103">
+		<div class="news-item-date">
+			18.06.2013		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/implementation-of-the-budgeting-system-center-of-financial-responsibility-and-consolidation-on-the-b.html"><img class="lazyload" data-src="" alt="Внедрение системы бюджетирования, центра финансовой ответственности, консолидации на базе 1С"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/implementation-of-the-budgeting-system-center-of-financial-responsibility-and-consolidation-on-the-b.html">Внедрение системы бюджетирования, центра финансовой ответственности, консолидации на базе 1С</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/implementation-of-the-budgeting-system-center-of-financial-responsibility-and-consolidation-on-the-b.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_102">
+		<div class="news-item-date">
+			10.06.2013		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/the-company-soliton-was-presented-at-the-annual-conference-of-1c.html"><img class="lazyload" data-src="" alt="Компанию «Солитон» представляли на ежегодной конференции фирмы 1С"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/the-company-soliton-was-presented-at-the-annual-conference-of-1c.html">Компанию «Солитон» представляли на ежегодной конференции фирмы 1С</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/the-company-soliton-was-presented-at-the-annual-conference-of-1c.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_101">
+		<div class="news-item-date">
+			01.05.2013		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/embedded-automation-distributed-management-accounting-system-in-cjsc-energoprom-management.html"><img class="lazyload" data-src="" alt="Внедрена автоматизация распределённой системы управленческого учета в ЗАО «ЭНЕРГОПРОМ МЕНЕДЖМЕНТ»"></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/embedded-automation-distributed-management-accounting-system-in-cjsc-energoprom-management.html">Внедрена автоматизация распределённой системы управленческого учета в ЗАО «ЭНЕРГОПРОМ МЕНЕДЖМЕНТ»</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/embedded-automation-distributed-management-accounting-system-in-cjsc-energoprom-management.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_100">
+		<div class="news-item-date">
+			01.03.2013		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/embedded-subsystem-cash-management-treasury-at-jsc-moscow-jewelry-factory.html"><img class="lazyload" data-src="" alt="Внедрена подсистема управления денежными средствами (казначейство) в ОАО Московский Ювелирный завод."></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/embedded-subsystem-cash-management-treasury-at-jsc-moscow-jewelry-factory.html">Внедрена подсистема управления денежными средствами (казначейство) в ОАО Московский Ювелирный завод.</a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/embedded-subsystem-cash-management-treasury-at-jsc-moscow-jewelry-factory.html">подробнее</a>
+		</div>
+	</div>
+		<div class="news-item" id="bx_3218110189_99">
+		<div class="news-item-date">
+			01.06.2011		</div>
+		<div class="news-item-img">
+			<a href="/news/company-news/embedded-subsystem-of-management-accounting-and-budgeting-in-ooo-assectators-.html"><img class="lazyload" data-src="" alt="Внедрена подсистема управленческого учета и бюджетирования в ООО ЭкзектПартнерсГруп "></a>
+		</div>
+		<div class="news-item-description">
+			<a href="/news/company-news/embedded-subsystem-of-management-accounting-and-budgeting-in-ooo-assectators-.html">Внедрена подсистема управленческого учета и бюджетирования в ООО ЭкзектПартнерсГруп </a>
+		</div>
+		<div class="news-item-detail">
+			<a href="/news/company-news/embedded-subsystem-of-management-accounting-and-budgeting-in-ooo-assectators-.html">подробнее</a>
+		</div>
+	</div>
+
+</div>
+		</div>
+		 <div class="block-blue-all-width">
+	<div class="container">
+		<form onsubmit="submitajaxform(this)">
+			<div class="forma-home">
+				<div class="form-title">
+					 Если у вас есть вопросы, задайте их нашему специалисту
+				</div>
+				<div class="form-description">
+					 Мы поможем Вам утчонить задачу и найти оптимальный способ её решения
+				</div>
+				<div class="form-group">
+					<div class="row">
+						<div class="col-12 col-md-4">
+ <input class="form-control" type="text" name="FIO" placeholder="Ваше имя" required="">
+						</div>
+						<div class="col-12 col-md-4">
+ <input class="form-control" type="text" name="PHONE" placeholder="Телефон" required="">
+						</div>
+						<div class="col-12 col-md-4">
+ <input class="form-control" type="email" name="EMAIL" placeholder="e-mail" required="">
+						</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<div class="row">
+						<div class="col-12 col-md-12">
+ <textarea class="form-control" name="COMMENT" placeholder="Ваши комментарии, время удобное для связи"></textarea>
+						</div>
+					</div>
+				</div>
+				<div class="form-description-bottom">
+					 При обращении к нам мы гарантируем конфиденциальность
+				</div>
+ <input type="submit" value="Отправить" class="btn btn-blue">
+				<div class="mt-1" style="font-size:14px; color:#fff;">
+ <span style="color: #000000;">Нажимая на кнопку "Отправить", я даю свое согласие на обработку моих персональных данных и принимаю</span> <a href="/user-agreement.html">условия соглашения</a>
+				</div>
+			</div>
+		</form>
+		<div class="block-blue-all-width-footer text-center">
+			 Вы также можете позвонить по телефону <a href="tel:+79055206496">8 (905) 520-64-96</a> Исаеву Вадиму;<br>
+			 Также можно написать по почте: <a href="mailto:v.isaev@solitonkg.ru">v.isaev@solitonkg.ru</a>
+		</div>
+	</div>
+</div>
+<br>		<div class="container">
+			 <div class="block-blue-title2 text-center news-titl">
+	Наши клиенты
+</div>
+<div class="owl-carousel customers-home-carousel">
+		<div class="customers-item" id="bx_651765591_194">
+		<div class="news-item-img">
+			<a href="/customers/all/zao-energoprom-menedzhment.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/e9f/266_140_0/e9fcd263644891b28bc745ce8addfbae.jpg" alt="Группа ЭПМ / ЭПМ-МЕНЕДЖМЕНТ"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/zao-energoprom-menedzhment.html">Группа ЭПМ / ЭПМ-МЕНЕДЖМЕНТ</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_195">
+		<div class="news-item-img">
+			<a href="/customers/all/the-state-company-russian-highways.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/36f/266_140_0/36fe8bad63ed60a44ff50abd689ed072.jpg" alt="ГК Российские автомобильные дороги (Автодор)"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/the-state-company-russian-highways.html">ГК Российские автомобильные дороги (Автодор)</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_210">
+		<div class="news-item-img">
+			<a href="/customers/all/avtodor-platnye-dorogi.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/97b/266_140_0/97b8ec1f79dccad849e681dc58fee7ca.png" alt="Автодор-Платные Дороги"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/avtodor-platnye-dorogi.html">Автодор-Платные Дороги</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_336">
+		<div class="news-item-img">
+			<a href="/customers/all/united-engine-corporation-formerly-odk-pc-fireworks-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/ca9/266_140_0/ca96790bdcf1f30f9b8e2f33e868605f.jpg" alt="Объединенная двигателестроительная корпорация (ранее - ОДК ПК Салют)."></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/united-engine-corporation-formerly-odk-pc-fireworks-.html">Объединенная двигателестроительная корпорация (ранее - ОДК ПК Салют).</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_284">
+		<div class="news-item-img">
+			<a href="/customers/all/npf-bask.html"><img class="lazyload" data-src="/upload/iblock/63d/63d257c8152d21d3bc2fe0a6e5654f78.png" alt="НПФ БАСК"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/npf-bask.html">НПФ БАСК</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_298">
+		<div class="news-item-img">
+			<a href="/customers/all/jsc-rusatom-service.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/259/266_140_0/259d4b62210c1e9e7123cd4434f39284.jpeg" alt="АО Русатом Сервис"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/jsc-rusatom-service.html">АО Русатом Сервис</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_351">
+		<div class="news-item-img">
+			<a href="/customers/all/rossiyskie-kosmicheskie-sistemy.html"><img class="lazyload" data-src="/upload/iblock/ca7/ca72aab20dbef226b2623f7b53c6e0df.jpg" alt="Российские космические системы"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/rossiyskie-kosmicheskie-sistemy.html">Российские космические системы</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_359">
+		<div class="news-item-img">
+			<a href="/customers/all/pjsc-karacharovsky-mechanical-plant.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/05b/266_140_0/05bbdfd86db6542bd90b71e4554a94a5.jpg" alt="Карачаровский Механический Завод"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/pjsc-karacharovsky-mechanical-plant.html">Карачаровский Механический Завод</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_338">
+		<div class="news-item-img">
+			<a href="/customers/all/factory-ventilation-galvent.html"><img class="lazyload" data-src="/upload/iblock/cf0/cf00fe4a42a9436ab6ff265af0787f8e.jpg" alt="Фабрика вентиляции &quot;ГалВент&quot;"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/factory-ventilation-galvent.html">Фабрика вентиляции &quot;ГалВент&quot;</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_291">
+		<div class="news-item-img">
+			<a href="/customers/all/pjsc-micron.html"><img class="lazyload" data-src="/upload/iblock/468/4683d59cf03e3dd3b19aebcb9d6e5c7a.jpg" alt="ПАО Микрон"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/pjsc-micron.html">ПАО Микрон</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_339">
+		<div class="news-item-img">
+			<a href="/customers/all/fpg-energokontrakt.html"><img class="lazyload" data-src="/upload/iblock/6af/6afbfb6f42125b817f653829614bdfa7.jpg" alt="ФПГ ЭНЕРГОКОНТРАКТ"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/fpg-energokontrakt.html">ФПГ ЭНЕРГОКОНТРАКТ</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_360">
+		<div class="news-item-img">
+			<a href="/customers/all/proizvodstvennaya-kompaniya-fensis-fensys.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/1ff/266_140_0/1ff3bd1d15f9191482dcd9800f787a20.jpg" alt="производственная компания ФЕНСИС (FENSYS)"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/proizvodstvennaya-kompaniya-fensis-fensys.html">производственная компания ФЕНСИС (FENSYS)</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_361">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-don.html"><img class="lazyload" data-src="/upload/iblock/a9b/a9bd3d77d245bfcccda1534df03f94b0.jpeg" alt="ООО Дон"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-don.html">ООО Дон</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_356">
+		<div class="news-item-img">
+			<a href="/customers/all/ano-stan-chempionom.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/645/266_140_0/6459bc10b41a9c9475eafc5d402b3141.jpg" alt="АНО &quot;Стань Чемпионом&quot;"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ano-stan-chempionom.html">АНО &quot;Стань Чемпионом&quot;</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_308">
+		<div class="news-item-img">
+			<a href="/customers/all/ngo-national-federation-of-dancing-sports-and-acrobatic-rock-n-roll.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/30c/266_140_0/30cb7d54999c70b958d923cb0df71182.jpg" alt="НКО Всероссийская федерация танцевального спорта и акробатического рок-н-ролла"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ngo-national-federation-of-dancing-sports-and-acrobatic-rock-n-roll.html">НКО Всероссийская федерация танцевального спорта и акробатического рок-н-ролла</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_283">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-ifc-ferratum-rasha-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/16f/266_140_0/16fafa1176b79e51315bad4ec8a26432.png" alt="МФК Ферратум Раша"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-ifc-ferratum-rasha-.html">МФК Ферратум Раша</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_226">
+		<div class="news-item-img">
+			<a href="/customers/all/loko.html"><img class="lazyload" data-src="/upload/iblock/de1/de16f1b1532337d5f13f527088dc1d5e.gif" alt="ИК ЛОКО-Инвест"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/loko.html">ИК ЛОКО-Инвест</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_225">
+		<div class="news-item-img">
+			<a href="/customers/all/management-company-management-of-investments.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/e71/266_140_0/e71679210bee0c0e6ac597ae62c7fbcf.png" alt="УК Управление Инвестициями"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/management-company-management-of-investments.html">УК Управление Инвестициями</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_213">
+		<div class="news-item-img">
+			<a href="/customers/all/mavt-vinoteka.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/19b/266_140_0/19b4914d4473ea5ef68e36c791cc9ac6.png" alt="МАВТ-Винотека"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/mavt-vinoteka.html">МАВТ-Винотека</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_199">
+		<div class="news-item-img">
+			<a href="/customers/all/oao-gornopromyshlennaya-finansovaya-kompaniya.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/fdf/266_140_0/fdf7024c57559dbdffce6437b56e1691.jpg" alt="Горнопромышленная финансовая компания (ГПФК)"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/oao-gornopromyshlennaya-finansovaya-kompaniya.html">Горнопромышленная финансовая компания (ГПФК)</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_305">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-hazardfree.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/206/266_140_0/206fdb7483f6813b54af0c8131ee7861.jpg" alt="ООО ГАС (Газартстрой)"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-hazardfree.html">ООО ГАС (Газартстрой)</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_202">
+		<div class="news-item-img">
+			<a href="/customers/all/Kresko-Finans.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/c33/266_140_0/c337923b6dd37d8a6e63fb7bea2468c2.jpeg" alt="ИК Крэско Финанс"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Kresko-Finans.html">ИК Крэско Финанс</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_332">
+		<div class="news-item-img">
+			<a href="/customers/all/titan-power-solutions-tps.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/105/266_140_0/105716393d3d25bf2d9a0c35090a566a.jpg" alt="Titan Powers Solutions (ТПС)"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/titan-power-solutions-tps.html">Titan Powers Solutions (ТПС)</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_307">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-nicole.html"><img class="lazyload" data-src="/upload/iblock/6ca/6ca61715fd0bbba4ed6b1065cd900a20.png" alt="Николь"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-nicole.html">Николь</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_193">
+		<div class="news-item-img">
+			<a href="/customers/all/OAO-Moskovskij-juvelirnyj-zavod.html"><img class="lazyload" data-src="/upload/iblock/215/215b9f0c5745c6b640b27001d81ecfe2.jpg" alt="Московский ювелирный завод"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/OAO-Moskovskij-juvelirnyj-zavod.html">Московский ювелирный завод</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_200">
+		<div class="news-item-img">
+			<a href="/customers/all/NPO-TEHNOMASh.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/810/266_140_0/8104218e6edeca31c1db9e02f4757a6d.jpg" alt="НПО Техномаш"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/NPO-TEHNOMASh.html">НПО Техномаш</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_205">
+		<div class="news-item-img">
+			<a href="/customers/all/Evropeum-Koncept.html"><img class="lazyload" data-src="/upload/iblock/0ec/0ec35d29f394bd656294315cfe46c155.jpg" alt="Европеум Концепт"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Evropeum-Koncept.html">Европеум Концепт</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_212">
+		<div class="news-item-img">
+			<a href="/customers/all/the-ministry-of-energy-of-the-russian-federation.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/579/266_140_0/57964adf80779202fe26309abd3dc8ca.png" alt="Министерство энергетики Российской Федерации"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/the-ministry-of-energy-of-the-russian-federation.html">Министерство энергетики Российской Федерации</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_310">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-tsc-metrology.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/5af/266_140_0/5afa952ef0e26e30c1e984e76e90a70f.png" alt="ТСК Метрология"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-tsc-metrology.html">ТСК Метрология</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_309">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-grineko.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/f35/266_140_0/f35c41727aa25fef928f9ef8b15eb611.png" alt="ООО ГринЭко"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-grineko.html">ООО ГринЭко</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_299">
+		<div class="news-item-img">
+			<a href="/customers/all/jsc-atomtekheksport.html"><img class="lazyload" data-src="/upload/iblock/008/0083ba31103036fd685db25f4bece313.png" alt="АО Атомтехэкспорт"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/jsc-atomtekheksport.html">АО Атомтехэкспорт</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_286">
+		<div class="news-item-img">
+			<a href="/customers/all/tk-service-region-.html"><img class="lazyload" data-src="/upload/iblock/b9f/b9f10dfb9adcf31da9f74ae9a5f07fc8.jpg" alt="ТК Сервис Регион"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/tk-service-region-.html">ТК Сервис Регион</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_340">
+		<div class="news-item-img">
+			<a href="/customers/all/russian-panel-of-groups.html"><img class="lazyload" data-src="/upload/iblock/10f/10f99fe7c8279a5b3cac76f16ead3723.jpg" alt="Русская Панель Групп"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/russian-panel-of-groups.html">Русская Панель Групп</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_306">
+		<div class="news-item-img">
+			<a href="/customers/all/coon-east.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/d39/266_140_0/d398a07b613493a95d509ed5ff7d92e6.png" alt="КУН ВОСТОК"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/coon-east.html">КУН ВОСТОК</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_282">
+		<div class="news-item-img">
+			<a href="/customers/all/mkk-ooo-baybol-.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/3df/266_140_0/3df77be03240c847858769a92f5fdf94.jpg" alt="МКК Байбол"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/mkk-ooo-baybol-.html">МКК Байбол</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_214">
+		<div class="news-item-img">
+			<a href="/customers/all/asset-management.html"><img class="lazyload" data-src="/upload/iblock/d15/d151847212e13144bfdeb8550871da57.png" alt="Эссет Менеджмент"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/asset-management.html">Эссет Менеджмент</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_218">
+		<div class="news-item-img">
+			<a href="/customers/all/kremlin-am.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/d97/266_140_0/d9743692eba1fc42a3019e0ba4b6696d.png" alt="УК Кремль"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/kremlin-am.html">УК Кремль</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_221">
+		<div class="news-item-img">
+			<a href="/customers/all/8.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/032/266_140_0/032a951b44f07a6e6abfa314d3a5b114.jpg" alt="УК Меркури Кэпитал Траст"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/8.html">УК Меркури Кэпитал Траст</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_256">
+		<div class="news-item-img">
+			<a href="/customers/all/mkk-ooo-prostoden-gi.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/70c/266_140_0/70c12e603a01f95a86ef232ecdbcaa0c.png" alt="ФинТерра / МКК ПростоДЕНЬГИ"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/mkk-ooo-prostoden-gi.html">ФинТерра / МКК ПростоДЕНЬГИ</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_279">
+		<div class="news-item-img">
+			<a href="/customers/all/mfk-ooo-lime-loan.html"><img class="lazyload" data-src="/upload/iblock/749/74951559e2ef401d1a8b012d828bc74c.jpg" alt="МФК ЛАЙМ-ЗАЙМ"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/mfk-ooo-lime-loan.html">МФК ЛАЙМ-ЗАЙМ</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_270">
+		<div class="news-item-img">
+			<a href="/customers/all/jsc-ifc-dvm-invest.html"><img class="lazyload" data-src="/upload/iblock/970/970587871d03db8fe7b3fa72c97d6727.jpg" alt="ИФК ДВМ-ИНВЕСТ"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/jsc-ifc-dvm-invest.html">ИФК ДВМ-ИНВЕСТ</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_209">
+		<div class="news-item-img">
+			<a href="/customers/all/Gruppa-E4.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/7fd/266_140_0/7fdb47ecbb4b51a96c2f5c5cacecd63f.jpg" alt="Группа Е4"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Gruppa-E4.html">Группа Е4</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_198">
+		<div class="news-item-img">
+			<a href="/customers/all/OOO-Lukas-zoloto.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/d7d/266_140_0/d7dd2af24da34d8637837e138272fd48.png" alt="Лукас Золото"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/OOO-Lukas-zoloto.html">Лукас Золото</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_206">
+		<div class="news-item-img">
+			<a href="/customers/all/revo-tekhnologii.html"><img class="lazyload" data-src="/upload/iblock/0a6/0a6f7b8db8671c779126a0e52b66a9ec.png" alt="Рево Технологии"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/revo-tekhnologii.html">Рево Технологии</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_215">
+		<div class="news-item-img">
+			<a href="/customers/all/investment-company-ric-finance.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/bb0/266_140_0/bb08e6217486c92156c4d986bc3cc9ba.jpg" alt="ИК РИК-Финанс"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/investment-company-ric-finance.html">ИК РИК-Финанс</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_216">
+		<div class="news-item-img">
+			<a href="/customers/all/firma-rezerv-invest.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/deb/266_140_0/deb1566af438fb4c45d7ae899140838f.png" alt="Фирма Резерв-Инвест"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/firma-rezerv-invest.html">Фирма Резерв-Инвест</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_222">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-uk-subcapitalist.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/95e/266_140_0/95e617c562b65cddfeb947ea36b4b176.png" alt="УК СибКапиталТраст"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-uk-subcapitalist.html">УК СибКапиталТраст</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_223">
+		<div class="news-item-img">
+			<a href="/customers/all/9.html"><img class="lazyload" data-src="/upload/iblock/01a/01aab697d60271a83a810532604b4682.gif" alt="УК Прогресс-Финанс"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/9.html">УК Прогресс-Финанс</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_259">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-uk-prime-asset-management.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/b7c/266_140_0/b7c6cfe040fcd16e2212528bfc8093d7.png" alt="УК ПРАЙМ ЭССЕТ МЕНЕДЖМЕНТ"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-uk-prime-asset-management.html">УК ПРАЙМ ЭССЕТ МЕНЕДЖМЕНТ</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_250">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-russian-capital-mutual-funds.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/688/266_140_0/6884508ec4bfc36a4304391900732008.png" alt="Русский Капитал Паевые Фонды"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-russian-capital-mutual-funds.html">Русский Капитал Паевые Фонды</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_264">
+		<div class="news-item-img">
+			<a href="/customers/all/mkk-ooo-ampersand.html"><img class="lazyload" data-src="/upload/iblock/c96/c964c3b6cdf2409b5363473734612359.jpg" alt="МКК Амперсанд"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/mkk-ooo-ampersand.html">МКК Амперсанд</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_269">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-uk-fond.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/0ec/266_140_0/0eca15858d276857afa8f1107e2fff05.png" alt="УК МФОНД"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-uk-fond.html">УК МФОНД</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_278">
+		<div class="news-item-img">
+			<a href="/customers/all/mkk-ooo-people-money-m.html"><img class="lazyload" data-src="/upload/iblock/104/10401f2907d6f37d04123ec500b89891.png" alt="МКК Деньги населению-М"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/mkk-ooo-people-money-m.html">МКК Деньги населению-М</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_258">
+		<div class="news-item-img">
+			<a href="/customers/all/ooo-maksvell-the-capital-management.html"><img class="lazyload" data-src="/upload/iblock/48c/48c0af379187d0d4b5ceaecb56d957e6.jpg" alt="Максвелл Капитал Менеджмент"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/ooo-maksvell-the-capital-management.html">Максвелл Капитал Менеджмент</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_219">
+		<div class="news-item-img">
+			<a href="/customers/all/insedins.html"><img class="lazyload" data-src="/upload/iblock/c9f/c9fd1fbb6bce981d826f7015962cc90d.jpg" alt="Страховой брокер ЕДИНСТВО"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/insedins.html">Страховой брокер ЕДИНСТВО</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_217">
+		<div class="news-item-img">
+			<a href="/customers/all/Asset-Management-Centre.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/e6f/266_140_0/e6f3c9d5c98d6ec5601cbab196f19cc1.jpg" alt="УК Центр Эссет Менеджмент"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Asset-Management-Centre.html">УК Центр Эссет Менеджмент</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_211">
+		<div class="news-item-img">
+			<a href="/customers/all/gosudarstvennoe-unitarnoe-predpriyatie-goroda-moskvy-moskovskiy-sotsialnyy-registr.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/2b7/266_140_0/2b72a6e3c4f01f5e0ba8000148451c13.png" alt="ГУП Москвы «Московский социальный регистр»"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/gosudarstvennoe-unitarnoe-predpriyatie-goroda-moskvy-moskovskiy-sotsialnyy-registr.html">ГУП Москвы «Московский социальный регистр»</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_196">
+		<div class="news-item-img">
+			<a href="/customers/all/Kompanija-Rikvest-Servis.html"><img class="lazyload" data-src="/upload/iblock/432/4327276e8d42719f3a0d9456351378f7.png" alt="Риквэст Сервис"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Kompanija-Rikvest-Servis.html">Риквэст Сервис</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_208">
+		<div class="news-item-img">
+			<a href="/customers/all/federalnoe-gosudarstvennoe-byudzhetnoe-uchrezhdenie-spetsializirovannyy-tsentr-ucheta-v-agropromyshl.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/4ea/266_140_0/4eaf4fb4690fddfb19f4fc01c7b9d443.jpg" alt="Центр Агроаналитики - Специализированный центр учета в агропромышленном комплексе"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/federalnoe-gosudarstvennoe-byudzhetnoe-uchrezhdenie-spetsializirovannyy-tsentr-ucheta-v-agropromyshl.html">Центр Агроаналитики - Специализированный центр учета в агропромышленном комплексе</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_197">
+		<div class="news-item-img">
+			<a href="/customers/all/Tetris-Solutions.html"><img class="lazyload" data-src="/upload/iblock/400/40055fe23b47924045abdccc71f5783d.png" alt="Tetris Solutions"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Tetris-Solutions.html">Tetris Solutions</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_207">
+		<div class="news-item-img">
+			<a href="/customers/all/tsifrovaya-etiketka.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/0ae/266_140_0/0aec5b42ede3e89d24d1dbd88d45a416.png" alt="ООО Цифровая этикетка"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/tsifrovaya-etiketka.html">ООО Цифровая этикетка</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_201">
+		<div class="news-item-img">
+			<a href="/customers/all/Jekzekt-partenrs-grupp.html"><img class="lazyload" data-src="/upload/resize_cache/iblock/994/266_140_0/994ab22c601798c6be7d9caff54078e6.png" alt="Экзект партнерс групп"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Jekzekt-partenrs-grupp.html">Экзект партнерс групп</a></div>
+	</div>
+		<div class="customers-item" id="bx_651765591_203">
+		<div class="news-item-img">
+			<a href="/customers/all/Komanda-JeR-SI-O.html"><img class="lazyload" data-src="/upload/iblock/0c6/0c6e74ac7db419a859845024312eb28a.png" alt="&quot;ЭР СИ О&quot;"></a>
+		</div>	
+		<div class="custumer_name text-center"><a href="/customers/all/Komanda-JeR-SI-O.html">&quot;ЭР СИ О&quot;</a></div>
+	</div>
+
+</div>
+		</div>
+ <br>
+	</div>
+</div>
+ <br>					</main>
+		<footer>
+			<div class="d-none d-xl-block">
+					<div class="container">
+		<ul class="row">
+					<li class="col-12 col-md lvl-1 footer text-md-center">
+				<a href="/about/">Компания</a>
+			</li>
+					<li class="col-12 col-md lvl-1 footer text-md-center">
+				<a href="/services/">Услуги</a>
+			</li>
+					<li class="col-12 col-md lvl-1 footer text-md-center">
+				<a href="/products/">Продукты</a>
+			</li>
+					<li class="col-12 col-md lvl-1 footer text-md-center">
+				<a href="/customers/">Клиенты</a>
+			</li>
+					<li class="col-12 col-md lvl-1 footer text-md-center">
+				<a href="/prices/">Цены</a>
+			</li>
+					<li class="col-12 col-md lvl-1 footer text-md-center">
+				<a href="/articles/">Статьи</a>
+			</li>
+				</ul>
+	</div>
+		</div>
+			<div class="container">
+				<div class="row mt-4">
+					<div class="col-12 col-md-4 text-center text-md-left phone">
+						<a href="tel:74959843064">+7 (495) 984-30-64</a>
+					</div>
+					<div class="col-12 col-md-4 text-center">
+						<div class="socials">
+						<a href="/sitemap.html" class="mr-4"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+	<g>
+		<rect x="134.095" y="24.381" width="243.81" height="158.476"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="390.095" y="377.905" width="121.905" height="109.714"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="195.048" y="377.905" width="121.905" height="109.714"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect y="377.905" width="121.905" height="109.714"/>
+	</g>
+</g>
+<g>
+	<g>
+		<polygon points="274.286,262.095 274.286,219.429 237.714,219.429 237.714,262.095 42.667,262.095 42.667,341.333 79.238,341.333 
+			79.238,298.667 237.714,298.667 237.714,341.333 274.286,341.333 274.286,298.667 432.762,298.667 432.762,341.333 
+			469.333,341.333 469.333,262.095 		"/>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg></a>
+ 
+<a href="">
+
+<svg 
+							 xmlns="http://www.w3.org/2000/svg"
+							 xmlns:xlink="http://www.w3.org/1999/xlink"
+							 >
+							<image  x="0px" y="0px" width="40px" height="40px"  xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH4wsVFw4VpiQpoAAACOBJREFUWMO1WF1sHFcVPrtrt5sm0ygiKk0itQGJplQgykMFaggItRJCCB6aFJVGQsBbJQRSZjYPWYPURgjhTYVw+wIRUQXOA54Zp3awSZt4Pfvvv8Rek9iJ7dTr9cb13+7asXc3+zP342F+dsZe21uajLSanZl77v3uOd/57rmXANCj+glSmKv13iMFOUEM2L4Zz4aNcX9oYHixNhgDEC+GOUHe3EbYxg4AOQDQ5708coQjIvIdP7q2Y1spxPlOHFsjIhKkCOdwEjnAiDEih9NFvuMv2/t4VOH1SEGOb9PCxkvbe8nXc6M/OjOP9XwZ6cKDIW9nyGz/iLgX5CxAHbXaeDsirn/2TyG1mgNDCVBhXl23ZnyCHHYBoIbPHd8N12k5xPmOH1vzXAo/DgI5HAQiKhnfz/lvPPOdLx/6ifeHL33L3egiBxEROYmcjFRykpMRZXKFKd9rR1Uiejgc3BKsFODgcBYfa3xs31cP7nv6+88d/PmhPbsPk9PxmsYvInIY9woxcpKTnOS7NvhNz6svjTwUDnq2lBKFa746+lYskcJ6qQJABRgAqNpNv5jxngEMDIWSCms/pv7wYojjxSo5BTHAGVpUi+S81MNZ9cvk1uXIF+X43fGlfNECyn4xVjHQWb5rbe8sZRM2gLVmf6pNA8q31yZ4rd/7yghiyQUYbGcWYExHMXIvi0yuUG0DFYVSGelcwWh4oWts5mleCjt1bXXSqbYgVy+IzZkYe0WKT2F5PQ9bGrLqfWkt96/useQv3+ka2N8/s2B+U1FB4UEFzdeuI18uGx68UBV+/+tbelDYQbdalPir0Zn5dkDVPGUCKmm3ioq+5MJCizJ80rDpTyw2maFUGQolhuZrgy+e7R56tjo59VTzx3GXnYMWMFYObvw1dUa+IA1P/X55PV9kKtNIbZJeGyBdKEEa+aS1qaPvoNW2b+bTMwCCxlwy60U0Xxt8EQCd77v5OmPMmOQVm6PEgGPHMLYoo1+LzsxrETDIDYDpJGOMoS+5iPcCo7/YRIHLkX2p7LotMWZX7sPbER0SZKUBAHXfSv3Z8ODtheyfNvZh85wgKhwA8n4YdkjxyefS+fwFMHQCgKpaOAYV6fUi5NE7HzV19h+o7fHYU6lM3kbL2cwavJcjTwqylny8GHCMzGUiTJ9o7+QsBClsJqbQrjSQR6qC+0sgjr7EIioakQBmVS0VKhhiM5+iRRl9yyY57WFbtns7Y/tmV9YtMlNGMrsKb2fkSVsI24N/TedyugbC1zp45zAvhpzQl0tBVjgCQFL8LtLrxWomGpTQ7+lcAWI88e+mzsgmb/FiqNH6fKYzti+ZzdtokMzk0NQROWSzkwKups7YYct4vlqRoPhcGoafNM5XBawvMYf3lJHfmJ22+RsFOdIIbaVo3NiZtyO6P5ldswlwajWHMx9Gn+Kl3t2aZ3ofF6RgIwBq8cerKwnwriD2ugCQR45wAMjTHuCIQdUdZxVYFbGZBZz9Tx80g9AmMIIUbuTbw0/wYrhR59yBlOk5IyHW4e0MQ5CV3bUo0T0+axIolVlDNSpVZaG/Rf6LByW9U2YArYZ6YnkN/+i/+cHvLvcdAECCHDbBeqSgwyMpDt/V6w2zq/f1ocoAA6KJeXg7Ykd4Mey2yEajR1IcAEi4FHFHkyl9mDJiM4sQxM2LhsabjsjzrUN3tNpMn1IFzPQog4pcWUXPxNyKER49zA4AVCgym+eiM4vAJo8rbi1svW491O57WSPL1VlpeOrbpy9FG4zQGspCHkkjLy8rnCCGuHM9I+Ox6QUUigwV2KUFAHomkytGcpzz33Bo1Ye5ElSiiYXztciuK8Ve67MhL2CY1TAEG/TJVEMsSGGu1goiiArXOnAHI/eWzGxmFRMMNV+9/qN8Sa1KEQOi00vnNc/6tTBK/r2n5IB7szfD7vcDw22mRjKW8EhBlyBp4m2hBKenfJjzSPq2zwKWlzVOtA5NwXp130qNF0oqGDOIoBajifnzvBh21fSc1Ov2yCG3RwfLS2G3FL+rqQdjSOeKqLZVOGuNWd+WUo5wqdUcNtd32nMymx3Yzl6Qgpu82DuRMnsZmctAkBVbTWA8111a+SeSL4Dh9Mb608ipieX0tXe6Bw9uBMXLYbcg6wliATq5vGLQ5e3uscTzW437meo/FRAMGeqdvGerjBkD8qUSxNGpzRksBtyCGDQTxCNF3BWYhcfbW0ZODHHOOndqLtL2N06CZjK1mP3eOX/8yOz9tQvkYEQOol0NjXT8hS/R5GIaf/ho4MeGve/Edx/4ThxbNZ73c7t+7SIXETEiIjp7ZWiPtpEPc6cvBbnPtHG3nJU0TKQzZWPasen5JgDkn5r9rSnwDKZf8sUypJEpCFKvjX8eSdnben28YFA4X6rAo++jaxXK9W3E2zVB7hpLXKzoFfFyviDOZtY+ABAyEka1rEIGVyeWVuHtiD7Lt2sh9rQH3F1j0yaHJxZXtgyxIOnVTD0e1LRv4BuqJXvNTNY91jo4jp7J1CtQcRFQLxpIC+Uy/h65fdsQ6onF+6Zt93jyp9uNvyMHHZb/S/fLn5QqFSJyEhxERIxATppczNK7/ht/HJ5efrI7Pq2Qk05mCsU5IiI4iNwNDfSrl79y5OTRr680dfTj0N4ndPo5KZVdm9oWQL0ZLIjakjhyL2247gqAK91jiR8Yi7wgRziPFHRBK1p39UymbF6GvqZbi5Hmj0f3bMh4y948vHOIecm+DDZfHe5fXnuAiaW0yZ1aS+VpWXvXotx8ZilfbAEgmpIEANC2moLYu+Eg017R7Ow5/dBxoyEvRZx8W7hBEAPGJru6EpiZX7XxTyTfrFizhwG3FzM2zfRIwf8ziy1HIHy7ov/vqWvDz0shc79yPjL2s0K5rG2NwdA7mRrYDlzdAKudRA/VrHzMCYQ4w3tbHSp5O2PurvHEG11j0296O/oadxqzbnAGF4UdAGwM7UbxFaSgczvuGu/5eg/RdzoGsQ6iHfsqXL229fRZv5Fl4K0yri4+yxuL0q2PWwRZ4f4HSc04j7A0fDMAAAAASUVORK5CYII=" />
+							</svg></a>
+							<a href=""><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+							<a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+							<a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>						</div>
+					</div>
+					<div class="col-12 col-md-4 text-center text-md-right">
+						e-mail: <a href="mailto:info@solitonkg.ru">info@solitonkg.ru</a>
+					</div>
+				</div>
+				<div class="row mt-5">
+					<div class="col-12 text-center">
+						<div class="footer-description">
+						© 2022 компания «Солитон Консалтинг Групп»<br>
+Количество ссылающихся сайтов: 
+333
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</footer>
+
+<div class="punctir">
+</div>
+	<a href="javascript:void(0)" rel="nofollow" class="top"></a>
+	<a onclick="javascript:history.back(); return false;" class="back"></a>
+
+<div id="fsho">
+<div class="block-blue-all-width">
+	<div class="container">
+		<form onsubmit="submitajaxform(this)">
+			<div class="forma-home">
+				<div class="form-title">
+					 Если у вас есть вопросы, задайте их нашему специалисту
+				</div>
+				<div class="form-description">
+					 Мы поможем Вам утчонить задачу и найти оптимальный способ её решения
+				</div>
+				<div class="form-group">
+					<div class="row">
+						<div class="col-12 col-md-4">
+ <input class="form-control" type="text" name="FIO" placeholder="Ваше имя" required="">
+						</div>
+						<div class="col-12 col-md-4">
+ <input class="form-control" type="text" name="PHONE" placeholder="Телефон" required="">
+						</div>
+						<div class="col-12 col-md-4">
+ <input class="form-control" type="email" name="EMAIL" placeholder="e-mail" required="">
+						</div>
+					</div>
+				</div>
+				<div class="form-group">
+					<div class="row">
+						<div class="col-12 col-md-12">
+ <textarea class="form-control" name="COMMENT" placeholder="Ваши комментарии, время удобное для связи"></textarea>
+						</div>
+					</div>
+				</div>
+				<div class="form-description-bottom">
+					 При обращении к нам мы гарантируем конфиденциальность
+				</div>
+ <input type="submit" value="Отправить" class="btn btn-blue">
+				<div class="mt-1" style="font-size:14px; color:#fff;">
+ <span style="color: #000000;">Нажимая на кнопку "Отправить", я даю свое согласие на обработку моих персональных данных и принимаю</span> <a href="/user-agreement.html">условия соглашения</a>
+				</div>
+			</div>
+		</form>
+		<div class="block-blue-all-width-footer text-center">
+			 Вы также можете позвонить по телефону <a href="tel:+79055206496">8 (905) 520-64-96</a> Исаеву Вадиму;<br>
+			 Также можно написать по почте: <a href="mailto:v.isaev@solitonkg.ru">v.isaev@solitonkg.ru</a>
+		</div>
+	</div>
+</div>
+<br></div>
+<!-- Yandex.Metrika counter -->  <noscript><div><img src="https://mc.yandex.ru/watch/38788650" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+	<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'SOLITONKG','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/'});</script><script type="text/javascript" src="/bitrix/cache/js/s1/empty/kernel_main/kernel_main.js?1579527562305209"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?15795271828699"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?157952718211191"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js','/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/json/json2.min.js','/bitrix/js/main/core/core_ls.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/core/core_popup.js','/bitrix/js/main/session.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js','/bitrix/templates/empty/assets/dist/js/jquery-3.4.1.min.js','/bitrix/templates/empty/assets/dist/js/bootstrap.min.js','/bitrix/templates/empty/assets/dist/js/owl.carousel.min.js','/bitrix/templates/empty/assets/dist/fancybox/dist/jquery.fancybox.min.js','/bitrix/components/bitrix/menu/templates/catalog_horizontal/script.js']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/core/css/core_popup.css','/bitrix/js/main/core/css/core_date.css','/bitrix/templates/empty/assets/dist/font-awesome-4.7.0/css/font-awesome.min.css','/bitrix/templates/empty/assets/fonts/roboto.css','/bitrix/templates/empty/assets/dist/css/bootstrap.min.css','/bitrix/templates/empty/assets/dist/css/bootstrap-grid.min.css','/bitrix/templates/empty/assets/dist/css/owl.carousel.min.css','/bitrix/templates/empty/assets/dist/css/owl.theme.default.min.css','/bitrix/templates/empty/assets/dist/fancybox/dist/jquery.fancybox.min.css','/bitrix/templates/empty/components/bitrix/menu/horizontal_multilevel1/style.css','/bitrix/components/bitrix/menu/templates/catalog_horizontal/style.css','/bitrix/components/bitrix/menu/templates/catalog_horizontal/themes/black/colors.css','/bitrix/css/main/font-awesome.css','/bitrix/templates/empty/components/bitrix/menu/horizontal_multilevel2/style.css','/bitrix/templates/empty/template_styles.css']); </script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+<script type="text/javascript" src="/bitrix/cache/js/s1/empty/template_7d7237211b9403cc33b6b3f963d88c95/template_7d7237211b9403cc33b6b3f963d88c95.js?1579527551271976"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "fb1c3be695ee6bcaca373c9dde02b45e"]); _ba.push(["host", "solitonkg.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script>
+	var lvl1 =  document.querySelectorAll(".lvl-1");
+	for(var q = 0; q < lvl1.length; q++){
+		lvl1[q].onmouseover = function(){
+			var lvl2 = document.querySelectorAll(".show-lvl-2");		
+			for(var w = 0; w < lvl2.length; w++){
+				lvl2[w].style.display = "none";
+			}
+			if(document.getElementById(this.getAttribute("data-id"))){
+			document.getElementById(this.getAttribute("data-id")).style.display = "block";
+			}
+		}
+	}
+	document.querySelector("header").onmouseover = function(){
+
+		var lvl2 = document.querySelectorAll(".show-lvl-2");		
+		for(var w = 0; w < lvl2.length; w++){
+			lvl2[w].style.display = "none";
+		}
+	}
+	document.querySelector("main").onmouseover = function(){
+
+		var lvl2 = document.querySelectorAll(".show-lvl-2");		
+		for(var w = 0; w < lvl2.length; w++){
+			lvl2[w].style.display = "none";
+		}
+	}
+	document.querySelector("footer").onmouseover = function(){
+
+		var lvl2 = document.querySelectorAll(".show-lvl-2");		
+		for(var w = 0; w < lvl2.length; w++){
+			lvl2[w].style.display = "none";
+		}
+	}
+</script><script>
+	BX.ready(function () {
+		window.obj_catalog_menu_XEVOpk = new BX.Main.Menu.CatalogHorizontal('catalog_menu_XEVOpk', {'1430168220':{'PICTURE':'','DESC':''},'525308825':{'PICTURE':'','DESC':''},'3760404486':{'PICTURE':'','DESC':''},'3529809389':{'PICTURE':'','DESC':''},'275883318':{'PICTURE':'','DESC':''},'2478813668':{'PICTURE':'','DESC':''},'188323522':{'PICTURE':'','DESC':''},'4128972108':{'PICTURE':'','DESC':''},'2445393579':{'PICTURE':'','DESC':''},'1244020641':{'PICTURE':'','DESC':''},'375104239':{'PICTURE':'','DESC':''},'1596677746':{'PICTURE':'','DESC':''},'3530861778':{'PICTURE':'','DESC':''},'1225520353':{'PICTURE':'','DESC':''},'647854669':{'PICTURE':'','DESC':''},'707704369':{'PICTURE':'','DESC':''},'3352240915':{'PICTURE':'','DESC':''},'3027767483':{'PICTURE':'','DESC':''},'2830185295':{'PICTURE':'','DESC':''},'3013115908':{'PICTURE':'','DESC':''},'2177942026':{'PICTURE':'','DESC':''},'1648528496':{'PICTURE':'','DESC':''},'3500569980':{'PICTURE':'','DESC':''},'4223283445':{'PICTURE':'','DESC':''},'1577744079':{'PICTURE':'','DESC':''},'3002906803':{'PICTURE':'','DESC':''},'1500854023':{'PICTURE':'','DESC':''}});
+	});
+</script><script>
+	$(".news-home-carousel").owlCarousel({
+		responsive:{
+			0:{
+				items:1
+			},
+			760:{
+				items:2,
+				margin:30
+			},
+			1100:{
+				items:3,
+				margin:30
+			}
+		},
+		autoplayHoverPause:true,
+		lazyLoad:true,
+		nav:true,
+		loop:false,
+		rewind:true,
+		startPosition:0,
+		autoplay:true,
+		autoplayTimeout:5000,
+		navText:["",""]
+	});
+</script><script>
+	$(".customers-home-carousel").owlCarousel({
+		responsive:{
+			0:{
+				items:2
+			},
+			760:{
+				items:4,
+				margin:30
+			},
+			1100:{
+				items:5,
+				margin:30
+			}
+		},
+		nav:true,
+		loop:false,
+		rewind:true,
+		autoplayHoverPause:true,
+		startPosition:5,
+		lazyLoad:true,
+		navText:["",""]
+	});
+</script><script defer>
+$(document).ready(function(){
+
+	$("a.top").click(function (){
+		var page = $("html, body");
+
+		if ($(window).scrollTop() > 50){
+			page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function(){
+				page.stop();
+			});
+
+			page.animate({
+				scrollTop:0
+			}, 800);
+		}
+			return false;
+		});
+
+$('[data-fancybox]').fancybox({});
+});
+var oPopup = new BX.PopupWindow('call_feedback', window.body, {
+  autoHide : true,
+  offsetTop : 1,
+  offsetLeft : 0,
+  lightShadow : true,
+  closeIcon : true,
+  closeByEsc : true,
+  overlay: {
+	 backgroundColor: 'black', opacity: '80'
+  }
+});
+oPopup.setContent(BX('fsho'));
+BX.bindDelegate(
+  document.body, 'click', {className: 'addform' },
+	 BX.proxy(function(e){
+		if(!e)
+		   e = window.event;
+		oPopup.show();
+		return BX.PreventDefault(e);
+	 }, oPopup)
+);
+</script>
+<script type="text/javascript" async> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter38788650 = new Ya.Metrika({ id:38788650, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script><script async>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82392973-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html><!--78a4a37e4b1ea51666b925f02b6f7fb0-->

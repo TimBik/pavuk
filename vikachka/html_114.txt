@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ru"><head><title>Ïðîñòûå ïîëåçíûå ïðîãðàììû</title><meta http-equiv="Content-type" content="text/html;charset=windows-1251">
+<meta name="description" content="Ïðîñòûå ïîëåçíûå ïðîãðàììû, óäîáíûé èíòåðôåéñ, òîëüêî íåîáõîäèìàÿ ôóíêöèîíàëüíîñòü. Ñêà÷àòü áåñïëàòíî è óñëîâíî-áåñïëàòíî">
+<meta name="keywords" content="ïðîñòûå ïîëåçíûå ïðîãðàììû, ïîëåçíûå ïðîãðàììû, ïðîñòûå ïðîãðàììû, ïðîãðàììû, íîâåéøèå âåðñèè ïðîãðàìì, su-progs">
+<meta name="author" content="Ivan Kurchenko"><meta name="copyright" content="Copyright &copy; Ivan Kurchenko, 2010-2021">
+<link rel="canonical" href="https://www.su-progs.com/"><link rel="alternate" hreflang="ru" href="https://www.su-progs.com/">
+<link rel="alternate" hreflang="uk" href="https://www.su-progs.com/langs/ukr/"><link rel="alternate" hreflang="en" href="https://www.su-progs.com/langs/eng/">
+<link rel="stylesheet" href="/style.css" type="text/css"><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
+<script src="https://connect.facebook.net/en_US/all.js#xfbml=1" type="text/javascript"></script>
+</head><body><div id="tn"><div id="pr"><div id="sy"><div id="du"><div id="fi">
+<div class="ql">SU-Progs&nbsp;</div><div class="wz">ïðîñòûå ïîëåçíûå ïðîãðàììû</div>
+<div id="go"><div class="ql">SU-Progs&nbsp;</div><div class="wz">ïðîñòûå ïîëåçíûå ïðîãðàììû</div>
+</div></div></div></div><div id="at"><img src="/images/kon.png" class="rv" alt="SU-Progs">
+</div></div><div id="hp"><div id="ja"><div id="ks"><a href="/" class="mk">
+<img src="/images/rus.png" alt="ßçûê" title="ßçûê" class="mk"></a><a href="/langs/ukr/" class="mk">
+<img src="/images/ukr.png" alt="Ìîâà" title="Ìîâà" class="mk"></a><a href="/langs/eng/" class="mk">
+<img src="/images/eng.png" alt="English" title="English" class="mk"></a></div><div id="uq">
+&nbsp;
+</div></div><div id="ld"><div id="zf"><div id="ym">
+Ïðîãðàììû äîëæíû îáëåã÷àòü<br>ðàáîòó, à íå óñëîæíÿòü æèçíü
+</div></div></div></div><div id="xg"><div id="ch"><div id="vj"><div class="rc">
+Ãëàâíàÿ<a href="/" class="tv">Ãëàâíàÿ</a><br>
+</div><div class="rc">
+Ñêà÷àòü<a href="download.html" class="tv">Ñêà÷àòü</a><br>
+</div><div class="rc">
+Êàê êóïèòü<a href="buy.html" class="tv">Êàê êóïèòü</a><br>
+</div><div class="rc">
+Êîíòàêòû<a href="contact.html" class="tv">Êîíòàêòû</a><br>
+</div></div><div class="gu">&nbsp;</div><div class="gu">&nbsp;</div><div class="hi">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3095887355223776";
+/* quadro */
+google_ad_slot = "9631617633";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><div class="gu">&nbsp;</div></div>	<!-- navigation --><div id="nl">
+<div id="facebook-like"><script type="text/javascript">
+//<![CDATA[
+var fb = document.createElement('fb:like');
+fb.setAttribute("layout","button_count");
+fb.setAttribute("show_faces","false");
+fb.setAttribute("send","false");
+fb.setAttribute("width","90");
+document.getElementById("facebook-like").appendChild(fb);
+//]]>
+</script></div></div><div id="oe"><div id="mz"><div class="la"><h1 class="la">Ãëàâíàÿ</h1>
+<div class="zs">Ãëàâíàÿ</div></div></div></div><div id="tm"><p class="yn">
+Äðóçüÿ!
+</p><p>
+Íà ýòîì ñàéòå íàõîäÿòñÿ ïðîñòûå è ïîëåçíûå ïðîãðàììû äëÿ êîìïüþòåðà,
+äàþùèå îùóùåíèå êîìôîðòà ïðè ðàáîòå. Èõ îòëè÷àåò óäîáñòâî èíòåðôåéñà, ñêîðîñòü âûïîëíåíèÿ,
+îòñóòñòâèå ëèøíåé ôóíêöèîíàëüíîñòè, ýñòåòè÷åñêàÿ ïðèâëåêàòåëüíîñòü&nbsp;&mdash;
+ýòè êðèòåðèè â ïåðâóþ î÷åðåäü áûëè çàäåéñòâîâàíû ïðè ðàçðàáîòêå.
+</p><div class="jo">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-3095887355223776";
+/* banner */
+google_ad_slot = "9931922774";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div><br><p>
+Âñå ïðîãðàììû, ïðåäñòàâëåííûå íà ñàéòå, ÿâëÿþòñÿ áåñïëàòíûìè (freeware)
+èëè óñëîâíî-áåñïëàòíûìè (shareware).
+<a href="download.html">Ñêà÷àòü</a> ìîæíî íîâåéøèå âåðñèè freeware-ïðîãðàìì
+è âñå âûïóùåííûå âåðñèè shareware-ïðîãðàìì.
+</p><p>
+Îòïðàâèâ ýëåêòðîííîå ïèñüìî ïî àäðåñó ïîääåðæêè ïðîãðàììû,
+âû ìîæåòå âûñêàçàòü ñâîè ïîæåëàíèÿ ê åå ðàáîòå&nbsp;&mdash;
+âîçìîæíî, âàøè ïîæåëàíèÿ áóäóò ó÷òåíû â íîâîé âåðñèè.
+Ñåé÷àñ äëÿ ñêà÷èâàíèÿ äîñòóïíû:
+</p><br><div class="gi"><img src="/images/logo_webserv_small.png" alt="Ïðîñòîé âåá-ñåðâåð (ïîçâîëÿåò îòëàäèòü/îïóáëèêîâàòü ñâîé ñàéò)" class="fu">
+<a href="webserv.html" title="Ïîäðîáíåå î âåá-ñåðâåðå&hellip;">Ïðîñòîé&nbsp;âåá-ñåðâåð</a>&nbsp;&ndash; ïîçâîëÿåò îòëàäèòü/îïóáëèêîâàòü ñâîé ñàéò
+</div><div class="gi"><img src="/images/logo_store_small.png" alt="Storecalc (ïðåäåëüíî ïðîñòàÿ ñêëàäñêàÿ ïðîãðàììà)" class="fu">
+<a href="store.html" title="Ïîäðîáíåå î Storecalc&hellip;">Storecalc</a>&nbsp;&ndash; ïðåäåëüíî ïðîñòàÿ ñêëàäñêàÿ ïðîãðàììà
+</div><div class="gi"><img src="/images/logo_book_small.png" alt="Ñïèñîê êîíòàêòîâ (íàïîìèíàåò î äíÿõ ðîæäåíèÿ)" class="fu">
+<a href="book.html" title="Ïîäðîáíåå î ñïèñêå êîíòàêòîâ&hellip;">Ñïèñîê êîíòàêòîâ</a>&nbsp;&ndash; õðàíèò òåëåôîíû, íàïîìèíàåò î äíÿõ ðîæäåíèÿ
+</div><br><div class="ho">&nbsp;</div></div>	<!-- content --></div>	<!-- pagebody -->
+<div id="qc"><div id="wv"><div id="iw">Copyright&nbsp;&copy;&nbsp;Ivan Kurchenko,&nbsp;2010-2021</div>
+</div><div id="eb">&nbsp;</div></div></div>	<!-- page --><div class="vg">
+&nbsp;
+</div><div class="bh"><div class="nj"><a href="https://validator.w3.org/check?uri=https://www.su-progs.com/">
+<img src="/images/valid_html.png" alt="Valid HTML 4.01 Strict"
+class="qz"></a>
+</div><div class="nj"><a href="https://jigsaw.w3.org/css-validator/check/referer">
+<img src="/images/valid_css.png" alt="Valid CSS!"
+class="qz"></a>
+</div><div class="nj"><!--LiveInternet counter--><script type="text/javascript">
+document.write('<a href="//www.liveinternet.ru/click" '+
+'target="_blank"><img src="//counter.yadro.ru/hit?t52.12;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';h'+escape(document.title.substring(0,150))+';'+Math.random()+
+'" alt="" title="LiveInternet: ïîêàçàíî ÷èñëî ïðîñìîòðîâ è'+
+' ïîñåòèòåëåé çà 24 ÷àñà" '+
+'border="0" width="88" height="31"><\/a>')
+</script><!--/LiveInternet--></div><div class="nj"><!-- Top100 (Kraken) Counter --><script type="text/javascript">
+(function (w, d, c) {
+(w[c] = w[c] || []).push(function() {
+var options = {
+project: 7444851,
+};
+try {
+w.top100Counter = new top100(options);
+} catch(e) { }
+});
+var n = d.getElementsByTagName("script")[0],
+s = d.createElement("script"),
+f = function () { n.parentNode.insertBefore(s, n); };
+s.type = "text/javascript";
+s.async = true;
+s.src =
+(d.location.protocol == "https:" ? "https:" : "http:") +
+"//st.top100.ru/top100/top100.js";
+if (w.opera == "[object Opera]") {
+d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script><noscript><div><img src="//counter.rambler.ru/top100.cnt?pid=7444851" alt="Òîï-100">
+</div></noscript><!-- END Top100 (Kraken) Counter --></div><div class="nj"><!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3217950", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+if (d.getElementById(id)) return;
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+ts.src = "https://top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3217950;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru">
+</div></noscript><!-- //Rating Mail.ru counter --></div></div></body></html>

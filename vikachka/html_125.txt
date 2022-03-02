@@ -1,0 +1,668 @@
+<html>
+<head>
+<script type="text/javascript" src="//s20.ucoz.net/cgi/uutils.fcg?a=uprdata&r=0.174120708083549"></script>
+<script type="text/javascript">
+try{
+	Object.defineProperty(window, "u_global_data", {
+	   value: {
+	   		basic_params:{dcode:"f",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"185.211.159.170",server:"s20",site_type:"ucoz",site_lng:"RU",rndid:"bXPICCKL",ban240pos:"",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"0",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"24",isgoogle:"0",isyandex:"0",ismobile:"0"},
+	   		geo:{city:"Moscow",region:"Moskva"},
+	   		urls:{
+	   			adprru:[],
+	   			adprci:[]
+	   		}
+	   	},
+	   writable: false,
+	   configurable: false
+	});
+	/*var u_global_data={
+		basic_params:{dcode:"f",ads_lite:0,isadblock:1,user_country:"ru",user_ip:"185.211.159.170",server:"s20",site_type:"ucoz",site_lng:"RU",rndid:"bXPICCKL",ban240pos:"",ischild:"0",ispolitic:"0",iswarez:"0",isnative:"1",isdoubtful:"0",isabandoned:"0",iscriteo970:"1",isreligion:"0",iswarn:"0",iabcat:"24",isgoogle:"0",isyandex:"0",ismobile:"0"},
+		geo:{city:"Moscow",region:"Moskva"},
+		urls:{
+			adprru:[],
+			adprci:[]
+		}
+	};*/
+	
+}catch(e){};
+</script>
+<script type="text/javascript" src="https://s20.ucoz.net/bnr/blocks/ads.js?0.286703393495767" onload="u_global_data.basic_params.isadblock=0"></script>
+<script type="text/javascript" src="//soft-foto-video.ucoz.org/BtGbk2Z?ZsI665IDCu%3BIQAJQR4Ii7AkyMIWMlyWcDZL7bHXv8IKuLC4L0Pxpk5wiYxnthPqdB18vtes2HkgFt5UCI%5EUx1Cgo"></script>
+
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoznet2?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+	<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_ad?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();</script>
+			<script type="text/javascript">
+				var hst = location.host;
+
+				if(hst.indexOf('.usite.pro') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_usitepro?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+				if(hst.indexOf('.my1.ru') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_my1ru?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+
+				if(hst.indexOf('.ucoz.net') !== -1){
+					new Image().src = "//counter.yadro.ru/hit;zone_ucoznet?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+				}
+			</script>
+		<script type="text/javascript">
+if(typeof(u_global_data)!='object') u_global_data={};
+function ug_clund(){
+	if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>0 || (u_global_data && u_global_data.is_u_main_h)){
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget already loaded');
+		return;
+	}
+	u_global_data.clunduse=1;
+	if('0'=='1'){
+		var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=2; path=/; expires='+d;
+		if(location.search.indexOf('clk2398502361292193773143=1')==-1){
+			return;
+		}
+	}else{
+		
+			window.addEventListener("click", function(event){
+				if(typeof(u_global_data.clunduse)!='undefined' && u_global_data.clunduse>1) return;
+				if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget click');
+				var d=new Date();d.setTime(d.getTime()+86400000);document.cookie='adbetnetshowed=1; path=/; expires='+d;
+				u_global_data.clunduse=2;
+				new Image().src = "//counter.yadro.ru/hit;ucoz_desktop_click?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+			});
+	}
+	
+			var utarget_rand = Math.floor(Math.random()*10000);
+			var utarget_cookie = document.cookie.indexOf("u_6e8e83030c=")+1;
+			var utarget_script = document.createElement("script");
+			utarget_script.type = 'text/javascript';
+			utarget_script.async = true;
+			utarget_script.src = "https://utarget.ru/ranging/6e8e83030c/js/?rand="+utarget_rand+"&cookie="+utarget_cookie;
+			document.body.appendChild(utarget_script);
+	new Image().src = "//counter.yadro.ru/hit;desktop_click_load?r"+escape(document.referrer)+(screen&&";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth||screen.pixelDepth))+";u"+escape(document.URL)+";"+Date.now();
+}
+
+setTimeout(function(){
+	if(typeof(u_global_data.preroll_video_57322)=='object' && u_global_data.preroll_video_57322.active_video=='adbetnet') {
+		if(typeof(console)=='object' && typeof(console.log)=='function') console.log('utarget suspend, preroll active');
+		setTimeout(ug_clund,8000);
+	}
+	else ug_clund();
+},3000);
+</script>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Программы AMS - Главная страница</title>
+
+
+<link type="text/css" rel="StyleSheet" href="/.s/src/css/977.css" />
+
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script src="//s20.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.951319250996644"></script>
+<script>/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/social.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script>
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"language":"ru","site":{"host":"soft-foto-video.ucoz.org","domain":null,"id":"fsoft-foto-video"},"ssid":"576603327300616657045"};
+/* --- UCOZ-JS-CODE --- */
+ function uSocialLogin(t) {
+			var params = {"facebook":{"height":520,"width":950},"google":{"width":700,"height":600},"ok":{"height":390,"width":710},"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style>.UhideBlock{display:none; }</style>
+
+</head>
+
+<body style="background:#FFFFFF; margin:0px; padding:0px;">
+<div id="utbr8214" rel="s20"></div>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td valign="bottom" align="right" rowspan="2"><img src="/.s/t/977/1.gif" border="0"></td>
+<td valign="top" width="305" height="100%" style="background:url('/.s/t/977/2.gif');"><img src="/.s/t/977/3.jpg" border="0">
+ <table cellpadding="0" cellspacing="0" border="0" width="305">
+ <tr><td style="background:url('/.s/t/977/4.gif') top no-repeat;" align="center">
+
+<!--U1CLEFTER1Z--><!-- <block5> -->
+
+<table border="0" cellpadding="5" cellspacing="0" width="290" style="border-bottom:1px solid #F3F3F3;">
+<tr><td width="100" valign="top"><b><!-- <bt> --><!--<s5184>-->Меню сайта<!--</s>--><!-- </bt> --></b></td><td width="180" valign="top"><!-- <bc> --><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/"><span>Главная страница</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/publ/"><span>Каталог статей</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/fotoshou/0-51"><span>ФотоШОУ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/videoshou/0-52"><span>ВидеоШОУ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/fotomaster/0-53"><span>ФотоМАСТЕР</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/fotokollazh/0-54"><span>ФотоКОЛЛАЖ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/videomaster/0-55"><span>ВидеоМАСТЕР</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/fotoshou_pro/0-56"><span>ФотоШОУ PRO</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/videostudija/0-57"><span>ВидеоСТУДИЯ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/ofismetrika/0-58"><span>ОфисМЕТРИКА</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/studija_diskov/0-59"><span>Студия Дисков</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/videomontazh/0-60"><span>ВидеоМОНТАЖ</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/master_vizitok/0-61"><span>Мастер визиток</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/pdf_commander/0-62"><span>PDF Commander</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/ehkrannaja_kamera/0-63"><span>Экранная Камера</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/studija_ehffektov/0-64"><span>Студия Эффектов</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/foto_na_dokumenty/0-65"><span>Фото на документы</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/dizajn_kalendarej/0-66"><span>Дизайн Календарей</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/pochtovye_konverty/0-67"><span>Почтовые Конверты</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/dizajn_interera_3d/0-68"><span>Дизайн Интерьера 3D</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/domashnjaja_fotostudija/0-69"><span>Домашняя Фотостудия</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/uskoritel_kompjutera/0-70"><span>Ускоритель компьютера</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/partnerka_ams_software/0-71"><span>Партнерка AMS Software</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script>$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script><!-- </bc> --></td></tr>
+</table>
+
+<!-- </block5> -->
+
+<br>
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=71079898&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/71079898/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="71079898" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ ym(71079898, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true
+ });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/71079898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<bt><bt>
+
+<!-- MyCounter v.2.0 -->
+<script type="text/javascript"><!--
+my_id = 171615;
+my_width = 88;
+my_height = 31;
+my_alt = "MyCounter - счётчик и статистика";
+//--></script>
+<script type="text/javascript"
+ src="https://get.mycounter.ua/counter2.0.js">
+</script><noscript>
+<a target="_blank" href="https://mycounter.ua/"><img
+src="https://get.mycounter.ua/counter.php?id=171615"
+title="MyCounter - счётчик и статистика"
+alt="MyCounter - счётчик и статистика"
+width="88" height="31" border="0" /></a></noscript>
+<!--/ MyCounter -->
+
+<br><br><!--/U1CLEFTER1Z-->
+<br />
+<br />
+<!--/--> 
+ </td></tr></table>
+</td>
+<td width="620" valign="top">
+<!--U1AHEADER1Z--><table border="0" cellpadding="0" cellspacing="0" width="620">
+<tr><td height="42" style="background:url('/.s/t/977/5.gif');"><table cellpadding="0" cellspacing="0" border="0" width="620" height="42"><tr><td style="padding-left:20px;color:#FFFFFF;">Среда, 02.03.2022, 12:35</td><td align="right" style="padding-right:70px;"><a href="https://soft-foto-video.ucoz.org/" title="Главная"><img src="/.s/t/977/6.gif" border="0" alt="Главная"></a><img src="/.s/t/977/7.gif" width="10" height="1" border="0"><a href="/register" title="Регистрация"><img src="/.s/t/977/9.gif" border="0" alt="Регистрация"></a><img src="/.s/t/977/7.gif" width="10" height="1" border="0"><a href="javascript:;" rel="nofollow" onclick="new _uWnd('LF', ' ', -250, -110, {autosize:1, closeonesc:1, resize:1 }, {url:'/index/40' } ); return false;" title="Вход"><img src="/.s/t/977/11.gif" border="0" alt="Вход"></a></td></tr></table></td></tr>
+ <tr><td height="44" style="background:url('/.s/t/977/12.gif');" align="center"><span style="color:#000000;font:20pt bold Verdana,Tahoma;"><!-- <logo> --><b>Обработка фото и видео</b><!-- </logo> --></span></td></tr>
+<tr><td height="46" style="background:url('/.s/t/977/13.gif');padding-right:20px;padding-bottom:10px;" align="right"><!--<s5212>-->Приветствую Вас<!--</s>--> <b>Гость</b> | <a href="https://soft-foto-video.ucoz.org/news/rss/" title="RSS">RSS</a></td></tr>
+</table><!--/U1AHEADER1Z-->
+
+
+<table border="0" cellpadding="10" cellspacing="0" width="100%" style="background:url('/.s/t/977/14.gif') top left no-repeat;"><tr><td><!-- <middle> --><!-- <body> --><div id="nativeroll_video_cont" style="display:none;"></div><center>
+
+<div id="bancode_5332"><script src="//multibux.org/bancode.php?id=5332" async></script></div>
+
+<center><h1>Программы для обработки фото и видео</h1>
+
+<h2>Программы AMS Software</h2>
+
+<table cellspacing="2"><tr>
+<td height="100" width="700" align="justify">
+
+<span style="font-size:11pt">
+
+<p><span style="font-size:11pt">
+&nbsp;&nbsp;&nbsp;&nbsp; <b>Компания AMS Software</b> &ndash; российский разработчик программного обеспечения, которое может выполнять следующие функции:<br>
+<strong>
+- обработка фото;<br>
+- обработка видео;<br>
+- печать конвертов;<br>
+- фото на документы;<br>
+- дизайн интерьера 3D;<br>
+- редактор PDF файлов;<br>
+- изготовление визиток;<br>
+- ускорение компьютера;<br>
+- изготовление календарей.</strong><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; Создавая продукты, компания в первую очередь, стремится подарить радость людям и повысить эффективность их бизнеса.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Её программы решают проблемы, избавляют от рутины и открывают простор для творчества. Компания гордимся тем, что продукция AMS Software приносит тысячам людей новые впечатления и новые возможности!<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Компания AMS Software продает свои продукты не только в России, но в 30 странах мира.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Имеется удобная и выгодная <a href="https://soft-foto-video.ucoz.org/index/partnerka_ams_software/0-27" target="_blank"><span style="font-size:11pt"><b><span style="color:blue">Партнерская программа AMS Software</span></b></a>.<br> 
+&nbsp;&nbsp;Зарегистрироваться в этой программе может каждый - это просто и бесплатно!
+</span>
+
+<Hr align="center" size="2" color="#A9A9A9"> 
+
+<a href="https://amssoft.ru/lands/pdf/main.php?ap=54921" rel="nofollow" target="_blank" title="PDF Commander"><img src="https://amssoft.ru/lands/banners/pdf-ban-02.gif" width="600" alt="PDF Commander"></a><br><br>
+<span style="font-size:10pt"><b>PDF Commander</b> - новая программа для редактирования PDF файлов. Программа позволяет открывать и редактировать документы за пару кликов. Добавляйте тексты и изображения, соединяйте несколько PDF в один файл и создавайте документы с нуля. В программе доступны функции защиты от копирования и быстрый вывод на печать.</span>
+<a href="https://soft-foto-video.ucoz.org/index/pdf_commander/0-29" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a>
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/ftm/main.php?ap=54921" rel="nofollow" target="_blank" title="ФотоМАСТЕР"><img src="https://amssoft.ru/lands/banners/ftm_banner3.gif" width="600" alt="ФотоМАСТЕР"></a><br><br>
+<span style="font-size:10pt"><b>ФотоМАСТЕР</b> — это современная программа, позволяющая быстро улучшать изображения, качественно ретушировать портреты, обрабатывать пейзажи и т.д. Здесь вы найдете все популярные функции для редактирования фотоснимков, которые помогут превратить фотографии в профессионально обработанные изображения за несколько минут.</span>
+<a href="https://soft-foto-video.ucoz.org/index/fotomaster/0-34" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/stef/main.php?ap=54921" rel="nofollow" target="_blank" title="Студия Эффектов"><img src="https://amssoft.ru/lands/banners/stef_banner2.gif" height="77" width="600" alt="Студия Эффектов"></a><br><br>
+<span style="font-size:10pt"><b>Студия Эффектов</b> — это инновационная программа, которая мгновенно преобразит любую фотографию. Нужно лишь кликнуть по нужному эффекту мышкой. Мы собрали в одной программе более 350 вдохновляющих пресетов. Вам также доступны многочисленные возможности их комбинации и неограниченный простор для творчества!</span>
+<a href="https://soft-foto-video.ucoz.org/index/studija_ehffektov/0-43" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<noindex><a href="https://amssoft.ru/lands/homestudio/main.php?ap=54921" rel="nofollow" target="_blank" title="Домашняя Фотостудия"><img src="https://amssoft.ru/lands/banners/homestudio.gif" width="600" height=88 alt="Домашняя Фотостудия"></a><br><br>
+<span style="font-size:10pt"><b>Домашняя Фотостудия</b> — это универсальный графический редактор для быстрой и качественной обработки фотографий. С его помощью вы легко сможете производить ретушь и цветокоррекцию, устранять эффект красных глаз, а также оформлять изображения стильными рамками, масками, изготавливать коллажи, открытки и календари.</span>
+<a href="https://soft-foto-video.ucoz.org/index/domashnjaja_fotostudija/0-48" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/fotocollage/main.php?ap=54921" rel="nofollow" target="_blank" title="ФотоКОЛЛАЖ"><img src="https://amssoft.ru/lands/banners/fotocollage.gif" width="600" height=88 alt="ФотоКОЛЛАЖ"></a><br><br>
+<span style="font-size:10pt"><b>ФотоКОЛЛАЖ</b> — это качественная программа для создания ярких коллажей из фотографий. К вашим услугам более сотни стильных шаблонов, оформление рамками и клипартом, а также возможность подготовить открытку, приглашение или постер. Просто загрузите изображения, расположите их на листе и включайте фантазию!</span>
+<a href="https://soft-foto-video.ucoz.org/index/fotokollazh/0-35" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/fs/main.php?ap=54921" rel="nofollow" target="_blank" title="ФотоШОУ"> <img src="https://amssoft.ru/lands/banners/fs.gif" width="600" height=88 alt="ФотоШОУ"></a><br><br>
+<span style="font-size:10pt"><b>ФотоШОУ</b> — это удобная программа для создания красочных слайд-шоу из фотографий. С ее помощью вы можете подготовить потрясающий фильм из любимых фотоснимков – нужно всего лишь загрузить изображения, украсить их подписями/титрами, добавить музыкальное сопровождение и интересные эффекты переходов.</span>
+<a href="https://soft-foto-video.ucoz.org/index/fotoshou/0-32" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/fotoshow/main.php?ap=54921" rel="nofollow" target="_blank" title="ФотоШОУ PRO"><img src="https://amssoft.ru/lands/banners/fotoshow.gif" width="600" height=88 alt="ФотоШОУ PRO"></a><br><br>
+<span style="font-size:10pt"><b>ФотоШОУ PRO</b> — это инновационная программа, позволяющая легко и быстро создавать увлекательные слайд-шоу из фотографий и музыки с 3D эффектами. Благодаря обширному каталогу шаблонов, вы можете добавлять переходы, титры, заставки и даже коллажи. Монтируйте яркие видео из снимков в домашних условиях!</span>
+<a href="https://soft-foto-video.ucoz.org/index/fotoshou_pro/0-37" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/photodoc/main.php?ap=54921" rel="nofollow" target="_blank" title="Фото на документы"> <img src="https://amssoft.ru/lands/banners/photodoc.gif" width="600" height=88 alt="Фото на документы"></a><br><br>
+<span style="font-size:10pt"><b>Фото на документы</b> — это удобный редактор для подготовки и печати фото на документы профессионального качества. Благодаря множеству готовых форматов программа позволяет создать фотографии на все виды документов: российский и заграничный паспорт, визы в любые страны, различные удостоверения и пропуска.</span>
+<a href="https://soft-foto-video.ucoz.org/index/foto_na_dokumenty/0-44" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/vdstudio/main.php?ap=54921" rel="nofollow" target="_blank" title="ВидеоСТУДИЯ"><img src="https://amssoft.ru/lands/banners/videostud.gif" width="600" height=88 alt="ВидеоСТУДИЯ"></a>
+<br><br>
+<span style="font-size:10pt"><b>ВидеоСТУДИЯ</b> - это пакет самых необходимых программ для создания видео на русском языке. Конвертируйте видеоролики, записывайте DVD диски, скачивайте видеоклипы с популярных сайтов и создавайте эффектное видео из фотографий! Соединение, обрезка, улучшение видео и многое другое. </span>
+<a href="https://soft-foto-video.ucoz.org/index/videostudija/0-38" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/vdm/converter.php?ap=54921" rel="nofollow" target="_blank" title="ВидеоМАСТЕР"><img src="https://amssoft.ru/lands/banners/videomaster.gif" width="600" height=88 alt="ВидеоМАСТЕР"> </a><br><br>
+<span style="font-size:10pt"><b>ВидеоМАСТЕР</b> — это мощная программа для работы с видео, предоставляющая возможность конвертировать как отдельные ролики, так и целые DVD диски в любой доступный формат. Включает более 350 готовых настроек конвертации видео для мобильных устройств, медиа-плееров, игровых приставок и интернет-сайтов.</span>
+<a href="https://soft-foto-video.ucoz.org/index/videomaster/0-36" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+
+<a href="https://amssoft.ru/lands/vdmont/main.php?ap=54921" rel="nofollow" target="_blank" title="ВидеоМОНТАЖ"><img src="https://amssoft.ru/lands/banners/vdmont.gif" width="600" height=88 alt="ВидеоМОНТАЖ"></a><br><br>
+<span style="font-size:10pt"><b>ВидеоМОНТАЖ</b> — это универсальный видеоредактор, который позволит вам легко и быстро смонтировать свой собственный фильм в домашних условиях. С его помощью вы сможете не только оформить видеоролик яркими заставками, эффектами или мелодиями, но и конвертировать готовый файл в любой популярный формат!</span>
+<a href="https://soft-foto-video.ucoz.org/index/videomontazh/0-40" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/vs/main.php?ap=54921" rel="nofollow" target="_blank" title="ВидеоШОУ"> <img src="https://amssoft.ru/lands/banners/vs_banner3.gif" width="600" alt="ВидеоШОУ"> </a><br><br>
+<span style="font-size:10pt"><b>ВидеоШОУ</b> — удобная и многофункциональная программа для создания анимированных видеороликов любых форматов. С помощью профессиональных шаблонов вы можете создавать видеоролики за пару минут. Редактор позволяет разрабатывать титры и заставки, в том числе intro с применением эффектов и 3D-анимации.</span>
+<a href="https://soft-foto-video.ucoz.org/index/videoshou/0-33" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/screencam/main.php?ap=54921" rel="nofollow" target="_blank" title="Экранная камера"><img src="https://amssoft.ru/lands/banners/screencam.gif" width="580" height=88 alt="Экранная камера"></a><br><br>
+<span style="font-size:10pt"><b>Экранная Камера</b> — это новая программа для записи видео с экрана монитора. Позволяет снимать обучающие видеоролики, игры, презентации, онлайн передачи и многое другое. Записанный скринкаст можно экспортировать в любой формат, обработать во встроенном редакторе, перенести на DVD-диск или выложить в Интернет.</span>
+<a href="https://soft-foto-video.ucoz.org/index/ehkrannaja_kamera/0-42" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/disk/main.php?ap=54921" rel="nofollow" target="_blank" title="Студия Дисков"><img src="https://amssoft.ru/lands/banners/disk-stud.gif" width="600" height=88 alt="Студия Дисков"></a><br><br>
+<span style="font-size:10pt"><b>Студия Дисков</b> — это простая и удобная программа для записи и конвертирования CD, DVD и Blu-Ray дисков. Утилита позволит вам легко и быстро создать интерактивный DVD, музыкальный аудио-CD, а также любой другой носитель с интересующей вас информацией. Помимо этого, программа работает с образами дисков.</span>
+<a href="https://soft-foto-video.ucoz.org/index/studija_diskov/0-39" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/dint/main.php?ap=54921" rel="nofollow" target="_blank" title="Дизайн Интерьера 3D"><img src="https://amssoft.ru/lands/banners/int-design.gif" width="600" height=88 alt="Дизайн Интерьера 3D"></a><br><br>
+<span style="font-size:10pt"><b>Дизайн Интерьера 3D</b> — это мощная и удобная программа, которая позволяет разработать дизайн-проект квартиры в домашних условиях. Вы получите возможность создать наглядное 3D-изображение будущего интерьера всех комнат. Программа поможет вам не только расположить мебель и технику, но и продумать варианты отделки.</span>
+<a href="https://soft-foto-video.ucoz.org/index/dizajn_interera_3d/0-47" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/calendarcreator/main.php?ap=54921" rel="nofollow" target="_blank" title="Дизайн Календарей"><img src="https://amssoft.ru/lands/banners/calendarcreator.gif" width="600" height=88 alt="Дизайн Календарей"></a><br><br>
+<span style="font-size:10pt"><b>Дизайн Календарей</b> — это доступная и легкая в применении программа для создания эффектных календарей с вашими фотографиями. Программа дает возможность подготовить календарь на любой год или месяц, предварительно выбрав формат и оформление проекта. В комплект входит огромный выбор шаблонов разнообразной тематики.</span>
+<a href="https://soft-foto-video.ucoz.org/index/dizajn_kalendarej/0-45" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/buisnesscard/main.php?ap=54921" rel="nofollow" target="_blank" title="Мастер Визиток"><img src="https://amssoft.ru/lands/banners/buisnesscard.gif" width="580" height=88 alt="Мастер Визиток"></a><br><br>
+<span style="font-size:10pt"><b>Мастер Визиток</b> — это наглядная утилита, позволяющая легко создавать фирменные визитки и бейджи с использованием более 150 готовых вариантов дизайна. С помощью встроенного редактора вы можете подобрать любое тематическое оформление для своей визитной карточки или разработать собственный оригинальный стиль.</span>
+<a href="https://soft-foto-video.ucoz.org/index/master_vizitok/0-41" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/pkn/program.php?ap=54921" rel="nofollow" target="_blank" title="Почтовые Конверты"><img src="https://amssoft.ru/lands/banners/pkn.gif" width="600" height=88 alt="Почтовые Конверты"></a><br><br>
+<span style="font-size:10pt"><b>Почтовые Конверты</b> — это универсальная программа, предназначенная для печати почтовых конвертов и организации масштабных рассылок. Воспользовавшись большим каталогом дизайнерских бланков, можно быстро подготовить повседневный или праздничный конверт, оформленный в соответствии с актуальными требованиями почты РФ.</span>
+<a href="https://soft-foto-video.ucoz.org/index/pochtovye_konverty/0-46" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/metrika/index5.php?ap=54921" rel="nofollow" target="_blank" title="Эффективная программа учёта рабочего времени сотрудников"><img src="https://amssoft.ru/lands/banners/metrika2.gif" width="600" height=88 alt="ОфисМЕТРИКА"></a><br><br>
+<span style="font-size:10pt"><b>ОфисМЕТРИКА</b> — эффективная программа учёта рабочего времени сотрудников, собирающая информацию об использовании программ и сайтов. Она позволяет резко сократить число опозданий, уменьшить число отвлечений на форумы и социальные сети, а также быстро выявить недобросовестных работников. С помощью этой программы руководитель будет точно знать, чем занимается его команда в рабочее время!</span>
+<a href="https://soft-foto-video.ucoz.org/index/ofismetrika/0-31" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://amssoft.ru/lands/uskoritel/main.php?ap=54921" rel="nofollow" target="_blank" title="Ускоритель Компьютера"><img src="https://amssoft.ru/lands/banners/usk_banner1.gif" width="600" height=88 alt="Ускоритель Компьютера"></a><br><br>
+<span style="font-size:10pt"><b>Ускоритель компьютера</b> — новая удобная программа очистки системы от лишних файлов, оптимизации работы реестра и управления автозагрузкой. Буквально за 5 минут она проведет полное сканирование вашего компьютера, выявив причины медленного запуска Windows, частых подвисаний, некорректной загрузки сайтов и прочее</span> 
+<a href="https://soft-foto-video.ucoz.org/index/uskoritel_kompjutera/0-28" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+<a href="https://ams-partner.ru/?ap=54921" rel="nofollow" target="_blank" title="Выгодная партнёрская программа"><img src="https://amssoft.ru/lands/1.gif" width="600" height=88 alt="Партнерка AMS Software"></a><br>
+<a href="https://soft-foto-video.ucoz.org/index/partnerka_ams_software/0-27" target="_blank"><span style="font-size:12pt"><span style="color:blue">Подробнее...</span></a> 
+<Hr align="center" size="2" color="#A9A9A9">
+
+</td></tr></table>
+
+
+<br><br>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+ m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+ (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ ym(71079898, "init", {
+ clickmap:true,
+ trackLinks:true,
+ accurateTrackBounce:true
+ });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/71079898" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<br><br>
+
+
+<a href="https://soft-foto-video.ucoz.org/sitemap.xml" target="_blank"><Sitemap></a>
+
+</center>
+
+<br> 
+<head><title>"Программы для обратботки фото и видео"</title>
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script src="//s20.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.272777817274083"></script>
+<script>/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/social.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script>
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"ssid":"576603327300616657045","site":{"id":"fsoft-foto-video","host":"soft-foto-video.ucoz.org","domain":null},"language":"ru"};
+/* --- UCOZ-JS-CODE --- */
+ function uSocialLogin(t) {
+			var params = {"facebook":{"height":520,"width":950},"google":{"width":700,"height":600},"ok":{"height":390,"width":710},"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+ function uSocialLogin(t) {
+			var params = {"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870},"facebook":{"width":950,"height":520},"google":{"height":600,"width":700},"ok":{"width":710,"height":390}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style>.UhideBlock{display:none; }</style>
+</head>
+<br>
+<head><meta name="keywords" content="AMS Software, программы обработки, обработка фото, обработка видео, полиграфия, дизайн">
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script src="//s20.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.25497760473721"></script>
+<script>/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/social.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script>
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"language":"ru","site":{"id":"fsoft-foto-video","domain":null,"host":"soft-foto-video.ucoz.org"},"ssid":"576603327300616657045"};
+/* --- UCOZ-JS-CODE --- */
+ function uSocialLogin(t) {
+			var params = {"facebook":{"height":520,"width":950},"google":{"width":700,"height":600},"ok":{"height":390,"width":710},"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+ function uSocialLogin(t) {
+			var params = {"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870},"facebook":{"width":950,"height":520},"google":{"height":600,"width":700},"ok":{"width":710,"height":390}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+ function uSocialLogin(t) {
+			var params = {"yandex":{"width":870,"height":515},"vkontakte":{"height":400,"width":790},"ok":{"height":390,"width":710},"google":{"width":700,"height":600},"facebook":{"height":520,"width":950}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style>.UhideBlock{display:none; }</style>
+</head>
+<br> 
+<head><meta name="description" content=" Программы для обратботки фото и видео, полиграфии и дизайна.">
+	<link rel="stylesheet" href="/.s/src/base.min.css" />
+	<link rel="stylesheet" href="/.s/src/layer7.min.css" />
+
+	<script src="/.s/src/jquery-1.12.4.min.js"></script>
+	
+	<script src="/.s/src/uwnd.min.js"></script>
+	<script src="//s20.ucoz.net/cgi/uutils.fcg?a=uSD&ca=2&ug=999&isp=0&r=0.435550983992357"></script>
+<script>/* --- UCOZ-JS-INIT_CODE --- */
+	window.ulb = {photoPage:"Перейти на страницу с фотографией.", closeBtn:"Закрыть", error:"Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next:"Следующий", prev:"Предыдущий", btnPlay:"Начать слайдшоу", btnToggle:"Изменить размер", };
+/* --- UCOZ-JS-END --- */</script>
+
+	<link rel="stylesheet" href="/.s/src/ulightbox/ulightbox.min.css" />
+	<link rel="stylesheet" href="/.s/src/social.css" />
+	<script src="/.s/src/ulightbox/ulightbox.min.js"></script>
+	<script>
+/* --- UCOZ-JS-DATA --- */
+window.uCoz = {"language":"ru","ssid":"576603327300616657045","site":{"id":"fsoft-foto-video","domain":null,"host":"soft-foto-video.ucoz.org"}};
+/* --- UCOZ-JS-CODE --- */
+ function uSocialLogin(t) {
+			var params = {"facebook":{"height":520,"width":950},"google":{"width":700,"height":600},"ok":{"height":390,"width":710},"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+ function uSocialLogin(t) {
+			var params = {"ok":{"width":710,"height":390},"google":{"height":600,"width":700},"facebook":{"height":520,"width":950},"yandex":{"width":870,"height":515},"vkontakte":{"height":400,"width":790}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+ function uSocialLogin(t) {
+			var params = {"vkontakte":{"width":790,"height":400},"yandex":{"height":515,"width":870},"facebook":{"width":950,"height":520},"google":{"height":600,"width":700},"ok":{"width":710,"height":390}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+ function uSocialLogin(t) {
+			var params = {"yandex":{"width":870,"height":515},"vkontakte":{"height":400,"width":790},"ok":{"height":390,"width":710},"google":{"width":700,"height":600},"facebook":{"height":520,"width":950}};
+			var ref = escape(location.protocol + '//' + ('soft-foto-video.ucoz.org' || location.hostname) + location.pathname + ((location.hash ? ( location.search ? location.search + '&' : '?' ) + 'rnd=' + Date.now() + location.hash : ( location.search || '' ))));
+			window.open('/'+t+'?ref='+ref,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+			return false;
+		}
+		function TelegramAuth(user){
+			user['a'] = 9; user['m'] = 'telegram';
+			_uPostForm('', {type: 'POST', url: '/index/sub', data: user});
+		}
+/* --- UCOZ-JS-END --- */
+</script>
+
+	<style>.UhideBlock{display:none; }</style>
+</head>
+
+<br><br>
+
+
+
+<a href="https://amssoft.ru/lands/pdf/main.php?ap=54921" alt="PDF Commander"> <img src="https://amssoft.ru/lands/banners/pdf-ban-02.gif" alt="PDF Commander"> </a>
+		<script>
+			var container = document.getElementById('nativeroll_video_cont');
+
+			if (container) {
+				var parent = container.parentElement;
+
+				if (parent) {
+					const wrapper = document.createElement('div');
+					wrapper.classList.add('js-teasers-wrapper');
+
+					parent.insertBefore(wrapper, container.nextSibling);
+				}
+			}
+		</script>
+	
+
+		<script>
+			(function() {
+				if (
+					window.u_global_data &&
+					window.u_global_data.basic_params &&
+					window.u_global_data.basic_params.isabandoned === '1' &&
+					false // Временно всегда
+				) {
+					return;
+				}
+
+				var teasersWrapper = document.querySelector('div.js-teasers-wrapper');
+
+				if (teasersWrapper) {
+					teasersWrapper.insertAdjacentHTML('beforeend', '<div class="QReHgK322613"></div>');
+
+					window.k_init = window.k_init || [];
+	                k_init.push({
+	                    id: 'QReHgK322613',
+	                    type: 'bn',
+	                    page: 'https://ucoz.ru/',
+	                    domain: 'hdbcode.com',
+	                    next: 0
+	                });
+
+	                var s = document.createElement('script');
+	                s.setAttribute('async', true);
+	                s.setAttribute('charset', 'utf-8');
+	                s.setAttribute('data-cfasync', false);
+	                s.src = 'https://hdbcode.com/kkqahhd3.js';
+	                document.head && document.head.appendChild(s);
+				}
+			})();
+		</script>
+	
+		<div class="js-teasers-wrapper-down"></div>
+		<script src='https://news.2xclick.ru/loader.js' async></script>
+
+		<script type="application/javascript">
+			(function() {
+				if (
+					window.u_global_data &&
+					window.u_global_data.basic_params &&
+					window.u_global_data.basic_params.isabandoned === '1' &&
+					false // временно всегда
+				) {
+					return;
+				}
+
+				var teasersWrapper = document.querySelector('div.js-teasers-wrapper-down');
+
+				if (teasersWrapper) {
+					teasersWrapper.insertAdjacentHTML('beforeend', '<div class="nBaQfY322502"></div>');
+	                window.k_init = window.k_init || [];
+	                k_init.push({
+	                    id: 'nBaQfY322502',
+	                    type: 'bn',
+	                    page: 'https://ucoz.ru/',
+	                    domain: 'hdbcode.com',
+	                    next: 0
+	                });
+
+	                var s = document.createElement('script');
+	                s.setAttribute('async', true);
+	                s.setAttribute('charset', 'utf-8');
+	                s.setAttribute('data-cfasync', false);
+	                s.src = 'https://hdbcode.com/b3aad1kk.js';
+	                document.head && document.head.appendChild(s);
+				}
+			})();
+		</script>
+	<!-- </body> --><br /><!-- </middle> --></td></tr></table>
+
+</td><td valign="bottom" align="left" rowspan="2"><img src="/.s/t/977/15.gif" border="0"></td></tr>
+
+<tr><td height="58" width="305" style="background:url('/.s/t/977/16.gif');padding-bottom:5px;" align="center"><!-- "' --><span class="pbuo225r"><a href="https://www.ucoz.ru/" title="Сайт создан в конструкторе сайтов uCoz" target="_blank" rel="nofollow">uCoz</a></span></td><td width="620" style="background:url('/.s/t/977/17.gif');padding-bottom:5px;" align="center"><!-- <copy> -->Copyright MyCorp &copy; 2022<!-- </copy> --></td></td></tr>
+</table>
+
+</body>
+
+</html>
+
+
+
+<!-- 0.37609 (s20) -->

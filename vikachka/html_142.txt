@@ -1,0 +1,1813 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>
+        dataLayer = [{
+            'pageLang' : 'en',
+            'pageType' : 'Agilie | Home page, iOS, Android mobile application development company, web sites and design'
+        }];
+    </script>
+<script type="text/javascript" src="https://static1.clutch.co/api/widget.js" defer="defer"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6Ld6icMUAAAAADb8zj4oZOBakAgnrEUV7RI8etxa"></script>
+<script src="https://use.fontawesome.com/e29a0f18a8.js" defer></script>
+<script type="text/javascript" charset="utf-8">
+        try {
+            dataLayer.push({
+                'event': 'businessPageVisited',
+                'pageLang': 'en',
+                'timeStamp': '1646213805',
+                'pageUrl': '/index',
+                'date': '02 March 2022'
+            });
+        } catch (e) {
+        }
+    </script>
+<script>
+        try {
+            dataLayer.push({
+                'event': 'facebookAuditoryDetermination',
+                'pageLang': 'en',
+                'pageType': 'business',
+                'timeStamp': '1646213805',
+                'date': '02 March 2022'
+            });
+        } catch (e) {
+        }
+    </script>
+
+<script type="text/javascript" charset="utf-8" defer>
+        (function (global, factory) {
+            if (typeof define === "function" && define.amd) {
+                define(['exports'], factory);
+            } else if (typeof exports !== "undefined") {
+                factory(exports);
+            } else {
+                var mod = {
+                    exports: {}
+                };
+                factory(mod.exports);
+                global.bodyScrollLock = mod.exports;
+            }
+        })(this, function (exports) {
+            'use strict';
+
+            Object.defineProperty(exports, "__esModule", {
+                value: true
+            });
+
+            function _toConsumableArray(arr) {
+                if (Array.isArray(arr)) {
+                    for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) {
+                        arr2[i] = arr[i];
+                    }
+
+                    return arr2;
+                } else {
+                    return Array.from(arr);
+                }
+            }
+
+            // Older browsers don't support event options, feature detect it.
+
+            // Adopted and modified solution from Bohdan Didukh (2017)
+            // https://stackoverflow.com/questions/41594997/ios-10-safari-prevent-scrolling-behind-a-fixed-overlay-and-maintain-scroll-posi
+
+            var hasPassiveEvents = false;
+            if (typeof window !== 'undefined') {
+                var passiveTestOptions = {
+                    get passive() {
+                        hasPassiveEvents = true;
+                        return undefined;
+                    }
+                };
+                window.addEventListener('testPassive', null, passiveTestOptions);
+                window.removeEventListener('testPassive', null, passiveTestOptions);
+            }
+
+            var isIosDevice = typeof window !== 'undefined' && window.navigator && window.navigator.platform && /iP(ad|hone|od)/.test(window.navigator.platform);
+
+
+            var locks = [];
+            var documentListenerAdded = false;
+            var initialClientY = -1;
+            var previousBodyOverflowSetting = void 0;
+            var previousBodyPaddingRight = void 0;
+
+            // returns true if `el` should be allowed to receive touchmove events
+            var allowTouchMove = function allowTouchMove(el) {
+                return locks.some(function (lock) {
+                    if (lock.options.allowTouchMove && lock.options.allowTouchMove(el)) {
+                        return true;
+                    }
+
+                    return false;
+                });
+            };
+
+            var preventDefault = function preventDefault(rawEvent) {
+                var e = rawEvent || window.event;
+
+                // For the case whereby consumers adds a touchmove event listener to document.
+                // Recall that we do document.addEventListener('touchmove', preventDefault, { passive: false })
+                // in disableBodyScroll - so if we provide this opportunity to allowTouchMove, then
+                // the touchmove event on document will break.
+                if (allowTouchMove(e.target)) {
+                    return true;
+                }
+
+                // Do not prevent if the event has more than one touch (usually meaning this is a multi touch gesture like pinch to zoom)
+                if (e.touches.length > 1) return true;
+
+                if (e.preventDefault) e.preventDefault();
+
+                return false;
+            };
+
+            var setOverflowHidden = function setOverflowHidden(options) {
+                // Setting overflow on body/documentElement synchronously in Desktop Safari slows down
+                // the responsiveness for some reason. Setting within a setTimeout fixes this.
+                setTimeout(function () {
+                    // If previousBodyPaddingRight is already set, don't set it again.
+                    if (previousBodyPaddingRight === undefined) {
+                        var _reserveScrollBarGap = !!options && options.reserveScrollBarGap === true;
+                        var scrollBarGap = window.innerWidth - document.documentElement.clientWidth;
+
+                        if (_reserveScrollBarGap && scrollBarGap > 0) {
+                            previousBodyPaddingRight = document.body.style.paddingRight;
+                            document.body.style.paddingRight = scrollBarGap + 'px';
+                        }
+                    }
+
+                    // If previousBodyOverflowSetting is already set, don't set it again.
+                    if (previousBodyOverflowSetting === undefined) {
+                        previousBodyOverflowSetting = document.body.style.overflow;
+                        document.body.style.overflow = 'hidden';
+                    }
+                });
+            };
+
+            var restoreOverflowSetting = function restoreOverflowSetting() {
+                // Setting overflow on body/documentElement synchronously in Desktop Safari slows down
+                // the responsiveness for some reason. Setting within a setTimeout fixes this.
+                setTimeout(function () {
+                    if (previousBodyPaddingRight !== undefined) {
+                        document.body.style.paddingRight = previousBodyPaddingRight;
+
+                        // Restore previousBodyPaddingRight to undefined so setOverflowHidden knows it
+                        // can be set again.
+                        previousBodyPaddingRight = undefined;
+                    }
+
+                    if (previousBodyOverflowSetting !== undefined) {
+                        document.body.style.overflow = previousBodyOverflowSetting;
+
+                        // Restore previousBodyOverflowSetting to undefined
+                        // so setOverflowHidden knows it can be set again.
+                        previousBodyOverflowSetting = undefined;
+                    }
+                });
+            };
+
+            // https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollHeight#Problems_and_solutions
+            var isTargetElementTotallyScrolled = function isTargetElementTotallyScrolled(targetElement) {
+                return targetElement ? targetElement.scrollHeight - targetElement.scrollTop <= targetElement.clientHeight : false;
+            };
+
+            var handleScroll = function handleScroll(event, targetElement) {
+                var clientY = event.targetTouches[0].clientY - initialClientY;
+
+                if (allowTouchMove(event.target)) {
+                    return false;
+                }
+
+                if (targetElement && targetElement.scrollTop === 0 && clientY > 0) {
+                    // element is at the top of its scroll
+                    return preventDefault(event);
+                }
+
+                if (isTargetElementTotallyScrolled(targetElement) && clientY < 0) {
+                    // element is at the top of its scroll
+                    return preventDefault(event);
+                }
+
+                event.stopPropagation();
+                return true;
+            };
+
+            var disableBodyScroll = exports.disableBodyScroll = function disableBodyScroll(targetElement, options) {
+                if (isIosDevice) {
+                    // targetElement must be provided, and disableBodyScroll must not have been
+                    // called on this targetElement before.
+                    if (!targetElement) {
+                        // eslint-disable-next-line no-console
+                        console.error('disableBodyScroll unsuccessful - targetElement must be provided when calling disableBodyScroll on IOS devices.');
+                        return;
+                    }
+
+                    if (targetElement && !locks.some(function (lock) {
+                        return lock.targetElement === targetElement;
+                    })) {
+                        var lock = {
+                            targetElement: targetElement,
+                            options: options || {}
+                        };
+
+                        locks = [].concat(_toConsumableArray(locks), [lock]);
+
+                        targetElement.ontouchstart = function (event) {
+                            if (event.targetTouches.length === 1) {
+                                // detect single touch
+                                initialClientY = event.targetTouches[0].clientY;
+                            }
+                        };
+                        targetElement.ontouchmove = function (event) {
+                            if (event.targetTouches.length === 1) {
+                                // detect single touch
+                                handleScroll(event, targetElement);
+                            }
+                        };
+
+                        if (!documentListenerAdded) {
+                            document.addEventListener('touchmove', preventDefault, hasPassiveEvents ? {passive: false} : undefined);
+                            documentListenerAdded = true;
+                        }
+                    }
+                } else {
+                    setOverflowHidden(options);
+                    var _lock = {
+                        targetElement: targetElement,
+                        options: options || {}
+                    };
+
+                    locks = [].concat(_toConsumableArray(locks), [_lock]);
+                }
+            };
+
+            var clearAllBodyScrollLocks = exports.clearAllBodyScrollLocks = function clearAllBodyScrollLocks() {
+                if (isIosDevice) {
+                    // Clear all locks ontouchstart/ontouchmove handlers, and the references
+                    locks.forEach(function (lock) {
+                        lock.targetElement.ontouchstart = null;
+                        lock.targetElement.ontouchmove = null;
+                    });
+
+                    if (documentListenerAdded) {
+                        document.removeEventListener('touchmove', preventDefault, hasPassiveEvents ? {passive: false} : undefined);
+                        documentListenerAdded = false;
+                    }
+
+                    locks = [];
+
+                    // Reset initial clientY
+                    initialClientY = -1;
+                } else {
+                    restoreOverflowSetting();
+                    locks = [];
+                }
+            };
+
+            var enableBodyScroll = exports.enableBodyScroll = function enableBodyScroll(targetElement) {
+                if (isIosDevice) {
+                    if (!targetElement) {
+                        // eslint-disable-next-line no-console
+                        console.error('enableBodyScroll unsuccessful - targetElement must be provided when calling enableBodyScroll on IOS devices.');
+                        return;
+                    }
+
+                    targetElement.ontouchstart = null;
+                    targetElement.ontouchmove = null;
+
+                    locks = locks.filter(function (lock) {
+                        return lock.targetElement !== targetElement;
+                    });
+
+                    if (documentListenerAdded && locks.length === 0) {
+                        document.removeEventListener('touchmove', preventDefault, hasPassiveEvents ? {passive: false} : undefined);
+
+                        documentListenerAdded = false;
+                    }
+                } else if (locks.length === 1 && locks[0].targetElement === targetElement) {
+                    restoreOverflowSetting();
+
+                    locks = [];
+                } else {
+                    locks = locks.filter(function (lock) {
+                        return lock.targetElement !== targetElement;
+                    });
+                }
+            };
+        });
+
+    </script>
+<script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-TS5PJT');
+        </script>
+<meta name="google-site-verification" content="70-t_JG4ejt1zGg3rNnVU1nNYc45b6pUghpc_o4bBB0" />
+
+<script>
+            window.ga = window.ga || function () {
+                (ga.q = ga.q || []).push(arguments)
+            };
+            ga.l = +new Date;
+            ga('create', 'UA-48390965-2', {'cookieDomain': 'agilie.com'});
+        </script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+<title>
+      Agilie | Home page, iOS, Android mobile application development company, web sites and design
+
+</title>
+<meta name="keywords" content="iOS development, Android development, web development, mobile application, mobile application company, ruby on rails development, outsourcing development">
+<meta name="description" content="iOS development, Android development, web development, mobile application, mobile application company, ruby on rails development, outsourcing development">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Agilie | Home page, iOS, Android mobile application development company, web sites and design">
+<meta property="og:image" content="https://d12zh9bqbty5wp.cloudfront.net/assets/main/main_page_screenshot-9786373f4e645e16887c74ee0f457829.png">
+<meta property="og:description" content="iOS development, Android development, web development, mobile application, mobile application company, ruby on rails development, outsourcing development">
+<meta property="og:url" content="https://agilie.com/en/index">
+<meta property="og:site_name" content="agilie.com">
+<meta property="fb:admins" content="1520951278, 100001118775913">
+<meta property="twitter:site" content="@agile_ninjas">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="Agilie | Home page, iOS, Android mobile application development company, web sites and design">
+<meta property="twitter:description" content="iOS development, Android development, web development, mobile application, mobile application company, ruby on rails development, outsourcing development">
+<meta property="twitter:image" content="https://d12zh9bqbty5wp.cloudfront.net/assets/main/main_page_screenshot-9786373f4e645e16887c74ee0f457829.png">
+<link rel="author" content="https://plus.google.com/u/0/+SergeyGladun/about">
+<link rel="publisher" content="https://plus.google.com/u/0/+SergeyGladun/about">
+<meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"f50de6c946","applicationID":"54800508","transactionName":"egtaQkFcDQ8ERhxDBV4BG0VbXBY=","queueTime":0,"applicationTime":105,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"f50de6c946",applicationID:"54800508"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0, user-scalable=0">
+<link href="//d12zh9bqbty5wp.cloudfront.net/assets/home_page/home-91a59b20572fbf4092be514600aa0c41.css" media="all" rel="stylesheet" type="text/css" />
+<link href="//d12zh9bqbty5wp.cloudfront.net/assets/favicon-ed9c4a471807b66f48e9789607673934.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/fav/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/fav/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/fav/favicon-16x16.png">
+
+<link rel="mask-icon" href="/assets/fav/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="theme-color" content="#000000">
+<link rel="alternate" hreflang="x-default" href="https://agilie.com" />
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for www.agilie.com" href="/en/rss/" />
+<link rel="alternate" hreflang="ru" href="https://agilie.com/ru/index" />
+<link rel="alternate" hreflang="en" href="https://agilie.com/en/index" />
+<link rel="canonical" href="https://agilie.com/en/index" />
+<!--[if lt IE 8]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="QZfq1slOTXi73UZrLEAtTE6DeFo4yoDavbnsjyRCso0=" name="csrf-token" />
+
+
+<script>
+        !function (q, e, v, n, t, s) {
+            if (q.qp) return;
+            n = q.qp = function () {
+                n.qp ? n.qp.apply(n, arguments) : n.queue.push(arguments);
+            };
+            n.queue = [];
+            t = document.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = document.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s);
+        }(window, 'script', 'https://a.quora.com/qevents.js');
+        qp('init', 'dfb7ccbf057d42d892400e60434a9143');
+        qp('track', 'ViewContent');
+    </script>
+
+<script type="text/javascript">
+        var _iub = _iub || [];
+        _iub.csConfiguration = {"lang": "en", "siteId": 1439442, "cookiePolicyId": 83355487};
+    </script>
+<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+</head>
+<body>
+
+<noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TS5PJT"
+                height="0" width="0" style="display:none;visibility:hidden">
+
+        </iframe>
+    </noscript>
+
+
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '434889556870917',
+            xfbml: true,
+            version: 'v2.9'
+        });
+        FB.AppEvents.logPageView();
+    };
+
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+<div class="country_modal__wrapper country_modal__wrapper--hidden">
+<div class="country_modal__container">
+<div class="country_modal__popup" id="jsCountryModal">
+<button class="country_modal__close jsCountryClose"></button>
+<div class="country_modal__head">
+<div class="country_modal__head_title">Country</div>
+<button class="country_modal__head_btn jsCountryClose">Close</button>
+</div>
+<div class="country_modal__body">
+<div class="country_modal__search">
+<input type="text" class="country_modal__search_input jsSearchInput" placeholder="Search">
+<button class="country_modal__search_btn country_modal__search_btn--hidden jsSearchReset"></button>
+</div>
+<ul class="country_modal__list"></ul>
+</div>
+</div>
+</div>
+</div>
+
+<header class="header js-header">
+<div class="header__container">
+
+<a href="https://agilie.com/en" class="header__logo-wrap js-header-logo">
+<div class="header__logo"></div>
+</a>
+
+
+<div class="header__btn-wrap">
+<a class="header__btn get-a-quote-bar-button" href="https://agilie.com/en/contacts">Get a quote</a>
+</div>
+
+<ul class="header__list">
+<li class="header__item">
+<a href="https://dribbble.com/agilie" target="_blank" class="header__link header__link--dribbble"></a>
+</li>
+<li class="header__item">
+<a href="https://www.behance.net/agilie" target="_blank" class="header__link header__link--behance"></a>
+</li>
+<li class="header__item">
+<a href="https://www.facebook.com/pages/Agilie/282259051924123" target="_blank" class="header__link header__link--fb"></a>
+</li>
+<li class="header__item">
+<a href="https://twitter.com/agile_ninjas" target="_blank" class="header__link header__link--tw"></a>
+</li>
+<li class="header__item">
+<a href="https://github.com/agilie" target="_blank" class="header__link header__link--gh"></a>
+</li>
+<li class="header__item">
+<a href="https://www.instagram.com/agilie_ninja/" target="_blank" class="header__link header__link--insta"></a>
+</li>
+<li class="header__item">
+<a href="https://www.linkedin.com/company/agilie" target="_blank" class="header__link header__link--lin"></a>
+</li>
+
+
+
+</ul>
+
+
+
+
+
+
+
+
+<div class="header__menu-wrap">
+<button class="header__menu js-header-menu-btn">
+<span class="header__menu-line header__menu-line--top"></span>
+<span class="header__menu-line header__menu-line--bottom"></span>
+</button>
+</div>
+
+</div>
+</header>
+
+<script defer="defer">
+    (function () {
+        var header = document.body.querySelector('.js-header');
+        var headerMenuBtn = document.body.querySelector('.js-header-menu-btn');
+        var headerLangBtns = document.body.querySelectorAll('.js-header-lang');
+
+        // event for header onscroll behavior
+        window.addEventListener('scroll', function () {
+            checkScrollHeight(window.pageYOffset);
+        });
+        checkScrollHeight(window.pageYOffset);
+
+        function checkScrollHeight(YOffset) {
+            if (YOffset > header.getBoundingClientRect().height) {
+                header.classList.add('header--fixed');
+            } else {
+                header.classList.remove('header--fixed');
+            }
+        }
+
+        // click on languages buttons
+        [].forEach.call(headerLangBtns, function (langBtn) {
+            langBtn.addEventListener('click', function (e) {
+                e.preventDefault();
+                window.location.href = langBtn.dataset.src;
+            })
+        });
+        // open menu
+        headerMenuBtn.addEventListener('click', function (e) {
+            if (headerMenuBtn.classList.contains('header__menu--opened')) {
+                closeMenu();
+            } else {
+                window.scrollTo(0,0);
+                openMenu(e);
+            }
+        });
+
+        function openMenu(e) {
+            e.stopPropagation();
+            headerMenuBtn.classList.add('header__menu--opened');
+            document.getElementById('secondary-content').classList.add('menu-opened');
+            document.body.style.overflowY = 'hidden';
+
+            window.addEventListener('click', menuStatus);
+        }
+        function closeMenu() {
+            headerMenuBtn.classList.remove('header__menu--opened');
+            document.getElementById('secondary-content').classList.remove('menu-opened');
+            document.body.style.overflowY = 'initial';
+
+            // document.body.querySelector('footer').classList.remove('state-1');
+
+            window.removeEventListener('click', menuStatus);
+        }
+        function menuStatus(e) {
+            var menuWrap = document.body.querySelector('.aside-menu__wrap');
+
+            if (menuWrap.contains(e.target)) {
+                // Clicked in box
+            } else {
+                // Clicked outside the box => close menu
+                closeMenu();
+            }
+        }
+
+    }());
+</script>
+<div id="moved_content">
+<div class="main_wrapper" id="panel">
+<div class="panel-content">
+<div id="secondary-content">
+<script>
+                        document.addEventListener('load', function () {
+                            ga('set', 'dimension10', '8dd5a222c8155ae4749fe7c23ae766d0');
+                            ga('set', 'Page Type', 'Feedback');
+                            ga('send', 'pageview');
+                        });
+                    </script>
+<div class="agilie__wrapper">
+<img src="https://d12zh9bqbty5wp.cloudfront.net/assets/main/main_page_screenshot-9786373f4e645e16887c74ee0f457829.png" style="display: none;">
+
+<section class="section section__welcome section__welcome--day">
+<div class="welcome__video-wrap">
+<video class="welcome__video" autoplay muted playsinline loop id="welcome-video" src="https://d12zh9bqbty5wp.cloudfront.net/showreel_super_small.mp4">
+</video>
+</div>
+<div class="home__container">
+
+<h1 class="welcome__title">Building Unique Software Solutions</h1>
+<p class="welcome__desc">High-quality web and mobile application development services</p>
+
+<div class="welcome__btn-wrap">
+<button class="welcome__btn home__button js-quote-btn get-a-quote-button" data-src="https://agilie.com/en/contacts">
+Get a quote
+</button>
+</div>
+
+<div class="welcome__nav">
+<div class="welcome__list">
+<a href="https://agilie.com/en/services" class="welcome__item welcome__item--purple">
+<p class="welcome__item-title">Services</p>
+<p class="welcome__item-desc">Check how we can help business to achieve the results</p>
+<p class="welcome__item-link">Learn More</p>
+</a>
+<a href="https://agilie.com/en/technologies" class="welcome__item welcome__item--blue">
+<p class="welcome__item-title">Technologies</p>
+<p class="welcome__item-desc">Be inlined with the modern technologies and design</p>
+<p class="welcome__item-link">Learn More</p>
+</a>
+<a href="https://agilie.com/en/projects" class="welcome__item welcome__item--orange">
+<p class="welcome__item-title">Projects</p>
+<p class="welcome__item-desc">Find the projects we’ve built with the passion</p>
+<p class="welcome__item-link">Learn More</p>
+</a>
+</div>
+</div>
+
+</div>
+
+<div class="scroll js-scroll-btn">
+<div class="scroll-wrap">
+<div class="scroll-mouse">
+<span class="scroll-mouse-wheel"></span>
+</div>
+<p class="scroll-text">swipe up</p>
+<div class="scroll-arrow">
+<div class="scroll-arrow__section"><span></span><span></span></div>
+<div class="scroll-arrow__section"><span></span><span></span></div>
+<div class="scroll-arrow__section"><span></span><span></span></div>
+</div>
+</div>
+</div>
+
+</section>
+
+
+<script defer="defer">
+    document.addEventListener('DOMContentLoaded', function () {
+        (function () {
+            var navItemsMobile = document.body.querySelectorAll('.js-welcome-nav-item-mobile');
+            var navItemsMob = Array.prototype.slice.call(navItemsMobile, 0);
+            var scrollBtn = document.body.querySelector('.js-scroll-btn');
+            var quoteBtn = document.body.querySelector('.js-quote-btn');
+            var serviceBtn = document.body.querySelector('.js-service-btn');
+            var aboutSection = document.body.querySelector('.section__features');
+            var contactSection = document.body.querySelector('.section__contacts');
+            var videoBg = document.getElementById('welcome-video');
+
+            videoBg.oncanplay = function () {
+                console.log('Can start playing video');
+                videoBg.muted = true;
+            };
+            // click on mobile nav items
+            navItemsMob.forEach(function (navItem) {
+                navItem.addEventListener('click', function () {
+                    if (navItem.classList.contains('welcome__item--active')) {
+                        window.location.href = navItem.dataset.src;
+                    }
+                    for (var i = 0; i < navItemsMob.length; i++) {
+                        navItemsMob[i].classList.remove('welcome__item--active');
+                    }
+                    navItem.classList.add('welcome__item--active');
+                })
+            });
+            // click on scroll button
+            quoteBtn.addEventListener('click', function (e) {
+                console.log(e, ' scroll to next section');
+                e.preventDefault();
+                scrollToElem({
+                    elem: contactSection,
+                    duration: 600,
+                    timingFunc: null,
+                    margin: 0
+                });
+            });
+            serviceBtn.addEventListener('click', function (e) {
+                console.log(e, ' scroll to next section');
+                e.preventDefault();
+                scrollToElem({
+                    elem: contactSection,
+                    duration: 600,
+                    timingFunc: null,
+                    margin: 0
+                });
+            });
+            scrollBtn.addEventListener('click', function (e) {
+                console.log(e, ' scroll to next section');
+                e.preventDefault();
+                scrollToElem({
+                    elem: aboutSection,
+                    duration: 600,
+                    timingFunc: null,
+                    margin: 0
+                });
+            });
+            // event for onscroll behavior
+            window.addEventListener('scroll', function () {
+                checkScrollHeight(window.pageYOffset);
+            });
+            // check current window offsetY
+            checkScrollHeight(window.pageYOffset);
+
+            // helper functions
+            function checkScrollHeight(YOffset) {
+                if (YOffset > 5) {
+                    scrollBtn.classList.add('scroll--hidden');
+                } else {
+                    scrollBtn.classList.remove('scroll--hidden');
+                }
+            }
+
+            // functions that are responsible for scrolling with smooth animation
+            function animation(options) {
+                var start = Date.now();
+                requestAnimationFrame(function animate() {
+                    var timePassed = Date.now() - start,
+                        timeFraction = timePassed / options.duration,
+                        progress;
+                    if (timeFraction > 1) timeFraction = 1;
+                    progress = options.timing(timeFraction);
+                    options.draw(progress);
+                    if (timeFraction < 1) {
+                        requestAnimationFrame(animate);
+                    }
+                });
+            }
+
+            function scrollToElem(options) {
+                /* options = {
+                              elem: NodeElem || Selector String,
+                              duration: Number,
+                              timingFunc: Function,
+                              margin: number
+                          }
+                     */
+                var elem = options.elem,
+                    duration = options.duration || 1000,
+                    timingFunc = options.timingFunc || swing,
+                    margin = options.margin || 0;
+
+                if (typeof elem === 'string') {
+                    elem = document.body.querySelector(elem);
+                }
+                if (!elem) return;
+
+                var elemPos = elem.getBoundingClientRect(),
+                    startY = window.pageYOffset,
+                    stopY = startY + elemPos.top,
+                    way = stopY - startY - margin;
+
+                animation({
+                    duration: duration,
+                    timing: timingFunc,
+                    draw: function (progress) {
+                        window.scrollTo(0, startY + progress * way);
+                    }
+                });
+
+                function swing(t) {
+                    return 0.5 - Math.cos(t * Math.PI) / 2;
+                }
+
+                function linear(time) {
+                    return time;
+                }
+
+            }
+        }());
+    });
+
+    (function () {
+        window.requestAnimationFrame = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+            window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+    }());
+
+</script>
+<section class="section section__features section__features--day">
+<div class="home__container features__container">
+<div class="features__item-wrap">
+<a href="/en/web-development-services" class="text-center features__item">
+<div class="features__item-img-wrap features__item-img-wrap--web">
+<img alt="Web" class="features__item-img" src="https://d12zh9bqbty5wp.cloudfront.net/assets/redesign/home_page/web_white-a7b68f8c98e37a0d1cd6b7c688e6ae59.svg" width="64" />
+</div>
+<div>
+<p class="features__item-title">Web</p>
+</div>
+<div>
+<p class="features__item-text">Mobile-friendly websites and<br>cloud-based solutions.</p>
+</div>
+</a>
+</div>
+<div class="features__item-wrap">
+<a href="/en/mobile-development-services" class="text-center features__item">
+<div class="features__item-img-wrap features__item-img-wrap--app">
+<img alt="Mobile" class="features__item-img" src="https://d12zh9bqbty5wp.cloudfront.net/assets/redesign/home_page/mobile_white-dcda717f66f9d9d24136d4e89d7bdf07.svg" style="height: 64px" width="64" />
+</div>
+<div>
+<p class="features__item-title">Mobile</p>
+</div>
+<div>
+<p class="features__item-text">Native and cross-platform mobile apps development.</p>
+</div>
+</a>
+</div>
+<div class="features__item-wrap">
+<a href="/en/ux-services" class="text-center features__item">
+<div class="features__item-img-wrap features__item-img-wrap--ui">
+<img alt="UI/UX" class="features__item-img" src="https://d12zh9bqbty5wp.cloudfront.net/assets/redesign/home_page/design_white-519e3f38d5225fd2f2daf2e82615bbc4.svg" width="64" />
+</div>
+<div>
+<p class="features__item-title">UI/UX</p>
+</div>
+<div>
+<p class="features__item-text">Creative design for mobile apps and adaptive websites.</p>
+</div>
+</a>
+</div>
+</div>
+</section>
+<section class="section section__about">
+<div class="home__container about">
+<div class="about__wrap">
+<h2 class="f44 black bold about__title">Web and Mobile app <br>development company</h2>
+<p class="dark-gray-text about__desc">Agilie team creates upscale web and mobile products with user-friendly UI/UX. We undertake the tasks of any level of complexity and implement the boldest digital ideas. Regardless of whether it is a streaming platform or financial system, we use the latest IT technologies and approach each project individually.</p>
+</div>
+<div class="about__count">
+<div class="about__item-wrap">
+<h2 class="about__item-number">9+</h2>
+<p class="about__item-text">years</p>
+</div>
+<div class="about__item-wrap">
+<h2 class="about__item-number">200+</h2>
+<p class="about__item-text">projects</p>
+</div>
+<div class="about__item-wrap">
+<h2 class="about__item-number">30+</h2>
+<p class="about__item-text">business expertises</p>
+</div>
+</div>
+</div>
+</section>
+<section class="section section__getstarted section__getstarted--day">
+<div class="home__container getstarted__wrap">
+<div class="getstarted__item-wrap">
+<div class="getstarted__img-wrap">
+<div class="getstarted__img"></div>
+</div>
+<h2 class="getstarted__text">Ready to start your project?</h2>
+</div>
+<div class="getstarted__link-wrap">
+<button class="home__button getstarted__link js-service-btn lets-start-button" data-src="https://agilie.com/en/contacts">
+Let’s start
+</button>
+</div>
+</div>
+</section>
+<section class="section section__works section__works--day">
+<div class="home__container">
+<h2 class="section--title">Our Works</h2>
+<div class="works__wrap">
+<div class="works__logo">
+<div class="works__rectangle works__rectangle--bookis"></div>
+<picture><source data-img-srcset="/assets/redesign/home_page/works/bookis.png.webp" type="image/webp" /><source data-img-srcset="/assets/redesign/home_page/works/bookis.png" /><img class="works__logo-img works__logo-img--bookis img-responsive" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<div class="works__info">
+<h3 class="works__title">Bookis</h3>
+<ul class="works__item-wrap">
+<li class="works__item">
+<p class="works__item-text">iOS</p>
+</li>
+<li class="works__item">
+<p class="works__item-text">Android</p>
+</li>
+</ul>
+<p class="works__description">The client had an idea of a mobile marketplace allowing users to distribute books among themselves by exchanging literature pieces for their cash equivalent. We helped him to build an app working on iOS and Android platforms. Thanks to it, people can buy and sell books in supreme comfort.</p>
+<a class="see-full-case-study-button" href="https://agilie.com/en/projects/bookis">See full case study</a>
+</div>
+</div>
+<div class="works__wrap">
+<div class="works__logo">
+<div class="works__rectangle works__rectangle--yeah"></div>
+<picture><source data-img-srcset="/assets/redesign/home_page/works/yeah.png.webp" type="image/webp" /><source data-img-srcset="/assets/redesign/home_page/works/yeah.png" /><img class="works__logo-img works__logo-img--yeah img-responsive" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<div class="works__info">
+<h3 class="works__title">YEAH</h3>
+<ul class="works__item-wrap">
+<li class="works__item">
+<p class="works__item-text">Ruby on Rails</p>
+</li>
+<li class="works__item">
+<p class="works__item-text">Spree Commerce</p>
+</li>
+</ul>
+<p class="works__description">Our client wanted to get an online fashion store to sell quality male underwear. And we, Agilie, provided him with the cost-efficient web solution based on Spree Commerce platform. Today, the YEAH site successfully works and distributes its products worldwide.</p>
+<a class="see-full-case-study-button" href="https://agilie.com/en/projects/yeah">See full case study</a>
+</div>
+</div>
+<div class="works__wrap">
+<div class="works__logo works__logo--chameleon">
+<div class="works__rectangle works__rectangle--chameleon"></div>
+<picture><source data-img-srcset="/assets/redesign/home_page/works/chameleon.png.webp" type="image/webp" /><source data-img-srcset="/assets/redesign/home_page/works/chameleon.png" /><img class="works__logo-img works__logo-img--chameleon img-responsive" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<div class="works__info">
+<h3 class="works__title">Chameleon Pay</h3>
+<ul class="works__item-wrap">
+<li class="works__item">
+<p class="works__item-text">NativeScript</p>
+</li>
+<li class="works__item">
+<p class="works__item-text">iOS</p>
+</li>
+<li class="works__item">
+<p class="works__item-text">Android</p>
+</li>
+</ul>
+<p class="works__description">The client had an idea to create an e-wallet app, and he resorted to our help. We started the project from scratch and developed Chameleon Pay: a multi-digital wallet helping users store, receive, send, convert, and perform other similar cryptocurrency manipulations.</p>
+<a class="see-full-case-study-button" href="https://agilie.com/en/projects/chameleon_pay">See full case study</a>
+</div>
+</div>
+</div>
+</section>
+<section class="section section__feedback">
+
+<div class="home__clients-feedback__wrapper">
+
+<div class="clients-feedback__section">
+<h2 class="clients-feedback__title">Customer Reviews</h2>
+<div class="clients-feedback__container">
+
+<button type="button" class="clients-feedback__controls clients-feedback__controls--next"></button>
+<button type="button" class="clients-feedback__controls clients-feedback__controls--prev"></button>
+
+
+<div id="clients-feedback" class="owl-carousel clients-feedback__carousel">
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">Knear</p>
+<p class="clients-feedback__slider-position">CEO</p>
+<p class="clients-feedback__slider-text">Agilie delivered an app that met discerning standards and offers a range of functionalities. The developers excelled at making creative suggestions and solving complex problems.</p>
+</div>
+</div>
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">Chainzilla</p>
+<p class="clients-feedback__slider-position">CEO</p>
+<p class="clients-feedback__slider-text">We contacted Agilie when we already had an application, but its quality and functionality did not satisfy us. After the whole work, we can say Agilie team was the right decision for this app. Users are extremely happy with clean design, colours and simple functionality.</p>
+</div>
+</div>
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">Original YEAH</p>
+<p class="clients-feedback__slider-position">Marketing director</p>
+<p class="clients-feedback__slider-text">Agilie has done a great job these months. We provided them with our idea and design, and their goal was to make a custom online store within a specified period. We are completely satisfied.</p>
+</div>
+</div>
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">EasyWay</p>
+<p class="clients-feedback__slider-position">CEO</p>
+<p class="clients-feedback__slider-text">Our company contacted the Agilie team and asked to develop mobile applications for our service Easy Way - public routes in Ukraine. The results exceeded our expectations. The number of services used increased by 40% the first month the application has been published. As a result, Agilie became our business partner for our mobile software.</p>
+<p class="clients-feedback__slider-company"> </p>
+</div>
+</div>
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">Online Education Platform</p>
+<p class="clients-feedback__slider-position">CEO</p>
+<p class="clients-feedback__slider-text">Agilie was great at taking direction and the feedback on user testing has been amazing so far. They’re a cost-effective and responsive team that communicates daily and delivers on time. They have a friendly disposition and are passionate about the work.</p>
+</div>
+</div>
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">Cast Group</p>
+<p class="clients-feedback__slider-position">CEO</p>
+<p class="clients-feedback__slider-text">The professional approach I have seen from the Agilie team dispelled my concerns about the result I would get. I was pleased to work with them and would recommend this company to others.</p>
+</div>
+</div>
+<div class="clients-feedback__slider">
+<div class="clients-feedback__slider-wrap">
+<p class="clients-feedback__slider-company">Wirex Limited</p>
+<p class="clients-feedback__slider-position">Director</p>
+<p class="clients-feedback__slider-text">We highly recommend Agilie based on our one-year cooperation experience. Their team is always very motivated, passionate about innovation and tremendously skillful. They helped us to move our products and services to another level. It has been a great pleasure to work with Eugene, Alex, Alina and the rest of the team.</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+
+</section>
+<section class="blog section__blog section__blog--day">
+<div class="blog__container--wrap">
+<h2 class="blog__title">Blog</h2>
+<div class="blog__container">
+<button type="button" class="blog__controls blog__controls--next"></button>
+<button type="button" class="blog__controls blog__controls--prev"></button>
+<div id="blog-post" class="owl-carousel blog__carousel">
+<div class="blog__slider">
+<a href="https://agilie.com/en/blog/How-To-Build-A-Money-Management-App-Like-Mint">
+<div class="blog__slider-wrap">
+<div class="blog__slider-img-wrap">
+<picture><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/7e059de3d3a4aae3b209234bda6630d40f1f4143.webp?1645448776" type="image/webp" /><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/5e28d18e14a7b6de271947d6f59dc601188ebfea.png?1645448776" /><img class="blog__slider-img" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<p class="blog__slider-title">How To Build A Money Management App Like Mint</p>
+<p class="blog__slider-desc">
+A personal finance app is a good startup idea. But where to start? Follow the link and find it out!
+</p>
+<div class="blog-arrow blog-arrow--day">
+<span></span>
+ </div>
+</div>
+</a>
+</div>
+<div class="blog__slider">
+<a href="https://agilie.com/en/blog/must-have-features-of-real-estate-crm">
+<div class="blog__slider-wrap">
+<div class="blog__slider-img-wrap">
+<picture><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/6f1b64827c44b3e7f6ae16b54c20bbedc6744d5f.webp?1645097288" type="image/webp" /><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/1c9ac9f3c0c43262c8bc66463a1137db505a47b2.jpg?1645097288" /><img class="blog__slider-img" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<p class="blog__slider-title">Must-have Features of Real Estate CRM</p>
+<p class="blog__slider-desc">
+Are you thinking about launching a real estate CRM system? Open the link to find out its main...
+</p>
+<div class="blog-arrow blog-arrow--day">
+<span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="blog__slider">
+<a href="https://agilie.com/en/blog/how-to-build-a-trading-platform-5-things-to-know-before-you-start-a-stock-market-app-like-e-trade">
+<div class="blog__slider-wrap">
+<div class="blog__slider-img-wrap">
+<picture><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/120569d28b65196e8afcab9037a87dd8c5a4a3d0.webp?1621350976" type="image/webp" /><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/143e57548508dbdc4b8209d3aa7334228a4475d1.jpeg?1621350976" /><img class="blog__slider-img" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<p class="blog__slider-title">How To Build a Trading Platform. 5 Things To Know Before You Start a Stock Market App Like E-Trade</p>
+<p class="blog__slider-desc">
+Follow the guidelines of our article to find out how to build a trading platform like E-Trade....
+</p>
+<div class="blog-arrow blog-arrow--day">
+<span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="blog__slider">
+<a href="https://agilie.com/en/blog/how-to-create-a-live-video-streaming-website-like-twitch-and-get-your-revenue">
+<div class="blog__slider-wrap">
+<div class="blog__slider-img-wrap">
+<picture><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/07b8cba86a66be2b599265209efb3e4c8cbe0afe.webp?1629385876" type="image/webp" /><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/9de61e2ce4f9a7cea576655c878b8fab8d9de765.png?1629385876" /><img class="blog__slider-img" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<p class="blog__slider-title">How to Create a Live Video Streaming Website Like Twitch and Get Your Revenue</p>
+<p class="blog__slider-desc">
+Wanna know how to create a successful streaming site like Twitch, with 300+ million visits per...
+</p>
+<div class="blog-arrow blog-arrow--day">
+<span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="blog__slider">
+<a href="https://agilie.com/en/blog/how-to-build-a-food-delivery-on-demand-app-like-postmates-and-zomato">
+<div class="blog__slider-wrap">
+<div class="blog__slider-img-wrap">
+<picture><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/a4bdb0d927b667dced5bd4bd351a8d3daa111488.webp?1571944448" type="image/webp" /><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/7b45874dc369a9b7555124b7bdbdb6c4ccbea832.jpg?1571944448" /><img class="blog__slider-img" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<p class="blog__slider-title">How to build a food delivery on-demand app like Postmates and Zomato</p>
+<p class="blog__slider-desc">
+On-demand app development. What you need to know before you build a food delivery app like...
+</p>
+<div class="blog-arrow blog-arrow--day">
+<span></span>
+</div>
+</div>
+</a>
+</div>
+<div class="blog__slider">
+<a href="https://agilie.com/en/blog/how-to-create-a-language-learning-app-like-duolingo">
+<div class="blog__slider-wrap">
+<div class="blog__slider-img-wrap">
+<picture><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/f702a15f62329aa89f9da9e31e63ee129efee13a.webp?1600074180" type="image/webp" /><source data-img-srcset="https://d12zh9bqbty5wp.cloudfront.net/uploads/blog_article_avatars/904a9995a2cb1535ed2f20e9922df1ff7d589ef1.jpg?1600074180" /><img class="blog__slider-img" src="/assets/agilie_img_placeholder.svg" /></picture>
+</div>
+<p class="blog__slider-title">How to Create a Language Learning App Like Duolingo?</p>
+<p class="blog__slider-desc">
+Read our article to find out how to develop a language app like Duolingo and how much it would...
+</p>
+<div class="blog-arrow blog-arrow--day">
+<span></span>
+</div>
+</div>
+</a>
+</div>
+</div>
+<a href="https://agilie.com/en/blog" class="home__button blog__button">View all articles</a>
+</div>
+</div>
+</section>
+<section class="content index-main dark-style-form section__contacts">
+
+<div class="form-contact__anchor" id="formContactWrap"></div>
+
+<h2 class="form__title ">Contact us</h2>
+<script>
+    grecaptcha.ready(function () {
+        grecaptcha.execute('6Ld6icMUAAAAADb8zj4oZOBakAgnrEUV7RI8etxa', {action: 'contact_form'})
+            .then(function (token) {
+                if(document.getElementById("g-recaptcha-response-form-contact")) {
+                    document.getElementById("g-recaptcha-response-form-contact").value = token;
+                }
+            });
+    });
+
+</script>
+<div class="form_wrapper">
+
+<form action="" class="form_contact jsFormContact">
+
+<div class="form_contact__success form_contact__success--hidden jsFormSuccess">
+<div class="form_contact__success_img__wrap">
+<img src="/assets/landing/ic_confirmation.svg" alt="email image" class="form_contact__success_img">
+</div>
+<div class="form_contact__success_wrap">
+<h4 class="form_contact__success_title">The Contact form is submitted!</h4>
+<p class="form_contact__success_text">We will contact you soon, thanks.</p>
+</div>
+</div>
+
+
+<div class="form_contact__row form_contact__row--required">
+<input type="text" id="name" class="form_contact__input form_contact__input--name jsInputName jsFormInput">
+<label for="name" class="form_contact__label form_contact__label--name">Your name <span>*</span></label>
+</div>
+<div class="form_contact__row">
+<input type="email" id="email" class="form_contact__input form_contact__input--email jsInputEmail jsFormInput">
+<label for="email" class="form_contact__label form_contact__label--email">Your email</label>
+</div>
+<div class="form_contact__row_wrap">
+<div class="form_contact__row_half">
+<p id="countryName" class="form_contact__input form_contact__input--country jsInputCountryName">Country</p>
+<span class="form_contact__label form_contact__label--country" data-value="Country">Country</span>
+</div>
+<div class="form_contact__row_half">
+<p id="countryCode" class="form_contact__input form_contact__input--country jsInputCountryCode">Code</p>
+<span class="form_contact__label form_contact__label--country" data-value="Code">Code</span>
+</div>
+</div>
+<div class="form_contact__row">
+<input type="tel" id="phone" class="form_contact__input form_contact__input--phone jsInputPhone jsFormInput">
+<label for="phone" class="form_contact__label form_contact__label--phone">Your phone</label>
+</div>
+<div class="form_contact__row">
+<textarea id="message" class="form_contact__input form_contact__input--msg jsInputMsg jsFormInput"></textarea>
+<label for="message" class="form_contact__label form_contact__label--msg">Your message - description of the app or website you would like to build</label>
+</div>
+
+<input type="hidden" id="g-recaptcha-response-form-contact" class="jsInputRecaptcha" name="g-recaptcha-response-form-contact">
+
+<div class="form_contact__submit_wrap">
+
+<button class="btn btn-green-bg home__button js-form_contact__submit" formnovalidate type="submit">send</button>
+
+
+<div class="form_contact__attach">
+<input type="file" id="file" class="form_contact__input form_contact__input--file jsInputFile">
+<label for="file" class="form_contact__label form_contact__label--file jsFileLabel">
+<span class="form_contact__label--icon"></span>
+Add file (up to 15 mb)
+</label>
+<div class="form_contact__attach-reset is-hidden jsResetAttach">
+<span class="form_contact__attach-icon"></span>
+<span class="form_contact__attach-text">Attached</span>
+</div>
+<p class="form_contact__attach-file is-hidden jsFileName"></p>
+</div>
+
+</div>
+
+</form>
+
+</div>
+<script type="text/javascript" charset="utf-8">
+    document.addEventListener('DOMContentLoaded', function () {
+        (function () {
+            var formContact = document.body.querySelector('.jsFormContact');
+            var gRecaptchaResponse = document.body.querySelector('.jsInputRecaptcha');
+            var inputName = document.body.querySelector('.jsInputName');
+            var inputEmail = document.body.querySelector('.jsInputEmail');
+            var inputPhone = document.body.querySelector('.jsInputPhone');
+            var inputMsg = document.body.querySelector('.jsInputMsg');
+            var inputFile = document.body.querySelector('.jsInputFile');
+            var labelFile = document.body.querySelector('.jsFileLabel');
+            var formInputs = document.body.querySelectorAll('.jsFormInput');
+            var fileName = document.body.querySelector('.jsFileName');
+            var resetAttach = document.body.querySelector('.jsResetAttach');
+            var formSuccess = document.body.querySelector('.jsFormSuccess');
+            var inputCountryName = document.body.querySelector('.jsInputCountryName');
+            var inputCountryCode = document.body.querySelector('.jsInputCountryCode');
+            var searchCountryResetBtn = document.body.querySelector('.jsSearchReset');
+            var searchCountryInput = document.body.querySelector('.jsSearchInput');
+            var countryModalCloseBtns = document.body.querySelectorAll('.jsCountryClose');
+
+            var allCountries = [
+                {"name":"Afghanistan","dial_code":"+93","code":"AF"},{"name":"Albania","dial_code":"+355","code":"AL"},{"name":"Algeria","dial_code":"+213","code":"DZ"},{"name":"American Samoa","dial_code":"+1 684","code":"AS"},{"name":"Andorra","dial_code":"+376","code":"AD"},{"name":"Angola","dial_code":"+244","code":"AO"},{"name":"Anguilla","dial_code":"+1 264","code":"AI"},{"name":"Antigua and Barbuda","dial_code":"+1268","code":"AG"},{"name":"Argentina","dial_code":"+54","code":"AR"},{"name":"Armenia","dial_code":"+374","code":"AM"},{"name":"Aruba","dial_code":"+297","code":"AW"},{"name":"Australia","dial_code":"+61","code":"AU"},{"name":"Austria","dial_code":"+43","code":"AT"},{"name":"Azerbaijan","dial_code":"+994","code":"AZ"},{"name":"Bahamas","dial_code":"+1 242","code":"BS"},{"name":"Bahrain","dial_code":"+973","code":"BH"},{"name":"Bangladesh","dial_code":"+880","code":"BD"},{"name":"Barbados","dial_code":"+1 246","code":"BB"},{"name":"Belarus","dial_code":"+375","code":"BY"},{"name":"Belgium","dial_code":"+32","code":"BE"},{"name":"Belize","dial_code":"+501","code":"BZ"},{"name":"Benin","dial_code":"+229","code":"BJ"},{"name":"Bermuda","dial_code":"+1 441","code":"BM"},{"name":"Bhutan","dial_code":"+975","code":"BT"},{"name":"Bosnia and Herzegovina","dial_code":"+387","code":"BA"},{"name":"Botswana","dial_code":"+267","code":"BW"},{"name":"Brazil","dial_code":"+55","code":"BR"},{"name":"British Indian Ocean Territory","dial_code":"+246","code":"IO"},{"name":"Bulgaria","dial_code":"+359","code":"BG"},{"name":"Burkina Faso","dial_code":"+226","code":"BF"},{"name":"Burundi","dial_code":"+257","code":"BI"},{"name":"Cambodia","dial_code":"+855","code":"KH"},{"name":"Cameroon","dial_code":"+237","code":"CM"},{"name":"Canada","dial_code":"+1","code":"CA"},{"name":"Cape Verde","dial_code":"+238","code":"CV"},{"name":"Cayman Islands","dial_code":"+ 345","code":"KY"},{"name":"Central African Republic","dial_code":"+236","code":"CF"},{"name":"Chad","dial_code":"+235","code":"TD"},{"name":"Chile","dial_code":"+56","code":"CL"},{"name":"China","dial_code":"+86","code":"CN"},{"name":"Christmas Island","dial_code":"+61","code":"CX"},{"name":"Colombia","dial_code":"+57","code":"CO"},{"name":"Comoros","dial_code":"+269","code":"KM"},{"name":"Congo","dial_code":"+242","code":"CG"},{"name":"Cook Islands","dial_code":"+682","code":"CK"},{"name":"Costa Rica","dial_code":"+506","code":"CR"},{"name":"Croatia","dial_code":"+385","code":"HR"},{"name":"Cuba","dial_code":"+53","code":"CU"},{"name":"Cyprus","dial_code":"+537","code":"CY"},{"name":"Czech Republic","dial_code":"+420","code":"CZ"},{"name":"Denmark","dial_code":"+45","code":"DK"},{"name":"Djibouti","dial_code":"+253","code":"DJ"},{"name":"Dominica","dial_code":"+1 767","code":"DM"},{"name":"Dominican Republic","dial_code":"+1 849","code":"DO"},{"name":"Ecuador","dial_code":"+593","code":"EC"},{"name":"Egypt","dial_code":"+20","code":"EG"},{"name":"El Salvador","dial_code":"+503","code":"SV"},{"name":"Equatorial Guinea","dial_code":"+240","code":"GQ"},{"name":"Eritrea","dial_code":"+291","code":"ER"},{"name":"Estonia","dial_code":"+372","code":"EE"},{"name":"Ethiopia","dial_code":"+251","code":"ET"},{"name":"Faroe Islands","dial_code":"+298","code":"FO"},{"name":"Fiji","dial_code":"+679","code":"FJ"},{"name":"Finland","dial_code":"+358","code":"FI"},{"name":"France","dial_code":"+33","code":"FR"},{"name":"French Guiana","dial_code":"+594","code":"GF"},{"name":"French Polynesia","dial_code":"+689","code":"PF"},{"name":"Gabon","dial_code":"+241","code":"GA"},{"name":"Gambia","dial_code":"+220","code":"GM"},{"name":"Georgia","dial_code":"+995","code":"GE"},{"name":"Germany","dial_code":"+49","code":"DE"},{"name":"Ghana","dial_code":"+233","code":"GH"},{"name":"Gibraltar","dial_code":"+350","code":"GI"},{"name":"Greece","dial_code":"+30","code":"GR"},{"name":"Greenland","dial_code":"+299","code":"GL"},{"name":"Grenada","dial_code":"+1 473","code":"GD"},{"name":"Guadeloupe","dial_code":"+590","code":"GP"},{"name":"Guam","dial_code":"+1 671","code":"GU"},{"name":"Guatemala","dial_code":"+502","code":"GT"},{"name":"Guinea","dial_code":"+224","code":"GN"},{"name":"Guinea-Bissau","dial_code":"+245","code":"GW"},{"name":"Guyana","dial_code":"+595","code":"GY"},{"name":"Haiti","dial_code":"+509","code":"HT"},{"name":"Honduras","dial_code":"+504","code":"HN"},{"name":"Hungary","dial_code":"+36","code":"HU"},{"name":"Iceland","dial_code":"+354","code":"IS"},{"name":"India","dial_code":"+91","code":"IN"},{"name":"Indonesia","dial_code":"+62","code":"ID"},{"name":"Iraq","dial_code":"+964","code":"IQ"},{"name":"Ireland","dial_code":"+353","code":"IE"},{"name":"Israel","dial_code":"+972","code":"IL"},{"name":"Italy","dial_code":"+39","code":"IT"},{"name":"Jamaica","dial_code":"+1 876","code":"JM"},{"name":"Japan","dial_code":"+81","code":"JP"},{"name":"Jordan","dial_code":"+962","code":"JO"},{"name":"Kazakhstan","dial_code":"+7 7","code":"KZ"},{"name":"Kenya","dial_code":"+254","code":"KE"},{"name":"Kiribati","dial_code":"+686","code":"KI"},{"name":"Kuwait","dial_code":"+965","code":"KW"},{"name":"Kyrgyzstan","dial_code":"+996","code":"KG"},{"name":"Latvia","dial_code":"+371","code":"LV"},{"name":"Lebanon","dial_code":"+961","code":"LB"},{"name":"Lesotho","dial_code":"+266","code":"LS"},{"name":"Liberia","dial_code":"+231","code":"LR"},{"name":"Liechtenstein","dial_code":"+423","code":"LI"},{"name":"Lithuania","dial_code":"+370","code":"LT"},{"name":"Luxembourg","dial_code":"+352","code":"LU"},{"name":"Madagascar","dial_code":"+261","code":"MG"},{"name":"Malawi","dial_code":"+265","code":"MW"},{"name":"Malaysia","dial_code":"+60","code":"MY"},{"name":"Maldives","dial_code":"+960","code":"MV"},{"name":"Mali","dial_code":"+223","code":"ML"},{"name":"Malta","dial_code":"+356","code":"MT"},{"name":"Marshall Islands","dial_code":"+692","code":"MH"},{"name":"Martinique","dial_code":"+596","code":"MQ"},{"name":"Mauritania","dial_code":"+222","code":"MR"},{"name":"Mauritius","dial_code":"+230","code":"MU"},{"name":"Mayotte","dial_code":"+262","code":"YT"},{"name":"Mexico","dial_code":"+52","code":"MX"},{"name":"Monaco","dial_code":"+377","code":"MC"},{"name":"Mongolia","dial_code":"+976","code":"MN"},{"name":"Montenegro","dial_code":"+382","code":"ME"},{"name":"Montserrat","dial_code":"+1664","code":"MS"},{"name":"Morocco","dial_code":"+212","code":"MA"},{"name":"Myanmar","dial_code":"+95","code":"MM"},{"name":"Namibia","dial_code":"+264","code":"NA"},{"name":"Nauru","dial_code":"+674","code":"NR"},{"name":"Nepal","dial_code":"+977","code":"NP"},{"name":"Netherlands","dial_code":"+31","code":"NL"},{"name":"Netherlands Antilles","dial_code":"+599","code":"AN"},{"name":"New Caledonia","dial_code":"+687","code":"NC"},{"name":"New Zealand","dial_code":"+64","code":"NZ"},{"name":"Nicaragua","dial_code":"+505","code":"NI"},{"name":"Niger","dial_code":"+227","code":"NE"},{"name":"Nigeria","dial_code":"+234","code":"NG"},{"name":"Niue","dial_code":"+683","code":"NU"},{"name":"Norfolk Island","dial_code":"+672","code":"NF"},{"name":"Northern Mariana Islands","dial_code":"+1 670","code":"MP"},{"name":"Norway","dial_code":"+47","code":"NO"},{"name":"Oman","dial_code":"+968","code":"OM"},{"name":"Pakistan","dial_code":"+92","code":"PK"},{"name":"Palau","dial_code":"+680","code":"PW"},{"name":"Panama","dial_code":"+507","code":"PA"},{"name":"Papua New Guinea","dial_code":"+675","code":"PG"},{"name":"Paraguay","dial_code":"+595","code":"PY"},{"name":"Peru","dial_code":"+51","code":"PE"},{"name":"Philippines","dial_code":"+63","code":"PH"},{"name":"Poland","dial_code":"+48","code":"PL"},{"name":"Portugal","dial_code":"+351","code":"PT"},{"name":"Puerto Rico","dial_code":"+1 939","code":"PR"},{"name":"Qatar","dial_code":"+974","code":"QA"},{"name":"Romania","dial_code":"+40","code":"RO"},{"name":"Rwanda","dial_code":"+250","code":"RW"},{"name":"Samoa","dial_code":"+685","code":"WS"},{"name":"San Marino","dial_code":"+378","code":"SM"},{"name":"Saudi Arabia","dial_code":"+966","code":"SA"},{"name":"Senegal","dial_code":"+221","code":"SN"},{"name":"Serbia","dial_code":"+381","code":"RS"},{"name":"Seychelles","dial_code":"+248","code":"SC"},{"name":"Sierra Leone","dial_code":"+232","code":"SL"},{"name":"Singapore","dial_code":"+65","code":"SG"},{"name":"Slovakia","dial_code":"+421","code":"SK"},{"name":"Slovenia","dial_code":"+386","code":"SI"},{"name":"Solomon Islands","dial_code":"+677","code":"SB"},{"name":"South Africa","dial_code":"+27","code":"ZA"},{"name":"South Georgia and the South Sandwich Islands","dial_code":"+500","code":"GS"},{"name":"Spain","dial_code":"+34","code":"ES"},{"name":"Sri Lanka","dial_code":"+94","code":"LK"},{"name":"Sudan","dial_code":"+249","code":"SD"},{"name":"Suriname","dial_code":"+597","code":"SR"},{"name":"Swaziland","dial_code":"+268","code":"SZ"},{"name":"Sweden","dial_code":"+46","code":"SE"},{"name":"Switzerland","dial_code":"+41","code":"CH"},{"name":"Tajikistan","dial_code":"+992","code":"TJ"},{"name":"Thailand","dial_code":"+66","code":"TH"},{"name":"Togo","dial_code":"+228","code":"TG"},{"name":"Tokelau","dial_code":"+690","code":"TK"},{"name":"Tonga","dial_code":"+676","code":"TO"},{"name":"Trinidad and Tobago","dial_code":"+1 868","code":"TT"},{"name":"Tunisia","dial_code":"+216","code":"TN"},{"name":"Turkey","dial_code":"+90","code":"TR"},{"name":"Turkmenistan","dial_code":"+993","code":"TM"},{"name":"Turks and Caicos Islands","dial_code":"+1 649","code":"TC"},{"name":"Tuvalu","dial_code":"+688","code":"TV"},{"name":"Uganda","dial_code":"+256","code":"UG"},{"name":"Ukraine","dial_code":"+380","code":"UA"},{"name":"United Arab Emirates","dial_code":"+971","code":"AE"},{"name":"United Kingdom","dial_code":"+44","code":"GB"},{"name":"United States","dial_code":"+1","code":"US"},{"name":"Uruguay","dial_code":"+598","code":"UY"},{"name":"Uzbekistan","dial_code":"+998","code":"UZ"},{"name":"Vanuatu","dial_code":"+678","code":"VU"},{"name":"Wallis and Futuna","dial_code":"+681","code":"WF"},{"name":"Yemen","dial_code":"+967","code":"YE"},{"name":"Zambia","dial_code":"+260","code":"ZM"},{"name":"Zimbabwe","dial_code":"+263","code":"ZW"},{"name":"land Islands","dial_code":"","code":"AX"},{"name":"Antarctica","dial_code":null,"code":"AQ"},{"name":"Bolivia, Plurinational State of","dial_code":"+591","code":"BO"},{"name":"Brunei Darussalam","dial_code":"+673","code":"BN"},{"name":"Cocos (Keeling) Islands","dial_code":"+61","code":"CC"},{"name":"Congo, The Democratic Republic of the","dial_code":"+243","code":"CD"},{"name":"Cote d'Ivoire","dial_code":"+225","code":"CI"},{"name":"Falkland Islands (Malvinas)","dial_code":"+500","code":"FK"},{"name":"Guernsey","dial_code":"+44","code":"GG"},{"name":"Holy See (Vatican City State)","dial_code":"+379","code":"VA"},{"name":"Hong Kong","dial_code":"+852","code":"HK"},{"name":"Iran, Islamic Republic of","dial_code":"+98","code":"IR"},{"name":"Isle of Man","dial_code":"+44","code":"IM"},{"name":"Jersey","dial_code":"+44","code":"JE"},{"name":"Korea, Democratic People's Republic of","dial_code":"+850","code":"KP"},{"name":"Korea, Republic of","dial_code":"+82","code":"KR"},{"name":"Lao People's Democratic Republic","dial_code":"+856","code":"LA"},{"name":"Libyan Arab Jamahiriya","dial_code":"+218","code":"LY"},{"name":"Macao","dial_code":"+853","code":"MO"},{"name":"Macedonia, The Former Yugoslav Republic of","dial_code":"+389","code":"MK"},{"name":"Micronesia, Federated States of","dial_code":"+691","code":"FM"},{"name":"Moldova, Republic of","dial_code":"+373","code":"MD"},{"name":"Mozambique","dial_code":"+258","code":"MZ"},{"name":"Palestinian Territory, Occupied","dial_code":"+970","code":"PS"},{"name":"Pitcairn","dial_code":"+872","code":"PN"},{"name":"Réunion","dial_code":"+262","code":"RE"},{"name":"Russia","dial_code":"+7","code":"RU"},{"name":"Saint Barthélemy","dial_code":"+590","code":"BL"},{"name":"Saint Helena, Ascension and Tristan Da Cunha","dial_code":"+290","code":"SH"},{"name":"Saint Kitts and Nevis","dial_code":"+1 869","code":"KN"},{"name":"Saint Lucia","dial_code":"+1 758","code":"LC"},{"name":"Saint Martin","dial_code":"+590","code":"MF"},{"name":"Saint Pierre and Miquelon","dial_code":"+508","code":"PM"},{"name":"Saint Vincent and the Grenadines","dial_code":"+1 784","code":"VC"},{"name":"Sao Tome and Principe","dial_code":"+239","code":"ST"},{"name":"Somalia","dial_code":"+252","code":"SO"},{"name":"Svalbard and Jan Mayen","dial_code":"+47","code":"SJ"},{"name":"Syrian Arab Republic","dial_code":"+963","code":"SY"},{"name":"Taiwan, Province of China","dial_code":"+886","code":"TW"},{"name":"Tanzania, United Republic of","dial_code":"+255","code":"TZ"},{"name":"Timor-Leste","dial_code":"+670","code":"TL"},{"name":"Venezuela, Bolivarian Republic of","dial_code":"+58","code":"VE"},{"name":"Viet Nam","dial_code":"+84","code":"VN"},{"name":"Virgin Islands, British","dial_code":"+1 284","code":"VG"},{"name":"Virgin Islands, U.S.","dial_code":"+1 340","code":"VI"}
+                ];
+            var isFormValid = false;
+            var isCountrySelected = false;
+
+            var deviceHeight = window.innerHeight;
+
+            // variable for send Contact_form implicit
+            var timeoutId;
+
+            generateCountryList(allCountries);
+
+            function generateCountryList(countries) {
+                var countryList = document.body.querySelector('.country_modal__list');
+
+                countries.forEach(function (country) {
+                    var listItem = document.createElement('li');
+                    var countryName = document.createElement('span');
+                    var countryCode = document.createElement('span');
+
+                    listItem.classList.add('country_modal__item');
+                    listItem.dataset.name = country.name.toLowerCase();
+                    listItem.dataset.code = country.dial_code;
+                    listItem.addEventListener('click', function () {
+                        selectCountry(country);
+                        resetSearchCountry();
+                        closeCountryPopup();
+                    });
+                    countryName.classList.add('country_modal__name');
+                    countryCode.classList.add('country_modal__code');
+                    countryName.innerText = country.name;
+                    countryCode.innerText = country.dial_code;
+
+                    listItem.appendChild(countryName);
+                    listItem.appendChild(countryCode);
+                    countryList.appendChild(listItem);
+                });
+            }
+            function setCountryListHeight() {
+                var popup = document.getElementById('jsCountryModal');
+                var popupHead = document.body.querySelector('.country_modal__head').getBoundingClientRect().height;
+                var popupBody = document.body.querySelector('.country_modal__body');
+                var popupSearch = document.body.querySelector('.country_modal__search').getBoundingClientRect().height;
+                var popupList = document.body.querySelector('.country_modal__list');
+
+                var popupHeight = deviceHeight - 80;// 80px is padding => from top 40px & from bottom 40px
+
+                popup.style.height = popupHeight + 'px';
+                var popupCurrentHeight = popup.getBoundingClientRect().height;
+
+                popupBody.style.maxHeight = (popupCurrentHeight - popupHead) * 10 + 'px'; // *10 because of scale = 0.1
+                popupList.style.height = (popupCurrentHeight - popupHead - popupSearch) * 10 - 15 + 'px'; // 15px padding bottom of popup_body
+            }
+            function selectCountry(country) {
+                inputCountryName.innerText = country.name;
+                inputCountryCode.innerText = country.dial_code;
+                inputCountryName.classList.remove('invalid');
+                inputCountryCode.classList.remove('invalid');
+
+                isCountrySelected = true;
+            }
+            function resetCountry() {
+                inputCountryName.innerText = 'Country';
+                inputCountryCode.innerText = 'Code';
+                inputCountryName.classList.remove('invalid');
+                inputCountryCode.classList.remove('invalid');
+
+                isCountrySelected = false;
+            }
+            function resetSearchCountry() {
+                searchCountryInput.value = '';
+                searchCountryResetBtn.classList.add('country_modal__search_btn--hidden');
+                resetCountriesFilter();
+            }
+            function filterCountries(filter) {
+                var countries = document.body.querySelectorAll('.country_modal__item');
+
+                Array.prototype.forEach.call(countries, function (country) {
+                    
+                    if (country.dataset.name.indexOf(filter) === -1 && country.dataset.code.indexOf(filter) === -1) {
+                        country.classList.add('country_modal__item--hidden');
+                    } else {
+                        country.classList.remove('country_modal__item--hidden');
+                    }
+                    
+                });
+            }
+            function resetCountriesFilter() {
+                var countries = document.body.querySelectorAll('.country_modal__item');
+
+                Array.prototype.forEach.call(countries, function (country) {
+
+                    country.classList.remove('country_modal__item--hidden');
+
+                });
+            }
+
+            Array.prototype.forEach.call(formInputs, function (input) {
+
+                input.addEventListener('input', function () {
+                    // send Contact_form implicit
+                    clearTimeout(timeoutId);
+                    timeoutId = setTimeout(sendFormImplicit, 500);
+
+                    var value = input.value.trim();
+                    if (value) {
+                        input.nextElementSibling.setAttribute('data-value', '' + value + '');
+                        input.classList.remove('invalid');
+                    } else {
+                        input.nextElementSibling.removeAttribute('data-value');
+                    }
+                });
+
+            });
+            Array.prototype.forEach.call(countryModalCloseBtns, function (closeBtn) {
+
+                closeBtn.addEventListener('click', function () {
+                    closeCountryPopup();
+                    resetSearchCountry();
+                });
+
+            });
+
+            inputFile.addEventListener('change', function () {
+                // validate file
+                validateFile();
+            });
+            resetAttach.addEventListener('click', resetFileInput);
+            fileName.addEventListener('click', function () {
+                // change input file
+                labelFile.click(); // emit click on input's label
+            });
+            inputCountryName.addEventListener('click', showCountryPopup);
+            inputCountryCode.addEventListener('click', showCountryPopup);
+            searchCountryResetBtn.addEventListener('click', resetSearchCountry);
+            searchCountryInput.addEventListener('input', function () {
+                var value = searchCountryInput.value.trim();
+
+                if (value) {
+                    filterCountries(value.toLowerCase());
+                    searchCountryResetBtn.classList.remove('country_modal__search_btn--hidden');
+                } else {
+                    resetSearchCountry();
+                    searchCountryResetBtn.classList.add('country_modal__search_btn--hidden');
+                }
+            });
+
+            function validateForm() {
+                validateName();
+                // validateEmail();
+                // validatePhone();
+                // validateMsg();
+                // isFormValid = !!validateName() && !!validateEmail() && !!validatePhone() && !!validateMsg() && !!validateFile();
+                isFormValid = !!validateName() && !!validateFile();
+                return isFormValid;
+            }
+
+            function validateName() {
+                // check only for present
+                if (!inputName.value.trim()) {
+                    inputName.classList.add('invalid');
+                }
+                return !!inputName.value.trim();
+            }
+
+            function validateEmail() {
+                // add email validation
+                if (!inputEmail.value.trim()) {
+                    inputEmail.classList.add('invalid');
+                }
+                return !!inputEmail.value.trim();
+            }
+
+            function validatePhone() {
+                var isValid = true;
+                // check only for present
+                if (!inputPhone.value.trim()) {
+                    inputPhone.classList.add('invalid');
+                    isValid = false;
+                }
+                // check selected country code
+                if (!isCountrySelected) {
+                    inputCountryName.classList.add('invalid');
+                    inputCountryCode.classList.add('invalid');
+                    isValid = false;
+                }
+
+                return isValid;
+            }
+
+            function validateMsg() {
+                // check only for present
+                if (!inputMsg.value.trim()) {
+                    inputMsg.classList.add('invalid');
+                }
+                return !!inputMsg.value.trim();
+            }
+
+            function validateFile() {
+                var isValid = true;
+                // check is file exist
+                if (inputFile.files.length) {
+                    setFileName(inputFile.files[0].name);
+                    resetAttach.classList.remove('is-hidden');
+                    fileName.classList.remove('is-hidden');
+                    labelFile.classList.add('is-hidden');
+                    // check file size (<15mb) only if file uploaded
+                    isValid = checkFileSize(inputFile.files[0]);
+                } else {
+                    removeFileName();
+                    resetAttach.classList.add('is-hidden');
+                    fileName.classList.add('is-hidden');
+                    labelFile.classList.remove('is-hidden');
+                }
+                return isValid;
+            }
+
+            function setFileName(name) {
+                fileName.innerHTML = name;
+            }
+
+            function removeFileName() {
+                fileName.innerHTML = '';
+            }
+
+            function checkFileSize(file) {
+                if (file.size > 15728640) {
+                    resetAttach.classList.add('invalid');
+                    return false;
+                } else {
+                    resetAttach.classList.remove('invalid');
+                }
+                return true;
+            }
+
+            function resetFileInput() {
+                fileName.classList.add('is-hidden');
+                resetAttach.classList.add('is-hidden');
+                labelFile.classList.remove('is-hidden');
+                inputFile.value = '';
+            }
+
+            function resetForm() {
+                Array.prototype.forEach.call(formInputs, function (input) {
+
+                    input.value = '';
+                    input.classList.remove('invalid');
+                    input.nextElementSibling.removeAttribute('data-value');
+
+                });
+                resetFileInput();
+                resetCountry();
+            }
+
+            function showSuccessForm() {
+                formSuccess.classList.remove('form_contact__success--hidden');
+            }
+
+            function showCountryPopup(e) {
+                e.stopPropagation();
+                var countryModal = document.body.querySelector('.country_modal__wrapper');
+                var countryModalList = document.body.querySelector('.country_modal__list');
+
+                countryModalList.scrollTop = 0;
+                countryModal.classList.remove('country_modal__wrapper--hidden');
+                document.body.classList.add('country_modal_open');
+
+                setCountryListHeight();
+
+                window.addEventListener('click', countryPopupStatus);
+            }
+
+            function closeCountryPopup() {
+                var countryModal = document.body.querySelector('.country_modal__wrapper');
+
+                countryModal.classList.add('country_modal__wrapper--hidden');
+                document.body.classList.remove('country_modal_open');
+
+                window.removeEventListener('click', countryPopupStatus);
+            }
+
+            function countryPopupStatus(e) {
+                var countryModal = document.getElementById('jsCountryModal');
+
+                if (countryModal.contains(e.target)) {
+                    // Clicked in box
+                } else {
+                    // Clicked outside the box => close Country popup
+                    closeCountryPopup();
+                    resetSearchCountry();
+                }
+            }
+
+            function createFormDataImplicit() {
+                var formData = new FormData();
+                var transactionId = Date.now();
+
+                formData.append('authenticity_token', $('meta[name=csrf-token]').attr("content"));
+                formData.append('name', inputName.value || 'empty_name');
+                formData.append('email', inputEmail.value || 'empty_email');
+                // if user doesn't select country code --- send just input_phone
+                if (isCountrySelected) {
+                    formData.append('country_code', inputCountryCode.innerText);
+                    formData.append('phone', inputPhone.value);
+                } else {
+                    formData.append('phone', inputPhone.value);
+                }
+                formData.append('message', inputMsg.value);
+                formData.append('g-recaptcha-response', gRecaptchaResponse.value);
+                formData.append('transaction_identifier', (transactionId).toString());
+
+                return formData;
+            }
+
+            function createFormData() {
+                var formData = new FormData();
+                var transactionId = Date.now();
+
+                formData.append('authenticity_token', $('meta[name=csrf-token]').attr("content"));
+                formData.append('name', inputName.value);
+                formData.append('email', inputEmail.value);
+                // if user doesn't select country code --- send just input_phone
+                if (isCountrySelected) {
+                    formData.append('country_code', inputCountryCode.innerText);
+                    formData.append('phone', inputPhone.value);
+                } else {
+                    formData.append('phone', inputPhone.value);
+                }
+                formData.append('message', inputMsg.value);
+
+                if (inputFile.files[0]) {
+                    formData.append('file', inputFile.files[0]);
+                }
+                formData.append('g-recaptcha-response', gRecaptchaResponse.value);
+                formData.append('transaction_identifier', (transactionId).toString());
+
+                // Display the key/value pairs
+                // for (var pair of formData.entries()) {
+                //     console.log(pair[0]+ ', ' + pair[1]);
+                // }
+
+                // generate Google Analytics
+                var regexp = new RegExp(window.location.origin + '\/..\/(\\w+)');
+                var category = window.location.href.match(regexp)[1];
+                var firstH1 = $('h1.first-subtitle').first().text() || category;
+
+                dataLayer.push({
+                    'event': 'click_send_button',
+                    'pageLang': 'en',
+                    'pageType': 'Conversion',
+                    'transactionId': transactionId,
+                    'transactionTotal': '0',
+                    'transactionProducts': [
+                        {
+                            'sku': '0',
+                            'name': firstH1,
+                            'category': category,
+                            'price': '0',
+                            'quantity': 1
+                        }
+                    ]
+
+                });
+
+                return formData;
+            }
+
+            function sendFormImplicit() {
+                sendForm(true);
+            }
+
+            function sendForm(implicit) {
+                implicit = implicit || false;
+                $.ajax({
+                    type: 'POST',
+                    url: implicit ? '/send-feedback-implicit' : '/send-feedback',
+                    data: implicit ? createFormDataImplicit() : createFormData(),
+                    processData: false,
+                    contentType: false,
+                    success: function (data) {
+                        console.log('Email successfully send ', data);
+                    },
+                    error: function (error) {
+                        console.log('Email doesn\'t send, please try again later ', error);
+                    },
+                    complete: function(data) {
+                        recaptchaReloading();
+                    }
+                });
+            }
+
+            function recaptchaReloading() {
+                var recaptchaId = '#g-recaptcha-response-form-contact';
+                grecaptcha.execute('6Ld6icMUAAAAADb8zj4oZOBakAgnrEUV7RI8etxa', {action: 'contact_form'})
+                    .then(function (token) {
+                        if($(recaptchaId)) {
+                            $(recaptchaId).val(token);
+                        }
+                    });
+            }
+
+            formContact.addEventListener('submit', function (e) {
+                e.preventDefault();
+                console.log('form submitted?: <' + validateForm() + '>');
+                if (validateForm()) {
+                    showSuccessForm();
+                    sendForm();
+                    resetForm();
+                }
+            });
+
+        }());
+    });
+</script>
+</section>
+</div>
+<div class="agilie__menu">
+
+<div class="aside-menu__social">
+<ul class="aside-menu__social-list">
+<li class="aside-menu__social-item">
+<a href="https://dribbble.com/agilie" target="_blank" class="aside-menu__social__link aside-menu__social__link--dribbble"></a>
+</li>
+<li class="aside-menu__social-item">
+<a href="https://www.behance.net/agilie" target="_blank" class="aside-menu__social__link aside-menu__social__link--behance"></a>
+</li>
+<li class="aside-menu__social-item">
+<a href="https://www.facebook.com/pages/Agilie/282259051924123" target="_blank" class="aside-menu__social__link aside-menu__social__link--fb"></a>
+</li>
+<li class="aside-menu__social-item">
+<a href="https://twitter.com/agile_ninjas" target="_blank" class="aside-menu__social__link aside-menu__social__link--tw"></a>
+</li>
+<li class="aside-menu__social-item">
+<a href="https://twitter.com/agile_ninjas" target="_blank" class="aside-menu__social__link aside-menu__social__link--google"></a>
+</li>
+<li class="aside-menu__social-item">
+<a href="https://www.instagram.com/agilie_ninja/" target="_blank" class="aside-menu__social__link aside-menu__social__link--insta"></a>
+</li>
+<li class="aside-menu__social-item">
+<a href="https://www.linkedin.com/company/agilie" target="_blank" class="aside-menu__social__link aside-menu__social__link--lin"></a>
+</li>
+</ul>
+</div>
+<div class="aside-menu__wrap">
+<ul role="menu" class="aside-menu__list">
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/services" class="aside-menu__link">Services</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/expertise/crowdfunding-website-design" class="aside-menu__link">Expertise</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/technologies" class="aside-menu__link">Technologies</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/blog" class="aside-menu__link">Blog</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/projects" class="aside-menu__link">Projects</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/about-us" class="aside-menu__link">About us</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/careers" class="aside-menu__link">Careers</a>
+</li>
+<li class="aside-menu__item">
+<a href="https://agilie.com/en/contacts" class="aside-menu__link">Contact us</a>
+</li>
+<li class="subscr-btn aside-menu__item" data-toggle="modal" data-target="#subscr">
+<span class="menu-line aside-menu__item-line"></span><br>
+<a href="javascript:void(0);" class="aside-menu__link">Subscribe to newsletter</a>
+</li>
+
+<div class="header__lang-wrap">
+<button class="header__lang js-header-lang is-active" data-lang="en" data-src="https://agilie.com/en/index">en</button>
+<span class="header__lang-divider">/</span>
+<button class="header__lang js-header-lang " data-lang="ru" data-src="https://agilie.com/ru/index">ru</button>
+</div>
+
+</ul>
+</div>
+
+<script defer="defer">
+    (function () {
+        var header = document.body.querySelector('.js-header');
+        var headerMenuBtn = document.body.querySelector('.js-header-menu-btn');
+        var headerLangBtns = document.body.querySelectorAll('.js-header-lang');
+        // click on languages buttons
+        [].forEach.call(headerLangBtns, function (langBtn) {
+            langBtn.addEventListener('click', function (e) {
+                e.preventDefault();
+                window.location.href = langBtn.dataset.src;
+            })
+        });
+    }());
+</script>
+</div>
+<footer class="footer-section footer-section--day">
+<div class="home__container footer-container">
+<address class="footer-address">
+V.Monomakh str, 17a, Dnipro, 49000, Ukraine <span class="footer__breakpoint"><br></span> P: +1 617 778 2988
+</address>
+<div class="footer-logo">
+&#169 Agilie 2021. All Rights Reserved
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+</div>
+<script defer="defer" src="//d12zh9bqbty5wp.cloudfront.net/assets/home_page/home-369b8ea7d11b69336fea881e3a75c12d.js" type="text/javascript"></script>
+<script type="text/javascript">
+    // WebFontConfig = { google: { families: [ 'Open+Sans:400,400italic,300,300italic,700:latin,cyrillic', 'Roboto+Slab:400,700:latin,cyrillic' ] } };
+    // WebFontConfig = { google: { families: [ 'Open+Sans:400,400italic,300,300italic,700:latin', 'Roboto+Slab:400,700:latin' ] } };
+    // (function() { var wf = document.createElement('script'); wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'; wf.type = 'text/javascript'; wf.async = 'true'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wf, s); })();
+</script>
+
+<div class="modal fade" id="subscr" tabindex="-1" role="dialog">
+<div class="modal-dialog subscribe-modal" role="document">
+<div class="modal-content">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<img alt="Ic-close" src="//d12zh9bqbty5wp.cloudfront.net/assets/redesign/ic-close-9029694d38724e321a8148990a92695b.svg" width="24" />
+</button>
+<div id="mc_embed_signup" class="text-center">
+<form action="//agilie.us15.list-manage.com/subscribe/post?u=51943de0f3ab2092fa65da481&amp;id=76b0cdbba6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate subscribe-forms" target="_blank">
+<div id="mc_embed_signup_scroll">
+<h3 style="font-size: 17px;">Receive news about mobile world every week! Subscribe to our newsletter:</h3>
+<div class="mc-field-group">
+<input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name *" required>
+</div>
+<div class="mc-field-group">
+<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address *" required>
+</div>
+<input type="text" value="" name="AREA" class="" id="mce-AREA" placeholder="Area">
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> 
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_51943de0f3ab2092fa65da481_76b0cdbba6" tabindex="-1" value=""></div>
+<div class="clear btn-block">
+<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-blue-bg">
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<script>
+    var form = document.querySelector('.modal #mc-embedded-subscribe-form');
+    form.addEventListener('submit', function () {
+        $('.modal').modal('hide');
+
+        $('#agilie-burger-menu').removeClass('open');
+        $('footer').removeClass("state-1");
+        $("#moved_content").removeClass("state-1");
+        $(".parallax-mirror").removeClass("state-1");
+        $(".parallax-mirror").css({"left": "0"});
+
+        this.AREA.value = visitor.label || visitor.most_visited;
+        updateVisitor(findOrCreateSecret(), {email: this.EMAIL.value, name: this.FNAME.value}); //Refer to exposing.js
+
+        dataLayer.push({
+            'event': 'facebookAuditoryDetermination',
+            'subscribed': true,
+            'subscriberEmail': this.EMAIL.value
+        });
+
+        dataLayer.push({
+            'event': 'subscribeEvent',
+            'subscriber': this.EMAIL.value
+        })
+    });
+</script>
+
+<span id="page_type" style="display: none;">business</span>
+<script type="text/javascript">
+    adroll_adv_id = "6P3HRSQQH5BS3OFAUFPYRK";
+    adroll_pix_id = "KHDHXNVQ3NEN5MWJSP2JM5";
+
+    (function () {
+        var _onload = function(){
+            if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+            if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        };
+        if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+        else {window.attachEvent('onload', _onload)}
+    }());
+</script>
+</body>
+</html>

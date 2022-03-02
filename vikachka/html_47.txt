@@ -1,0 +1,1463 @@
+
+<!DOCTYPE HTML>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-RU" lang="ru-RU"
+>
+
+<head>
+<meta name="yandex-verification" content="f6e2ecd580a957b6" />
+<meta name="google-site-verification" content="b33tZyGmTjSf9MenBxA_2C-i6dB7Mmq84lVO_Sxx_vI" />
+  <base href="http://it-hr.ru/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Webtutor, оценка персонала, система сдо, поддержка сдо, e-learning, lms, разработка электронных курсов, управление сдо" />
+  <meta name="description" content="IT-HR компания занимается разработкой и внедрением систем дистанционного обучения webtutor, и поддержкой сдо." />
+  <title>IT-HR</title>
+  <link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/traction/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+  <style type="text/css">.s5boxhidden{display:none;} </style>
+  <script language="javascript" type="text/javascript" >var s5_boxeffect = "elastic";</script>
+  <script src="http://it-hr.ru/modules/mod_s5_box/js/s5box.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="http://it-hr.ru/modules/mod_s5_box/css/s5box.css" type="text/css" />
+  <script type="text/javascript">$(window).addEvent("domready", function(){							
+								new S5Box(".s5box_register", { width:"40%", inline:true, href:"#s5box_register" }); 
+								new S5Box(".s5box_login", {width:"25%", inline:true, href:"#s5box_login"}); 
+								new S5Box(".s5box_one", {width:"35%", inline:true, href:"#s5box_one"}); 
+								new S5Box(".s5box_two", {width:"35%", inline:true, href:"#s5box_two"}); 
+								new S5Box(".s5box_three", {width:"35%", inline:true, href:"#s5box_three"});
+								new S5Box(".s5box_four", {width:"35%", inline:true, href:"#s5box_four"}); 
+								new S5Box(".s5box_five", {width:"35%", inline:true, href:"#s5box_five"}); 
+								new S5Box(".s5box_six", {width:"35%", inline:true, href:"#s5box_six"}); 
+								new S5Box(".s5box_seven", {width:"35%", inline:true, href:"#s5box_seven"}); 
+								new S5Box(".s5box_eight", {width:"35%", inline:true, href:"#s5box_eight"}); 
+								new S5Box(".s5box_nine", {width:"35%", inline:true, href:"#s5box_nine"}); 
+								new S5Box(".s5box_ten", {width:"35%", inline:true, href:"#s5box_ten"});
+							});</script>
+  <script language="javascript" type="text/javascript">var s5_hidecar = "false";</script>
+  <script language="javascript" type="text/javascript">var s5_hidebut = "true";</script>
+  <script language="javascript" type="text/javascript">var s5_hidetext = "true";</script>
+  <script type="text/javascript">var s5_slide_opacity=1</script>
+  <script language="javascript" type="text/javascript">var s5_dropdowntext = "Open Gallery";</script>
+  <script src="http://it-hr.ru/modules/mod_s5_image_and_content_fader/js/jd.gallery.js" type="text/javascript"></script>
+  <script src="http://it-hr.ru/modules/mod_s5_image_and_content_fader/js/jd.gallery.transitions.js" type="text/javascript"></script>
+
+
+
+
+
+<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+
+	<script type="text/javascript">
+	//<![CDATA[
+				        window.addEvent('domready', function() {
+		            var myMenu = new MenuMatic({
+				tabletWidth:1400,
+                effect:"slide & fade",
+                duration:1000,
+                physics: Fx.Transitions.Pow.easeOut,
+                hideDelay:500,
+                orientation:"horizontal",
+                tweakInitial:{x:0, y:0},
+                                     	            direction:{    x: 'right',    y: 'down' },
+				                opacity:100            });
+        });		
+			//]]>	
+    </script>    
+<!-- Css and js addons for vertex features -->	
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Exo" />
+<style type="text/css"> 
+
+
+
+
+/* MAX IMAGE WIDTH */
+
+img {
+height:auto !important;
+max-width:100% !important;
+-webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box !important;    /* Firefox, other Gecko */
+box-sizing: border-box !important;         /* Opera/IE 8+ */
+}
+
+.full_width {
+width:100% !important;
+-webkit-box-sizing: border-box !important; /* Safari/Chrome, other WebKit */
+-moz-box-sizing: border-box !important;    /* Firefox, other Gecko */
+box-sizing: border-box !important;         /* Opera/IE 8+ */
+}
+
+
+
+
+.S5_submenu_itemTablet{
+background:none !important;
+}
+
+#s5_right_wrap, #s5_left_wrap, #s5_right_inset_wrap, #s5_left_inset_wrap, #s5_right_top_wrap, #s5_left_top_wrap, #s5_right_bottom_wrap, #s5_left_bottom_wrap {
+width:100% !important;
+}
+#s5_right_column_wrap {
+width:0% !important;
+margin-left:-0% !important;
+}
+#s5_left_column_wrap {
+width:0% !important;
+}
+#s5_center_column_wrap_inner {
+margin-right:0% !important;
+margin-left:0% !important;
+}
+
+#s5_responsive_modile_drop_down_wrap input {
+width:96% !important;
+}
+#s5_responsive_mobile_drop_down_search input {
+width:100% !important;
+}
+
+
+
+@media screen and (max-width: 750px){
+	body {
+	height:100% !important;
+	position:relative !important;
+	padding-bottom:48px !important;
+	}
+}
+
+@media screen and (max-width: 970px){
+	#subMenusContainer .S5_subtext {
+	width:85%;
+	}
+}
+
+
+	#s5_responsive_mobile_bottom_bar, #s5_responsive_mobile_top_bar {
+	background:#0B0B0B;
+	background: -moz-linear-gradient(top, #272727 0%, #0B0B0B 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#272727), color-stop(100%,#0B0B0B)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* Opera11.10+ */
+	background: -ms-linear-gradient(top, #272727 0%,#0B0B0B 100%); /* IE10+ */
+	background: linear-gradient(top, #272727 0%,#0B0B0B 100%); /* W3C */
+			font-family: Exo !important;
+	}
+	
+	.s5_responsive_mobile_drop_down_inner, .s5_responsive_mobile_drop_down_inner input, .s5_responsive_mobile_drop_down_inner button, .s5_responsive_mobile_drop_down_inner .button, #s5_responsive_mobile_drop_down_search .validate {
+	font-family: Exo !important;
+	}
+	
+	.s5_responsive_mobile_drop_down_inner button:hover, .s5_responsive_mobile_drop_down_inner .button:hover {
+	background:#0B0B0B !important;
+	}
+	
+	#s5_responsive_mobile_drop_down_menu, #s5_responsive_mobile_drop_down_menu a, #s5_responsive_mobile_drop_down_login a {
+	font-family: Exo !important;
+	color:#FFFFFF !important;
+	}
+	
+	#s5_responsive_mobile_bar_active, #s5_responsive_mobile_drop_down_menu .current a, .s5_responsive_mobile_drop_down_inner .s5_mod_h3, .s5_responsive_mobile_drop_down_inner .s5_h3_first {
+	color:#FA9635 !important;
+	}
+	
+	.s5_responsive_mobile_drop_down_inner button, .s5_responsive_mobile_drop_down_inner .button {
+	background:#FA9635 !important;
+	}
+	
+	#s5_responsive_mobile_drop_down_menu .active ul li, #s5_responsive_mobile_drop_down_menu .current ul li a, #s5_responsive_switch_mobile a, #s5_responsive_switch_desktop a, #s5_responsive_modile_drop_down_wrap {
+	color:#FFFFFF !important;
+	}
+	
+	#s5_responsive_mobile_toggle_click_menu span {
+	border-right:solid 1px #272727;
+	}
+
+	#s5_responsive_mobile_toggle_click_menu {
+	border-right:solid 1px #0B0B0B;
+	}
+
+	#s5_responsive_mobile_toggle_click_search span, #s5_responsive_mobile_toggle_click_register span, #s5_responsive_mobile_toggle_click_login span, #s5_responsive_mobile_scroll a {
+	border-left:solid 1px #272727;
+	}
+
+	#s5_responsive_mobile_toggle_click_search, #s5_responsive_mobile_toggle_click_register, #s5_responsive_mobile_toggle_click_login, #s5_responsive_mobile_scroll {
+	border-left:solid 1px #0B0B0B;
+	}
+
+	.s5_responsive_mobile_open, .s5_responsive_mobile_closed:hover, #s5_responsive_mobile_scroll:hover {
+	background:#272727;
+	}
+
+	#s5_responsive_mobile_drop_down_menu .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_register .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_login .s5_responsive_mobile_drop_down_inner, #s5_responsive_mobile_drop_down_search .s5_responsive_mobile_drop_down_inner {
+	background:#272727;
+	}
+
+
+
+
+
+	.s5_wrap {
+	max-width:1000px !important;
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		@media screen and (min-width:580px) and (max-width: 1100px){
+		
+					
+			#s5_top_row1 .s5_float_left {
+			width:100% !important;
+			}
+
+		}
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+		@media screen and (min-width:580px) and (max-width: 750px){
+		
+					
+			#s5_bottom_row2 .s5_float_left {
+			float:left !important;
+			width:50% !important;
+			}
+
+		}
+		
+		
+		
+		
+		
+		
+	
+
+
+	
+		
+	
+		@media screen and (min-width:580px) and (max-width: 750px){
+		
+					
+			#s5_bottom_row3 .s5_float_left {
+			float:left !important;
+			width:50% !important;
+			}
+
+		}
+		
+		
+		
+		
+		
+		
+	
+
+
+
+
+</style><script type="text/javascript">//<![CDATA[
+
+
+window.addEvent('domready', function() {
+	function s5_register_url() {
+		window.location = "http://it-hr.ru/component/users/?view=registration";
+	}
+	if (document.getElementById("s5_register")) {
+	document.getElementById("s5_register").className = "";
+	document.getElementById("s5_register").onclick = s5_register_url;
+	if (document.getElementById("s5_register").href) {
+		document.getElementById("s5_register").href = "javascript:;";
+	}
+	}
+});
+
+//]]></script>
+<script type="text/javascript" src="http://it-hr.ru/templates/traction/js/s5_flex_menu.js"></script>
+<link rel="stylesheet" href="http://it-hr.ru/templates/traction/css/s5_flex_menu.css" type="text/css" />
+	
+<link rel="stylesheet" href="http://it-hr.ru/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="http://it-hr.ru/templates/system/css/general.css" type="text/css" />
+
+<link href="http://it-hr.ru/templates/traction/css/template_default.css" rel="stylesheet" type="text/css" />
+<link href="http://it-hr.ru/templates/traction/css/template.css" rel="stylesheet" type="text/css" />
+
+
+<link href="http://it-hr.ru/templates/traction/css/com_content.css" rel="stylesheet" type="text/css" />
+
+<link href="http://it-hr.ru/templates/traction/css/editor.css" rel="stylesheet" type="text/css" />
+
+<link href="http://it-hr.ru/templates/traction/css/thirdparty.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=ABeeZee" />
+
+
+
+<link href="http://it-hr.ru/templates/traction/css/multibox/multibox.css" rel="stylesheet" type="text/css" />
+<link href="http://it-hr.ru/templates/traction/css/multibox/ajax.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://it-hr.ru/templates/traction/js/multibox/overlay.js"></script>
+<script type="text/javascript" src="http://it-hr.ru/templates/traction/js/multibox/multibox.js"></script>
+
+
+<link href="http://it-hr.ru/templates/traction/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<script type="text/javascript" src="http://it-hr.ru/templates/traction/js/s5_font_adjuster.js"></script>
+
+
+
+	<link rel="stylesheet" type="text/css" href="http://it-hr.ru/templates/traction/css/s5_responsive_bars.css" />
+	<link href="http://it-hr.ru/templates/traction/css/s5_responsive_hide_classes.css" rel="stylesheet" type="text/css" />
+
+
+	<link rel="stylesheet" type="text/css" href="http://it-hr.ru/templates/traction/css/s5_responsive.css" />
+	
+	
+
+<link rel="stylesheet" type="text/css" href="http://it-hr.ru/templates/traction/css/custom.css" />
+<!-- Info Slide Script - Called in header so css validates -->	
+<link href="http://it-hr.ru/templates/traction/css/s5_info_slide.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://it-hr.ru/templates/traction/js/s5_info_slide.js"></script>
+
+
+<!-- File compression. Needs to be called last on this file -->	
+<!-- The excluded files, listed below the compressed php files, are excluded because their calls vary per device or per browser. Included compression files are only ones that have no conditions and are included on all devices and browsers. Otherwise unwanted css will compile in the compressed files. -->	
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Exo:800,600,400" />
+
+
+
+
+<style type="text/css"> 
+
+body {font-family: 'ABeeZee',Helvetica,Arial,Sans-Serif ;} 
+
+
+
+.inputbox, .registration input, .login input, .contact-form input, #jform_contact_message, #mod-search-searchword, input, textarea, #s5_breadcrumb_font_wrap, .font_normal {
+
+font-family: Exo;
+
+font-weight: 400 !important;
+
+}
+
+
+
+#s5_nav li a, #subMenusContainer a, #s5_nav li li a, #s5_login, #s5_register, .pagenav a, label {
+
+font-family: Exo;
+
+font-weight: 600 !important;
+
+}
+
+
+
+.jdGallery .slideInfoZone h2, .button, #s5_responsive_modile_drop_down_wrap .button, div.catItemReadMore, .userItemReadMore, div.catItemCommentsLink, .userItemCommentsLink, a.readmore-link, a.comments-link, div.itemCommentsForm form input#submitCommentButton, .s5_mod_h3_outer, #s5_button_frame ul li a, h1, h2, h3, h4, h5, .black_bg, .font_bold, #s5_drop_down_button, #s5_responsive_mobile_drop_down_menu, #s5_responsive_mobile_drop_down_menu a, #s5_responsive_mobile_bar_active span {
+
+font-family: Exo;
+
+font-weight: 800 !important;
+
+}
+
+
+
+#s5_accordion_menu #current a, #s5_accordion_menu a:hover, #s5_accordion_menu h3.s5_am_toggler:hover a.mainlevel, ul.menu .current a, .btn-link, .jdGallery .slideInfoZone p a, .highlight, #s5_bottom_menu_wrap a, p.readmore a:hover, a.readon:hover  {
+
+color:#FA9635 !important;
+
+}
+
+
+
+#s5_nav li.active a, a {
+
+color:#FA9635;
+
+}
+
+
+
+#s5_nav li.active:hover a, #s5_nav li.mainMenuParentBtnFocused {
+
+color:#FFFFFF !important;
+
+}
+
+
+
+#s5_nav li.mainMenuParentBtnFocused, #subMenusContainer div ul, #s5_nav li:hover, .button, .module_round_box-dark_highlight .s5_mod_h3_outer, .s5_ts_active, .s5_is_display h3, .s5_is_slide, .module_round_box-highlight {
+
+background:#FA9635 !important;
+
+}
+
+
+
+.jdGallery a.right, .jdGallery a.left, .jdGallery a.right:hover, .jdGallery a.left:hover, .s5_scrolltotop:hover, .pagenav a {
+
+background-color:#FA9635 !important;
+
+}
+
+
+
+.module_round_box-highlight {
+
+border:solid 1px #FA9635;
+
+}
+
+
+
+
+
+
+.jdGallery .slideInfoZone h2, #s5_bars_wrap, h1, h2, h3, h4, h5, #s5_menu_wrap li a, .S5_submenu_item a, .button, label, li.s5_am_inner_li span.s5_accordion_menu_left a.mainlevel, #s5_button_frame ul li a,#s5_login, #s5_register,  .btn.pagenav a, #s5_drop_down_button, .uppercase, #s5_responsive_mobile_drop_down_menu, #s5_responsive_mobile_drop_down_menu a, #s5_responsive_mobile_bar_active span {
+
+text-transform:uppercase;
+
+}
+
+
+
+
+
+body {
+
+background:#1B1B1B url(http://it-hr.ru/images/background.jpg) repeat;
+
+}
+
+
+
+
+
+
+
+
+body {
+
+background-attachment:fixed;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* k2 stuff */
+
+div.itemHeader h2.itemTitle, div.catItemHeader h3.catItemTitle, h3.userItemTitle a, #comments-form p, #comments-report-form p, #comments-form span, #comments-form .counter, #comments .comment-author, #comments .author-homepage,
+
+#comments-form p, #comments-form #comments-form-buttons, #comments-form #comments-form-error, #comments-form #comments-form-captcha-holder {font-family: 'ABeeZee',Helvetica,Arial,Sans-Serif ;} 
+
+  
+
+.s5_wrap{width:100%;}  
+
+</style>
+
+</head>
+
+
+
+<body id="s5_body">
+
+
+
+<div id="s5_scrolltotop"></div>
+
+
+
+<!-- Top Vertex Calls -->
+
+<!-- Call top bar for mobile devices if layout is responsive -->	
+	
+<!-- s5_responsive_mobile_top_bar_spacer must be called to keep a space at the top of the page since s5_responsive_mobile_top_bar_wrap is position absolute. -->	
+<div id="s5_responsive_mobile_top_bar_spacer"></div>
+
+<!-- s5_responsive_mobile_top_bar_wrap must be called off the page and not with display:none or it will cause issues with the togglers. -->
+<div id="s5_responsive_mobile_top_bar_wrap" style="margin-top:-50000px;position:absolute;z-index:20;top:0px">
+
+	<div id="s5_responsive_mobile_top_bar" class="s5_responsive_mobile_bar_light">
+
+			<div id="s5_responsive_mobile_toggle_click_menu" style="display:block;float:left">
+				<span></span>
+			</div>
+			
+							<div id="s5_responsive_mobile_bar_active">
+					<span>
+						 Главная					</span>
+				</div>
+						
+			<div id="s5_responsive_mobile_toggle_click_login" style="display:none;float:right">
+				<span></span>
+			</div>
+			
+			<div id="s5_responsive_mobile_toggle_click_register" style="display:block;float:right">
+				<span></span>
+			</div>
+			
+			<div id="s5_responsive_mobile_toggle_click_search" style="display:block;float:right">
+				<span></span>
+			</div>
+
+		<div style="clear:both;height:0px"></div>
+		
+	</div>
+
+	<div id="s5_responsive_modile_drop_down_wrap" class="s5_responsive_modile_drop_down_wrap_loading">
+		<div id="s5_responsive_mobile_drop_down_menu">
+			<div class="s5_responsive_mobile_drop_down_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+									
+<ul class="menu">
+<li class="item-102 current active"><a href="/" > Главная</a></li><li class="item-134 deeper parent"><span class="separator">Услуги</span>
+<ul><li class="item-285"><a href="/services/sdo.html" >Автоматизация процесса обучения</a></li><li class="item-112"><a href="/services/recruitment_system_adoption.html" >Автоматизация процесса подбора</a></li><li class="item-288"><a href="/services/assessment_system.html" >Автоматизация системы оценки</a></li><li class="item-296"><a href="/services/courses.html" >Разработка электронных курсов</a></li></ul></li><li class="item-295"><a href="/portfolio.html" >Портфолио</a></li><li class="item-223 deeper parent"><span class="separator">Решения</span>
+<ul><li class="item-293"><a href="/solutions/sdo_rule.html" >Управление СДО</a></li></ul></li><li class="item-120 deeper parent"><span class="separator">О нас</span>
+<ul><li class="item-304"><a href="/aboutus/about_company.html" >О компании</a></li><li class="item-310"><a href="/aboutus/jobs.html" >Вакансии</a></li><li class="item-129"><a href="/aboutus/contactus.html" >Контакты</a></li></ul></li></ul>
+							</div>
+		</div>
+		
+		<div id="s5_responsive_mobile_drop_down_search">
+			<div class="s5_responsive_mobile_drop_down_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+								  					<form method="post" action="http://it-hr.ru/">
+						<input type="text" onfocus="if (this.value=='Поиск...') this.value='';" onblur="if (this.value=='') this.value='Поиск...';" value="Поиск..." id="s5_responsive_mobile_search" name="searchword" />
+						<input type="hidden" value="search" name="task" />
+						<input type="hidden" value="com_search" name="option" />
+						<input type="hidden" value="1" name="Itemid" />
+					</form>
+							</div>
+		</div>
+		
+		<div id="s5_responsive_mobile_drop_down_login">
+			<div class="s5_responsive_mobile_drop_down_inner" id="s5_responsive_mobile_drop_down_login_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+			</div>
+		</div>
+		
+			
+		<div id="s5_responsive_mobile_drop_down_register">
+			<div class="s5_responsive_mobile_drop_down_inner" id="s5_responsive_mobile_drop_down_register_inner" style="-webkit-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);-moz-box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.6);">
+			</div>
+		</div>
+		
+					
+	</div>
+
+</div>
+
+<script language="JavaScript" type="text/javascript">
+	var s5_responsive_login_url = "";
+	var s5_responsive_register_url = "http://it-hr.ru/component/users/?view=registration";
+</script>
+<script type="text/javascript" language="javascript" src="http://it-hr.ru/templates/traction/js/s5_responsive_mobile_bar.js"></script>
+
+<!-- Fixed Tabs -->	
+
+<!-- Drop Down -->	
+
+
+
+<!-- Body Padding Div Used For Responsive Spacing -->    
+
+<div id="s5_body_padding">
+
+
+
+
+
+  <!-- Header -->      
+
+    <div id="s5_header_area1">    
+
+    <div id="s5_header_area2">  
+
+    <div id="s5_header_area_inner" class="s5_wrap">          
+
+      <div id="s5_header_wrap">
+
+      
+
+        <div id="s5_logo_search_wrap">
+
+          
+            <div id="s5_social_bar">
+
+                
+
+              <!--
+                <div id="s5_google" onclick="window.open('javascript:;')"></div>
+
+              -->  
+
+              
+              <!--
+                <div id="s5_rss" onclick="window.open('javascript:;')"></div>
+
+              -->
+
+              <div style="clear:both; height:0px"></div>  
+
+            </div>
+
+            <div style="clear:both; height:0px"></div>  
+
+          
+          <div id="s5_logo_wrap">
+
+            
+              <img src="http://it-hr.ru/templates/traction/images/logo_it-hr.png" id="s5_logo" onclick="window.document.location.href='http://it-hr.ru/'" />
+
+            
+            <div style="clear:both; height:0px"></div>  
+
+          </div>
+
+          
+
+          
+            <div id="s5_search_wrap">
+
+              		<div class="moduletable">
+			
+
+<div class="custom"  >
+	<div class="western" style="margin-top: 0cm; margin-bottom: 0cm; border: none; padding: 0cm; line-height: 1.77cm;"><strong><span style="color: #fa9635;"><span style="font-family: Exo;"><span style="font-size: 18pt;">+7 (495) 117-49-23 </span></span></span></strong></div></div>
+		</div>
+	
+
+            </div>
+
+          
+          
+
+          <div style="clear:both; height:0px"></div>  
+
+        </div>    
+
+        <div style="clear:both; height:0px"></div>  
+
+      
+
+        
+          <div id="s5_menu_wrap">
+
+            <ul id='s5_nav' class='menu'><li class='active'><span class='s5_level1_span1'><span class='s5_level1_span2'><a href='http://it-hr.ru/'><span onclick='window.document.location.href="http://it-hr.ru/"'> Главная</span></a></span></span></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href='javascript:;'><span onclick='window.document.location.href="javascript:;"'>Услуги</span></a></span></span><ul style='float:left;'><li><span class='S5_submenu_item'><a href='/services/sdo.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/services/sdo.html"'>Автоматизация процесса обучения</span></a></span></li><li><span class='S5_submenu_item'><a href='/services/recruitment_system_adoption.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/services/recruitment_system_adoption.html"'>Автоматизация процесса подбора</span></a></span></li><li><span class='S5_submenu_item'><a href='/services/assessment_system.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/services/assessment_system.html"'>Автоматизация системы оценки</span></a></span></li><li><span class='S5_submenu_item'><a href='/services/courses.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/services/courses.html"'>Разработка электронных курсов</span></a></span></li></ul></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href='/portfolio.html'><span onclick='window.document.location.href="/portfolio.html"'>Портфолио</span></a></span></span></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href='javascript:;'><span onclick='window.document.location.href="javascript:;"'>Решения</span></a></span></span><ul style='float:left;'><li><span class='S5_submenu_item'><a href='/solutions/sdo_rule.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/solutions/sdo_rule.html"'>Управление СДО</span></a></span></li></ul></li><li ><span class='s5_level1_span1'><span class='s5_level1_span2'><a href='javascript:;'><span onclick='window.document.location.href="javascript:;"'>О нас</span></a></span></span><ul style='float:left;'><li><span class='S5_submenu_item'><a href='/aboutus/about_company.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/aboutus/about_company.html"'>О компании</span></a></span></li><li><span class='S5_submenu_item'><a href='/aboutus/jobs.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/aboutus/jobs.html"'>Вакансии</span></a></span></li><li><span class='S5_submenu_item'><a href='/aboutus/contactus.html'><span class='s5_sub_a_span' onclick='window.document.location.href="/aboutus/contactus.html"'>Контакты</span></a></span></li></ul></li></ul>
+            
+
+               
+
+          <div style="clear:both; height:0px"></div>  
+
+        
+  
+
+      </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+  <!-- End Header -->  
+
+  
+
+  
+    <div id="s5_pos_custom_1" class="s5_wrap">
+
+      		<div class="moduletable">
+			
+
+
+
+
+
+	
+	
+		<script type="text/javascript">//<![CDATA[
+		document.write('<link href="http://it-hr.ru/modules/mod_s5_image_and_content_fader/css/s5imagecontent.css" rel="stylesheet" type="text/css" media="screen" />');
+	//]]></script>
+		<script>
+			
+		function s5_icfstartGallery() { 
+				document.getElementById("s5_iacf_content_wrap").style.display = 'block';
+				window.myGallery = new gallery($('myGallery'), {
+						timed: true,
+						showArrows: true,
+						showCarousel: false,
+						showInfopane: true,				
+							
+						delay: 7000,
+							
+													defaultTransition: "continuoushorizontal"
+							
+							
+											});	
+					$('myGallery').addEvent('mouseover',function(){window.myGallery.clearTimer();});
+					$('myGallery').addEvent('mouseout',function(){window.myGallery.prepareTimer();});
+			}
+	function s5_icfstartGalleryload() {
+	s5_icfstartGallery();}
+	window.setTimeout(s5_icfstartGalleryload,400);	
+	</script>
+
+			<div class="content" style="position:relative;z-index:0">
+			<div id="myGallery" style="width:100%;">
+							<div id="myGallery_height">
+					<img id="myGallery_height_img" alt="" src="/images/automation.jpg" />
+				</div>
+						<div id="s5_iacf_content_wrap" style="display:none">
+								<div class="imageElement" style="z-index:0;">
+					<h3>Автоматизация процесса обучения</h3>
+					<p style="text-shadow:1px 1px #000000;">Доработка систем дистанционного обучения.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/automation.jpg" alt="Автоматизация процесса обучения" class="full" />
+					<img src="/images/automation.jpg" alt="Автоматизация процесса обучения" class="thumbnail" />
+					
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>Аудит и оптимизация работы СДО</h3>
+					<p style="text-shadow:1px 1px #000000;">Всесторонний аудит СДО, автоматизация и интеграция с другими системами компании.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/8.png" alt="Аудит и оптимизация работы СДО" class="full" />
+					<img src="/images/8.png" alt="Аудит и оптимизация работы СДО" class="thumbnail" />
+				</div>
+												<div class="imageElement" style="z-index:0;">
+					<h3>Разработка электронных курсов</h3>
+					<p style="text-shadow:1px 1px #000000;">Разработка дистанционных курсов любого уровня сложности. Создание интерактивной учебной среды.</p>
+					<a href="javascript:;" title="open image" class="open"></a>
+					<img src="/images/elearn4_1.jpg" alt="Разработка электронных курсов" class="full" />
+					<img src="/images/elearn4_1.jpg" alt="Разработка электронных курсов" class="thumbnail" />
+				</div>
+																																			</div>
+			</div>
+		</div>
+	
+
+
+	
+<script type="text/javascript">//<![CDATA[
+    document.write('<style>.jdGallery .slideElement {background-size:100% auto;}@media screen and (max-width: 0px) {#myGallery { height:350px !important; } .jdGallery .slideElement {background-size:auto auto !important;}}</style>');
+//]]></script>
+
+
+
+
+
+		</div>
+	
+
+    </div>
+
+    <div style="clear:both; height:0px"></div>  
+
+  
+  
+
+  
+
+  <!-- Top Row1 --> 
+
+    
+  <!-- End Top Row1 -->  
+
+
+
+    
+
+  
+  <div id="s5_top_gap" class="s5_wrap"></div>
+
+  
+    
+
+  <!-- Top Row2 -->  
+
+    
+  <!-- End Top Row2 -->
+
+  
+
+  
+
+  
+
+  <!-- Top Row3 -->  
+
+    
+  <!-- End Top Row3 -->  
+
+    
+
+    
+
+    
+
+  <!-- Center area -->  
+
+    
+    <div id="s5_center_area1">
+
+    <div id="s5_center_area2">
+
+    <div id="s5_center_area_inner" class="s5_wrap">
+
+    
+
+    <!-- Above Columns Wrap -->  
+
+      
+    <!-- End Above Columns Wrap -->      
+
+        
+
+      <!-- Columns wrap, contains left, right and center columns -->  
+
+      <div id="s5_columns_wrap">
+
+      <div id="s5_columns_wrap_inner">
+
+        
+
+        <div id="s5_center_column_wrap">
+
+        <div id="s5_center_column_wrap_inner" style="margin-left:0px; margin-right:0px;">
+
+          
+
+          
+          
+
+          
+            
+
+            <div id="s5_component_wrap">
+
+            <div id="s5_component_wrap_inner">
+
+            
+
+              
+                  
+
+              
+              
+
+                
+<div id="system-message-container">
+</div>
+<div class="blog-featured">
+
+	
+	
+			<div class="items-row cols-1 row-0">
+				<div class="item column-1">
+			
+	<h2>
+					О нашей компании			</h2>
+
+
+
+
+
+
+
+<p style="margin-bottom: 0cm;">Мы - команда профессионалов в IT и HR областях, и наша цель - предоставление качественных услуг в сфере автоматизации работы с персоналом – подбора, учета, обучения, развития и оценки персонала, а так же сопутствующей отчетности.<br /><br />Наша компания ежедневно и эффективно решает нетривиальные задачи в сфере автоматизации работы с персоналом в организациях самого различного масштаба и географического положения – от ритейла с небольшой численностью персонала до территориально-промышленных комплексов с численностью персонала в десятки тысяч человек.</p>
+<p><a class="readon" href="/aboutus/about_company.html">Подробнее...</a></p>
+
+
+<div class="item-separator"></div>
+		</div>
+									<span class="row-separator"></span>
+				</div>
+
+				
+
+
+</div>
+
+
+                <div style="clear:both;height:0px"></div>
+
+                
+
+              
+              
+
+              
+              
+
+            </div>
+
+            </div>
+
+            
+
+          
+          
+
+          
+          
+
+        </div>
+
+        </div>
+
+        <!-- Left column -->  
+
+        
+        <!-- End Left column -->  
+
+        <!-- Right column -->  
+
+        
+        <!-- End Right column -->  
+
+      </div>
+
+      </div>
+
+      <!-- End columns wrap -->  
+
+      
+
+    <!-- Below Columns Wrap -->  
+
+      
+    <!-- End Below Columns Wrap -->        
+
+      
+
+      
+
+    </div>
+
+    </div>
+
+    </div>
+
+    
+  <!-- End Center area -->  
+
+  
+
+  
+
+  <!-- Bottom Row1 -->  
+
+    
+  <!-- End Bottom Row1 -->  
+
+    
+
+    
+
+  <!-- Bottom Row2 -->  
+
+    
+    <div id="s5_bottom_row2_area1">
+
+    <div id="s5_bottom_row2_area2">
+
+    <div id="s5_bottom_row2_area_inner" class="s5_wrap">      
+
+    
+
+      <div id="s5_bottom_row2_wrap">
+
+        <div id="s5_bottom_row2">
+
+        <div id="s5_bottom_row2_inner">          
+
+          
+            <div id="s5_pos_bottom_row2_1" class="s5_float_left" style="width:25%">
+
+              	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div style="background:#E51F1F" class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Автоматизация </span></h3>
+						</div>
+						<div style="clear:both"></div>
+												
+
+<div class="customE51F1F"  >
+	<p><a href="/services/sdo.html"><img src="/images/auto.jpeg" border="0" alt="Автоматизация" title="Автоматизация" width="323" height="244" style="border: 0;" /></a><br />Статьи по автоматизации различных систем.</p>
+<p><a class="readon" href="/services/sdo.html">Подробнее...</a></p></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+
+            </div>
+
+          
+          
+
+          
+            <div id="s5_pos_bottom_row2_2" class="s5_float_left" style="width:25%">
+
+              	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div style="background:#3B5998" class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Готовые </span> решения</h3>
+						</div>
+						<div style="clear:both"></div>
+												
+
+<div class="custom3B5998"  >
+	<p><a href="/portfolio.html"><img src="/images/solutions1.jpeg" border="0" alt="Готовые Решения" title="Готовые Решения" width="323" height="244" style="border: 0;" /></a></p>
+<p><br />Уже реализованные нами проекты.</p>
+<p><a class="readon" href="/portfolio.html">Подробнее...</a></p></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+
+            </div>
+
+          
+          
+
+          
+            <div id="s5_pos_bottom_row2_3" class="s5_float_left" style="width:25%">
+
+              	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div style="background:#568001" class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">О </span> компании</h3>
+						</div>
+						<div style="clear:both"></div>
+												
+
+<div class="custom568001"  >
+	<p><a href="/aboutus/about_company.html"><img src="/images/team1.jpeg" border="0" alt="О компании" title="О компании" style="border: 0;" /></a></p>
+<p>Информационные статьи о нашей компании.</p>
+<p><a class="readon" href="/aboutus/about_company.html">Подробнее...</a></p></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+
+            </div>
+
+          
+          
+
+          
+            <div id="s5_pos_bottom_row2_4" class="s5_float_left" style="width:25%">
+
+              	
+					
+						
+				
+		<div class="module_round_box_outer">
+		
+		<div class="module_round_box">
+
+
+				<div class="s5_module_box_1">
+					<div class="s5_module_box_2">
+												<div style="background:#660275" class="s5_mod_h3_outer">
+							<h3 class="s5_mod_h3"><span class="s5_h3_first">Вакансии </span></h3>
+						</div>
+						<div style="clear:both"></div>
+												
+
+<div class="custom660275"  >
+	<p><a href="/aboutus/jobs.html" title="Вакансии"><img src="/images/jobs.jpeg" border="0" alt="Вакансии" title="Вакансии" /></a><br />Открытые вакансии в компании IT-HR</p>
+<p><a class="readon" href="/aboutus/jobs.html">Подробнее...</a></p></div>
+						<div style="clear:both; height:0px"></div>
+					</div>
+				</div>
+
+			
+		</div>
+		
+		</div>
+
+	
+
+            </div>
+
+          
+          
+
+          
+          
+
+                      
+
+          <div style="clear:both; height:0px"></div>
+
+        </div>
+
+        </div>  
+
+      </div>  
+
+        
+
+    </div>
+
+    </div>
+
+    </div>
+
+    
+  <!-- End Bottom Row2 -->
+
+  
+
+  
+
+  
+
+  <!-- Bottom Row3 -->  
+
+    
+  <!-- End Bottom Row3 -->
+
+  
+
+  
+  <div id="s5_breadcrumb_font_wrap" class="s5_wrap">
+
+  <div id="s5_breadcrumb_font_wrap_inner">
+
+    
+      <div id="s5_breadcrumb_wrap">
+
+        		<div class="moduletable">
+			
+<div class="breadcrumbs">
+<span>Главная</span></div>
+		</div>
+	
+
+      </div>
+
+    
+    
+
+    
+      <div id="fontControls"></div>
+
+    
+    <div style="clear:both; height:0px"></div>
+
+  </div>
+
+  </div>
+
+  
+  
+
+  
+
+  <!-- Footer Area -->
+
+    <div id="s5_footer_area1">
+
+    <div id="s5_footer_area2">
+
+    <div id="s5_footer_area_inner" class="s5_wrap">
+
+    
+
+      
+        <div id="s5_footer_module">
+
+          		<div class="moduletable">
+			
+
+<div class="custom"  >
+	<center></center><center><span id="cloak72583">Этот адрес электронной почты защищен от спам-ботов. У вас должен быть включен JavaScript для просмотра.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak72583').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy72583 = '&#105;nf&#111;' + '&#64;';
+ addy72583 = addy72583 + '&#105;t-hr' + '&#46;' + 'r&#117;';
+ var addy_text72583 = '&#105;nf&#111;' + '&#64;' + '&#105;t-hr' + '&#46;' + 'r&#117;';
+ document.getElementById('cloak72583').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy72583 + '\'>'+addy_text72583+'<\/a>';
+ //-->
+ </script>, 2013-2019</center><center></center></div>
+		</div>
+	
+
+        </div>  
+
+      
+      
+
+      
+        <div id="s5_bottom_menu_wrap">
+
+          		<div class="moduletable">
+			
+<ul class="menu">
+<li class="item-208 active"><a href="/" >Главная</a></li><li class="item-209"><a href="/about_company.html" >О компании</a></li><li class="item-211"><a href="/new.html" >Новости</a></li><li class="item-212"><a href="http://it-hr.ru/aboutus/contactus.html" >Контакты</a></li><li class="item-292"><a href="http://it-hr.ru/aboutus/jobs.html" >Вакансии</a></li></ul>
+		</div>
+			<div class="moduletable-s5_box">
+			
+<script type="text/javascript" src="http://it-hr.ru/modules/mod_s5_box/js/s5_box_hide_div.js"></script>
+
+
+  
+
+	
+	
+		</div>
+	
+
+        </div>  
+
+      
+      <div style="clear:both; height:0px"></div>
+
+      
+
+    </div>
+
+    </div>
+
+    </div>
+
+  <!-- End Footer Area -->
+
+  
+
+  
+
+  
+
+  <!-- Bottom Vertex Calls -->
+
+  <!-- Page scroll, tooltips, multibox, and ie6 warning -->	
+	<!-- Start compression if enabled -->	
+				<div id="s5_scroll_wrap" class="s5_wrap">
+			<script type="text/javascript">
+function s5_scrollit() { new SmoothScroll({ duration: 800 }); }
+function s5_scrollitload() {s5_scrollit();}
+window.setTimeout(s5_scrollitload,400);
+</script>
+<div id="s5_scrolltopvar">
+<a href="#s5_scrolltotop" class="s5_scrolltotop"></a>
+</div>		</div>
+		
+	<script type="text/javascript">
+		window.addEvent('domready',function(){
+			$$('.s5mb').each(function(z,i){if(!$(z).getAttribute('rel'))$(z).setAttribute('rel','[me]');});
+			});
+		var s5mbox = {};
+		
+				
+		        window.addEvent('domready', function() {
+				
+		
+		window.s5mbox = new multiBox({
+			mbClass: '.s5mb',//class you need to add links that you want to trigger multiBox with (remember and update CSS files)
+			container: $(document.body),//where to inject multiBox
+			path: 'http://it-hr.ru/templates/traction/js/multibox/',//path to mp3player and flvplayer etc
+			useOverlay: true,//detect overlay setting
+			maxSize: {w:600, h:400},//max dimensions (width,height) - set to null to disable resizing
+			movieSize: {w:400, h:300},
+			addDownload: false,//do you want the files to be downloadable?
+			descClassName: 's5_multibox',//the class name of the description divs
+			pathToDownloadScript: 'http://it-hr.ru/templates/traction/js/multibox/forceDownload.asp',//if above is true, specify path to download script (classicASP and ASP.NET versions included)
+			addRollover: true,//add rollover fade to each multibox link
+			addOverlayIcon: false,//adds overlay icons to images within multibox links
+			addChain: false,//cycle through all images fading them out then in
+			recalcTop: true,//subtract the height of controls panel from top position
+			addTips: true,//adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)
+			autoOpen: 0//to auto open a multiBox element on page load change to (1, 2, or 3 etc)
+		});
+
+		});
+						Eventx.onResizend(function(){		
+				s5mbox.resize(); 
+			});
+						
+	</script>
+
+
+<script type="text/javascript">//<![CDATA[
+	var s5_lazyload = "all";
+//]]></script>
+<script type="text/javascript" language="javascript" src="http://it-hr.ru/templates/traction/js/lazy_load.js"></script>			
+<script type="text/javascript">//<![CDATA[
+	var s5_resize_columns = "all";
+	var s5_resize_columns_delay = "500";
+	var s5_resize_columns_small_tablets = "default";
+//]]></script>
+<script type="text/javascript" language="javascript" src="http://it-hr.ru/templates/traction/js/s5_columns_equalizer.js"></script>	
+<!-- Additional scripts to load just before closing body tag -->
+	
+<!-- Info Slide script - JS and CSS called in header -->
+		<script type='text/javascript'>
+	$$('.s5_is_slide').each(function(item,index){item.wrapInner(new Element('div',{'class':'s5_is_display'}));});  
+	var options = {wrapperId:"s5_body"};
+	new Slidex(options);
+	</script>
+		
+<!-- File compression. Needs to be called last on this file -->	
+		
+<!-- Responsive Bottom Mobile Bar -->
+	<!-- Call bottom bar for mobile devices if layout is responsive -->	
+	<div id="s5_responsive_mobile_bottom_bar_outer" style="display:none">
+	<div id="s5_responsive_mobile_bottom_bar" class="s5_responsive_mobile_bar_light">
+		<!-- Call mobile links if links are enabled and cookie is currently set to mobile -->	
+					<div id="s5_responsive_switch_mobile">
+				<a id="s5_responsive_switch" href="/?s5_responsive_switch_ithrru=0">Desktop Version</a>
+			</div>
+		
+					<div id="s5_responsive_mobile_scroll">
+				<a href="#s5_scrolltotop" class="s5_scrolltotop"></a>
+			</div>
+				<div style="clear:both;height:0px"></div>
+	</div>
+	</div>
+
+<!-- Call bottom bar for all devices if user has chosen to see desktop version -->	
+
+  
+
+</div>
+
+<noindex>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+
+<script type='text/javascript'>
+
+(function(){ var widget_id = 'JuAMixRKFE';var d=document;var w=window;function l(){
+
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();</script>
+
+<!-- {/literal} END JIVOSITE CODE -->  
+</noindex>
+
+
+</body>
+
+</html>
+
+                            

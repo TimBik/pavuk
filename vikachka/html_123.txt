@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Главная - Intellectual General Solutions</title>
+      <meta name='robots' content='index, follow, max-video-preview:-1, max-snippet:-1, max-image-preview:large' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://i-gs.ru/" />
+	<meta property="og:locale" content="ru_RU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Главная - Intellectual General Solutions" />
+	<meta property="og:url" content="https://i-gs.ru/" />
+	<meta property="og:site_name" content="Intellectual General Solutions" />
+	<meta property="article:modified_time" content="2017-12-19T09:52:27+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://i-gs.ru/#website","url":"https://i-gs.ru/","name":"Intellectual General Solutions","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://i-gs.ru/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ru-RU"},{"@type":"WebPage","@id":"https://i-gs.ru/#webpage","url":"https://i-gs.ru/","name":"Главная - Intellectual General Solutions","isPartOf":{"@id":"https://i-gs.ru/#website"},"datePublished":"2017-12-09T19:04:46+00:00","dateModified":"2017-12-19T09:52:27+00:00","breadcrumb":{"@id":"https://i-gs.ru/#breadcrumb"},"inLanguage":"ru-RU","potentialAction":[{"@type":"ReadAction","target":["https://i-gs.ru/"]}]},{"@type":"BreadcrumbList","@id":"https://i-gs.ru/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Главная страница"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/i-gs.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.5"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://i-gs.ru/wp-includes/css/dist/block-library/style.min.css?ver=5.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://i-gs.ru/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://i-gs.ru/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css'  href='//i-gs.ru/wp-content/uploads/pum/pum-site-styles.css?generated=1645798145&#038;ver=1.16.4' type='text/css' media='all' />
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://i-gs.ru/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.9' type='text/css' media='all' />
+<script type='text/javascript' src='https://i-gs.ru/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://i-gs.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js?ver=2.2.0' id='google-jquery-js'></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"backFocus":false,"trapFocus":false,"thumbs":{"hideOnClose":false},"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"\u041d\u0430\u0437\u0430\u0434","NEXT":"\u0414\u0430\u043b\u0435\u0435","PLAY_START":"\u041d\u0430\u0447\u0430\u0442\u044c \u0441\u043b\u0430\u0439\u0434-\u0448\u043e\u0443 (P)","PLAY_STOP":"\u041e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043b\u0430\u0439\u0434-\u0448\u043e\u0443 (P)","FULL_SCREEN":"\u041f\u043e\u043b\u043d\u043e\u044d\u043a\u0440\u0430\u043d\u043d\u044b\u0439 \u0440\u0435\u0436\u0438\u043c (F)","THUMBS":"\u041c\u0438\u043d\u0438\u0430\u0442\u044e\u0440\u044b (G)","CLOSE":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c (Esc)","ERROR":"\u041d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0448\u0435\u043d\u043d\u043e\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435. <br\/> \u041f\u043e\u0432\u0442\u043e\u0440\u0438\u0442\u0435 \u043f\u043e\u043f\u044b\u0442\u043a\u0443 \u043f\u043e\u0437\u0436\u0435."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/i-gs.ru\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://i-gs.ru/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.9' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://i-gs.ru/wp-json/" /><link rel="alternate" type="application/json" href="https://i-gs.ru/wp-json/wp/v2/pages/4" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://i-gs.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://i-gs.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.5" />
+<link rel='shortlink' href='https://i-gs.ru/' />
+<link rel="alternate" type="application/json+oembed" href="https://i-gs.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fi-gs.ru%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://i-gs.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fi-gs.ru%2F&#038;format=xml" />
+<style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>    <link href=https://i-gs.ru/wp-content/themes/igs/img/logos/favicon.png rel="shortcut icon">
+    <meta content="width=device-width,initial-scale=1,maximum-scale=1" name="viewport">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/font-awesome.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/icons.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/animate.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/swiper.min.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/swiper-slider.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/owl.carousel.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/default.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/styles.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/jquery.circliful.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/style.css" rel="stylesheet">
+    <link href="https://i-gs.ru/wp-content/themes/igs/css/rensponsive.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700&amp;subset=latin-ext,vietnamese" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+  </head>
+  <body>
+  <div id=preloader>
+      <div class="row loader">
+          <div class=loader-icon></div>
+      </div>
+  </div>
+  <header>
+      <nav class="navbar navbar-custom navbar-default"data-offset-top=50 data-spy=affix>
+          <div class=container>
+              <div class=row>
+                  <div class="navbar-header navbar-header-custom"><button class="collapsed menu-icon navbar-toggle"data-target=#bs-example-navbar-collapse-1 data-toggle=collapse aria-expanded=false type=button><span class=icon-bar></span> <span class=icon-bar></span> <span class=icon-bar></span></button> <a href="/" class=navbar-logo><img alt=logo src=https://i-gs.ru/wp-content/themes/igs/img/logos/logotip.png></a></div>
+                  <div class="information_block">
+                      <div class="kont_info">
+                                                                                                                                      <a class="telefon" onclick="ga('send', 'event', 'telefon', 'click', 'telclick')" href="tel:+74997097900" >+7 (499) 709-79-00</a><br>
+                                                                                                            <a class="email" href="mailto:sales@i-gs.ru" target="_blank">sales@i-gs.ru</a>
+                                                </div>
+                      <div class="vr_rb"><span>Режим работы:<br></span> Пн. - Пт. с 10:00 до 19:00</div>
+                  </div>
+                  <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-glavnoe-menyu" class="nav navbar-links-custom navbar-nav navbar-right"><li id="menu-item-6" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-6"><a href="https://i-gs.ru/" aria-current="page" class="dropdown-toggle">Главная</a></li>
+<li id="menu-item-166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166"><a href="/products/" class="dropdown-toggle">Продукты</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157"><a href="/solutions/" class="dropdown-toggle">Решения</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://i-gs.ru/distribuciya/" class="dropdown-toggle">Дистрибуция</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://i-gs.ru/o-kompanii/" class="dropdown-toggle">О компании</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://i-gs.ru/kontakty/" class="dropdown-toggle">Контакты</a></li>
+</ul></div>              </div>
+          </div>
+      </nav>
+  </header>
+ 
+    <div class="block-section home_products">
+        <div class=container>
+            <div class="center-holder main-heading">
+                <h2>Продукты</h2>
+            </div>
+            <div class="row">
+                <div class="mt-50">
+                                                                                                <div class="col-xs-12 col-md-4 col-sm-6">
+                        <article class="hover-shadow article-block">
+                                                            <a href="https://i-gs.ru/products/igs-ss-detector/"><img  alt="IGS SS Detector" width="100px" data-src="/wp-content/uploads/2020/07/icons8-поиск-50.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2020/07/icons8-поиск-50.png" alt="IGS SS Detector" width="100px" /></noscript></a>
+                                                        <h4><a href="https://i-gs.ru/products/igs-ss-detector/">IGS SS Detector</a></h4>
+                            <div class="desc"><p>Автоматическая проверка наличия подписи и печати в оригиналах документов</p>
+</div>
+                            <a href="https://i-gs.ru/products/igs-ss-detector/" class=button-text>Читать далее</a>
+                        </article>
+                    </div>
+                                                                                                    <div class="col-xs-12 col-md-4 col-sm-6">
+                        <article class="hover-shadow article-block">
+                                                            <a href="https://i-gs.ru/products/igs-cloud/"><img  alt="IGS Cloud" width="100px" data-src="/wp-content/uploads/2019/03/clouds.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2019/03/clouds.png" alt="IGS Cloud" width="100px" /></noscript></a>
+                                                        <h4><a href="https://i-gs.ru/products/igs-cloud/">IGS Cloud</a></h4>
+                            <div class="desc"><p>Все продукты IGS доступны в облаке</p>
+</div>
+                            <a href="https://i-gs.ru/products/igs-cloud/" class=button-text>Читать далее</a>
+                        </article>
+                    </div>
+                                                                                                    <div class="col-xs-12 col-md-4 col-sm-6">
+                        <article class="hover-shadow article-block">
+                                                            <a href="https://i-gs.ru/products/igs-comparator/"><img  alt="IGS Comparator" width="100px" data-src="/wp-content/uploads/2018/03/icon4.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/03/icon4.png" alt="IGS Comparator" width="100px" /></noscript></a>
+                                                        <h4><a href="https://i-gs.ru/products/igs-comparator/">IGS Comparator</a></h4>
+                            <div class="desc"><p>Сравнение скан-образов документа с исходным текстовым файлом</p>
+</div>
+                            <a href="https://i-gs.ru/products/igs-comparator/" class=button-text>Читать далее</a>
+                        </article>
+                    </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+
+    <div class="block-section grey-section home_solutions">
+        <div class=container>
+            <div class="center-holder main-heading">
+                <h2>Решения</h2>
+            </div>
+            <section class="our-services-carousel mt-50">
+                <div class=row>
+                    <div class="owl-carousel owl-theme"id=our-services-carousel>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/ecm-sistema/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/ecm-sistema/"><img src="" alt="ECM Система" /></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/ecm-sistema/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/ecm-sistema/">ECM Система</a></h4>
+                                    <div class="desc"><p>ECM система для управления документами и бизнес-процессами, а так же хранением документов на базе платформы TESSA.</p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/ecm-sistema/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/otkritie-scheta/"><img  alt="Открытие счёта" data-src="https://i-gs.ru/wp-content/uploads/2018/05/9-e1593692193461.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/uploads/2018/05/9-e1593692193461.jpg" alt="Открытие счёта" /></noscript></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/otkritie-scheta/"><img  alt="Открытие счёта" data-src="/wp-content/uploads/2018/01/icons8-рубль-50.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/01/icons8-рубль-50.png" alt="Открытие счёта" /></noscript></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/otkritie-scheta/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/otkritie-scheta/">Открытие счёта</a></h4>
+                                    <div class="desc"><p>Решение по ускорению процесса открытие счета в банке. Оптимизация процесса открытия счета.</p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/otkritie-scheta/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/raschyotno-kassovoe-obsluzhivanie/"><img  alt="Расчётно-кассовое обслуживание" data-src="https://i-gs.ru/wp-content/uploads/2018/05/3-e1593692175440.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/uploads/2018/05/3-e1593692175440.jpg" alt="Расчётно-кассовое обслуживание" /></noscript></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/raschyotno-kassovoe-obsluzhivanie/"><img  alt="Расчётно-кассовое обслуживание" data-src="/wp-content/uploads/2018/01/icons8-чек-80-2.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/01/icons8-чек-80-2.png" alt="Расчётно-кассовое обслуживание" /></noscript></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/raschyotno-kassovoe-obsluzhivanie/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/raschyotno-kassovoe-obsluzhivanie/">Расчётно-кассовое обслуживание</a></h4>
+                                    <div class="desc"><p>Автоматизация операций ввода в АС РКО документов, поступающих от клиентов банка на бумажных носителях.</p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/raschyotno-kassovoe-obsluzhivanie/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/uregulirovanie-ubytkov/"><img  alt="Урегулирование убытков" data-src="https://i-gs.ru/wp-content/uploads/2018/05/6-e1593692166216.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/uploads/2018/05/6-e1593692166216.jpg" alt="Урегулирование убытков" /></noscript></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/uregulirovanie-ubytkov/"><img  alt="Урегулирование убытков" data-src="/wp-content/uploads/2018/01/icons8-страховка-автомобиля-50.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/01/icons8-страховка-автомобиля-50.png" alt="Урегулирование убытков" /></noscript></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/uregulirovanie-ubytkov/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/uregulirovanie-ubytkov/">Урегулирование убытков</a></h4>
+                                    <div class="desc"><p>Управление урегулированием убытков позволяет контролировать затраты компании.</p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/uregulirovanie-ubytkov/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/potokovyj-vvod-platyozhnyx-poruchenij/"><img  alt="Потоковый ввод платёжных поручений" data-src="https://i-gs.ru/wp-content/uploads/2018/05/8-e1593692185106.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/uploads/2018/05/8-e1593692185106.jpg" alt="Потоковый ввод платёжных поручений" /></noscript></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/potokovyj-vvod-platyozhnyx-poruchenij/"><img  alt="Потоковый ввод платёжных поручений" data-src="/wp-content/uploads/2018/01/icons8-сканирование-изображения-50.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/01/icons8-сканирование-изображения-50.png" alt="Потоковый ввод платёжных поручений" /></noscript></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/potokovyj-vvod-platyozhnyx-poruchenij/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/potokovyj-vvod-platyozhnyx-poruchenij/">Потоковый ввод платёжных поручений</a></h4>
+                                    <div class="desc"><p>Решение ориентировано на банки и позволяет осуществить быстрый потоковый ввод данных в банки и финансовые учреждения. </p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/potokovyj-vvod-platyozhnyx-poruchenij/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/dokumenty-gos-organov/"><img  alt="Документы гос. органов" data-src="https://i-gs.ru/wp-content/uploads/2018/05/7-e1593692156969.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/uploads/2018/05/7-e1593692156969.jpg" alt="Документы гос. органов" /></noscript></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/dokumenty-gos-organov/"><img  alt="Документы гос. органов" data-src="/wp-content/uploads/2018/01/icons8-московский-кремль-50.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/01/icons8-московский-кремль-50.png" alt="Документы гос. органов" /></noscript></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/dokumenty-gos-organov/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/dokumenty-gos-organov/">Документы гос. органов</a></h4>
+                                    <div class="desc"><p>Автоматизация процесса ввода данных с документов на бумажных носителях с последующим сохранением данных в учётной системе компании в условиях жёстких временных ограничений.</p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/dokumenty-gos-organov/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                                                                                                                                                    <div class="item hover-shadow our-services">
+                                                                    <a href="https://i-gs.ru/solutions/igs-scanstation/"><img  alt="IGS потоковый ввод и хранение данных" data-src="https://i-gs.ru/wp-content/uploads/2018/05/4-e1593692135831.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/uploads/2018/05/4-e1593692135831.jpg" alt="IGS потоковый ввод и хранение данных" /></noscript></a>
+                                                                                                    <!--a href="https://i-gs.ru/solutions/igs-scanstation/"><img  alt="IGS потоковый ввод и хранение данных" data-src="/wp-content/uploads/2018/01/icons8-распознавание-рукописного-текста-50.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="/wp-content/uploads/2018/01/icons8-распознавание-рукописного-текста-50.png" alt="IGS потоковый ввод и хранение данных" /></noscript></a-->
+                                                                    <!--a href="https://i-gs.ru/solutions/igs-scanstation/"><img alt=services-image src=https://i-gs.ru/wp-content/themes/igs/img/content/services/serv-1.jpg></a-->
+                                                                <div class=content-our-services>
+                                    <h4><a href="https://i-gs.ru/solutions/igs-scanstation/">IGS потоковый ввод и хранение данных</a></h4>
+                                    <div class="desc"><p>Данное решение позволяет добиться максимальной эффективности в процессах, связанных с потоковым вводом документов и задачами хранении данных.</p>
+</div>
+                                    <a href="https://i-gs.ru/solutions/igs-scanstation/" class=button-text>Читать далее</a>
+                                </div>
+                            </div>
+                                            </div>
+                                    </div>
+            </section>
+        </div>
+    </div>
+
+
+   
+    <div class=parallax-section style=background-image:url(https://i-gs.ru/wp-content/themes/igs/img/content/backgrounds/section-bg1.jpg)>
+        <div class=container>
+            <div class="center-holder main-heading">
+                <h2>Применение наших решений позволяет нашим клиентам:</h2>
+            </div>
+            <div class="row mt-50">
+                <div class=counter-section>
+                    <div class="col-xs-12 col-sm-6 col-md-4 counter-item">
+                        <img  alt="" data-src="https://i-gs.ru/wp-content/themes/igs/img/info/icons8-noytbok-100.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/themes/igs/img/info/icons8-noytbok-100.png" alt="" /></noscript>
+                        <h3>Обрабатывать</h3>
+                        <h4 class=countup>70 000 000</h4>
+                        <p>документов в год</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 counter-item">
+                        <img  alt="" data-src="https://i-gs.ru/wp-content/themes/igs/img/info/icons8-clock-100.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/themes/igs/img/info/icons8-clock-100.png" alt="" /></noscript>
+                        <h3>Экономить</h3>
+                        <h4 class=countup>500 000</h4>
+                        <p>человеко-часов в год</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-4 counter-item">
+                        <img  alt="" data-src="https://i-gs.ru/wp-content/themes/igs/img/info/icons8-symka-deneg-100.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://i-gs.ru/wp-content/themes/igs/img/info/icons8-symka-deneg-100.png" alt="" /></noscript>
+                        <h3>Экономить</h3>
+                        <h4 class=countup>375 000 000</h4>
+                        <p>рублей в год</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="block-section grey-section">
+        <div class=container>
+            <div class="center-holder main-heading">
+                <h2>Отзывы</h2>
+            </div>
+            <section class=testmonials-section>
+                <div class=row>
+                    <div class="owl-carousel owl-theme"id=testmonials-carousel>
+                        <div class="item testmonial-item">
+                            <div class=content-testmonial-item>
+                                <a href="https://i-gs.ru/wp-content/themes/igs/img/otziv/allianz-about-igs-1.jpg" data-fancybox-group="gallery" class="fb-link ari-fancybox"><img alt="allianz-about-igs"  data-src="https://i-gs.ru/wp-content/themes/igs/img/otziv/allianz-about-igs-1-min.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img alt="allianz-about-igs" src="https://i-gs.ru/wp-content/themes/igs/img/otziv/allianz-about-igs-1-min.jpg"></noscript></a>
+                            </div>
+                        </div>
+                        <div class="item testmonial-item">
+                            <div class=content-testmonial-item>
+                                <a href="https://i-gs.ru/wp-content/themes/igs/img/otziv/20140326-1.jpg" data-fancybox-group="gallery" class="fb-link ari-fancybox"><img alt="Ингосстрах_Благодарственное письмо_20140326-1"  data-src="https://i-gs.ru/wp-content/themes/igs/img/otziv/20140326-1-min.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img alt="Ингосстрах_Благодарственное письмо_20140326-1" src="https://i-gs.ru/wp-content/themes/igs/img/otziv/20140326-1-min.jpg"></noscript></a>
+                            </div>
+                        </div>
+                        <div class="item testmonial-item">
+                            <div class=content-testmonial-item>
+                                <a href="https://i-gs.ru/wp-content/themes/igs/img/otziv/tv-1.jpg" data-fancybox-group="gallery" class="fb-link ari-fancybox"><img alt="Триколор ТВ-1"  data-src="https://i-gs.ru/wp-content/themes/igs/img/otziv/tv-1-min.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img alt="Триколор ТВ-1" src="https://i-gs.ru/wp-content/themes/igs/img/otziv/tv-1-min.jpg"></noscript></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+ 
+    <div class="clearfix"></div>
+	
+    <footer class=footer>
+        <div class=container>
+            <div class=row>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <a href=#><img alt="Intellectual General Solutions"  data-src="https://i-gs.ru/wp-content/themes/igs/img/logos/logotip.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img alt="Intellectual General Solutions" src="https://i-gs.ru/wp-content/themes/igs/img/logos/logotip.png"></noscript></a>
+                    <div class="text-content white-color">
+                        <h5></h5>
+                        &copy; 2022, Intellectual General Solutions                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <div class=footer-heading>
+                        <h4>Контакты</h4>
+                    </div>
+                    <div class=footer-contact>
+                        <ul>
+                            <li><i class="fa fa-map-marker"></i>117556, г. Москва, Симферопольский бульвар, д. 3Г</li>
+                            <li><i class="fa fa-clock-o"></i>Пн. - Пт. с 10:00 до 19:00</li>
+                            <li><i class="fa fa-envelope-o"></i> Email:
+                                                                                                     <a class="email" href="mailto:sales@i-gs.ru" target="_blank">sales@i-gs.ru</a>
+                                                            </li>
+                            <li><i class="fa fa-phone"></i> Тел.:
+                                                                                                                                                                     <a class="telefon" onclick="ga('send', 'event', 'telefon', 'click', 'telclick')" href="tel:+74997097900">+7 (499) 709-79-00</a>
+                                                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <div class=footer-heading>
+                        <h4>Категории</h4>
+                    </div>
+                    <div class="mt-20 footer-menu"><ul id="menu-footer-menu" class=""><li id="menu-item-167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-167"><a href="/products/">Продукты</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a href="/solutions/">Решения</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://i-gs.ru/distribuciya/">Дистрибуция</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://i-gs.ru/o-kompanii/">О компании</a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420"><a href="https://i-gs.ru/dokumenty/">Документы</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://i-gs.ru/kontakty/">Контакты</a></li>
+</ul></div>
+                </div>
+                <!--div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class=footer-heading>
+                        <h4>Рассылка новостей</h4>
+                    </div>
+                    <form class="footer-form mt-30"><input name=email placeholder="E-mail adress"type=email> <button class="button button-simple full-width">Подписаться</button></form>
+                    <div class="center-holder footer-social-link mt-30">
+                        <ul>
+                            <li><a href=#><i class="fa fa-facebook"></i></a>
+                            <li><a href=#><i class="fa fa-twitter"></i></a>
+                            <li><a href=#><i class="fa fa-instagram"></i></a>
+                            <li><a href=#><i class="fa fa-pinterest"></i></a>
+                        </ul>
+                    </div>
+                </div-->
+            </div>
+        </div>
+    </footer>
+
+    <a href=# class=scroll-to-top><i class="fa fa-angle-up"aria-hidden=true></i></a>
+
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/jquery.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/bootstrap.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/swiper.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/owl.carousel.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/wow.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/jquery.counterup.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/waypoints.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/isotope.pkgd.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/tabs.min.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/typed.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/modernizr.js"></script>
+    <script src="https://i-gs.ru/wp-content/themes/igs/js/main.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery("#validate").keyup(function(){
+                var email = jQuery("#validate").val();
+                if(email != 0) {
+                    if(isValidEmailAddress(email)) {
+                        jQuery("input#validate").css({"border": "1px solid #eee"});
+                    } else {
+                        jQuery("input#validate").css({"border": "1px solid red"});
+                    }
+                } else {
+                    jQuery("#validate").css({"border": "none"});
+                }
+            });
+        });
+
+        function isValidEmailAddress(emailAddress) {
+            var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+            return pattern.test(emailAddress);
+        }
+
+        jQuery('#menu-glavnoe-menyu a').on('click touchend', function(e) {
+            var el = jQuery(this);
+            var link = el.attr('href');
+            window.location = link;
+        });
+
+        jQuery('#raschet-ctoimost').on('change', '.uploaded-file', function() {
+            uploadFile('#raschet-ctoimost .uploaded-file', '#raschet-ctoimost .file-names ul', '#raschet-ctoimost .file-upload label span.color-red');
+        });
+        jQuery('#raschet-ctoimost-mobile').on('change', '.uploaded-file', function() {
+            uploadFile('#raschet-ctoimost-mobile .uploaded-file', '#raschet-ctoimost-mobile .file-names ul', '#raschet-ctoimost-mobile .file-upload label span.color-red');
+        });
+
+        function uploadFile(files, list, error){
+            var files  = jQuery(files).prop("files");  
+            var filesExt = ['pdf', 'doc', 'docx', 'zip'];          
+            var $attachedFilesList = jQuery(list);
+            var file_error = jQuery(error);
+
+            $attachedFilesList.html('');
+            var arr = [];
+            if (files.length > 0 ) {
+                for (var i = 0; i < files.length; i++) {
+                    $attachedFilesList.append('<li>' + files[i].name + '</li>');
+                    var parts = files[i].name.split('.');
+                    if(filesExt.join().search(parts[parts.length - 1]) != -1){
+                        arr.push('Good!');
+                    } else {
+                        arr.push('WTF?!');
+                    }
+                }
+                if($.inArray("WTF?!", arr) != -1){
+                    file_error.html('Разрещены только файлы - pdf, doc, docx, zip');
+                }else{
+                    file_error.html('');
+                }
+            } else {
+                $attachedFilesList.html('нет прикреплённых файлов');
+            }
+        }
+
+    </script>
+
+    <!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(54448276, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/54448276" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><div id="pum-475" class="pum pum-overlay pum-theme-471 pum-theme-enterprise-blue popmake-overlay click_open" data-popmake="{&quot;id&quot;:475,&quot;slug&quot;:&quot;demonstration-reshenie&quot;,&quot;theme_id&quot;:471,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;tiny&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_475">
+
+	<div id="popmake-475" class="pum-container popmake theme-471 pum-responsive pum-responsive-tiny responsive size-tiny">
+
+				
+
+				            <div id="pum_popup_title_475" class="pum-title popmake-title">
+				Запросить демонстрацию решения			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<div role="form" class="wpcf7" id="wpcf7-f477-o1" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f477-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="477" />
+<input type="hidden" name="_wpcf7_version" value="5.5.6" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f477-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="fonm_cont primary-form">
+<hr>
+<label> Ваше имя (обязательно)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Ваше Имя" /></span> </label></p>
+<p><label> Ваш телефон (обязательно)<br />
+    <span class="wpcf7-form-control-wrap your-tell"><input type="tel" name="your-tell" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel tel" aria-required="true" aria-invalid="false" placeholder="+7(999)999-999-99" /></span> </label></p>
+<p><label> Ваш e-mail (обязательно)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" id="validate" aria-required="true" aria-invalid="false" placeholder="Ваш Email" /></span> </label></p>
+<div class="checkbox"><label><span class="wpcf7-form-control-wrap acceptance-619"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><input type="checkbox" name="acceptance-619" value="1" aria-invalid="false" checked="checked" /></span></span></span><span class="cr"><i class="cr-icon fa fa-check"></i></span><span class="text">Я даю согласие на обработку своих персональных данных</span></label> </div>
+<div class=center-holder><button class="mt-30 kontact" type="submit">Отправить</button></div>
+</div>
+<input type='hidden' class='wpcf7-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Закрыть">
+			X            </button>
+		
+	</div>
+
+</div>
+<div id="pum-480" class="pum pum-overlay pum-theme-471 pum-theme-enterprise-blue popmake-overlay click_open" data-popmake="{&quot;id&quot;:480,&quot;slug&quot;:&quot;polychit-konsyltation&quot;,&quot;theme_id&quot;:471,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;tiny&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true" aria-labelledby="pum_popup_title_480">
+
+	<div id="popmake-480" class="pum-container popmake theme-471 pum-responsive pum-responsive-tiny responsive size-tiny">
+
+				
+
+				            <div id="pum_popup_title_480" class="pum-title popmake-title">
+				Получить консультацию			</div>
+		
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<div role="form" class="wpcf7" id="wpcf7-f193-o2" lang="ru-RU" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f193-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="193" />
+<input type="hidden" name="_wpcf7_version" value="5.5.6" />
+<input type="hidden" name="_wpcf7_locale" value="ru_RU" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f193-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</div>
+<div class="fonm_cont primary-form">
+<hr>
+<label> Ваше имя (обязательно)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Ваше Имя" /></span> </label></p>
+<p><label> Ваш телефон (обязательно)<br />
+    <span class="wpcf7-form-control-wrap your-tell"><input type="tel" name="your-tell" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel tel" aria-required="true" aria-invalid="false" placeholder="+7(999)999-999-99" /></span> </label></p>
+<p><label> Ваш e-mail (обязательно)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" id="validate" aria-required="true" aria-invalid="false" placeholder="Ваш Email" /></span> </label></p>
+<div class="checkbox"><label><span class="wpcf7-form-control-wrap acceptance-619"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><input type="checkbox" name="acceptance-619" value="1" aria-invalid="false" checked="checked" /></span></span></span><span class="cr"><i class="cr-icon fa fa-check"></i></span><span class="text">Я даю согласие на обработку своих персональных данных</span></label> </div>
+<div class=center-holder><button class="mt-30 kontact" type="submit">Отправить</button></div>
+</div>
+<input type='hidden' class='wpcf7-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Закрыть">
+			X            </button>
+		
+	</div>
+
+</div>
+    <script type="text/javascript">
+        jQuery( function($){
+            $(".phone").mask("+7(999) 999-99-99");
+        });
+    </script>
+<script type='text/javascript' src='https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://i-gs.ru/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/i-gs.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+var wpcf7 = {"api":{"root":"https:\/\/i-gs.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+var wpcf7 = {"api":{"root":"https:\/\/i-gs.ru\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://i-gs.ru/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://i-gs.ru/wp-content/themes/igs/js/jquery.circliful.min.js' id='main-js'></script>
+<script type='text/javascript' src='https://i-gs.ru/wp-content/themes/igs/js/jquery.maskedinput.min.js' id='maskedinput-js'></script>
+<script type='text/javascript' src='https://i-gs.ru/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.16.4","pm_dir_url":"https:\/\/i-gs.ru\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/i-gs.ru\/wp-admin\/admin-ajax.php","restapi":"https:\/\/i-gs.ru\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"469","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/i-gs.ru\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/i-gs.ru\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-475":{"triggers":[],"cookies":[],"disable_on_tablet":false,"disable_on_mobile":false,"atc_promotion":null,"type_section":null,"explain":null,"theme_id":"471","size":"tiny","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","custom_sound":"","open_sound":"none","location":"center top","position_bottom":"0","position_top":"100","position_right":"0","position_left":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_accessibility":false,"disable_form_reopen":false,"theme_slug":"enterprise-blue","id":475,"slug":"demonstration-reshenie"},"pum-480":{"triggers":[],"cookies":[],"disable_on_tablet":false,"disable_on_mobile":false,"atc_promotion":null,"type_section":null,"explain":null,"theme_id":"471","size":"tiny","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","custom_sound":"","open_sound":"none","location":"center top","position_bottom":"0","position_top":"100","position_right":"0","position_left":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_accessibility":false,"disable_form_reopen":false,"theme_slug":"enterprise-blue","id":480,"slug":"polychit-konsyltation"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//i-gs.ru/wp-content/uploads/pum/pum-site-scripts.js?defer&#038;generated=1645798145&#038;ver=1.16.4' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LfO8JwUAAAAAHQP1uJP-IyugRHDRhXyOWamzoMD&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LfO8JwUAAAAAHQP1uJP-IyugRHDRhXyOWamzoMD","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://i-gs.ru/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://i-gs.ru/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.9.5' id='smush-lazy-load-js'></script>
+<script type='text/javascript' src='https://i-gs.ru/wp-includes/js/wp-embed.min.js?ver=5.7.5' id='wp-embed-js'></script>
+
+    </body>
+</html>
