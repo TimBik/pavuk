@@ -3,7 +3,7 @@ import pymorphy2
 morph = pymorphy2.MorphAnalyzer()
 
 name_file = "tokens/word_text_"
-for i in range(1, 149):
+for i in range(1, 107):
     tokens = open(name_file + str(i) + ".txt", "r").readlines()
     lems = {}
     for token in tokens:
